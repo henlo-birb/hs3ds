@@ -52,6 +52,18 @@ int Text::GetHeight(int index) const
     return this->font->GetHeight();
 }
 
+static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text) {
+    std::vector <u32> colorData;
+    u32 length = 0;
+    for (auto cs: text) {
+        colorData.push_back(length);
+        colorData.push_back(C2D_Color32f(cs.color.r, cs.color.g, cs.color.b, cs.color.a));
+        length += cs.string.length();
+    }
+    return colorData;
+}
+
+
 void Text::Set(const std::vector<Font::ColoredString>& text)
 {
     return this->Set(text, -1.0f, Font::ALIGN_MAX_ENUM);
@@ -66,6 +78,7 @@ void Text::Set(const std::vector<Font::ColoredString>& text, float wrap, Font::A
 
     this->wrap  = wrap;
     this->align = align;
+    this->colors = GetColors(text);
 
     C2D_TextBufClear(this->buffer);
     C2D_TextFontParse(&this->text, this->font->GetFont(), this->buffer, this->textCache.c_str());
@@ -91,7 +104,7 @@ int Text::Addf(const std::vector<Font::ColoredString>& text, float wrap, Font::A
         throw love::Exception("addf cannot handle multiple wraps and aligns on this console.");
 
     this->textCache += this->GetString(text);
-
+    this->colors = GetColors(text);
     this->wrap  = wrap;
     this->align = align;
 
@@ -109,9 +122,9 @@ void Text::Draw(Graphics* gfx, const Matrix4& localTransform)
     Matrix4 t(gfx->GetTransform(), localTransform);
     C2D_ViewRestore(&t.GetElements());
 
-    Colorf color = gfx->GetColor();
+//    Colorf color = gfx->GetColor();
 
-    u32 renderColorf = C2D_Color32f(color.r, color.g, color.b, color.a);
+//    u32 renderColorf = C2D_Color32f(color.r, color.g, color.b, color.a);
     u32 flags        = C2D_WithColor;
 
     u32 alignMode = C2D_WordWrap;
@@ -141,7 +154,7 @@ void Text::Draw(Graphics* gfx, const Matrix4& localTransform)
 
     /* wrap will be discarded if there's no align mode specified */
     C2D_DrawText(&this->text, flags, offset, 0, Graphics::CURRENT_DEPTH, this->font->GetScale(),
-                 this->font->GetScale(), renderColorf, this->wrap);
+                 this->font->GetScale(), this->colors.data(), (u32)this->colors.size(), this->wrap);
 }
 
 void Text::Clear()

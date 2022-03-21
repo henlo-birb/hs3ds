@@ -82,7 +82,7 @@ float Font::GetBaseline() const {
 void Font::GetWrap(const std::vector <Font::ColoredString> &strings, float wrapLimit,
                    std::vector <std::string> &lines, std::vector<int> *lineWidths) {}
 
-std::vector <u32> GetColors(const std::vector <Font::ColoredString> &text) {
+static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text) {
     std::vector <u32> colorData;
     u32 length = 0;
     for (auto cs: text) {

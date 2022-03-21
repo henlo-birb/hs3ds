@@ -68,32 +68,41 @@ end
 
 local function renderText(this, app)
     local c = makeC(this)
-    love.graphics.setFont(c(this.font))
-    love.graphics.printf(c(this.coloredtext), getX(this, c), getY(this, c),
-                         c(this.limit), c(this.align))
+    local new_text = c(this.coloredtext)
+    if this.last_text ~= new_text then
+        this.text_obj:setf(new_text, c(this.wrap_limit), c(this.align))
+        this.last_text = new_text
+    end
+    love.graphics.draw(this.text_obj, getX(this, c), getY(this, c), c(this.r),
+                       c(this.sx), c(this.sy), c(this.ox), c(this.oy),
+                       c(this.kx), c(this.ky))
+    -- love.graphics.setFont(c(this.font))
+
+    -- love.graphics.printf(c(this.coloredtext), getX(this, c), getY(this, c),
+    --                      c(this.wrap_limit), c(this.align))
 
 end
 
-function Text(coloredtext, font, x, y, limit, align)
+function Text(coloredtext, font, x, y, wrap_limit, align)
     local font = font or love.graphics.getFont()
     return {
         type = "text",
         coloredtext = coloredtext,
         last_text = {},
-        _coloredtext = {},
+        text_obj = love.graphics.newText(font),
         font = font,
         x = x or 0,
         y = y or 0,
         r = 0,
         sx = 1,
         sy = 1,
-        kx = 1,
-        ky = 1,
-        ox = 1,
-        oy = 1,
-        limit = limit or function()
+        kx = 0,
+        ky = 0,
+        ox = 0,
+        oy = 0,
+        wrap_limit = wrap_limit or function(this)
             local width = love.graphics.getWidth(screen);
-            limit = width;
+            this.wrap_limit = width;
             return width
         end,
         section_ys = {},
@@ -103,6 +112,47 @@ function Text(coloredtext, font, x, y, limit, align)
     }
 end
 
+local function renderScrollableText(this, app)
+    local c = makeC(this)
+    love.graphics.setFont(c(this.font))
+    love.graphics.printf(c(this.coloredtext), getX(this, c), getY(this, c),
+                         c(this.wrap_limit), c(this.align))
+end
+
+function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
+                        scroll_y)
+    local font = font or love.graphics.getFont()
+    return {
+        type = "text",
+        coloredtext = coloredtext,
+        last_text = {},
+        font = font,
+        x = x or 0,
+        y = y or 0,
+        r = 0,
+        sx = 1,
+        sy = 1,
+        kx = 0,
+        ky = 0,
+        ox = 0,
+        oy = 0,
+        wrap_limit = wrap_limit or function(this)
+            local width = love.graphics.getWidth(screen)
+            this.wrap_limit = width
+            return width
+        end,
+        view_height = view_height or function(this)
+            local height = love.graphics.getHeight(screen)
+            this.view_height = height
+            return height
+        end,
+        scroll_y = scroll_y or 0,
+        section_ys = {},
+        align = align or "left",
+        render = renderText,
+        p = merge
+    }
+end
 local function renderImage(this, app)
     local c = makeC(this)
     local new_filename = c(this.filename)
