@@ -1,0 +1,39 @@
+return {
+	title = "======>",
+	pageId = 2045,
+	timestamp = "1276887376",
+	flag = {},
+	media = {
+		"02045_1",
+		"02045_2",
+		"02045_3",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"But, what are you so happy about, Mr. Lemonsnout?",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+He looks a bit confused. He quivers his lowly proboscis at the coin. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+See? The coin has exonerated him.",
+	},
+	next = {
+		2046,
+	},
+	previous = 2044,
+}

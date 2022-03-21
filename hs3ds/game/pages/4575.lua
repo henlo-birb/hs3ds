@@ -1,0 +1,35 @@
+return {
+	title = "==>",
+	pageId = 4575,
+	timestamp = "1329610572",
+	flag = {},
+	media = {
+		"04572",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Your contraption and its busy fists just royally kicked my ass.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: And that sure as god made little green apples isnt all there is to say on the matter!",
+	},
+	next = {
+		4576,
+	},
+	previous = 4574,
+}

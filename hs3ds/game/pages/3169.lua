@@ -1,0 +1,46 @@
+return {
+	title = "Jade: Combine mecha, streetsweeper, and iron suit.",
+	pageId = 3169,
+	timestamp = "1293261565",
+	flag = {},
+	media = {
+		"03166_1",
+		"03166_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"You still have this MECHA GHOST IMAGE you made a while ago, by accident as usual. Might as well throw a bunch of crazy shit together and see what sort of insane loot crops up.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+The suspense is almost too much.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+You make...",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+YOU MAKE...........",
+	},
+	next = {
+		3170,
+	},
+	previous = 3168,
+}

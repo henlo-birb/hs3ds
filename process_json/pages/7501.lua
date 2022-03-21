@@ -1,0 +1,539 @@
+return {
+	title = "[A6A6I5] ====>",
+	pageId = 7501,
+	timestamp = "1430865036",
+	flag = {},
+	media = {
+		"07497",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: GONN4 M1SS YOU",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: SUR3 YOU H4V3 TO G3T GO1NG SO SOON?",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Yeah, I really can't waste much more time.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Just have to get all these goof8alls squared away, then I'm off.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: OH...",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Is something wrong?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: NO",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: W3LL, NOT R34LLY",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: NOTH1NG 1MPORT4NT",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: What is it?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1T'S DUMB",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: YOU'LL PROB4BLY L4UGH 4T M3",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: No I won't!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Come on, tell me. What good is having a moirail you don't feel like you can talk to?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 DUNNO",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1'M NOT SUR3 1 C4N 3V3N PUT MY F1NG3R ON WH4T'S BUGG1NG M3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 F33L L1K3 1 SHOULD B3 PSYCH3D FOR TH3 B4TTL3 4H34D",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: L1K3, PUMP3D UP TO K1LL SOM3 B4D GUYS, 4ND F1N4LLY 3ND TH1S",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: BUT 1 JUST F33L 4 L1TTL3... W31RD?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 3SP3C14LLY KNOW1NG TH4T YOU WON'T B3 H3R3",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: What does me not 8eing here have to do with anything?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WH4T 1F",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WH3N 1T'S T1M3 TO F1GHT, 4ND P3OPL3 R34LLY N33D M3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TO US3 MY \"POW3RS\" OR WH4T3V3R 1T 1S 1'M SUPPOS3D TO B3 4BL3 TO DO",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WH4T 1F 1T TURNS OUT 1'M NOT 4CTU4LLY TH4T...",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: GOOD?",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: 8ut you already proved that you are!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Another version of you 8asically saved us all, remem8er?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 KNOW, BUT",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TH4T W4S 4 D1FF3R3NT M3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WHO W3NT THROUGH SOM3 TH1NGS 1 N3V3R W3NT THROUGH, 4ND PROB4BLY F1GUR3D OUT HOW TO B3 4W3SOM3 4ND H3RO1C 4LONG TH3 W4Y",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 N3V3R D1D 4NY OF TH4T, 4ND 1 C3RT41NLY DON'T F33L 4W3SOM3 4ND H3RO1C Y3T",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 4ND",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TH1S PROB4BLY SOUNDS R34LLY DUMB BUT",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1T K1ND OF M4K3S M3 F33L GU1LTY",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Guilty? Why?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: B3C4US3 SH3 PR3TTY MUCH S4CR1F1C3D H3RS3LF",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TO M4K3 TH1NGS B3TT3R",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: SP3C1F1C4LLY, B3TT3R FOR *M3* 1 TH1NK",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TO L3T M3 L34D 4 B3TT3R L1F3, PR3SUM4BLY",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TO F1X MY PROBL3MS 1 GU3SS?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: BUT",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 DON'T F33L F1X3D",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 4CTU4LLY K1ND4 F33L 4 W31RD S3NS3 OF PR3SSUR3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TO B3 TH3 B3ST V3RS1ON OF MYS3LF, L1K3...",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: TH3 MOST PRODUCT1V3 4ND H3RO1C 4ND W3LL 4DJUST3D T3R3Z1 1N P4R4DOX SP4C3?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: BUT 1'M D3F1N1T3LY NOT TH4T T3R3Z1",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Ok, you are 8eing WAY too hard on yourself here.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I really dou8t that's what the other version of you intended!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: That's not even how shit works. People don't just get \"fixed\".",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Even if circumstances change so you have a smoother ride, you are always going to have flaws.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I guess you should always try to 8e the 8est version of yourself, 8ut I think it's also important to 8e ok with the fact that you aren't perfect.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I've got flaws too! I mean, o8viously.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: 8ut I'm mostly ok with them.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WOW. YOU DON'T S4Y???",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Hey, shut up! ::::p",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I'm just trying to offer a little perspective here!",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: Y34H, 1 KNOW",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: YOU'R3 R1GHT...",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1'LL TRY TO FORG3T 4BOUT TH1S STUFF, 4ND JUST FOCUS ON H3LP1NG OUT TH3 T34M",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1T'LL B3 H4RD DO1NG 1T W1THOUT YOU, BUT 1 GU3SS 1'V3 M4N4G3D TO DO 1T B3FOR3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 3V3N 1F 1 DON'T R3M3MB3R",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Yeah!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: You'll 8e fine. I know you can do it.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: WH3N W1LL 1 S33 YOU 4G41N?",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Some day.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I'll do my 8est to shorten the w8 for you as much as I can. Using time travel or whatever other nonsense I may have at my disposal.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: When all is said and done, I'll drop 8y Earth and look you up.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1 C4N'T W41T >:]",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: *bLITHER BABBLE, rAMBLE SELF ESTEEM, pRATTLE,*",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: *rAMBLE MUMBLE, bRAVE ALIVE HERO,*",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: *mUTTER BLITHER, fINALLY PROVE YOURSELF, bABBLE BABBLE,*",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Tavros, would you leave that poor kid alone?",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: What sort of nonsense are you telling him?",
+	},
+	next = {
+		7486,
+	},
+	previous = 7500,
+}

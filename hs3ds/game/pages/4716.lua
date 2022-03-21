@@ -1,0 +1,224 @@
+return {
+	title = "[A6I2] ==>",
+	pageId = 4716,
+	timestamp = "1332106032",
+	flag = {},
+	media = {
+		"04713",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: do not draw an arrangement of squares or otherwise interlocking polygons",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: LET GO.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you will not draw a spreadsheet for the purpose of allocating time spent with a mutual girlfriend you horses ass",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: that is exactly the shit i do not want to see",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: LOOK, I JUST DREW A SQUARE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: GET READY TO SEE A LOT MORE OF THOSE!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: stop",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: do not draw any additional squares",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: do not draw any quadrilaterals or trapezoids or rectangles or fucking n-drangles and especially as fuck not any god damned rhombuses",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i dont want to see your lines making any right angles do you understand",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IN MY MIND'S EYE I AM PICTURING A BEAUTIFUL LATTICE OF LINES AND COMPARTMENTS, INTERLOCKING WITH SUBLIME PRECISION AT NINETY DEGREE ANGLES.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I IMAGINE THIS MODULAR RETICULATION AS AN ELEGANT VESSEL, IF YOU WILL, FOR THE GRAND SYNTHESIS OF OUR SHARED SHIPPING DREAMS.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: that is the perfect example of what you shouldnt be drawing",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YES",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: FUCK YES",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OOH LOOK, ANOTHER SQUARE, SORT OF.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: KIND OF WOBBLY! IT'LL HAVE TO DO.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no you fuck",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WAIT, I THINK IT'S COMING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HERE IT COMES, MY FIRST \"SHIP\", IT'S GOING IN THE SQUARE!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: put the goddamn pen down",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you piece of shit",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HELL NO.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: yes",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT IS YOUR PROBLEM??",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OW, FUCK.",
+	},
+	next = {
+		4717,
+	},
+	previous = 4715,
+}

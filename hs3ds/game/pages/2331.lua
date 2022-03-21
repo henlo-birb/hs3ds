@@ -1,0 +1,29 @@
+return {
+	title = "======>",
+	pageId = 2331,
+	timestamp = "1280707922",
+	flag = {},
+	media = {
+		"02331",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"It's too late. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+You'd better change back into your work clothes. No point in getting a good dress dirty.",
+	},
+	next = {
+		2332,
+	},
+	previous = 2330,
+}

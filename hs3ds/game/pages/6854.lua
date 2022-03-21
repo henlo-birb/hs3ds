@@ -1,0 +1,46 @@
+return {
+	title = "YOUR UNIMPATIENCE HAS BEEN APPRECIATED.",
+	pageId = 6854,
+	timestamp = "1413619837",
+	flag = {},
+	media = {
+		"06851",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"I CAN ONLY ASSUME. THAT WAITING FOR THE NEXT INSTALLMENT OF MY VAUNTED SERIES, \"HOMOSUCK\". WAS AS TIME CONSUMING FOR YOU. AS IT WAS FOR ME.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+I HAVE BEEN WORKING MY ASS OFF. LIKE ONE OF YOUR HUMAN MOTHERFUCKERS. AT PERFECTING MY CRAFTS MANSHIP. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+YOU ARE PROBABLY WONDERING IF THE FRUITS OF MY LABORIOUS TOIL. WERE EXTREMELY SUCCESSFUL.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+I BELIEVE YOU WILL FIND THE ANSWER TO BE THE FOLLOWING WORD.",
+	},
+	next = {
+		6855,
+	},
+	previous = 6853,
+	theme = "A6A6",
+}

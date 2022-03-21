@@ -1,0 +1,35 @@
+return {
+	title = "[A6A6I4] ====>",
+	pageId = 7201,
+	timestamp = "1418792777",
+	flag = {},
+	media = {
+		"07198",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: Of course!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: Oh my goodness, what a wonderful surprise!",
+	},
+	next = {
+		7202,
+	},
+	previous = 7200,
+}

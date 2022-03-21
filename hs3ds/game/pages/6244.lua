@@ -1,0 +1,37 @@
+return {
+	title = "HOMOSUCK.",
+	pageId = "008144",
+	timestamp = "1371078647",
+	flag = {},
+	media = {
+		"/storyfiles/hs2/06241.gif",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"A YOUNG MALE HOMO SAPIEN IS TRAPPED IN HIS ROOM. THE PREMISE IS UNINTERESTING, AND EVERYTHING ABOUT IT SUCKS. HENCE THE TITLE, WHICH IS A PORT MANTEAU. CONSISTING OF TWO THEMATICALLY APPROPRIATE WORDS.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+THE MALE IS NOT VERY SMART. THERE IS SOMETHING ABOUT A HUMAN BIRTHDAY. AND HE DOESN'T HAVE A NAME YET? AND MORE STUPID THINGS ALONG THOSE LINES. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+ALL OF THIS IS IRRELEVANT.",
+	},
+	next = {
+		6245,
+	},
+	theme = "A6A6",
+}

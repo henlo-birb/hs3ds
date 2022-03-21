@@ -1,0 +1,22 @@
+return {
+	title = "[o] ==>",
+	pageId = 4073,
+	timestamp = "1313659196",
+	flag = {},
+	media = {
+		"04070",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"STORY TIME'S OVER WIND BAG WHOOPS OH SHIT GET THIS FUCKIN' CLOCK OUTTA MY WAY. I AM A ONE MAN STAMPEDE AND I'VE GOT A BROOM AND THAT PEAL OF SPLINTERING WOOD YOU HEAR IS THE LAST GASP OF A PRICELESS ANTIQUE DISINTEGRATING BENEATH THE OUTRAGEOUS FURY OF MY AUTHORIAL HOOVES.",
+	},
+	next = {
+		4074,
+	},
+	previous = 4072,
+	theme = "scratch",
+}

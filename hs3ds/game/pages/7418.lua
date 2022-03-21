@@ -1,0 +1,24 @@
+return {
+	title = "WHEN SUDDENLY.",
+	pageId = 7418,
+	timestamp = "1428897928",
+	flag = {
+		"F",
+	},
+	media = {
+		"07415/07415.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"EIGHT ASSHOLES SNUGGED UP IN THEIR GOOFY PAJAMAS APPEAR OUT OF NOWHERE, FOR SOME WRESTLING ROYALE WITH YOURS TRULY. THEY ALL STEAL A RIDE WITH THE WIND PRICK'S SNAPPY GHOST MAGIC, TO CATCH ME UNAWARES. IT WORKED! JUDGING FROM MY SKULL EXPRESSION, I WAS REALLY REALLY SURPRISED.",
+	},
+	next = {
+		7419,
+	},
+	previous = 7417,
+	theme = "A6A6",
+}

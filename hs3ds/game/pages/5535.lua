@@ -1,0 +1,212 @@
+return {
+	title = "==>",
+	pageId = 5535,
+	timestamp = "1354604528",
+	flag = {},
+	media = {
+		"05532",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|SPRITELOG|",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+\
+ROXY: nothing!",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: i was just...",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: it was a joke!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: WAS IT REALLY?!",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: ok maybe not a total joke",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: but still mostly a joke!",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: im only",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: trying to",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: blurgh",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: i dont know",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: ROXY, I GET YOU'RE TRYING TO MAKE ME FEEL BETTER, BUT A LOT OF THINGS YOU'RE SAYING HERE AREN'T REALLY HELPING!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: DO YOU EVEN REALIZE WHAT YOU'RE SAYING HALF THE TIME?",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: I THINK I LIKED YOU BETTER WHEN YOU WERE DRINKING!",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: jaaane no",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: dont say that",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: i had a problem :(",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"\
+FEFETASPRITE: 3833 < 38(",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: OK, YEAH!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: I WAS WAY OUT OF LINE THERE AND I'M SORRY! ",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: THAT STUPID CONVERSATION WITH JAKE JUST PUSHED ME OVER SOME KIND OF EDGE AND NOW I AM FEELING REALLY, REALLY DISTRAUGHT!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+\
+JANE: AND NOW ON TOP OF ALL THAT, I MAY HAVE PERMANENTLY DESTROYED MY FRIENDSHIP WITH JAKE!",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: AND NOW...",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: Now...",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: I just want to be alone.",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: jane wait",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"\
+JANE: I have to go!",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"\
+ROXY: where are you going!",
+	},
+	next = {
+		5536,
+	},
+	previous = 5534,
+}

@@ -1,0 +1,1043 @@
+return {
+	title = "[A6I5] ==>",
+	pageId = 5937,
+	timestamp = "1361172535",
+	flag = {},
+	media = {
+		"05934",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what do you actually want from her",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: do you want her to stop drinking faygo and falling asleep in puddles of red fructose corn slobber",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: or do you want her to somehow address the root of those habits and cut all that out for good",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YES! I WANT HER TO DO THAT!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THE LATTER THING.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: yeah i can understand where youre coming from",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but in situations like this i think you need to remind yourself theres only so much you can do for somebody",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and maybe they arent going to want or need your help and you just have to figure out how to deal with that",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: like at some point in your life one of your friends might start spending all her time with a guy you think is bad news",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and you have to decide if you need to intervene as a friend or just let it go because people can change or drift apart or whatever because thats just something that happens",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: DAVE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YOUR WISDOM, MY GOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IT'S KNOCKING MY SOCKS OFF. HOLY SHIT, PLEASE TELL ME THE SECRET TO YOUR WISE WAYS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND WHILE YOU'RE AT IT, MAYBE YOU COULD TELL ME WHAT THE FUCK YOU'RE TALKING ABOUT.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: look all im saying is",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: there comes a time in every young womans life when she has to come to terms with the decision to gradually morph into a juggalo while all her friends and loved ones watch in dismay",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: terezi has strolled through the dark carnival and taken a great brooding whiff of that decisions festive asshole and the choice she has made is all too clear",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: shes down with the clown",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO, DON'T SAY THAT.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: its true man",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you can live in denial for only so long",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but as your bro i have to say it like it is",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: she and gamzee man",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: that is literally a thing",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: they are in the hate square together",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: total kismespades dude",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO, THAT'S NOT WHAT I MEAN.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I MEAN, I KNOW THAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: JUST WHY DO YOU HAVE TO PUT EVERYTHING SO \"COLORFULLY\"?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I GUESS I DO THE SAME THING, BUT YOU ALWAYS SEEM TO TAKE THINGS TO A DIFFERENT LEVEL OF GROSS. JUST PLEASE SAY SHIT NORMALLY FOR A CHANGE, OK.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: REGARDING GAMZEE, YEAH. I KNEW ABOUT THAT ALREADY.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: really?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: then what the fuck have i been tiptoeing around all this time god damn",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i thought this was supposed to be like this \"big secret\" that would \"destroy you\" if you found out",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: MOTHERFUCKER, PLEASE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: DO YOU THINK I'M AN IDIOT? I'VE SUSPECTED THIS WAS GOING ON FOR A LONG TIME.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I WAS JUST BEING LIKE YOU, PLAYING IT COOL, LETTING HER DO WHATEVER.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: then why is it a problem now",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: BECAUSE THIS IS THE LAST STRAW! WE'RE SUPPOSED TO BE READY FOR ACTION BY NOW.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NOT COMATOSE, HALF NAKED AND FAYGO STICKY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: GOD, I WONDER WHAT SORT OF BULLSHIT HE'S GOT HER BELIEVING IN NOW? ABOUT THE MIRTHFUL MESSIAHS AND SHANGRI LA AND ALL THAT GARBAGE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IT MAKES ME SO SAD TO THINK SHE'S CAUGHT UP IN HIS SUPERSTITIOUS WEB OF LIES.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IT'S BEEN AWFUL WATCHING THE PERSON I USED TO KNOW SLOWLY DRIFT AWAY FROM ME, TO THE POINT WHERE SHE MIGHT AS WELL BE GONE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HOW DID YOU MANAGE TO DEAL WITH THAT?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YOU AND SHE USED TO SEE EACH OTHER ALL THE TIME. WHAT HAPPENED?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: like i said i just put it behind me",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: she started sneaking around in vents and stuff acting suspicious trying to hide the fact that she was seeing him",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: like she was obviously ashamed of it and worried how id react",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but it was hella transparent that was going on so i just said",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: thats fine yall can do your blackrom thing with the juggalo its your decision",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but i cant keep playing along",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i cant do the quadrant thing its just too weird for me",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: im not a troll and im not all open minded about gettin multicultural",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i still dont understand the spades thing and it makes me really fuckin uncomfortable even trying to imagine how that works and i sure as fuck dont want to date anybody whos got a hateclown on the side",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: so i said no hard feelings i still like you and all, do whatever makes you happy ill just be over here in the hyper gravity chamber training to beat lord english",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WE HAVE A HYPER GRAVITY CHAMBER???",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OH",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but what about you",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: havent you been talking to gamzee this whole time",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: or is he just balls out lying to you about sneakin around the meteor with terezi",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i thought moirails were supposed to be open with each other about stuff like that",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YEAH. UH.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: GAMZEE ENDED OUR MOIRALLEGIANCE QUITE SOME TIME AGO.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh shit",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: sorry to hear about that",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IT'S FINE. IT WAS REALLY A DEAD END PALE RELATIONSHIP.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AT FIRST IT REALLY SEEMED LIKE I WAS A NECESSARY PART OF HIS LIFE, KEEPING HIS SHIT UNDER CONTROL...",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: BUT AS TIME WENT ON HE JUST GOT COMPLETELY DISINTERESTED AND WASN'T KEEPING UP WITH HIS END OF THE THING AT ALL.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HE STARTED GETTING SO UNBELIEVABLY SELF SATISFIED AND PIOUS, LIKE WAY MORE THAN HE EVER WAS BEFORE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: LIKE HE'S JUST SO COMPLETELY CONVINCED HE'S FOUND HIS CALLING, THAT THIS SESSION IS THE GATEWAY TO THE PROMISED LAND WHERE HE'LL FULFILL HIS DESTINY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HE'S SO CAUGHT UP IN HIS IDIOTIC SCHEMES HE COULDN'T GIVE A FUCK ABOUT ME ANYMORE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHATEVER. AT LEAST HE STOPPED KILLING PEOPLE.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: amazing i spent three years on this rock and never said one thing to the guy",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i saw him once tho",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: just a glimpse in a dark hallway",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: it was kinda like seeing a blurry purple bigfoot with a huge boner",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OH GOD!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THAT FUCKING GOD TIER OUTFIT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT A GODDAMN FAKER. I CAN'T FOR THE LIFE OF ME IMAGINE WHERE HE GOT THAT THING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I KNOW KANAYA SURE AS HELL DIDN'T MAKE IT FOR HIM.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THE MAN LITERALLY HAS NO SHAME.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: why is he wearing it",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I DON'T KNOW!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I DON'T THINK EVEN HE KNOWS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: MAYBE TO MAKE A \"GOOD IMPRESSION\" ON HIS FAKE ASS RELIGIOUS IDOL, AFTER HE THRUSTS HIS SACRED COD PIECE THROUGH THE GATES OF SHANGRI LA.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: ahahaha the best thing we ever do together is slam this assholes dumb religion",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YEAH!!!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: really its the most hilarious fucking horseshit ive ever heard",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i mean pretty much all religions are wrong but theres wrong and then theres WRONG",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: as in ZERO CHANCE YOU ARE EVER PROVEN RIGHT ABOUT EVEN A SINGLE THING DUDE, EVER EVER EVER",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HAHAHA! IT'S SO TRUE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I WISH I COULD SEE THE LOOK ON HIS FACE WHEN HE FINALLY REALIZES EVERYTHING HE BELIEVES IS A LIE.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: be one sad clown that day",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: his bulge will probably deflate and make this high pitch noise plus corresponding flatulence",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HEY DAVE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT DO YOU THINK WILL HAPPEN TO US AFTER WE MEET UP WITH THE OTHERS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I MEAN, AS FRIENDS.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what do you mean as friends",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I MEAN WILL WE STILL GET TO BE BROS.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: uh",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: yeah?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no offense dog but thats a dumb and neurotic question",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO BUT SEE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WE'RE GOING TO MEET ALL THESE OTHER PEOPLE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: JOHN AMONG THEM.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND JOHN IS YOUR BEST FRIEND, SO YOU WILL OSTENSIBLY RESUME THAT FRIENDSHIP WHERE YOU LEFT OFF.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND JOHN AND I HAD A FEW TESTY CONVERSATIONS WITH EACH OTHER ONE DAY, AND IN MOST OF THOSE I MADE A FOOL OF MYSELF.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND I GUESS WE BECAME FRIENDS THAT DAY? MAYBE??",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: BUT THE REALITY IS IT WAS JUST ONE DAY, AND HE'D BE WELL WITHIN A REASONABLE FRAME OF MIND NOT TO GIVE A CRAP IN HINDSIGHT ABOUT THE GUY WHO TROLLED HIM ONCE THREE YEARS AGO.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND THE SAME GOES FOR JADE!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I THOUGHT WE HAD A DECENT RAPPORT, BUT AGAIN, IT WAS ONE DAY FOREVER AGO. SHE PROBABLY BARELY REMEMBERS ME AT THIS POINT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHEREAS THAT DOESN'T MATTER FOR YOU, BECAUSE YOU GO WAY BACK WITH THEM. THIS IS LIKE A FUCKING *HEARTFELT REUNION* FOR YOU GUYS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: BUT WHERE DOES THAT LEAVE ME??",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I CAN HARDLY CALL GAMZEE A FRIEND ANYMORE. WHO KNOWS IF MY FRIENDSHIP WITH TEREZI WILL EVER BE WHAT IT WAS BEFORE. I USED TO BE PRETTY CLOSE WITH KANAYA, BUT NOW SHE AND ROSE NEVER LEAVE EACH OTHER ALONE FOR MORE THAN A FUCKING MINUTE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: ALL MY OTHER FRIENDS ARE DEAD, AND NOW WE'RE LEAVING THE DREAM BUBBLES BEHIND.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND THEN THERE'S YOU.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: SO",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I'M JUST WONDERING WHAT HAPPENS NEXT.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you forgot the mayor",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: youre pretty damn tight with the mayor arent you",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THE MAYOR'S FRIENDSHIP IS A UNIVERSAL CONSTANT, AND I AM INSULTED BEYOND COMPREHENSION AS WELL AS MY CAPACITY TO VOMIT THAT YOU WOULD INSINUATE OTHERWISE.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: yeah the mayor rules",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: but as usual you are overcomplicating this",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: just like you overcomplicate everything",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: friendship leadership romance",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: shipping grids and dick battles",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: this is real simple",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: our meteor will somehow tokyo drift to a dead stop in the new session",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: at which point we will keep being bros for life or something",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i will start being friends with john and jade again because they are my friends and never stopped being that",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: john will also be your friend because hes cool and also a doofus who is easy to be friends with",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: jade will be your friend too cause shes nice and likes being friends with people",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i can personally guarantee that she will be happy to see you",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and as for the new people i dont know about them but theyll probably be your friends too",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: all i know is two of them are my parents and two of them are johns parents and aint no rule that says you cant be friends with your bros mom and pop",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: especially when your bros mom and pop are a couple of sassy teens",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: as for terezi i dont know i guess well see what happens",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and as for gamzee fuck that guy with a balloon poodle",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: friendship lesson secured the end",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: ZZZZZZZ ZZNK SNOOORT",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: SM4CK SM4CK",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: NNNRNNNNNNNRRNGNGNHGHGL3",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: UH OH, LOOK WHO'S STARTING TO COME AROUND!",
+	},
+	next = {
+		5938,
+	},
+	previous = 5936,
+}

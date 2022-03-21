@@ -1,0 +1,43 @@
+return {
+	title = "==>",
+	pageId = 5622,
+	timestamp = "1356056987",
+	flag = {},
+	media = {
+		"05619",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"\
+CALLIOPE: NO NO NO NO NO! THIS WON'T DO AT ALL!",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"\
+\
+CALLIOPE: HAVE YOU GONE MENTAL? WHY DON'T WE JUST BURN A BLOODY BONFIRE IN HERE!",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"\
+CALLIOPE: HE'LL SPOT US ANY MINUTE! ASSUMING HE ISN'T ALREADY ON HIS WAY TO BLOW US ALL TO KINGDOM COME!!!",
+	},
+	next = {
+		5623,
+	},
+	previous = 5621,
+}

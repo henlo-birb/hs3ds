@@ -1,0 +1,182 @@
+return {
+	title = "[A6I2] ==>",
+	pageId = 4690,
+	timestamp = "1331596961",
+	flag = {},
+	media = {
+		"04687",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: PRETTY MUCH.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: SO WHERE DOES THAT LEAVE US?",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: IF WE ARE TO TAKE SOME LESSON FROM THAT, WHAT IS IT!",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: \"TRY TO BE GREAT AND SUCCESSFUL, BUT MAYBE NOT TOOOO GREAT AND SUCCESSFUL?\"",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: OR MAYBE DON'T TRY AT ALL IN SOME CASES! BECAUSE IF YOU DO, SOME GIANT FUCKING SQUID IN THE MIDDLE OF NOWHERE IS GOING TO BE LIKE, NOT SO FAST, MY HIDEOUS MONSTER PLANS BEG TO DIFFER.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: DON'T YOU THINK WE'D HAVE BEEN BETTER OFF IF WE DIDN'T EVEN KNOW ABOUT ANY OF THIS DREAM BUBBLE SHIT?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: WELL.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: YEAH.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: THAT'S WHAT I WAS THINKING TEN MINUTES AGO.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: BUT NOW I DON'T EVEN KNOW.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: YEAH, WELL AT LEAST YOU'RE LISTENING. EVEN IF YOU WERE BEING YOUR USUAL SHITTY SELF ABOUT IT.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: NOBODY ELSE EVEN GETS THIS, THEY DON'T WANT TO HEAR IT.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: LIKE TEREZI?",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: IT USED TO BE THAT SHE WOULD AT LEAST HUMOR EVEN MY MOST LUDICROUS, VITRIOLIC GARBAGE ALL THE TIME.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: REMEMBER THOSE DAYS?",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: WAY BACK BEFORE WE EVEN KNEW WHAT A HUMAN WAS.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: BACK ON ALTERNIA WHEN MY BIGGEST FEAR WAS IF PEOPLE FOUND OUT I WAS A MUTANT. HOW QUAINT CAN YOU FUCKING GET?",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: I WAS AN IDIOT NOT TO UNDERSTAND HOW GOOD THINGS WERE BACK THEN.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: BETWEEN US.",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: NOW IT'S LIKE...",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: SDJS;ALSKJFSA;JK",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"\
+CCG: WHAT?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+FCG: THIS PART OF THE CONVERSATION.",
+	},
+	next = {
+		4691,
+	},
+	previous = 4689,
+}

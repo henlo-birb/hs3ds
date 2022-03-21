@@ -1,0 +1,29 @@
+return {
+	title = "Yes.",
+	pageId = 3074,
+	timestamp = "1292258406",
+	flag = {},
+	media = {
+		"03072",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"And so came to an end the most heroic thing that ever happened in the history of metafiction.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+Let's move on.",
+	},
+	next = {
+		3075,
+	},
+	previous = 3073,
+}

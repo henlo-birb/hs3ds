@@ -1,0 +1,128 @@
+return {
+	title = "[A6A6I5] ====>",
+	pageId = 7813,
+	timestamp = "1436139793",
+	flag = {},
+	media = {
+		"07809",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: w,,, wOW!",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: iT WORKED LIKE A CHARM!",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: i LOVE MAGIC, i'M SO GLAD IT'S REAL,",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"\
+JASPROSESPRITE^2: ",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Couldn't agree more!",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"\
+JASPROSESPRITE^2: ",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"That pill was a placebo, by the way. It was actually one of the buttons from my velvet pillow!",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: oOOOOOH,",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: tHANK YOU SO MUCH, mAGIC SORCERESS CAT WOMAN, fOR YOUR ENSORCELLED CURATIVE PLACEBO BUTTON,",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\
+TAVROSPRITE: tHIS IS GOING TO CHANGE MY LIFE! }:D",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"\
+JASPROSESPRITE^2: ",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Yes I thought you wouldn't understand what that meant, and that the button would continue to do the trick.",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"\
+JASPROSESPRITE^2: ",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"I'm so pleased as usual to see that I was right! Not that it was ever in doubt.",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"\
+JASPROSESPRITE^2: ",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"NOW.",
+	},
+	next = {
+		7814,
+	},
+	previous = 7812,
+}

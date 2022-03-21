@@ -1,0 +1,22 @@
+return {
+	title = "==>",
+	pageId = 631,
+	timestamp = "1252721967",
+	flag = {},
+	media = {
+		"00631_1",
+		"00631_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"You overlap two of the punched cards. They mask each other's hole patterns.",
+	},
+	next = {
+		632,
+	},
+	previous = 630,
+}

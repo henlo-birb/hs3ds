@@ -1,0 +1,56 @@
+return {
+	title = "==>",
+	pageId = 3054,
+	timestamp = "1292098892",
+	flag = {},
+	media = {
+		"03052",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"\
+AT: iT WAS i THINK SURELY AN AGING ROGUE WHO WAS VERY MUCH KEEN ON INTRUDING BETWEEN YOUR REALLY NICE LOOKING FAMILY,",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"\
+AT: aND AS FORTUNE WOULD HAVE IT,",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"\
+AT: tHE SMALL MISSILE WAS REDIRECTED INTO THE SENIOR INTERLOPER'S CHEST,",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"\
+AT: aND HE DIED,",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"\
+AT: }:)",
+	},
+	next = {
+		3055,
+	},
+	previous = 3053,
+}

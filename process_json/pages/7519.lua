@@ -1,0 +1,105 @@
+return {
+	title = "[A6A6I5] ====>",
+	pageId = 7519,
+	timestamp = "1431472473",
+	flag = {},
+	media = {
+		"07515",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I STILL HAVE NO IDEA WHY YOU PUT ME ON DRAWING DUTY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I'M EASILY THE WORST ARTIST HERE. ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND IN A SETTING THAT INCLUDES DAVE, LET'S GET REAL. THAT'S NO SMALL FEAT.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: I specifically assigned you to diagramming duty so that it would keep you occupied.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: That way, you'd stand a chance of keeping your mouth shut while I talk strategy.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THAT'S WORKED OUT GREAT SO FAR, HASN'T IT?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WE'VE LOST HOW MANY STRATEGY-SECONDS TO ME COMPLAINING ABOUT DRAWING ALREADY??",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Sure, 8ut I know that drawing requires a lot of concentr8tion from you.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Once you're in the zone, I expect you'll simmer down.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WOW, FUCK YOU!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YOU'RE PROBABLY RIGHT, BUT FUCK YOU NEVERTHELESS!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHERE THE SHIT IS MY ART PENCIL. I HAVE SOME DRAWING TO DO.",
+	},
+	next = {
+		7520,
+	},
+	previous = 7518,
+}

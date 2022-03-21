@@ -1,0 +1,708 @@
+return {
+	title = "Back in the present...",
+	pageId = 2178,
+	timestamp = "1278531854",
+	flag = {},
+	media = {
+		"02178",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+But not too far into the present. Right around this moment, with Karkat and the toilet, during a ",
+		{
+			0,
+			0,
+			0,
+		},
+		"conversation we have already read",
+		{
+			0,
+			0,
+			0,
+		},
+		", which ended like this:",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+\
+GC: OH BOY YOU N33D TO G3T W1TH TH3 PROGR4M K4RK4T",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: H4V3 YOU T4LK3D TO 44",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: 44 WHAT?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: 4POC4LYPS34R1S3N SORRY",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO, OF COURSE NOT.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: OR T4",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: OR 4G 1 GU3SS",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: OR C4",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: R34LLY TH3R3S L1K3 TH1S WHOL3 CONSP1R4CY 4BOUT TH1S",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: 4S 1M F1ND1NG OUT",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WELL WHY DON'T YOU JUST TELL ME SO I DON'T HAVE TO TALK TO ANY OF THOSE DOUBLETALKING ASSHOLES.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: 1 C4NT!",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: 1 GOTT4 ST3P OUT OF TH3 TR33 FOR 4 MOM3NT",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: WH3N 1 COM3 B4CK 1 W1LL 3NT3R TH3 G4M3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: CY4!",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+\
+gallowsCalibrator [GC]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ceased trolling ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+arachnidsGrip [AG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+AG: Psssssssst.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Hey 8rave leader.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH MY GOD, WHY ARE YOU TALKING TO ME.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Can I join your team?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YES I'M GLAD YOU ASKED, BECAUSE THERE IS A WIDE OPEN SLOT FOR THE MOST VILE BACKSTABBING SOCIOPATH WHO EVER LIVED.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU REALLY HELPED ME OUT OF A JAM BY STEPPING FORWARD.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Vile 8acksta88ing sociopath? Karkat, did you copy and p8ste that phrase directly from your personal ad descri8ing what you are looking for in a lady?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HA HA HA!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: MORE CAGEY CUTESY BULLSHIT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: LIKE I'M NOT UP TO MY LOBE STEM WITH THAT ALREADY HAVING TO DEAL WITH TEREZI.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU BOTH MUST HAVE BEEN INSUFFERABLE WHEN YOU WERE A TEAM.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOUR OPPONENTS PROBABLY ALL JUST TRIED TO COMMIT SUICIDE AFTER A FEW MINUTES OF PUTTING UP WITH YOUR FANGY GRINNED DRIVEL.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THAT'S PROBABLY HOW IT ALL WENT DOWN WHEN THE SHIT HIT THE THRESHER.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: That's not a 8ad guess! 8ut man! Karkat you sure are giving me a hard time.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: I don't see how we're supposed to 8e 8ecoming friends if you recoil from my olive 8ranch like I'm twitching a mummified 8ovine phallus in your direction.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BECOMING FRIENDS, WHAT THE FUCK.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WE WILL NEVER BE FRIENDS, MORON.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Not even h8 friends?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO. MORE LIKE TWITCHY EYED PROJECTILE VOMITING IN UTTER DISGUST FRIENDS, WHILE I PERFORATE MY BONE BULGE WITH A CULLING FORK.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Yessssssss. I'll take it!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: GET LOST.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Anyway, I was just joking a8out wanting to 8e on your team.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: I'm already on the 8lue team.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH! OH REALLY?????",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WAIT, LET ME COUNT OUT EIGHT OF THESE THINGS, HOLD ON. ? ? ? ? ? ? ? ?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THERE, I AM NOW AN ENORMOUS TOOL FOREVER.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Yes, Aradia and I have an arrangement. We will 8e co-leaders.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: (But really I will 8e the leader! Heh heh. Shh! Don't tell anyone!)",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: What do you think, Karkat? Can you take on two dangerous laaaaaaaadies at once?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YAWN.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Come on! Aren't you a little nervous that I will oppose you? You should 8e!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO YOU'RE JUST A RUN OF THE MILL LITTLE PSYCHO GIRL, A TROLL CAEGAR A DOZEN.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I'LL BE TAKING APART THE BLUE TEAM WITH BRUTAL EFFICIENCY, YOU'LL SEE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU NEVER PLAYED ONE OF YOUR DUMB GAMES WITH ME SO YOU NEVER HAD THE PRIVILEGE OF SEEING WHAT I CAN DO.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ENJOY THE SHOW, SWEETHEART.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: JUST DON'T EVEN THINK ABOUT USING YOUR MIND CONTROL TRICKS ON MY PLAYERS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: REMEMBER YOUR TRUCE?",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Pshhhhhhhh. Those days are far 8ehind me.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Anyway, I can't control just any8ody. They've got to 8e impressssssssiona8le. Like you!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU CAN'T CONTROL ME.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Sure I can. I just choose not to.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YEAH OK.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: I find your mind totally unpalata8le to 8rowse. Looking into your 8rain is like pawing through a smelly dumpster.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Full of 8roken glass and razor 8lades!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: And poop. D::::",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHATEVER, DON'T EVEN TRY IT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I'VE GOT THE BETTER SCOURGE SISTER ON MY TEAM AND IF YOU BREAK YOUR TRUCE YOU'LL HAVE TO ANSWER TO HER.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THE FUNNY THING IS SHE WAS ALWAYS WAY BETTER THAN YOU EVEN WITHOUT ANY POWERS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YEAH THAT'S RIGHT, I KNOW YOUR WHOLE STORY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU WERE ALWAYS JEALOUS SHE COULD MANIPULATE PEOPLE SO WELL WITHOUT RESORTING TO CHEAP MIND TRICKS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HAHA, I CAN TELL THIS BURNS YOU AND I CAN'T EVEN PAW THROUGH YOUR DUMPSTER!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: CHALK IT UP AS ANOTHER INFURIATING VICTORY FOR GUTTER BLOOD OVER ARISTOCRACY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH WHAT'S THAT, NOTHING TO SAY?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WOW SPEECHLESS I GUESS. YOU'RE PROBABLY CRYING RIGHT NOW. THAT WOULD MAKE MY FUCKING DAY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HEY LOOK AT ME BEING THE ONE TO TALK SHIT AT WARP SPEED THEN LOG OFF BEFORE YOU CAN REPLY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BYE, IDIOT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ceased trolling ",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"arachnidsGrip [AG]",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"arachnidsGrip [AG]",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+AG: Oh, 8ack so soon! Did your thum8 slip on the 8utton????????",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: I guess you can't get enough of me.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: ::::)",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU MADE ME DO THAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AND YOU KNOW IT.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: You 8n't got nothing on me and you can't prove shit!!!!!!!!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: Anyway, Karkat, I just wanted to say.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+AG: <3",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+arachnidsGrip [AG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ceased trolling ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"carcinoGeneticist [CG]",
+	},
+	next = {
+		2179,
+	},
+	previous = 2177,
+}

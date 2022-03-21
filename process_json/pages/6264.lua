@@ -1,0 +1,22 @@
+return {
+	title = "MALE: GET MURDERED BY EXPLOSION.",
+	pageId = 6264,
+	timestamp = "1371080455",
+	flag = {},
+	media = {
+		"06262",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU (HE) ARE THOROUGHLY MURDERED BY THE EXPLOSION. YOU (NOT HIM) ARE STUNNED AND YET UNDERWHELMED BY THE MOMENT OF ANTICLIMAX. AS YOU CONTINUE TO BOGGLE VACANTLY. YOU REAFFIRM YOUR SUSPICION. THAT NOTHING YOU JUST DID MATTERED AT ALL.",
+	},
+	next = {
+		6265,
+	},
+	previous = 6263,
+	theme = "A6A6",
+}

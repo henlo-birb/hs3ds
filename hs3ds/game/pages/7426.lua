@@ -1,0 +1,32 @@
+return {
+	title = "I SHOULD ALSO RELEVANTLY MENTION.",
+	pageId = 7426,
+	timestamp = "1428979473",
+	flag = {
+		"F",
+	},
+	media = {
+		"07423/07423.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"I AM STILL IN POSSESSION OF THE SWORDMAN'S JUJU. HIS FLOPPY FRIEND OF CHILDHOOD. THE ONE WHICH I RECOGNIZED TO BE AN EMPTY HUSK. HE DEMANDS FROM ME, THAT HE WANTS IT BACK. PRESUMABLY FOR EMOTIONAL SUPPORT. I CAN IN NO WAY BLAME HIM.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+KEEP AN EYE ON THIS ONE. THE FORESHADOWING OF HIM, IS PRE-IMPORTANT FOR LATER.",
+	},
+	next = {
+		7427,
+	},
+	previous = 7425,
+	theme = "A6A6",
+}

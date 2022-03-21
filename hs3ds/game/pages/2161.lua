@@ -1,0 +1,322 @@
+return {
+	title = "Nepeta: Answer Karkat.",
+	pageId = 2161,
+	timestamp = "1278292320",
+	flag = {},
+	media = {
+		"02161_1",
+		"02161_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"arsenicCatnip [AC]",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+CG: HEY.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < *ac perks up curiously*",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < *she wiggles her rear end a bit and then chases something she s33s bounce into one of karkats shoes*",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: KARKAT CAN'T BELIEVE HE HAS TO SINK THIS LOW.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: KARKAT CAN'T BELIEVE HE'S ASKING AN AUTISTIC GIRL IN A CAVE TO JOIN HIS TEAM.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: KARKAT MYSTIFIES IN INFINITE BEFUDDLEMENT OVER THE FACT THAT YOU ARE PRESENTLY THE BEST REMAINING CANDIDATE FOR THE RED TEAM.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < i am???",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < i mean *ac says i am??? wondrously*",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YES AND KARKAT CAN'T FUCKING BELIEVE THAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: KARKAT THINKS ABOUT THAT A BIT AND HIS JAW DROPS OPEN AND BREAKS A HUGE COLUMN OF BRICKS LIKE A FUCKING KUNG FU MASTER.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < *ac gathers up all the brick pieces and builds a cute little house and invites karkat inside*",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK GOOD, IT'S GOOD THAT YOU'RE TALKING ABOUT BUILDING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: EVEN IF IT'S IN THE MOST INANE POSSIBLE CONTEXT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU'RE GOING TO BE DOING A LOT OF IT.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < yesss that sounds fun",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < ok what do i do?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK, BRIEFING:",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ME, TEREZI, GAMZEE AND TAVROS ARE ALL PLAYING NOW.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THE CONNECTION ORDER IS AT -> TC -> GC -> CG.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WE NEED SOMEONE TO CONNECT TO TOREADOR AND GET HIM IN THE GAME.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I HAVE GA LINED UP FOR THE RED TEAM BECAUSE SHE IS ONE OF THE FEW REMAINING SANE ONES LEFT TO PLAY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK, THE ONLY SANE ONE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BUT SHE DOESN'T WANT TO CONNECT YET BECAUSE OF SOME MYSTERIOUS BULLSHIT, SO I WAS LIKE WHATEVER, WHAT ELSE IS NEW.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: SO I GUESS THAT LEAVES YOU.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: TEREZI SAID SHE HAD YOU LINED UP TO PLAY BACK WHEN SHE WAS THE FAKE LEADER, SO I SAID FINE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: SO JUST CONNECT TO TAVROS AND LATER WE'LL WORRY ABOUT GETTING YOU IN.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < alright! i will talk to him about that",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < oh",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < *ac pawses and looks up with a little bit of chagrin*",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < i forgot i have to talk to someone else about this",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < i have b33n purrcrastinating :((",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH GOD.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ARE YOU REALLY SERIOUS.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < its not that big of a deal!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THIS BOGGLES MY MIND.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HOW CAN YOU BE BEST FRIENDS WITH THE ONLY GUY ON THE PLANET WHO'S A BIGGER ASSHOLE THAN ME.",
+		{
+			0.2549019607843137,
+			0.4,
+			0.0,
+		},
+		"\
+AC: :33 < hes not so bad!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HE'S SCUM.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BUT DO WHATEVER YOU'VE GOT TO DO I GUESS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: TAVROS IS WAITING.",
+	},
+	next = {
+		2162,
+	},
+	previous = 2160,
+}

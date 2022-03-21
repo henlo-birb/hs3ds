@@ -1,0 +1,511 @@
+return {
+	title = "==>",
+	pageId = 5675,
+	timestamp = "1357141154",
+	flag = {},
+	media = {
+		"05672",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Sounds straight forward enough.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Whats the code?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: IT IS:",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: uROBuROS",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BE CAREFUL. THAT IS CASE SENSITIVE.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Ok.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I WOULD TELL YOU THE CODE FOR MY SISTER'S JUJU. BUT I DON'T KNOW WHAT IT IS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: A WHILE AGO I WENT TO GET HER JUJU. BUT THE FUCKING THING WAS GONE ALREADY.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I THINK THE CRAFTY BITCH ALREADY GAVE IT AWAY.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Hmm.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: We could try to guess it maybe?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: FORGET IT. THE POSSIBILITIES ARE PROBABLY INFINITE.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Yeah. Youre probably right.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: So what sort of magical properties does your juju have?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I DON'T KNOW EXACTLY WHAT IT DOES.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I HAVE NEVER TRIED IT. BECAUSE IT WAS TOO PRECIOUS TO ME.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: WHATEVER MINE DOES. MY SISTER'S PROBABLY DOES THE OPPOSITE THING.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BUT WHAT THEY DO INDIVIDUALLY. PALES IN COMPARISON TO WHAT THEY CAN DO TOGETHER.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: WHEN COMBINED. THE JUJUS BECOME THE MOST MAGIC THING EVER.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THEY CAN MAKE ALL YOUR DREAMS COME TRUE. AND EVERYTHING THAT NEEDS TO HAPPEN. WILL MAGICALLY FALL INTO PLACE.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Really?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: That sounds almost too good to be true.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: If you dont even know what your juju does by itself why do you think they do that together?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BECAUSE I BELIEVE IT WITH ALL MY FUCKING HEART. YOU STUPID PIECE OF SHIT.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Oh why didnt you say so! Thats all i needed to hear!!!",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: See youre getting the hang of hope already.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: YEAH. I GUESS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THE BOTTOM LINE IS. DON'T WORRY ABOUT IT.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: JUST TAKE MY JUJU. HAVE FAITH IN YOUR PATRON DUDE. AND LEAVE EVERYTHING TO ME.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Roger that mr lord.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Say. Dont you have a name? We know your sisters name... cant we know yours now too?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: NO.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THERE ARE MANY THINGS YOU SHOULDNT KNOW ABOUT ME. FOR YOUR OWN GOOD.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: IF YOU KNEW THEM. IF YOU EVEN KNEW MY NAME.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: YOU WOULD SHIT YOUR PANTS HARDER THAN ANY HUMAN EVER HAS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SO YOU MAY CONTINUE REFERRING TO ME AS YOUR LORD.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Well i surely dont want to spoil any clean trousers.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Even though your warning sounds a little hyperbolic i will trust you.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Um. My lord.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Heheheh when i call you that people could mistake our conversation for a nefarious and underhanded collusion among felons!",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SHUT THE FUCK UP.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: As you wish... MY LORD.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: HEHEHEHEHEH!",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: UGH.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: So lord. May i ask...",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Why are you giving me your juju if it is so dear to you?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Is your commitment to this manbro boypledge of yours really that strong?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: If so im really impressed. I would have a really hard time giving my favorite stuff away to a total stranger.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: DON'T FLATTER YOURSELF.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THE GESTURE IS RELATIVELY MEANINGLESS. THE TRUTH OF THE MATTER IS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I HAVE FOUND A NEW JUJU. A MUCH BETTER JUJU.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: A JUJU THAT MAKES ALL OTHER JUJUS LOOK LIKE FRIVOLOUS CHILDISH NONSENSE IN COMPARISON.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Yeah? Then that is quite a treasure you found.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Where did you get it? Did you plunder a tomb or such?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SORT OF.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: IT WAS EXCAVATED FROM THIS PLANET'S SOIL.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: ALONG WITH SOME OTHER ARTIFACTS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: AND GIVEN TO ME.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BY MY INFURIATING ASSHOLE MENTOR.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: A MAN WHO IS AN INVINCIBLE CLOWN.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Well that sounds nice of him. He cant be that much of an asshole if he gave you such a nice present can he?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: NO, BELIEVE ME. HE CAN.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: I had a clown give me a nice present once too. I would never have met my good friend mr erisol without the kindness of that clown.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: YEAH. IT'S THE SAME FUCKING CLOWN SOMEHOW.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I'M TELLING YOU. THIS ASSHOLE IS ETERNAL. AND THE BEINGS HE CREATES FOR YOUR PARTY ARE DISGUSTING ABOMINATIONS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BUT WHAT CAN YOU DO? NOTHING, I HAVE LEARNED. HE'S A CLOWN. THE RULES ARE. CLOWNS CAN DO WHATEVER THEY WANT. BECAUSE OF MIRACLES. AND HOLD NO ACCOUNTABILITY FOR THEIR DEEDS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I DON'T LIKE IT. BUT THOSE ARE THE RULES.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: So whats this juju he gave you?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SOMETHING VERY SPECIAL.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: A WONDERFUL LITTLE FALSE MAN.",
+	},
+	next = {
+		5676,
+	},
+	previous = 5674,
+}

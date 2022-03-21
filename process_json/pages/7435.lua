@@ -1,0 +1,24 @@
+return {
+	title = "WELL, MY SECOND MAYBE.",
+	pageId = 7435,
+	timestamp = "1429067334",
+	flag = {
+		"F",
+	},
+	media = {
+		"07432/07432.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"SECOND ONLY TO UNDERESTIMATING THIS SAD SACK WUSS OF HOPE. WHO KNEW THAT SUCH A SIMPERING CHARLATAN. HAD SUCH AN OUTBURST STOWED IN HIS GIRLY BOSOM. CLEARLY, NOT I. EVEN THOUGH I HAD THE INFORMATION WELL IN ADVANCE. IT WAS JUST *THAT* SURPRISING.",
+	},
+	next = {
+		7436,
+	},
+	previous = 7434,
+	theme = "A6A6",
+}

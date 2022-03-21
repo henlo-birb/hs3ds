@@ -1,0 +1,553 @@
+return {
+	title = "Sollux: Abort.",
+	pageId = 2086,
+	timestamp = "1277405387",
+	flag = {},
+	media = {
+		"02086",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+twinArmageddons [TA]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"gallowsCalibrator [GC]",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+\
+TA: hey change of plan, we arent playiing thii2 game anymore.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: you dont have two bother recruiitiing, 2orry two wa2te your tiime.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: 1M NOT TH3 L34D3R 4NYMOR3",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: K4RK4T 1S",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: he ii2?",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: H3 THR3W 4 T4NTRUM 4BOUT 1T SO 1 L3T H1M B3 TH3 R3D L34D3R",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: ok that wa2 faiirly prediictable but that2 fiine.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: iill talk two hiim about iit.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: WH4TS GO1NG ON?",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: nothiing, thii2 game 2uck2 and aa ii2 full of crap.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: 2orry about all thii2.",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+GC: >:?",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+\
+twinArmageddons [TA]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"carcinoGeneticist [CG]",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+\
+TA: hey change of plan, we arent playiing thii2 game anymore.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HEY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: GUESS WHO THE RED LEADER IS?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I'M THE LEADER. IT'S ME.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOUR PLAN TO CRIPPLE YOUR RIVAL TEAM HAS FAILED.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: ii know, 2he told me, ii dont care.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: the game ii2 bad new2, iit wiill cau2e the end of the world, not 2top iit.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: 2o forget iit, ju2t go back two whatever you were doiing.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: wriitiing your 2hiitty code or whatever.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HAHAHA! SO PATHETIC.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THIS IS YET ANOTHER FEEBLE ATTEMPT TO WEAKEN YOUR OPPOSITION.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: TEREZI AND I HAVE ALREADY ESTABLISHED A CONNECTION AND WE ARE MAKING GREAT PROGRESS HERE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WE ARE A GREAT TEAM, AND I AM A FANTASTIC LEADER.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WE WILL BEAT THIS GAME IN NO TIME, WHILE YOUR TEAM IS CLEARLY STILL ASLEEP AT THE THORAX.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: oh god.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: no you iidiiot, ii dont care about the game anymore.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: ii ju2t quiit, iim not playiing, you 2hould two.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AMAZING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU'RE EITHER BEING REALLY PERSISTENT WITH THIS TRANSPARENT RUSE, OR YOU REALLY ARE JUST THAT SAD AND INCOMPETENT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NEITHER CASE DESERVES MY RESPECT OR MY FRIENDSHIP.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IN FACT, YOU KNOW WHAT, FRIENDSHIP CANCELED.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THERE IT'S OFFICIAL, BYE BYE FRIENDSHIP!",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: oh liike you havent 2aiid that liike a biilliion tiime2.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: you arent iin any po2iitiion two que2tiion my competence.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: youre the wor2t programmer iive ever 2een, you dont know anythiing about computer2, why do you bother.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: the only thiing youre good at ii2 yelliing and makiing huge mii2take2.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: and beiing UGLY AND HORRIIBLE IN EVERY WAY, AND HAVIING 2TUPIID LIITTLE NUBBY HORN2.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: TO BE HONEST I DON'T SEE WHAT'S SO GREAT ABOUT YOUR PROGRAMMING OR HACKING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT IS A HACKER EVEN? JUST SOME SMUG ASSHOLE IN MOVIES DOING FAKE THINGS AND MAKING UP WORDS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IT'S NOT EVEN A REAL THING TO BE, IT'S JUST SOME BULLSHIT TITLE YOU GAVE YOURSELF SO YOU CAN FEEL JUST A TINY BIT LESS LOATHESOME.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: oh no, more chiildii2h burn2, ii dont have two prove anythiing two you, iim a great hacker, periiod.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO IT'S ALL SO CLEAR NOW, YOU WERE A FRAUD ALL ALONG.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT DOES ALL THIS NONSENSICAL CODE YOU WROTE EVEN DO?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IT'S ALL NONSENSE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: LIKE A BLUFF. YOU JUST SAY, OH KARKAT WILL NEVER UNDERSTAND WHAT I WROTE IS BULLSHIT BECAUSE HE'S TOO DUMB TO FIGURE IT OUT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WELL YOU'RE BUSTED, THESE VIRUSES HERE I BET DO NOTHING AT ALL.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: waiit, KK...",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I BET IF I RAN THEM NOTHING BAD WOULD HAPPEN.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: MIGHT EVEN IMPROVE MY COMPUTER'S PERFORMANCE!",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: no don't.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HOW ABOUT THIS IDIOTIC PROGRAM WITH THE RED AND BLUE CODE, WHICH IS A MEANINGLESS THING TO DO WITH CODE ANYWAY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT DOES THAT EVEN MEAN? IT'S ANOTHER ONE OF YOUR SCAMS.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHY NOT SNEAK SOME BAD CLIP ART INTO THE FILES TOO, AND PRETEND THAT'S CODE???",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: oh god, no dont run that, iim 2eriiou2.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT WOULD HAPPEN?",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: iim not 2ure, but iit would be really, really bad iif you ran iit, ju2t dont.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AH HA. JUST AS I THOUGHT, YOU CAN'T EVEN COME UP WITH A GOOD LIE WHEN I PRESS YOU ON IT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOUR BLUFF HAS BEEN CALLED.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: COMPILING AS WE SPEAK, IT WILL AUTORUN WHEN IT FINISHES.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AND NOW I HAVE TO GO ATTEND TO SOMETHING OUTSIDE, BECAUSE TEREZI IS DOING SOMETHING JUST UNSPEAKABLY STUPID RIGHT NOW.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHOOPS, FORGET I SAID THAT. IT WAS PRIVILEGED INFORMATION.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: you are the dumbe2t grubfucker on the planet, ii 2wear.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: LATER DOUCHE BAG.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: KK DO NOT RUN THAT CODE.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+TA: hello??????????????",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+carcinoGeneticist's [CG'S]",
+		{
+			0,
+			0,
+			0,
+		},
+		" computer exploded.",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"\
+\
+TA: oh my god.",
+	},
+	next = {
+		2087,
+	},
+	previous = 2085,
+}

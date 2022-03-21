@@ -1,0 +1,65 @@
+return {
+	title = "[A6I5] ==>",
+	pageId = 6083,
+	timestamp = "1365056200",
+	flag = {},
+	media = {
+		"06080",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: THERE!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+VRISKA: TAAAAAAAA DAAAAAAAA!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: W8W WILL YOU LOOK AT TH8T!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+\
+VRISKA: LOOKS LIKE SOME K8ND OF HUMAN HOUSE SHAPED THING! H8LY SHIT, DIDN'T SEE THAT C8MING!!!!!!!!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: NOW EVERYONE HOLD YOUR FUCKING H8RSES WHILE I ARTLESSLY EXPLAIN SOME MORE SHIT A8OUT IT!",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: WOOOOOOOO! HERE FUCKING G8ES!",
+	},
+	next = {
+		6084,
+	},
+	previous = 6082,
+}

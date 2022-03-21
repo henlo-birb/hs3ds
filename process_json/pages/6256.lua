@@ -1,0 +1,38 @@
+return {
+	title = "MALE: DO A DANCE ON THE SHAPE.",
+	pageId = 6256,
+	timestamp = "1371079836",
+	flag = {},
+	media = {
+		"06254",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU GET ON THE SHAPE AND I MAKE YOU DO A DANCE. I USE THE PRINCIPLE OF \"ANIMATION\" TO PUT MOVEMENTS IN MOTION. SOMEHOW.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+YOU NOTICE BY NOW MY STORY TELLING GENIUS. I DREW MY PUPPET. AND I DREW HIS ROOM. AND THAT'S IT. NOW ALL I HAVE TO DO IS MOVE HIM AROUND THE ROOM AND MAKE HIM DO MEANINGLESS THINGS FOR \"LAUGHS\". ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+BUT THE REALLY FUNNY THING IS? THE LAUGHTER IS MOSTLY COMING FROM ME.",
+	},
+	next = {
+		6257,
+	},
+	previous = 6255,
+	theme = "A6A6",
+}

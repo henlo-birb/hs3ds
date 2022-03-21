@@ -1,0 +1,139 @@
+return {
+	title = "Dave: Answer Karkat.",
+	pageId = 2789,
+	timestamp = "1287555555",
+	flag = {},
+	media = {
+		"02788",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+carcinoGeneticist ",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"[CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling turntechGodhead ",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"[TG]",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+CG: HEY SHITHEAD YOU ARE IN HUGE TROUBLE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: A WORD WITH YOU AND YOUR FRIEND.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+TG: i thought you were asleep",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YES DAVE, I WAS ASLEEP AT ONE POINT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IT STANDS TO REASON I AM NOW AND WILL ALWAYS BE ASLEEP AT EVERY POINT ON ALL TIMELINES.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THAT REALLY MAKES A LOT OF FUCKING SENSE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NOW YOU, ME, AND EGBERT NEED TO HAVE A CHAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HERE I MADE A COOL BANNER USING SOME OF YOUR SHITTY EARTH CLIP ART.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: CLICK IT.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+\
+TG: not cool",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+TG: luring me into your cyber boobytrap with shitty clip art who told you my weakness",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IT'LL WORK, WON'T IT?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+TG: obviously",
+	},
+	next = {
+		2790,
+	},
+	previous = 2788,
+}

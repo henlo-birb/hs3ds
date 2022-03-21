@@ -1,0 +1,498 @@
+return {
+	title = "==>",
+	pageId = 4968,
+	timestamp = "1337852418",
+	flag = {},
+	media = {
+		"04965_1",
+		"04965_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: So are we done?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu WOuLD LOVE THAT. WOuLDN'T YOu.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Nah. I'm fine with doing more if you want.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HOW CONVENIENT IT WOuLD BE FOR YOu. IF WE STOPPED PLAYING MY GAME. AND LET MY SISTER OFF THE HOOK.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Do you want me to pretend I don't want to play?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Like, is that part of the kink for you? Kind of a roleplaying thing?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SHuT THE FuCK uP.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: \"No, no, please. Don't make me draw any more pics of my friends snuggling and stuff.\"",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Strider said, having spent the better part of the night gnawing through his duct tape gag.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: LOOK AT THESE PATHETIC STALLING TACTICS. AS IF I DON'T KNOW AN ATTEMPT TO DERAIL ONE OF MY DIABOLICAL GAMES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHEN I SEE ONE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: That's good. Keep saying things like that.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I'll keep doing my part.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: \"Somebody save me from this LIVING NIGHTMARE. The things he has made me DO.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAYBE YOuR IRREVERENCE FOR MY GAME. STEMS FROM THE FACT THAT YOu DON'T GIVE A FLYING FuCK ABOuT MY IDIOT SISTER?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HA. LIKE I COuLD EVEN BLAME YOu. WHAT A CLOYING WINDBAG SHREW. SHE IS WORTHLESS TO EVERYBODY. I THINK YOu THINK SO TOO.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu KNOW. YOu'RE AN ALRIGHT GuY. FOR A MONSTROuS FuCKuP LEAGuES BENEATH ME IN EVERY WAY THAT EXISTS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DIRK I WANT TO PLAY A GAME.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Do you now.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THOuGH YOu MAY NOT CARE ABOuT MY SISTER'S LIFE. THERE IS SOMETHING WHICH MAY MOTIVATE YOu TO KEEP PLAYING.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND THAT IS. CuRIOSITY.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: How so?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AHAHAHA! YOu SEE!!! THAT RIGHT THERE. YOu ASKED A QuESTION.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: ASKING SHIT IS WHAT BEING CuRIOuS MEANS. I FuCKING WIN ALREADY. YOu TRASH.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Damn.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Owned.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BuT THAT'S WHAT YOu DO WHEN YOu HAVE A SHITTY TWIST ENDING. PLANNED AT THE END OF ALL YOuR GAMES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SEE. THIS GAME HAS A TWIST. IT IS TWISTED LIKE A LITTLE CANDY SWIRL. THAT IS A KISS ON YOuR FACE FROM AN ANGEL. WHILE YOu MAKE A FuCKING FOOL OF YOuRSELF IN YOuR SLEEP.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I know what a twist is.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Or I did, until you kept saying stupid shit that doesn't mean anything.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: EXACTLY.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IF YOu WANT TO KNOW MY SHITTY TWIST.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu HAVE TO KEEP PLAYING MY GAME.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Well, not only was I pretty psyched to keep playing regardless.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I'd rather do just about anything than listen to you ramble on and on about your horseshit twists.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: VERY GOOD.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THE LECHEROuS AMuSEMENTS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THEY WILL NOW INVOLVE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THE BOTH JANE AND ROXY HuMANS.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Cool.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AW YES. DOuBLE THE TASTY BITCHES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: GETTING A LITTLE...",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAAAuDLIN TOGETHER.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Uh.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Ok.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THEY ARE IN THE MOOD FOR.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SWEETS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: JuST LIKE ME.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I LIKE CANDY.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DO YOu LIKE CANDY. DIRK.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I guess.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHAT ABOuT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: COTTON CANDY.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I never tried it.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: This shithole planet doesn't have any.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS SOOO.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: FLuFFY.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND MELTS IN YOuR MOuTH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BLuE AND PINK. GET BETWEEN MY JAWS. POOFY FLuFFY COTTON CANDY. LET ME DISSOLVE YOu.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THAT IS WHAT I CALL THIS PAIRING. OF NASTY PREMIuM BITCHES.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You know, considering you're obviously just going to ask for more ultra-tame shit, you still somehow made this legitimately creepy.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Nicely done, I guess?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AH YES. HOW YOu SQuIRM NOW.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I'm not squirming.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: LIKE BuLLFuCK YOu AREN'T.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: NOW DRAW.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I'm already drawing.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: What should I make these \"premium bitches\" do?",
+	},
+	next = {
+		4969,
+	},
+	previous = 4967,
+}

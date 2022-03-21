@@ -1,0 +1,32 @@
+return {
+	title = "AND JUST LIKE THAT, THEY WERE GONE.",
+	pageId = 7423,
+	timestamp = "1428979288",
+	flag = {
+		"F",
+	},
+	media = {
+		"07420/07420.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"THEIR SOULS WERE TRAPPED IN MY JUJU. FOREVER. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+THIS SOLVES ONE PROBLEM FOR ME. BUT STARTS ANOTHER. THE JUJU WHEN ITS SHAPES ARE FILLED. CHANGES IN NATURE. IT STOPS BEING A WEAPON I CAN USE, EVER AGAIN. IT'S WEIRD, AND A BIT LAME, BUT YOU CAN'T BE TOO PICKY ABOUT AWESOME JUJUS. YOU HAVE TO TAKE THE GOOD WITH THE BAD. ONCE I USED IT...",
+	},
+	next = {
+		7424,
+	},
+	previous = 7422,
+	theme = "A6A6",
+}

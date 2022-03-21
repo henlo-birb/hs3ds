@@ -1,0 +1,49 @@
+return {
+	title = "==>",
+	pageId = 5139,
+	timestamp = "1340698926",
+	flag = {},
+	media = {
+		"05136",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: LOOK AT THIS IDIOT WOMAN.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: NOT DOING WHAT THIS BRAVE AND INTELLIGENT MALE IS SAYING.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu JuST KNOW HER FOOLISHNESS WILL BE PuNISHED.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND RIGHTLY SO.",
+	},
+	next = {
+		5140,
+	},
+	previous = 5138,
+}

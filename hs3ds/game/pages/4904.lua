@@ -1,0 +1,21 @@
+return {
+	title = "Jack: Use knife to snag one of the keys on the floor.",
+	pageId = 4904,
+	timestamp = "1335940127",
+	flag = {},
+	media = {
+		"04901",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"You see if a knife can adequately lengthen your reach. But it's no use! They're still just outside of your modest slashing radius.",
+	},
+	next = {
+		4905,
+	},
+	previous = 4903,
+}

@@ -1,0 +1,49 @@
+return {
+	title = "==>",
+	pageId = 5181,
+	timestamp = "1340700470",
+	flag = {},
+	media = {
+		"05178",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HAA HAA HEE HEE HAA HOO WAIT. FuCK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: FuCKING TERMINAL. WHY DOES THIS HAPPEN WITH THIS BITCH AGAIN?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu SAID SOMETHING ABOuT THAT ONCE I THINK. BuT IT WAS BORING.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: GOD DAMN IT. JuST SHOW ME THE MONEY SHOT YOu PIECE OF SHIT!",
+	},
+	next = {
+		5182,
+	},
+	previous = 5180,
+}

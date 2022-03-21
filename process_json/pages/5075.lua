@@ -1,0 +1,497 @@
+return {
+	title = "==>",
+	pageId = 5075,
+	timestamp = "1339555072",
+	flag = {},
+	media = {
+		"05072_1",
+		"05072_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Ok. Now what.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: NOW THROW IT IN THE FIRE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Screw you.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I'm not chucking the C-man into a flaming ocean.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS THE uLTIMATE ABOMINATION.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOuR JuJu MAY BE DEAD AND HOLLOW. BuT SOMETHING TELLS ME.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THAT MIGHT MAKE IT EVEN MORE DANGEROuS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DISCARD IT AT ONCE. TREASuRE BEYOND COMPREHENSION IS YOuR REWARD.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: No.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Keep your treasure.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AH HA HA. AS IF IT IS NOT INEVITABLY DESTINED TO FALL FROM YOuR HuMAN FINGERS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND BECOME ERASED AS YOuR uNIVERSE DIES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DIDN'T I MENTION.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: A JuJu CAN NEVER BE TRuLY COPIED.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IF TWO APPEAR TO EXIST. SuCH AS ONE IN REALITY AND ONE IN YOuR DREAMS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS ONLY AN ILLuSION. EITHER NEVER TRuE. OR SOON TO BE CORRECTED.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THERE CAN ONLY EVER BE ONE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Well, I'm not tossing him, so that's that.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu WILL THOuGH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: ANYWAY. YOu TOOK IT OuT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I WILL DEEM THAT COMPLIANCE ENOuGH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND REWARD YOu WITH MY GRATITuDE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I THINK INSTEAD OF THANKS THOuGH. I WILL CALL IT. A \"BIRTH DAY PRESENT\"?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: It isn't my birthday.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: NOT YOuRS JERK.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Oh. So it's your birthday today?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT WILL BE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IF EVERYTHING GOES ACCORDING TO PLAN.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: How cryptically meaningless.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: And you continue to struggle with human customs. You don't give other people presents on your own birthday.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Anyway, just tell me what it is.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS A \"WORK OF FINE ART\".",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THE VERY FIRST I HAVE EVER ATTEMPTED.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu WILL FIND IT SuITABLY CONVEYS OuR SPECIAL BOND.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Let's see.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+\
+TT: Uh.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: What the fuck am I looking at here?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DON'T YOu SEE?? IT IS uS! YOu AND ME.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WE ARE GETTING PERHAPS A LITTLE TOO. *FRIENDLY.* IF YOu WILL. HAA. HAA.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I... really don't see.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: What do you mean? This fucking scribbly bullshit is us? Are we shaking hands or something?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHOA! WHOAAAAAAAAAAA! DuDE. HAHA. FuCK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu HAVE AN EVEN DIRTIER MIND THAN ME. I'M FuCKING OuTCLASSED BY YOuR REPREHENSIBLE IMAGINATION ONCE AGAIN.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I CAN'T SAY I'M SuRPRISED.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: So, it's just us? What about The Bitches?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I thought you found a scarcity of The Bitches to be all but unacceptable.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THE BITCHES AS YOu CAN PLAINLY SEE HAVE BEEN FAR FROM NEGLECTED. LOOK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THEY'RE RIGHT THERE ASSHOLE. THE BITCHES APPEAR TO BE. *AHEM.* RATHER ENJOYING EACH OTHER'S COMPANY???",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: OOOOOOOOOOOH. ",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SOO GNARLY. ",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: TO IMAGINE. WHAT FILTH MY OWN HAND HAS WROuGHT.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Yeah. Gnarly is about right.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: This is utter shit. You know that, don't you?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Please don't tell me you are actually incapable of understanding how bad this drawing is.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHAT. NO. FuCK YOu.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT'S PRETTY GOOD. AT LEAST FOR A FIRST TRY.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: If you actually think this even qualifies as a drawing, I'm going to have to say you are literally the worst artist who has ever existed.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHAT THE FuCK. THIS IS HOW YOu TREAT. MY \"BIRTH DAY THANK YOu GIFT\"??",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: That's not a thing either.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You must have some wires crossed between your left brain and right brain. Like a weird perceptual disorder. Or something like that.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: It's actually kind of fascinating that you think you achieved something visually coherent or recognizable.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THIS IS OuTRAGEOuS.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Anyway. Got to go.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Your drawing blows.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Later.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+timaeusTestified [TT]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ceased pestering ",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"undyingUmbrage [uu]",
+	},
+	next = {
+		5076,
+	},
+	previous = 5074,
+}

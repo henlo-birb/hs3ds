@@ -1,0 +1,698 @@
+return {
+	title = "==>",
+	pageId = 3431,
+	timestamp = "1296775496",
+	flag = {},
+	media = {
+		"03428",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" began trolling ",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"centaursTesticle [CT]",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+CG: EQUIUS, ARE YOU THERE?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Yes",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK, GOOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ARE YOU STILL REALLY STRONG?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: LIKE, IS THAT STILL YOUR THING?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I am still e%ceptionally STRONG",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Strength continues to be my STRONGEST attribute",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK GOOD.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I GUESS THAT WAS A PRETTY DUMB QUESTION.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I NEED YOUR HELP.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> With what",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: GAMZEE IS ON A RAMPAGE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HE'S GOING TO KILL US ALL IF WE DON'T STOP HIM.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> You mean",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> The highb100d",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YEAH, I GUESS",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Oh dear",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHAT",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Are you saying the highb100d has finally embraced his position atop the hierarchy",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO I'M SAYING HE FUCKING SNAPPED AND WANTS TO MURDER US ALL",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Yes e%actly",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: DAMMIT, WHY DOES THIS CONVERSATION HAVE TO BE SO PREDICTABLY TERRIBLE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ALL I'M ASKING YOU TO DO",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: NO, ORDERING YOU TO DO",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IS GO FIND GAMZEE AND BEAT HIM TO DEATH WITH YOUR BARE HANDS, OR POSSIBLY TWO HALVES OF A BROKEN BOW, BEFORE HE KILLS ANYONE ELSE.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I certainly appreciate the debauchery inherent in receiving an order of such gravity from a rogue-b100ded foulmouth",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> But",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I'm not entirely positive I can raise a hand to the highb100d",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> It wouldn't be my place",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH MY GOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHY DO YOU HAVE TO BE SO DIFFICULT IN ALL THE MOST FUCKED UP WAYS POSSIBLE?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU'RE GETTING OFF ON THIS AREN'T YOU",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Uh",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IF YOU ASK ME FOR A TOWEL I AM GOING TO FLIP MY SHIT RIGHT OFF THIS FUCKING METEOR",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: IT WILL JUST BE ME, SPINNING AND SPINNING AND SPINNING INTO ENDLESS NOTHING, SCREAMING",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> No, I have a sufficient supply of drying utilities",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I FORBID YOU FROM GETTING OFF ON ANY OF THIS",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: DON'T GET OFF ON MY ORDERS, DON'T GET OFF ON PHRASES LIKE FUCK FUCK FUCKETY FUCK, AND DON'T GET OFF ON ANY SORT OF WEIRD ADMIRATION YOU MIGHT BE HARBORING FOR A MURDEROUS CLOWN WITH PURPLE BLOOD",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> The b100d",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> It is just so",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> E%quisitely purple",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: ARE YOU LISTENING TO ME?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Yes",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> But 100k",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> The situation is very delicate I believe",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> The highb100d would benefit from a proper enculturation into the aristocracy",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I DON'T THINK HE GIVES A SHIT ABOUT YOUR ETIQUETTE LESSONS, OR HOW A TRUE GENTLEMAN IS TO GO ABOUT HANDLING A PROPER FUCKING HORSE TEAT",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: SERIOUSLY, PEOPLE ARE IN DANGER HERE.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I'll take measures to ensure our comrades aren't injured",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK, AND?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Well",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BUT YOU WON'T FIGHT HIM, IS THAT IT",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> If it comes to close quarters skirmish, I will try to be prepared",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HOW FUCKING REASSURING!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU ARE SUCH AN IDIOT, I DON'T GET IT",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YOU KISS THE GROUND THIS LUNATIC WALKS ON BECAUSE HE HAS PURPLE BLOOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BUT THAT DOESN'T STOP YOU FROM RIPPING ON ERIDAN, I KNOW FOR A FACT YOU DON'T LIKE HIM",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AND HIS BLOOD IS EVEN PURPLIER, ISN'T IT?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Yes",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> That's different",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> He is a sea dweller",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Our feud is codified in tradition",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Neigh, we are obligated to be at odds",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> It's dignified",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OK FINE, THEN SPEAKING OF WHICH",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HE'S ON A MURDEROUS RAMPAGE TOO",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> He is",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> How many of us are rampaging murderously, e%actly",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I DON'T KNOW, AT LEAST THREE PROBABLY, BUT WHO EVEN KNOWS AT THIS POINT",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THE POINT IS, IF YOU SEE HIM, WOULD YOU MIND SNAPPING HIS STUPID WAND IN HALF OR SOMETHING?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AND THEN CHOKE HIM TO DEATH WITH HIS OWN SHITTY PRETENTIOUS SCARF.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Do I really have to",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: GOD, WHAT IS THE PROBLEM NOW?",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I'd prefer not to interact with him",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: WHY",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> It's primarily that his advances make me uncomfortable",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: HAHAHAHAHAHA.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I WOULD HIGH FIVE YOU IF IT WOULDN'T SHATTER EVERY BONE IN MY HAND.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: AND IF YOU DIDN'T SMELL TERRIBLE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: BUT SERIOUSLY, IF YOU COULD CARRY OUT MY ORDERS IN THE LEAST PERVERSE WAY POSSIBLE, THAT WOULD BE GREAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: JUST KILL ONE OR MORE OF THOSE ASSHOLES AND GET BACK TO ME, OK?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I NEED YOU TO COME THROUGH FOR ME, BECAUSE WE'RE RUNNING OUT OF MANPOWER HERE.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> We are",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: YES DIDN'T I MENTION? FEFERI, KANAYA AND TAVROS ARE DEAD, SOLLUX IS UNCONSCIOUS, AND TEREZI IS MISSING.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: OH GOD, I HOPE SHE'S OK, I SHOULD PROBABLY GO LOOK FOR HER",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> Oh shoot",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> E%cuse my vulgarity",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: I'LL LET IT SLIDE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: JUST DO WHAT I SAY, OK.",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"\
+CT: D --> I will 100k into it",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+carcinoGeneticist [CG]",
+		{
+			0,
+			0,
+			0,
+		},
+		" ceased trolling ",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"centaursTesticle [CT]",
+	},
+	next = {
+		3432,
+	},
+	previous = 3430,
+}

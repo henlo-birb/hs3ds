@@ -1,0 +1,836 @@
+return {
+	title = "==>",
+	pageId = 3361,
+	timestamp = "1296030462",
+	flag = {},
+	media = {
+		"03358",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: HEY ASSHOLE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: CONSIDER OUR \"PACT\" OVER",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwevve got a pact",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: NOT ANYMORE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: YOU ARE DEAD TO ME",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: PAST YOU, PRESENT YOU, FUTURE YOU",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: AND ABOVE ALL, UGLY SCARFNECKED DOUCHEBAG HIPSTER YOU",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: WAIT I FORGOT, ALL OF THE YOUS ARE THAT YOU",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: IF I WASN'T SO TERRIFIED, I'D BE CONSUMED WITH ANGER, AND AS SOON AS I'M DONE COWERING IN A DARK CORNER HIDING FROM THAT HONKING MURDEROUS TOOL, I'M GOING TO HUNT YOU DOWN AND FILLET YOU WITH MY SICKLE.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwhoa kar",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: this is nothin if not flatterin but dont you think youre comin on a little strong",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: OH GOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I AM NOT HITTING ON YOU IDIOT, THIS IS HONEST TO GOD PLATONIC ENMITY",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: LIKE IN THE \"I REALLY DO WANT YOU TO DIE\" KIND OF WAY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I AM NOT INITIATING AN ELABORATE CALIGINOUS WALTZ WITH YOU YOU DESPERATE SHIT.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: i mean yeah obvviously i kneww you wwerent serious",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: i guess i appreciate the effort youre puttin into cheerin me up",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: i can alwways count on you for some good ironic repartee kar nobody else really gets our sense a humor",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: UGH, NO",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: are you busy",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: you said youd try to make it to lowwaa soon wwell howw about it",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: DUDE, ARE YOU AN IDIOT, YOU CAN PLAINLY SEE I AM FROM 300 FUCKING HOURS IN THE FUTURE, EVEN IF I WERE REMOTELY INTERESTED, WHICH TO THAT I SIMPLY SAY WHAT THE FUCK.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: oh hahaha yeah losin track a the time shit is easy wwhen wwe start riffin like this kar",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: LIKE WHAT? WHAT ARE WE EVEN DOING HERE",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: im just lonely here and i got major ordeals to keep afloat wwith",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I KNOW YOU'RE LONELY, GOD DAMN IT, WHO CARES.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: im sayin it wwould be cool to hang out and you said you wwould",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: can you put in a wword wwith your past self maybe buggin him to make the trip wwhen he gets the chance",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: WAIT, WERE YOU HITTING ON ME BACK THEN?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: *ARE* YOU HITTING ON ME?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: LIKE AN ACTUAL RED SOLICITATION, IS THAT WAS THIS WAS???",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwhat",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: GOD DAMN IT, I AM CHEWING YOU OUT FOR WAND MURDER, AND YOU ARE FLIRTING WITH ME",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: MY FUCKING GOD MAN.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: hey im not spyin you bein anythin but cagey wwhat wwith this wwhole line a humor and all",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: HOW ABOUT NO, DIPSHIT, NOT INTERESTED?????",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: evven if i wwasnt compelled to think you wwere still bein flippant and ironic wwith me you cant exactly outright reject me can you",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: WHY NOT",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: cause youre future you",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: doesnt count unless its present you til then its all fair game",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: IS THIS REAL, ARE YOU BEING IRONIC OR SOMETHING, I CAN'T EVEN TELL ANYMORE",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: THE PROBLEM IS, I CAN'T PUT THIS SORT OF BEHAVIOR PAST YOU AT ALL, SO I DON'T KNOW.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: just send past you ovver man wwell hang out",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: its not like im doin anythin right noww",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: LIKE FUCK YOU AREN'T",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwhats that mean",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: YOU'RE KILLING ANGELS NOW, AREN'T YOU",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: no",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: YOU ARE KILLING FUCKING ANGELS, RIGHT NOW, IN THE PAST, WITH YOUR SHITTY GUN. I JUST KNOW IT.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwell uh",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: therere just so damn many kar and theyre not gettin any less bloody pissed is the thing",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: THIS IS WHY IT WOULD NEVER WORK BETWEEN US, MAN.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: BECAUSE YOU ARE A STONE COLD RETARDED FUCKING IDIOT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: NOT TO MENTION COWARDLY BACKSTABBING MURDERER.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I HATE YOU, I HATE YOU, I HATE YOU FOREVER.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: kar im gettin some seriously mixed signals here",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: HOW COULD YOU DO THAT TO THEM",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwhat to wwho",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: TO",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: FUCK",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I THOUGHT YOU LOVED HER.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwho man wwhat are you talkin about",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: AND ALSO...",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: wwhat youre not makin sense",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I CAN'T",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I CAN'T EVEN TYPE HER NAME",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: SHE WAS MY FRIEND",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: SHE WAS MY REALLY *GOOD* FRIEND AND I DON'T KNOW WHAT THE HELL TO DO NOW THAT SHE'S GONE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I'M SO UPSET, I'M JUST COMPLETELY FREAKING OUT IN EVERY WAY POSSIBLE.",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"\
+PCA: yeah i knoww wwhat its like you wwanna talk about it",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: FUCK NO.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I CAN'T STAND TO LOOK AT YOUR DUMB PURPLE WORDS ANYMORE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: NEXT TIME I SEE THAT SHITTY COLOR YOU BETTER BELIEVE IT'LL BE COMING OUT OF YOUR BODY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: AND NO, FOR THE LOVE OF FUCK, THAT WAS NOT INNUENDO.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG",
+		{
+			0,
+			0,
+			0,
+		},
+		" banned ",
+		{
+			0.41568627450980394,
+			0.0,
+			0.41568627450980394,
+		},
+		"PCA",
+		{
+			0,
+			0,
+			0,
+		},
+		" from responding to memo.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: ANYWAY",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: THAT'S IT I GUESS.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FUTURE terminallyCapricious [FTC]",
+		{
+			0,
+			0,
+			0,
+		},
+		" 0:42:00 HOURS FROM NOW responded to memo.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: honk.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: OH GOD",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: HEY BEST MOTHERFUCKING FRIEND.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: what all seems to be the motherfuckin problem? :o)",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: OH GOD OH GOD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: DON'T YOU SEE EVERYONE?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: THIS CRAZY FUCKER HAS COMPLETELY CRACKED, I TOLD YOU.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: THAT'S KICKIN THE WICKED MOTHERFUCKIN MISINFORMATION, MY BROTHER.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: i'm as chill as all what's can be.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: NO CAUSE FOR ALARM, JUST MOTHERFUCKIN GONNA SIT AND ZONE THE MOTHERFUCK OUT WITH A PAN RUSTING PIE LIKE AS MY USUAL MOTHERFUCKIN SELF DOES.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: honk.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: HONK.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: honk.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: HONK.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD OH GOD",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: i'm in your future, best friend.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: I KNOW WHERE YOU MOTHERFUCKING ARE.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: and what you'll motherfuckin do.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO NO",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: AND ALSO.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: and also.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: GUESS MOTHERFUCKIN WHAT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: .....",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: NO I DON'T WANT TO",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: i'm all about to be meeting up some friends. :o)",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: GOING TO GET PRETTY MOTHERFUCKING FRIENDLY AT THEM REAL SOON.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: i wonder if you can all be at with me in time and make me get my reconsider on?",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: MAYBE SPLIT AN ELIXIR LIKE A COUPLE OF CHOICE BROS.",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: just like we are... :o)",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: ME AND HIM. Do:",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"\
+FTC: hoooooooooooooooooonk. ;oD",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK OH FUCK",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CCG: I HAVE TO GO",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+CCG",
+		{
+			0,
+			0,
+			0,
+		},
+		" closed memo.",
+	},
+	next = {
+		3362,
+	},
+	previous = 3360,
+}

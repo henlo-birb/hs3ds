@@ -1,0 +1,406 @@
+return {
+	title = "==>",
+	pageId = 5673,
+	timestamp = "1357140149",
+	flag = {},
+	media = {
+		"05670",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Oh goody. Just the way i like my hijinks!",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: So how do we start.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THERE'S NOT MUCH TO THIS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I JUST TELL YOU SOME SHIT TO DO. AND THEN YOU DO IT.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: AND THE ULTIMATE DUMBNESS OF IT ALL IS. YOU PROBABLY WERE GOING TO DO A LOT OF IT ANYWAY.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: I was?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: How was i going to do the stuff if you didnt tell me to?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: You mean i was going to do it like on accident?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: NO. THE THING IS. I THINK I WAS ALWAYS GOING TO TELL YOU.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: I dont understand.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: NEITHER DO I.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Ok then.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Im glad we settled that.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BUT I KIND OF GET IT ON SOME LEVEL.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: AS A LORD OF TIME. I THINK I'M GOING TO MASTER TIME. NOT WITH MY BRAIN. WHICH WOULD BE TOO HARD. BUT WITH MY INSTINCTS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: LIKE IN A WAY THAT WORKS WITH MY NATURAL IMPULSES. SUCH AS MY AMBITION. MY WILL TO COMMIT MAYHEM. MY DESIRE TO PUNISH THOSE I DESPISE.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SO IF I WANT YOU TO BECOME STRONG. SO YOU CAN CHALLENGE ME LATER. AND I SEE EVIDENCE. THAT YOU PROBABLY BECOME SUCCESSFUL.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I THINK TO MYSELF. WHY SHOULDN'T I BE THE ONE TO MAKE THAT HAPPEN? IF IT'S GOING TO ANYWAY.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I THINK PART OF MY PERSONAL QUEST. IS TO BECOME AT EASE WITH THE FORCES OF INEVITABILITY.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: INEVITABILITY THAT ALL THINGS SHOULD AND WILL FALL IN MY FAVOR. THAT ALL CAUSALITY ANSWERS TO ME. AND THAT ALL OUTCOMES NOT ONLY SERVE ME. BUT CONSIST OF MY BEING.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: SO I FEEL THAT. THE MORE I GROW IN POWER.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THE MORE STUFF IT SHOULD TURN OUT I AM RESPONSIBLE FOR.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: UP TO AND INCLUDING. EVERYTHING THAT EVER HAPPENS.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: EVEN IF IT HAS TO BE.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: RETROACTIVELY.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Hmmmmm...",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Nope!",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Dont reckon i understand much of that either.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: But i guess im not supposed to. Me not being a time maestro or what have you.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: I guess i should be boning up on hope though. What can you tell me about that?",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I DON'T KNOW A FUCKING THING ABOUT HOPE.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: IT'S SUPPOSED TO BE A FORCE OF \"UNPARALLELED POWER\". BUT REALLY. IT SOUNDS SO LAME.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: BUT I GUESS THAT'S WHY IT MAKES SENSE THAT IT'S YOUR ASPECT.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: YOU STRIKE ME AS A GUY WHO IS LAME ENOUGH. TO HOPE SOMEONE TO DEATH. SO WHY DON'T YOU TELL *ME* ABOUT IT??",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Tell you about hope?",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Um well its something i think everyone should have in their hearts.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I KNEW IT. YOU JUST SAID.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THE LAMEST POSSIBLE THING.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: But i wasnt finished!",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: FUCK.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Hope to me is all about believing in stuff.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: If you believe in stuff then everything feels like its going to turn out ok.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: And if you believe in stuff with enough gusto i dare say it imbues that stuff with a pinch more chutzpah. Even the fake stuff!",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: And then if you keep an open mind and adventurous spirit, that chutzpah flows directly into your heart, and thats when YOU have the power.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: So i think if hope grants one the power to smite villainy and vanquish hooligans thats probably where it comes from!",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: NO.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: OH GOD. NO.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THAT IS ACTUALLY THE WORST THING I'VE EVER READ.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: THAT CAN'T BE RIGHT. I REFUSE TO BELIEVE IT.",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Well THERES your problem dude. You dont want to BELIEVE!",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\
+GT: Just let go and believe in things. Then youll find you had the power in you all along.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: YOU ARE SO DUMB. I JUST KEEP CAN'T BELIEVING IT. HOW TRULY STUPID YOU ARE.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: WHATEVER. FORGET I ASKED.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: I'M SURE YOU'LL FIND OUT WHAT HOPE IS REALLY ABOUT. INSTEAD OF THAT INSIPID BULLSHIT.",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"\
+uu: ONCE YOU BECOME A GOD TIER.",
+	},
+	next = {
+		5674,
+	},
+	previous = 5672,
+}

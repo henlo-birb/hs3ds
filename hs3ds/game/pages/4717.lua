@@ -1,0 +1,175 @@
+return {
+	title = "[A6I2] ==>",
+	pageId = 4717,
+	timestamp = "1332106138",
+	flag = {},
+	media = {
+		"04714",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: this is so sick does she even know youre doing this",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: DOING WHAT??",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: splitting up her time in a grid for your stupid rotating hate date plan",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: SHE WILL SOON ENOUGH.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what a presumptuous sack of shit put the pen down",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO, I'M DRAWING.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: step away from your dumb ugly scribble grid",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: GET LOST.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: youre messing up roses book",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YOU SMELL BAD.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: dont talk to me about rank smells",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you are the fuckin big man of smellin bad",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you dominate the paint with your stonk",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: MY LUSUS BROUGHT THINGS HOME THAT SMELLED MORE APPEALING THAN YOU.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IMPORTANT FACT: 100% OF WHAT HE BROUGHT HOME WAS EITHER A DEAD ANIMAL, OR LITERAL FECES.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh yeah well check it out:",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you smell like if someone took a dump on a butt",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HOW CAN SHE STAND YOU WITH HER SENSITIVE NOSE?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HAVE YOU EVER EVEN WASHED THAT RIDICULOUS OUTFIT?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: theyre magic fucking pajamas they stay like perma clean or something",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: theyre enchanted and comfy as fuck give me the pen",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO, IT'S MINE NOW. I'M KEEPING IT ON PRINCIPLE.",
+	},
+	next = {
+		4718,
+	},
+	previous = 4716,
+}

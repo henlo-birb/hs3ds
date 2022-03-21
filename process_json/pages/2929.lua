@@ -1,0 +1,28 @@
+return {
+	title = "==>",
+	pageId = 2929,
+	timestamp = "1291005140",
+	flag = {},
+	media = {
+		"02928",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+CG: THE IDIOT YOU CALL THE JADE HUMAN WENT AHEAD AND PROTOTYPED HER FREAK OF A LUSUS, WHILE YOU DECIDED TO TAKE A NAP FOR SOME REASON RATHER THAN DOING WHAT A LEADER IS SUPPOSED TO DO AND STOP HER FROM BEING SO FUCKING RETARDED.",
+	},
+	next = {
+		2930,
+	},
+	previous = 2928,
+}

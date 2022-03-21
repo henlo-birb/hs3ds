@@ -1,0 +1,49 @@
+return {
+	title = "==>",
+	pageId = 5177,
+	timestamp = "1340700281",
+	flag = {},
+	media = {
+		"05174",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BuT I THINK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THIS DELuXE BITCH HAS GOTTEN A BIT CARRIED AWAY HERE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: ALL THINKING SHE CAN. DO HEROIC STuFF. AND \"SAVE LIVES\". uGH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BuT THE ROXY HuMAN HAS MISCALCuLATED.",
+	},
+	next = {
+		5178,
+	},
+	previous = 5176,
+}

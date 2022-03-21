@@ -1,0 +1,21 @@
+return {
+	title = "John: Take wallet.",
+	pageId = 3395,
+	timestamp = "1296409971",
+	flag = {},
+	media = {
+		"03392",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"You pick up the WALLET. It is full of many things. But the first thing to catch your eye is a NOTE.",
+	},
+	next = {
+		3396,
+	},
+	previous = 3394,
+}

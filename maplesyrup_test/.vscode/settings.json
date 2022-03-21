@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "render",
+        "love",
+        "update",
+        "newView",
+        "newModel",
+        "newState",
+        "newUi"
+    ],
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "Lua.diagnostics.disable": [
+        "redundant-parameter",
+        "lowercase-global",
+        "redefined-local"
+    ]
+}

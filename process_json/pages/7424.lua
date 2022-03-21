@@ -1,0 +1,24 @@
+return {
+	title = "IT BECAME MYSTERIOUSLY INTANGIBLE.",
+	pageId = 7424,
+	timestamp = "1428979340",
+	flag = {
+		"F",
+	},
+	media = {
+		"07421/07421.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"LIKE A HOLE. A GAP, IN THE TEETH OF MY STORY. THAT NOW EXISTS, AS A DANGEROUS LIABILITY TO ME PERSONALLY. IT CAN ONLY EVER BE USED AS A WEAPON AGAINST ME, FROM NOW ON. SUCH IS WHAT YOLOBROTH, THE GREAT LEWD SNAKE, WILL TELL ME ABOUT THE JUJU WHEN WE MEET. SO AFTER USING IT, IT MADE ME NERVOUS.",
+	},
+	next = {
+		7425,
+	},
+	previous = 7423,
+	theme = "A6A6",
+}

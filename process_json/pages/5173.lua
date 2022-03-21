@@ -1,0 +1,49 @@
+return {
+	title = "==>",
+	pageId = 5173,
+	timestamp = "1340699912",
+	flag = {},
+	media = {
+		"05170",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HE MAKES NO BONES ABOuT GANKING MY LOOK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT'S PATHETIC.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu DON'T JuST GO AND JACK A MAN'S SWAGGER.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THAT'S THE CARDINAL FuCKING RuLE OF BROS. RIGHT?",
+	},
+	next = {
+		5174,
+	},
+	previous = 5172,
+}

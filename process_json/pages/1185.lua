@@ -1,0 +1,43 @@
+return {
+	title = "[I] ==>",
+	pageId = 1185,
+	timestamp = "1263880203",
+	flag = {},
+	media = {
+		"01185",
+	},
+	content = {
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Doze",
+		{
+			0,
+			0,
+			0,
+		},
+		" proceeds to make a fleetfooted getaway.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+THE CHASE",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+IS ON",
+	},
+	next = {
+		1186,
+	},
+	previous = 1184,
+}

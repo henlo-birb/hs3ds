@@ -1,0 +1,30 @@
+return {
+	title = "Jade: Combine rifle, iron lass suit and particle accelerator",
+	pageId = 3164,
+	timestamp = "1293255015",
+	flag = {},
+	media = {
+		"03161_1",
+		"03161_2",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"It worked! The result is a huge kickass PROTON CANNON.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+Obviously you can only wield this weapon in your IRON LASS SUIT.",
+	},
+	next = {
+		3165,
+	},
+	previous = 3163,
+}

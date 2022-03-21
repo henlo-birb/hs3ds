@@ -1,0 +1,37 @@
+return {
+	title = "John: Captachalogue pie tin.",
+	pageId = 93,
+	timestamp = "1241047887",
+	flag = {},
+	media = {
+		"00093",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"You take PIE TIN and unequip the BEAGLE PUSS.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+Everything in your SYLLADEX is pushed back a card. The SMOKE PELLETS are ejected from the deck.",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+Yes! This could be just the distraction you were...",
+	},
+	next = {
+		94,
+	},
+	previous = 92,
+}

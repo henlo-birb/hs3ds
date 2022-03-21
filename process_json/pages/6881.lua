@@ -1,0 +1,30 @@
+return {
+	title = "DAAAAAAAAAAAMN.",
+	pageId = 6881,
+	timestamp = "1413621681",
+	flag = {},
+	media = {
+		"06878",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"WHO YOU ASK, IS THIS BROODING BEAUTIFUL DUDE?",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+THIS IS YOURS TRULY. MY SELF INSERTION GUY. WHICH IS MY PREROGATIVE TO DO AS AN ARTIST. I LEARNED THIS FROM MY \"MASTER\". THE WISE ASSED GHOST WHO HAUNTED MY COMPUTER. HE WAS THE BEST THERE WAS AT STUFF LIKE THIS, HE TOLD ME ONCE. TRULY, HE WAS QUITE THE PIECE OF SHIT.",
+	},
+	next = {
+		6882,
+	},
+	previous = 6880,
+	theme = "A6A6",
+}

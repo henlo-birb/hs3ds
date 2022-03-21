@@ -1,0 +1,350 @@
+return {
+	title = "==>",
+	pageId = 4649,
+	timestamp = "1330743408",
+	flag = {},
+	media = {
+		"04646",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THE LOATHSOME FALSE PERSON. WITH THE FLOPPY LIMBS. IN DERSITE ATTIRE. YOu LIKE TO NAP WITH.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Oh, Lil Cal? No, man.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Lil Cal is the shit.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THAT THING IS NOT THE SHIT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS AN uNCANNY GRINNING MOCKERY. A BAD OMEN. YOu SHOuLD CHOP IT uP AND BuRN IT.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: No way, dude. He's my best friend.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HOW FuCKING SAD IS THAT??",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I'M JuST TRYING. FOR ONCE. AND THE ONLY TIME EVER. TO BE HELPFuL.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THOSE THINGS.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu DON'T EVEN KNOW WHAT THEY ARE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: A kickass ventriloquist doll?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I've been given reason to believe it once belonged to my bro.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I DON'T GIVE A SHIT. WHAT YOu BELIEVE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THERE'S ONLY ONE REASON FOR THOSE TO EXIST.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT IS TO TuRN THE LIFE OF EVERYONE WHO OCCuPIES THE SAME uNIVERSE WITH IT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: INTO A NIGHTMARE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Is that one of your alien folk stories?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BuT IT ALSO.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IS TRuE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: GET RID OF IT.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You could argue that my life is already kind of a nightmare, so there's no point in getting rid of him now.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Either way, I'm gonna hang on to him.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu STuBBORN FuCK.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: FINE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAYBE IT DOESN'T MATTER.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAYBE YOuRS IS uNTAINTED? I DON'T KNOW.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: COuLD BE. ITS EYES LOOK...",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DEAD TO ME?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAYBE YOu LuCKED THE FuCK OuT. WITH YOuR PARTICuLAR JuJu.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I honestly had no idea you were this superstitious.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You're a pretty fascinating guy, in a way. I can't really figure you out.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: In case you're wondering why I put up with you more than my friends do.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I WASN'T.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: NOW ARE YOu GOING TO GO GET IT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: OR WHAT.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Why do you want me to get Cal so bad?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I DON'T!",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: JuST THAT. I SAW YOu. SLIGHTLY AHEAD OF NOW.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: CLIMBING TO THE ROOF WITH THAT THING.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SO APPARENTLY. IT'S REQuISITE FOR GETTING THE FuCK ON WITH STuFF??",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DuMBASS.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Ok. So, some self-fulfilling shit, then. I was hoping for a better reason.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHATEVER. DON'T TAKE IT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: MAKE A PARADOX HAPPEN. WORKS FOR FuCKING ME.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: At this point I'm leaning toward grabbing him just cause he seems to bother you so much.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WELL. I'VE HEARD OF WORSE REASONS FOR ACTING LIKE A STuPID PIECE OF SHIT.",
+	},
+	next = {
+		4650,
+	},
+	previous = 4648,
+}

@@ -1,0 +1,30 @@
+return {
+	title = "MALE: DO SOME STUFF.",
+	pageId = 6252,
+	timestamp = "1371079570",
+	flag = {},
+	media = {
+		"06250",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU FUCK AROUND HEARTILY. AGAIN, BY YOU I MEAN HIM. I KNOW, IT IS COUNTER INTUITIVE. BUT I WILL KEEP SAYING HE'S YOU, BECAUSE OF MY \"ARTISTIC LICENSE\".",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+THE YOU MALE FUCKS AROUND A LOT LIKE THIS. BOUNCING AROUND AND JITTERING, WASTING TIME. BUT THE SECRET IS THAT IT'S ACTUALLY ME FUCKING AROUND. I MOVE THIS GUY AROUND LIKE A PUPPET. WITH MY IMAGINARY HAND. SEE?",
+	},
+	next = {
+		6253,
+	},
+	previous = 6251,
+	theme = "A6A6",
+}

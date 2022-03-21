@@ -1,0 +1,105 @@
+return {
+	title = "[A6I4] ==>",
+	pageId = 5488,
+	timestamp = "1353570694",
+	flag = {},
+	media = {
+		"05485",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|AUTHORLOG|",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+EXCUSE ME.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+WHAT THE FUCK IS THIS.",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"\
+It's a wireless mouse.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+NO. IT'S THIS AWFUL KIND OF MOUSE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+THE KIND WITH THE GLOSSY ORB. I HATE THESE.",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"\
+Yeah, trackballs are pretty terrible. Can't argue there.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+MY THUMB CLAW IS KIND OF. SLIPPING ON THE SHINY BALL.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+THIS IS INCREDIBLY DIFFICULT TO OPERATE.",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"\
+I really don't envy your situation.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+ALSO. THIS IS AN AWKWARD VANTAGE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+IF I WANT TO USE THE MOUSE AND LOOK AT THE SCREEN. I HAVE TO STRETCH MY ARM REALLY FAR.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+AND KIND OF TWIST MY BODY. TO LOOK AROUND THE CORNER. LIKE THIS.",
+	},
+	next = {
+		5489,
+	},
+	previous = 5487,
+}

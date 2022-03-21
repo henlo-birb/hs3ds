@@ -1,0 +1,32 @@
+return {
+	title = "MEANWHILE, STRIDER REGROUPS FROM HIS TROUNCING.",
+	pageId = 7438,
+	timestamp = "1429067692",
+	flag = {
+		"F",
+	},
+	media = {
+		"07435/07435.swf",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"AND SEES HIS CHANCE TO DO AWAY WITH ME FOR GOOD. HE KNOWS BY NOW THAT HE CAN'T KILL ME. BUT CAN DO HIS NEXT BEST THING. WHICH IS TO BANISH MY SOUL. ",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+\
+HE'S HURT BAD AND IS SLOW TO USE HIS PINK SOUL KILLING SPELL. THIS GIVES ME TIME TO REBOUND FROM MY SHAMEFUL ASS WHOOPING TOO. AND PULL MY SORRY BUTT OUT OF THE OWN ZONE.",
+	},
+	next = {
+		7439,
+	},
+	previous = 7437,
+	theme = "A6A6",
+}

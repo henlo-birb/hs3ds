@@ -1,0 +1,70 @@
+return {
+	title = "[A6A6I2] ====>",
+	pageId = 6738,
+	timestamp = "1380080196",
+	flag = {},
+	media = {
+		"06735",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: KANAYA WAIT UP!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YOU KNOW I CAN'T COMPETE WITH YOUR DRINKER FASTNESS.",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"\
+KANAYA: My What",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: GOD DAMN IT.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WE'RE MISSING EVERYTHING!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HOW MUCH BULLSHIT IS IT THAT WE'RE PRETTY MUCH THE ONLY TWO ASSHOLES LEFT WHO CAN'T FLY?!",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"\
+KANAYA: It Really Is Such Bullshit",
+	},
+	next = {
+		6739,
+	},
+	previous = 6737,
+}

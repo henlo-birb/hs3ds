@@ -1,0 +1,385 @@
+return {
+	title = "Dirk: Retrieve juju.",
+	pageId = 4650,
+	timestamp = "1330745643",
+	flag = {},
+	media = {
+		"04647",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|PESTERLOG|",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: This is probably a dumb question, but you don't really care about \"causal spoilers,\" do you?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YES. THAT'S uNBELIEVABLY DuMB TO ASK.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Like, you don't mind telling me I'm about to pick up Cal, and thus causing that to happen.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: So I guess you similarly wouldn't mind telling us about more significant outcomes?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT'S NOT THAT I DON'T MIND. IT'S THAT I FAIL SPECTACuLARLY TO GIVE A SHIT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THERE IS SuCH A BIG DIFFERENCE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND THE FACT THAT I MIGHT NOT CLuE YOu INTO YOuR FATE ALL THE TIME.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: DuE TO MY AGGRAVATED APATHY OVER THE MATTER.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IS AN IMMuTABLE FACT. I AM STATING FOR THE RECORD.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: IT DOES NOT MEAN THAT GIVING A SHIT IS WHAT IS TAKING PLACE HERE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I feel like you've said something like that before.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Different statements, but in that exact syntax.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: OH. YOu KNOW WHAT ELSE I HATE?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: WHEN THAT FuCKING HAPPENS.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Wait. You mean it wasn't intentional?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: I thought it was kind of like... this thing you were doing.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SHuT uP.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YOu KNOW WHAT?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I DON'T EVEN KNOW WHAT'S GOING TO HAPPEN. AND I DON'T CARE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I THINK IT'S REGRETTABLY LIKELY. THAT YOu SuCCEED.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I THINK THAT'S WHAT PEOPLE TEND TO DO. WHEN THEY ARE REGARDED AS LEGENDS BY OBSESSIVE ASSHOLES.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SO MAYBE YOu ALL DIE. OR MAYBE YOu DON'T.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: BuT IF YOu DON'T. I'LL TAKE SOLACE IN THE FACT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: THAT IT MEANS I STILL GET THE CHANCE TO KILL YOu.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HOW ABOuT THAT? FOR CAuSAL SPOILERS?",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Fair enough.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Hey, you know...",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: For someone who has such strong opinions about long winded people,",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You've kinda been talking my ear off. I do actually have shit to do.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: uGH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YEAH.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: SEE HOW YOu PEOPLE SuCK ME INTO YOuR BuLLSHIT?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I SHOuLD HAVE KEPT IT BRIEF. AND SuRLY. LIKE I WAS GOING TO.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: LIKE JuST SAID.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: \"HELLO DIRK.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: \"I WANT TO PLAY A GAME.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND THEN LIKE.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: \"BRO.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: \"ROOF. NOW.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: \"BRING JuJu.\"",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: AND THAT'S IT.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: YEAH. THAT WOuLD HAVE BEEN GOOD.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: COLD FuCKING BLOODED. TO THE POINT. DAMMIT.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: That actually sounds familiar too.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Are you sure you haven't said something like that before?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: HAVE I?",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: FuCK. I DON'T KNOW. WHATEVER.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Anyway, let's wrap this up.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: You've stolen enough of my time. I didn't even get a chance to try plugging in that window.",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"\
+uu: I DID YOu A FAVOR. ANOTHER POINTLESS ACTION STRICKEN FROM THE TIMELINE.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Hang on.",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\
+TT: Something's happening.",
+	},
+	next = {
+		4651,
+	},
+	previous = 4649,
+}

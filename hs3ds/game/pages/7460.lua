@@ -1,0 +1,575 @@
+return {
+	title = "[A6A6I5] ====>",
+	pageId = 7460,
+	timestamp = "1430172782",
+	flag = {},
+	media = {
+		"07456",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|DIALOGLOG|",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: so",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: am i inferring correctly from some shit i just heard",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: that uh",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1NF3RR1NG WH4T?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: that vriska is like the de facto team leader now",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: or vriska and terezi...",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i dunno i never understood the scourge shit",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: you two have always been like this scheming giggling enigma huddled together in peapod for hella self-tickled murderdorks",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: couldnt for the life of me figure out what youve been getting up to on that meteor",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: is this it",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"\
+TEREZI: 1S WH4T 1T??",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: the plan you were hatching all along",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: is this like your big move",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: your power play to usurp karkat as team leader finally",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Oh 8rother.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Dave, no, this isn't a coup. It's just common sense rearing its ugly head for a change.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh got it",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Good.",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: wait no dont got it",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Argh!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: it sounds like youre just like",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: being the leader now cause you want to",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and making all the plans because nobody else wants to or really cares",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i mean not that i even care either i just want to set the record straight",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: karkat are you cool with this",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Sigh. ::::|",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: karkat",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: karkat",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: karkat",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: yo karkat",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT!!!!!!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh my god",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: dude were you just not listening to any of that",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: TO WHAT?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT'S HAPPENING NOW?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: hahaha",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: man how long have you been tuning all this shit out",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i mean i literally just said i dont give a fuck about any of the shit vriska is saying so maybe im not one to talk but at least i had the decency to actually be joking about that",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what the fuck are you even doing",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: SORRY!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: YEAH, SORRY, I'M GUILTY!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I ZONED OUT ON SOME OF SERKET'S SELF IMPORTANT BLITHER, AND WAS CARRYING A *PRIVATE CONVERSATION* WITH THE MAYOR.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IS THAT OK??",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: dude you dont have to get the go ahead from me",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: shoring up a lil one on one time with the mayor is literally always acceptable",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: what were you talking about",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: IT'S PRIVATE!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: i didnt hear you mumbling anything though",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WE WERE MOSTLY COMMUNICATING THROUGH A SERIES OF SIMPLE GESTURES",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I WAS TALKING SMACK ABOUT CERTAIN PEOPLE HERE, AND CHOSE TO REMAIN DISCREET ABOUT IT!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: no yeah i know what thats all about",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: how when you talk to the mayor and most of the time words arent even necessary like he just *knows*",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: man the mayor is just so wonderful i love him so much",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: hey lets all take turns hugging him",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: NO!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THAT'S FUCKING STUPID, JUST",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHAT WERE YOU SAYING? WHEN I WAS SPACING OUT JUST THEN?",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: oh nothing really",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: just wondering how you felt about vriska usurping your leadership role",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: and if maybe you wanted to throw a vintage shitfit about that or...",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OH!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+\
+KARKAT: HAHA!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: HAHAHAHAHAHAHA!!!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: THAT'S A GOOD ONE DAVE!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WOW! HAHA, HA, HAHAHAHA! ME LEADER?? TOO FUNNY!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I AM ENTIRELY AND SINGULARLY BAFFLED THAT IT COULD STILL EVEN *OCCUR* TO ANYONE TO ENTERTAIN THE NOTION THAT I MIGHT STILL BE PLAYING *ANY* ROLE EVEN WITHIN SNIFFING ORBIT OF A LEADERSHIP POSITION OF THIS RIDICULOUS PARTY.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: WHEN WAS THE LAST TIME I DID *ANYTHING* OF A LEADER-LIKE NATURE, WITHOUT BEING TRUMPED BY VRISKA'S MACHIAVELLIAN LIMELIGHT GLUTTONY?",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: OR FOR THAT MATTER, WHEN WAS THE LAST TIME THERE WAS ACTUALLY ANYTHING LEADERY *TO* DO, THAT DIDN'T INVOLVE SNUGGLING UP ON THE COUCH TO WATCH \"GOOD LUCK CHUCK\" FOR THE FIVE HUNDREDTH TIME?!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: I HAVE SERIOUSLY JUST BEEN ASSUMING HER COMPLETE TAKEOVER OF ALL LEADERSHIP DUTIES WAS SOME FAIT ACCOMPLI SHIT FOR THREE SOLID YEARS, AND HAVE SINCE BEEN ENJOYING THE PEACE AND QUIET OF ZERO RESPONSIBILITIES, WHICH IS WHY QUITE FRANKLY, I HAVE BEEN ABLE TO KEEP MY BLOOD PRESSURE DOWN, AND NOW RESEMBLE THE LIVING EMBODIMENT OF PEACE AND FUCKING TRANQUILITY WHICH PRESENTLY BASKS BEFORE YOU IN A STATE OF FROTHING, EUPHORIA-HOBBLED TURDVANA!!!!!!!!",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\
+DAVE: ok so vintage shitfit it is",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Karkat, that was a 8eautiful soliliquy of acceptance and understanding of your role, due to acknowledgement of your overwhelming personal limit8tions.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: 8ut 8e that as it may, you still ACTUALLY DO need to 8e paying attention here, so you can keep up with the plan.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: While I may 8e the leader now, this may 8e the last day I see any of you for a very long time.",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\
+VRISKA: Someone's going to need to step up when I'm gone!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: ALRIGHT SERKET, THEN I'LL MAKE THIS A LOT EASIER FOR YOU, AND THE TEAM AS A WHOLE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: STARTING NOW, I HEREBY RENOUNCE MY ROLE AS A LEADER OF THIS GROUP, OR ANY, FOREVER!",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: VRISKA ALONG WITH HER TACTICAL VIRTUOUSITY AND MONSTROUS EGO ARE MORE THAN SUITED FOR THE ROLE.",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\
+KARKAT: AND IF, WHEN, AND TO *WHEREVER* SHE EVENTUALLY DECIDES TO FUCK OFF FOR MYSTERIOUS, YET-TO-BE-EXPLAINED REASONS, THEN ANYBODY ELSE WHO FEELS INCLINED CAN SLIDE RIGHT INTO THAT POSITION, SO LONG AS IT ISN'T ME!!!",
+	},
+	next = {
+		7461,
+	},
+	previous = 7459,
+}
