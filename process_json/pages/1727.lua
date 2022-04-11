@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Rose's MOM stands on a small platform and disappears.",
+		"Rose's MOM stands on a small platform\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and disappears.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are a little nervous about transportalizing yourself. As a quadruped, grisly bisection strikes you as a very real possibility. Even though you're too dumb to think of such things.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are a little nervous about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"transportalizing yourself. As a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quadruped, grisly bisection strikes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you as a very real possibility. Even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though you're too dumb to think of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such things.\
+",
 	},
 	next = {
 		1728,

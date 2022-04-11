@@ -15,7 +15,36 @@ return {
 			0,
 			0,
 		},
-		"You select appropriate crime solving music to set the right mood. With this kind of atmosphere, it is highly unlikely that any crime will stay unsolved for long.",
+		"You select appropriate crime solving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"music to set the right mood. With this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kind of atmosphere, it is highly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unlikely that any crime will stay\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unsolved for long.\
+",
 	},
 	next = {
 		3726,

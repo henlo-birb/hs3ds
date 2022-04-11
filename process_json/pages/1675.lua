@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"> MSPA Reader: Shut the hell up.",
+		"> MSPA Reader: Shut the hell up.\
+",
 	},
 	next = {
 		1676,

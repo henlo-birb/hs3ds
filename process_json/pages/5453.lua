@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You're not going to lie.",
+		"You're not going to lie.\
+",
 	},
 	next = {
 		5454,

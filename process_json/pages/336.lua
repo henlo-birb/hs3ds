@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There is a trail of this fluid in the hall leading to your room.",
+		"There is a trail of this fluid in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hall leading to your room.\
+",
 	},
 	next = {
 		337,

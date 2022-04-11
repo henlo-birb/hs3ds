@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Why don't we cover this thing up. It would be a real shame to spoil their little moment with this nonsense.",
+		"Why don't we cover this thing up. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be a real shame to spoil their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little moment with this nonsense.\
+",
 	},
 	next = {
 		3230,

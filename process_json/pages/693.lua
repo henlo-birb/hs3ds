@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The container is full of MOTOR OIL. This does not seem useful to you right now.",
+		"The container is full of MOTOR OIL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This does not seem useful to you right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now.\
+",
 	},
 	next = {
 		694,

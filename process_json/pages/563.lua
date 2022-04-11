@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What sword?",
+		"What sword?\
+",
 	},
 	next = {
 		564,

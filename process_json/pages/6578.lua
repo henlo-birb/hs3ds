@@ -12,28 +12,99 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: There are many o8stacles within that are preventing you from accessing your true potential.",
+		"ARANEA: There are many o8stacles\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: You cannot see them, Jake. 8ut I can.",
+		"within that are preventing you from\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"accessing your true potential.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: I can see every fault and fissure in your mind. My vision 8-fold sheds light on every injury you have ever suffered, whether emotional or physical.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: You cannot see them, Jake. 8ut\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"I can.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: I can see every fault and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"fissure in your mind. My vision 8-fold\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sheds light on every injury you have\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ever suffered, whether emotional or\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"physical.\
+",
 	},
 	next = {
 		6579,

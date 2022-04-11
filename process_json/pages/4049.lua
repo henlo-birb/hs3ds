@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And there go the electricity privileges.",
+		"And there go the electricity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"privileges.\
+",
 	},
 	next = {
 		4050,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Who's this douchebag?",
+		"Who's this douchebag?\
+",
 	},
 	next = {
 		2138,

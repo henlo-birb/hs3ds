@@ -13,8 +13,28 @@ return {
 			0,
 		},
 		"\
-\
-There is another page to this letter...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is another page to this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"letter...\
+",
 	},
 	next = {
 		1956,

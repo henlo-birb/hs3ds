@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"While a timer counts down with no particular clock stepping forward to claim it...",
+		"While a timer counts down with no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"particular clock stepping forward to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"claim it...\
+",
 	},
 	next = {
 		3219,

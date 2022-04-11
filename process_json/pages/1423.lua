@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"\"I am a secret wizard. Behold my robes.\"",
+		"\"I am a secret wizard. Behold my\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"robes.\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Behold robes?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Y/N",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Behold robes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Y/N\
+",
 	},
 	next = {
 		1424,

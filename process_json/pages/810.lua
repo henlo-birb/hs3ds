@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"HOT. Wait...",
+		"HOT. Wait...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No. Cold. Really cold. FROZEN FUCKING TUNDRA.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No. Cold. Really cold. FROZEN FUCKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TUNDRA.\
+",
 	},
 	next = {
 		811,

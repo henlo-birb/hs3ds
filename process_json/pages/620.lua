@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You stow the totems in your ATHENEUM.",
+		"You stow the totems in your ATHENEUM.\
+",
 	},
 	next = {
 		621,

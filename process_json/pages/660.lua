@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You go up here.",
+		"You go up here.\
+",
 	},
 	next = {
 		661,

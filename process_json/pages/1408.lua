@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Blech. Too warm. Need to find something to chill this down with.",
+		"Blech. Too warm. Need to find\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something to chill this down with.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Something to heat up your delicious GRAVY would be nice too.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Something to heat up your delicious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRAVY would be nice too.\
+",
 	},
 	next = {
 		1409,

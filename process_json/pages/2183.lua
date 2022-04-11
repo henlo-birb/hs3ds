@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You head back to your hive to get the blue team's session started. ",
+		"You head back to your hive to get the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blue team's session started.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's been a while.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's been a while.\
+",
 	},
 	next = {
 		2184,

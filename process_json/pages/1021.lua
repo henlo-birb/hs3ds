@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"An AIMLESS RENEGADE prepares for company.",
+		"An AIMLESS RENEGADE prepares for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"company.\
+",
 	},
 	next = {
 		1022,

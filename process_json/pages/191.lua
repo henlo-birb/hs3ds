@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You place the CRUXITE DOWEL on the ALCHEMITER'S small pedestal. ",
+		"You place the CRUXITE DOWEL on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALCHEMITER'S small pedestal.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Something is happening...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Something is happening...\
+",
 	},
 	next = {
 		192,

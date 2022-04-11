@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Your blood is boiling so hot you could cook an egg on your carapace.",
+		"Your blood is boiling so hot you could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cook an egg on your carapace.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like you'll have to go handle this yourself.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like you'll have to go handle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this yourself.\
+",
 	},
 	next = {
 		963,

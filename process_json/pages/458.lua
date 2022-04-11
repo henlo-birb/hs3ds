@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"This is COMPLETE BULLSHIT.",
+		"This is COMPLETE BULLSHIT.\
+",
 	},
 	next = {
 		459,

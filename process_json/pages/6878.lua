@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"SHE ACTUALLY THOUGHT SHE WAS GOING TO BE RELEVANT. KEEP DREAMING BITCH!",
+		"SHE ACTUALLY THOUGHT SHE WAS GOING TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BE RELEVANT. KEEP DREAMING BITCH!\
+",
 	},
 	next = {
 		6879,

@@ -12,35 +12,113 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: weeks and months went by...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: weeks and months went by...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: i didnt have the slightest sense of how quickly or slowly time was passing",
+		"JADE: i didnt have the slightest sense\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: any sense of purpose to reaching the destination had vanished, and delicious though it was, no amount of nannas cake would bring me comfort",
+		"of how quickly or slowly time was\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"passing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: toward the end of the journey, when i feeling particularly despondent...",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: any sense of purpose to reaching\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the destination had vanished, and\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"delicious though it was, no amount of\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"nannas cake would bring me comfort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: toward the end of the journey,\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"when i feeling particularly\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"despondent...\
+",
 	},
 	next = {
 		7067,

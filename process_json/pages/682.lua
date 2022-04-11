@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You have already looked all over the place for a CAN OPENER, even making a few electronic inquiries about one, to no avail.",
+		"You have already looked all over the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"place for a CAN OPENER, even making a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"few electronic inquiries about one, to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no avail.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Nothing else inside the purple thing either.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nothing else inside the purple thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"either.\
+",
 	},
 	next = {
 		683,

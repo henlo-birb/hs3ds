@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"UM, CAN SOMEONE SAY OWNED? MOVING ON.",
+		"UM, CAN SOMEONE SAY OWNED? MOVING ON.\
+",
 	},
 	next = {
 		6874,

@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"There are the ruins you'll be making your way toward once you've got the uranium. ",
+		"There are the ruins you'll be making\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your way toward once you've got the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"uranium.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Still need to locate that enigmatic brobot. He's out there, somewhere. Just watching. You can feel it.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Can't let your guard down for a second, or you'll get served like a dude on butler island.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Still need to locate that enigmatic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"brobot. He's out there, somewhere.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just watching. You can feel it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Can't let your guard down for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second, or you'll get served like a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dude on butler island.\
+",
 	},
 	next = {
 		4249,

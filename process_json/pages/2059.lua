@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"After the KNIGHT OF BLOOD'S heroic arrival to the LAND OF PULSE AND HAZE...",
+		"After the KNIGHT OF BLOOD'S heroic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"arrival to the LAND OF PULSE AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAZE...\
+",
 	},
 	next = {
 		2060,

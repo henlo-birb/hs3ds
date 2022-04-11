@@ -13,23 +13,85 @@ return {
 			0,
 			0,
 		},
-		"You activate SCREEN 2.",
+		"You activate SCREEN 2.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The signal is garbled, and you have no idea what you're looking at. Some sort of filthy beggar pleading for help?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No one is around, And nothing is happening. You seem to be locked out of any sort of interaction with whatever's happening on this monitor.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The signal is garbled, and you have no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idea what you're looking at. Some sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of filthy beggar pleading for help?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No one is around, And nothing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happening. You seem to be locked out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of any sort of interaction with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whatever's happening on this monitor.\
+",
 	},
 	next = {
 		716,

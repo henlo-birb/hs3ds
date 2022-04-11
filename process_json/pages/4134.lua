@@ -13,7 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You know you really should switch to PESTERCHUM. It's what your friends use, and it's a lot better than BETTYBOTHER, if you're being honest with yourself. BB is just so spammy and annoying with all of the popups everywhere.",
+		"You know you really should switch to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PESTERCHUM. It's what your friends\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"use, and it's a lot better than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BETTYBOTHER, if you're being honest\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with yourself. BB is just so spammy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and annoying with all of the popups\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everywhere.\
+",
 	},
 	next = {
 		4135,

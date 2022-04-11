@@ -13,21 +13,50 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: i focused on them through the rage you made me have",
+		"TC: i focused on them through the rage\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"you made me have\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: AND I WENT AND MADE YOUR UNIVERSE...",
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: AND I WENT AND MADE YOUR\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"UNIVERSE...\
+",
 	},
 	next = {
 		4030,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You punch the card with a pattern that is in no way related to the code for the item it contains. This should make for an interesting experiment.",
+		"You punch the card with a pattern that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is in no way related to the code for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the item it contains. This should make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for an interesting experiment.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Mad science is a lot of fun.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Mad science is a lot of fun.\
+",
 	},
 	next = {
 		532,

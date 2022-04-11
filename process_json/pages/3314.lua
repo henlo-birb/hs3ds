@@ -12,105 +12,260 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: ok, here is a frog on the screen\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: ok, here is a frog on the screen",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: on no, is it trapped in ice?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: on no, is it trapped in ice?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: I Would Conjecture That Most Of Them Are",
+		"GA: I Would Conjecture That Most Of\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Them Are\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: And Will Stay That Way Until The Forge Is Brought To Life",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: I Think The Event Is Designed To Trigger Drastic Planetary Upheaval Wherever The Forge Is Stationed",
+		"GA: And Will Stay That Way Until The\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Forge Is Brought To Life\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: It Did On My Planet As Well",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: I Think The Event Is Designed To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Trigger Drastic Planetary Upheaval\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Wherever The Forge Is Stationed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: It Did On My Planet As Well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: was your planet covered in ice\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: was your planet covered in ice too?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: No Mostly Water\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: No Mostly Water",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: cool!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: cool!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: anyway, i will try to rescue this frog",
+		"GG: anyway, i will try to rescue this\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"frog\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: so i push this button to appearify it?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: so i push this button to appearify\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: Yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Yes",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: It Probably Wont Do Any Good But\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"You Can Try\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: It Probably Wont Do Any Good But You Can Try",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: ok........",
+		"GG: ok........\
+",
 	},
 	next = {
 		3315,

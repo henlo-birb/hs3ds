@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A grandfather mourns. A family tradition, honored.",
+		"A grandfather mourns. A family\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tradition, honored.\
+",
 	},
 	next = {
 		1973,

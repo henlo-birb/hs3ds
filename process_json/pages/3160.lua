@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You make a GIRL'S BEST FRIEND!",
+		"You make a GIRL'S BEST FRIEND!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Pew pew pew!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Pew pew pew!\
+",
 	},
 	next = {
 		3161,

@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You consult your SHIPPING WALL. Clearly some changes are in order. You must admit you didn't see this one coming, even with your remarkable matchmaking acumen.",
+		"You consult your SHIPPING WALL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Clearly some changes are in order. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must admit you didn't see this one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coming, even with your remarkable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matchmaking acumen.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You should probably recolor all the Aradia panels so she looks like a robot too. It is a major commitment keeping up with all your ships, but it is worth it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You should probably recolor all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Aradia panels so she looks like a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"robot too. It is a major commitment\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"keeping up with all your ships, but it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is worth it.\
+",
 	},
 	next = {
 		2296,

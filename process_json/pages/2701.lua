@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You need to put some distance between yourself and that egregious display.",
+		"You need to put some distance between\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself and that egregious display.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These look like simpler times. Probably better to mess with her earlier on the timeline rather than later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These look like simpler times.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Probably better to mess with her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earlier on the timeline rather than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"later.\
+",
 	},
 	next = {
 		2702,

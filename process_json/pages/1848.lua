@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Can't forget the most important thing you came up here to make.",
+		"Can't forget the most important thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you came up here to make.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Gotta be gettin' your snoop on.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gotta be gettin' your snoop on.\
+",
 	},
 	next = {
 		1849,

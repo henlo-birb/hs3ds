@@ -13,31 +13,113 @@ return {
 			0,
 			0,
 		},
-		"Alright, you're the boss. Hearts Boxcars you ain't.",
+		"Alright, you're the boss. Hearts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Boxcars you ain't.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Someone has replaced your plain and serviceable HAT with a silly and undersized one. An outrage beyond compare.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're sure you know who the culprit was. You can still smell his overly caffeinated blood...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone has replaced your plain and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"serviceable HAT with a silly and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"undersized one. An outrage beyond\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"compare.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-986/1000 CLOCKS SHOWN MERCY",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're sure you know who the culprit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was. You can still smell his overly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"caffeinated blood...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"986/1000 CLOCKS SHOWN MERCY\
+",
 	},
 	next = {
 		1187,

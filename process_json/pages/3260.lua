@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Your new queen is eager for your counsel. She wishes to know the royal itinerary she inherits.",
+		"Your new queen is eager for your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"counsel. She wishes to know the royal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"itinerary she inherits.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The itinerary, for now, is simple. She must wait for her fourth and final subject to arrive.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The itinerary, for now, is simple. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must wait for her fourth and final\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"subject to arrive.\
+",
 	},
 	next = {
 		3261,

@@ -12,84 +12,183 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: ok listen\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: ok listen",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: jack and uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: jack and uh",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: taller white jack\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: taller white jack",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: clearly you are very loyal to jades corpse or whatever",
+		"DAVE: clearly you are very loyal to\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"jades corpse or whatever\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: but you arent gonna help her by swiping the torso and growling at me like a pair of mangy assholes",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: please",
+		"DAVE: but you arent gonna help her by\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: just put her down",
+		"swiping the torso and growling at me\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"like a pair of mangy assholes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: look i got treats!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: please\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i have snausages",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: just put her down\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: ok i dont have snausages",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: look i got treats!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i can get snausages!",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i have snausages\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: ok i dont have snausages\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i can get snausages!\
+",
 	},
 	next = {
 		6715,

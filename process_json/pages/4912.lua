@@ -12,47 +12,134 @@ return {
 			0,
 			0,
 		},
-		"You stop being the other guy in time for us to see that you have just finished quickly and cleanly subduing the... ",
+		"You stop being the other guy in time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for us to see that you have just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"finished quickly and cleanly subduing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack, the man is dead. Stop that.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack, the man is dead. Stop that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack.\
+",
 	},
 	next = {
 		4913,

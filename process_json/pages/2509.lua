@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Just what you need. Another voice of the imminently deceased invading your head. Haven't they caused you enough trouble already?",
+		"Just what you need. Another voice of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the imminently deceased invading your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"head. Haven't they caused you enough\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trouble already?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Get iit out.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Get iit out.\
+",
 	},
 	next = {
 		2510,

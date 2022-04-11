@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You find the agent's office. But he is nowhere to be found.",
+		"You find the agent's office. But he is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nowhere to be found.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You eye something on the desk there.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You eye something on the desk there.\
+",
 	},
 	next = {
 		1549,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The LCD PANEL appears to have a touchscreen interface.",
+		"The LCD PANEL appears to have a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"touchscreen interface.\
+",
 	},
 	next = {
 		728,

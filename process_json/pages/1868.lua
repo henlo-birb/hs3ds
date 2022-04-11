@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"A meteor overhead looms unnoticed.",
+		"A meteor overhead looms unnoticed.\
+",
 	},
 	next = {
 		1869,

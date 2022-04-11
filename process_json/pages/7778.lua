@@ -12,371 +12,890 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: no problem!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: no problem!",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: I Didnt Think\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Didnt Think",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: It Would Be This Easy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: It Would Be This Easy",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: I Mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Mean",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Not That It Was Easy For You By The Sound Of It",
+		"KANAYA: Not That It Was Easy For You\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"By The Sound Of It\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: What I Mean Is I Thought It Was Going To Involve An Arduous And Lengthy Process For Myself To Undertake In Order To Figure Out How It Was Even Possible To Reconstruct The Orb Let Alone Actually Do It",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: What I Mean Is I Thought It\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Was Going To Involve An Arduous And\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Lengthy Process For Myself To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Undertake In Order To Figure Out How\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"It Was Even Possible To Reconstruct\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"The Orb Let Alone Actually Do It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: nah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: nah",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Nah?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Nah?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: nope!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: nope!",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: So Instead Of All That\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: So Instead Of All That",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Its Just\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Its Just",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Handed To Me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Handed To Me",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Like A Nice Present\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Like A Nice Present",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: yes",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: I Dont Know What To Say\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Dont Know What To Say",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: This Changes So Much\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: This Changes So Much",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: About Everything I Thought I\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Had To Do\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: About Everything I Thought I Had To Do",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: does it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: does it?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: the way i see it is you shouldnt have needed to worry about makin the thing",
+		"ROXY: the way i see it is you shouldnt\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i think it will be challenging enough like...",
+		"have needed to worry about makin the\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: hatching it??",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and tending to all the stuff that comes next",
+		"ROXY: i think it will be challenging\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"enough like...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: isnt that basically being responsible for the preservation of an entire race of people?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: hatching it??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: like not even a simple kinda people that all go about havin their own babies by themselves n such",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: u have to set up and deal with this huge creature that does it all herself right?",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Yes",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Thats How It Works",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: And Yes That Will Be",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Probably Very Challenging",
+		"ROXY: and tending to all the stuff\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"that comes next\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: yeah so just focus on that!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: im sure you will have help if you need it",
+		"ROXY: isnt that basically being\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i mean... after all this shit is over obviously",
+		"responsible for the preservation of an\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"entire race of people?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: hey speaking of which",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: howd it go here? did you do the thing?",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Yes I Think We Did The Thing",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Our Frog Should Be Good To Go",
+		"ROXY: like not even a simple kinda\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: we?",
+		"people that all go about havin their\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"own babies by themselves n such\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: oh yeah karkat came too didnt he",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: where did he go?",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Oh",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: He Um",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Hes Still In The Cave",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Uh",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Meditating",
+		"ROXY: u have to set up and deal with\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: meditating huh",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: ",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Yes",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: It Was A Very Spiritually Uplifting Encounter With The Denizen",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: It Really Uh",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Blitzed Our Chakras",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: He Needs Some Time To Clear His Head",
+		"this huge creature that does it all\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"herself right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: heheh ok",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Thats How It Works\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: And Yes That Will Be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Probably Very Challenging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yeah so just focus on that!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: im sure you will have help if\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"you need it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i mean... after all this shit is\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"over obviously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: hey speaking of which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: howd it go here? did you do the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"thing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Yes I Think We Did The Thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Our Frog Should Be Good To Go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: we?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: oh yeah karkat came too didnt he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: where did he go?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Oh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: He Um\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Hes Still In The Cave\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Meditating\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: meditating huh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA:\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: It Was A Very Spiritually\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Uplifting Encounter With The Denizen\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: It Really Uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Blitzed Our Chakras\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: He Needs Some Time To Clear\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"His Head\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: heheh ok\
+",
 	},
 	next = {
 		7779,

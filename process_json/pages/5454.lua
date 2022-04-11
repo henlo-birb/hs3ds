@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"This place is boring as hell.",
+		"This place is boring as hell.\
+",
 	},
 	next = {
 		5455,

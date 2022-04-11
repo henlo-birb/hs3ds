@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There is something familiar about this.",
+		"There is something familiar about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this.\
+",
 	},
 	next = {
 		2944,

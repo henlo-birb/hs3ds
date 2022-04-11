@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The boy sees himself in a cloud. His destination, revealed.",
+		"The boy sees himself in a cloud. His\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"destination, revealed.\
+",
 	},
 	next = {
 		1948,

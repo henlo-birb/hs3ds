@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You don't have a BACKUP HAT all you got is this DECK OF CARDS oh wait yes you do.",
+		"You don't have a BACKUP HAT all you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got is this DECK OF CARDS oh wait yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you do.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's stashed away in your BRAWLSOLEUM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's stashed away in your BRAWLSOLEUM.\
+",
 	},
 	next = {
 		1200,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You switch to a view of an unseasonably warm city in the central United States, on December 4th, 1995.",
+		"You switch to a view of an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unseasonably warm city in the central\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"United States, on December 4th, 1995.\
+",
 	},
 	next = {
 		1878,

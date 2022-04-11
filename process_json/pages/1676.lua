@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Huh? Oh.",
+		"Huh? Oh.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Cal, please. Not now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cal, please. Not now.\
+",
 	},
 	next = {
 		1677,

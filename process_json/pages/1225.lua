@@ -12,29 +12,64 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Eggs",
+		"Eggs\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		".",
-		{
-			0,
-			0,
-			0,
-		},
-		"\
-\
-Son of a FUCK.",
+		".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You might as well just grab one of your axes and kill yourself now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Son of a FUCK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You might as well just grab one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your axes and kill yourself now.\
+",
 	},
 	next = {
 		1226,

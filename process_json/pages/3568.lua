@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You're done with dying.",
+		"You're done with dying.\
+",
 	},
 	next = {
 		3569,

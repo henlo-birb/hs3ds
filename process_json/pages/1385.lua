@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"No, that's just a ghost image of an ordinary bass. That's not right.",
+		"No, that's just a ghost image of an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ordinary bass. That's not right.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You try again, focusing on getting all the mechanical details just right.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You try again, focusing on getting all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the mechanical details just right.\
+",
 	},
 	next = {
 		1386,

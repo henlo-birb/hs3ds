@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Shit!!! While you were distracted with the newspaper in dreamland, Squarewave has ambushed you for a rap-off!!! ",
+		"Shit!!! While you were distracted with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the newspaper in dreamland, Squarewave\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has ambushed you for a rap-off!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Told you bro. Can't let your guard down for a second.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Told you bro. Can't let your guard\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down for a second.\
+",
 	},
 	next = {
 		4541,

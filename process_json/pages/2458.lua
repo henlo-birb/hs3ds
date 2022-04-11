@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"Yeah, see? No answer. Bored shitless, just like you thought. She has much hotter irons in the fire than you these days.",
+		"Yeah, see? No answer. Bored shitless,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just like you thought. She has much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hotter irons in the fire than you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these days.\
+",
 	},
 	next = {
 		2459,

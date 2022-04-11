@@ -12,602 +12,1947 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i wonder if we will ever be able to start a conversation without having a ridiculous argument about the password system?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: IF YOU WOULD DROP THE PASSWORD SYSTEM AND LET FUTURE ME TALK TO YOU, HE MIGHT BE ABLE TO GIVE YOU AN ANSWER.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: SPOILER: THE ANSWER WOULD BE NO, BECAUSE THE PASSWORDS ARE RETARDED.",
+		"GG: i wonder if we will ever be able\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: why would i want to do that??",
+		"to start a conversation without having\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: the only guy whos dumber than past karkat is future karkat, and vice versa!",
+		"a ridiculous argument about the\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"password system?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i have this on good authority from both sources",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I STILL THINK YOUR USE OF THE TERMS IS KIND OF ASININE, THERE REALLY IS NO PAST OR FUTURE KARKAT FROM YOUR VIEW",
+		"CG: IF YOU WOULD DROP THE PASSWORD\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: THERE'S KARKAT WHO KNOWS LESS STUFF AND KARKAT WHO KNOWS MORE STUFF. WHY NOT JUST GATHER THE FACTS FROM THE ONE WHO'S GOT THE LOWDOWN ALREADY?",
+		"SYSTEM AND LET FUTURE ME TALK TO YOU,\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I MEAN, I'D DO IT MYSELF, BUT I CAN'T STAND THE GUY.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: you see, that is your problem",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: okay, one of your many, many problems...",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: you have no patience to do things the right way, youre always just looking for the shortcut!",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: even if doing so has brought you nothing but trouble a hundred times before",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: it is sort of funny that the only thing standing in your way is one of your other problems, your preposterous self loathing",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: so you cant even trust your future self to help you cheat!",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: its like you have so many problems, they cancel each other out",
+		"HE MIGHT BE ABLE TO GIVE YOU AN\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"ANSWER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: THAT'S NOT THE ONLY THING STANDING IN MY WAY. YOUR STUPID PASSWORDS ARE ALSO STANDING IN MY WAY. IF NOT FOR THAT I COULD BE FAST TRACKING THIS TO SOLUTION CITY FOR US BOTH.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: SPOILER: THE ANSWER WOULD BE NO,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BECAUSE THE PASSWORDS ARE RETARDED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: exactly :D",
+		"GG: why would i want to do that??\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: OK, WHATEVER, LET'S JUST GET ON WITH THIS \"LINEAR CONVERSATION\" OK?",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: ok",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: SO YOU GAVE ME THAT SILLY PASSWORD, AND WE ENDED OUR CONVERSATION A FEW MINUTES AGO FROM MY END",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: AND I SCANNED AHEAD LOOKING FOR A GOOD MOMENT ON YOUR TIMELINE TO PICK IT UP AGAIN",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: AND I NOTICE YOU WENT BACK TO SEE HER AGAIN FOR SOME REASON",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: yes",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: SO I'M JUST WONDERING WHY",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: WHAT HAPPENED TO THE FROG BREEDING, I THOUGHT WE WERE ON A ROLL WITH THAT",
+		"GG: the only guy whos dumber than past\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: yes, we still are!",
+		"karkat is future karkat, and vice\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: this little detour was related to that task. we should be nearly done.",
+		"versa!\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: WHAT WAS SHE EVEN SAYING TO YOU, I CAN'T UNDERSTAND A WORD OF THAT HORRIFYING GIBBERISH.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: i can understand her just fine!",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I STILL DON'T REALLY GET IT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: WHY MY DENIZEN WAS SUCH A NIGHTMARE WHILE YOURS APPARENTLY GIVES YOU GUTTURAL PEP TALKS IN SOME BYZANTINE MONSTER LANGUAGE.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: we already talked about this",
+		"GG: i have this on good authority from\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"both sources\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: echidna and i have an understanding now ;)",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: OOH, VAGUE BULLSHIT, IT'S THE EXACT FUCKING THING I CAN'T GET ENOUGH OF.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: well maybe if you werent in such a grumpy hurry all the time you wouldnt have killed your denizen so quickly",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: you might have actually learned something!!!!!!",
+		"CG: I STILL THINK YOUR USE OF THE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: HUGE UGLY MONSTERS ARE FOR KILLING, PERIOD.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: did you ever talk to kanaya about it?",
+		"TERMS IS KIND OF ASININE, THERE REALLY\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I DON'T REMEMBER, MAYBE?",
+		"IS NO PAST OR FUTURE KARKAT FROM YOUR\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I'M A BUSY GUY, JADE. I TALK TO A LOT OF PEOPLE ABOUT A LOT OF STUFF, INCLUDING MYSELF.",
+		"VIEW\
+",
 		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: her situation was very similar to mine",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I THOUGHT SHE KILLED HER DENIZEN TO LIGHT THE FORGE OR SOMETHING",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: it doesnt sound like you got the whole story",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: or maybe you just werent listening to her :p",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: WELL I SURE DON'T THINK IT WAS WHATEVER YOU DID",
+		"CG: THERE'S KARKAT WHO KNOWS LESS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: AND IN ANY CASE I THOUGHT ALL THAT WAS OVER WITH",
+		"STUFF AND KARKAT WHO KNOWS MORE STUFF.\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: WHY ARE YOU BACK, WHAT DOES THIS HAVE TO DO WITH FROG BREEDING?",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: this was kanayas suggestion",
+		"WHY NOT JUST GATHER THE FACTS FROM THE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"ONE WHO'S GOT THE LOWDOWN ALREADY?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: KANAYA'S STILL HELPING YOU?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I MEAN, I'D DO IT MYSELF, BUT I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CAN'T STAND THE GUY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: you see, that is your problem\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: yes!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: im talking to her right now actually",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: OH",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I SEE HER ACROSS THE ROOM, SHE'S NOT TALKING TO ANYONE ON A COMPUTER NOW.",
+		"GG: okay, one of your many, many\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: durrr, of course not, shes from a different time than you genius",
+		"problems...\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: WHICH TIME",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: a few hours in your future!",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: AH, I SEE HOW IT IS.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: YOU WON'T TALK TO FUTURE KARKAT UNTIL I JUMP THROUGH YOUR FUCKING PASSWORD HOOPS AND BECOME HIM EVENTUALLY",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: BUT YOU'LL TALK TO FUTURE KANAYA JUST LIKE THAT. DOUBLE STANDARD ANYBODY??? JADE SAYS YES PLEASE.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: you are so ridiculous, i have kanaya using the same password system as you",
+		"GG: you have no patience to do things\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: she is just a little further ahead on my timeline is all",
+		"the right way, youre always just\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: it would be pretty hard to keep you both synced up!",
+		"looking for the shortcut!\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: I THOUGHT YOU DIDN'T WANT SHIT SPOILED FROM THE FUTURE THOUGH.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: yeah, from MY future, i dont want you guys telling me the things i do before i do them because you talked to future me!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: but knowing a few things about your future doesnt really matter, NOT that i am going to tell you any of it, so dont ask",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I THINK I AM ON THE VERGE OF BECOMING A RELIGIOUS PERSON, I JUST DON'T KNOW WHERE ELSE TO TURN TO REMOVE THE AWESOME SUFFERING THAT TROLLIAN'S TEMPORAL CHAT BULLSHIT MIRACULOUSLY CONTINUES TO INFLICT ON ME.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: MAYBE THE MIRTHFUL MESSIAHS WILL COME AND TAKE MY PAIN AWAY?? OH YES, THAT SOUNDS HEAVENLY.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: JADE, PLEASE EXCUSE ME WHILE I GO PAINT MY FACE TO OUTWARDLY REFLECT THE BEAUTY OF MY INNER AWAKENING, AND DRUB MY THINK PAN MERCILESSLY TO REDUCE MY INTELLIGENCE TO THE LEVEL NECESSARY TO SUSTAIN THESE BELIEFS.",
+		"GG: even if doing so has brought you\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: siiign, what are you even talking about?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: ARE WE ALMOST DONE CRAFTING THIS \"MASTER PLAN\"?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I HAVE STUFF TO ATTEND TO HERE. MY TEAM IS FALLING APART.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: AND I CAN'T FIND GAMZEE ANYWHERE. I'M WORRIED HE MIGHT HAVE WANDERED OFF SOMEWHERE AND GOT HURT.",
+		"nothing but trouble a hundred times\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"before\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: aw",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: well...",
+		"GG: it is sort of funny that the only\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: youll find him",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I THOUGHT YOU WEREN'T TELLING ME ABOUT MY FUTURE.",
+		"thing standing in your way is one of\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i know, i made an exception",
+		"your other problems, your preposterous\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: but only one!",
+		"self loathing\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: LET'S MOVE THIS ALONG. JUST UPDATE ME ON THE FROGS, AND GIVE ME A NEW PASSWORD, OK?",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: kanaya thinks we should all talk about this",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: she says youre important to consult on the matter, but the you from her time is too busy",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: BUSY WITH WHAT?",
+		"GG: so you cant even trust your future\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"self to help you cheat!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: :x!!!!!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: its like you have so many\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"problems, they cancel each other out\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: she is opening a memo",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: THAT'S NOT THE ONLY THING STANDING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IN MY WAY. YOUR STUPID PASSWORDS ARE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ALSO STANDING IN MY WAY. IF NOT FOR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT I COULD BE FAST TRACKING THIS TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SOLUTION CITY FOR US BOTH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: exactly :D\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: OK, WHATEVER, LET'S JUST GET ON\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WITH THIS \"LINEAR CONVERSATION\" OK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: ok\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: SO YOU GAVE ME THAT SILLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PASSWORD, AND WE ENDED OUR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CONVERSATION A FEW MINUTES AGO FROM MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"END\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND I SCANNED AHEAD LOOKING FOR A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GOOD MOMENT ON YOUR TIMELINE TO PICK\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IT UP AGAIN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND I NOTICE YOU WENT BACK TO SEE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HER AGAIN FOR SOME REASON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: SO I'M JUST WONDERING WHY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHAT HAPPENED TO THE FROG\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BREEDING, I THOUGHT WE WERE ON A ROLL\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WITH THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yes, we still are!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: this little detour was related to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"that task. we should be nearly done.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHAT WAS SHE EVEN SAYING TO YOU, I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CAN'T UNDERSTAND A WORD OF THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HORRIFYING GIBBERISH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i can understand her just fine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I STILL DON'T REALLY GET IT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHY MY DENIZEN WAS SUCH A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"NIGHTMARE WHILE YOURS APPARENTLY GIVES\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOU GUTTURAL PEP TALKS IN SOME\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BYZANTINE MONSTER LANGUAGE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: we already talked about this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: echidna and i have an\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"understanding now ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: OOH, VAGUE BULLSHIT, IT'S THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EXACT FUCKING THING I CAN'T GET ENOUGH\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"OF.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: well maybe if you werent in such a\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"grumpy hurry all the time you wouldnt\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"have killed your denizen so quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: you might have actually learned\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"something!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: HUGE UGLY MONSTERS ARE FOR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KILLING, PERIOD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: did you ever talk to kanaya about\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I DON'T REMEMBER, MAYBE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I'M A BUSY GUY, JADE. I TALK TO A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"LOT OF PEOPLE ABOUT A LOT OF STUFF,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"INCLUDING MYSELF.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: her situation was very similar to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"mine\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I THOUGHT SHE KILLED HER DENIZEN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TO LIGHT THE FORGE OR SOMETHING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: it doesnt sound like you got the\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"whole story\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: or maybe you just werent listening\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"to her :p\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WELL I SURE DON'T THINK IT WAS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WHATEVER YOU DID\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND IN ANY CASE I THOUGHT ALL THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WAS OVER WITH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHY ARE YOU BACK, WHAT DOES THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HAVE TO DO WITH FROG BREEDING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: this was kanayas suggestion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: KANAYA'S STILL HELPING YOU?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yes!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: im talking to her right now\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"actually\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I SEE HER ACROSS THE ROOM, SHE'S\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"NOT TALKING TO ANYONE ON A COMPUTER\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"NOW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: durrr, of course not, shes from a\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"different time than you genius\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHICH TIME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: a few hours in your future!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AH, I SEE HOW IT IS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: YOU WON'T TALK TO FUTURE KARKAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"UNTIL I JUMP THROUGH YOUR FUCKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PASSWORD HOOPS AND BECOME HIM\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVENTUALLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: BUT YOU'LL TALK TO FUTURE KANAYA\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"JUST LIKE THAT. DOUBLE STANDARD\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ANYBODY??? JADE SAYS YES PLEASE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: you are so ridiculous, i have\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"kanaya using the same password system\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"as you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: she is just a little further ahead\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"on my timeline is all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: it would be pretty hard to keep\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"you both synced up!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I THOUGHT YOU DIDN'T WANT SHIT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SPOILED FROM THE FUTURE THOUGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yeah, from MY future, i dont want\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"you guys telling me the things i do\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"before i do them because you talked to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"future me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: but knowing a few things about\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"your future doesnt really matter, NOT\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"that i am going to tell you any of it,\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"so dont ask\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I THINK I AM ON THE VERGE OF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BECOMING A RELIGIOUS PERSON, I JUST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DON'T KNOW WHERE ELSE TO TURN TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"REMOVE THE AWESOME SUFFERING THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TROLLIAN'S TEMPORAL CHAT BULLSHIT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MIRACULOUSLY CONTINUES TO INFLICT ON\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: MAYBE THE MIRTHFUL MESSIAHS WILL\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"COME AND TAKE MY PAIN AWAY?? OH YES,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT SOUNDS HEAVENLY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: JADE, PLEASE EXCUSE ME WHILE I GO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PAINT MY FACE TO OUTWARDLY REFLECT THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BEAUTY OF MY INNER AWAKENING, AND DRUB\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MY THINK PAN MERCILESSLY TO REDUCE MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"INTELLIGENCE TO THE LEVEL NECESSARY TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SUSTAIN THESE BELIEFS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: siiign, what are you even talking\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"about?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: ARE WE ALMOST DONE CRAFTING THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"\"MASTER PLAN\"?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I HAVE STUFF TO ATTEND TO HERE. MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TEAM IS FALLING APART.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND I CAN'T FIND GAMZEE ANYWHERE.\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"I'M WORRIED HE MIGHT HAVE WANDERED OFF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SOMEWHERE AND GOT HURT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: aw\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: well...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: youll find him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I THOUGHT YOU WEREN'T TELLING ME\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ABOUT MY FUTURE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i know, i made an exception\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: but only one!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: LET'S MOVE THIS ALONG. JUST UPDATE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ME ON THE FROGS, AND GIVE ME A NEW\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PASSWORD, OK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: kanaya thinks we should all talk\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"about this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: she says youre important to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"consult on the matter, but the you\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"from her time is too busy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: BUSY WITH WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: :x!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: she is opening a memo\
+",
 	},
 	next = {
 		3936,

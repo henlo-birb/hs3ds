@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"No, stop that.",
+		"No, stop that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You render yourself in a more symbolic manner this instant.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You render yourself in a more symbolic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"manner this instant.\
+",
 	},
 	next = {
 		4040,

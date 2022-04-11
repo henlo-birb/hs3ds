@@ -15,21 +15,43 @@ return {
 			0,
 			0,
 		},
-		"Left knob: volume for current sample. ",
+		"Left knob: volume for current sample.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-Right knob: master volume.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Right knob: master volume.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-Store patterns in F1, F2, F3... buttons.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Store patterns in F1, F2, F3...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"buttons.\
+",
 	},
 	next = {
 		339,

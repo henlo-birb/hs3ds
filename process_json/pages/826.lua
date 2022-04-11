@@ -14,15 +14,43 @@ return {
 			0,
 			0,
 		},
-		"Hey look, John is online! Hooray!",
+		"Hey look, John is online! Hooray!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Also it looks like Dave pestered you about something yesterday but you missed it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Also it looks like Dave pestered you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about something yesterday but you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"missed it.\
+",
 	},
 	next = {
 		827,

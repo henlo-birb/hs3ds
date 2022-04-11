@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You got the POGO HAMMER.",
+		"You got the POGO HAMMER.\
+",
 	},
 	next = {
 		636,

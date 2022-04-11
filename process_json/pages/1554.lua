@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Bring him the crowns. He'll give you the box.",
+		"Bring him the crowns. He'll give you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the box.\
+",
 	},
 	next = {
 		1555,

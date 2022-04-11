@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It looks like your computer is trying to get your attention.",
+		"It looks like your computer is trying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get your attention.\
+",
 	},
 	next = {
 		134,

@@ -12,42 +12,106 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Oh, wow. No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Oh, wow. No.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: You will not ever 8e speaking again. No.",
+		"ARANEA: You will not ever 8e speaking\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"again. No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Never, never, never again. Never.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Wow.",
+		"ARANEA: Never, never, never again.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"Never.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: And I thought our Makara was awful. At least he had the decency to sew his mouth shut.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Wow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: And I thought our Makara was\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"awful. At least he had the decency to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sew his mouth shut.\
+",
 	},
 	next = {
 		6559,

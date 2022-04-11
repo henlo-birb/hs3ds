@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You flip your FETCH MODI but find no such option.",
+		"You flip your FETCH MODI but find no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such option.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is idiotic.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is idiotic.\
+",
 	},
 	next = {
 		629,

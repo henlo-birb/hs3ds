@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You've killed a little time, but still no sign of John.",
+		"You've killed a little time, but still\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no sign of John.\
+",
 	},
 	next = {
 		835,

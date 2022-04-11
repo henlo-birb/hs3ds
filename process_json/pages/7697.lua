@@ -12,455 +12,1471 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what do you think they are\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"talking about over there?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what do you think they are talking about over there?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I suspect Roxy wanted some time to catch up with an old friend.",
+		"JANE: I suspect Roxy wanted some time\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I'm sure I would want the same, if I hadn't just had an extensive reunion with her myself.",
+		"to catch up with an old friend.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: yeah, i guess we should just chill out and give them a moment.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: it isn't QUITE time to head to our battle stations yet, so we might as well try to relax until it is.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I imagine it's a lot easier to relax when another version of yourself hasn't been hijacked by your dead cat.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: heheh, yeah, it probably is.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: maybe you should try not to let her bug you, rose. she seems harmless enough.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: plus, she's pretty funny!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Sounds suspiciously like the advice of someone who's never had to deal with an outlandish alternate version of himself.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: hey, i've bumped into other johns a few times!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: can't say the experience has been anything other than perfectly agreeable. :p",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: You mean, Johns that were essentially time duplicates? In the course of your retcon quest?",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Those don't count. Those were just regular Johns.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: What I'm saying is, you never had to deal with the John who was like, half Harry Anderson, and half Maplehoof the dear departed pony.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: wow, that sounds GREAT!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Come to think of it, you're the only one of us who hasn't. I mean, of our original group of friends.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Dave had Bird Dave, Jade had Dog Jade, and now I have... *shudder*... Cat Rose.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Why were you let off the hook?",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: i dunno.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: guess you guys are just luckier than me. :)",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Even putting aside the wildly unwelcome body horror slapstick routine she represents, and the machine gun salvo of opprobrious remarks and conduct which my cat is apparently capable of releasing from my subconscious,",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I'm not sure where this leaves me.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: what do you mean?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I felt like I understood my place.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I'd gotten myself in order somewhat. My, um.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Beverage decisions had gotten more reasonable.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I was ready to bear down and play my part in finishing this.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I could even handle a stray Rosesprite brought to my doorstep by my sweet imbecile of a pet.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Idiotic though that was, I was still clearly Rose Prime.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: But can I really claim that now?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: She's a... sprite SQUARED?!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: How is that even a thing.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Can someone tell me how that's even a thing?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I can't tell you how it's even a thing.",
+		"JANE: I'm sure I would want the same,\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I think we are all just as flabbergasted as you at its thinginess.",
+		"if I hadn't just had an extensive\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"reunion with her myself.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: What's next? Is there a sprite cubed? Or a...",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Let's not even entertain this avenue of thought.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: The point is, she must be quite powerful, insightful, and in spite of the beast she rents headspace out to, intelligent as well.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Doesn't she arguably have more claim to being Real Rose than I do?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i don't think being the \"real rose\" necessarily means being the one who is more outgoing and chatty and powerful and stuff.",
+		"JOHN: yeah, i guess we should just\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"chill out and give them a moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm not sure it means... anything?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i think maybe we should try to drop the stuff about who is the real version of who anyway. it's weird and it just hurts people's feelings.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I don't care if my feelings are hurt, though.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I just want to know where I stand.",
+		"JOHN: it isn't QUITE time to head to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i really don't think she is that threatening to you!",
+		"our battle stations yet, so we might\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"as well try to relax until it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: believe me, you still seem like the rose i always knew, whereas she... doesn't quite.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I imagine it's a lot easier to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"relax when another version of yourself\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"hasn't been hijacked by your dead cat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: it seems to me she is a lot more interested in having fun and zipping around like a silly lunatic than usurping you as the main rose.",
+		"JOHN: heheh, yeah, it probably is.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: Sure. That's what she WANTS you to think.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: but why do you care? i thought i heard the other rose say, before she was a cat, that she liked the idea of being some sort of... backup rose.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: do you not feel that way too?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: That was a different context.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I probably would have felt the same way, if I found myself in her exact situation.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Jasprose changes everything though.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Now I feel a certain responsibility. Like I have to really step up.",
+		"JOHN: maybe you should try not to let\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: step up??",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Yes. To make sure I stay regarded as the exemplary model.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: To provide assurance that the concept of Roseness itself doesn't degrade due to black market peddlers of substandard shit.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Basically, I need to defend the integrity of the brand.",
+		"her bug you, rose. she seems harmless\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"enough.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: hahaha. oh my god.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: plus, she's pretty funny!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Sounds suspiciously like the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"advice of someone who's never had to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"deal with an outlandish alternate\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"version of himself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: What?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: nothing.",
+		"JOHN: hey, i've bumped into other\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"johns a few times!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i just missed you so much!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: can't say the experience has\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"been anything other than perfectly\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"agreeable. :p\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: You mean, Johns that were\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"essentially time duplicates? In the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"course of your retcon quest?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Those don't count. Those were\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"just regular Johns.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: What I'm saying is, you never\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"had to deal with the John who was\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"like, half Harry Anderson, and half\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Maplehoof the dear departed pony.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: wow, that sounds GREAT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Come to think of it, you're the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"only one of us who hasn't. I mean, of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"our original group of friends.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Dave had Bird Dave, Jade had Dog\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Jade, and now I have... *shudder*...\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Cat Rose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Why were you let off the hook?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i dunno.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: guess you guys are just luckier\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"than me. :)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Even putting aside the wildly\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"unwelcome body horror slapstick\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"routine she represents, and the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"machine gun salvo of opprobrious\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"remarks and conduct which my cat is\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"apparently capable of releasing from\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"my subconscious,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I'm not sure where this leaves\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what do you mean?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I felt like I understood my\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"place.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I'd gotten myself in order\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"somewhat. My, um.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Beverage decisions had gotten\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"more reasonable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I was ready to bear down and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"play my part in finishing this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I could even handle a stray\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Rosesprite brought to my doorstep by\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"my sweet imbecile of a pet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Idiotic though that was, I was\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"still clearly Rose Prime.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: But can I really claim that now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: She's a... sprite SQUARED?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: How is that even a thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Can someone tell me how that's\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"even a thing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I can't tell you how it's even a\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I think we are all just as\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"flabbergasted as you at its\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"thinginess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: What's next? Is there a sprite\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cubed? Or a...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Let's not even entertain this\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"avenue of thought.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: The point is, she must be quite\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"powerful, insightful, and in spite of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the beast she rents headspace out to,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"intelligent as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Doesn't she arguably have more\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"claim to being Real Rose than I do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i don't think being the \"real\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"rose\" necessarily means being the one\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"who is more outgoing and chatty and\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"powerful and stuff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i'm not sure it means...\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"anything?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i think maybe we should try to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"drop the stuff about who is the real\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"version of who anyway. it's weird and\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"it just hurts people's feelings.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I don't care if my feelings are\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"hurt, though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I just want to know where I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"stand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i really don't think she is that\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"threatening to you!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: believe me, you still seem like\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the rose i always knew, whereas she...\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"doesn't quite.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it seems to me she is a lot more\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"interested in having fun and zipping\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"around like a silly lunatic than\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"usurping you as the main rose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Sure. That's what she WANTS you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"to think.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but why do you care? i thought i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"heard the other rose say, before she\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"was a cat, that she liked the idea of\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"being some sort of... backup rose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: do you not feel that way too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: That was a different context.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I probably would have felt the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"same way, if I found myself in her\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"exact situation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Jasprose changes everything\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Now I feel a certain\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"responsibility. Like I have to really\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"step up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: step up??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Yes. To make sure I stay\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"regarded as the exemplary model.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: To provide assurance that the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"concept of Roseness itself doesn't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"degrade due to black market peddlers\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"of substandard shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Basically, I need to defend the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"integrity of the brand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: hahaha. oh my god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: nothing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i just missed you so much!\
+",
 	},
 	next = {
 		7698,

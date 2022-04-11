@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"It's the White Rabbit! ",
+		"It's the White Rabbit!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sort of!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sort of!\
+",
 	},
 	next = {
 		5069,

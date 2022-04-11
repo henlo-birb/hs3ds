@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"I'm reasonably convinced of this much. When the Hero of Breath dies for good, it won't be as a scoundrel.",
+		"I'm reasonably convinced of this much.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"When the Hero of Breath dies for good,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it won't be as a scoundrel.\
+",
 	},
 	next = {
 		3795,

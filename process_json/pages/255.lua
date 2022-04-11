@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You go back up to your bedroom, tiptoeing around this weird petroleum-based sludge.",
+		"You go back up to your bedroom,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tiptoeing around this weird\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"petroleum-based sludge.\
+",
 	},
 	next = {
 		256,

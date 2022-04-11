@@ -12,15 +12,92 @@ return {
 			0,
 			0,
 		},
-		"Problem with that is, he'll just see your FUTURE TRAIL following him, and that'll be nothing but a loud invitation for him to mess with you some more.",
+		"Problem with that is, he'll just see\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your FUTURE TRAIL following him, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that'll be nothing but a loud\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"invitation for him to mess with you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some more.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Besides, better to leave him alive. You think you know where he'll lead you to. Just got to be a little more subtle about tracing his BLOOD TRAIL. Keep your FUTURE TRAIL out of his line of sight.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, better to leave him alive.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think you know where he'll lead\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you to. Just got to be a little more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"subtle about tracing his BLOOD TRAIL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Keep your FUTURE TRAIL out of his line\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of sight.\
+",
 	},
 	next = {
 		1242,

@@ -12,644 +12,1261 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"So how would you like me to help you \"get yourself\"? ",
+		"So how would you like me to help you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"\"get yourself\"?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i dont know! ",
+		"i dont know!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"when we were on our date and you were talkin to me about stuff and i was acting all embarrassed... ",
+		"when we were on our date and you were\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"talkin to me about stuff and i was\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"acting all embarrassed...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"that was pretty cool or at least nepeta thought so ",
+		"that was pretty cool or at least\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"nepeta thought so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"You mean about her liking Karkat, and such? ",
+		"You mean about her liking Karkat, and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"such?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"yeah! ",
+		"yeah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"you know whats crazy is ",
+		"you know whats crazy is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"even in my new form i... ",
+		"even in my new form i...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"dont even f33l conflicted about that??? ",
+		"dont even f33l conflicted about\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"it sorta f33ls right still ",
+		"it sorta f33ls right still\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i would have thought id be a mess of contradictions about that but hmm nope ",
+		"i would have thought id be a mess of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"contradictions about that but hmm nope\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"weird right?! ",
+		"weird right?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"If you say so. ",
+		"If you say so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"not that im sayin i should act on that or anything ",
+		"not that im sayin i should act on that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"or anything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"its like you were saying ",
+		"its like you were saying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"about being the odd rose out ",
+		"about being the odd rose out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"and when you got jaspersed everything changed ",
+		"and when you got jaspersed everything\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"changed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"these are brand new lives for us so it f33ls like i should try to leave the old stuff behind ",
+		"these are brand new lives for us so it\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"f33ls like i should try to leave the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"old stuff behind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but that means ",
+		"but that means\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i also gotta figure out what to do with my life now! ",
+		"i also gotta figure out what to do\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"with my life now!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"or my pseudo life, whatever the hell it is you have when youre a sprite^2 ",
+		"or my pseudo life, whatever the hell\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"it is you have when youre a sprite^2\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Then what do you want to do with your pseudo-life? ",
+		"Then what do you want to do with your\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"pseudo-life?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"hmmmmmm ",
+		"hmmmmmm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"aw man youre gonna think im crazy for even saying this... ",
+		"aw man youre gonna think im crazy for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"even saying this...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"I already think we're both crazy. ",
+		"I already think we're both crazy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i have this weird urge...... ",
+		"i have this weird urge......\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"to go fight lord english ",
+		"to go fight lord english\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"What the fuck? ",
+		"What the fuck?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"I KNOW RIGHT! ",
+		"I KNOW RIGHT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"im just strangely drawn to the idea ",
+		"im just strangely drawn to the idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i wasnt at all before as a really depressed bird version of dave ",
+		"i wasnt at all before as a really\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"depressed bird version of dave\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"and nepeta didnt even know who he WAS until recently ",
+		"and nepeta didnt even know who he WAS\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"until recently\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but now it sounds cool suddenly ",
+		"but now it sounds cool suddenly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i f33l like... ",
+		"i f33l like...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"the exact blend of people i am ",
+		"the exact blend of people i am\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"is a being that he should in some way be vulnerable to ",
+		"is a being that he should in some way\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"be vulnerable to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i cant even explain why i f33l that way ",
+		"i cant even explain why i f33l that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Well, you have to follow your heart, I suppose. ",
+		"Well, you have to follow your heart, I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"suppose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"B33",
+		"B33\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"*davepeta stealthily stalks their heart as it minds its own business beating at the bank of a nearby stream*",
+		"*davepeta stealthily stalks their\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"heart as it minds its own business\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"beating at the bank of a nearby\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"stream*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"*they crouch into one of those quintessential cat poses with like their butt in the air... davepeta starts wiggling their ass furiously*",
+		"*they crouch into one of those\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"quintessential cat poses with like\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"their butt in the air... davepeta\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"starts wiggling their ass furiously*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"*gets mildly distracted by wiggling of own ass... becomes more intrigued by movement of ass than beating of heart*",
+		"*gets mildly distracted by wiggling of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"own ass... becomes more intrigued by\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"movement of ass than beating of heart*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Is this what we're doing now? ",
+		"Is this what we're doing now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"nah im just messin ",
+		"nah im just messin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Ok. ",
+		"Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"I think if we are going to make a habit of roleplaying, I would like to script out some scenarios in advance. ",
+		"I think if we are going to make a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"habit of roleplaying, I would like to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"script out some scenarios in advance.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"I'm concerned that too much improvisation could end up muddying the narrative. ",
+		"I'm concerned that too much\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"improvisation could end up muddying\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the narrative.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"lmao!!!!!! ",
+		"lmao!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"okay you go right ahead and do that ",
+		"okay you go right ahead and do that\
+",
 	},
 	next = {
 		7899,

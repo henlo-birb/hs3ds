@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You take the BETA and the CD.",
+		"You take the BETA and the CD.\
+",
 	},
 	next = {
 		1513,

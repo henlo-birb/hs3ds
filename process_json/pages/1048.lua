@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"It is very much the same as your own! The only difference is that this one is home to a young boy instead of a young girl.",
+		"It is very much the same as your own!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The only difference is that this one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is home to a young boy instead of a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"young girl.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You peer through the window.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You peer through the window.\
+",
 	},
 	next = {
 		1049,

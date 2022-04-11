@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Maybe the dead girl is on to something. Maybe the only way to beat your bad luck is not caring about the outcome.",
+		"Maybe the dead girl is on to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something. Maybe the only way to beat\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bad luck is not caring about the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outcome.\
+",
 	},
 	next = {
 		2271,

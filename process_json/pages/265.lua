@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You cautiously walk within range of the PDA. Rose retrieves it.",
+		"You cautiously walk within range of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the PDA. Rose retrieves it.\
+",
 	},
 	next = {
 		266,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The good Doctor Spengler helps you gather the riches.",
+		"The good Doctor Spengler helps you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gather the riches.\
+",
 	},
 	next = {
 		1766,

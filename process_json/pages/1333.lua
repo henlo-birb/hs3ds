@@ -13,31 +13,36 @@ return {
 			0,
 			0,
 		},
-		"You flail the torso ",
+		"You flail the torso\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Cans",
+		"Cans\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"-ward in an attempt to ",
+		"-ward in an attempt to\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"placate him with the red meat",
+		"placate him with the red meat\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		".",
+		".\
+",
 	},
 	next = {
 		1334,

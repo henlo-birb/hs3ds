@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"This is not going to be pretty. But what are friends for if they can't smooch each others butchered corpses when the need arises? You will just have to suck it up. You can do it, Terezi.",
+		"This is not going to be pretty. But\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what are friends for if they can't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smooch each others butchered corpses\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when the need arises? You will just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have to suck it up. You can do it,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Terezi.\
+",
 	},
 	next = {
 		3379,

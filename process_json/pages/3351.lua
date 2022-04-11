@@ -12,33 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You are relieved to find Sollux is not ",
+		"You are relieved to find Sollux is not\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
-		"DEAD.",
+		"DEAD.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" He is merely ",
+		"He is merely\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
-		"KO'D.",
+		"KO'D.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't think you could handle it if this was ROUND TWO of watching your good bro get killed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't think you could handle it if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this was ROUND TWO of watching your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good bro get killed.\
+",
 	},
 	next = {
 		3352,

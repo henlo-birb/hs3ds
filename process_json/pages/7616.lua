@@ -12,84 +12,239 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: her choice was simple, and i accepted.",
+		"CALLIOPE: her choice was simple, and i\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"accepted.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: she mercifully ended my life, then and there.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: less mercifully is what came in exchange.",
+		"CALLIOPE: she mercifully ended my\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"life, then and there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: my soul would have to wait here.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: less mercifully is what came\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"in exchange.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: for what felt like a very, very long time.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: my soul would have to wait\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: for what felt like a very,\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"very long time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: wait for what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: wait for what?",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: you.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: echidna told me that your visit would be my signal.",
+		"CALLIOPE: echidna told me that your\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"visit would be my signal.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: an indication that the furthest ring around me had uncoiled itself momentarily, enough to be navigable.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: it would mean it was time for me to go, and fulfill the rest of my promise to her.",
+		"CALLIOPE: an indication that the\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"furthest ring around me had uncoiled\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"itself momentarily, enough to be\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"navigable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: so that is what i will do.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: it would mean it was time\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"for me to go, and fulfill the rest of\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"my promise to her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: so that is what i will do.\
+",
 	},
 	next = {
 		7617,

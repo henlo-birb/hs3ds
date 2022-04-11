@@ -12,15 +12,134 @@ return {
 			0,
 			0,
 		},
-		"You pause your adventure through the afterlife because you've been at it for way too long already. You'll get back to this in a little while. You just know more of your dead loser friends are lurking in this area. You can feel their lameness emanating from beyond the grave. You can also feel it emanating from within the grave, which is good, because that's where you are. The grave.",
+		"You pause your adventure through the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"afterlife because you've been at it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for way too long already. You'll get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back to this in a little while. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just know more of your dead loser\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friends are lurking in this area. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can feel their lameness emanating from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beyond the grave. You can also feel it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"emanating from within the grave, which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is good, because that's where you are.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The grave.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What we REALLY need to do is see what John's been up to. It almost feels like it's been a year since we saw him. Hell, it's probably his birthday again. When is it ever NOT John's birthday???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What we REALLY need to do is see what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John's been up to. It almost feels\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like it's been a year since we saw\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him. Hell, it's probably his birthday\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again. When is it ever NOT John's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"birthday???\
+",
 	},
 	next = {
 		5265,

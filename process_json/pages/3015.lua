@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"THIS IS STUPID.",
+		"THIS IS STUPID.\
+",
 	},
 	next = {
 		3016,

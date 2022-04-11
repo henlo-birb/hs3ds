@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: shit shit shit shit shit",
+		"DAVE: shit shit shit shit shit\
+",
 	},
 	next = {
 		6689,

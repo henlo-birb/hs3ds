@@ -12,77 +12,232 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Next item:\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Next item:",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Earth!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Earth!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: When you enter the new universe, you're going to need a planet to live on.",
+		"VRISKA: When you enter the new\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Why not just resettle the one you all grew up on?",
+		"universe, you're going to need a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"planet to live on.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: The Condesce kind of fucked it up though.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: In your scratched universe, she spent a few centuries getting it ready for a new troll \"paradise\".",
+		"VRISKA: Why not just resettle the one\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you all grew up on?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: She flooded the whole thing. So when you get there, you'll need to skip ahead to some time far in the future, when the oceans have receded.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Should 8e liva8le 8y then. Hell, it may even 8e a pretty nice place!",
+		"VRISKA: The Condesce kind of fucked it\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"up though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Here John. Take this.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: In your scratched universe,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"she spent a few centuries getting it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ready for a new troll \"paradise\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: When the 8attle is over, make sure you give it to Jade.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: She flooded the whole thing.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"So when you get there, you'll need to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"skip ahead to some time far in the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"future, when the oceans have receded.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Should 8e liva8le 8y then.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Hell, it may even 8e a pretty nice\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"place!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Here John. Take this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: When the 8attle is over, make\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sure you give it to Jade.\
+",
 	},
 	next = {
 		7540,

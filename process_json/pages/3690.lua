@@ -12,49 +12,155 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: oh god please dont tell me your computer was in the wallet you just gave that guy.....",
+		"GG: oh god please dont tell me your\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: dammit john!!!!!!!!!!!!!!",
+		"computer was in the wallet you just\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"gave that guy.....\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: one of these days you will learn the value of having plenty of backup computers",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: dammit john!!!!!!!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: in fact whenever you finally leave the battlefield i am going to give you the code for a nice pair of lunchmuffs",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: and then i am going to force you to keep them on your head AT ALL TIMES!",
+		"GG: one of these days you will learn\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"the value of having plenty of backup\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"computers\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: yeah, youre never going to read this are you :|",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: in fact whenever you finally leave\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the battlefield i am going to give you\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the code for a nice pair of lunchmuffs\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: and then i am going to force you\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"to keep them on your head AT ALL\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"TIMES!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yeah, youre never going to read\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"this are you :|\
+",
 	},
 	next = {
 		3691,

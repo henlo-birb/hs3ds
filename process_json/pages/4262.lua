@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Fat chance, dad.",
+		"Fat chance, dad.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This bird's gotta fly!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This bird's gotta fly!!!\
+",
 	},
 	next = {
 		4263,

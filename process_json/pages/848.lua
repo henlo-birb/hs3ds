@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"There are no scientists to be found, mad or otherwise. Or anyone for that matter. The lab appears to be deserted. ",
+		"There are no scientists to be found,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mad or otherwise. Or anyone for that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter. The lab appears to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deserted.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is a KIOSK though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is a KIOSK though.\
+",
 	},
 	next = {
 		849,

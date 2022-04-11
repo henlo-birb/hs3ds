@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"He remains tight-lipped, so you deal him a senseless shin-drubbing with your CROOK OF FELONY. ",
+		"He remains tight-lipped, so you deal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him a senseless shin-drubbing with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your CROOK OF FELONY.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh the humanity. You can barely watch.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh the humanity. You can barely watch.\
+",
 	},
 	next = {
 		1179,

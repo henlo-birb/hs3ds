@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Pipe down, you. This is Rose's decision, not yours!",
+		"Pipe down, you. This is Rose's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decision, not yours!\
+",
 	},
 	next = {
 		278,

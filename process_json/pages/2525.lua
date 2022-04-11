@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"It's the voice again.",
+		"It's the voice again.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You were wondering when she'd come back. This time you are ready for her.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You were wondering when she'd come\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back. This time you are ready for her.\
+",
 	},
 	next = {
 		2526,

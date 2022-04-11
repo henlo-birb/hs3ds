@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"While you would reap the custodial spoils.",
+		"While you would reap the custodial\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spoils.\
+",
 	},
 	next = {
 		2462,

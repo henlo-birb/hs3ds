@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"There is no slot for a card anywhere to be found on the ALCHEMITER!",
+		"There is no slot for a card anywhere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to be found on the ALCHEMITER!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The KERNELSPRITE followed you upstairs.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The KERNELSPRITE followed you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"upstairs.\
+",
 	},
 	next = {
 		189,

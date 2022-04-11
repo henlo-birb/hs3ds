@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"It's locked!",
+		"It's locked!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There must be some sort of release mechanism for this thing.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There must be some sort of release\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mechanism for this thing.\
+",
 	},
 	next = {
 		693,

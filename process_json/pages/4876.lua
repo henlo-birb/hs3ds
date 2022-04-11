@@ -12,763 +12,2248 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Are you sure you arent real?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Are you sure you arent real?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: No offense but I kind of get the same smartass vibe from you as i do from the responder.",
+		"GT: No offense but I kind of get the\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Like har har i have the same basic personality as dirk but without any accountability or anything so let me just be kind of flippant and mess with this jake fellas head!",
+		"same smartass vibe from you as i do\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: You know what im saying?",
+		"from the responder.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Yes.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: That's a surprisingly decent observation about me.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Yeah see i think i maybe did a little TOO good of a job brain cloning you? This is way too much like talking to the REAL fake dirk.",
+		"GT: Like har har i have the same basic\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Holy cow what a dumb sentence that was.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You did do a good job.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: A perfect job, in fact.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Untapped potential, remember?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I don't think one of Dirk's splinters could exist nearly as well in anyone's mind other than yours.",
+		"personality as dirk but without any\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Well thats just spiffy for me but im starting to feel somewhat like im being haunted by you now.",
+		"accountability or anything so let me\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I just want to talk to my real buddy. And by real i just mean the ORIGINAL GUY.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: What do you even want to say to him?",
+		"just be kind of flippant and mess with\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh i dont know.",
+		"this jake fellas head!\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: It's not like you can keep any secrets from me here.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I pretty much am your brain.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: You know what im saying?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Aaah! No dont say that its so weird.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You do realize he's coming for you.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: That's a surprisingly decent\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"observation about me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Dirk. In the real world. The man has his designs.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Yes. I know.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Wanna talk about it?",
+		"GT: Yeah see i think i maybe did a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: With you? No!! Thats like...",
+		"little TOO good of a job brain cloning\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Thats like talking to him about it which is like really jumping the gun i think.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: What better chance is there to try talking about it than with a stunt double for your hyper-aggressive suitor within the safety and privacy of your own mind?",
+		"you? This is way too much like talking\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"to the REAL fake dirk.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: But i cant yet! I just cant.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: There are some feelings im not sure how to put into words yet and doing it in front of you whether youre a stunt double or brain puppet or whatever it just makes me feel uncomfortable!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: So there are feelings you don't want to try to put into words, even while you are dwelling entirely within the realm of your own mind?",
+		"GT: Holy cow what a dumb sentence that\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"was.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Yes.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You did do a good job.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: A perfect job, in fact.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Untapped potential, remember?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I don't think one of Dirk's\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"splinters could exist nearly as well\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"in anyone's mind other than yours.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: What is so hard to understand about that?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: What about the spider ghost?",
+		"GT: Well thats just spiffy for me but\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Huh?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: The girl you saw.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: When you got fucking clobbered by Dirk's robot and you passed out.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You dreamed about a spider ghost alien girl.",
+		"im starting to feel somewhat like im\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"being haunted by you now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Oh yeah.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: What about her?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You like her.",
+		"GT: I just want to talk to my real\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Man what?",
+		"buddy. And by real i just mean the\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"ORIGINAL GUY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Thats dumb i saw her for three seconds and she waved at me and i woke up!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: What do you even want to say to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"him?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yeah, and it took all of three seconds for you to fall in love with the cute spider ghost.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Oh i dont know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Why do you keep calling her a ghost??",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: It's not like you can keep any\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"secrets from me here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Cause she's been dead for a zillion years, dude.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I pretty much am your brain.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh. Well.",
+		"GT: Aaah! No dont say that its so\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"weird.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Holy shit?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: That won't change the fact that you like her, let's not pretend it will.",
+		"TT: You do realize he's coming for\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You're going to make things complicated for yourself.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Dirk. In the real world. The man\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"has his designs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Yes. I know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: No i wont.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Yeah you will. You're too fuckin' wishy washy.",
+		"TT: Wanna talk about it?\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Between Dirk, spider ghost, Jane...",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Man, poor Jane.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: What? What about jane?",
+		"GT: With you? No!! Thats like...\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: You tell me.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: What was even the deal with that?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Our last chat ended on very pleasant and amicable terms! She was upbeat and chipper as ever. I fail to see what reason one might have to feel sorry for her.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Uh, yeah. You totally read her like a book.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Really handled that conversation like a champ.",
+		"GT: Thats like talking to him about it\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Wait... didnt i?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Look out bitches. It's Jake \"Casanova Ladyslayer\" English. He's packing heat, and is frequently able to parse the literal meaning of things women say.",
+		"which is like really jumping the gun i\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"think.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: What are you getting at!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: We're running out of time.",
+		"TT: What better chance is there to try\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"talking about it than with a stunt\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"double for your hyper-aggressive\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"suitor within the safety and privacy\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of your own mind?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: She'll be here soon.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Jane?!",
+		"GT: But i cant yet! I just cant.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: No, doofus.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Spider ghost.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Whoa.......",
+		"GT: There are some feelings im not\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Whoa ok.",
+		"sure how to put into words yet and\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Where? Wait. She is??",
+		"doing it in front of you whether youre\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh fuck.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Look at you. I'm telling you.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Three damn seconds of ogling an alien in a blue dress, and you're completely hopeless.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Stop fidgeting around like that. Your hair looks fine.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Do you want me to tell you how your breath smells?",
+		"a stunt double or brain puppet or\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Screw you!!!",
+		"whatever it just makes me feel\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"uncomfortable!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I am cool as SUCH a cucumber.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: So there are feelings you don't\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"want to try to put into words, even\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"while you are dwelling entirely within\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the realm of your own mind?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Ok then.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Uh.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Why does my breath not smell ok?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You're dreaming, Jake.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Your breath is only a thing if your brain wants it to be.",
+		"GT: What is so hard to understand\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"about that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Oh okay whew.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What about the spider ghost?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: When is she coming? Why is she visiting my dreams?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: The girl you saw.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Soon.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: She's been waiting for the right time to enter. Waiting for you to snap out of the memory.",
+		"TT: When you got fucking clobbered by\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"Dirk's robot and you passed out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Clearly the girl has the patience of a saint.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You dreamed about a spider ghost\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"alien girl.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Oh yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Alright...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: What about her?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Dang! Its warm in this dream bubble. How can i be sweating in a dream??",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You like her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Where do i keep the dream towels...",
+		"GT: Man what?\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Will you calm the fuck down?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I'm a figment of your imagination, and you're still making me nervous.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: But really who is she? Whats her deal and what does she want from me?",
+		"GT: Thats dumb i saw her for three\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Since all this so called untapped potential in my subconscious taking the form of yet another sassy dirk clone seems to know everything would it be ok if i troubled my own brain for a few flipping answers???",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You should try to be more polite to me. Seeing as I am a representation of your entire mind, I have complete control over all your basic functions.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I could trigger a particularly spirited bowel movement right before she gets here, so watch your step.",
+		"seconds and she waved at me and i woke\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"up!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Augh no no no im sorry im sorry dont!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Just kidding, dude. Jesus.",
+		"TT: Yeah, and it took all of three\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I would never make you shit your pants in front of a girl you liked, even if she does happen to be my chief competition.",
+		"seconds for you to fall in love with\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"the cute spider ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: We Dirk splinters can be pretty Machiavellian but we do actually have some fuckin' standards.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Okay. Thank you for promising to keep my trousers tidy.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Anyway, she's visiting now to bring you into the loop on some things.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Important details you should know about your relation to the bigger picture.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: The much, much bigger picture.",
+		"GT: Why do you keep calling her a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"ghost??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I still dont understand how you know... or excuse me MY BRAIN knows this stuff. Because im a page? How does that make sense?",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Cause she's been dead for a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"zillion years, dude.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Oh. Well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: And also if you know the things she will say why dont you just tell me the things?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Holy shit?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Intuition and the subconscious mind are powerful things when harnessed the right way.",
+		"TT: That won't change the fact that\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: As for why I don't tell you, why not just let her tell you?",
+		"you like her, let's not pretend it\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"will.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You're the one with the damn crush on her.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You're going to make things\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"complicated for yourself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: No i wont.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Yeah you will. You're too fuckin'\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"wishy washy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Between Dirk, spider ghost,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Jane...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Man, poor Jane.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What? What about jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You tell me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What was even the deal with that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Our last chat ended on very\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"pleasant and amicable terms! She was\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"upbeat and chipper as ever. I fail to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"see what reason one might have to feel\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"sorry for her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Uh, yeah. You totally read her\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like a book.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Really handled that conversation\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like a champ.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Wait... didnt i?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Look out bitches. It's Jake\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\"Casanova Ladyslayer\" English. He's\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"packing heat, and is frequently able\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"to parse the literal meaning of things\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"women say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What are you getting at!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: We're running out of time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: She'll be here soon.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Jane?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: No, doofus.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Spider ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Whoa.......\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Whoa ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Where? Wait. She is??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Oh fuck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Look at you. I'm telling you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Three damn seconds of ogling an\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"alien in a blue dress, and you're\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"completely hopeless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Stop fidgeting around like that.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Your hair looks fine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Do you want me to tell you how\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your breath smells?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Screw you!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I am cool as SUCH a cucumber.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Ok then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Uh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Why does my breath not smell ok?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You're dreaming, Jake.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Your breath is only a thing if\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your brain wants it to be.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Oh okay whew.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: When is she coming? Why is she\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"visiting my dreams?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Soon.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: She's been waiting for the right\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"time to enter. Waiting for you to snap\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"out of the memory.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Clearly the girl has the patience\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of a saint.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Alright...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Dang! Its warm in this dream\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"bubble. How can i be sweating in a\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"dream??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Where do i keep the dream\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"towels...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Will you calm the fuck down?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm a figment of your imagination,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"and you're still making me nervous.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But really who is she? Whats her\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"deal and what does she want from me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Since all this so called untapped\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"potential in my subconscious taking\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the form of yet another sassy dirk\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"clone seems to know everything would\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"it be ok if i troubled my own brain\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"for a few flipping answers???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You should try to be more polite\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"to me. Seeing as I am a representation\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of your entire mind, I have complete\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"control over all your basic functions.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I could trigger a particularly\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"spirited bowel movement right before\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"she gets here, so watch your step.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Augh no no no im sorry im sorry\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"dont!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Just kidding, dude. Jesus.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I would never make you shit your\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"pants in front of a girl you liked,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"even if she does happen to be my chief\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"competition.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: We Dirk splinters can be pretty\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Machiavellian but we do actually have\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"some fuckin' standards.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Okay. Thank you for promising to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"keep my trousers tidy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Anyway, she's visiting now to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"bring you into the loop on some\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"things.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Important details you should know\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"about your relation to the bigger\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"picture.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: The much, much bigger picture.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I still dont understand how you\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"know... or excuse me MY BRAIN knows\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"this stuff. Because im a page? How\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"does that make sense?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: And also if you know the things\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"she will say why dont you just tell me\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the things?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Intuition and the subconscious\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"mind are powerful things when\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"harnessed the right way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: As for why I don't tell you, why\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"not just let her tell you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You're the one with the damn crush\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"on her.\
+",
 	},
 	next = {
 		4877,

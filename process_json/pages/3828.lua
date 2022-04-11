@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"But not outmatched. ",
+		"But not outmatched.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As one who shares the Slayer's source of power, my projection must give him the unambiguous advantage. But even so...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As one who shares the Slayer's source\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of power, my projection must give him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the unambiguous advantage. But even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so...\
+",
 	},
 	next = {
 		3829,

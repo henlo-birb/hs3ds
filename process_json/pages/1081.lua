@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Architectural perfection.",
+		"Architectural perfection.\
+",
 	},
 	next = {
 		1082,

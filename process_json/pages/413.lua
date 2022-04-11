@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You fire up the GENERATOR and drag a cord into the MAUSOLEUM.",
+		"You fire up the GENERATOR and drag a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cord into the MAUSOLEUM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It of course would be foolish to run the GENERATOR inside a confined space. GENERATOR SAFETY is everyone's business.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It of course would be foolish to run\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the GENERATOR inside a confined space.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GENERATOR SAFETY is everyone's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"business.\
+",
 	},
 	next = {
 		414,

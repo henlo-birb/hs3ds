@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"ORDER IN THE COURT. YOU WILL HAVE ORDER IN THIS COURTROOM. IF EVERYONE DOES NOT SETTLE DOWN YOU WILL CLEAR OUT THIS COURTROOM, YOU SWEAR TO GOD.",
+		"ORDER IN THE COURT. YOU WILL HAVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ORDER IN THIS COURTROOM. IF EVERYONE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOES NOT SETTLE DOWN YOU WILL CLEAR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OUT THIS COURTROOM, YOU SWEAR TO GOD.\
+",
 	},
 	next = {
 		1111,

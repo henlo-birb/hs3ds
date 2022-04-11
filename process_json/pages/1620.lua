@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The royal duty has been accepted.",
+		"The royal duty has been accepted.\
+",
 	},
 	next = {
 		1621,

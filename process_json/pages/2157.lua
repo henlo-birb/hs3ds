@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You are always wearing your CLAW GLOVES. You never know when you might encounter some unsuspecting prey. Or when some prey might encounter an unsuspecting you!",
+		"You are always wearing your CLAW\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GLOVES. You never know when you might\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"encounter some unsuspecting prey. Or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when some prey might encounter an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unsuspecting you!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-On Alternia, everything is considered unsuspecting prey by everything else.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"On Alternia, everything is considered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unsuspecting prey by everything else.\
+",
 	},
 	next = {
 		2158,

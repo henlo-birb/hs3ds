@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You are now the other other girl.",
+		"You are now the other other girl.\
+",
 	},
 	next = {
 		2133,

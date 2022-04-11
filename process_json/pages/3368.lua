@@ -12,15 +12,92 @@ return {
 			0,
 			0,
 		},
-		"Oh, of course. It is Gamzee up to his unmistakable charades. He is wandering around somewhere out there in the abyss. ",
+		"Oh, of course. It is Gamzee up to his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unmistakable charades. He is wandering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around somewhere out there in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abyss.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He probably has no idea what sort of danger he is in, with one or more murderers on the loose. Poor guy. You will have to seek him out shortly and offer him protection. You'd feel terrible if you were to lose any more friends.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He probably has no idea what sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"danger he is in, with one or more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"murderers on the loose. Poor guy. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will have to seek him out shortly and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"offer him protection. You'd feel\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"terrible if you were to lose any more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friends.\
+",
 	},
 	next = {
 		3369,

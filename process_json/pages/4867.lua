@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: He killed them both.",
+		"TT: He killed them both.\
+",
 	},
 	next = {
 		4868,

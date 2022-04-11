@@ -12,27 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You doff so furiously you are in danger of starting a HAT FIRE. ",
+		"You doff so furiously you are in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"danger of starting a HAT FIRE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Probably not the best idea around all this oil. Especially without any sort of ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"flame suppressant",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" handy.",
+		"Probably not the best idea around all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this oil. Especially without any sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flame suppressant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handy.\
+",
 	},
 	next = {
 		1480,

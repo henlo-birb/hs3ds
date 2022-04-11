@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"You say a short prayer to your beloved MIRTHFUL MESSIAHS, and splash a pinch of SPECIAL STARDUST in your face.",
+		"You say a short prayer to your beloved\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MIRTHFUL MESSIAHS, and splash a pinch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of SPECIAL STARDUST in your face.\
+",
 	},
 	next = {
 		2022,

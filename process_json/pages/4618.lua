@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"What do you think this is, Act 6 Intermission 2??",
+		"What do you think this is, Act 6\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Intermission 2??\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That'll be happening pretty soon, don't worry. Let's all try to settle down here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That'll be happening pretty soon,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"don't worry. Let's all try to settle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down here.\
+",
 	},
 	next = {
 		4619,

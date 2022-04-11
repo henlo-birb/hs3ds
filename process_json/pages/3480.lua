@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Someone is bothering you.",
+		"Someone is bothering you.\
+",
 	},
 	next = {
 		3481,

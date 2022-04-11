@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Mr. Appleberry Blast needs to step off. This kid is yours to mess with. You smelled him first!",
+		"Mr. Appleberry Blast needs to step\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off. This kid is yours to mess with.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You smelled him first!\
+",
 	},
 	next = {
 		2772,

@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: might as well get started.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: might as well get started.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: let's see, the first key thought is...",
+		"JOHN: let's see, the first key thought\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"is...\
+",
 	},
 	next = {
 		7207,

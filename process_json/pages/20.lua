@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"<a href=\"/archive/external/bunny.mp4\">PUT THE BUNNY BACK IN THE BOX.<br/><br/>I SAID, PUT THE BUNNY BACK IN THE BOX.<br/><br/>WHY COULDN'T YOU PUT THE BUNNY BACK IN THE BOX?</a>",
+		"<a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"href=\"/archive/external/bunny.mp4\">PUT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE BUNNY BACK IN THE BOX.<br/><br/>I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SAID, PUT THE BUNNY BACK IN THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOX.<br/><br/>WHY COULDN'T YOU PUT THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUNNY BACK IN THE BOX?</a>\
+",
 	},
 	next = {
 		21,

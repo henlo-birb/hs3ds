@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"THE MALE IS BEING VERY RECKLESS WITH HIS LOOPS. WHAT A MESS!",
+		"THE MALE IS BEING VERY RECKLESS WITH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HIS LOOPS. WHAT A MESS!\
+",
 	},
 	next = {
 		6528,

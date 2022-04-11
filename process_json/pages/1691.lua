@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Despite the pandemonium of your entrance, Rose is still sound asleep. She must be really tuckered out!",
+		"Despite the pandemonium of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"entrance, Rose is still sound asleep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She must be really tuckered out!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like this little guy is awake and ready for action though. He is adorable. You decide to name him Dr. Meowgon Spengler.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like this little guy is awake\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and ready for action though. He is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adorable. You decide to name him Dr.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Meowgon Spengler.\
+",
 	},
 	next = {
 		1692,

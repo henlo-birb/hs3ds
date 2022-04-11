@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Looks like the centaur herd is out in full force today. You have to be careful about walking under them. There are extreme hazards involved, such as the threat of falling manure, or milk.",
+		"Looks like the centaur herd is out in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full force today. You have to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"careful about walking under them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There are extreme hazards involved,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such as the threat of falling manure,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or milk.\
+",
 	},
 	next = {
 		4248,

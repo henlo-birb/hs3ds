@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Why, who's this young lady?",
+		"Why, who's this young lady?\
+",
 	},
 	next = {
 		2031,

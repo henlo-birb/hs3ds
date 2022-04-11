@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"And you can't take it anymore.",
+		"And you can't take it anymore.\
+",
 	},
 	next = {
 		6433,

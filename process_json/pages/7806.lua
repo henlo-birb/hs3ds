@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITEx2: There are actually two of me!",
+		"NANNASPRITEx2: There are actually two\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"of me!\
+",
 	},
 	next = {
 		7807,

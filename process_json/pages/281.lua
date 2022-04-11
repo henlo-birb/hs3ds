@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"In the other room, NANNA'S ASHES dump onto the SPRITE, which is caught unawares by the dousing.",
+		"In the other room, NANNA'S ASHES dump\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"onto the SPRITE, which is caught\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unawares by the dousing.\
+",
 	},
 	next = {
 		282,

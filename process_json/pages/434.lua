@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You refuse outright!",
+		"You refuse outright!\
+",
 	},
 	next = {
 		435,

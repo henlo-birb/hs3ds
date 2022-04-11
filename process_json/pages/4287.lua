@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"I hope I don't run out of green curtain cloth. Shit is expensive.",
+		"I hope I don't run out of green\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"curtain cloth. Shit is expensive.\
+",
 	},
 	next = {
 		4288,

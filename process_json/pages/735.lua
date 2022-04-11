@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Or it WOULD obviously be the most important thing to do if you had remembered to bring your TRUSTY KNIFE.",
+		"Or it WOULD obviously be the most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"important thing to do if you had\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remembered to bring your TRUSTY KNIFE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You feel so insecure without your TRUSTY KNIFE, it makes you want to slit your wrists. Or at the very least, flog your carapace with some sort of measuring apparatus.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You feel so insecure without your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TRUSTY KNIFE, it makes you want to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slit your wrists. Or at the very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"least, flog your carapace with some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of measuring apparatus.\
+",
 	},
 	next = {
 		736,

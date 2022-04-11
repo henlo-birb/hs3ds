@@ -12,14 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: As you might expect, the female child was as cheerful and friendly as could 8e.",
+		"ARANEA: As you might expect, the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"female child was as cheerful and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"friendly as could 8e.\
+",
 	},
 	next = {
 		5986,

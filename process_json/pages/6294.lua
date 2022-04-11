@@ -12,70 +12,162 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: blehhhh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: blehhhh",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: fine\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: fine",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: why u gotta be so awful jade\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: why u gotta be so awful jade",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: really putting a cramp on us makin choice new friends w each other",
+		"ROXY: really putting a cramp on us\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"makin choice new friends w each other\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: oh well here goes",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: oh well here goes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: all twiddlin my fingers and such",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: all twiddlin my fingers and such\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: busting out tha MAJYYXXX! prayin up a storm to the holy wizardchrist they aint fake...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: alright check it",
+		"ROXY: busting out tha MAJYYXXX! prayin\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"up a storm to the holy wizardchrist\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"they aint fake...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: one jank ass space egg coming up",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: alright check it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: one jank ass space egg coming up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		6295,

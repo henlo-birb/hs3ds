@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It was one of his more tentative stabbings though... I think maybe he meant it as sort of a thank you?",
+		"It was one of his more tentative\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stabbings though... I think maybe he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meant it as sort of a thank you?\
+",
 	},
 	next = {
 		4674,

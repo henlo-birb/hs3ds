@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"I failed you, Rufio.",
+		"I failed you, Rufio.\
+",
 	},
 	next = {
 		4811,

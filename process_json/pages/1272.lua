@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Where do you think you're going, fatty?",
+		"Where do you think you're going,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fatty?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll deal with him in a minute. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You whip out your DOUBLE EDGED SWORD and OCCAM'S RAZOR.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll deal with him in a minute.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You whip out your DOUBLE EDGED SWORD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and OCCAM'S RAZOR.\
+",
 	},
 	next = {
 		1273,

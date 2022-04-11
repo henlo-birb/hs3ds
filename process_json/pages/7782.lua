@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: we hella shall",
+		"ROXY: we hella shall\
+",
 	},
 	next = {
 		7783,

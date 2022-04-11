@@ -12,189 +12,666 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Well, like I said. She was raised by the Baroness. It was probably a worse childhood than either of us had.",
+		"TT: Well, like I said. She was raised\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: She wasn't related obviously. Ain't nobody's related to a damn fish alien. Except other fish aliens probably.",
+		"by the Baroness. It was probably a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"worse childhood than either of us had.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: She had an adoptive brother too. Life must have been miserable for both of them.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: She wasn't related obviously.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Ain't nobody's related to a damn fish\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"alien. Except other fish aliens\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"probably.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: She had an adoptive brother too.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Life must have been miserable for both\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Yes i vaguely remember her mentioning him.",
+		"GT: Yes i vaguely remember her\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"mentioning him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Cripes the things she told me now that i think about it. She said the witch even killed her dog!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Is that true?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I don't know, but wouldn't doubt it.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: There are other urban legends that she did a lot of experiments on animals and people. Mostly to do with mind control.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Like figuring out ways to unlock all of her psychic alien potential, to increase her power.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Not sure if that's true, or if it was actually successful though.",
+		"GT: Cripes the things she told me now\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: So what youre saying is pretty much any unspeakably horrible thing she could have done she probably did?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Yes.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Anyway, your grandma managed to run away when she was quite young. Maybe it was a traumatic event like dog murder that prompted her to flee, who knows.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Whatever the case, her bro stayed behind. The guy must have been seriously immune to witnessing fucked up shit, because he went on to be a famous comedian. A real kindly old cornball. A nicer guy you couldn't hope to meet, they say.",
+		"that i think about it. She said the\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Haha wow. Must have been a hell of a guy.",
+		"witch even killed her dog!\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: So...",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: You're not making any connections there?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Is that true?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Where? Huh?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Famous comedian, about the age of your grandma, inheriting the family name of the Baroness...",
+		"TT: I don't know, but wouldn't doubt\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Not ringing a bell?",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: There are other urban legends that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"she did a lot of experiments on\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"animals and people. Mostly to do with\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"mind control.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Like figuring out ways to unlock\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"all of her psychic alien potential, to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"increase her power.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Not sure if that's true, or if it\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"was actually successful though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: What are you talking about! Dirk stop speaking in riddles and keep telling the story i am on tenterhooks here!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Ok, well it's not like it's that important. Just a super obvious thing that'll probably occur to you later when you're looking in the fridge you don't have, at which point you'll feel like an idiot.",
+		"GT: So what youre saying is pretty\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh my god you can be one opaque motherfucker just clue me in bro!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Nah, it'll be funnier this way.",
+		"much any unspeakably horrible thing\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"she could have done she probably did?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: STRIIIIIIDEEEERRRRRRRR!!!!!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Moving on.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Anyway, your grandma managed to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"run away when she was quite young.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Maybe it was a traumatic event like\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"dog murder that prompted her to flee,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"who knows.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Whatever the case, her bro stayed\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"behind. The guy must have been\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"seriously immune to witnessing fucked\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"up shit, because he went on to be a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"famous comedian. A real kindly old\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"cornball. A nicer guy you couldn't\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"hope to meet, they say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Haha wow. Must have been a hell of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"a guy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: So...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You're not making any connections\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"there?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Where? Huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Famous comedian, about the age of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your grandma, inheriting the family\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"name of the Baroness...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Not ringing a bell?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What are you talking about! Dirk\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"stop speaking in riddles and keep\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"telling the story i am on tenterhooks\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"here!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Ok, well it's not like it's that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"important. Just a super obvious thing\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that'll probably occur to you later\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"when you're looking in the fridge you\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"don't have, at which point you'll feel\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like an idiot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Oh my god you can be one opaque\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"motherfucker just clue me in bro!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Nah, it'll be funnier this way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: STRIIIIIIDEEEERRRRRRRR!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Moving on.\
+",
 	},
 	next = {
 		4859,

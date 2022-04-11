@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"THE ALPHA MALE AND HIS TRUSTY BITCH PARADE PROCEED TO THE ROOF. TO WITNESS THE INCREDIBLE LAND OF FANTASY HE HAS ENTERED.",
+		"THE ALPHA MALE AND HIS TRUSTY BITCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PARADE PROCEED TO THE ROOF. TO WITNESS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE INCREDIBLE LAND OF FANTASY HE HAS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ENTERED.\
+",
 	},
 	next = {
 		6492,

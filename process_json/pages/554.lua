@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The two card sylladex: inventory of dumbasses.",
+		"The two card sylladex: inventory of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dumbasses.\
+",
 	},
 	next = {
 		555,

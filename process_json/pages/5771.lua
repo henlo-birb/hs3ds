@@ -13,23 +13,71 @@ return {
 			0,
 			0,
 		},
-		"Flippety dippety doo bup bup shrubber double floppy mumblescurry noodlescoop pizzabubble pizzabubble mip mip mip mip mip mip.",
+		"Flippety dippety doo bup bup shrubber\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"double floppy mumblescurry noodlescoop\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pizzabubble pizzabubble mip mip mip\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mip mip mip.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Check it out.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE THISTLES OF ZILLYWICH",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Check it out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE THISTLES OF ZILLYWICH\
+",
 	},
 	next = {
 		5772,

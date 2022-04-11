@@ -13,15 +13,113 @@ return {
 			0,
 			0,
 		},
-		"The built-in GRIST GUTTER on the widget immediately kicks into action, collecting all the grist overflow exceeding your current low limit. You guess that's pretty convenient.",
+		"The built-in GRIST GUTTER on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"widget immediately kicks into action,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collecting all the grist overflow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exceeding your current low limit. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess that's pretty convenient.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You honestly thought these features were a lot of meaningless nonsense before. Like an example of BCCorp's strange sense of humor, made into a product sold for top dollar. The fact that this turned out to be a useful gizmo well in advance is either reassuring or unsettling. You aren't sure which.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You honestly thought these features\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were a lot of meaningless nonsense\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before. Like an example of BCCorp's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"strange sense of humor, made into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"product sold for top dollar. The fact\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that this turned out to be a useful\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gizmo well in advance is either\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reassuring or unsettling. You aren't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure which.\
+",
 	},
 	next = {
 		4960,

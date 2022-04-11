@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You quickly crafted a new weapon, HOMES SMELL YA LATER. Plus some other cool stuff.",
+		"You quickly crafted a new weapon,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOMES SMELL YA LATER. Plus some other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cool stuff.\
+",
 	},
 	next = {
 		2061,

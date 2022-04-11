@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"You grab the PDA, launching one of the HARLEQUIN FIGURINES into the night.",
+		"You grab the PDA, launching one of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HARLEQUIN FIGURINES into the night.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can kiss that one goodbye.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can kiss that one goodbye.\
+",
 	},
 	next = {
 		267,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"THAT'S WHAT JUST HAPPENED BITCH.",
+		"THAT'S WHAT JUST HAPPENED BITCH.\
+",
 	},
 	next = {
 		2497,

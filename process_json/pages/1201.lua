@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Whew. Your SWEDISH FISH are there. ",
+		"Whew. Your SWEDISH FISH are there.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is why it's a good idea to always store your candy in your BACKUP HAT rather than your usual one. Other members of your gang have learned this the hard way and they're finally starting to catch on.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is why it's a good idea to always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"store your candy in your BACKUP HAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather than your usual one. Other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"members of your gang have learned this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the hard way and they're finally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"starting to catch on.\
+",
 	},
 	next = {
 		1202,

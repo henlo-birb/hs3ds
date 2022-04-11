@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"While she slept in her egg, she would communicate with you in your sleep. ",
+		"While she slept in her egg, she would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"communicate with you in your sleep.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-After your accident, she would use your dreams to teach you to detect the world around you without vision.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"After your accident, she would use\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your dreams to teach you to detect the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"world around you without vision.\
+",
 	},
 	next = {
 		2128,

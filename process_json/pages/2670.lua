@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"This is just insult to injury. You almost want to cry.",
+		"This is just insult to injury. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"almost want to cry.\
+",
 	},
 	next = {
 		2671,

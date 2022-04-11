@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You make the TELESCOPIC SASSACRUSHER, at pretty considerable expense. This thing could probably pound an ogre into crudeburger.",
+		"You make the TELESCOPIC SASSACRUSHER,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at pretty considerable expense. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing could probably pound an ogre\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into crudeburger.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Of course you have no hope of lifting it whatsoever.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Of course you have no hope of lifting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it whatsoever.\
+",
 	},
 	next = {
 		1058,

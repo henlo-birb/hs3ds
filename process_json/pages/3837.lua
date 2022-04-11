@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"And not one she'd allow either.",
+		"And not one she'd allow either.\
+",
 	},
 	next = {
 		3838,

@@ -16,15 +16,43 @@ return {
 			0,
 			0,
 		},
-		"You open it to find a shirt that is way too big for you, and... pumpkin seeds?",
+		"You open it to find a shirt that is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way too big for you, and... pumpkin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seeds?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is also a letter.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is also a letter.\
+",
 	},
 	next = {
 		1135,

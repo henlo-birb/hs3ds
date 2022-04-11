@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You take the TRICK HANDCUFFS, expelling the PDA like a bullet.",
+		"You take the TRICK HANDCUFFS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"expelling the PDA like a bullet.\
+",
 	},
 	next = {
 		125,

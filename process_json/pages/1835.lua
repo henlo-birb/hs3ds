@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"This would make the FELT DUDS, if you had some of whatever that green grist is.",
+		"This would make the FELT DUDS, if you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"had some of whatever that green grist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is.\
+",
 	},
 	next = {
 		1836,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Why would you do that? All of these clocks are lovely. You see no reason to harm them.",
+		"Why would you do that? All of these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clocks are lovely. You see no reason\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to harm them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-987/1000 CLOCKS UNHARMED",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"987/1000 CLOCKS UNHARMED\
+",
 	},
 	next = {
 		1181,

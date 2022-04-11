@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You make a halfhearted attempt to resist the urge.",
+		"You make a halfhearted attempt to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"resist the urge.\
+",
 	},
 	next = {
 		3645,

@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"This is kind of a redundant thing to do since you are always consciously both your waking and dream self at the same time, but you'll let it slide. ",
+		"This is kind of a redundant thing to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do since you are always consciously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"both your waking and dream self at the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"same time, but you'll let it slide.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You should probably stop dwelling on your Derse problems and try to get this show on the road.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You should probably stop dwelling on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your Derse problems and try to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this show on the road.\
+",
 	},
 	next = {
 		4550,

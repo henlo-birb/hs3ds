@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"You simply draw a pair of earmuffs, and make them. Yay!",
+		"You simply draw a pair of earmuffs,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and make them. Yay!\
+",
 	},
 	next = {
 		3147,

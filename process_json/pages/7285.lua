@@ -12,35 +12,71 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: sniff sniff\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: sniff sniff",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: sniff sniff sniff sniff\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: sniff sniff sniff sniff",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: (hey, would you quit it!)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: (hey, would you quit it!)",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: (i'm trying to keep a low profile here.)",
+		"JOHN: (i'm trying to keep a low\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"profile here.)\
+",
 	},
 	next = {
 		7286,

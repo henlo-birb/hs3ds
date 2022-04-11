@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You eject the disk and captchalogue the SERVER CD.",
+		"You eject the disk and captchalogue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the SERVER CD.\
+",
 	},
 	next = {
 		647,

@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"That doesn't make any sense.",
+		"That doesn't make any sense.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You never went anywhere.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You never went anywhere.\
+",
 	},
 	next = {
 		1236,

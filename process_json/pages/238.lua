@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You'll need every advantage you can get.",
+		"You'll need every advantage you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get.\
+",
 	},
 	next = {
 		239,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"He tells you to get inside this instant.",
+		"He tells you to get inside this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instant.\
+",
 	},
 	next = {
 		4429,

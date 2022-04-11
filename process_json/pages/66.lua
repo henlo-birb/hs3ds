@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You put this back in the fire where it belongs.",
+		"You put this back in the fire where it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"belongs.\
+",
 	},
 	next = {
 		67,

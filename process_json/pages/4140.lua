@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"Sure enough, the JUNIOR BATTERMASTER'S BOWLBUSTER STIRRING SOLUTION 50000 has been affected too, along with your specibus.",
+		"Sure enough, the JUNIOR BATTERMASTER'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOWLBUSTER STIRRING SOLUTION 50000 has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been affected too, along with your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"specibus.\
+",
 	},
 	next = {
 		4141,

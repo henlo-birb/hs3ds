@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"She indicates in the language of plush toy pantomime that she has no idea! They all blew away in the",
+		"She indicates in the language of plush\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"toy pantomime that she has no idea!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They all blew away in the\
+",
 	},
 	next = {
 		3672,

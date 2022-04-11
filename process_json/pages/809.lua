@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You have selected the KEY LIME.",
+		"You have selected the KEY LIME.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Way to go.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Way to go.\
+",
 	},
 	next = {
 		810,

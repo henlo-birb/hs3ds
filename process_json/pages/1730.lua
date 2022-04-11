@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"THE BREEZE carries you to where you need to go.",
+		"THE BREEZE carries you to where you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"need to go.\
+",
 	},
 	next = {
 		1731,

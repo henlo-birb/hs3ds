@@ -12,84 +12,190 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Think, Lalonde. Think!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Think, Lalonde. Think!",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: What did Kanaya tell you about this quadrant?",
+		"ROSE: What did Kanaya tell you about\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"this quadrant?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Does it really involve such gruesome fisticuffs?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I...",
+		"ROSE: Does it really involve such\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"gruesome fisticuffs?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I can't remember!",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I was probably drunk during that particular lesson.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I can't remember!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: What am I saying.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I was drunk for all the lessons!",
+		"ROSE: I was probably drunk during that\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"particular lesson.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Ugh, what a disgrace.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: What am I saying.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I am the actual worst auspistice who ever lived.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I was drunk for all the lessons!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: THE ACTUAL WORST!!!",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Ugh, what a disgrace.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I am the actual worst auspistice\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"who ever lived.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: THE ACTUAL WORST!!!\
+",
 	},
 	next = {
 		6812,

@@ -13,23 +13,78 @@ return {
 			0,
 			0,
 		},
-		"You take TWO (2) FANCIFUL HARLEQUINS.",
+		"You take TWO (2) FANCIFUL HARLEQUINS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The additional useless freight pushes your PDA to the last card. You then switch to the QUEUE MODUS so you can access the PDA.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-More glass shrapnel flies from the deck.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The additional useless freight pushes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your PDA to the last card. You then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"switch to the QUEUE MODUS so you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"access the PDA.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"More glass shrapnel flies from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deck.\
+",
 	},
 	next = {
 		184,

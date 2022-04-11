@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Ironic purposes.",
+		"Ironic purposes.\
+",
 	},
 	next = {
 		4278,

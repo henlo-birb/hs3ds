@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You head out to the balcony to find out what Rose has in mind. She is messaging you again.",
+		"You head out to the balcony to find\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out what Rose has in mind. She is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"messaging you again.\
+",
 	},
 	next = {
 		289,

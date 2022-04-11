@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Or maybe he's just looking for yet another way to stick it to you.",
+		"Or maybe he's just looking for yet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another way to stick it to you.\
+",
 	},
 	next = {
 		5108,

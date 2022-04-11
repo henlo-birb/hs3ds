@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"No one will be the wiser. ",
+		"No one will be the wiser.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Except maybe for people with eyes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Except maybe for people with eyes.\
+",
 	},
 	next = {
 		60,

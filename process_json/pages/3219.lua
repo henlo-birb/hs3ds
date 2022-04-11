@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The most important character in Homestuck fondly regards the miracle of a new beginning.",
+		"The most important character in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Homestuck fondly regards the miracle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of a new beginning.\
+",
 	},
 	next = {
 		3220,

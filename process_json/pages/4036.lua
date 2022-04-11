@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Or will I have to suspend your furniture privileges again?",
+		"Or will I have to suspend your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"furniture privileges again?\
+",
 	},
 	next = {
 		4037,

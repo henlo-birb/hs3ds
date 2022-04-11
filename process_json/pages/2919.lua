@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"YOU ARE JUST SO FRUSTRATED wait why the hell would you do that, what was the point.",
+		"YOU ARE JUST SO FRUSTRATED wait why\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the hell would you do that, what was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the point.\
+",
 	},
 	next = {
 		2920,

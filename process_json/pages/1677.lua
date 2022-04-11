@@ -12,27 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Oh, but I don't merely ",
+		"Oh, but I don't merely\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"draw",
+		"draw\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" Homestuck...",
+		"Homestuck...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(Type \"==>\", I am about to make a joke.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(Type \"==>\", I am about to make a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"joke.)\
+",
 	},
 	next = {
 		1678,

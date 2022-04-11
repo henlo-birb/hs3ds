@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Looks like somebody is bothering you. He better make it quick! You've got a window to stay glued to.",
+		"Looks like somebody is bothering you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He better make it quick! You've got a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"window to stay glued to.\
+",
 	},
 	next = {
 		4134,

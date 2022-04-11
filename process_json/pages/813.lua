@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You just deploy the gadgets yourself.",
+		"You just deploy the gadgets yourself.\
+",
 	},
 	next = {
 		814,

@@ -13,7 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You suppose you'd better report this to your teammates. Perhaps a memo is in order. But today, there will be little reason for rumpus in your partytown. Today is a very sad day. You are all in bigger trouble than you suspected.",
+		"You suppose you'd better report this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to your teammates. Perhaps a memo is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in order. But today, there will be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little reason for rumpus in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"partytown. Today is a very sad day.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are all in bigger trouble than you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suspected.\
+",
 	},
 	next = {
 		2750,

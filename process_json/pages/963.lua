@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It seems there are some unopened BIRTHDAY PRESENTS which DAD didn't get around to giving you yet.",
+		"It seems there are some unopened\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BIRTHDAY PRESENTS which DAD didn't get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around to giving you yet.\
+",
 	},
 	next = {
 		964,

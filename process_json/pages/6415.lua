@@ -14,14 +14,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: CLOWN HUNT1NG",
+		"TEREZI: CLOWN HUNT1NG\
+",
 	},
 	next = {
 		6416,

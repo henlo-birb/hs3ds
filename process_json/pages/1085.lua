@@ -13,15 +13,99 @@ return {
 			0,
 			0,
 		},
-		"You dump all this crap all over the roof.",
+		"You dump all this crap all over the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"roof.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You then set your modus to the SCRABBLE HASH FUNCTION for some reason. This function always makes it a little less intuitive to calculate hash values for items, and therefore more cumbersome to rap with. But you guess that's kind of a moot point now that your BRO flew off fuck knows where. His mysterious ways transcend irony once again.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You then set your modus to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SCRABBLE HASH FUNCTION for some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reason. This function always makes it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a little less intuitive to calculate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hash values for items, and therefore\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more cumbersome to rap with. But you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess that's kind of a moot point now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that your BRO flew off fuck knows\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"where. His mysterious ways transcend\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"irony once again.\
+",
 	},
 	next = {
 		1086,

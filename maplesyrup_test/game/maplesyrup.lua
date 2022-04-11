@@ -7,7 +7,7 @@ initApp = function(params)
         model = params.model and merge(newModel(), params.model) or newModel(),
         topview = params.topview or newView("top"),
         bottomview = params.bottomview or newView("bottom"),
-        rendered = false,
+        rendered = {},
         push = function(this, msg, ...)
             for _, func in pairs(this.updater[msg]) do
                 func(this.model, ...)
@@ -24,7 +24,7 @@ initApp = function(params)
 
         render = function(this, screen)
             local function recurse(elem, parent)
-                if not this.rendered then -- do per-element related initializations on first render since we're looping through em all for free
+                if not this.rendered[screen] then -- do per-element related initializations on first render since we're looping through em all for free
                     elem[1].parent = parent
                     if elem[1].type == "animation" then
                         table.insert(this.model.animations, elem[1])
@@ -40,7 +40,7 @@ initApp = function(params)
                 end
             end
             recurse(screen == "bottom" and this.bottomview or this.topview) -- if drawing bottom screen use bottom view otherwise use top view
-            this.rendered = true
+            this.rendered[screen] = true
         end
     }
 end

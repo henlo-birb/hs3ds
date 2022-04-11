@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"And not far from that, you detect bright trails of white light. It smells... hopeful.",
+		"And not far from that, you detect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bright trails of white light. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smells... hopeful.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Also curious.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And that noise. Behind you...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Also curious.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And that noise. Behind you...\
+",
 	},
 	next = {
 		3368,

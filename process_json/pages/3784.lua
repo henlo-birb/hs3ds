@@ -14,15 +14,50 @@ return {
 			0,
 			0,
 		},
-		"The Seer wouldn't win this duel. ",
+		"The Seer wouldn't win this duel.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-My apologies if this spoils the outcome for you. I can't speak as discreetly about such matters against this canvas.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"My apologies if this spoils the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outcome for you. I can't speak as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"discreetly about such matters against\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this canvas.\
+",
 	},
 	next = {
 		3785,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Sollux??",
+		"Sollux??\
+",
 	},
 	next = {
 		2250,

@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"None shall be the wiser. It is the perfect crime.",
+		"None shall be the wiser. It is the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perfect crime.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-When you bust out of prison, you should be locked right back up again because of how perfect this crime is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"When you bust out of prison, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"should be locked right back up again\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because of how perfect this crime is.\
+",
 	},
 	next = {
 		4898,

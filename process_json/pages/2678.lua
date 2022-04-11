@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Oh no, more embarrassing cleaning apparatus. You've got to hide it before Sekret Spinneret or whatever her name is sees it and gets upset.",
+		"Oh no, more embarrassing cleaning\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apparatus. You've got to hide it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before Sekret Spinneret or whatever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her name is sees it and gets upset.\
+",
 	},
 	next = {
 		2679,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Somewhere on LOMAT, the Thief and the Page plunder the untold riches of innumerable pointless side-quests.",
+		"Somewhere on LOMAT, the Thief and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Page plunder the untold riches of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"innumerable pointless side-quests.\
+",
 	},
 	next = {
 		2517,

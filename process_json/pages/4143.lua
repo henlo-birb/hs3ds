@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You decide to pass the time by rummaging through your BAKING CHEST and... hang on.",
+		"You decide to pass the time by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rummaging through your BAKING CHEST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and... hang on.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe later.\
+",
 	},
 	next = {
 		4144,

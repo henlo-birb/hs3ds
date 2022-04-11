@@ -12,21 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: It was at this point the real game would 8egin.",
+		"ARANEA: It was at this point the real\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"game would 8egin.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Skaia would undergo a dramatic transform8tion, 8ecoming even darker and heavier.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Skaia would undergo a dramatic\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"transform8tion, 8ecoming even darker\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and heavier.\
+",
 	},
 	next = {
 		5999,

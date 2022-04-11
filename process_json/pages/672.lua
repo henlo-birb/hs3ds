@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Your teeth are useless for the task! They are blunt like that of livestock, presumably suitable for mashing up plant matter, and not for puncturing metal.",
+		"Your teeth are useless for the task!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They are blunt like that of livestock,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"presumably suitable for mashing up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plant matter, and not for puncturing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"metal.\
+",
 	},
 	next = {
 		673,

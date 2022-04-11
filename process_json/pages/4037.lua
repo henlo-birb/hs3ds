@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"I see. It's another one of your moods. We will have to work on ironing out this behavior before you meet your true master.",
+		"I see. It's another one of your moods.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We will have to work on ironing out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this behavior before you meet your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"true master.\
+",
 	},
 	next = {
 		4038,

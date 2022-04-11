@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You release the prisoner. He is free to go.",
+		"You release the prisoner. He is free\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to go.\
+",
 	},
 	next = {
 		1145,

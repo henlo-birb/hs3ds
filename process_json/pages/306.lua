@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You re-captchalogue everything the way you want it to appear in the tree, and head downstairs.",
+		"You re-captchalogue everything the way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you want it to appear in the tree, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"head downstairs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You figure that's enough dilly-dallying. Time to get a move on!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You figure that's enough\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dilly-dallying. Time to get a move on!\
+",
 	},
 	next = {
 		307,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You carve another TOTEM using the new combined hole pattern.",
+		"You carve another TOTEM using the new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"combined hole pattern.\
+",
 	},
 	next = {
 		633,

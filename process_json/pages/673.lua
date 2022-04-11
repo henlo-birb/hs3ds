@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Your WEAK PATHETIC DIGITS are not strong enough to penetrate the can!!!",
+		"Your WEAK PATHETIC DIGITS are not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"strong enough to penetrate the can!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your fingers are certainly pointy enough, and your black carapace is suitably rigid, but you just don't have enough muscle for the task.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your fingers are certainly pointy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough, and your black carapace is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suitably rigid, but you just don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have enough muscle for the task.\
+",
 	},
 	next = {
 		674,

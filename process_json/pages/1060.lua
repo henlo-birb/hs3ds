@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You make a LEFT HANDED REMOTE GHOST GAUNTLET to complete the pair.",
+		"You make a LEFT HANDED REMOTE GHOST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GAUNTLET to complete the pair.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BECAUSE YOU DON'T SEE WHY THE HELL NOT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BECAUSE YOU DON'T SEE WHY THE HELL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NOT.\
+",
 	},
 	next = {
 		1061,

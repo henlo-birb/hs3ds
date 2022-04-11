@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"No one can escape the miles.",
+		"No one can escape the miles.\
+",
 	},
 	next = {
 		4951,

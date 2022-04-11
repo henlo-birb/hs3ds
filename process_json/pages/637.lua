@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You get a vicious rhythmic bouncing combo going and easily slay the imp in one blow.",
+		"You get a vicious rhythmic bouncing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"combo going and easily slay the imp in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one blow.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You and the POGO RIDE are catapulted sky-high in the process.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You and the POGO RIDE are catapulted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sky-high in the process.\
+",
 	},
 	next = {
 		638,

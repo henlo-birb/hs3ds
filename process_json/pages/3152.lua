@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"You sketch one of his silly sun-bleached blue lady portraits. He would be so proud.",
+		"You sketch one of his silly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sun-bleached blue lady portraits. He\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be so proud.\
+",
 	},
 	next = {
 		3153,

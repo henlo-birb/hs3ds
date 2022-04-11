@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"You are now Caliborn.",
+		"You are now Caliborn.\
+",
 	},
 	next = {
 		5444,

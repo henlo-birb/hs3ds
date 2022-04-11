@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The clouds have returned. The fireflies are still trapped. The spell remains unbroken.",
+		"The clouds have returned. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fireflies are still trapped. The spell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remains unbroken.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is commotion behind you. A nearby village, perhaps?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is commotion behind you. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nearby village, perhaps?\
+",
 	},
 	next = {
 		3079,

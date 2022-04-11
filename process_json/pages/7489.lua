@@ -12,133 +12,323 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: yeah maybe we should drop this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: yeah maybe we should drop this",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: i dunno if you ever picked this\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"up from him but hes a pretty sensitive\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"guy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i dunno if you ever picked this up from him but hes a pretty sensitive guy",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what?? nooooo.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what?? nooooo.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: its true\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: its true",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: hes pretty much the easiest dude to rip on and makes for an irresistible target but you also have to know where to draw the line",
+		"DAVE: hes pretty much the easiest dude\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: really dont wanna actually you know like",
+		"to rip on and makes for an\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"irresistible target but you also have\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"to know where to draw the line\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: upset him",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: really dont wanna actually you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"know like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: upset him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: yeah, me neither.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yeah, me neither.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: um...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: um...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what the fuck is he doing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what the fuck is he doing?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: man i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: man i dont know",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: thats just his regular shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: thats just his regular shit",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: like, an every day occurrence\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"but with different bodily positions\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and geographic configurations\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: like, an every day occurrence but with different bodily positions and geographic configurations",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i see.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: bro will you get the fuck up\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: bro will you get the fuck up here",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: NO!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: NO!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: k suit yourself",
+		"DAVE: k suit yourself\
+",
 	},
 	next = {
 		7490,

@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"The human prisoner has broken out of his jail cell yet again. Attempts to block the cell door with heavy objects have proven futile.",
+		"The human prisoner has broken out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his jail cell yet again. Attempts to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"block the cell door with heavy objects\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have proven futile.\
+",
 	},
 	next = {
 		951,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"A command station, repaired.",
+		"A command station, repaired.\
+",
 	},
 	next = {
 		1978,

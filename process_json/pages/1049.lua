@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"John is of course sound asleep. It looks like he is having troubled dreams as usual.",
+		"John is of course sound asleep. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks like he is having troubled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dreams as usual.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You cannot disturb his slumber though. He will wake up when he is ready!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You cannot disturb his slumber though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He will wake up when he is ready!\
+",
 	},
 	next = {
 		1050,

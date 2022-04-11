@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Could you please just leave me alone.",
+		"DIRK: Could you please just leave me\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"alone.\
+",
 	},
 	next = {
 		6956,

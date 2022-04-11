@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"12/15 GREEN TORSOS DEAD",
+		"12/15 GREEN TORSOS DEAD\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-PROBABLY SOME MORE CLOCKS DESTROYED TOO",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROBABLY SOME MORE CLOCKS DESTROYED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TOO\
+",
 	},
 	next = {
 		1322,

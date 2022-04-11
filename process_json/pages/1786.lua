@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You pilfer the WHITE QUEEN'S RING.",
+		"You pilfer the WHITE QUEEN'S RING.\
+",
 	},
 	next = {
 		1787,

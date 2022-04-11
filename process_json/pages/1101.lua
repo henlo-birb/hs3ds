@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You don't give a shit about that.",
+		"You don't give a shit about that.\
+",
 	},
 	next = {
 		1102,

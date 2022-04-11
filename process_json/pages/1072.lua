@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: thats really all there is to say on the matter",
+		"TG: thats really all there is to say\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"on the matter\
+",
 	},
 	next = {
 		1073,

@@ -15,7 +15,22 @@ return {
 			0,
 			0,
 		},
-		"You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER PROGRAMMING GUIDES.",
+		"You go to your CLOSET, where you keep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a lot of clothes and an array of handy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COMPUTER PROGRAMMING GUIDES.\
+",
 	},
 	next = {
 		116,

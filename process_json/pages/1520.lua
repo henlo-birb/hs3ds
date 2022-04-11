@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"GRISTTORRENT is now running.",
+		"GRISTTORRENT is now running.\
+",
 	},
 	next = {
 		1521,

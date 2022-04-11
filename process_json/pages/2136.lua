@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Looks like the spirits are being cooperative today, if a bit cryptic, as usual.",
+		"Looks like the spirits are being\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cooperative today, if a bit cryptic,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as usual.\
+",
 	},
 	next = {
 		2137,

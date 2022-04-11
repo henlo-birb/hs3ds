@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Dang! You spaced out and put it in the wrong queuestack. Don't worry, you'll get the hang of this thing.",
+		"Dang! You spaced out and put it in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wrong queuestack. Don't worry, you'll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get the hang of this thing.\
+",
 	},
 	next = {
 		976,

@@ -13,42 +13,106 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-?GG: later my grandpa made a robot for me to help me with my sleep walking",
+		"?GG: later my grandpa made a robot for\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"me to help me with my sleep walking\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: it could do all the walking while i stayed safe in bed!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-?GG: it could also record my dreams",
+		"?GG: it could do all the walking while\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"i stayed safe in bed!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: i am sure he always knew my dreams were going to be special",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"?GG: it could also record my dreams\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: i suspect he knew it before i was even born",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"?GG: i am sure he always knew my\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"dreams were going to be special\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"?GG: i suspect he knew it before i was\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"even born\
+",
 	},
 	next = {
 		3985,

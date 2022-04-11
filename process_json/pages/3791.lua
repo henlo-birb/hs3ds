@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"If you'd forgotten the terms ruling the conditional immortality he won with his previous, similarly unceremonious impaling?",
+		"If you'd forgotten the terms ruling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the conditional immortality he won\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with his previous, similarly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unceremonious impaling?\
+",
 	},
 	next = {
 		3792,

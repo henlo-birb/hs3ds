@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What pumpkin?",
+		"What pumpkin?\
+",
 	},
 	next = {
 		669,

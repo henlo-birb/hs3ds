@@ -14,56 +14,162 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Are you coming or what!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Are you coming or what!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Yes, please come! I was a8out\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to 8egin one final story 8efore we\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"reach the treasure!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Yes, please come! I was a8out to 8egin one final story 8efore we reach the treasure!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: oh holy shit another story? i'm there!!!",
+		"JOHN: oh holy shit another story? i'm\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"there!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: sorry aradia, i'd love to keep chatting, but you heard the lady. it's story time again.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: sorry aradia, i'd love to keep\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"chatting, but you heard the lady. it's\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"story time again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
-		"\
-SOLLUX: w0w aradia, y0u actually sent the guy running t0 hear a serket st0ry.",
+		"SOLLUX: w0w aradia, y0u actually sent\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
+		"the guy running t0 hear a serket\
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"st0ry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-SOLLUX: that was a REALLY impressive creep 0ut j0b, nice.",
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"SOLLUX: that was a REALLY impressive\
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"creep 0ut j0b, nice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: :(",
+		"ARADIA: :(\
+",
 	},
 	next = {
 		6032,

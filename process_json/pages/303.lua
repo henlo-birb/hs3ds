@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"And NRUB'YIGLITH, SHAMEBEAST KING OF GROTESQUERY, WRITHE-LORD OF THE MOIST BEYONDHOOD. Hearing his melodious chirps and tongue-clicks causes one's bones to explode.",
+		"And NRUB'YIGLITH, SHAMEBEAST KING OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GROTESQUERY, WRITHE-LORD OF THE MOIST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEYONDHOOD. Hearing his melodious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chirps and tongue-clicks causes one's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bones to explode.\
+",
 	},
 	next = {
 		304,

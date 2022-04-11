@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"An old woman is escorted by her son on a lovely day. A target has been locked over the gentleman's mother.",
+		"An old woman is escorted by her son on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a lovely day. A target has been locked\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"over the gentleman's mother.\
+",
 	},
 	next = {
 		1868,

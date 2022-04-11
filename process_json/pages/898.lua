@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You type another one of the previously entered commands. It switches to the view of a young girl standing alone somewhere. There is a heavy amount of video interference of some sort.",
+		"You type another one of the previously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"entered commands. It switches to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"view of a young girl standing alone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhere. There is a heavy amount of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"video interference of some sort.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The girl seems familiar to you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The girl seems familiar to you.\
+",
 	},
 	next = {
 		899,

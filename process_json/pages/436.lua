@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You really need to work on your manners.",
+		"You really need to work on your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"manners.\
+",
 	},
 	next = {
 		437,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You accidentally launch your NINJA SWORD. Everything goes flying out the window, dead bird and all.",
+		"You accidentally launch your NINJA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SWORD. Everything goes flying out the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"window, dead bird and all.\
+",
 	},
 	next = {
 		356,

@@ -13,15 +13,78 @@ return {
 			0,
 			0,
 		},
-		"On the other hand, your WALL SWANSON is still beyond reproach, and Mr. Swanson continues to be the perfect man. You know for a FACT he wouldn't put up with any of Jake's bullshit. ",
+		"On the other hand, your WALL SWANSON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is still beyond reproach, and Mr.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Swanson continues to be the perfect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"man. You know for a FACT he wouldn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"put up with any of Jake's bullshit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You consider doing the thing where you kiss the poster, but you're feeling way too depressed for that sort of frivolous flapdoodle.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You consider doing the thing where you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kiss the poster, but you're feeling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way too depressed for that sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frivolous flapdoodle.\
+",
 	},
 	next = {
 		5690,

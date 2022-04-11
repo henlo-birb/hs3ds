@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"YOUR FILTHY HUMAN PORNOGRAPHY. HAS BEEN FORGED INTO A FORMIDABLE BLADE. ",
+		"YOUR FILTHY HUMAN PORNOGRAPHY. HAS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEEN FORGED INTO A FORMIDABLE BLADE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YOUR FOES TREMBLE IN THEIR BOOTS!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOUR FOES TREMBLE IN THEIR BOOTS!\
+",
 	},
 	next = {
 		6517,

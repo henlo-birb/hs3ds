@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"Sorry little dude, coming through. Gotta put you down for a bit.",
+		"Sorry little dude, coming through.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gotta put you down for a bit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You figure you've left him hanging long enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You figure you've left him hanging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long enough.\
+",
 	},
 	next = {
 		446,

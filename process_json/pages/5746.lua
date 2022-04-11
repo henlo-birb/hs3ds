@@ -12,182 +12,631 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: 2o uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: 2o uh...",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: hey there unholy combiinatiion of nepeta and feferii.",
+		"ERISOLSPRITE: hey there unholy\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"combiinatiion of nepeta and feferii.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: howwvve you been?",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: howwvve you been?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: wwoww that wwa2 a dumb que2tiion iim 2orry.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: wwoww that wwa2 a dumb\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"que2tiion iim 2orry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: thii2 ii2 pretty awwkwward ii2nt iit.",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: thii2 ii2 pretty\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"awwkwward ii2nt iit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 3833 < 38\\\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FEFETASPRITE: 3833 < 38\\",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: wwhat wwa2 that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: wwhat wwa2 that?",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: FUCK ii cant hear a goddamn thiing wwiith the2e FLIIPPIIN IIDIIOT2 doiin theiir candy giiggle rampage.",
+		"ERISOLSPRITE: FUCK ii cant hear a\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: can barely evven hear my owwn wword2 ovver thii2 2hriill diin of hiideou2 piink.",
+		"goddamn thiing wwiith the2e FLIIPPIIN\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"IIDIIOT2 doiin theiir candy giiggle\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"rampage.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: dont a2k me wwhy ii thiink iit 2ound2 piink iit JU2T DOE2 ok?",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: can barely evven hear my\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"owwn wword2 ovver thii2 2hriill diin\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"of hiideou2 piink.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: dont a2k me wwhy ii\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"thiink iit 2ound2 piink iit JU2T DOE2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ok?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 38?? < 38?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FEFETASPRITE: 38?? < 38?",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: anywway ii gue22 iivve been wwantiing twwo 2ay.",
+		"ERISOLSPRITE: anywway ii gue22 iivve\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"been wwantiing twwo 2ay.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: part of me ii2 2orry for kiilliing part of you.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: ii mean that not a2 the part a me that u2ed twwo be your mate2priit cau2e OBVVIIOU2LY that part wwa2nt re2pon2iible for that 2curriilou2 2hiit.",
+		"ERISOLSPRITE: part of me ii2 2orry for\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"kiilliing part of you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: but the part of me that u2ed twwo be moraiil2 wwiith part a you.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: and wwhereiin nepeta ii2 ju2t kiind of a wweiirdly unrelated by2tander iin thii2 wwhole me22?",
+		"ERISOLSPRITE: ii mean that not a2 the\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: 2o ii gue22 the wwhole me ii2 2orry twwo nepeta for havviin twwo put up wwiith thii2 2hiitty lovve triiangle fallout.",
+		"part a me that u2ed twwo be your\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: AUGH thii2 ii2 ab2olutely the 2HIITTIIE2T apology 2iituatiion ii can evven FUCKIING fathom.",
+		"mate2priit cau2e OBVVIIOU2LY that part\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: cant evven get 2ome legiitiimate feeliin2 of remor2e off my che2t cau2e the che2t ha2 contradiictory feeliin2 a twwo people and the reciipiient ii2 the amalgamatiion of the wwronged party and 2omebody wwho could not giivve a bloody 2hiittiing FUCK about any a thii2.",
+		"wwa2nt re2pon2iible for that\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"2curriilou2 2hiit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: nevver miind thii2 reconciiliiatiion ha2 been an ab2olute dii2a2ter.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: can wwe at lea2t come twwo term2 on a 2ound poliicy of 'fuck gamzee'?",
+		"ERISOLSPRITE: but the part of me that\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: cau2e all iim 2ayiin ii2 ba2iically.",
+		"u2ed twwo be moraiil2 wwiith part a\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: ju2t.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: and wwhereiin nepeta ii2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ju2t kiind of a wweiirdly unrelated\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"by2tander iin thii2 wwhole me22?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: fuck that guy.",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: 2o ii gue22 the wwhole\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"me ii2 2orry twwo nepeta for havviin\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"twwo put up wwiith thii2 2hiitty lovve\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"triiangle fallout.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: AUGH thii2 ii2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ab2olutely the 2HIITTIIE2T apology\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"2iituatiion ii can evven FUCKIING\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"fathom.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: cant evven get 2ome\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"legiitiimate feeliin2 of remor2e off\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"my che2t cau2e the che2t ha2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"contradiictory feeliin2 a twwo people\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"and the reciipiient ii2 the\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"amalgamatiion of the wwronged party\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"and 2omebody wwho could not giivve a\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"bloody 2hiittiing FUCK about any a\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"thii2.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: nevver miind thii2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"reconciiliiatiion ha2 been an ab2olute\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"dii2a2ter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: can wwe at lea2t come\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"twwo term2 on a 2ound poliicy of 'fuck\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"gamzee'?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: cau2e all iim 2ayiin ii2\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ba2iically.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: ju2t.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: fuck that guy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-FEFETASPRITE: 38)) < 38)",
+		"FEFETASPRITE: 38)) < 38)\
+",
 	},
 	next = {
 		5747,

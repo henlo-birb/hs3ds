@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"God dammit. Will you quit fidgeting and drink your milk?",
+		"God dammit. Will you quit fidgeting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and drink your milk?\
+",
 	},
 	next = {
 		4669,

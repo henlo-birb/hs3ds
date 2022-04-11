@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"The Thief is proving useless. Completely unresponsive to commands. ",
+		"The Thief is proving useless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Completely unresponsive to commands.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll need to rely on someone else. Someone less stubborn. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Someone craftier.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll need to rely on someone else.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone less stubborn.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone craftier.\
+",
 	},
 	next = {
 		2522,

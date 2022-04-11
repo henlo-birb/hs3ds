@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You make the DRESS OF ECLECTICA! ",
+		"You make the DRESS OF ECLECTICA!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is so much better.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is so much better.\
+",
 	},
 	next = {
 		3154,

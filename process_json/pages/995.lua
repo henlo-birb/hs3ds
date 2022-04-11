@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"You climb into bed and try to get comfortable. But some sort of invisible force is pressing down on you, a strange feeling of cold heavy metal.",
+		"You climb into bed and try to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"comfortable. But some sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"invisible force is pressing down on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you, a strange feeling of cold heavy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"metal.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This happens every time you try to get into bed! No wonder you can never get any sleep.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This happens every time you try to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into bed! No wonder you can never get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any sleep.\
+",
 	},
 	next = {
 		996,

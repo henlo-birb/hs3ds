@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You storm up your ECHELADDER to claim the coveted if difficult to pronounce rung: ECTOBIOLOBABYSITTER.",
+		"You storm up your ECHELADDER to claim\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the coveted if difficult to pronounce\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rung: ECTOBIOLOBABYSITTER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your ladder is absolutely hemorrhaging the boondollars. Just what your porkhollow's fat ass needs.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your ladder is absolutely hemorrhaging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the boondollars. Just what your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"porkhollow's fat ass needs.\
+",
 	},
 	next = {
 		1892,

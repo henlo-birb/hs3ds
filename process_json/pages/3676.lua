@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Grandmother? You wonder who that could be?",
+		"Grandmother? You wonder who that could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's probably just Jade. What with all the time shenanigans.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's probably just Jade. What with all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the time shenanigans.\
+",
 	},
 	next = {
 		3677,

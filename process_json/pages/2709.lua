@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Earth is surprisingly pretty.",
+		"Earth is surprisingly pretty.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It seems very...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Bright.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It seems very...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Bright.\
+",
 	},
 	next = {
 		2710,

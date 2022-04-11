@@ -12,28 +12,64 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: You wouldn't 8elieve my luck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You wouldn't 8elieve my luck.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: You see, recently someone's 8een doing that dirty work for us.",
+		"VRISKA: You see, recently someone's\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8een doing that dirty work for us.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Want to know what the kicker is?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Want to know what the kicker\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is?\
+",
 	},
 	next = {
 		5395,

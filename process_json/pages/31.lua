@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"You've put countless manhours into this assortment of quality titles.",
+		"You've put countless manhours into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this assortment of quality titles.\
+",
 	},
 	next = {
 		32,

@@ -12,15 +12,127 @@ return {
 			0,
 			0,
 		},
-		"You take your starting position in the field. The game is afoot, and anything can happen now. It's up to you to consult your maps and work with your teammate to discover the objective of the quest, find treasure, and slay monsters.",
+		"You take your starting position in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"field. The game is afoot, and anything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can happen now. It's up to you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"consult your maps and work with your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"teammate to discover the objective of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the quest, find treasure, and slay\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"monsters.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your STAT BAT has bonded with you. This keeps track of every attribute for your character, including vitals. While these attributes in principle remain abstractions, due to the fact that this is EXTREME role playing, they will always relate in some way to your real life attributes as well. You've got to be careful out here!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your STAT BAT has bonded with you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This keeps track of every attribute\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for your character, including vitals.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"While these attributes in principle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remain abstractions, due to the fact\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that this is EXTREME role playing,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"they will always relate in some way to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your real life attributes as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've got to be careful out here!\
+",
 	},
 	next = {
 		2172,

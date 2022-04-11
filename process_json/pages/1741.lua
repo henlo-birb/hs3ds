@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"It seems you have a visitor.",
+		"It seems you have a visitor.\
+",
 	},
 	next = {
 		1742,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It's warm and nutritious. Fresh from the butler's teat. You JUST watched me milk it.",
+		"It's warm and nutritious. Fresh from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the butler's teat. You JUST watched me\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"milk it.\
+",
 	},
 	next = {
 		4670,

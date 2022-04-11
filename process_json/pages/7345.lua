@@ -12,28 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Hahahahahahahaha!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Hahahahahahahaha!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: heheh hehehe\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: heheh hehehe",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Haha!",
+		"VRISKA: Haha!\
+",
 	},
 	next = {
 		7346,

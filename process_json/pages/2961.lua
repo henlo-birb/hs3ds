@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"No, now he's talking to the Knight.",
+		"No, now he's talking to the Knight.\
+",
 	},
 	next = {
 		2962,

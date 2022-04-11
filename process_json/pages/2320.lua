@@ -12,79 +12,176 @@ return {
 			0,
 			0,
 		},
-		"After watching the phrases ",
+		"After watching the phrases\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"MOBIUS",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"MOBIUS\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"DOUBLE",
+		"DOUBLE\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" and ",
+		"and\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"REACH",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"REACH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"AROUND",
+		"AROUND\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" toggle for a few minutes while in a sort of stupor, you finally snap out of it. Your attention drifts toward these two symbols.",
+		"toggle for a few minutes while in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of stupor, you finally snap out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of it. Your attention drifts toward\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these two symbols.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You would try to be these mysterious characters but you suspect you would fail, so you don't bother.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-They're way too mysterious for you to be them yet! Seriously, what's up with these guys? Do they live under water or something? What's their deal!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You would try to be these mysterious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"characters but you suspect you would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fail, so you don't bother.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We'll learn all about them a little later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They're way too mysterious for you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be them yet! Seriously, what's up with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these guys? Do they live under water\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or something? What's their deal!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We'll learn all about them a little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"later.\
+",
 	},
 	next = {
 		2321,

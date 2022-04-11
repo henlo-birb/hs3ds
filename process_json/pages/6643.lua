@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Again, I am very sorry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Again, I am very sorry.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: 8ut it must 8e done.",
+		"ARANEA: 8ut it must 8e done.\
+",
 	},
 	next = {
 		6644,

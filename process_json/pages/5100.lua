@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"These are just a few of the many drawings you have done over the years celebrating your absolute all-time favorite characters. Er... you mean friends.",
+		"These are just a few of the many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"drawings you have done over the years\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"celebrating your absolute all-time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"favorite characters. Er... you mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friends.\
+",
 	},
 	next = {
 		5101,

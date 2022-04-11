@@ -12,59 +12,106 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"GET YOUR PAWS OFF ME YOU SHITFUCKING SHITFUCKER AUGH FUCK SHIT SHIT SHIT FUCK FUCK.",
+		"GET YOUR PAWS OFF ME YOU SHITFUCKING\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"SHITFUCKER AUGH FUCK SHIT SHIT SHIT\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"FUCK FUCK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"GAMZEE: honk.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GAMZEE: honk.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"YOU SCURRILOUS FUCKSHITTING CAD. UNHAND ME SO I MAY RESURRECT MY ACCOMPLICE AT ONCE.",
+		"YOU SCURRILOUS FUCKSHITTING CAD.\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"UNHAND ME SO I MAY RESURRECT MY\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"ACCOMPLICE AT ONCE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-GAMZEE: honk honk.",
+		"GAMZEE: honk honk.\
+",
 	},
 	next = {
 		6683,

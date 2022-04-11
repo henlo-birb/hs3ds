@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You combine a couple more items you got from future Dave's loot stash. The broken form of CALEDSCRATCH, and some RUBY CONTRABAND, whatever the hell that is.",
+		"You combine a couple more items you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got from future Dave's loot stash. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"broken form of CALEDSCRATCH, and some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RUBY CONTRABAND, whatever the hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The resulting item costs a fortune. You have no idea what it is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The resulting item costs a fortune.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have no idea what it is.\
+",
 	},
 	next = {
 		1825,

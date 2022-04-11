@@ -12,7 +12,8 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"IT'S NOT THAT INTERESTING.",
+		"IT'S NOT THAT INTERESTING.\
+",
 	},
 	next = {
 		6475,

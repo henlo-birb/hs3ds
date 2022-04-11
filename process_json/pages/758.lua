@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"END OF ACT 2",
+		"END OF ACT 2\
+",
 	},
 	next = {
 		759,

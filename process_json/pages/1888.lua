@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Ectobiology sure does involve a lot of button pushing. At least it does when you're a junior ectobiologist.",
+		"Ectobiology sure does involve a lot of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"button pushing. At least it does when\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you're a junior ectobiologist.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your loyal assistant Dr. Meowgon is all over this one.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your loyal assistant Dr. Meowgon is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all over this one.\
+",
 	},
 	next = {
 		1889,

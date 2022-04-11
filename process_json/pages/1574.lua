@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You apply the ENLARGER UPGRADE.",
+		"You apply the ENLARGER UPGRADE.\
+",
 	},
 	next = {
 		1575,

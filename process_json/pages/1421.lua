@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You drop in one of your precious SHOES. You hate to see it go, but you have to follow the custom and give it what the tablet asks for.",
+		"You drop in one of your precious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHOES. You hate to see it go, but you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have to follow the custom and give it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what the tablet asks for.\
+",
 	},
 	next = {
 		1422,

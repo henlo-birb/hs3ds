@@ -12,49 +12,127 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: This 8rings us to the Jacks.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This 8rings us to the Jacks.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: To differenti8, I'll give them nicknames.",
+		"VRISKA: To differenti8, I'll give them\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"nicknames.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: There's Dog Jack, Lord Jack, and Ro8o Jack.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Let's talk a8out them in order of threat level.",
+		"VRISKA: There's Dog Jack, Lord Jack,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"and Ro8o Jack.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Karkat, I'm going to need another shitty drawing.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Let's talk a8out them in order\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of threat level.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This time, of Dog Jack and his prospitian counterpart, please.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Karkat, I'm going to need\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"another shitty drawing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: This time, of Dog Jack and his\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"prospitian counterpart, please.\
+",
 	},
 	next = {
 		7522,

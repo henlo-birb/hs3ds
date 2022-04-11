@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Just look at that face.",
+		"Just look at that face.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A sad face. A forlorn face.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A sad face. A forlorn face.\
+",
 	},
 	next = {
 		2672,

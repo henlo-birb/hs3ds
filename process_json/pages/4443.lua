@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"That's an odd extension for a file. You don't think you've ever seen it before.",
+		"That's an odd extension for a file.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't think you've ever seen it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before.\
+",
 	},
 	next = {
 		4444,

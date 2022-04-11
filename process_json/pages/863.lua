@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Great, you just vaporized your dead cat. Oh well. Ashes to ashes you guess.",
+		"Great, you just vaporized your dead\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cat. Oh well. Ashes to ashes you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's got to be a better way to deal with this lousy tree.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's got to be a better way to deal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with this lousy tree.\
+",
 	},
 	next = {
 		864,

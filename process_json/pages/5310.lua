@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"THIS GUY!",
+		"THIS GUY!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is the guy who you are now being.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is the guy who you are now being.\
+",
 	},
 	next = {
 		5311,

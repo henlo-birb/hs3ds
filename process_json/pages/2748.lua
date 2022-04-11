@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You take the brunt of the stellar smellsplosion like a sour apple punch to the snout!",
+		"You take the brunt of the stellar\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smellsplosion like a sour apple punch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the snout!\
+",
 	},
 	next = {
 		2749,

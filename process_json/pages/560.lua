@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Lousy goddamn stupid stairs!",
+		"Lousy goddamn stupid stairs!\
+",
 	},
 	next = {
 		561,

@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You got the WARHAMMER OF ZILLYHOO.",
+		"You got the WARHAMMER OF ZILLYHOO.\
+",
 	},
 	next = {
 		3679,

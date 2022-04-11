@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"A weird bug approaches. ",
+		"A weird bug approaches.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It must be your lucky day.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It must be your lucky day.\
+",
 	},
 	next = {
 		3292,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Your name is ERIDAN AMPORA.",
+		"Your name is ERIDAN AMPORA.\
+",
 	},
 	next = {
 		2409,

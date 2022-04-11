@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: ECTOBIOLOGY IS A TOUCHY THING.",
+		"PCG: ECTOBIOLOGY IS A TOUCHY THING.\
+",
 	},
 	next = {
 		4008,

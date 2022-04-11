@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"It seems the APPEARIFIER cannot appearify something if it will create a TIME PARADOX.",
+		"It seems the APPEARIFIER cannot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearify something if it will create\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a TIME PARADOX.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A GELATINOUS GHOST PUMPKIN appearifies and quickly dissolves into a pile of UNAPPETIZING SLUDGE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A GELATINOUS GHOST PUMPKIN appearifies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and quickly dissolves into a pile of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNAPPETIZING SLUDGE.\
+",
 	},
 	next = {
 		753,

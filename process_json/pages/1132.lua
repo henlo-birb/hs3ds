@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Today is your BIRTHDAY. Your grandfather has decided to celebrate by introducing you to THE THRILL OF THE HUNT. ",
+		"Today is your BIRTHDAY. Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grandfather has decided to celebrate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by introducing you to THE THRILL OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE HUNT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But suddenly you and Bec are wandering off. Where is this silly DOG taking you?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But suddenly you and Bec are wandering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off. Where is this silly DOG taking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you?\
+",
 	},
 	next = {
 		1133,

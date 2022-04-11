@@ -12,31 +12,92 @@ return {
 			0,
 			0,
 		},
-		"After a lot of bullshitting around, you calmly and casually put on the RING OF ORBS NOFOLD. A phenomenal transformation takes place.",
+		"After a lot of bullshitting around,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you calmly and casually put on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RING OF ORBS NOFOLD. A phenomenal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"transformation takes place.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You become...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-My God.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You become...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YOU BECOME...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"My God.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU BECOME...\
+",
 	},
 	next = {
 		4946,

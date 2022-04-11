@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You have been so busy being consumed by unspeakable horror, you didn't notice someone has been trying to contact you.",
+		"You have been so busy being consumed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by unspeakable horror, you didn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"notice someone has been trying to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contact you.\
+",
 	},
 	next = {
 		3427,

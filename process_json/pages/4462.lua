@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Hey, get that damn cat outta the way!",
+		"Hey, get that damn cat outta the way!\
+",
 	},
 	next = {
 		4463,

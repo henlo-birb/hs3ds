@@ -14,119 +14,561 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I still dont really know what a juggalo is.",
+		"GT: I still dont really know what a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"juggalo is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Do they juggle?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Do they juggle?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Don't worry about it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Don't worry about it.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: People were less prepared for a double juggalo presidency than they ever imagined.",
+		"TT: People were less prepared for a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I'm not even going to get into all the horrifying details. Trust me, you just start to feel dirty reading about it.",
+		"double juggalo presidency than they\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"ever imagined.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: From the moment Fieri held up the bible to swear them in, and the three of them proceeded to publically defecate on it while freestyling rap lyrics...",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: That was it. Everyone in the world watching it on TV just said, \"Welp. Show's over. Civilization was pretty cool while it lasted.\"",
+		"TT: I'm not even going to get into all\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: The next several grueling terms of their presidency was a weird combination of authoritarian practices. The Baroness used it as a puppet regime, while still basically giving them carte blanche to carry out their idiotic whims.",
+		"the horrifying details. Trust me, you\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Faygo was pumped through the plumbing instead of tap water. The new national pastime was having type 2 diabetes. And the national anthem was replaced by a 3 minute high-reverb audio clip of President Jay farting into a microphone while laughing.",
+		"just start to feel dirty reading about\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Chaplain Fieri was authorized to set up the death camps, in which anyone on the planet could be imprisoned if they were not deemed sufficiently \"mirthful.\"",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: And so the cleansing began, priming humanity for its new ruler waiting in the wings.",
+		"TT: From the moment Fieri held up the\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: This was when our ancestors had enough.",
+		"bible to swear them in, and the three\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: The resistance movement had failed, but they could at least bring the war criminals to justice.",
+		"of them proceeded to publically\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: My bro finally caught up with the presidents and challenged them to a duel.",
+		"defecate on it while freestyling rap\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"lyrics...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: They accepted, having for years regarded him as a cocky rival rapper who failed to show them the proper respect. In their arrogance they invited him into the foul belly of the Carnival believing they could teach him once and for all what it truly meant to be down with the clown.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: That was it. Everyone in the world\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"watching it on TV just said, \"Welp.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Show's over. Civilization was pretty\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"cool while it lasted.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: For centuries thereafter, survivors of the Hilarocaust would cite the rooftop showdown as one of the most heroic moments in human history.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: The next several grueling terms of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"their presidency was a weird\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"combination of authoritarian\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"practices. The Baroness used it as a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"puppet regime, while still basically\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"giving them carte blanche to carry out\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"their idiotic whims.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Faygo was pumped through the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"plumbing instead of tap water. The new\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"national pastime was having type 2\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"diabetes. And the national anthem was\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"replaced by a 3 minute high-reverb\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"audio clip of President Jay farting\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"into a microphone while laughing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Chaplain Fieri was authorized to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"set up the death camps, in which\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"anyone on the planet could be\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"imprisoned if they were not deemed\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"sufficiently \"mirthful.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: And so the cleansing began,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"priming humanity for its new ruler\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"waiting in the wings.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: This was when our ancestors had\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"enough.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: The resistance movement had\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"failed, but they could at least bring\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the war criminals to justice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: My bro finally caught up with the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"presidents and challenged them to a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"duel.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: They accepted, having for years\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"regarded him as a cocky rival rapper\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"who failed to show them the proper\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"respect. In their arrogance they\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"invited him into the foul belly of the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Carnival believing they could teach\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"him once and for all what it truly\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"meant to be down with the clown.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: For centuries thereafter,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"survivors of the Hilarocaust would\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"cite the rooftop showdown as one of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the most heroic moments in human\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"history.\
+",
 	},
 	next = {
 		4867,

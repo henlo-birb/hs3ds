@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Where a kingdom lies entrenched beyond an impenetrable veil of darkness.",
+		"Where a kingdom lies entrenched beyond\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an impenetrable veil of darkness.\
+",
 	},
 	next = {
 		887,

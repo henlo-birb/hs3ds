@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Looks like a little girl's room. This all strikes you as a bit odd.",
+		"Looks like a little girl's room. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all strikes you as a bit odd.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No time for messing around in here though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No time for messing around in here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though.\
+",
 	},
 	next = {
 		906,

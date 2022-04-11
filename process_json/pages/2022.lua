@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Your sylladex launches your beverage far, far into the ocean.",
+		"Your sylladex launches your beverage\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"far, far into the ocean.\
+",
 	},
 	next = {
 		2023,

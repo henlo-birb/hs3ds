@@ -68,19 +68,14 @@ end
 
 local function renderText(this, app)
     local c = makeC(this)
-    local new_text = c(this.coloredtext)
-    if this.last_text ~= new_text then
-        this.text_obj:setf(new_text, c(this.wrap_limit), c(this.align))
-        this.last_text = new_text
+    local text = c(this.coloredtext)
+    if this.last_text ~= text then
+        this.text_obj:setf(text, c(this.wrap_limit), c(this.align))
+        this.last_text = text
     end
     love.graphics.draw(this.text_obj, getX(this, c), getY(this, c), c(this.r),
                        c(this.sx), c(this.sy), c(this.ox), c(this.oy),
                        c(this.kx), c(this.ky))
-    -- love.graphics.setFont(c(this.font))
-
-    -- love.graphics.printf(c(this.coloredtext), getX(this, c), getY(this, c),
-    --                      c(this.wrap_limit), c(this.align))
-
 end
 
 function Text(coloredtext, font, x, y, wrap_limit, align)
@@ -105,7 +100,6 @@ function Text(coloredtext, font, x, y, wrap_limit, align)
             this.wrap_limit = width;
             return width
         end,
-        section_ys = {},
         align = align or "left",
         render = renderText,
         p = merge
@@ -114,9 +108,57 @@ end
 
 local function renderScrollableText(this, app)
     local c = makeC(this)
-    love.graphics.setFont(c(this.font))
-    love.graphics.printf(c(this.coloredtext), getX(this, c), getY(this, c),
-                         c(this.wrap_limit), c(this.align))
+    local font = c(this.font)
+    if font ~= this.last_font then
+        this.text_obj:setFont(font)
+        this.last_font = font
+    end
+    local text = c(this.coloredtext)
+    local wrap_limit = c(this.wrap_limit)
+    local view_height = c(this.view_height)
+    local num_lines = math.floor(view_height/font:getHeight())
+    
+    local scroll_y = c(this.scroll_y)
+    local align = c(this.align)
+
+    if this.last_text ~= text then
+        scroll_y = 0
+        this.current_line = 1
+        this.lines = {unpack(text, 1, (num_lines - 1) * 2)}
+        this.text_obj:setf(this.lines, wrap_limit, align)
+        this.last_text = text
+    end
+
+    if scroll_y ~= this.last_scroll_y then
+        if scroll_y > font:getHeight() then
+            if this.current_line < #text - (num_lines - 2) * 2 then
+                scroll_y = scroll_y - font:getHeight()
+                this.current_line = this.current_line + 2
+                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines - 1) * 2)}
+                this.text_obj:setf(this.lines, wrap_limit, align)
+            else
+                scroll_y = this.last_scroll_y
+            end
+        elseif scroll_y < 0 then
+            if this.current_line > 2 then
+                scroll_y = scroll_y + font:getHeight()
+                this.current_line = this.current_line - 2
+                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines - 1) * 2)}
+                this.text_obj:setf(this.lines, wrap_limit, align)
+            else
+                scroll_y = this.last_scroll_y
+            end
+        end
+        
+        this.last_scroll_y = scroll_y
+    end
+    
+    love.graphics.setCanvas()
+    love.graphics.setScissor(getX(this, c), getY(this, c), wrap_limit, view_height)
+    love.graphics.draw(this.text_obj, getX(this, c), getY(this, c) - scroll_y,
+                       c(this.r), c(this.sx), c(this.sy), c(this.ox),
+                       c(this.oy), c(this.kx), c(this.ky))
+    love.graphics.setScissor()
 end
 
 function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
@@ -126,7 +168,12 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
         type = "text",
         coloredtext = coloredtext,
         last_text = {},
+        lines = {},
         font = font,
+        last_font = love.graphics.getFont(),
+        text_obj = love.graphics.newText(love.graphics.getFont()),
+        start_idx = 1,
+        end_idx = 2,
         x = x or 0,
         y = y or 0,
         r = 0,
@@ -141,15 +188,17 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
             this.wrap_limit = width
             return width
         end,
+        last_wrap_limit = 0,
         view_height = view_height or function(this)
             local height = love.graphics.getHeight(screen)
             this.view_height = height
             return height
         end,
         scroll_y = scroll_y or 0,
-        section_ys = {},
+        last_scroll_y = -1,
+        current_line = 1,
         align = align or "left",
-        render = renderText,
+        render = renderScrollableText,
         p = merge
     }
 end
@@ -237,13 +286,10 @@ function Animation(name, x, y, sx, sy, looping)
         atlas_data = {},
         atlases = {},
         quads = {},
-        current_frame = 1,
-        frames_per_atlas = 0,
-        dt = 0,
-        n_frames = 0,
         n_atlases = 0,
         n_quads = 0,
         durations = {},
+        dt = 0,
         x = x or 0,
         y = y or 0,
         sx = sx or 1,

@@ -12,23 +12,113 @@ return {
 			0,
 			0,
 		},
-		"You have a lot to do. So many irons in the fire OW!",
+		"You have a lot to do. So many irons in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the fire OW!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Lousy dice. You just can't ever seem to go anywhere in your hive without stepping on an errant D4. Pointy little bastards.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's just your bad luck, you guess. You've had such terrible luck ever since your accident. And it just keeps getting worse. As far as you're concerned, the world can't end soon enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lousy dice. You just can't ever seem\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to go anywhere in your hive without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stepping on an errant D4. Pointy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little bastards.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's just your bad luck, you guess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've had such terrible luck ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"since your accident. And it just keeps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting worse. As far as you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concerned, the world can't end soon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough.\
+",
 	},
 	next = {
 		2198,

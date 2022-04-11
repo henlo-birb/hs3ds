@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Quit cleaning up after me!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Quit cleaning up after me!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: You are so ridiculous.",
+		"AG: You are so ridiculous.\
+",
 	},
 	next = {
 		2361,

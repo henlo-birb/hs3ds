@@ -12,35 +12,85 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: WH4T DO YOU TH1NK YOUR3 LOOK1NG 4T?",
+		"TEREZI: WH4T DO YOU TH1NK YOUR3\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"LOOK1NG 4T?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: DR34M ON, M1R4CL3 BOY",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: DR34M ON, M1R4CL3 BOY\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: CH13F D3PUTY PYR4LSP1T3 C4N DO NOTH1NG FOR YOU NOW!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: CH13F D3PUTY PYR4LSP1T3 C4N DO\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"NOTH1NG FOR YOU NOW!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: NO ON3 C4N S4V3 YOU FROM YOUR JUDGM3NT!",
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: NO ON3 C4N S4V3 YOU FROM YOUR\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"JUDGM3NT!\
+",
 	},
 	next = {
 		6710,

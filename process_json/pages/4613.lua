@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You bust open a bottle of dead cat on the pad and get a little teary eyed as you say one last goodbye.",
+		"You bust open a bottle of dead cat on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the pad and get a little teary eyed as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you say one last goodbye.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, hello, GCat. Come to pay your respects, huh?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, hello, GCat. Come to pay your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respects, huh?\
+",
 	},
 	next = {
 		4614,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The door jams.",
+		"The door jams.\
+",
 	},
 	next = {
 		3136,

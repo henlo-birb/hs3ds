@@ -12,19 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You open the chest releasing them both. ",
+		"You open the chest releasing them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"both.\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Crowbar",
+		"Crowbar\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" doesn't look too pleased.",
+		"doesn't look too pleased.\
+",
 	},
 	next = {
 		1282,

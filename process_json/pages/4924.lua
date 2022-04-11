@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You be the other guy again while they beat you senseless.",
+		"You be the other guy again while they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beat you senseless.\
+",
 	},
 	next = {
 		4925,

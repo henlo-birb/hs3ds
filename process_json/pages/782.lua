@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You go pick a nice looking KEY LIME.",
+		"You go pick a nice looking KEY LIME.\
+",
 	},
 	next = {
 		783,

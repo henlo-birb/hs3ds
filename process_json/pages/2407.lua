@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Looks like it worked.",
+		"Looks like it worked.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-So who IS this guy, anyway?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"So who IS this guy, anyway?\
+",
 	},
 	next = {
 		2408,

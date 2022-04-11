@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Get to work, threadmonkey.",
+		"Get to work, threadmonkey.\
+",
 	},
 	next = {
 		1300,

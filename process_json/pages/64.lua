@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You can now execute that brilliant idea you had.",
+		"You can now execute that brilliant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idea you had.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There should be just enough FROSTING on the FAKE ARMS to serve as an adequate adhesive.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There should be just enough FROSTING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on the FAKE ARMS to serve as an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adequate adhesive.\
+",
 	},
 	next = {
 		65,

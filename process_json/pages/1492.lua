@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"JASPERSPRITE is nowhere to be found. He always was a little cagey, even when he was alive.",
+		"JASPERSPRITE is nowhere to be found.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He always was a little cagey, even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when he was alive.\
+",
 	},
 	next = {
 		1493,

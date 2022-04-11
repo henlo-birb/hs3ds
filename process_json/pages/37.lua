@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"You check the back of your STRIFE SPECIBUS for the KIND ABSTRATUS you have in mind for it.",
+		"You check the back of your STRIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECIBUS for the KIND ABSTRATUS you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have in mind for it.\
+",
 	},
 	next = {
 		38,

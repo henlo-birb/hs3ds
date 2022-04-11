@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Now what in the hell is going on over there??",
+		"Now what in the hell is going on over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there??\
+",
 	},
 	next = {
 		2678,

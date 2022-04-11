@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Yeah ok. Guess I've trolled you guys enough.",
+		"Yeah ok. Guess I've trolled you guys\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Where were we? Oh yeah. Slick.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Where were we? Oh yeah. Slick.\
+",
 	},
 	next = {
 		2500,

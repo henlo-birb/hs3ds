@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You wish he would wake up. You could really use someone with awesome powers right now, being awake and not useless.",
+		"You wish he would wake up. You could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"really use someone with awesome powers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right now, being awake and not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"useless.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh god, are those his teeth on the floor?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh god, are those his teeth on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"floor?\
+",
 	},
 	next = {
 		3429,

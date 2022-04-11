@@ -14,70 +14,183 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Where do you think you're going?!",
+		"VRISKA: Where do you think you're\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Get 8ack here! You c8n't just fly aw8y from me like th8t!!!!!!!!",
+		"going?!\
+",
 		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROS: oH, bUT i CAN,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: yOU FORGOT ABOUT *MYYYY* SECRET WEAPON,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: bEHOLD, tHE SELF ESTEEMS!!!,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: S8LF ESTEEMS MY 8SS! I SAID G8T 8ACK HERE!!!!!!!!",
+		"VRISKA: Get 8ack here! You c8n't just\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"fly aw8y from me like th8t!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: IF YOU GO OUT THERE AL8NE YOU'RE G8ING TO DIE, Y8U P8THETIC PI8CE OF SHIT!!!!!!!!",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: oH, bUT i CAN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: i'LL TAKE MY CHANCES, yOU JERK!",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yOU FORGOT ABOUT *MYYYY*\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"SECRET WEAPON,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: (hahA, yeSSsSs,)",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: bEHOLD, tHE SELF ESTEEMS!!!,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: S8LF ESTEEMS MY 8SS! I SAID\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"G8T 8ACK HERE!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: IF YOU GO OUT THERE AL8NE\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"YOU'RE G8ING TO DIE, Y8U P8THETIC\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"PI8CE OF SHIT!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i'LL TAKE MY CHANCES, yOU\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"JERK!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: (hahA, yeSSsSs,)\
+",
 	},
 	next = {
 		6044,

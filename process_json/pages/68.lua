@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You can carry hefty items, but that thing is just way too big. Get real!",
+		"You can carry hefty items, but that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing is just way too big. Get real!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Besides, you don't even want it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, you don't even want it.\
+",
 	},
 	next = {
 		69,

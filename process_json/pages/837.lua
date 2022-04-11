@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Rose is online.",
+		"Rose is online.\
+",
 	},
 	next = {
 		838,

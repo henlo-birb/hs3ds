@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You can't kill him yet. You need him alive to return to the original timeline. ",
+		"You can't kill him yet. You need him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"alive to return to the original\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"timeline.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will be taking that CROWBAR though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will be taking that CROWBAR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though.\
+",
 	},
 	next = {
 		1276,

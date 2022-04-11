@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You could not do it. ",
+		"You could not do it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You could not kill the girl.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You could not kill the girl.\
+",
 	},
 	next = {
 		3558,

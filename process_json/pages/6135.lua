@@ -12,19 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Just take us to the exit, ",
+		"Just take us to the exit,\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Crowbar",
+		"Crowbar\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". He says yeah sure.",
+		". He says yeah sure.\
+",
 	},
 	next = {
 		6136,

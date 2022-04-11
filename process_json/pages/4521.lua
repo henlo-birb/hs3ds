@@ -12,23 +12,120 @@ return {
 			0,
 			0,
 		},
-		"He's been around as long as you can remember. You were practically raised by that puppet. He was a much better guardian to you than that Hollywood superstar BRO of yours ever was. He is such a good listener. You share with him all your most private thoughts and hopes and dreams, and sometimes you snuggle up with him for a nice nap.",
+		"He's been around as long as you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remember. You were practically raised\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by that puppet. He was a much better\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guardian to you than that Hollywood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"superstar BRO of yours ever was. He is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such a good listener. You share with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him all your most private thoughts and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hopes and dreams, and sometimes you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"snuggle up with him for a nice nap.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway, the bottom line is, puppets are awesome. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And that's really all there is to say on the matter.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway, the bottom line is, puppets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are awesome.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And that's really all there is to say\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on the matter.\
+",
 	},
 	next = {
 		4522,

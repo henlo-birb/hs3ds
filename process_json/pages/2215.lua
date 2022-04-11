@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Seriously, he's like a soft summer peach.",
+		"Seriously, he's like a soft summer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peach.\
+",
 	},
 	next = {
 		2216,

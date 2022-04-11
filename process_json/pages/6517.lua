@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"YOU DEAL A CRITICAL HIT TO THE HORRIBLE WITCH. ",
+		"YOU DEAL A CRITICAL HIT TO THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HORRIBLE WITCH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HOWEVER. AN ILL TIMED LEAP SUBSEQUENTLY CAUSES YOU TO SUFFER *MASSIVE DAMAGE*.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOWEVER. AN ILL TIMED LEAP\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SUBSEQUENTLY CAUSES YOU TO SUFFER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"*MASSIVE DAMAGE*.\
+",
 	},
 	next = {
 		6518,

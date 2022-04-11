@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"In the meantime you decide to touch base with your pals.",
+		"In the meantime you decide to touch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"base with your pals.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ugh, no, not those pals. The TROLLSLUM can just sit tight for now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ugh, no, not those pals. The TROLLSLUM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can just sit tight for now.\
+",
 	},
 	next = {
 		1391,

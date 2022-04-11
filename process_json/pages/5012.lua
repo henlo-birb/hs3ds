@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: SOOOOOOOOOOO\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: SOOOOOOOOOOO",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: COOOOOOOOOOOL",
+		"MEENAH: COOOOOOOOOOOL\
+",
 	},
 	next = {
 		5013,

@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"She should understand that a queen is the sum of her decisions, not her fashion accessories. And no queen makes decisions alone. All wise rulers surround themselves with trusted advisors.",
+		"She should understand that a queen is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the sum of her decisions, not her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fashion accessories. And no queen\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"makes decisions alone. All wise rulers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surround themselves with trusted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"advisors.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The new queen should understand she has friends to help her.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The new queen should understand she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has friends to help her.\
+",
 	},
 	next = {
 		3018,

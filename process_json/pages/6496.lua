@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"YOU BECKON A FLOCK OF NOBLE MOUNTS. YOUR PARTY WILL NEED THEM. TO GALLOP ACROSS MY BEAUTIFUL REALM OF WONDERS.",
+		"YOU BECKON A FLOCK OF NOBLE MOUNTS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOUR PARTY WILL NEED THEM. TO GALLOP\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ACROSS MY BEAUTIFUL REALM OF WONDERS.\
+",
 	},
 	next = {
 		6497,

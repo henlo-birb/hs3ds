@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"The revived MAGE OF DOOM returns to the LAND OF BRAINS AND FIRE for a surprise rendezvous with the WITCH OF LIFE.",
+		"The revived MAGE OF DOOM returns to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the LAND OF BRAINS AND FIRE for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surprise rendezvous with the WITCH OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LIFE.\
+",
 	},
 	next = {
 		2515,

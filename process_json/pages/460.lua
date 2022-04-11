@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"Another one of your BRO's many ironic websites. The difference here is he rakes in thousands of dollars a month through this enterprise.",
+		"Another one of your BRO's many ironic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"websites. The difference here is he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rakes in thousands of dollars a month\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through this enterprise.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SMUPPETS are a multi-billion dollar a year enterprise, and it's awfully hard to resist taking a firm squeeze from the plump udder of that cash cow.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SMUPPETS are a multi-billion dollar a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"year enterprise, and it's awfully hard\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to resist taking a firm squeeze from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the plump udder of that cash cow.\
+",
 	},
 	next = {
 		461,

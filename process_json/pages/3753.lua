@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-It permitted a fair fight.",
+		"It permitted a fair fight.\
+",
 	},
 	next = {
 		3754,

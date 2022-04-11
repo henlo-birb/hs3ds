@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"I think now would be a good time for another round of reeducation regarding her purpose. A little refresher on the prestigious employment opportunity for which she is being groomed.",
+		"I think now would be a good time for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another round of reeducation regarding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her purpose. A little refresher on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prestigious employment opportunity for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which she is being groomed.\
+",
 	},
 	next = {
 		4051,

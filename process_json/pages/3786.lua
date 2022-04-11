@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"I warned my neophyte protege not to stare into that ball.",
+		"I warned my neophyte protege not to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stare into that ball.\
+",
 	},
 	next = {
 		3787,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"And in time, though prone to distraction and obstinacy, she would. ",
+		"And in time, though prone to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"distraction and obstinacy, she would.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But not alone.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But not alone.\
+",
 	},
 	next = {
 		2555,

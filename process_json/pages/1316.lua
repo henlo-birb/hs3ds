@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Biscuits is looking a tad snug in his muffin tray.",
+		"Biscuits is looking a tad snug in his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"muffin tray.\
+",
 	},
 	next = {
 		1317,

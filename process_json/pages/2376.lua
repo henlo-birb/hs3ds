@@ -12,23 +12,99 @@ return {
 			0,
 			0,
 		},
-		"Of course, the secret to reuniting with your shadow is to get up and walk around. And play and dance and frolic! Your shadow will surely join in your gaiety. ",
+		"Of course, the secret to reuniting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with your shadow is to get up and walk\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around. And play and dance and frolic!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your shadow will surely join in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gaiety.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it appears Pupa has lost the use of his legs. There will be no frolicking in this young man's future. ::::(",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Unless...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it appears Pupa has lost the use\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of his legs. There will be no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frolicking in this young man's future.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"::::(\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Unless...\
+",
 	},
 	next = {
 		2377,

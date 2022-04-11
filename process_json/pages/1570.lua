@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"This is getting a little abstract.",
+		"This is getting a little abstract.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it appears to economize on space. Now all you have to do is stick a card in a slot to apply an upgrade. Don't have to bother with the shunts anymore.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it appears to economize on space.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now all you have to do is stick a card\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in a slot to apply an upgrade. Don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have to bother with the shunts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anymore.\
+",
 	},
 	next = {
 		1571,

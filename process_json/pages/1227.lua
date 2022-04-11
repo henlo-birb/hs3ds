@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"In the present, you talk on the radio. Say something about how you'll be right there once you give Droog a hand.",
+		"In the present, you talk on the radio.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Say something about how you'll be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right there once you give Droog a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hand.\
+",
 	},
 	next = {
 		1228,

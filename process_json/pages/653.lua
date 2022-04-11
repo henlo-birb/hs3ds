@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You stick the POGO HAMMER back in your STRIFE SPECIBUS and get ready to kill some more of these pesky little...",
+		"You stick the POGO HAMMER back in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STRIFE SPECIBUS and get ready to kill\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some more of these pesky little...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Huh? What's that?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Huh? What's that?\
+",
 	},
 	next = {
 		654,

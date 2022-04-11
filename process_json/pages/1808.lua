@@ -13,23 +13,71 @@ return {
 			0,
 			0,
 		},
-		"You make a bottle of MAGNETIC WODKA. In addition to having high alcohol content, the liquid inside appears to have magnetic properties.",
+		"You make a bottle of MAGNETIC WODKA.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In addition to having high alcohol\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"content, the liquid inside appears to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have magnetic properties.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You GUESS this could be useful?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You GUESS this could be useful?\
+",
 	},
 	next = {
 		1809,

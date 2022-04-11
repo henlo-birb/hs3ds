@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Seriously, it could take forever.",
+		"Seriously, it could take forever.\
+",
 	},
 	next = {
 		2323,

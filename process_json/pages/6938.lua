@@ -12,51 +12,106 @@ return {
 			0,
 			0,
 		},
-		"PERFECTING EVERY ASPECT OF MY CRAFT.",
+		"PERFECTING EVERY ASPECT OF MY CRAFT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-POLISHING, WHILE DEMOLISHING.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HONING, WHILE OWNING. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"POLISHING, WHILE DEMOLISHING.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND IN TIME.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YOU WILL SEE MY ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"MASTERPIECE",
+		"HONING, WHILE OWNING.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		".",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND IN TIME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU WILL SEE MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MASTERPIECE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		".\
+",
 	},
 	next = {
 		6939,

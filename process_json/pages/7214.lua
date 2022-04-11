@@ -12,28 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i would love to have this sweet reunion all over again with you guys...",
+		"JOHN: i would love to have this sweet\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: we had some great conversations here on this lonely stone henge planet. i really wouldn't mind listening to everything we said again word for word!",
+		"reunion all over again with you\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"guys...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: but i can't.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: we had some great conversations\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"here on this lonely stone henge\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"planet. i really wouldn't mind\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"listening to everything we said again\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"word for word!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but i can't.\
+",
 	},
 	next = {
 		7215,

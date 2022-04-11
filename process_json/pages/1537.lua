@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"The BLACK QUEEN directs you to the office of the ARCHAGENT. He is in charge of most of the tedious paperwork around here.",
+		"The BLACK QUEEN directs you to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"office of the ARCHAGENT. He is in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"charge of most of the tedious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paperwork around here.\
+",
 	},
 	next = {
 		1538,

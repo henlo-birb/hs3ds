@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"THEY'RE RIGHT THERE.",
+		"THEY'RE RIGHT THERE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IN PLAIN SIGHT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-LOOK, THEY ARE FLASHING RED.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN PLAIN SIGHT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LOOK, THEY ARE FLASHING RED.\
+",
 	},
 	next = {
 		764,

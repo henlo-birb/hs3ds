@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"But perhaps an UNDERSTANDING can be reached.",
+		"But perhaps an UNDERSTANDING can be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reached.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He gives you a HIT LIST.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He gives you a HIT LIST.\
+",
 	},
 	next = {
 		1554,

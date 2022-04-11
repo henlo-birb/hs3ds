@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"God DAMN it, Droll.",
+		"God DAMN it, Droll.\
+",
 	},
 	next = {
 		4894,

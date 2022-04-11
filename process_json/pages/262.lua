@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Rose expends the GRIST to drag a new plank from the balcony in the direction of the PDA.",
+		"Rose expends the GRIST to drag a new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plank from the balcony in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"direction of the PDA.\
+",
 	},
 	next = {
 		263,

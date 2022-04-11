@@ -12,133 +12,379 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: I'm afraid not. Everyone must\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"listen to the full story.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: I'm afraid not. Everyone must listen to the full story.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: omfg\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: omfg",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: you really are turnin evil arent ya",
+		"MEENAH: you really are turnin evil\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: i would be proud except of how terrible and boring the actual consequences are for me personally",
+		"arent ya\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: wait...",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: does that mean when you're a ghost you still have to pee?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: none a your business blue kid",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: that's so weird.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: am i the only one who thinks that's weird?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: No, John. It's definitely pretty weird that ghosts have to pee.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: You get used to life as a ghost pretty fast, though.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: but weren't you already pretty used to peeing when you were alive?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Yeah. That's why you get used to it pretty fast, dummy!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: this is kind of a stupid conversation.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: can we hear more about the snakes and whatnot? it was a pretty cool story.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-ARANEA: Yes! ::::D",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-ARANEA: As soon as Meenah returns from her visit to the load gaper.",
+		"MEENAH: i would be proud except of how\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"terrible and boring the actual\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"consequences are for me personally\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: HOLY MACK-ER-EL CAN YOU S)(ITFUCKS JUST -ENJOY YOUR SPAC-E LIZARD PORN W)(IL-E I TAK-E A FUCKING PISS???",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: does that mean when you're a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"ghost you still have to pee?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: none a your business blue kid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: that's so weird.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: am i the only one who thinks\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"that's weird?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No, John. It's definitely\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pretty weird that ghosts have to pee.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You get used to life as a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ghost pretty fast, though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but weren't you already pretty\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"used to peeing when you were alive?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yeah. That's why you get used\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to it pretty fast, dummy!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: this is kind of a stupid\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"conversation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: can we hear more about the\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"snakes and whatnot? it was a pretty\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"cool story.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Yes! ::::D\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: As soon as Meenah returns from\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her visit to the load gaper.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: HOLY MACK-ER-EL CAN YOU\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"S)(ITFUCKS JUST -ENJOY YOUR SPAC-E\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"LIZARD PORN W)(IL-E I TAK-E A FUCKING\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"PISS???\
+",
 	},
 	next = {
 		5980,

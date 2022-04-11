@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"The fellow has stained the mademoiselle's fine garment. The gaffe is unforgivable, and the only true course of chivalry would be to liberate the damsel from the sodden cloth and launder it immediately.",
+		"The fellow has stained the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mademoiselle's fine garment. The gaffe\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is unforgivable, and the only true\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"course of chivalry would be to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"liberate the damsel from the sodden\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cloth and launder it immediately.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But the lady has no concern for the purity of her finery. She has other things on her mind altogether.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But the lady has no concern for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"purity of her finery. She has other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things on her mind altogether.\
+",
 	},
 	next = {
 		3502,

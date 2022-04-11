@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Oh man, looks like Rose made like a million hammers for some reason.",
+		"Oh man, looks like Rose made like a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"million hammers for some reason.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Get all this shit out of the way, you're about to make something sweet!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Get all this shit out of the way,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you're about to make something sweet!\
+",
 	},
 	next = {
 		634,

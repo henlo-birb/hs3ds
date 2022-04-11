@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You bundle up your knittings into a cozy nest. You aren't all that tired though. It's hard to imagine falling asleep without the luxury of Harley's narcolepsy.",
+		"You bundle up your knittings into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cozy nest. You aren't all that tired\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though. It's hard to imagine falling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"asleep without the luxury of Harley's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"narcolepsy.\
+",
 	},
 	next = {
 		1655,

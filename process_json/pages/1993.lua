@@ -12,15 +12,127 @@ return {
 			0,
 			0,
 		},
-		"You enter something predictably derogatory and this guy gets fed up by your shenanigans in record time.",
+		"You enter something predictably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"derogatory and this guy gets fed up by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your shenanigans in record time.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This guy has a lot of troll pals and their adventures are going to be quite extensive and convoluted, to an even greater degree than one perhaps may be accustomed. He thinks that if you think that we have time to drag out every little gag and expected pattern along the way, you've got another thing coming. He thinks you should cram that sobering understanding in your chitinous windhole, and tamp it down hard with your ugly stupid looking cartilage nub.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This guy has a lot of troll pals and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their adventures are going to be quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extensive and convoluted, to an even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"greater degree than one perhaps may be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"accustomed. He thinks that if you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"think that we have time to drag out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"every little gag and expected pattern\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along the way, you've got another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing coming. He thinks you should\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cram that sobering understanding in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your chitinous windhole, and tamp it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down hard with your ugly stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looking cartilage nub.\
+",
 	},
 	next = {
 		1994,

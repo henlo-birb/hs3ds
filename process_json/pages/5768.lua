@@ -13,23 +13,92 @@ return {
 			0,
 			0,
 		},
-		"Swashed from the buckles of the rough'n tumble Bellyjape Seamen and offered atop the kingdom's last known wildly occurring pluffy dimplepillow to the resplendent 1st Rumbylumplewiffig of the Horsehorsehorse Administration,",
+		"Swashed from the buckles of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rough'n tumble Bellyjape Seamen and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"offered atop the kingdom's last known\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wildly occurring pluffy dimplepillow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the resplendent 1st\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Rumbylumplewiffig of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Horsehorsehorse Administration,\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I give you ->",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE CUTLASS OF ZILLYWAIR",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I give you ->\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE CUTLASS OF ZILLYWAIR\
+",
 	},
 	next = {
 		5769,

@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You quickly drop the ENVELOPE into an empty PYXIS. It is out of your hands now. THE BREEZE will know where to take it.",
+		"You quickly drop the ENVELOPE into an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empty PYXIS. It is out of your hands\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now. THE BREEZE will know where to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"take it.\
+",
 	},
 	next = {
 		1483,

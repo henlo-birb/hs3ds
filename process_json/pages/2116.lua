@@ -13,7 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You like to practice your jousting outside. One day you hope to prove yourself worthy of recruitment into the halls of the dreaded imperial CAVALREAPERS. Assuming you are not slated for culling first on account of your disability. Or really any other arbitrary reason.",
+		"You like to practice your jousting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outside. One day you hope to prove\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself worthy of recruitment into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the halls of the dreaded imperial\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAVALREAPERS. Assuming you are not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slated for culling first on account of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your disability. Or really any other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"arbitrary reason.\
+",
 	},
 	next = {
 		2117,

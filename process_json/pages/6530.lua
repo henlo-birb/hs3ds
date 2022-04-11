@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"BE SURE TO CLICK THROUGH THE FOLLOWING PAGES AS FAST AS YOU CAN. TO GET RIGHT BACK HERE. TO THE GOOD STUFF. BYE.",
+		"BE SURE TO CLICK THROUGH THE FOLLOWING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PAGES AS FAST AS YOU CAN. TO GET RIGHT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BACK HERE. TO THE GOOD STUFF. BYE.\
+",
 	},
 	next = {
 		6531,

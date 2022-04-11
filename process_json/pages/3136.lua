@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Oh, right. The station is out of power. You forgot about that!",
+		"Oh, right. The station is out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"power. You forgot about that!\
+",
 	},
 	next = {
 		3137,

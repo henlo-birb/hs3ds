@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"He is not a human.",
+		"He is not a human.\
+",
 	},
 	next = {
 		2963,

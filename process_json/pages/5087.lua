@@ -15,15 +15,141 @@ return {
 			0,
 			0,
 		},
-		"You quickly put everyone on bucket duty to douse the flames. Now you guess you understand why your mom left all these buckets in the house? You always thought it was a passive aggressive reminder for you to keep up with the housework. ",
+		"You quickly put everyone on bucket\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"duty to douse the flames. Now you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess you understand why your mom left\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all these buckets in the house? You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always thought it was a passive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"aggressive reminder for you to keep up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the housework.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-At the behest of their roguish leader, the loyal band of Merry Men go straight to work in getting the fires under control. The Robin Hood reference is lost on them. Also lost on everybody is the sordid spectacle this appears to resemble from an alien perspective, with all these buckets sloshing around and whatnot. Your void powers cannot black out this graphic debauchery soon enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"At the behest of their roguish leader,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the loyal band of Merry Men go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"straight to work in getting the fires\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"under control. The Robin Hood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reference is lost on them. Also lost\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on everybody is the sordid spectacle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this appears to resemble from an alien\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perspective, with all these buckets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sloshing around and whatnot. Your void\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powers cannot black out this graphic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"debauchery soon enough.\
+",
 	},
 	next = {
 		5088,

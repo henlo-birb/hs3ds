@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Another public servant makes a sacrifice. A citizen's safety, secured.",
+		"Another public servant makes a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacrifice. A citizen's safety,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"secured.\
+",
 	},
 	next = {
 		1969,

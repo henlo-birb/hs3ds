@@ -12,7 +12,99 @@ return {
 			0,
 			0,
 		},
-		"And of course there's OGLOGOTH, THE DEEP ONE. Whenever he grinds his teeth, all the children of a random galaxy somewhere will frown continuously for a nine thousand year span. He is the first and smallest of the SMALLER GODS, appointed in servitude of a vile, unfathomable pantheon of MIDDLING GODS which caters to the whims of the NOBLE CIRCLE OF HORRORTERRORS, an omniscient, omnipotent order of the elite few, forever cloaked in the darkness of the FURTHEST RING.",
+		"And of course there's OGLOGOTH, THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DEEP ONE. Whenever he grinds his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"teeth, all the children of a random\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"galaxy somewhere will frown\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"continuously for a nine thousand year\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"span. He is the first and smallest of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the SMALLER GODS, appointed in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"servitude of a vile, unfathomable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pantheon of MIDDLING GODS which caters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the whims of the NOBLE CIRCLE OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HORRORTERRORS, an omniscient,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"omnipotent order of the elite few,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forever cloaked in the darkness of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FURTHEST RING.\
+",
 	},
 	next = {
 		305,

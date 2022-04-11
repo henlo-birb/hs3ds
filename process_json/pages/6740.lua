@@ -12,28 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Dirk, how long did you want our standoff to last?",
+		"ARANEA: Dirk, how long did you want\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"our standoff to last?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Don't get me wrong. I am flattered you seem to enjoy my company so much.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Don't get me wrong. I am\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"flattered you seem to enjoy my company\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"so much.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: 8ut you are missing a golden opportunity to sever my arm while I'm preoccupied with overconfident 8lather.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut you are missing a golden\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"opportunity to sever my arm while I'm\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"preoccupied with overconfident\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8lather.\
+",
 	},
 	next = {
 		6741,

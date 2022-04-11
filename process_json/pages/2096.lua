@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are now one of the five other girls.",
+		"You are now one of the five other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"girls.\
+",
 	},
 	next = {
 		2097,

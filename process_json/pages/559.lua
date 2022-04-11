@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You're not sure. They look pretty precarious to you.",
+		"You're not sure. They look pretty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"precarious to you.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you've been assured the stairs are perfectly navigable.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you've been assured the stairs are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perfectly navigable.\
+",
 	},
 	next = {
 		560,

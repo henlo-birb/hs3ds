@@ -13,15 +13,78 @@ return {
 			0,
 			0,
 		},
-		"You pick up your high octane LASER GUN. It's powered by the most deadly sciences you know of.",
+		"You pick up your high octane LASER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GUN. It's powered by the most deadly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sciences you know of.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You keep a couple specibus allocations in your portfolio on standby. You try to stay as sharp as possible in unarmed combat, because you never know when you'll get ambushed. It's dangerous out there.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You keep a couple specibus allocations\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in your portfolio on standby. You try\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to stay as sharp as possible in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unarmed combat, because you never know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when you'll get ambushed. It's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous out there.\
+",
 	},
 	next = {
 		4472,

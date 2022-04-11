@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"It looks like the imps have taken a shining to the CRUXTRUDER.",
+		"It looks like the imps have taken a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shining to the CRUXTRUDER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Cruxite and black goo. Everywhere.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cruxite and black goo. Everywhere.\
+",
 	},
 	next = {
 		495,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You're still not sure what he's so happy about, or what he's looking at up there.",
+		"You're still not sure what he's so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happy about, or what he's looking at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up there.\
+",
 	},
 	next = {
 		604,

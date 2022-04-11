@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You ditch the strings. All but one. ",
+		"You ditch the strings. All but one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't remember what it was for, but it reminds you of something nonetheless. Something you can't believe you forgot about...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't remember what it was for,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but it reminds you of something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonetheless. Something you can't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"believe you forgot about...\
+",
 	},
 	next = {
 		2855,

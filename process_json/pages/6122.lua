@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"She leads you to one of the mansion's several dozen pantries and retrieves your box of stuff.",
+		"She leads you to one of the mansion's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"several dozen pantries and retrieves\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your box of stuff.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Here you go she says.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Here you go she says.\
+",
 	},
 	next = {
 		6123,

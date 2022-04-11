@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"THE BLACKEST BALL BEFORE THE HOLE. ",
+		"THE BLACKEST BALL BEFORE THE HOLE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE DARK NIGHT OF THE FEELINGS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE DARK NIGHT OF THE FEELINGS.\
+",
 	},
 	next = {
 		6926,

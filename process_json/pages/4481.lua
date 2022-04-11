@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"DAMMIT! ",
+		"DAMMIT!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is the wrong stock reaction. You will not stand for this outrageous misrepresentation of your beverage enjoyment.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is the wrong stock reaction. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will not stand for this outrageous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"misrepresentation of your beverage\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enjoyment.\
+",
 	},
 	next = {
 		4482,

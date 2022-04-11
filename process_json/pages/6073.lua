@@ -14,28 +14,64 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Will you guys hurry up??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Will you guys hurry up??",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: This is seriously some of the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"most half assed treasure hunting I've\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ever seen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This is seriously some of the most half assed treasure hunting I've ever seen.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: hang on, i'm coming!!!",
+		"JOHN: hang on, i'm coming!!!\
+",
 	},
 	next = {
 		6074,

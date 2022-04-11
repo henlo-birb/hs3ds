@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"The coin tumbles through the air. Lemonsnout is sweating bullets!!!",
+		"The coin tumbles through the air.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lemonsnout is sweating bullets!!!\
+",
 	},
 	next = {
 		2044,

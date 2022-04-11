@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You extrude ONE (1) CRUXITE DOWEL.",
+		"You extrude ONE (1) CRUXITE DOWEL.\
+",
 	},
 	next = {
 		180,

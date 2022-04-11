@@ -12,31 +12,155 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue FOUR (4) NAILS into the top card, and push all the ARTIFACTS down a card.",
+		"You captchalogue FOUR (4) NAILS into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the top card, and push all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ARTIFACTS down a card.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The FAKE ARMS are pushed entirely out of the deck!!!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh well. They're probably completely useless anyway. But you probably don't want to do that again, unless you want to drop the SMOKE PELLETS and suffer the consequences.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The FAKE ARMS are pushed entirely out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the deck!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In any case, you now feel like you have gathered enough things to get down to business and do some really important stuff. The next thing you do will probably be exceptionally meaningful.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh well. They're probably completely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"useless anyway. But you probably don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"want to do that again, unless you want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to drop the SMOKE PELLETS and suffer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the consequences.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In any case, you now feel like you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have gathered enough things to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down to business and do some really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"important stuff. The next thing you do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will probably be exceptionally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meaningful.\
+",
 	},
 	next = {
 		16,

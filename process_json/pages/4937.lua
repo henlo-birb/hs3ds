@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"No.",
+		"No.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'd feel completely ridiculous piloting that thing. It's a bad look for you. No style at all.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd feel completely ridiculous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"piloting that thing. It's a bad look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for you. No style at all.\
+",
 	},
 	next = {
 		4938,

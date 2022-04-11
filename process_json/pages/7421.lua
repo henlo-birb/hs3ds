@@ -14,15 +14,71 @@ return {
 			0,
 			0,
 		},
-		"AND I SEE NO REASON NOT TO USE IT RIGHT AWAY. WHAT WOULD BE A FUCKING POINT, IN HOLDING OUT? SUSPENSE?? BULLLL SHIT. I PULLED OUT THE BIG GUNS NIGH INSTANTANEOUSLY, BECAUSE I THINK LIKE A GREAT WINNER.",
+		"AND I SEE NO REASON NOT TO USE IT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RIGHT AWAY. WHAT WOULD BE A FUCKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"POINT, IN HOLDING OUT? SUSPENSE??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BULLLL SHIT. I PULLED OUT THE BIG GUNS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NIGH INSTANTANEOUSLY, BECAUSE I THINK\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LIKE A GREAT WINNER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BUT LIKE MOST THINGS THAT ARE GOOD. THE THING HAS LIMITATIONS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUT LIKE MOST THINGS THAT ARE GOOD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE THING HAS LIMITATIONS.\
+",
 	},
 	next = {
 		7422,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You think now would be a good time to beef up your CLEVER DISGUISE.",
+		"You think now would be a good time to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beef up your CLEVER DISGUISE.\
+",
 	},
 	next = {
 		55,

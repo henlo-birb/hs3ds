@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"The lathe carves ONE (1) TOTEM. ",
+		"The lathe carves ONE (1) TOTEM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You take the TOTEM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You take the TOTEM.\
+",
 	},
 	next = {
 		211,

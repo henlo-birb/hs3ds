@@ -12,56 +12,162 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: If sources are to be trusted, and my calculations are reliable within a 0.001% margin of error, it's a bunch of super deadly red shit.",
+		"TT: If sources are to be trusted, and\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: No time to get into that now though. Just deploy the devices quickly.",
+		"my calculations are reliable within a\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"0.001% margin of error, it's a bunch\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"of super deadly red shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You know the drill.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: No time to get into that now\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"though. Just deploy the devices\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"quickly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: You know the drill.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Right. Let's see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Right. Let's see.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: There's hardly any space in here to put anything. I'll have to make some room.",
+		"GG: There's hardly any space in here\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"to put anything. I'll have to make\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"some room.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I don't want to damage any of her belongings though.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I don't want to damage any of her\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"belongings though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: That would be unconscionable.",
+		"TT: That would be unconscionable.\
+",
 	},
 	next = {
 		5041,

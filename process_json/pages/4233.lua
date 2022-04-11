@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"Oh nooo. ",
+		"Oh nooo.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It was only one of those sweet little fairy bulls. You just murdered him inappropriately with your multi-bullet device.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You love those little fairy bulls. You feel just awful.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It was only one of those sweet little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fairy bulls. You just murdered him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inappropriately with your multi-bullet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"device.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You love those little fairy bulls. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feel just awful.\
+",
 	},
 	next = {
 		4234,

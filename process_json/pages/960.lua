@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You fully intend to once your superior stops breathing down your neck for a second.",
+		"You fully intend to once your superior\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stops breathing down your neck for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait... ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What now?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What now?\
+",
 	},
 	next = {
 		961,

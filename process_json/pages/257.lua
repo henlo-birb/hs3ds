@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"The TOWEL? Why?",
+		"The TOWEL? Why?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh well, you're the boss. You captchalogue the TOWEL. What now?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh well, you're the boss. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captchalogue the TOWEL. What now?\
+",
 	},
 	next = {
 		258,

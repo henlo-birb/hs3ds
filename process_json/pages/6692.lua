@@ -12,42 +12,85 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: I am Brain Ghost Dirk.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: You kissed my boyfriend.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Prepare to die.",
+		"|DIALOGLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext14.gif\"/>",
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: I am Brain Ghost Dirk.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-DIRK: Not helping, dude.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: You kissed my boyfriend.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Prepare to die.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext14.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Not helping, dude.\
+",
 	},
 	next = {
 		6693,

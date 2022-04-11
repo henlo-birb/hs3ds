@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Such as this one.",
+		"Such as this one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Just a tiny sip couldn't hurt...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just a tiny sip couldn't hurt...\
+",
 	},
 	next = {
 		1542,

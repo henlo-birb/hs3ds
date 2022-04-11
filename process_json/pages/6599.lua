@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: yeah i think ima stay invisible a while",
+		"ROXY: yeah i think ima stay invisible\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"a while\
+",
 	},
 	next = {
 		6600,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You can't! You'll need some SHALE for that.",
+		"You can't! You'll need some SHALE for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that.\
+",
 	},
 	next = {
 		1510,

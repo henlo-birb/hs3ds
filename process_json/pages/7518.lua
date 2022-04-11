@@ -12,171 +12,568 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: so.....\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: so.....",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: wheres the condesce right now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: wheres the condesce right now?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: She's on Derse, preparing for the same critical convergence herself.",
+		"VRISKA: She's on Derse, preparing for\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"the same critical convergence herself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: After our little prison raid caught her completely off guard, costing her some hostages and key points of leverage, we've essentially reached a temporary ceasefire 8y default while 8oth sides regroup.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: This is not how she expected things would go.",
+		"VRISKA: After our little prison raid\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: We had the advantage of surprise that time, 8ut we won't 8e so lucky next time.",
+		"caught her completely off guard,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: She's w8ting for the Jacks to get here just like we are.",
+		"costing her some hostages and key\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Once they do, she'll instantly have the upper hand, and she knows this.",
+		"points of leverage, we've essentially\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Her particular com8ination of a8ilities along with her supervillain-like cunning make her an EXTREMELY DANGEROUS part of this equation!",
+		"reached a temporary ceasefire 8y\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"default while 8oth sides regroup.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: That's why we need a good strategy in place 8efore the shit hits the 8reeze 8lender.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: This is not how she expected\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"things would go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: We had the advantage of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"surprise that time, 8ut we won't 8e so\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"lucky next time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: She's w8ting for the Jacks to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"get here just like we are.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Once they do, she'll instantly\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"have the upper hand, and she knows\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Her particular com8ination of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8ilities along with her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"supervillain-like cunning make her an\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"EXTREMELY DANGEROUS part of this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"equation!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: That's why we need a good\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"strategy in place 8efore the shit hits\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the 8reeze 8lender.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: so in addition for waiting for way too many jacks to get here",
+		"DAVE: so in addition for waiting for\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"way too many jacks to get here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: were also waiting for my bro too right",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: were also waiting for my bro too\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"right\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: who... gets here at the same time or...",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: who... gets here at the same\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"time or...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Yes, the other Strider was 8anished to the periphery as well, and is in transit.",
+		"VRISKA: Yes, the other Strider was\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: He'll arrive at the same time, give or take, and should 8e a gr8 tactical asset.",
+		"8anished to the periphery as well, and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"is in transit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Sources tell me the dude is pretty good with a sword.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: He'll arrive at the same time,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"give or take, and should 8e a gr8\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"tactical asset.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-VRISKA: Yes, thank you Arquius.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sources tell me the dude is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pretty good with a sword.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yes, thank you Arquius.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: This Is Starting To Sound A Bit Complicated",
+		"KANAYA: This Is Starting To Sound A\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Bit Complicated\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: How Are We Supposed To Keep Track Of All These Villains And Heroes Coming And Going When And Where",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: How Are We Supposed To Keep\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Track Of All These Villains And Heroes\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Coming And Going When And Where\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: You're right, Kanaya.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You're right, Kanaya.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: At this point in the meeting, I think we could use some diagrams to help with the 8attleplans.",
+		"VRISKA: At this point in the meeting,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Karkat?",
+		"I think we could use some diagrams to\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"help with the 8attleplans.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: If you wouldn't mind.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Karkat?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: If you wouldn't mind.\
+",
 	},
 	next = {
 		7519,

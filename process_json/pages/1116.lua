@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This is kind of confusing.",
+		"This is kind of confusing.\
+",
 	},
 	next = {
 		1117,

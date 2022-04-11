@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Alas, one is not easily shaken from the broodfester tongues.",
+		"Alas, one is not easily shaken from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the broodfester tongues.\
+",
 	},
 	next = {
 		3646,

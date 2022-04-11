@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Spidertroll.",
+		"Spidertroll.\
+",
 	},
 	next = {
 		3725,

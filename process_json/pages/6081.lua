@@ -12,252 +12,582 @@ return {
 			0,
 			0,
 		},
-		"You declare this loyal follower to be: Bonebone! Bonebone is most pleased with his gentlemanly appellation. ",
+		"You declare this loyal follower to be:\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Bonebone! Bonebone is most pleased\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with his gentlemanly appellation.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hang on. Another skeleton approaches to receive a title. In fact, it looks like they all want names! You decide to name them all, one by one.",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hang on. Another skeleton approaches\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to receive a title. In fact, it looks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like they all want names! You decide\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to name them all, one by one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-\
-FUUUUUUUUCK YOOOOOOOOUUUUUUUU!!!!!!!!",
+		"FUUUUUUUUCK YOOOOOOOOUUUUUUUU!!!!!!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"\
-\
-Just ignore her. She had her chance to be important, but turned the offer down. The rest of us are just trying to get on with our lives.",
-		{
-			0,
-			0,
-			0,
-		},
-		"\
-\
-Now, what will you name the next skeleton?",
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just ignore her. She had her chance to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be important, but turned the offer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down. The rest of us are just trying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get on with our lives.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now, what will you name the next\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"skeleton?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"\
-> ",
-		{
-			0,
-			0,
-			0,
-		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"FUCK YOU!",
-		{
-			0,
-			0,
-			0,
-		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-> ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"FUCK YOU!",
+		"FUCK YOU!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		">\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"FUCK YOU!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/scorpio.gif\"/>\
+",
 	},
 	next = {
 		6082,

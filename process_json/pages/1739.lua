@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You use the alchemiter's scaling upgrade to reduce it to a more manageable and affordable size.",
+		"You use the alchemiter's scaling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"upgrade to reduce it to a more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"manageable and affordable size.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You make a weapon called FEAR NO ANVIL.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You make a weapon called FEAR NO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANVIL.\
+",
 	},
 	next = {
 		1740,

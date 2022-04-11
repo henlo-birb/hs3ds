@@ -14,31 +14,92 @@ return {
 			0,
 			0,
 		},
-		"You are now the other... oh.",
+		"You are now the other... oh.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh god.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You decide that we could probably stand to delay this guy's introduction a little longer. Why don't we see what someone else is up to.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh god.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyone.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You decide that we could probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stand to delay this guy's introduction\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a little longer. Why don't we see what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"someone else is up to.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyone.\
+",
 	},
 	next = {
 		2180,

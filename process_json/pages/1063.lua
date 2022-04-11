@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"Ok, you have a cool idea for something to do with your GHOST DAD POSTER, but it looks like you drew shit all over that one too without realizing it.",
+		"Ok, you have a cool idea for something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to do with your GHOST DAD POSTER, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it looks like you drew shit all over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that one too without realizing it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Lousy goddamn stupid subconscious!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway, you think you have an idea how to clean it up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lousy goddamn stupid subconscious!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway, you think you have an idea how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to clean it up.\
+",
 	},
 	next = {
 		1064,

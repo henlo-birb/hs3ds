@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i shouldn't mess around with that moment.",
+		"JOHN: i shouldn't mess around with\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"that moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: it is WAY too fundamental.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it is WAY too fundamental.\
+",
 	},
 	next = {
 		7132,

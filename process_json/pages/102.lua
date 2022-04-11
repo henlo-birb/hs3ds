@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the CAKE on the couch, expelling the PIE TIN from the bottom card.",
+		"You captchalogue the CAKE on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"couch, expelling the PIE TIN from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bottom card.\
+",
 	},
 	next = {
 		103,

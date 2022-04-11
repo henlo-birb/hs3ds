@@ -13,14 +13,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-You spend no less than 90 seconds staring at this fucking GIF image before you realize the actual Flash animation is on the next page.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You spend no less than 90 seconds\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"staring at this fucking GIF image\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before you realize the actual Flash\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"animation is on the next page.\
+",
 	},
 	next = {
 		5427,

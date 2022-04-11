@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"And again, you explain she will have help.",
+		"And again, you explain she will have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"help.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-She may choose to appoint a WASTELANDIC VINDICATOR as her kingdom's hero, a warrior selected and groomed to face the slayer with the weapon he protects.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She may choose to appoint a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WASTELANDIC VINDICATOR as her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kingdom's hero, a warrior selected and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"groomed to face the slayer with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon he protects.\
+",
 	},
 	next = {
 		3265,

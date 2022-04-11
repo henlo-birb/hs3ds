@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Hmm, you wonder what she wants.",
+		"Hmm, you wonder what she wants.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's with all these girls bugging you? Bugging and fussing and meddling.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's with all these girls bugging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you? Bugging and fussing and meddling.\
+",
 	},
 	next = {
 		2144,

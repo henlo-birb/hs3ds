@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"That was not the right door.",
+		"That was not the right door.\
+",
 	},
 	next = {
 		6135,

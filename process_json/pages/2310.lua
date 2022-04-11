@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"The operation in time would be a total success. The BANISHED QUASIROYAL would make the future Alternian wasteland her home.",
+		"The operation in time would be a total\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"success. The BANISHED QUASIROYAL would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make the future Alternian wasteland\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her home.\
+",
 	},
 	next = {
 		2311,

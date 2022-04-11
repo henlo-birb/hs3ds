@@ -13,13 +13,22 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Die",
+		"Die\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" makes his usual sort of entrance. The nonplussed, vaguely bewildered sort.",
+		"makes his usual sort of entrance. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonplussed, vaguely bewildered sort.\
+",
 	},
 	next = {
 		1192,

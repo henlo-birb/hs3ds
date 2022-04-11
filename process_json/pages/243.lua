@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Got to get those stupid blocks out of the way first!",
+		"Got to get those stupid blocks out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the way first!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The KERNELSPRITE is getting awfully worked up about all this!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The KERNELSPRITE is getting awfully\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"worked up about all this!\
+",
 	},
 	next = {
 		244,

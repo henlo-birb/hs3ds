@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"This is absolutely no place for children. You take dear, sweet CASEY into protective custody.",
+		"This is absolutely no place for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"children. You take dear, sweet CASEY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into protective custody.\
+",
 	},
 	next = {
 		1639,

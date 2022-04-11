@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Now she's done it. She has awoken the mighty inner fury that is...",
+		"Now she's done it. She has awoken the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mighty inner fury that is...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-RUUUUUUUUUUUUUUUUUUUFIIIIIIIIIIIIIIIIOOOOOOOOOOOOOOOOOOOOOOO!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RUUUUUUUUUUUUUUUUUUUFIIIIIIIIIIIIIIIIOOOOOOOOOOOOOOOOOOOOOOO!\
+",
 	},
 	next = {
 		2353,

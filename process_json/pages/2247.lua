@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"It must be a trick! He surely would have told you if he was making the trip all the way out here from his hive stem.",
+		"It must be a trick! He surely would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have told you if he was making the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trip all the way out here from his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hive stem.\
+",
 	},
 	next = {
 		2248,

@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"The WHITE WAND is your weapon of choice, half the time. Magic is very handy. Some believe magic to be fake. But you know better than that.",
+		"The WHITE WAND is your weapon of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"choice, half the time. Magic is very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handy. Some believe magic to be fake.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you know better than that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Of course, if anyone tried using this wand right now, it sure would seem like magic wasn't real. Can't very well use magic when your wand is out of bullets.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Of course, if anyone tried using this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wand right now, it sure would seem\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like magic wasn't real. Can't very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"well use magic when your wand is out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of bullets.\
+",
 	},
 	next = {
 		5114,

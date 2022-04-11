@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"But he will not be drinking delicious juice, oh no. He will be choking down a world of hot piss and it will serve him right for liking all those dumbass movies unironically.",
+		"But he will not be drinking delicious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"juice, oh no. He will be choking down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a world of hot piss and it will serve\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him right for liking all those dumbass\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"movies unironically.\
+",
 	},
 	next = {
 		1443,

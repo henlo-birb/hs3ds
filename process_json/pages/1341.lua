@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"This was never a problem because there is clearly a barcode printed on your RULES CARD FOR BLACKJACK.",
+		"This was never a problem because there\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is clearly a barcode printed on your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RULES CARD FOR BLACKJACK.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As well as your arm. But there's nothing wrong with a little redundancy you guess.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As well as your arm. But there's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nothing wrong with a little redundancy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you guess.\
+",
 	},
 	next = {
 		1342,

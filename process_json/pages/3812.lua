@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"He would soon return for the duel she wanted.",
+		"He would soon return for the duel she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wanted.\
+",
 	},
 	next = {
 		3813,

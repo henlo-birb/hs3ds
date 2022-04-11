@@ -12,378 +12,1247 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: you sound like a real popular lady out here",
+		"TG: you sound like a real popular lady\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: even you are looking for you!",
+		"out here\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: indeed.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: well i hope you can find her",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: even you are looking for you!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: but",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: indeed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: well i hope you can find her\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: if thats your job",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: but\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: to find bizarro calliope and go wollop ur bro",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: then what is our heroic biz?",
+		"TG: if thats your job\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: it's the same as it always was.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: to win the game.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: oh yeah",
+		"TG: to find bizarro calliope and go\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: duh",
+		"wollop ur bro\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: it is as i once told jane.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: with victory yoU may finally exit this vast whirling storm.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: by claiming yoUr reward yoU woUld bring closUre to a very wide coil of caUsality, one not tracing a continUoUs path like a snake, bUt intricately woven like a wreath.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: a ring of coUntless little rises and falls, ascents and descents, on its way Up and down a pair of mUch bigger ones itself.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: from alpha to beta, then beta to alpha, as if a moUntain to be scaled and then climbed back down. its peak toUches the eye of a storm which cannot end Until the moment yoU all walk throUgh that door.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: only then will there be calm.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: then what is our heroic biz?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ._.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"UU: it's the same as it always was.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-UU: ah, bUgger. forgive me, sometimes i forget myself and begin speaking in riddles.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-UU: it's jUst a habit that is in the natUre of my people.",
+		"UU: to win the game.\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-TG: yeah i know",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: at least yours r better than your bros stupid games",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: don't remind me. in my opinion they do not qUalify as anything of the sort, mUch the same as his \"shitty twists\". >:u",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: so then from what im surmising here is we dont need to beat him to win our game",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like dealing with him directly is kinda out of our domain?",
+		"TG: oh yeah\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: as the one who provoked the breach in paradox space which i jUst coloUrfUlly described, he has always exerted his inflUence on yoUr realities from afar, and from many different angles. throUgh Unwitting sUrrogates, oUtsoUrced manipUlation, oUtright enslavement, and even petty harassment. bUt most of all, he prevails throUgh the simple inertia of inevitability that has always been on his side, as a lord of time.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: and as the one who is to blame for foolishly allowing him access to sUch power, it's only proper that i take responsibility for finding a way to defeat him.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: bUt even thoUgh his methods of inflUencing yoUr session are indirect, they are still formidable.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: there will be a nUmber of powerfUl foes who stand between yoU and victory.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: tomorrow, a terrific battle will take place.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: when yoU wake Up, i sUggest yoU begin to prepare.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: duh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ummmm ok",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: it is as i once told jane.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: with victory yoU may finally exit\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"this vast whirling storm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: by claiming yoUr reward yoU woUld\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"bring closUre to a very wide coil of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"caUsality, one not tracing a\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"continUoUs path like a snake, bUt\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"intricately woven like a wreath.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: a ring of coUntless little rises\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"and falls, ascents and descents, on\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"its way Up and down a pair of mUch\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"bigger ones itself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: from alpha to beta, then beta to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"alpha, as if a moUntain to be scaled\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"and then climbed back down. its peak\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"toUches the eye of a storm which\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"cannot end Until the moment yoU all\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"walk throUgh that door.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: only then will there be calm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ._.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: how",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: ah, bUgger. forgive me, sometimes\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"i forget myself and begin speaking in\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"riddles.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: it's jUst a habit that is in the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"natUre of my people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: yeah i know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like make more sick gear",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i could hustle up another batch of illwicked guns",
+		"TG: at least yours r better than your\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"bros stupid games\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: just a big ol pile of guns",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: don't remind me. in my opinion\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"they do not qUalify as anything of the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sort, mUch the same as his \"shitty\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"twists\". >:u\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: jake can have the wimpy smaller ones",
+		"TG: so then from what im surmising\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: make jane like a fancy new fork or spoon or such",
+		"here is we dont need to beat him to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"win our game\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like an elite endgame spoon",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: whatever that is",
+		"TG: like dealing with him directly is\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"kinda out of our domain?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like uh",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: as the one who provoked the breach\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"in paradox space which i jUst\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"coloUrfUlly described, he has always\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"exerted his inflUence on yoUr\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"realities from afar, and from many\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"different angles. throUgh Unwitting\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sUrrogates, oUtsoUrced manipUlation,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"oUtright enslavement, and even petty\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"harassment. bUt most of all, he\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"prevails throUgh the simple inertia of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"inevitability that has always been on\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"his side, as a lord of time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: and as the one who is to blame for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"foolishly allowing him access to sUch\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"power, it's only proper that i take\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"responsibility for finding a way to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"defeat him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: bUt even thoUgh his methods of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"inflUencing yoUr session are indirect,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"they are still formidable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: there will be a nUmber of powerfUl\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"foes who stand between yoU and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"victory.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: tomorrow, a terrific battle will\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"take place.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: when yoU wake Up, i sUggest yoU\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"begin to prepare.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ummmm ok\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: the chowderfucker 5000",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: how\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: janey be flippin her godspoon round bopping monsters doing like",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: like make more sick gear\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: CUCKOO damage",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: wont bother make nothin 4 dirk since hes basically married to his boring anime sword",
+		"TG: i could hustle up another batch of\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"illwicked guns\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like u could even pry that thing from his rad dead cadaver",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: just a big ol pile of guns\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: jake can have the wimpy smaller\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ones\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: make jane like a fancy new fork or\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"spoon or such\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like an elite endgame spoon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: whatever that is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: the chowderfucker 5000\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: janey be flippin her godspoon\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"round bopping monsters doing like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: CUCKOO damage\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: wont bother make nothin 4 dirk\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"since hes basically married to his\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"boring anime sword\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like u could even pry that thing\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"from his rad dead cadaver\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-UU: yes, i'm sUre new eqUipment woUld come in handy.",
+		"UU: yes, i'm sUre new eqUipment woUld\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"come in handy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-UU: now that yoU mention it, well before i died or even realized i woUld not live to play, i made special exception to my rUle of staying linear with conversation. i messaged jane a birthday gift.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-UU: yoU see, i had a brief vision from skaia which sUggested to me she coUld Use a boost in morale on this special day, so i offered her something very dear to me. jUst a little token to show appreciation for her friendship.",
+		"UU: now that yoU mention it, well\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-UU: i hope it will cheer her Up, and moreover that it will prove at least somewhat UsefUl to yoUr party.",
+		"before i died or even realized i woUld\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-UU: bUt really, at this stage if yoU wish to prevail against sUch stacked odds, collecting boons sUch as new weapons and treasUres will only go so far.",
+		"not live to play, i made special\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"exception to my rUle of staying linear\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"with conversation. i messaged jane a\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"birthday gift.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-UU: i think yoU will need to embrace a far more sUbstantive gambit.",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: yoU see, i had a brief vision from\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"skaia which sUggested to me she coUld\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"Use a boost in morale on this special\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"day, so i offered her something very\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"dear to me. jUst a little token to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"show appreciation for her friendship.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: i hope it will cheer her Up, and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"moreover that it will prove at least\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"somewhat UsefUl to yoUr party.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: bUt really, at this stage if yoU\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"wish to prevail against sUch stacked\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"odds, collecting boons sUch as new\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"weapons and treasUres will only go so\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"far.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: i think yoU will need to embrace a\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"far more sUbstantive gambit.\
+",
 	},
 	next = {
 		5617,

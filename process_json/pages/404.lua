@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Now why couldn't he put the bunny back in the box?",
+		"Now why couldn't he put the bunny back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the box?\
+",
 	},
 	next = {
 		405,

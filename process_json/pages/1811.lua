@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You make a stylish VELVET SQUIDDLEKNIT DRESS.",
+		"You make a stylish VELVET SQUIDDLEKNIT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DRESS.\
+",
 	},
 	next = {
 		1812,

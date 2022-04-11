@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Your ARMS are in your MAGIC CHEST, pooplord!",
+		"Your ARMS are in your MAGIC CHEST,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pooplord!\
+",
 	},
 	next = {
 		6,

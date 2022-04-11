@@ -12,15 +12,113 @@ return {
 			0,
 			0,
 		},
-		"You gently CHAOS DUNK the fragile bunny back in the box and captchalogue it. It is such a nice present. You will have to write Rose a thank you note and tuck it under her hair band or something. Wait no, that would probably be creepy.",
+		"You gently CHAOS DUNK the fragile\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bunny back in the box and captchalogue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. It is such a nice present. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will have to write Rose a thank you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"note and tuck it under her hair band\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or something. Wait no, that would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably be creepy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This bunny reminds you that you still have a salamander in your sylladex. She is holding the bunny Dave got you. It's sort of uncanny how similar they are, aside from the knitted enhancements. Seriously, what are the odds?? So weird.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This bunny reminds you that you still\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have a salamander in your sylladex.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She is holding the bunny Dave got you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's sort of uncanny how similar they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are, aside from the knitted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enhancements. Seriously, what are the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"odds?? So weird.\
+",
 	},
 	next = {
 		1713,

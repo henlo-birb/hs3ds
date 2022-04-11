@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"He appears to be holding some notebooks. Also what appears to be a pair of juice-stained envelopes.",
+		"He appears to be holding some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"notebooks. Also what appears to be a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pair of juice-stained envelopes.\
+",
 	},
 	next = {
 		1926,

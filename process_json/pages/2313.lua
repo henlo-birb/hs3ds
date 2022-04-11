@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You would begin to notice a strange pattern. The blue team's prototypings would affect the mutations of your session's underlings.",
+		"You would begin to notice a strange\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pattern. The blue team's prototypings\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would affect the mutations of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"session's underlings.\
+",
 	},
 	next = {
 		2314,

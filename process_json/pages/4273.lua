@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"OH MY GOD THE HUMANITY. HOW THEY EXACT THEIR POUND OF FLESH.",
+		"OH MY GOD THE HUMANITY. HOW THEY EXACT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THEIR POUND OF FLESH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-OH GOD NO OH GOD OH GOD OH GOOOAAAA",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"AAAAUUUUUUUUUUAAAAAAAAAAAAAAAAAAGGGGGGGGGGHHHHHHHH.",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OH GOD NO OH GOD OH GOD OH GOOOAAAA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AAAAUUUUUUUUUUAAAAAAAAAAAAAAAAAAGGGGGGGGGGHHHHHHHH.\
+",
 	},
 	next = {
 		4274,

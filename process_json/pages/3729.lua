@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"You cannot get over how tiny this record is. It's adorable. You wonder what sort of music it plays?",
+		"You cannot get over how tiny this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"record is. It's adorable. You wonder\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what sort of music it plays?\
+",
 	},
 	next = {
 		3730,

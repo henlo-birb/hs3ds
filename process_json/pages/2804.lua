@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"These chumps just won't quit hounding you!",
+		"These chumps just won't quit hounding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's like they heard somebody over here was handing out asses, and they've known nothing but years of bitter ass famine.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's like they heard somebody over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"here was handing out asses, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"they've known nothing but years of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bitter ass famine.\
+",
 	},
 	next = {
 		2805,

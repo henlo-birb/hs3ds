@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Wait...",
+		"Wait...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Who's that looking at you in the reflection?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Who's that looking at you in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reflection?\
+",
 	},
 	next = {
 		599,

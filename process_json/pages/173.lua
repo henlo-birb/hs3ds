@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"On the tub's journey to the driveway, the connection is interrupted.",
+		"On the tub's journey to the driveway,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the connection is interrupted.\
+",
 	},
 	next = {
 		174,

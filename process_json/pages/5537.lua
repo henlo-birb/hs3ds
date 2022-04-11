@@ -12,91 +12,225 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: good lard\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: good lard",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: all my friends are being disasters",
+		"ROXY: all my friends are being\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"disasters\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: welp looks like its just us",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: welp looks like its just us\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: party nite w gcat and fefeta",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: party nite w gcat and fefeta\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: fefeta???",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: fefeta???\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: oh dangit",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: oh dangit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: hey you know i could have used some support there",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: where was all that profound shippin expertise when we really needed it!",
+		"ROXY: hey you know i could have used\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"some support there\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: usually i can barely shut you up girl",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: maybe you just clammed up at all the drama?",
+		"ROXY: where was all that profound\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: hehehe youd have loved that pun",
+		"shippin expertise when we really\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"needed it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: the one i just said about the clams",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: usually i can barely shut you up\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"girl\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: maybe you just clammed up at all\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the drama?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: hehehe youd have loved that pun\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: the one i just said about the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"clams\
+",
 	},
 	next = {
 		5538,

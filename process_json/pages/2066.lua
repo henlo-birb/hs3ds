@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Somewhere else entirely...",
+		"Somewhere else entirely...\
+",
 	},
 	next = {
 		2067,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"THE HORSE HAS BEEN SLAIN.",
+		"THE HORSE HAS BEEN SLAIN.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE WOLF THING CONSUMES THE CARCASS. AFTER HIS MEAL. HE LEAVES FULL AND SATISFIED. NEVER TO RETURN.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE WOLF THING CONSUMES THE CARCASS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AFTER HIS MEAL. HE LEAVES FULL AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SATISFIED. NEVER TO RETURN.\
+",
 	},
 	next = {
 		6519,

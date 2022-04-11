@@ -12,243 +12,575 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-tipsyGnostalgic [TG]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ",
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"tipsyGnostalgic [TG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"began pestering\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"timaeusTestified [TT]",
+		"timaeusTestified [TT]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: stri dizzle\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: stri dizzle",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: its roro L money\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: its roro L money",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: do u copy over\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: do u copy over",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yes.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: frig yes my hax are TIGHT\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: frig yes my hax are TIGHT",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: so tight\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so tight",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: tighter than a jar you cant open\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: tighter than a jar you cant open",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: like you try and try\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like you try and try",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but my hax r so tight you just end up puttin the jar back",
+		"TG: but my hax r so tight you just end\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"up puttin the jar back\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: yall just say \"like i even WANTED pickles that bad\"",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but we both kno thats just sour grapes talkin",
+		"TG: yall just say \"like i even WANTED\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"pickles that bad\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: we both know ur still dying 4 my pickles mf'er 8)",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: but we both kno thats just sour\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"grapes talkin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: we both know ur still dying 4 my\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"pickles mf'er 8)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Hmm.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: lol yeah that way stopped meaning a damn thing",
+		"TG: lol yeah that way stopped meaning\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"a damn thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: let me explain",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: let me explain\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i got this shitty pda from somebody on the inside",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: actually u know i think it might belong to janes dad?",
+		"TG: i got this shitty pda from\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"somebody on the inside\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: it reeks of manly cologne and theres a nice fatherly pipe on it",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: maybe hes nearby",
+		"TG: actually u know i think it might\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"belong to janes dad?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ohmy...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: ~swoons~",
+		"TG: it reeks of manly cologne and\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"theres a nice fatherly pipe on it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: anyway on derse they have this lame firewall deal",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: maybe hes nearby\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: where you cant connect outside",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ohmy...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i guess its good enough security to baffle chess guys",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ~swoons~\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: but wasnt no thang for me 2 to crack",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: even with this pos device",
+		"TG: anyway on derse they have this\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"lame firewall deal\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: for real what even is this thing",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: where you cant connect outside\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: probably some bargain junk from the dadly depot",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: dads bought literally everything from there in the 21st century didnt they?",
+		"TG: i guess its good enough security\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"to baffle chess guys\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: youre the history buff u would know",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: but wasnt no thang for me 2 to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"crack\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: even with this pos device\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: for real what even is this thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: probably some bargain junk from\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the dadly depot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: dads bought literally everything\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"from there in the 21st century didnt\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"they?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: youre the history buff u would\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Yes.",
+		"TT: Yes.\
+",
 	},
 	next = {
 		5636,

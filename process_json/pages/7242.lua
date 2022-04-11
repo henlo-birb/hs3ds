@@ -12,28 +12,64 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: so...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: so...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: you wanted me to steal a stuffed dragon from your room?",
+		"JOHN: you wanted me to steal a stuffed\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"dragon from your room?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: how is this even the slightest bit important to the time line?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: how is this even the slightest\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"bit important to the time line?\
+",
 	},
 	next = {
 		7243,

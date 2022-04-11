@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: I'LL TEACH HIM A LESSON FOR THAT.",
+		"uu: I'LL TEACH HIM A LESSON FOR THAT.\
+",
 	},
 	next = {
 		5137,

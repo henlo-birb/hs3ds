@@ -12,28 +12,71 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: you don't need to do anything.",
+		"CALLIOPE: you don't need to do\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"anything.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: be who you've become, and who i didn't.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: be who you've become, and\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"who i didn't.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: consume the fruits of an existence i could never understand.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: consume the fruits of an\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"existence i could never understand.\
+",
 	},
 	next = {
 		7620,

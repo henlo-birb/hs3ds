@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You have no idea how much you'd like to. But even you're not that crazy.",
+		"You have no idea how much you'd like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to. But even you're not that crazy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Still, kinda tempting.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Still, kinda tempting.\
+",
 	},
 	next = {
 		1267,

@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"This beautiful scarf will look quite dramatic as you soar through the air, scouring the surface for new victims. It is finely crafted and the fabric is wonderfully soft. Your powerful nose detects perfume. The odor is pleasant.",
+		"This beautiful scarf will look quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dramatic as you soar through the air,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"scouring the surface for new victims.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is finely crafted and the fabric is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wonderfully soft. Your powerful nose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"detects perfume. The odor is pleasant.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait, this pipe is great too. It makes you look dignified and thoughtful. Yes, this will be your trophy as well.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait, this pipe is great too. It makes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you look dignified and thoughtful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yes, this will be your trophy as well.\
+",
 	},
 	next = {
 		3549,

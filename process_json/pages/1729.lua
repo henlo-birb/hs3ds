@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Rose stops being the pony just in time for John to start being the hat.",
+		"Rose stops being the pony just in time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for John to start being the hat.\
+",
 	},
 	next = {
 		1730,

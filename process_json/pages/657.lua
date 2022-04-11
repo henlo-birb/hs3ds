@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"You stop being the imp because that was stupid, and scurry over to your MAGIC CHEST that you suddenly remembered was on the roof. There are some things in here that would be good to stock up on for a major battle.",
+		"You stop being the imp because that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was stupid, and scurry over to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAGIC CHEST that you suddenly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remembered was on the roof. There are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some things in here that would be good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to stock up on for a major battle.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it looks like someone has plundered your chest!!! This is so outrageous.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it looks like someone has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plundered your chest!!! This is so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outrageous.\
+",
 	},
 	next = {
 		658,

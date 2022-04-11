@@ -15,15 +15,50 @@ return {
 			0,
 			0,
 		},
-		"The wall exhibits rows of ancient hieroglyphs depicting an array of amphibious and reptilian life forms.",
+		"The wall exhibits rows of ancient\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hieroglyphs depicting an array of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amphibious and reptilian life forms.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is illegal pictography. It makes you angry.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is illegal pictography. It makes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you angry.\
+",
 	},
 	next = {
 		1103,

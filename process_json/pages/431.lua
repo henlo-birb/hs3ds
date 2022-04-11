@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You give John a swift drubbing in the noggin, but he is undeterred!",
+		"You give John a swift drubbing in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"noggin, but he is undeterred!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That is some fit he is throwing.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That is some fit he is throwing.\
+",
 	},
 	next = {
 		432,

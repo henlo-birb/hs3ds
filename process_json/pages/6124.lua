@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You knew you decided to hang on to this thing for a reason.",
+		"You knew you decided to hang on to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this thing for a reason.\
+",
 	},
 	next = {
 		6125,

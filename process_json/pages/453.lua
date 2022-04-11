@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Aw man you almost forgot. Gotta give the C-man some props.",
+		"Aw man you almost forgot. Gotta give\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the C-man some props.\
+",
 	},
 	next = {
 		454,

@@ -12,147 +12,463 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Oh, don't worry, \"Serket\". I'm done here.",
+		"VRISKA: Oh, don't worry, \"Serket\". I'm\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"done here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: I'm off to go do something useful, like winners do. Something you wouldn't know anything a8out anymore.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-(VRISKA): ARGH, JUST LEAVE ME ALONE!!!!",
+		"VRISKA: I'm off to go do something\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-(VRISKA): HOW COULD I... *Choke*...",
+		"useful, like winners do. Something you\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"wouldn't know anything a8out anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): How could I have ever 8een so AWFUL?!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Ok, this is just getting em8arrassing.",
+		"(VRISKA): ARGH, JUST LEAVE ME\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ALONE!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Time to shove off. Though truth 8e told, I should pro8a8ly delay killing Lord English a little longer, just so he can put you out of your misery.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): HOW COULD I... *Choke*...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): JUST GO AW8Y!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-(VRISKA): *So8* ...",
+		"(VRISKA): How could I have ever 8een\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"so AWFUL?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): I H8 Y8U!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Your wish is my command, loser!",
+		"VRISKA: Ok, this is just getting\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"em8arrassing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Time to go get some awesome shit done, and gra8 the reins on a relevant, proactive existence.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Shit, I'm feeling more adventurous and worthwhile as a person just thinking a8out it!",
+		"VRISKA: Time to shove off. Though\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Anyone who feels the same way is more than welcome to join me.",
+		"truth 8e told, I should pro8a8ly delay\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Say, how a8out you, punky-lookin' Peixes?",
+		"killing Lord English a little longer,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Does that sound like it might 8e the cut of your ji8?",
+		"just so he can put you out of your\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"misery.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): DON'T T8LK TO HER!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): JUST GO AW8Y!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): SHE DOESN'T WANT ANYTH8NG TO DO WITH A PI8CE OF SHIT LIKE YOU, 8ND NEITHER D8 I!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): *So8* ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): TAKE YOUR STUP8D TREASURE, AND Y8UR SMUG GAR8AGE A8OUT \"R8LEVANCE\", AND GET TH8 FUCK OUT 8F HERE!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): I H8 Y8U!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): COME ON, M8ENAH! LET'S DITCH TH8S EVIL HAG AND GO FIND SOM8THING ELS8 TO DO.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Your wish is my command,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"loser!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Time to go get some awesome\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"shit done, and gra8 the reins on a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"relevant, proactive existence.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Shit, I'm feeling more\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"adventurous and worthwhile as a person\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"just thinking a8out it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Anyone who feels the same way\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is more than welcome to join me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Say, how a8out you,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"punky-lookin' Peixes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Does that sound like it might\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8e the cut of your ji8?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"(VRISKA): DON'T T8LK TO HER!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"(VRISKA): SHE DOESN'T WANT ANYTH8NG TO\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"DO WITH A PI8CE OF SHIT LIKE YOU, 8ND\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"NEITHER D8 I!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"(VRISKA): TAKE YOUR STUP8D TREASURE,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AND Y8UR SMUG GAR8AGE A8OUT\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\"R8LEVANCE\", AND GET TH8 FUCK OUT 8F\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"HERE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"(VRISKA): COME ON, M8ENAH! LET'S DITCH\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"TH8S EVIL HAG AND GO FIND SOM8THING\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ELS8 TO DO.\
+",
 	},
 	next = {
 		7789,

@@ -15,7 +15,15 @@ return {
 			0,
 			0,
 		},
-		"You open the FRESHJAMZ MEDIA PLAYER and add Dave's remix to the playlist.",
+		"You open the FRESHJAMZ MEDIA PLAYER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and add Dave's remix to the playlist.\
+",
 	},
 	next = {
 		831,

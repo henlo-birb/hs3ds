@@ -12,102 +12,204 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: aCHOO! aCH-,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: aCHOO! aCH-,",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: oH, nOO, nOT,,,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: oH, nOO, nOT,,,",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: aCHOOOO!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: aCHOOOO!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: nOT YOU, }:(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: nOT YOU, }:(",
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Mrrrelax my sternutating acquaintance.",
+		"Mrrrelax my sternutating acquaintance.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"I have just the magic thing for you because I'm a magical being, squared!",
+		"I have just the magic thing for you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"because I'm a magical being, squared!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"Take this curative tablet! It will make those cat allergies slink away as if they saw a raccoon out the window.",
+		"Take this curative tablet! It will\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"make those cat allergies slink away as\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"if they saw a raccoon out the window.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: oOH YES, tHANK,,,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: oOH YES, tHANK,,,",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: aCHOO!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: aCHOO!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: tHANK YOU!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: tHANK YOU!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-TAVROSPRITE: *gULP,*",
+		"TAVROSPRITE: *gULP,*\
+",
 	},
 	next = {
 		7813,

@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"This thing looks kind of complicated.",
+		"This thing looks kind of complicated.\
+",
 	},
 	next = {
 		1572,

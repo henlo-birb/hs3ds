@@ -13,23 +13,106 @@ return {
 			0,
 			0,
 		},
-		"You upgrade the PUPPET TUX future Dave made. He probably made it by combining one of your BRO'S badass marionette suits with your shirt, and scaling it up to fit. That's how you would have made it anyway.",
+		"You upgrade the PUPPET TUX future Dave\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made. He probably made it by combining\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one of your BRO'S badass marionette\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suits with your shirt, and scaling it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up to fit. That's how you would have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made it anyway.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You add a SMUPPET to the mix to make a softer and more stylish RED PLUSH PUPPET TUX. It is like walking around in snugly pajamas. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ACTION PAJAMAS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You add a SMUPPET to the mix to make a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"softer and more stylish RED PLUSH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PUPPET TUX. It is like walking around\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in snugly pajamas.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ACTION PAJAMAS.\
+",
 	},
 	next = {
 		1824,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Most of the interrogation is in the intimidating silence.",
+		"Most of the interrogation is in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"intimidating silence.\
+",
 	},
 	next = {
 		2036,

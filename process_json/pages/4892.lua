@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"A whole bunch of knives.",
+		"A whole bunch of knives.\
+",
 	},
 	next = {
 		4893,

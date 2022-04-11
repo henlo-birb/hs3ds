@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Being a kid and growing up.",
+		"Being a kid and growing up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's hard and nobody understands.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's hard and nobody understands.\
+",
 	},
 	next = {
 		2392,

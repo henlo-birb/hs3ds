@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A favorable flip. The senator exhales in relief.",
+		"A favorable flip. The senator exhales\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in relief.\
+",
 	},
 	next = {
 		2045,

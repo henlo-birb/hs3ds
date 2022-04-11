@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And finally a ripe yellow EUREKA LEMON.",
+		"And finally a ripe yellow EUREKA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LEMON.\
+",
 	},
 	next = {
 		785,

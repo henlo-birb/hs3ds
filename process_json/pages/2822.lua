@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/BlAsPhEmY.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/BlAsPhEmY.gif\"/>\
+",
 	},
 	next = {
 		2823,

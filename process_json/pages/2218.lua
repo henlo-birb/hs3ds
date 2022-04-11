@@ -12,31 +12,127 @@ return {
 			0,
 			0,
 		},
-		"You mean equip.",
+		"You mean equip.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A little archery practice ought to cool you off. But of course the piece of shit snaps like a twig the moment you pick it up.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Actually, the feel of the brittle wood giving way under the astonishing might of your mangrit is starting to calm you down already.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A little archery practice ought to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cool you off. But of course the piece\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of shit snaps like a twig the moment\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you pick it up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You equip it to your 1/2BOWKIND SPECIBUS, which is pretty much useless.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Actually, the feel of the brittle wood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"giving way under the astonishing might\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of your mangrit is starting to calm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you down already.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You equip it to your 1/2BOWKIND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECIBUS, which is pretty much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"useless.\
+",
 	},
 	next = {
 		2219,

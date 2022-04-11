@@ -16,56 +16,176 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: So that's how crazy it is for her to think I'm disappointed in her.",
+		"TT: So that's how crazy it is for her\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"to think I'm disappointed in her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: The truth is, she's the most amazing person I ever knew.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: She's everything in a human being I wish I could be, but can't because I'm in my own way.",
+		"TT: The truth is, she's the most\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"amazing person I ever knew.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Honestly, I'm not even sure if I'm worthy of dying next to her.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I think she probably felt bad for hitting on me all those years. Like I was getting fed up with her, or something.",
+		"TT: She's everything in a human being\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: But all it really did was make me feel guilty.",
+		"I wish I could be, but can't because\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"I'm in my own way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: That I couldn't give her what she wanted.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Honestly, I'm not even sure if I'm\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"worthy of dying next to her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I think she probably felt bad for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"hitting on me all those years. Like I\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"was getting fed up with her, or\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"something.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: But all it really did was make me\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"feel guilty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: That I couldn't give her what she\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"wanted.\
+",
 	},
 	next = {
 		5833,

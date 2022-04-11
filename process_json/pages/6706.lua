@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: Y4!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: Y4!!!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: F1GHT M3 YOU GUTL3SS POLTROON!",
+		"TEREZI: F1GHT M3 YOU GUTL3SS POLTROON!\
+",
 	},
 	next = {
 		6707,

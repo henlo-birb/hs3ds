@@ -14,107 +14,274 @@ return {
 			0,
 			0,
 		},
-		"You are confronted with an especially empowering CHARACTER SELECTION MENU. Eight choices???????? Free will has done it again. It has caused you to feel alarmed and anxious. But maybe, just maybe, slightly excited as well. You cautiously click on a batch of teens to discover your true feelings.",
+		"You are confronted with an especially\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empowering CHARACTER SELECTION MENU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Eight choices???????? Free will has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"done it again. It has caused you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feel alarmed and anxious. But maybe,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just maybe, slightly excited as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You cautiously click on a batch of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"teens to discover your true feelings.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Eight possible options is actually KIND OF A LOT, now that you think about it. It may be easy to forget to click some of them. To make absolutely sure you've clicked on all teen batches before proceeding, you check to see if all the links below are purple first. If any of them are blue, it means you didn't read those, and you probably should before continuing. Wow, free will sure is a lot of responsibility and hard work.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ONE",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"Eight possible options is actually\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"TWO",
+		"KIND OF A LOT, now that you think\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"about it. It may be easy to forget to\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"THREE",
+		"click some of them. To make absolutely\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"sure you've clicked on all teen\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"FOUR",
+		"batches before proceeding, you check\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"to see if all the links below are\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"FIVE",
+		"purple first. If any of them are blue,\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"it means you didn't read those, and\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"SIX",
+		"you probably should before continuing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"Wow, free will sure is a lot of\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"SEVEN",
+		"responsibility and hard work.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" | ",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"EIGHT",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ONE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TWO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THREE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOUR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FIVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SIX\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SEVEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EIGHT\
+",
 	},
 	next = {
 		7515,

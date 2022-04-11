@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You follow the agent. You must not lose track of that parcel.",
+		"You follow the agent. You must not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lose track of that parcel.\
+",
 	},
 	next = {
 		1484,

@@ -12,35 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: so i guess the clown guy did this?",
+		"JOHN: so i guess the clown guy did\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm laughing my ass off.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i'm laughing my ass off.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: it looks like he left all this bullshit littered around the body to frame vriska.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: it looks like he left all this\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"bullshit littered around the body to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"frame vriska.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: did terezi actually fall for this?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: did terezi actually fall for\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"this?\
+",
 	},
 	next = {
 		7311,

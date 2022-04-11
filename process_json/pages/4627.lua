@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You hoof it back to the window on the double. The famished ruffians are in hot pursuit!",
+		"You hoof it back to the window on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"double. The famished ruffians are in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hot pursuit!\
+",
 	},
 	next = {
 		4628,

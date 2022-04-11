@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"You put down the time-bait. It's out of your hands now.",
+		"You put down the time-bait. It's out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of your hands now.\
+",
 	},
 	next = {
 		1115,

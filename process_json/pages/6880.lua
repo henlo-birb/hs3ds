@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"DON'T LOOK NOW. BUT IT'S NONE OTHER. THAN THE BIG MAN HIMSELF.",
+		"DON'T LOOK NOW. BUT IT'S NONE OTHER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THAN THE BIG MAN HIMSELF.\
+",
 	},
 	next = {
 		6881,

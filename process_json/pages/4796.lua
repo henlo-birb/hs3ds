@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There's no time to lose, we've got to get you out of here!",
+		"There's no time to lose, we've got to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get you out of here!\
+",
 	},
 	next = {
 		4797,

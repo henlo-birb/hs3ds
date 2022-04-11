@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You introduce your CAST IRON HORSE HITCHER to your new friend.",
+		"You introduce your CAST IRON HORSE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HITCHER to your new friend.\
+",
 	},
 	next = {
 		1214,

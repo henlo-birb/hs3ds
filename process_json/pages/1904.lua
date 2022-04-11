@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"They're scramblin' all over the place!",
+		"They're scramblin' all over the place!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-They appear to be preoccupied by some of the objects littered around the lab. At least it is keeping them busy.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They appear to be preoccupied by some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the objects littered around the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lab. At least it is keeping them busy.\
+",
 	},
 	next = {
 		1905,

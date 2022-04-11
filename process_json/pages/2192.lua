@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"We are all completely blown away by this stunning revelation.",
+		"We are all completely blown away by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this stunning revelation.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wow. Dead. Really? Like a ghost?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Huh.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wow. Dead. Really? Like a ghost?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Huh.\
+",
 	},
 	next = {
 		2193,

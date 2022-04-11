@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You make the HUBTOPBAND, a convenient hands-free computing device.",
+		"You make the HUBTOPBAND, a convenient\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hands-free computing device.\
+",
 	},
 	next = {
 		1808,

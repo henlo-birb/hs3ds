@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"A PARCEL MISTRESS seeks audience with royalty.",
+		"A PARCEL MISTRESS seeks audience with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"royalty.\
+",
 	},
 	next = {
 		1613,

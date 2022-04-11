@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Ugh, what a terrible idea! The thought alone makes you sick to your stomach.",
+		"Ugh, what a terrible idea! The thought\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"alone makes you sick to your stomach.\
+",
 	},
 	next = {
 		220,

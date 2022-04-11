@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Wait, where did all this sweet loot come from?",
+		"Wait, where did all this sweet loot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come from?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And why is there suddenly a crumpled hat on your head?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And why is there suddenly a crumpled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hat on your head?\
+",
 	},
 	next = {
 		520,

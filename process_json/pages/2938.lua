@@ -12,105 +12,288 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: ALRIGHT WELL\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: ALRIGHT WELL",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I WASN'T EXPECTING YOU TO MAN UP AND APOLOGIZE FOR IT, SO OK I'LL GIVE YOU CREDIT FOR THAT.",
+		"CG: I WASN'T EXPECTING YOU TO MAN UP\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"AND APOLOGIZE FOR IT, SO OK I'LL GIVE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOU CREDIT FOR THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: BUT IT'S NOT STOPPING ME FROM DETESTING YOU AND IT SURE AS FUCK ISN'T GOING TO DERAIL THIS RUNAWAY HATE TRAIN, JUST SO YOU KNOW.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: BUT IT'S NOT STOPPING ME FROM\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DETESTING YOU AND IT SURE AS FUCK\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ISN'T GOING TO DERAIL THIS RUNAWAY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HATE TRAIN, JUST SO YOU KNOW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: oh, yeah, i know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: oh, yeah, i know.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: you're really gonna tear me apart!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: you're really gonna tear me apart!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: i just feel kind of bad i fell asleep, i don't know what came over me.",
+		"EB: i just feel kind of bad i fell\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"asleep, i don't know what came over\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: maybe i ate too much lasagna.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: maybe i ate too much lasagna.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: HEY, INOPPORTUNE NAPS HAPPEN IN THIS GAME.",
+		"CG: HEY, INOPPORTUNE NAPS HAPPEN IN\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"THIS GAME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: EXCEPT TO ME, BEING THE STALWART MODEL OF LEADERSHIP I AM.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I MANAGED TO STAY AWAKE FOR SEVERAL WEEKS STRAIGHT, I DIDN'T WANT TO LET MY GUARD DOWN FOR A SECOND.",
+		"CG: EXCEPT TO ME, BEING THE STALWART\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"MODEL OF LEADERSHIP I AM.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: BUT THEN",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: AFTER IT WAS ALL OVER, AND WE RETREATED IN FAILURE",
+		"CG: I MANAGED TO STAY AWAKE FOR\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I FOOLISHLY DID.",
+		"SEVERAL WEEKS STRAIGHT, I DIDN'T WANT\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"TO LET MY GUARD DOWN FOR A SECOND.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: AND THAT'S WHEN I SAW HIM.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: BUT THEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AFTER IT WAS ALL OVER, AND WE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"RETREATED IN FAILURE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I FOOLISHLY DID.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND THAT'S WHEN I SAW HIM.\
+",
 	},
 	next = {
 		2939,

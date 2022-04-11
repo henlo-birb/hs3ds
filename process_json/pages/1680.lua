@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Sure. ",
+		"Sure.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How about if I drag the content from one of the John files under the fourth wall layer, so we can make a more graceful transition out of this ludicrous, highly disruptive self-insertion arc?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How about if I drag the content from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one of the John files under the fourth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wall layer, so we can make a more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"graceful transition out of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ludicrous, highly disruptive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"self-insertion arc?\
+",
 	},
 	next = {
 		1681,

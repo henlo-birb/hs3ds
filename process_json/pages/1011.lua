@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"Ok, we just established it was a cable and not a rope, but that's ok.",
+		"Ok, we just established it was a cable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and not a rope, but that's ok.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You take a hasty swig from one of your DELICIOUS PAWNS and put down.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You then quickly adjust the coordinates to appearify the jumble of HANDY CABLE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You take a hasty swig from one of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DELICIOUS PAWNS and put down.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You then quickly adjust the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coordinates to appearify the jumble of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HANDY CABLE.\
+",
 	},
 	next = {
 		1012,

@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: WHY WONT YOU S4Y SOM3TH1NG??!!",
+		"TEREZI: WHY WONT YOU S4Y SOM3TH1NG??!!\
+",
 	},
 	next = {
 		6759,

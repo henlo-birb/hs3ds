@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Nap time.",
+		"Nap time.\
+",
 	},
 	next = {
 		2081,

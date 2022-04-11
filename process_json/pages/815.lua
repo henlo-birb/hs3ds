@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You take a look at the REFRIGERATOR'S rotary interface. You wonder what he is in the mood for today?",
+		"You take a look at the REFRIGERATOR'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rotary interface. You wonder what he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is in the mood for today?\
+",
 	},
 	next = {
 		816,

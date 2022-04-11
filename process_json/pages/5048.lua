@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: And what in the name of Jesus H.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Dick is SHE doing here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And what in the name of Jesus H. Dick is SHE doing here?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: I am blameless in this debacle.",
+		"TT: I am blameless in this debacle.\
+",
 	},
 	next = {
 		5049,

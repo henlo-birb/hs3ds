@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Ok reaching into my pocket now.",
+		"JAKE: Ok reaching into my pocket now.\
+",
 	},
 	next = {
 		7827,

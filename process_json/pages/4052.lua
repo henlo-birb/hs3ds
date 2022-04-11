@@ -12,7 +12,57 @@ return {
 			0,
 			0,
 		},
-		"It is a tale to remind her of the sacrifice she must make. One serving to remind all of her people of the sacrifice once made by long forgotten heroes in a discarded reality. It is of this sacrifice the Sufferer died to speak the truth, and it is his tale I will tell you now.",
+		"It is a tale to remind her of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacrifice she must make. One serving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to remind all of her people of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacrifice once made by long forgotten\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heroes in a discarded reality. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of this sacrifice the Sufferer died to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"speak the truth, and it is his tale I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will tell you now.\
+",
 	},
 	next = {
 		4053,

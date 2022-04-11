@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"OK ANYWAY LET'S GET BACK TO JOHN.",
+		"OK ANYWAY LET'S GET BACK TO JOHN.\
+",
 	},
 	next = {
 		3659,

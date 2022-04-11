@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This is completely pointless.",
+		"This is completely pointless.\
+",
 	},
 	next = {
 		2824,

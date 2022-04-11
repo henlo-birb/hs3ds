@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: RAAAAAAAARARRAAUUUUUUUUAAAAUUAGGGGGGGGHHHHHHHH!",
+		"VRISKA:\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"RAAAAAAAARARRAAUUUUUUUUAAAAUUAGGGGGGGGHHHHHHHH!\
+",
 	},
 	next = {
 		6040,

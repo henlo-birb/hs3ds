@@ -13,27 +13,64 @@ return {
 			0,
 			0,
 		},
-		"You deactivate the WARDROBIFIER'S randomization mode and set it to cycle through these three shirt designs.",
+		"You deactivate the WARDROBIFIER'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"randomization mode and set it to cycle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through these three shirt designs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The decision was tough, but you think you came to the ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"best possible conclusion",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		".",
+		"The decision was tough, but you think\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you came to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"best possible conclusion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		".\
+",
 	},
 	next = {
 		801,

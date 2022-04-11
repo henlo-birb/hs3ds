@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You expend another relatively affordable 100 BUILD GRIST to relocate it.",
+		"You expend another relatively\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"affordable 100 BUILD GRIST to relocate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		1515,

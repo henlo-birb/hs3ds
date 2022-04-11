@@ -12,28 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: shoot, are those footsteps?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: shoot, are those footsteps?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oh shoot, oh shoot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oh shoot, oh shoot.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: gotta hide, gotta hide!",
+		"CALLIOPE: gotta hide, gotta hide!\
+",
 	},
 	next = {
 		6678,

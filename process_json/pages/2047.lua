@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"SHE'S BLIND, REMEMBER?",
+		"SHE'S BLIND, REMEMBER?\
+",
 	},
 	next = {
 		2048,

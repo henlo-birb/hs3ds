@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"An old man has much to do before he returns to Earth, dies, gets stuffed by his adopted-yet-biological daughter-slash-grand-daughter, and stuck in front of a fireplace.",
+		"An old man has much to do before he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"returns to Earth, dies, gets stuffed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by his adopted-yet-biological\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"daughter-slash-grand-daughter, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stuck in front of a fireplace.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Taking priority at the moment is shipping two passengers long overdue for a reunion.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Taking priority at the moment is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shipping two passengers long overdue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a reunion.\
+",
 	},
 	next = {
 		1896,

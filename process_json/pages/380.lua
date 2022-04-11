@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Lousy goddamn stupid wizards.",
+		"Lousy goddamn stupid wizards.\
+",
 	},
 	next = {
 		381,

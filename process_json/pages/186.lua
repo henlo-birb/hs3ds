@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"The KERNELSPRITE has been prototyped with the HARLEQUIN DOLL.",
+		"The KERNELSPRITE has been prototyped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the HARLEQUIN DOLL.\
+",
 	},
 	next = {
 		187,

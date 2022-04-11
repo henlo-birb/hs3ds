@@ -12,81 +12,127 @@ return {
 			0,
 			0,
 		},
-		"With an escalating sense of threat, you think it's time you ",
+		"With an escalating sense of threat,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you think it's time you\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"SH",
+		"SH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"I",
+		"I\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"FT",
+		"FT\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (9) your ",
-		{
-			0,
-			0,
-			1,
-		},
-		"K",
-		{
-			1,
-			0,
-			0,
-		},
-		"A",
+		"(9) your\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"T",
+		"K\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"A",
+		"A\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"T\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"A",
+		"A\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"N\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"A\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (9) to your specibus.",
+		"(9) to your specibus.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You figure it's better to free up the card anyway, since you might need to grab some of this stuff.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You figure it's better to free up the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"card anyway, since you might need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grab some of this stuff.\
+",
 	},
 	next = {
 		569,

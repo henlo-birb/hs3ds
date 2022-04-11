@@ -12,47 +12,141 @@ return {
 			0,
 			0,
 		},
-		"1. TOTAL FAILURE.",
+		"1. TOTAL FAILURE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-2. GETTING FRIEND ZONED BY QUALITY MALE HONCHOS.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-3. LIVING IN PERPETUAL DISGRACE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"2. GETTING FRIEND ZONED BY QUALITY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MALE HONCHOS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-4. BEING A COMPLETE FUCKING THIRD WHEEL TO SOME COOL BOYS.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-5. NOT BEING WORTH THE ALPHA MALE'S TIME OF DAY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"3. LIVING IN PERPETUAL DISGRACE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-6. NOT BEING WORTH THE KRABKRAB'S TIME OF DAY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"4. BEING A COMPLETE FUCKING THIRD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHEEL TO SOME COOL BOYS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"5. NOT BEING WORTH THE ALPHA MALE'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TIME OF DAY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"6. NOT BEING WORTH THE KRABKRAB'S TIME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF DAY.\
+",
 	},
 	next = {
 		6876,

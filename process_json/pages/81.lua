@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Predictably, the mailbox is empty. You have already been scooped by your father.",
+		"Predictably, the mailbox is empty. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have already been scooped by your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"father.\
+",
 	},
 	next = {
 		82,

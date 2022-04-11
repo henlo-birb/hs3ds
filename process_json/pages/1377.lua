@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You do a very quick doodle of nothing in particular.",
+		"You do a very quick doodle of nothing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in particular.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The SCRIBBLEPAD appears to be processing the shapes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The SCRIBBLEPAD appears to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"processing the shapes.\
+",
 	},
 	next = {
 		1378,

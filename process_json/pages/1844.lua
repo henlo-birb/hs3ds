@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Ok, that's probably the weirdest thing you've ever done, but ok.",
+		"Ok, that's probably the weirdest thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you've ever done, but ok.\
+",
 	},
 	next = {
 		1845,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Curt manners. Egregious womanizing. Murdering the help. Casual arson.",
+		"Curt manners. Egregious womanizing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Murdering the help. Casual arson.\
+",
 	},
 	next = {
 		3863,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Four young PARADOX CLONES are created.",
+		"Four young PARADOX CLONES are created.\
+",
 	},
 	next = {
 		1888,

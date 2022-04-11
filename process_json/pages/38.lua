@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Your STRIFE SPECIBUS has been ALLOCATED with the HAMMERKIND ABSTRATUS.",
+		"Your STRIFE SPECIBUS has been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALLOCATED with the HAMMERKIND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ABSTRATUS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The HAMMER has been moved from your CAPTCHALOGUE DECK to your STRIFE DECK.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The HAMMER has been moved from your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAPTCHALOGUE DECK to your STRIFE DECK.\
+",
 	},
 	next = {
 		39,

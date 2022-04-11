@@ -13,7 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Though the signs pointed to two distinct sessions - two sets of mystic ruins, two opposing teams, two separate chains of connected players - this was all misleading.",
+		"Though the signs pointed to two\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"distinct sessions - two sets of mystic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ruins, two opposing teams, two\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"separate chains of connected players -\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this was all misleading.\
+",
 	},
 	next = {
 		2316,

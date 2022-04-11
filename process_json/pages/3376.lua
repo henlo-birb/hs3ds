@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"What's that, Doctor Honeytongue? Your analysis is inconclusive? You are recommending a full autopsy of the corpse, you say?",
+		"What's that, Doctor Honeytongue? Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"analysis is inconclusive? You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recommending a full autopsy of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"corpse, you say?\
+",
 	},
 	next = {
 		3377,

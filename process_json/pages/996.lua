@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"There is not much to realize.",
+		"There is not much to realize.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Of course you can fly.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Of course you can fly.\
+",
 	},
 	next = {
 		997,

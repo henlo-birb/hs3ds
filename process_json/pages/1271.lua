@@ -14,13 +14,29 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" gets the business end of your SABER RATTLE. He's dead. In this timeline at least.",
+		"gets the business end of your SABER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RATTLE. He's dead. In this timeline at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"least.\
+",
 	},
 	next = {
 		1272,

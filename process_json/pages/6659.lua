@@ -12,33 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"I will return shortly to annihilate you. Stay put.",
+		"I will return shortly to annihilate\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"you. Stay put.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Take your time. I'm not going anywhere. ::::)",
+		"ARANEA: Take your time. I'm not going\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"anywhere. ::::)\
+",
 	},
 	next = {
 		6660,

@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You are now dreaming.",
+		"You are now dreaming.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your DREAMBOT is awake and active.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your DREAMBOT is awake and active.\
+",
 	},
 	next = {
 		994,

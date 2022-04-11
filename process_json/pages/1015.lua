@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You set the time to the present, and appearify the JUMBLE OF CABLE.",
+		"You set the time to the present, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearify the JUMBLE OF CABLE.\
+",
 	},
 	next = {
 		1016,

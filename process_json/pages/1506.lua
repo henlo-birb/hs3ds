@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Whoops, looks like that dumb idea isn't going to happen!",
+		"Whoops, looks like that dumb idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"isn't going to happen!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A brainless feathery asshole swoops down and carries the egg away.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A brainless feathery asshole swoops\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down and carries the egg away.\
+",
 	},
 	next = {
 		1507,

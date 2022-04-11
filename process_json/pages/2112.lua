@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Good game everybody. That was a lot of fun. Time to do some other stuff you guess.",
+		"Good game everybody. That was a lot of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fun. Time to do some other stuff you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess.\
+",
 	},
 	next = {
 		2113,

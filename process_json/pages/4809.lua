@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Aw fuck who am I kidding magic is fake as shit.",
+		"Aw fuck who am I kidding magic is fake\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as shit.\
+",
 	},
 	next = {
 		4810,

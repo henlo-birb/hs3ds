@@ -13,15 +13,64 @@ return {
 			0,
 			0,
 		},
-		"The pad recognizes the drawing, but there is no designix around, and even if there was, it would obviously be way too big to captchalogue.",
+		"The pad recognizes the drawing, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there is no designix around, and even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"if there was, it would obviously be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way too big to captchalogue.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Instead, the GHOST IMAGE of the designix is captcha'd, along with its captcha code on the back.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Instead, the GHOST IMAGE of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"designix is captcha'd, along with its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captcha code on the back.\
+",
 	},
 	next = {
 		1563,

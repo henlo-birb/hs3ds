@@ -13,23 +13,85 @@ return {
 			0,
 			0,
 		},
-		"You make the TURNTOP.",
+		"You make the TURNTOP.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Convenient computing on the go. Sort of like you have with your iSHADES, but with all your important files and apps on there. Not to mention Sburb.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Plus MAYBE it has some weird time powers??? You have no idea. You'll mess with it later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Convenient computing on the go. Sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of like you have with your iSHADES,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but with all your important files and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apps on there. Not to mention Sburb.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Plus MAYBE it has some weird time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powers??? You have no idea. You'll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mess with it later.\
+",
 	},
 	next = {
 		1823,

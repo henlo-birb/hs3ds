@@ -13,23 +13,57 @@ return {
 			0,
 			0,
 		},
-		"One pair of tubes empties the sludge into the chamber below. ",
+		"One pair of tubes empties the sludge\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into the chamber below.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The other pair does as well.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Another sequence is activated.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The other pair does as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Another sequence is activated.\
+",
 	},
 	next = {
 		1890,

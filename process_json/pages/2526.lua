@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You search for the appropriate card through your SCRATCH AND SNIFF modus.",
+		"You search for the appropriate card\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through your SCRATCH AND SNIFF modus.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The card will be unmistakable. It is the one that smells like a fruity rainbow that makes you sneeze.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The card will be unmistakable. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the one that smells like a fruity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rainbow that makes you sneeze.\
+",
 	},
 	next = {
 		2527,

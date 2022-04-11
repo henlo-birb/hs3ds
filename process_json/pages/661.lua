@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You peek over the edge.",
+		"You peek over the edge.\
+",
 	},
 	next = {
 		662,

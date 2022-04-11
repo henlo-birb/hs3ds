@@ -12,23 +12,120 @@ return {
 			0,
 			0,
 		},
-		"You exit into the HALLWAY.",
+		"You exit into the HALLWAY.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-On one wall hangs a picture of a fella who sure knows how to have a laugh, a man after your own heart. You always thought he looked a lot like Michael Cera. But your DAD swears on the many HALLOWED TOMBS of Egypt that it is not. You're not sure about that though.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-On the other wall is one of your DAD'S stupid clowns. Or HARLEQUINS, as he is quick to correct anyone who would venture such brazen assumption.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"On one wall hangs a picture of a fella\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"who sure knows how to have a laugh, a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"man after your own heart. You always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thought he looked a lot like Michael\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cera. But your DAD swears on the many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HALLOWED TOMBS of Egypt that it is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not. You're not sure about that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"On the other wall is one of your DAD'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stupid clowns. Or HARLEQUINS, as he is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quick to correct anyone who would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"venture such brazen assumption.\
+",
 	},
 	next = {
 		48,

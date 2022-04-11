@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You enter the code \"DQMmJLeK\" into the KEYBOARD. At least you think that's what the code is.",
+		"You enter the code \"DQMmJLeK\" into the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"KEYBOARD. At least you think that's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what the code is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The red light switches off. A green light begins blinking.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The red light switches off. A green\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"light begins blinking.\
+",
 	},
 	next = {
 		526,

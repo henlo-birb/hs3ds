@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You stop being the other guy. You're not even sure what that meant anyway.",
+		"You stop being the other guy. You're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not even sure what that meant anyway.\
+",
 	},
 	next = {
 		665,

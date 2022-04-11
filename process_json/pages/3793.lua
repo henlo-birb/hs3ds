@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"To secure a death one may parse just.",
+		"To secure a death one may parse just.\
+",
 	},
 	next = {
 		3794,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You find the SACRED URN toppled again. This time you're quite sure it wasn't your fault!",
+		"You find the SACRED URN toppled again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This time you're quite sure it wasn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your fault!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The SPRITE is nowhere to be found.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The SPRITE is nowhere to be found.\
+",
 	},
 	next = {
 		283,

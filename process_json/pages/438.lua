@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It's just not going to happen buddy!",
+		"It's just not going to happen buddy!\
+",
 	},
 	next = {
 		439,

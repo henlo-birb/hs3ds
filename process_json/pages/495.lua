@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Well ok, it's not a Slimer pogo, but you mount it anyway and brandish your deadly armaments.",
+		"Well ok, it's not a Slimer pogo, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you mount it anyway and brandish your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deadly armaments.\
+",
 	},
 	next = {
 		496,

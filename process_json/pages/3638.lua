@@ -12,875 +12,2430 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: rose please say something\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: rose please say something",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: you are making me nervous...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: you are making me nervous...",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I should have gone looking for her.",
+		"TT: I should have gone looking for\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Why didn't I?",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Why didn't I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: umm\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: umm",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: because you were busy trying to make the best of this situation?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: John was too. But he went to look for his father.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: It would have been normal of me. I can't remember what I was trying to prove anymore.",
+		"GG: because you were busy trying to\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"make the best of this situation?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i dont think you should be so hard on yourself about it",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: John was too. But he went to look\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"for his father.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It would have been normal of me. I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"can't remember what I was trying to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"prove anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: john was being john, and you were being you, which i guess meant taking our problems very seriously and putting all your attention on solving them!",
+		"GG: i dont think you should be so hard\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"on yourself about it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: and anyway, you and your mom had a much trickier relationship than john and his dad didnt you?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i mean, not that i am saying that means you were any less attached to her than him...",
+		"GG: john was being john, and you were\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: argh, i dont know if im very good at consoling people. sorry rose i dont want to make you feel worse :(",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: You're doing fine.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: For someone raised by a dog.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Or really,",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Anyone.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Thanks.",
+		"being you, which i guess meant taking\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: whew, ok",
+		"our problems very seriously and\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: you know...",
+		"putting all your attention on solving\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"them!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: now we have all lost guardians",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: dave lost his, and i lost mine in a weird way... uuum even though that was pretty much definitely my fault :\\",
+		"GG: and anyway, you and your mom had a\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: and even the trolls all lost their monster guardians",
+		"much trickier relationship than john\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i think that maybe it is an inevitable part of a game that can be cruel sometimes",
+		"and his dad didnt you?\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: For some reason, despite all the danger, I never thought she was in any trouble.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I never believed she would actually die.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I grew up with the feeling that something more significant had always been meant for her.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: That she was a heroine displaced in some way, resigned to the inglorious duty of raising me, and preparing me in her way.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I didn't actually need the ectobiological verification that she was like a mother and a sister at the same time. I always understood that somehow.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: And I felt she had knowledge and ability beyond what she let on. It was always intimidating, but nonetheless a source of respect which was childishly begrudging on my part.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I think she was just waiting for me to catch up with her.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: But now I can't.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: ......",
+		"GG: i mean, not that i am saying that\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i am so sad",
+		"means you were any less attached to\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: rose i think you are being stronger about it than i am",
+		"her than him...\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Probably because my emotions have now ceded to anger.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: This shouldn't have happened.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: oh",
+		"GG: argh, i dont know if im very good\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: well",
+		"at consoling people. sorry rose i dont\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"want to make you feel worse :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i just hope you arent thinking of doing something rash",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You're doing fine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I already was.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: For someone raised by a dog.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I was going to go to sleep, fly to a sun bigger than our universe, drop a bomb in it, and kill myself.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Or really,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Anyone.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Thanks.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: yeaaah...",
+		"GG: whew, ok\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: So if my course of action is to change on account of my mood, it can only become less impetuous, don't you think?",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: errrr, i dont know?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: You never liked my plan very much anyway.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: you know...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: wellllll",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: now we have all lost guardians\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: no!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: but i was trusting that you had thought it through and it was our best hope",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I'm not sure if I did.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Maybe it was a terrible plan.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I made it without a full understanding of the nature of the Scratch.",
+		"GG: dave lost his, and i lost mine in\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: hm",
+		"a weird way... uuum even though that\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: then what will you do?",
+		"was pretty much definitely my fault :\\\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: I could stop being so cowardly, for once.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I could short circuit this endlessly expanding game of chess we're playing, just like Jack decided to do.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: what does that mean!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Maybe I will go kill Jack myself.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Right now.",
+		"GG: and even the trolls all lost their\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"monster guardians\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: oh no no no no no!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: rose that is a much much worse plan!!!!!",
+		"GG: i think that maybe it is an\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: he would probably kill you!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Probably.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: But the Scratch will wipe us out anyway, and reboot the conditions of our session.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I suddenly don't feel much like sneaking through the back door of the Furthest Ring for retribution by distant super nova.",
+		"inevitable part of a game that can be\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"cruel sometimes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i know what you mean, i was angry at jack and wanted to stop him too, but we have to think of a more sensible way to do it",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Whether my existing plan was sensible or not,",
+		"TT: For some reason, despite all the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"danger, I never thought she was in any\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"trouble.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I may have been allowing myself to be manipulated by an omniscient being regardless.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I never believed she would\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"actually die.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I grew up with the feeling that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"something more significant had always\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"been meant for her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That she was a heroine displaced\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"in some way, resigned to the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"inglorious duty of raising me, and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"preparing me in her way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I didn't actually need the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ectobiological verification that she\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"was like a mother and a sister at the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"same time. I always understood that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"somehow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And I felt she had knowledge and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ability beyond what she let on. It was\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"always intimidating, but nonetheless a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"source of respect which was childishly\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"begrudging on my part.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I think she was just waiting for\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me to catch up with her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: But now I can't.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: ......\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: what? who?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i am so sad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: rose i think you are being\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"stronger about it than i am\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Probably because my emotions have\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"now ceded to anger.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: This shouldn't have happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: oh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i just hope you arent thinking of\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"doing something rash\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I already was.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I was going to go to sleep, fly to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"a sun bigger than our universe, drop a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"bomb in it, and kill myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yeaaah...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So if my course of action is to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"change on account of my mood, it can\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"only become less impetuous, don't you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"think?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: errrr, i dont know?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: You never liked my plan very much\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"anyway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: wellllll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: no!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: but i was trusting that you had\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"thought it through and it was our best\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"hope\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I'm not sure if I did.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Maybe it was a terrible plan.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I made it without a full\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"understanding of the nature of the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Scratch.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: hm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: then what will you do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I could stop being so cowardly,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"for once.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I could short circuit this\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"endlessly expanding game of chess\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"we're playing, just like Jack decided\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"to do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: what does that mean!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Maybe I will go kill Jack myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Right now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: oh no no no no no!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: rose that is a much much worse\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"plan!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: he would probably kill you!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Probably.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: But the Scratch will wipe us out\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"anyway, and reboot the conditions of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"our session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I suddenly don't feel much like\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"sneaking through the back door of the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Furthest Ring for retribution by\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"distant super nova.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i know what you mean, i was angry\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"at jack and wanted to stop him too,\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"but we have to think of a more\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"sensible way to do it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Whether my existing plan was\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"sensible or not,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I may have been allowing myself to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"be manipulated by an omniscient being\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"regardless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: what? who?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Hello ladies.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Hello ladies.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: aaaaaaa whaaaaat?????\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: aaaaaaa whaaaaat?????",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: This is a private conversation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: This is a private conversation.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Private even to those who know it word for word already.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Proceed.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I will be here.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Watching.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: rose who is this!",
+		"TT: Private even to those who know it\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"word for word already.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Ignore him.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Proceed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I will be here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Watching.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i dont even know whats going on anymore",
+		"GG: rose who is this!\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-You were discussing Ms. Lalonde's intrepid new variation on suicide.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-As one with a passion for the subject, I'm intrigued.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Ignore him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Shh.",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i dont even know whats going on\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"anymore\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You were discussing Ms. Lalonde's\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"intrepid new variation on suicide.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"As one with a passion for the subject,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I'm intrigued.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Shh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Anyway, if it's true the gods have \"selected\" me for service, maybe the power they've given me will be sufficient.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Maybe they wanted me to kill him all along.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Hee hee.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: SHHHHHHHHHH!",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: please dont rose, i know you are angry but you arent thinking straight",
+		"TT: Anyway, if it's true the gods have\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: But I am.",
+		"\"selected\" me for service, maybe the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I'm fully aware I'll probably die and fail. Scratch happens, we start fresh. No recollection, no problem.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: nooo :(",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Jade, as an ambassador of Skaia, maybe you'd be willing to talk some sense into your friend?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-You should understand she's been corrupted by various entities with some rather questionable motives.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: rose, maybe white text guy is right?",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: the dark gods gave you all these powers, and seem to be helping us with dream bubbles and stuff...",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: but what if they are not actually good?",
+		"power they've given me will be\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"sufficient.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: They are enormous, ugly, and live in darkness.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That doesn't necessarily make them bad.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: no...",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: but i still dont trust them!",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-If only there were a way to make this determination with certainty.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Through a reliable source within reach, for instance, at this exact moment. Perhaps one that is spherical, and devastatingly handsome.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: whats this weirdo talking about!",
+		"TT: Maybe they wanted me to kill him\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"all along.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: The cue ball.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Hee hee.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: SHHHHHHHHHH!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: oh yeah",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i noticed you found it!",
+		"GG: please dont rose, i know you are\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i was worried it had been destroyed when my room blew up",
+		"angry but you arent thinking straight\
+",
 		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: is he saying you can use it?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Yes. And he is right.",
+		"TT: But I am.\
+",
 		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: omg",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: does it work???",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: It advised me to talk to you just now.",
+		"TT: I'm fully aware I'll probably die\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: So I guess so.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-GG: then maybe you should try it!",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes, Rose. Listen to Jade.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-She is far less manipulative than I.",
+		"and fail. Scratch happens, we start\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"fresh. No recollection, no problem.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What are you suggesting I ask it?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: nooo :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: well",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Jade, as an ambassador of Skaia, maybe\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you'd be willing to talk some sense\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"into your friend?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You should understand she's been\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"corrupted by various entities with\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"some rather questionable motives.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: since we dont know much about the gods...",
+		"GG: rose, maybe white text guy is\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: why dont you ask it about them?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: the dark gods gave you all these\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"powers, and seem to be helping us with\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"dream bubbles and stuff...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: but what if they are not actually\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"good?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: They are enormous, ugly, and live\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"in darkness.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: So, you're saying I should ask it if the gods are evil?",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That doesn't necessarily make them\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"bad.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: no...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i guess that is a way to put it",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: but i still dont trust them!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Even though at this point neither of you is highlighting my text to read it, this idea gets my vote.",
+		"If only there were a way to make this\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"determination with certainty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Go ahead.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Through a reliable source within\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reach, for instance, at this exact\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"moment. Perhaps one that is spherical,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"and devastatingly handsome.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Ask, Seer.",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: whats this weirdo talking about!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: The cue ball.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: oh yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i noticed you found it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i was worried it had been\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"destroyed when my room blew up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: is he saying you can use it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Yes. And he is right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: omg\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: does it work???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It advised me to talk to you just\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So I guess so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: then maybe you should try it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes, Rose. Listen to Jade.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"She is far less manipulative than I.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What are you suggesting I ask it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: since we dont know much about the\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"gods...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: why dont you ask it about them?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So, you're saying I should ask it\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"if the gods are evil?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i guess that is a way to put it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Even though at this point neither of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you is highlighting my text to read\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"it, this idea gets my vote.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Go ahead.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Ask, Seer.\
+",
 	},
 	next = {
 		3639,

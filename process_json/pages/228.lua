@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You take the GRIMOIRE.",
+		"You take the GRIMOIRE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-G < L, G < K.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"G < L, G < K.\
+",
 	},
 	next = {
 		229,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"CLOCKS DESTROYED: 5/1000",
+		"CLOCKS DESTROYED: 5/1000\
+",
 	},
 	next = {
 		1169,

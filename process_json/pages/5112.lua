@@ -12,23 +12,106 @@ return {
 			0,
 			0,
 		},
-		"Er, no. You'd rather not. Down that road lies only endless embarrassments. THE THINGS YOU MADE SWEET, INNOCENT CALLIE DO.",
+		"Er, no. You'd rather not. Down that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"road lies only endless embarrassments.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE THINGS YOU MADE SWEET, INNOCENT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CALLIE DO.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If you had a bed, you would scoot the whole dang thing underneath where no one could see. And also, if that hypothetical bed wasn't in neutral territory...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't even want to imagine what he'd do if he got his hands on it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If you had a bed, you would scoot the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whole dang thing underneath where no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one could see. And also, if that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hypothetical bed wasn't in neutral\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"territory...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't even want to imagine what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he'd do if he got his hands on it.\
+",
 	},
 	next = {
 		5113,

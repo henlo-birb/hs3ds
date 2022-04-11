@@ -13,34 +13,99 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: JAKE, YOUR HOPE FIELD IS DISSIPATING!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: COME ON MAN, YOU DON'T NEED TO RELY ON HER TO KEEP BELIEVING!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: TRY AND HOLD YOUR SHIT TOGETHER FOR JUST A LITTLE LONGER!",
+		"|DIALOGLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext15.gif\"/>",
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: JAKE, YOUR HOPE FIELD IS\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DISSIPATING!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: COME ON MAN, YOU DON'T NEED TO\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"RELY ON HER TO KEEP BELIEVING!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: TRY AND HOLD YOUR SHIT TOGETHER\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"FOR JUST A LITTLE LONGER!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext15.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		6751,

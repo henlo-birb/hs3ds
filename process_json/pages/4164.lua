@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"Right. You pick up your TWIN M9 BERETTAS, weapons of choice in an absurd arsenal inherited from an eccentric old woman.",
+		"Right. You pick up your TWIN M9\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BERETTAS, weapons of choice in an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"absurd arsenal inherited from an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eccentric old woman.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Guns are so cool. Your GRANDMA was rad.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Guns are so cool. Your GRANDMA was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rad.\
+",
 	},
 	next = {
 		4165,

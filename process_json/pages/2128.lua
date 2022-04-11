@@ -12,15 +12,99 @@ return {
 			0,
 			0,
 		},
-		"As you learned, your dreams became more vivid. Where before there was darkness, odors and flavors painted a striking picture. You found yourself surrounded by bright honey walls, and in the sky was a huge tasty ball of cotton candy, which is this sweet troll delicacy we wouldn't know anything about.",
+		"As you learned, your dreams became\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more vivid. Where before there was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"darkness, odors and flavors painted a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"striking picture. You found yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surrounded by bright honey walls, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the sky was a huge tasty ball of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cotton candy, which is this sweet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troll delicacy we wouldn't know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anything about.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The first time you caught a glimpse of this world in your dreams, there was no turning back.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The first time you caught a glimpse of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this world in your dreams, there was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no turning back.\
+",
 	},
 	next = {
 		2129,

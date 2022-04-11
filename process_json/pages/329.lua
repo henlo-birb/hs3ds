@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"\"Spades Slick uses OCCAM'S RAZOR to carve a circular hole into the HEIST PLANS, freeing it from the knife.",
+		"\"Spades Slick uses OCCAM'S RAZOR to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"carve a circular hole into the HEIST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLANS, freeing it from the knife.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You wonder what moron would jam the knife so hard into the table in the first place.\"",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You wonder what moron would jam the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"knife so hard into the table in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first place.\"\
+",
 	},
 	next = {
 		330,

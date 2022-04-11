@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"The BATHTUB surges heroically and surpasses the rung: ARCHIMEDES' AQUACRADLE, proceeding directly to vaunted rung: TAFT-JAMMER. The tub makes off with a cool 490 BOONDOLLARS.",
+		"The BATHTUB surges heroically and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surpasses the rung: ARCHIMEDES'\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AQUACRADLE, proceeding directly to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"vaunted rung: TAFT-JAMMER. The tub\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"makes off with a cool 490 BOONDOLLARS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The tub's BASIN CAPACITY remains unaffected.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The tub's BASIN CAPACITY remains\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unaffected.\
+",
 	},
 	next = {
 		558,

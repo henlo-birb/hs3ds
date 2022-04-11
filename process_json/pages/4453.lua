@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"God you wish stuff would stop exploding.",
+		"God you wish stuff would stop\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exploding.\
+",
 	},
 	next = {
 		4454,

@@ -14,19 +14,36 @@ return {
 			0,
 			0,
 		},
-		"He has renamed himself ",
+		"He has renamed himself\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"_ul_Crumplehat",
+		"Crumplehat\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". He has dishonored his ancestors beyond comprehension with this frivolous accessory.",
+		". He has dishonored his ancestors\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beyond comprehension with this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frivolous accessory.\
+",
 	},
 	next = {
 		1429,

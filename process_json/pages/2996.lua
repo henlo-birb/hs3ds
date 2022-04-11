@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You have got to stop falling asleep.",
+		"You have got to stop falling asleep.\
+",
 	},
 	next = {
 		2997,

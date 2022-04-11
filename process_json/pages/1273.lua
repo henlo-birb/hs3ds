@@ -12,25 +12,36 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Crowbar",
+		"Crowbar\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" deflects the KING OF SPADES into ",
+		"deflects the KING OF SPADES into\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Sawbuck",
+		"Sawbuck\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s unmissable carriage. You jump far into the past.",
+		"'s unmissable carriage. You jump far\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into the past.\
+",
 	},
 	next = {
 		1274,

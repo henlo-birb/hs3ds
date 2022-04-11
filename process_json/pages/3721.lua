@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You cannot ascend!!! ",
+		"You cannot ascend!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The staircase is suffering from a catastrophic horn clog.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The staircase is suffering from a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"catastrophic horn clog.\
+",
 	},
 	next = {
 		3722,

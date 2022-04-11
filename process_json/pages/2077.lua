@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Why would you do that?",
+		"Why would you do that?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A high level psionic has no use for any particular specibus allocation.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A high level psionic has no use for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any particular specibus allocation.\
+",
 	},
 	next = {
 		2078,

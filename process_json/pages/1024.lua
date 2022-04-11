@@ -12,168 +12,554 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I don't like to use the word\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"\"crazy\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I don't like to use the word \"crazy\".",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: oh god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: oh god.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: see?? this is therapy bullshit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: see?? this is therapy bullshit!",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: That was a joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: That was a joke.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: But anyway, whether it means you are crazy or not, consider this theory:",
+		"TT: But anyway, whether it means you\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Your presumably longstanding tendency for scrawling this imagery is really your subconsious trying to express something disturbing within you.",
+		"are crazy or not, consider this\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"theory:\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Possibly something from your past, which you have blocked out.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Your presumably longstanding\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"tendency for scrawling this imagery is\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"really your subconsious trying to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"express something disturbing within\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And since you have supressed it, your conscious self cannot acknowledge the drawings, therefore they have been invisible until now.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Possibly something from your past,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"which you have blocked out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And since you have supressed it,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"your conscious self cannot acknowledge\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the drawings, therefore they have been\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"invisible until now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: why now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: why now?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Perhaps because you have seen evidence that conflicts with the worldview your subconscious has constructed to obfuscate the truth.",
+		"TT: Perhaps because you have seen\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That your dad is not necessarily the clown-loving maniac you thought he was.",
+		"evidence that conflicts with the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"worldview your subconscious has\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"constructed to obfuscate the truth.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: All along, this negative attribute buried in your psyche may have been projected on to him, and subsequently reviled, as a sort of defense mechanism.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That your dad is not necessarily\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the clown-loving maniac you thought he\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"was.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: All along, this negative attribute\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"buried in your psyche may have been\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"projected on to him, and subsequently\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"reviled, as a sort of defense\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"mechanism.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: but this is absurd, my dad LOVES these shitty clowns.",
+		"EB: but this is absurd, my dad LOVES\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: he's got all these statues and paintings EVERYWHERE.",
+		"these shitty clowns.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Is it unthinkable that over the years it was he who believed you were the one with a passion for clowns? Because of the all the strange drawings in your room?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: A father then embraces a son's hobby to establish a stronger bond.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Or wages a campaign of passive-aggresive mockery of your interests.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Either is plausible. I don't know your dad that well.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: i dunno.",
+		"EB: he's got all these statues and\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: not sure about all this.",
+		"paintings EVERYWHERE.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-EB: but i think we need to stop and acknowledge the bunny sassacre fedora i just made.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Is it unthinkable that over the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"years it was he who believed you were\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the one with a passion for clowns?\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Because of the all the strange\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"drawings in your room?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: It's awesome.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: A father then embraces a son's\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"hobby to establish a stronger bond.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Or wages a campaign of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"passive-aggresive mockery of your\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"interests.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Either is plausible. I don't know\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"your dad that well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: i dunno.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: yeah.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: not sure about all this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: but i think we need to stop and\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"acknowledge the bunny sassacre fedora\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"i just made.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It's awesome.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: yeah.\
+",
 	},
 	next = {
 		1025,

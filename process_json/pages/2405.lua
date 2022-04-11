@@ -12,15 +12,141 @@ return {
 			0,
 			0,
 		},
-		"But if there was one theme to be hammered through his thick skull, it would be the trolls' cultural preoccupation with romantic destiny. Yes, the romantic landscape is rife with false starts and miscues and infidelities, red and black. But every troll believes strongly that each quadrant holds one and only one true pairing for them, and it is just a matter of time before the grid is filled with auspicious matchups through the mysterious channels of TROLL SERENDIPITY.",
+		"But if there was one theme to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hammered through his thick skull, it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be the trolls' cultural\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"preoccupation with romantic destiny.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yes, the romantic landscape is rife\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with false starts and miscues and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"infidelities, red and black. But every\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troll believes strongly that each\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quadrant holds one and only one true\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pairing for them, and it is just a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter of time before the grid is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"filled with auspicious matchups\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the mysterious channels of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TROLL SERENDIPITY.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In short, their belief is that for each quadrant there exists a pair or triad of trolls somewhere in the cosmos that were...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In short, their belief is that for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"each quadrant there exists a pair or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"triad of trolls somewhere in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cosmos that were...\
+",
 	},
 	next = {
 		2406,

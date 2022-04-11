@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It still keeps happening.",
+		"It still keeps happening.\
+",
 	},
 	next = {
 		6431,

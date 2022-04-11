@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"John suddenly does the windy thing.",
+		"John suddenly does the windy thing.\
+",
 	},
 	next = {
 		2982,

@@ -12,42 +12,99 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: hmm.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i wonder who the \"him\" was in terezi's note.",
+		"JOHN: i wonder who the \"him\" was in\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"terezi's note.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: karkat, maybe?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: karkat, maybe?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: man, i sure hope terezi didn't send me on a time travel quest just to fix her fucking boyfriend problems.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: man, i sure hope terezi didn't\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"send me on a time travel quest just to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"fix her fucking boyfriend problems.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: god DAMNIT terezi!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: god DAMNIT terezi!\
+",
 	},
 	next = {
 		7264,

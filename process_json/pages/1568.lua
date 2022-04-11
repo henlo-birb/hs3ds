@@ -13,23 +13,92 @@ return {
 			0,
 			0,
 		},
-		"You captcha the lathe ghost image and apply the upgrade.",
+		"You captcha the lathe ghost image and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apply the upgrade.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now the holopad projects a hologram of the totem that a punch card will create!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This appears to turn the alchemiter into a one stop-shopping hub. You just punch a card, stick it in, and get your item. Nice!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now the holopad projects a hologram of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the totem that a punch card will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"create!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This appears to turn the alchemiter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into a one stop-shopping hub. You just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"punch a card, stick it in, and get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your item. Nice!\
+",
 	},
 	next = {
 		1569,

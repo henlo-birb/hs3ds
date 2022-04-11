@@ -15,7 +15,36 @@ return {
 			0,
 			0,
 		},
-		"YOU SUCCESSFULLY BE ON THE ROOF. AND PREPARE TO HUMAN KISS YOUR SORRY PLANET GOODBYE. THERE IS NOT A DRY EYE IN THE PARTY. EXCEPT FOR THE MALE'S. AS WELL AS THE PUPPET'S.",
+		"YOU SUCCESSFULLY BE ON THE ROOF. AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PREPARE TO HUMAN KISS YOUR SORRY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLANET GOODBYE. THERE IS NOT A DRY EYE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN THE PARTY. EXCEPT FOR THE MALE'S.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS WELL AS THE PUPPET'S.\
+",
 	},
 	next = {
 		6493,

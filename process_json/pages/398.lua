@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Retrieving the W never even crossed your mind. It's just a stupid magnet.",
+		"Retrieving the W never even crossed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your mind. It's just a stupid magnet.\
+",
 	},
 	next = {
 		399,

@@ -12,49 +12,127 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: how about this one?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: how about this one?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: looks like its still in pretty\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"good condition\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: looks like its still in pretty good condition",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: yes, that's perfect!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yes, that's perfect!!!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: everyone will love it, especially probably dave.",
+		"JOHN: everyone will love it,\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"especially probably dave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i think i need something to fold it up and put it in though.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i think i need something to fold\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"it up and put it in though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i don't want to just like crumple it up and chuck it in there like some garbage...",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i don't want to just like\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"crumple it up and chuck it in there\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"like some garbage...\
+",
 	},
 	next = {
 		4341,

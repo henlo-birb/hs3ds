@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Like this.",
+		"Like this.\
+",
 	},
 	next = {
 		2054,

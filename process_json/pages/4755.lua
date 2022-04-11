@@ -12,217 +12,694 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what plan?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what plan?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: why would i tell a hornless\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"dork like you somefin like that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: why would i tell a hornless dork like you somefin like that",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i dunno.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i dunno.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: just curious about your spooky ghost plan is all.",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: im curious about why a couple of freaks like you were sent to welcome me to hell",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: water you demons or somefin",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: pretty lame demons if you ask me",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: way too frondly and stupid",
+		"JOHN: just curious about your spooky\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"ghost plan is all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: no, we're humans.",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: im curious about why a couple\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"of freaks like you were sent to\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"welcome me to hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: water you demons or somefin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: pretty lame demons if you ask\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"me\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: way too frondly and stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: by which i mean aliens, i guess.",
+		"JOHN: no, we're humans.\
+",
 		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
+			0,
+			0,
+			0,
 		},
 		"\
-MEENAH: so like",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: youre dead aliens huh",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: whoever heard of an alien ghost",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i know, right? that's what i think sometimes.",
+		"JOHN: by which i mean aliens, i guess.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: it's strange combination of sci-fi things. like alien stuff is all about science, right? at least it is in movies. aliens LOVE science. but then ghosts have nothing to do with science, they belong to the supernatural realms, which have more to do with religion i guess? or about a lot of hocus pocus and superstition, maybe even magic. science rarely enters the equation, unless it's something awesome like ghost busters, which makes ghosts and stuff ALL ABOUT science, even though the ghost science is obviously a bunch of total nonsense. i guess contact mixes aliens and ghosts because jodie foster saw her ghost dad in outer space? but then, that was probably just a science projection from an alien, to make her feel less sad about her dead dad, and not a real ghost or anything. i guess the lesson is that science and aliens teach us that ghosts and religion are fake? although, it turns out ghosts and aliens are actually real, so maybe science and religion have been lying to us all along. *shrug*",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: nerd",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: um.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: yeah, sorry.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: so like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: so the girl",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: youre dead aliens huh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: she like your matesprit or whatever",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: whoever heard of an alien\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"ghost\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: what?",
+		"JOHN: i know, right? that's what i\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"think sometimes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ha, no, i don't even know her.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i kinda thought you knew who she was?",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: dont know who she is but i know W)(AT she is",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: shes done",
+		"JOHN: it's strange combination of\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: huh?",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: ever do any baking nerd",
+		"sci-fi things. like alien stuff is all\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"about science, right? at least it is\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"in movies. aliens LOVE science. but\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"then ghosts have nothing to do with\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"science, they belong to the\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"supernatural realms, which have more\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"to do with religion i guess? or about\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"a lot of hocus pocus and superstition,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"maybe even magic. science rarely\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"enters the equation, unless it's\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"something awesome like ghost busters,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"which makes ghosts and stuff ALL ABOUT\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"science, even though the ghost science\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"is obviously a bunch of total\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"nonsense. i guess contact mixes aliens\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"and ghosts because jodie foster saw\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"her ghost dad in outer space? but\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"then, that was probably just a science\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"projection from an alien, to make her\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"feel less sad about her dead dad, and\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"not a real ghost or anything. i guess\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the lesson is that science and aliens\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"teach us that ghosts and religion are\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"fake? although, it turns out ghosts\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"and aliens are actually real, so maybe\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"science and religion have been lying\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"to us all along. *shrug*\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yeah, a little...",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: nerd\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: then you know -EXACTLY what you do with somefin thats done",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: um.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yeah, sorry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: so the girl\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: you stick a fork in it",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: she like your matesprit or\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"whatever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ha, no, i don't even know her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i kinda thought you knew who she\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"was?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: dont know who she is but i\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"know W)(AT she is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: shes done\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: ever do any baking nerd\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yeah, a little...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: then you know -EXACTLY what\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"you do with somefin thats done\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: you stick a fork in it\
+",
 	},
 	next = {
 		4756,

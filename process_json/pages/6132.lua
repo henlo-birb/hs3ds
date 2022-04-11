@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It's obviously down here. Through one of these doors. Watch and learn buddy.",
+		"It's obviously down here. Through one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of these doors. Watch and learn buddy.\
+",
 	},
 	next = {
 		6133,

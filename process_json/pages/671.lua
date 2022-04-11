@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You just pick it up.",
+		"You just pick it up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are now holding the CAN OF GRAVY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are now holding the CAN OF GRAVY.\
+",
 	},
 	next = {
 		672,

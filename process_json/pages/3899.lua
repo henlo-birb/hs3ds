@@ -12,28 +12,71 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: but as im thinking of how to do it i put my hand on it",
+		"TG: but as im thinking of how to do it\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"i put my hand on it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and it just snaps off with this comical shattering noise",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: and it just snaps off with this\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"comical shattering noise\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like i just fucked up some priceless shit in the louvre",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: like i just fucked up some\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"priceless shit in the louvre\
+",
 	},
 	next = {
 		3900,

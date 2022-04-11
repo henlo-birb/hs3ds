@@ -13,15 +13,92 @@ return {
 			0,
 			0,
 		},
-		"You decide to cut to the chase and do something that will have indisputably cool results. ",
+		"You decide to cut to the chase and do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something that will have indisputably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cool results.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You go to one of the stairwell rooms and carefully observe the armor while you sketch it. You have secretly wondered whether your grandpa was actually Iron Man in his younger years. It would explain so many things, including why this armor is here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You go to one of the stairwell rooms\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and carefully observe the armor while\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you sketch it. You have secretly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wondered whether your grandpa was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"actually Iron Man in his younger\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"years. It would explain so many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things, including why this armor is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"here.\
+",
 	},
 	next = {
 		3151,

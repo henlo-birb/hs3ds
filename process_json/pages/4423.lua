@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You suppose you should let dad know you're ok. But it's been so long since you've enjoyed such a massive PRANKSTER'S GAMBIT in an exchange with the old man. It's hard not to bask in it, if only for a few seconds.",
+		"You suppose you should let dad know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you're ok. But it's been so long since\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you've enjoyed such a massive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PRANKSTER'S GAMBIT in an exchange with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the old man. It's hard not to bask in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it, if only for a few seconds.\
+",
 	},
 	next = {
 		4424,

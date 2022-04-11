@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You get started installing both discs. Might as well get a jump on it to avoid the sort of future drama that results from poor time management decisions.",
+		"You get started installing both discs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Might as well get a jump on it to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"avoid the sort of future drama that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"results from poor time management\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decisions.\
+",
 	},
 	next = {
 		1390,

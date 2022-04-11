@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"Yeah, there was pretty much no way there wasn't going to be a bunch of puppets in there.",
+		"Yeah, there was pretty much no way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there wasn't going to be a bunch of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"puppets in there.\
+",
 	},
 	next = {
 		611,

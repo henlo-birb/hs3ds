@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Got em already.",
+		"Got em already.\
+",
 	},
 	next = {
 		668,

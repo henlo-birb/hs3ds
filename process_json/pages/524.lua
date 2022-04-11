@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Looks like cards from your STRIFE DECK have codes too.",
+		"Looks like cards from your STRIFE DECK\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have codes too.\
+",
 	},
 	next = {
 		525,

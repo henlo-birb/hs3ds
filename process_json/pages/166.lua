@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You jump down to the UTILITY ROOM.",
+		"You jump down to the UTILITY ROOM.\
+",
 	},
 	next = {
 		167,

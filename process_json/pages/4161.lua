@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Yeah, this is a really shitty disguise.",
+		"Yeah, this is a really shitty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disguise.\
+",
 	},
 	next = {
 		4162,

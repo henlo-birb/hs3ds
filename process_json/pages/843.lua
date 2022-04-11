@@ -15,7 +15,36 @@ return {
 			0,
 			0,
 		},
-		"Try as you might, you can't stop your mind from drifting to the fate of your friends. You dwell on a particular configuration of REMINDERS on your finger.",
+		"Try as you might, you can't stop your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mind from drifting to the fate of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friends. You dwell on a particular\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"configuration of REMINDERS on your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"finger.\
+",
 	},
 	next = {
 		844,

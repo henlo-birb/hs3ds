@@ -12,7 +12,50 @@ return {
 			0,
 			0,
 		},
-		"In response, the dame gave you clearance to employ the service of DRONEGORG, the flagship battlemech of the imperial fleet she keeps stationed on some other damn planet. You're not sure where it is or what it's called. Hell if that's any of your business.",
+		"In response, the dame gave you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clearance to employ the service of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DRONEGORG, the flagship battlemech of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the imperial fleet she keeps stationed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on some other damn planet. You're not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure where it is or what it's called.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hell if that's any of your business.\
+",
 	},
 	next = {
 		4937,

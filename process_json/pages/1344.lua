@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Oh are you looking for this well come and get it you contemptuous she-witch.",
+		"Oh are you looking for this well come\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and get it you contemptuous she-witch.\
+",
 	},
 	next = {
 		1345,

@@ -12,28 +12,78 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Yes, that's it. Dump them all over the floor a8out ten feet away from me, just like that.",
+		"VRISKA: Yes, that's it. Dump them all\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"over the floor a8out ten feet away\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"from me, just like that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: The sloppier the pile and the further away from me the 8etter. Gr8 jo8, Tavros.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: The sloppier the pile and the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"further away from me the 8etter. Gr8\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"jo8, Tavros.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: tHANK YOU,",
+		"TAVROS: tHANK YOU,\
+",
 	},
 	next = {
 		5392,

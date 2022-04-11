@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You nudge the coordinates very slightly and bump up the elevation by 0.5 HUMAN MEASUREMENT UNITS. You make sure to keep the time approximately what it was to begin with.",
+		"You nudge the coordinates very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slightly and bump up the elevation by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"0.5 HUMAN MEASUREMENT UNITS. You make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure to keep the time approximately\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what it was to begin with.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You appearify your TRUSTY KNIFE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You appearify your TRUSTY KNIFE.\
+",
 	},
 	next = {
 		745,

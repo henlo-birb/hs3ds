@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You bust out a tank top, which is THE go-to solution for hard dudes who want to show off their guns. It is a very STRONG look, you think.",
+		"You bust out a tank top, which is THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"go-to solution for hard dudes who want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to show off their guns. It is a very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STRONG look, you think.\
+",
 	},
 	next = {
 		4526,

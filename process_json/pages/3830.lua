@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"I'm reasonably sure that if I was,",
+		"I'm reasonably sure that if I was,\
+",
 	},
 	next = {
 		3831,

@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You just got another BRILLIANT idea for something to do with those pointless arms. You pry them out of the CAKE and captchalogue them.",
+		"You just got another BRILLIANT idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for something to do with those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pointless arms. You pry them out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the CAKE and captchalogue them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like PESTERCHUM is acting up again.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like PESTERCHUM is acting up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again.\
+",
 	},
 	next = {
 		61,

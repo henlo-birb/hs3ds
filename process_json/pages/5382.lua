@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i SAW IT FIRST,",
+		"TAVROS: i SAW IT FIRST,\
+",
 	},
 	next = {
 		5383,

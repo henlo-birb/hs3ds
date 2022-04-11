@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: so i blew us all the fuck up",
+		"MEENAH: so i blew us all the fuck up\
+",
 	},
 	next = {
 		4998,

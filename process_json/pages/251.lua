@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"The KERNEL divides. The two halves go their separate ways, leaving behind the SPRITE portion.",
+		"The KERNEL divides. The two halves go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their separate ways, leaving behind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the SPRITE portion.\
+",
 	},
 	next = {
 		252,

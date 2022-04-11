@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This is completely terrifying.",
+		"This is completely terrifying.\
+",
 	},
 	next = {
 		3446,

@@ -12,518 +12,1611 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: Bro.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Bro.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: What are you doing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What are you doing.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: It seems you are zoning out again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: It seems you are zoning out again.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: What happened to all these actual\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"responsibilities you were going to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"take seriously?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What happened to all these actual responsibilities you were going to take seriously?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: I was thinking about what to do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I was thinking about what to do.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Strategizing. Factoring contingencies. You know how it is.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: It seems to me you were dwelling within your dream awareness at the expense of your waking business again.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: I don't think you're as awesome a multi-tasker as you like to think. You know you kind of zombie the fuck out on this side when you get all contemplative on that side.",
+		"TT: Strategizing. Factoring\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"contingencies. You know how it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Appearances are deceptive.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: It seems to me you were dwelling\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"within your dream awareness at the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"expense of your waking business again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I don't think you're as awesome a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"multi-tasker as you like to think. You\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"know you kind of zombie the fuck out\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"on this side when you get all\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"contemplative on that side.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I'm still in control here. Just doing this human thing we call \"chilling out for half a goddamn minute.\"",
+		"TT: Appearances are deceptive.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: I say y'all are overestimating your mind's capability to run shit in parallel.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: What do you think you are? A machine?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: No dude.",
+		"TT: I'm still in control here. Just\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I already deployed a variety of mechanical avatars dedicated to that self-aggrandizing fantasy.",
+		"doing this human thing we call\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: You have the incredible privilege of getting to be one of them.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: That's right. I am a machine, and therefore I can keep like billions of calculations or whatever all humming away at once.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: I tackle shit in background processes that you could only dream of wrapping your exquisite looking head around, even on a great hair day.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: You know pi?",
+		"\"chilling out for half a goddamn\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"minute.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What, you mean the number?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: I say y'all are overestimating\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"your mind's capability to run shit in\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"parallel.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yes, the number. The big circle number, genius.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: What do you think you are? A\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"machine?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I knew you meant the fucking number, my question was a joke.",
+		"TT: No dude.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: I know your question was a joke, my response was a joke.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Yeah, I know that. I'm practically you, dumbass. All these things we're saying are jokes, including this fuckin' useless clarification.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: What about pi?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Yeah, the thing is, I solved it.",
+		"TT: I already deployed a variety of\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: What do you mean you solved it?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: I mean that's what a hotshot I am. I fuckin' solved it.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Like, calculated it so much, I got to the end.",
+		"mechanical avatars dedicated to that\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Bullshit.",
+		"self-aggrandizing fantasy.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: You wish it was bullshit. The last number is 4. Read it and fucking weep.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: It's not 4 you jackass, it's fucking nothing. There is no end.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Said the smug organic matter with a lifespan.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Look, I know you're just fucking with me because for some reason I decided to program my own personal troll three years ago, but this shit was proven.",
+		"TT: You have the incredible privilege\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"of getting to be one of them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Actually demonstrated with unassailable mathematics, like a long ass time ago.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Well, I just assailed it. It wasn't even that hard.",
+		"TT: That's right. I am a machine, and\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Like I just kept hacking those digits so furiously with my sick 'rithms, the whole goddamn number just cried uncle.",
+		"therefore I can keep like billions of\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: I kind of wore it out, and it just gave up. Sort of like I overloaded the system.",
+		"calculations or whatever all humming\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"away at once.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You know like in the old movie when Ferris Bueller got the nuclear computer to play tic-tac-toe against itself so hard, it blew up?",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I tackle shit in background\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"processes that you could only dream of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"wrapping your exquisite looking head\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"around, even on a great hair day.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: You know pi?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: What, you mean the number?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: This is laughable. It's a totally elementary thing. I'm pretty sure an ancient Greek guy settled shit about irrational numbers. It was practically when math was invented.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Sure, it was settled, and then some roboshades came along and owned that fucker posthumously.",
+		"TT: Yes, the number. The big circle\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"number, genius.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I also figured out all the prime numbers too.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: I knew you meant the fucking\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"number, my question was a joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: No, not having this conversation.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Did it while we were talking just now. Got to the end.",
+		"TT: I know your question was a joke,\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"my response was a joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And you know what? The last one isn't even that big. Kinda dissapointed, to be honest.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: What is even a prime number?",
+		"TT: Yeah, I know that. I'm practically\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Are they the, like... really, really choice ones? The sweetest numbers?",
+		"you, dumbass. All these things we're\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"saying are jokes, including this\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"fuckin' useless clarification.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You lost me, supercomputer.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What about pi?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: Yeah, the thing is, I solved it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: This is what I'm saying. I put your ability to keep plates spinnin' on sticks to insane amounts of shame.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What do you mean you solved it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: I don't even sleep.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Neither do I.",
+		"TT: I mean that's what a hotshot I am.\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: I know that, that was the fucking joke.",
+		"I fuckin' solved it.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Holy shit, turns out joking was the basis for my response too.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Aren't these ironic \"you don't get the joke\" conversations we have always just so awesome? <- A joke.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Ha ha, nice one.",
+		"TT: Like, calculated it so much, I got\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"to the end.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Anyway, all I'm saying is you can leave some of the heavy lifting to me now and then.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I'll keep that in mind.",
+		"TT: Bullshit.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: In the meantime, I have to contact Jane and warn her Roxy might try to pull that pointless stunt.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: So, thanks for snapping me out of my daydream so I could do that, I guess?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Looks like you're pulling your weight already.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: You wish it was bullshit. The last\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"number is 4. Read it and fucking weep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: See? Maybe that was my whole point in having this conversation.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Your point was to fuck with me, like it usually is.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: My point was to point out you've got multi-self management issues, dude.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Jugglin' too many selves for being not-software.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: My point was also to fuck with you.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Also,",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: My point was to ask,",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TT: Are you really going to go through with it today?",
+		"TT: It's not 4 you jackass, it's\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"fucking nothing. There is no end.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: Said the smug organic matter with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"a lifespan.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: The Jake thing.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Oh god.",
+		"TT: Look, I know you're just fucking\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Will you just,",
+		"with me because for some reason I\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Hold on.",
+		"decided to program my own personal\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"troll three years ago, but this shit\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"was proven.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Let me deal with the Jane thing first.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Actually demonstrated with\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"unassailable mathematics, like a long\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ass time ago.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Well, I just assailed it. It\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"wasn't even that hard.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Like I just kept hacking those\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"digits so furiously with my sick\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"'rithms, the whole goddamn number just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"cried uncle.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I kind of wore it out, and it just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"gave up. Sort of like I overloaded the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"system.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: You know like in the old movie\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"when Ferris Bueller got the nuclear\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"computer to play tic-tac-toe against\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"itself so hard, it blew up?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: This is laughable. It's a totally\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"elementary thing. I'm pretty sure an\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ancient Greek guy settled shit about\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"irrational numbers. It was practically\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"when math was invented.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Sure, it was settled, and then\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"some roboshades came along and owned\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that fucker posthumously.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I also figured out all the prime\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"numbers too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: No, not having this conversation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Did it while we were talking just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"now. Got to the end.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: And you know what? The last one\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"isn't even that big. Kinda\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"dissapointed, to be honest.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What is even a prime number?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Are they the, like... really,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"really choice ones? The sweetest\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"numbers?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You lost me, supercomputer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: This is what I'm saying. I put\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"your ability to keep plates spinnin'\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"on sticks to insane amounts of shame.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I don't even sleep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Neither do I.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: I know that, that was the fucking\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Holy shit, turns out joking was\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the basis for my response too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Aren't these ironic \"you don't get\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the joke\" conversations we have always\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"just so awesome? <- A joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Ha ha, nice one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Anyway, all I'm saying is you can\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"leave some of the heavy lifting to me\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"now and then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'll keep that in mind.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: In the meantime, I have to contact\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Jane and warn her Roxy might try to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"pull that pointless stunt.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: So, thanks for snapping me out of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"my daydream so I could do that, I\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"guess?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Looks like you're pulling your\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"weight already.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: See? Maybe that was my whole point\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"in having this conversation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Your point was to fuck with me,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like it usually is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: My point was to point out you've\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"got multi-self management issues,\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"dude.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Jugglin' too many selves for being\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"not-software.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: My point was also to fuck with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Also,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: My point was to ask,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Are you really going to go through\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"with it today?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: The Jake thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Oh god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Will you just,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Hold on.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Let me deal with the Jane thing\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"first.\
+",
 	},
 	next = {
 		4554,

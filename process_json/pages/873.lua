@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"This looks like something of importance.",
+		"This looks like something of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"importance.\
+",
 	},
 	next = {
 		874,

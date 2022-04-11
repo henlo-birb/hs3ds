@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"THROUGH THE NEXT LENGTHY BARRAGE OF NOT IMPORTANT STUFF.",
+		"THROUGH THE NEXT LENGTHY BARRAGE OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NOT IMPORTANT STUFF.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I WILL BE USING LOTS OF FANCY SOFTWARE MONEY, TO CRAFT MY SWAN'S SONG. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-TUNE IN NEXT TIME ON HOMOSUCK. FOR THE THRILLING AND ARTISICALLY UNBELIEVABLE CONCLUSION. OF HOMOSUCK.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I WILL BE USING LOTS OF FANCY SOFTWARE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MONEY, TO CRAFT MY SWAN'S SONG.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TUNE IN NEXT TIME ON HOMOSUCK. FOR THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THRILLING AND ARTISICALLY UNBELIEVABLE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONCLUSION. OF HOMOSUCK.\
+",
 	},
 	next = {
 		6943,

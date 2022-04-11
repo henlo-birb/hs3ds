@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"HAPPY APRIL 13TH, 2009 EVERYBODY!!!!!!!!!!!!!",
+		"HAPPY APRIL 13TH, 2009\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVERYBODY!!!!!!!!!!!!!\
+",
 	},
 	next = {
 		3174,

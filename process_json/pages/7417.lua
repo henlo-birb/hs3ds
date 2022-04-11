@@ -14,7 +14,29 @@ return {
 			0,
 			0,
 		},
-		"THE CLASSIC HONK FRIEND. MY RABBIT PAL FOR LIFE. AND MY FLOPPY PUPPET BUDDY. I'M BOSSING THEM AROUND, BEING THE SHIT, AS ALWAYS. WHATEVER.",
+		"THE CLASSIC HONK FRIEND. MY RABBIT PAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR LIFE. AND MY FLOPPY PUPPET BUDDY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I'M BOSSING THEM AROUND, BEING THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHIT, AS ALWAYS. WHATEVER.\
+",
 	},
 	next = {
 		7418,

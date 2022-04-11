@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You finally found him. After hours of searching.",
+		"You finally found him. After hours of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"searching.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SWEEPS of searching.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SWEEPS of searching.\
+",
 	},
 	next = {
 		2628,

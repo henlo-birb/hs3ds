@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You conveniently return to your respiteblock so that we may study your variety of INTERESTS. ",
+		"You conveniently return to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respiteblock so that we may study your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"variety of INTERESTS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This was very considerate of you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This was very considerate of you.\
+",
 	},
 	next = {
 		2439,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It's chalk numbnuts.",
+		"It's chalk numbnuts.\
+",
 	},
 	next = {
 		691,

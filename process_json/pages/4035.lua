@@ -13,15 +13,64 @@ return {
 			0,
 			0,
 		},
-		"I refuse to acknowledge this foolish man's self indulgent rubbish. His frivolous charades have no place in this building, or anywhere in this reality.",
+		"I refuse to acknowledge this foolish\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"man's self indulgent rubbish. His\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frivolous charades have no place in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this building, or anywhere in this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reality.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Am I making myself understood, young lady?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Am I making myself understood, young\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lady?\
+",
 	},
 	next = {
 		4019,

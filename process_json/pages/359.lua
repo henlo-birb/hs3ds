@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You find this grisly abomination utterly detestable.",
+		"You find this grisly abomination\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"utterly detestable.\
+",
 	},
 	next = {
 		360,

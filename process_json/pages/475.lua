@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"Thank God your sanity has returned so you can entertain extremely rational, coherent thoughts like this one.",
+		"Thank God your sanity has returned so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you can entertain extremely rational,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coherent thoughts like this one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You examine the POGO RIDE from the bathroom window. You do not like what you see.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You examine the POGO RIDE from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bathroom window. You do not like what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you see.\
+",
 	},
 	next = {
 		476,

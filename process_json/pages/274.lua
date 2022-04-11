@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"Your LAPTOP BATTERY is alright for now, but it won't be for long.",
+		"Your LAPTOP BATTERY is alright for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now, but it won't be for long.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If the power in the house doesn't come back on, you can think of one last resort: the small BACKUP GENERATOR stored behind the MAUSOLEUM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If the power in the house doesn't come\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back on, you can think of one last\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"resort: the small BACKUP GENERATOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stored behind the MAUSOLEUM.\
+",
 	},
 	next = {
 		275,

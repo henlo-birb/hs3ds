@@ -12,41 +12,78 @@ return {
 			0,
 			0,
 		},
-		"It's uncanny. This little guy is matching ",
+		"It's uncanny. This little guy is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matching\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Fin",
+		"Fin\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s route every step of the way.",
+		"'s route every step of the way.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HE MUST KNOW SOMETHING.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE MUST KNOW SOMETHING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-\
-Fin",
+		"Fin\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" decides he's got to take him out.",
+		"decides he's got to take him out.\
+",
 	},
 	next = {
 		1249,

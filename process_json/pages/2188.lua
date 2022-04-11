@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"She really just had no idea what the hell was going on.",
+		"She really just had no idea what the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hell was going on.\
+",
 	},
 	next = {
 		2189,

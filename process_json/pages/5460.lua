@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Oh, right. It's your sister's computer, still stored in your shared sylladex. You never understood what a kid chained to her bedroom needed with a portable computer. It made you mad how stupid that was.",
+		"Oh, right. It's your sister's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computer, still stored in your shared\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sylladex. You never understood what a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kid chained to her bedroom needed with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a portable computer. It made you mad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"how stupid that was.\
+",
 	},
 	next = {
 		5461,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The giclops absconds.",
+		"The giclops absconds.\
+",
 	},
 	next = {
 		1471,

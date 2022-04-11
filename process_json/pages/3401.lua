@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You gulp down decadent foamy dollops of the BEARD BUSTER, and quickly respond with the BLUH callback as depicted jostling in the lower right hand corner of the image, because it is not nearly as tasty as you'd hoped.",
+		"You gulp down decadent foamy dollops\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the BEARD BUSTER, and quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respond with the BLUH callback as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"depicted jostling in the lower right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hand corner of the image, because it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is not nearly as tasty as you'd hoped.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But then you keep eating it anyway.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But then you keep eating it anyway.\
+",
 	},
 	next = {
 		3402,

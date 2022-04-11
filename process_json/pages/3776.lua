@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"She was right.",
+		"She was right.\
+",
 	},
 	next = {
 		3777,

@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: jane, don't be frightened...",
+		"CALLIOPE: jane, don't be frightened...\
+",
 	},
 	next = {
 		7199,

@@ -12,70 +12,176 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"AT: oKAY, tHEN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: oKAY, tHEN,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-AT: aLL OF YOUR USUAL INSULTING THINGS ASIDE, mY TAKE ON THIS IS,",
+		"AT: aLL OF YOUR USUAL INSULTING THINGS\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"ASIDE, mY TAKE ON THIS IS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: tHAT YOU CREATED OUR IMPOSSIBLY HARD BAD GUY, wHO WANTS TO KILL US,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-AT: aND BY ASSOCIATION, i GUESS THAT MAKES,",
+		"AT: tHAT YOU CREATED OUR IMPOSSIBLY\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"HARD BAD GUY, wHO WANTS TO KILL US,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: yOU THE BAD GUY TOO,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"AT: aND BY ASSOCIATION, i GUESS THAT\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"MAKES,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: iNSTEAD OF A GOOD GUY WHO'S JUST MEAN,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AT: yOU THE BAD GUY TOO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AT: iNSTEAD OF A GOOD GUY WHO'S JUST\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"MEAN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Nice deduction!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Nice deduction!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Wrong, excruci8tingly linear, and laced with the sort of a8solutes morons like to throw around........",
+		"AG: Wrong, excruci8tingly linear, and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"laced with the sort of a8solutes\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"morons like to throw around........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: 8ut nice!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8ut nice!\
+",
 	},
 	next = {
 		3066,

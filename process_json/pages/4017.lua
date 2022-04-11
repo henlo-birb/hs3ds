@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: I GAVE YOUR WHOLE UNIVERSE CANCER, JADE.",
+		"PCG: I GAVE YOUR WHOLE UNIVERSE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CANCER, JADE.\
+",
 	},
 	next = {
 		4018,

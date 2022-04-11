@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You pick the LAPTOP leaf from the tree.",
+		"You pick the LAPTOP leaf from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tree.\
+",
 	},
 	next = {
 		868,

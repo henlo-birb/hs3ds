@@ -12,31 +12,85 @@ return {
 			0,
 			0,
 		},
-		"WHOOPS.",
+		"WHOOPS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You guess an encounter with him is almost certain now.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But most likely not for a while. Time to see what someone else is up to.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You guess an encounter with him is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"almost certain now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, let's say... Dave.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But most likely not for a while. Time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to see what someone else is up to.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, let's say... Dave.\
+",
 	},
 	next = {
 		918,

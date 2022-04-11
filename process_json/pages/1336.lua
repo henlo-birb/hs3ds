@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You don't care what the consequences are. You're going to crack open this safe and be done with it.",
+		"You don't care what the consequences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are. You're going to crack open this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"safe and be done with it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This whole intermission was starting to get a little punchy anyway.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This whole intermission was starting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get a little punchy anyway.\
+",
 	},
 	next = {
 		1337,

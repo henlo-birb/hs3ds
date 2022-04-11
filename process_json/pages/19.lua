@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You use the HAMMER, NAILS, and POSTER on the blank space on the wall. ",
+		"You use the HAMMER, NAILS, and POSTER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on the blank space on the wall.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's glorious. Exactly what you wanted. The old man really came through this time.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's glorious. Exactly what you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wanted. The old man really came\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through this time.\
+",
 	},
 	next = {
 		20,

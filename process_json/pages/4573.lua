@@ -12,7 +12,71 @@ return {
 			0,
 			0,
 		},
-		"That absurd drubbing earned you another rung on your echeladder. One of the steeper prices you've had to pay for a bit of ladder climbing, but in the end you suppose it was all worth it to be able to bask in the glory and prestige of the PETER PANACHE rung. You guess? Who are you kidding, you don't have a clue what that even means.",
+		"That absurd drubbing earned you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another rung on your echeladder. One\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the steeper prices you've had to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pay for a bit of ladder climbing, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the end you suppose it was all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"worth it to be able to bask in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"glory and prestige of the PETER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PANACHE rung. You guess? Who are you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kidding, you don't have a clue what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that even means.\
+",
 	},
 	next = {
 		4574,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"And as usual, it sends you into a rage. The spilled milk quickly evaporates.",
+		"And as usual, it sends you into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rage. The spilled milk quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"evaporates.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Got to do something to calm yourself  down. Let off some steam.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Got to do something to calm yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down. Let off some steam.\
+",
 	},
 	next = {
 		2218,

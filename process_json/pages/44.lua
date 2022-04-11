@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You expend your final card on the MAGICIAN'S HAT.",
+		"You expend your final card on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAGICIAN'S HAT.\
+",
 	},
 	next = {
 		45,

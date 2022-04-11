@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: whos this guy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: whos this guy",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: The visitor I mentioned earlier.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: The visitor I mentioned earlier.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: He will be traveling with us too.",
+		"ROSE: He will be traveling with us\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"too.\
+",
 	},
 	next = {
 		4384,

@@ -13,23 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You wonder if you can just...",
+		"You wonder if you can just...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Just sort of reach over...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just sort of reach over...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And...\
+",
 	},
 	next = {
 		2024,

@@ -13,23 +13,64 @@ return {
 			0,
 			0,
 		},
-		"And there it goes. ",
+		"And there it goes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is RIDICULOUS what kind of air this thing is getting. Dude come get the ruler check this out.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Yeah, it's not coming back.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is RIDICULOUS what kind of air this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing is getting. Dude come get the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ruler check this out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yeah, it's not coming back.\
+",
 	},
 	next = {
 		1831,

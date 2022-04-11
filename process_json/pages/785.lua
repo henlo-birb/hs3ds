@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Modus fun aside, you feel it is impossible to have too many fresh fruits and vegetables on hand.",
+		"Modus fun aside, you feel it is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"impossible to have too many fresh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fruits and vegetables on hand.\
+",
 	},
 	next = {
 		786,

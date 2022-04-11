@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: NO! DON'T BLACK OuT. IT WAS JuST GETTING GOOD!",
+		"uu: NO! DON'T BLACK OuT. IT WAS JuST\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"GETTING GOOD!\
+",
 	},
 	next = {
 		5183,

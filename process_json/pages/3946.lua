@@ -12,315 +12,785 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: whats happening?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: whats happening?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: reckoning\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: reckoning",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: its getting close to the end",
+		"DAVESPRITE: its getting close to the\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"end\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: more meteors are getting by the portals",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: more meteors are getting\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"by the portals\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: the battlefield will probably be wiped out soon",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: the battlefield will\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"probably be wiped out soon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: can we do something to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"stop it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: can we do something to stop it?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: would there be a point\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: would there be a point",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: i dont know.....\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: i dont know.....",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: i like it here though\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: i like it here though",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: i felt like i was drawn to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"come here when i wasnt sure where to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"go\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: i felt like i was drawn to come here when i wasnt sure where to go",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: yeah me too\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: yeah me too",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: the meteors\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: the meteors",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: and all the fire...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: and all the fire...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: it reminds me of when i died",
+		"JADESPRITE: it reminds me of when i\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"died\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: and i was trying to wake john up",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: i was scared then too",
+		"JADESPRITE: and i was trying to wake\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"john up\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: but i didnt let the fear stop me from trying to save him",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JADESPRITE: i was scared then too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JADESPRITE: but i didnt let the fear\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"stop me from trying to save him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: what would you want to do\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: what would you want to do",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: if you werent scared\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: if you werent scared",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: i have no idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: i have no idea",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: i guess try to help\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: i guess try to help",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: what is there to do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: what is there to do?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: well",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: i was going to bring this\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"sword to dave\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: i was going to bring this sword to dave",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: oh noo\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: oh noo",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: does that mean youre going to leave?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: no",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: i was gonna say",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: im not in any shape for more adventuring",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: i figure this is probably my last stop",
+		"JADESPRITE: does that mean youre going\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"to leave?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: :(",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: no\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: but maybe this is a way you can help",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i was gonna say\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: im not in any shape for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"more adventuring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i figure this is probably\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"my last stop\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JADESPRITE: :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: you mean...",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: but maybe this is a way\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you can help\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: that i should give him the sword?",
+		"JADESPRITE: you mean...\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVESPRITE: if you want",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-JADESPRITE: but i dont want to leave you here either",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: maybe you dont have to actually go anywhere",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: you oughta have a lot of special powers remember",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: because of ascending to doghood",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: oh yeah!",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: try doing your spacey thing",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: i mean not to sound condescending or anything but its got to be like borderline omnipotence pretty much",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DAVESPRITE: just put your mind to it",
+		"JADESPRITE: that i should give him the\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"sword?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADESPRITE: alright, i will try.....",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: if you want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JADESPRITE: but i dont want to leave\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"you here either\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: maybe you dont have to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"actually go anywhere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: you oughta have a lot of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"special powers remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: because of ascending to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"doghood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JADESPRITE: oh yeah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: try doing your spacey\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i mean not to sound\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"condescending or anything but its got\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"to be like borderline omnipotence\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"pretty much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: just put your mind to it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JADESPRITE: alright, i will try.....\
+",
 	},
 	next = {
 		3947,

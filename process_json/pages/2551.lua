@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You cannot do it. You cannot kiss the girl.",
+		"You cannot do it. You cannot kiss the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"girl.\
+",
 	},
 	next = {
 		2552,

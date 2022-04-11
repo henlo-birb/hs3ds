@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"How can he be here already?",
+		"How can he be here already?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Why did I not see this coming?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Why did I not see this coming?\
+",
 	},
 	next = {
 		4793,

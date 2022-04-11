@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Here, stick this in your pipe and bleed to death slowly.",
+		"Here, stick this in your pipe and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bleed to death slowly.\
+",
 	},
 	next = {
 		1140,

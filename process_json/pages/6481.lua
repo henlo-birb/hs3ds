@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"YOU AND YOUR COMELY HAREM OF HOOCHIE MAMAS CUT TO THE FUCKING CHASE. YOU SIDLE UP TO THE ASSORTMENT OF GAME JUNK. WHICH IS RELEVANT TO MAKING THIS HAPPEN.",
+		"YOU AND YOUR COMELY HAREM OF HOOCHIE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAMAS CUT TO THE FUCKING CHASE. YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SIDLE UP TO THE ASSORTMENT OF GAME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JUNK. WHICH IS RELEVANT TO MAKING THIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAPPEN.\
+",
 	},
 	next = {
 		6482,

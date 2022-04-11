@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You like to make yourself comfy in your plushy pile before getting down to business with your computer.",
+		"You like to make yourself comfy in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your plushy pile before getting down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to business with your computer.\
+",
 	},
 	next = {
 		825,

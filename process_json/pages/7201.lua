@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Of course!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Of course!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: Oh my goodness, what a wonderful surprise!",
+		"JANE: Oh my goodness, what a wonderful\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"surprise!\
+",
 	},
 	next = {
 		7202,

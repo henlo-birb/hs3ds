@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"God damn it's hot in here.",
+		"God damn it's hot in here.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AC must be broken or something.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AC must be broken or something.\
+",
 	},
 	next = {
 		6130,

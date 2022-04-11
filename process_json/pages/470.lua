@@ -12,42 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: John, what are you doing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: John, what are you doing?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Snap out of it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Snap out of it.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: We ought to discuss what your grandmother told you, don't you think?",
+		"TT: We ought to discuss what your\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"grandmother told you, don't you think?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Fine. Enjoy your stupor.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Fine. Enjoy your stupor.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'll go about my business elsewhere.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I'll go about my business\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"elsewhere.\
+",
 	},
 	next = {
 		471,

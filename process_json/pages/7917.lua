@@ -12,721 +12,2262 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: damn\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: damn",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: and i thought our houses were pointlessly tall before",
+		"DAVE: and i thought our houses were\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"pointlessly tall before\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: it just doesnt stop from keep constantly getting more and more vertically enormous",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it just doesnt stop from keep\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"constantly getting more and more\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"vertically enormous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Shit is downright precipitous at this point.",
+		"DIRK: Shit is downright precipitous at\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Like, upways.",
+		"this point.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: haha yeah",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: we made sure as fuck not to come right out and literally describe that building as tall",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Like, upways.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Hell yes.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: haha yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we made sure as fuck not to come\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"right out and literally describe that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"building as tall\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Hell yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Who needs small and serviceable adjectives when the most ass-backwards way of saying a thing is right there, tantalizingly hidden within the vast ocean of language.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Like a treasure in a huge shitty clam.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: we are way on the same page philosophically here",
+		"DIRK: Who needs small and serviceable\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Who is surprised by this?",
+		"adjectives when the most ass-backwards\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Zero people, is who.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: sounds like a club for losers to me",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: theyre lucky they dont have any members, otherwise theyd all be lame as hell",
+		"way of saying a thing is right there,\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Yeah.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: so uh",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: why do the houses need to be so tall again",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i never actually understood that",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: except to reach the gates but once we all figured out how to fly and shit that became so pointless",
+		"tantalizingly hidden within the vast\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"ocean of language.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Yeah. After a while in the game, building kind of stopped mattering.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Except near the end. Getting them to the top is just a point of completion.",
+		"DIRK: Like a treasure in a huge shitty\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"clam.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Then you dump the grist rig on top of it, apparently.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we are way on the same page\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"philosophically here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: That lets the thing spray out all the grist from the hoard in the planet's core, kind of like a huge oil derrick I guess.",
+		"DIRK: Who is surprised by this?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: oh",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: how do you know this",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: do you guys have like a manual or",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Zero people, is who.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: I'm in communication with Arquiusprite.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: sounds like a club for losers to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"me\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: theyre lucky they dont have any\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"members, otherwise theyd all be lame\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"as hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: He's working on it now.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: so uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: so youre in communication with him like...",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: why do the houses need to be so\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"tall again\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: RIGHT now?",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i never actually understood that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: except to reach the gates but\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"once we all figured out how to fly and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"shit that became so pointless\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Yes.",
+		"DIRK: Yeah. After a while in the game,\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"building kind of stopped mattering.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Via my shades.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Which he incidentally used to be.",
+		"DIRK: Except near the end. Getting\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Like, as a computer, which he lived inside as my Auto-Responder.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: right",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: and",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: uh",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: why... did you make that thing again",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: not that you ever told me before",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: 'again' is just like a stammering tack-on to that sentence so as to try and not sound too fucking rude",
+		"them to the top is just a point of\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"completion.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: I don't think it's a rude question. It's perfectly fair to wonder what was going through my head when I made him.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I've spent a lot of time wondering about that myself.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: so you just",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: straight up programmed a copy of your brain",
+		"DIRK: Then you dump the grist rig on\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"top of it, apparently.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: There was some programming involved, but also a bit of cheating, through the mapping of a captchalogued ghost-imprint of my brain.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I guess part of it was just about trying to understand myself.",
+		"DIRK: That lets the thing spray out\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: But I don't think I would have put it that way at the time. For a while I insisted he was meant to be a \"debate partner\" or some horseshit.",
+		"all the grist from the hoard in the\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I was pretty young, and had some stupid ideas.",
+		"planet's core, kind of like a huge oil\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"derrick I guess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: About irony in particular. But also a lot of mostly faux-intellectual thoughts on a wide variety of topics.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: oh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: how do you know this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: do you guys have like a manual\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Like philosophy, consciousness, programming, identity, history, ancient pop-culture... really it ran the full gamut of pretension.",
+		"DIRK: I'm in communication with\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Not that I don't still find that stuff interesting. I'd just like to think I'm somewhat less full of shit about it all now.",
+		"Arquiusprite.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: yeah me too",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i mean, about my interests and stuff",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: He's working on it now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Creating him was an interesting exercise I guess, but over the years I came to see his development as one of my biggest mistakes.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so youre in communication with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"him like...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: RIGHT now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: He sort of turned into a monster. But I could never bring myself to get rid of him, or even really blame him for being an asshole, because he wasn't actually that different from me.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Via my shades.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Like, by definition.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: He seems alright as Arquius though. At least it keeps him busy, obsessing over his muscles, asking for milk and shit like that.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: hmm",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i guess i started some projects i regretted",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but nothin like making a milk weirdo eventually exist",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: it sounds fucked up but is also kind of an awesome story in its own way",
+		"DIRK: Which he incidentally used to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I guess so.",
+		"be.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: maybe im lucky i was never that good with computers",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: now computer ART thats a different story",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: ok it actually isnt i fuckin suck at that too",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but dammit i try my best and make some magic happen at least in my own mind so maybe thats good enough",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: It certainly worked out for you in my universe.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: yeah",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i mean",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i DID captchalogue my own ghost brain once but i didnt know what to make of that and thought it was kinda weird so that never really went anywhere",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: probably for the best",
+		"DIRK: Like, as a computer, which he\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"lived inside as my Auto-Responder.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: It definitely is.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: why... did you make that thing\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"again\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: not that you ever told me before\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: 'again' is just like a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"stammering tack-on to that sentence so\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"as to try and not sound too fucking\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"rude\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Tinkering with your own mind, or identity or whatever... it's a dark road to go down.",
+		"DIRK: I don't think it's a rude\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: There are enough splinters of everyone running around out there as it is, just as a natural byproduct of our reality. For me in particular. Probably for you too, as a time player.",
+		"question. It's perfectly fair to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: That process doesn't need to be encouraged or fucked with.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: for real",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: my bro did cool things with computers too",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i mean nothin like making a clone of his brain or anything thank god",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: just some absurd bullshit with web bots and stuff mostly to help prop up his various \"enterprises\"",
+		"wonder what was going through my head\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: You mean the porn stuff?",
+		"when I made him.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: yeah",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but with puppets of course",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: it was always about the puppets",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Naturally.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: he made all these porn bots that would just talk to each other in a chatroom endlessly",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: all like gettin each other riled up about squishy bottoms and whatnot",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: actually it was pretty entertaining to watch them go at it for hours",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i think they may have been teetering on the threshold of SOMETHING resembling self awareness?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: except they only seemed to apply that faculty to reach even more heightened states of sexual excitement for a bunch of nude soft puppets",
+		"DIRK: I've spent a lot of time\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"wondering about that myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: That sounds...",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so you just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: straight up programmed a copy of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"your brain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Oddly rewarding.",
+		"DIRK: There was some programming\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I mean, not to say he wasn't still a douche.",
+		"involved, but also a bit of cheating,\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: But as a pastime, cultivating a group of earnest, erotic puppet-loving chatbots sounds so much more relaxing than painstakingly constructing a version of your own brain, and then arguing with it for years thereafter.",
+		"through the mapping of a captchalogued\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"ghost-imprint of my brain.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Almost like tending to a little flock of pigeons.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I guess part of it was just\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"about trying to understand myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: But I don't think I would have\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"put it that way at the time. For a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"while I insisted he was meant to be a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\"debate partner\" or some horseshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I was pretty young, and had some\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"stupid ideas.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: About irony in particular. But\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"also a lot of mostly faux-intellectual\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"thoughts on a wide variety of topics.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Like philosophy, consciousness,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"programming, identity, history,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ancient pop-culture... really it ran\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the full gamut of pretension.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Not that I don't still find that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"stuff interesting. I'd just like to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"think I'm somewhat less full of shit\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"about it all now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: yeah me too\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: yeah you know he did some cool things",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: it wasnt necessarily all inherently terrible",
+		"DAVE: i mean, about my interests and\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: things i would really appreciate under better circumstances",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Creating him was an interesting\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"exercise I guess, but over the years I\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"came to see his development as one of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"my biggest mistakes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: He sort of turned into a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"monster. But I could never bring\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"myself to get rid of him, or even\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"really blame him for being an asshole,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"because he wasn't actually that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"different from me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Like, by definition.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: He seems alright as Arquius\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"though. At least it keeps him busy,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"obsessing over his muscles, asking for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"milk and shit like that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: hmm\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: he definitely had a lot of drive and also some uh \"ideas\" that warranted a certain amount of respect i guess",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: he just",
+		"DAVE: i guess i started some projects\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"i regretted\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: maybe should not have been allowed near a child?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: but nothin like making a milk\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"weirdo eventually exist\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: sall im sayin",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it sounds fucked up but is also\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"kind of an awesome story in its own\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I guess so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: maybe im lucky i was never that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"good with computers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: now computer ART thats a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"different story\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: ok it actually isnt i fuckin\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"suck at that too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but dammit i try my best and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"make some magic happen at least in my\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"own mind so maybe thats good enough\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: It certainly worked out for you\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"in my universe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i DID captchalogue my own ghost\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"brain once but i didnt know what to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"make of that and thought it was kinda\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"weird so that never really went\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"anywhere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: probably for the best\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: It definitely is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Tinkering with your own mind, or\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"identity or whatever... it's a dark\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"road to go down.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: There are enough splinters of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"everyone running around out there as\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"it is, just as a natural byproduct of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"our reality. For me in particular.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Probably for you too, as a time\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"player.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: That process doesn't need to be\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"encouraged or fucked with.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: for real\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: my bro did cool things with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"computers too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i mean nothin like making a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"clone of his brain or anything thank\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"god\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: just some absurd bullshit with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"web bots and stuff mostly to help prop\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"up his various \"enterprises\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: You mean the porn stuff?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but with puppets of course\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it was always about the puppets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Naturally.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he made all these porn bots that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"would just talk to each other in a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"chatroom endlessly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: all like gettin each other riled\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"up about squishy bottoms and whatnot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: actually it was pretty\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"entertaining to watch them go at it\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"for hours\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i think they may have been\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"teetering on the threshold of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"SOMETHING resembling self awareness?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: except they only seemed to apply\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that faculty to reach even more\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"heightened states of sexual excitement\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"for a bunch of nude soft puppets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: That sounds...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Oddly rewarding.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I mean, not to say he wasn't\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"still a douche.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: But as a pastime, cultivating a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"group of earnest, erotic puppet-loving\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"chatbots sounds so much more relaxing\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"than painstakingly constructing a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"version of your own brain, and then\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"arguing with it for years thereafter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Almost like tending to a little\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"flock of pigeons.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah you know he did some cool\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it wasnt necessarily all\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"inherently terrible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: things i would really appreciate\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"under better circumstances\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he definitely had a lot of drive\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and also some uh \"ideas\" that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"warranted a certain amount of respect\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"i guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: maybe should not have been\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"allowed near a child?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: sall im sayin\
+",
 	},
 	next = {
 		7918,

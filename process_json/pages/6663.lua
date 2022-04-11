@@ -12,26 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"(Mumble mumble hag mumble suck it grumble.)",
+		"(Mumble mumble hag mumble suck it\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"grumble.)\
+",
 	},
 	next = {
 		6664,

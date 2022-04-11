@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Just one ==> command will suffice. Thanks.",
+		"Just one ==> command will suffice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thanks.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like you're not the only one trying to locate your father after the disaster.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like you're not the only one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trying to locate your father after the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disaster.\
+",
 	},
 	next = {
 		268,

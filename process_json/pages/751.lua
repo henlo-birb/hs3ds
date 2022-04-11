@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"You and SERENITY consider new ways to waste more time with the APPEARIFIER. You are assuming she is a girl firefly even though you are not really sure that fireflies can even be girls.",
+		"You and SERENITY consider new ways to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"waste more time with the APPEARIFIER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are assuming she is a girl firefly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even though you are not really sure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that fireflies can even be girls.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You target the extremely tasty ROTTEN PUMPKIN that was sitting in the other room hours ago.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You target the extremely tasty ROTTEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PUMPKIN that was sitting in the other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"room hours ago.\
+",
 	},
 	next = {
 		752,

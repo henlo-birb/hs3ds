@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Check.",
+		"Check.\
+",
 	},
 	next = {
 		1963,

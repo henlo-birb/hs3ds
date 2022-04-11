@@ -15,7 +15,15 @@ return {
 			0,
 			0,
 		},
-		"A boy finds a dead friend. Her ring, recovered.",
+		"A boy finds a dead friend. Her ring,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recovered.\
+",
 	},
 	next = {
 		1947,

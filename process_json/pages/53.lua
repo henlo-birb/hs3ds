@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"You clumsily mishandle the SACRED URN. Ash is everywhere.",
+		"You clumsily mishandle the SACRED URN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ash is everywhere.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In retrospect, upon mulling cinematic tropes regarding ash-filled urns, this outcome was a virtual certainty.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'd probably better clean it up before DAD finds it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In retrospect, upon mulling cinematic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tropes regarding ash-filled urns, this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outcome was a virtual certainty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd probably better clean it up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before DAD finds it.\
+",
 	},
 	next = {
 		54,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It seems someone has recently untied a boat.",
+		"It seems someone has recently untied a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"boat.\
+",
 	},
 	next = {
 		1499,

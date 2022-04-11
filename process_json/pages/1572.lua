@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"DAMMIT!",
+		"DAMMIT!\
+",
 	},
 	next = {
 		1573,

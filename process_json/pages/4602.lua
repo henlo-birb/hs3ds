@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Why did you have to clone so many cats? Why did they all have to breed so much?",
+		"Why did you have to clone so many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cats? Why did they all have to breed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so much?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Why do they all have to be so friendly???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Why do they all have to be so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friendly???\
+",
 	},
 	next = {
 		4603,

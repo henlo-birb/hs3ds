@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You get the KNITTING BAG. It occupies the LEFT LEAF CARD under the VIOLIN, per the TREE MODUS'S alphabetical sorting method.",
+		"You get the KNITTING BAG. It occupies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the LEFT LEAF CARD under the VIOLIN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"per the TREE MODUS'S alphabetical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sorting method.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-K < V.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"K < V.\
+",
 	},
 	next = {
 		225,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Hang on. You remember seeing some pointy things just outside the window. ",
+		"Hang on. You remember seeing some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pointy things just outside the window.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Luckily both kingdoms are totally covered in pointy things. Can't swing a dead cat without impaling it on one.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Luckily both kingdoms are totally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"covered in pointy things. Can't swing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a dead cat without impaling it on one.\
+",
 	},
 	next = {
 		4889,

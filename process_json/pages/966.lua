@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"First thing you do is flush the extra cards into your deck. ",
+		"First thing you do is flush the extra\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cards into your deck.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok really this is just way too many cards.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok really this is just way too many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cards.\
+",
 	},
 	next = {
 		967,

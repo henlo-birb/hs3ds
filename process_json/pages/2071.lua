@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"In fact, we are in such a hurry, you could almost say we need to get moving...",
+		"In fact, we are in such a hurry, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"could almost say we need to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"moving...\
+",
 	},
 	next = {
 		2072,

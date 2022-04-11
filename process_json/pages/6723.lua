@@ -12,26 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"You leave me with no alternative.",
+		"You leave me with no alternative.\
+",
 	},
 	next = {
 		6724,

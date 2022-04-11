@@ -12,224 +12,757 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: what else do yoU remember, jane?",
+		"CALLIOPE: what else do yoU remember,\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: the more yoU tell Us, the closer we may come to jogging yoUr and jade's memory of how yoU died.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: not to mention, the closer we will get to completing this lovely illUstrated story. :u",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: Hrm.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: My recollection continues to be so darn hazy.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: Is there anything from my session that you can remember, Callie?",
+		"CALLIOPE: the more yoU tell Us, the\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: UnfortUnately from my perspective, most of it was blacked oUt.",
+		"closer we may come to jogging yoUr and\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"jade's memory of how yoU died.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: everything else i know, i have learned from ancient joUrnals, whose veracity i have come to regard as...",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: tenUoUs.",
+		"CALLIOPE: not to mention, the closer\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: yoU two are the only primary soUrces i have left to reconstrUct the tale. if only yoU can keep jogging yoUr memories!",
+		"we will get to completing this lovely\
+",
 		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"illUstrated story. :u\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JANE: I see.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: Well, I do recall quite a bit more from our stint as tricksters.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: For some reason all those memories are still quite vivid.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Hrm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I suppose I could recount more of that drunken tomfoolery and extend our trickster chapter.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: My recollection continues to be\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"so darn hazy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Is there anything from my\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"session that you can remember, Callie?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: oh, yes!!! i woUld absolUtely adore hearing more aboUt yoUr trickster adventUres.",
+		"CALLIOPE: UnfortUnately from my\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: it pleases me to no end hearing that yoU experienced sUch joyfUl escapades as a resUlt of the birthday present i gave yoU! :U",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: Um. Yes!",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: Joyful.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: That's what they were. So joyful.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: What a present! You are a true sweetheart, Callie.",
+		"perspective, most of it was blacked\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"oUt.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: ^u^",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: everything else i know, i\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"have learned from ancient joUrnals,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"whose veracity i have come to regard\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"as...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: tenUoUs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: yoU two are the only primary\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"soUrces i have left to reconstrUct the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"tale. if only yoU can keep jogging\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"yoUr memories!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: I see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: So, where was I?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: Ah yes. Dirk had just acquiesced to the siren's song of the trickster.",
+		"JANE: Well, I do recall quite a bit\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"more from our stint as tricksters.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: When all the rainbow magic and sparkle dust had subsided, there he stood, as stoic and rigid as ever.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: He was like a plank of wood in orange trousers and suspenders. A bronze statue in a silly pair of wrist warmers. A stone-faced automaton with a shock of vermilion hair, in which comfortably nestled what appeared to be an orange soft drink.",
+		"JANE: For some reason all those\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"memories are still quite vivid.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: The juju's potent spell seemed only to strengthen his resolve in betraying no emotion whatsoever.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: But would his curmudgeonly facade prove a deterrent to Roxy's lascivious wiles? Methinks not!",
+		"JANE: I suppose I could recount more\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: She advanced upon him with her magic ring, seeking his hand in quadruple betrothal.",
+		"of that drunken tomfoolery and extend\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"our trickster chapter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Her lips puckered and quivered, like an amorous cephalopod skulking the briny ocean depths for a handsome mate.",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: oh, yes!!! i woUld\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"absolUtely adore hearing more aboUt\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"yoUr trickster adventUres.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: it pleases me to no end\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"hearing that yoU experienced sUch\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"joyfUl escapades as a resUlt of the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"birthday present i gave yoU! :U\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Um. Yes!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Joyful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: That's what they were. So\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"joyful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: What a present! You are a true\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"sweetheart, Callie.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: ^u^\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: So, where was I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Ah yes. Dirk had just acquiesced\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"to the siren's song of the trickster.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: When all the rainbow magic and\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"sparkle dust had subsided, there he\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"stood, as stoic and rigid as ever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: He was like a plank of wood in\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"orange trousers and suspenders. A\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"bronze statue in a silly pair of wrist\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"warmers. A stone-faced automaton with\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"a shock of vermilion hair, in which\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"comfortably nestled what appeared to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"be an orange soft drink.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: The juju's potent spell seemed\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"only to strengthen his resolve in\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"betraying no emotion whatsoever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: But would his curmudgeonly\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"facade prove a deterrent to Roxy's\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"lascivious wiles? Methinks not!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: She advanced upon him with her\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"magic ring, seeking his hand in\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"quadruple betrothal.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Her lips puckered and quivered,\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"like an amorous cephalopod skulking\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"the briny ocean depths for a handsome\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"mate.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: guys i think weve heard enough\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"about the trickster stuff :|\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: guys i think weve heard enough about the trickster stuff :|",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: (shoot!)",
+		"CALLIOPE: (shoot!)\
+",
 	},
 	next = {
 		7266,

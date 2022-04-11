@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"It is your RECUPERACOON full of nourishing SOPOR SLIME. Every young troll enjoys the cozy embrace of such a vessel each night, and the relaxing ooze helps assuage the terrible visions of blood and carnage that plague the dark subconscious of your species.",
+		"It is your RECUPERACOON full of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nourishing SOPOR SLIME. Every young\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troll enjoys the cozy embrace of such\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a vessel each night, and the relaxing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ooze helps assuage the terrible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"visions of blood and carnage that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plague the dark subconscious of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"species.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is so inviting... a few minutes couldn't hurt.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is so inviting... a few minutes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"couldn't hurt.\
+",
 	},
 	next = {
 		1996,

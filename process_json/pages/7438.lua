@@ -14,15 +14,85 @@ return {
 			0,
 			0,
 		},
-		"AND SEES HIS CHANCE TO DO AWAY WITH ME FOR GOOD. HE KNOWS BY NOW THAT HE CAN'T KILL ME. BUT CAN DO HIS NEXT BEST THING. WHICH IS TO BANISH MY SOUL. ",
+		"AND SEES HIS CHANCE TO DO AWAY WITH ME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR GOOD. HE KNOWS BY NOW THAT HE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAN'T KILL ME. BUT CAN DO HIS NEXT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEST THING. WHICH IS TO BANISH MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOUL.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HE'S HURT BAD AND IS SLOW TO USE HIS PINK SOUL KILLING SPELL. THIS GIVES ME TIME TO REBOUND FROM MY SHAMEFUL ASS WHOOPING TOO. AND PULL MY SORRY BUTT OUT OF THE OWN ZONE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE'S HURT BAD AND IS SLOW TO USE HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PINK SOUL KILLING SPELL. THIS GIVES ME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TIME TO REBOUND FROM MY SHAMEFUL ASS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHOOPING TOO. AND PULL MY SORRY BUTT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OUT OF THE OWN ZONE.\
+",
 	},
 	next = {
 		7439,

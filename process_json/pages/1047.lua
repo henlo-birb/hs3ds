@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You decide to check on your neighbor.",
+		"You decide to check on your neighbor.\
+",
 	},
 	next = {
 		1048,

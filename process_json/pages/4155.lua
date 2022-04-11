@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Speak of the devilfucking dickens.",
+		"Speak of the devilfucking dickens.\
+",
 	},
 	next = {
 		4156,

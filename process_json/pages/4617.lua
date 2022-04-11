@@ -15,7 +15,15 @@ return {
 			0,
 			0,
 		},
-		"And that was pretty much how all that happened.",
+		"And that was pretty much how all that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happened.\
+",
 	},
 	next = {
 		4618,

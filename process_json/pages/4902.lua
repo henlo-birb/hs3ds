@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Your clumsy fist accidentally flies through the bars, knocking out a passer-by. Keys from his key ring jangle on the floor.",
+		"Your clumsy fist accidentally flies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the bars, knocking out a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"passer-by. Keys from his key ring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jangle on the floor.\
+",
 	},
 	next = {
 		4903,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You make your first decision as the new Prospitian Monarch.",
+		"You make your first decision as the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new Prospitian Monarch.\
+",
 	},
 	next = {
 		3019,

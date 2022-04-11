@@ -12,13 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext3.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext3.gif\"/>\
+",
 	},
 	next = {
 		6397,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And soon, in a place known as the LAND OF CAVES AND SILENCE...",
+		"And soon, in a place known as the LAND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF CAVES AND SILENCE...\
+",
 	},
 	next = {
 		2278,

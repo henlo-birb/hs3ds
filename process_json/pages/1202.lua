@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Suddenly you get coldcocked in the face from the future.",
+		"Suddenly you get coldcocked in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face from the future.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'd know the knuckles belonging to that suckerpunch anywhere.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd know the knuckles belonging to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that suckerpunch anywhere.\
+",
 	},
 	next = {
 		1203,

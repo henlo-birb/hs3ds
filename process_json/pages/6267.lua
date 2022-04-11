@@ -12,7 +12,71 @@ return {
 			0,
 			0,
 		},
-		"HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA Ha ha ha ha ha ha ha ha ha ha ha. oh. whoops.",
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA Ha ha ha ha ha\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ha ha ha ha ha ha. oh. whoops.\
+",
 	},
 	next = {
 		6268,

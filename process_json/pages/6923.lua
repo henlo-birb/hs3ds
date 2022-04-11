@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"AND BEAR IN MIND THAT ONE TIME, MY LEG WAS BITTEN OFF. AND I TRAGICALLY LOST A SISTER TO MURDER.",
+		"AND BEAR IN MIND THAT ONE TIME, MY LEG\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WAS BITTEN OFF. AND I TRAGICALLY LOST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A SISTER TO MURDER.\
+",
 	},
 	next = {
 		6924,

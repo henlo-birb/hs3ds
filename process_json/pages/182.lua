@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"A SHARD OF GLASS is expelled from the deck and maims the HARLEQUIN DOLL.",
+		"A SHARD OF GLASS is expelled from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deck and maims the HARLEQUIN DOLL.\
+",
 	},
 	next = {
 		183,

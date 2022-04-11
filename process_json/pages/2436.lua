@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"That should keep her quiet for a while.",
+		"That should keep her quiet for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-At least until she dies.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"At least until she dies.\
+",
 	},
 	next = {
 		2437,

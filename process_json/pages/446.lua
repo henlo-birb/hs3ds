@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You barge in and see a familiar face. A friendly face.",
+		"You barge in and see a familiar face.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A friendly face.\
+",
 	},
 	next = {
 		447,

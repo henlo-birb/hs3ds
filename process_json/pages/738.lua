@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You appearify a PUMPKIN.",
+		"You appearify a PUMPKIN.\
+",
 	},
 	next = {
 		739,

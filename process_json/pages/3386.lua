@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Oh no! Rufio has just been murdered through the chest by his cruel nemesis, Captain Hook! His newfound father figure and Man-Skylark watches in horror!!!",
+		"Oh no! Rufio has just been murdered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the chest by his cruel\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nemesis, Captain Hook! His newfound\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"father figure and Man-Skylark watches\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in horror!!!\
+",
 	},
 	next = {
 		3387,

@@ -12,42 +12,99 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-AT: sO, i DID THE LIBERTY OF COMMUNING WITH YOUR LUSUS,",
+		"AT: sO, i DID THE LIBERTY OF COMMUNING\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"WITH YOUR LUSUS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: wHICH i HOPE WASN'T OUT OF LINE,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"AT: wHICH i HOPE WASN'T OUT OF LINE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: bUT LIKE i SAID, yOU WERE UNAVAILABLE,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-AT: uHHH,",
+		"AT: bUT LIKE i SAID, yOU WERE\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"UNAVAILABLE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AT: bY WHICH i MEAN, uNAVAILABLY SMALL,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AT: uHHH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AT: bY WHICH i MEAN, uNAVAILABLY\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"SMALL,\
+",
 	},
 	next = {
 		3053,

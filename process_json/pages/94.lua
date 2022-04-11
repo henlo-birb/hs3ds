@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Nothing happens.",
+		"Nothing happens.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What a huge letdown.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What a huge letdown.\
+",
 	},
 	next = {
 		95,

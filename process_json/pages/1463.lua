@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Sons of bitches are harder to kill than you thought they'd be.",
+		"Sons of bitches are harder to kill\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than you thought they'd be.\
+",
 	},
 	next = {
 		1464,

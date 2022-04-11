@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"It's not up to you to say what card it goes on! The modus decides! All you get to do is draw.",
+		"It's not up to you to say what card it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"goes on! The modus decides! All you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get to do is draw.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway you try sketching your ECLECTIC BASS. It's kind of hard to draw accurately.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway you try sketching your ECLECTIC\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BASS. It's kind of hard to draw\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"accurately.\
+",
 	},
 	next = {
 		1385,

@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"Why yes, as a matter of fact. It does appear that the ROGUE OF HEART has been keeping herself quite busy.",
+		"Why yes, as a matter of fact. It does\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appear that the ROGUE OF HEART has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been keeping herself quite busy.\
+",
 	},
 	next = {
 		2533,

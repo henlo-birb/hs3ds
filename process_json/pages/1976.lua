@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"A key is employed.",
+		"A key is employed.\
+",
 	},
 	next = {
 		1977,

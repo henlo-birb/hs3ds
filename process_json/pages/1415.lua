@@ -15,7 +15,29 @@ return {
 			0,
 			0,
 		},
-		"Suddenly a powerful aroma hits your nonexistent nostrils. Someone is cooking something delicious. It demands investigation.",
+		"Suddenly a powerful aroma hits your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonexistent nostrils. Someone is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cooking something delicious. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"demands investigation.\
+",
 	},
 	next = {
 		1416,

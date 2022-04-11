@@ -12,266 +12,946 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: You don't say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: You don't say.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Its true. I havent seen him in a couple days.",
+		"GT: Its true. I havent seen him in a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"couple days.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I have been laying low for a while but i just received another series of pushy inquiries from him.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Maybe i shouldnt be too hard on the guy since he was probably just concerned, not having heard from me and all.",
+		"GT: I have been laying low for a while\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: But i still couldnt help but detect a tone of desperation, like he could sense i may be having doubts.",
+		"but i just received another series of\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"pushy inquiries from him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: This kind of thing has been all too common unfortunately.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Maybe i shouldnt be too hard on\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the guy since he was probably just\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"concerned, not having heard from me\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"and all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Im not sure its going to work anymore.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But i still couldnt help but\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"detect a tone of desperation, like he\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"could sense i may be having doubts.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: This kind of thing has been all\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"too common unfortunately.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Im not sure its going to work\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Mm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Mm.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: He can be so needy!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: He can be so needy!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: If only he could just relax and trust that i wont spontaneously tire of his company.",
+		"GT: If only he could just relax and\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Although the irony i guess is that his overbearing tendencies are beginning to fulfill his own paranoid prophecy.",
+		"trust that i wont spontaneously tire\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"of his company.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its such a shame. Weve had so many capital adventures together.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know why he has to be like this. He always was an intense fella. But in person... holy cow.",
+		"GT: Although the irony i guess is that\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I wonder if it has to do with the fact that he grew up alone in the middle of the ocean? And now he doesnt know how to deal with people without suffocating them?",
+		"his overbearing tendencies are\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"beginning to fulfill his own paranoid\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"prophecy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: But then again i grew up under similar circumstances and i think i turned out pretty much ok socially, at least i hope so. Do you think so jane?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Its such a shame. Weve had so many\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"capital adventures together.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont know why he has to be like\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"this. He always was an intense fella.\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"But in person... holy cow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I wonder if it has to do with the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"fact that he grew up alone in the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"middle of the ocean? And now he doesnt\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"know how to deal with people without\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"suffocating them?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But then again i grew up under\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"similar circumstances and i think i\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"turned out pretty much ok socially, at\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"least i hope so. Do you think so jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Mmmm!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Mmmm!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Actually it just occurred to me. Its funny he didnt mention your party in his text.",
+		"GT: Actually it just occurred to me.\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Im SURE he wouldnt have forgotten. He never forgets ANYTHING what with all his calculations and his computerized brain. Both figurative and literal.",
+		"Its funny he didnt mention your party\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"in his text.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I wonder what his game was? He invited me on an expedition without mention of your party as a potential conflict...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: If he sensed i could use some space perhaps he was concerned that if we both showed up to the party it would be awkward?",
+		"GT: Im SURE he wouldnt have forgotten.\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Or maybe he didnt want to mention he was going to the party in case it would spook me away from attending?",
+		"He never forgets ANYTHING what with\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Argh! Do you see jane?? This is what his endless machinations do to you!",
+		"all his calculations and his\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Anything he says could be part of some grand convoluted scheme and it just makes you agonize and boggle and wonder until your brain hurts and you just KNOW its a battle you cant win.",
+		"computerized brain. Both figurative\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"and literal.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: You know what i mean jane?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I wonder what his game was? He\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"invited me on an expedition without\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"mention of your party as a potential\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"conflict...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: If he sensed i could use some\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"space perhaps he was concerned that if\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"we both showed up to the party it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"would be awkward?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Or maybe he didnt want to mention\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"he was going to the party in case it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"would spook me away from attending?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Argh! Do you see jane?? This is\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"what his endless machinations do to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"you!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Anything he says could be part of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"some grand convoluted scheme and it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"just makes you agonize and boggle and\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"wonder until your brain hurts and you\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"just KNOW its a battle you cant win.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: You know what i mean jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Mmhmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Mmhmm.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Do you think i should just bite the bullet and end it?",
+		"GT: Do you think i should just bite\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"the bullet and end it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its probably the right thing to do.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Boy am i not looking forward to that conversation though.",
+		"GT: Its probably the right thing to\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its going to be a doozy. What did i get myself into here?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I think ive made a lot of mistakes honestly.",
+		"GT: Boy am i not looking forward to\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"that conversation though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Not the least of which was getting this shitty tattoo, now that i think about it.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Yes yes i know we all thought it was a riot at first.",
+		"GT: Its going to be a doozy. What did\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"i get myself into here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I guess it still is maybe? But lately ive been wondering if it might not have been an act of sound judgment.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: I think ive made a lot of mistakes\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"honestly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Can you believe that jane?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Not the least of which was getting\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"this shitty tattoo, now that i think\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"about it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Yes yes i know we all thought it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"was a riot at first.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I guess it still is maybe? But\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"lately ive been wondering if it might\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"not have been an act of sound\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"judgment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Can you believe that jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Hmm!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Hmm!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know. Its a real pickle im in here but i do feel better just being able to get it off my chest.",
+		"GT: I dont know. Its a real pickle im\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"in here but i do feel better just\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"being able to get it off my chest.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: You are such a good friend jane, always ready to listen to my relationship woes. What a trooper!",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: You are such a good friend jane,\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"always ready to listen to my\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"relationship woes. What a trooper!\
+",
 	},
 	next = {
 		5525,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It should be perfectly safe from any similar kinds of damage while secured in your SCRATCH AND SNIFF modus.",
+		"It should be perfectly safe from any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"similar kinds of damage while secured\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in your SCRATCH AND SNIFF modus.\
+",
 	},
 	next = {
 		3733,

@@ -13,15 +13,64 @@ return {
 			0,
 			0,
 		},
-		"Aw, there she is. All tuckered out. You wonder what she is dreaming about? Surely something adorable.",
+		"Aw, there she is. All tuckered out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You wonder what she is dreaming about?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Surely something adorable.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway, guess it's time to get down to business and save her life! You prepare to initiate an uninterrupted sequence of life-saving events.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway, guess it's time to get down to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"business and save her life! You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prepare to initiate an uninterrupted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sequence of life-saving events.\
+",
 	},
 	next = {
 		2794,

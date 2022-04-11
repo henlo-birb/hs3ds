@@ -12,7 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You like to think that, but in truth you look ridiculous. You think you probably need shorter shorts to make it work? Probably skin tight shorts too. As it is, the cuffs of your baggy shorts get kind of bunched up underneath the thighstraps, which is uncomfortable and makes you look like a tool.",
+		"You like to think that, but in truth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you look ridiculous. You think you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably need shorter shorts to make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it work? Probably skin tight shorts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"too. As it is, the cuffs of your baggy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shorts get kind of bunched up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"underneath the thighstraps, which is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"uncomfortable and makes you look like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a tool.\
+",
 	},
 	next = {
 		4167,

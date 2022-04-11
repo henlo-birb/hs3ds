@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Let's take this from the top.",
+		"Let's take this from the top.\
+",
 	},
 	next = {
 		129,

@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You create a PARADOX GHOST IMPRINT of the outrageously awesome dude. The sludge is allocated to one of another pair of tubes.",
+		"You create a PARADOX GHOST IMPRINT of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the outrageously awesome dude. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sludge is allocated to one of another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pair of tubes.\
+",
 	},
 	next = {
 		1881,

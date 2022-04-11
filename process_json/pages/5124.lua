@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Your world is so old, its star is reaching the end of its life cycle. It may collapse any day now.",
+		"Your world is so old, its star is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reaching the end of its life cycle. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"may collapse any day now.\
+",
 	},
 	next = {
 		5125,

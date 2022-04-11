@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You equip your trusty HUNTING RIFLE. There would be hell to pay if grandad caught you leaving the house without it.",
+		"You equip your trusty HUNTING RIFLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There would be hell to pay if grandad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"caught you leaving the house without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		793,

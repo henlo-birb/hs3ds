@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"John has no idea what the windy thing is. Maybe you could be more descriptive?",
+		"John has no idea what the windy thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is. Maybe you could be more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"descriptive?\
+",
 	},
 	next = {
 		2980,

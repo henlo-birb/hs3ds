@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It might come in handy if you ever need something that burns easily.",
+		"It might come in handy if you ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"need something that burns easily.\
+",
 	},
 	next = {
 		44,

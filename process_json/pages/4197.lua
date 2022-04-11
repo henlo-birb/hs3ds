@@ -12,15 +12,134 @@ return {
 			0,
 			0,
 		},
-		"There's a familiar face. A friendly face. Old poppop Crocker, smiling from beyond. Your dad sure misses him. He doesn't like to talk about the day he died. Some incident involving a tall bookshelf, a ladder, and a mysterious young woman in a suspicious looking hat. You have often fantasized about putting on your dirty old fedora and your Frenchest looking mustache to go tracking down this felonious broad and bring her to justice. But your dad always says best to let sleeping dogs lie.",
+		"There's a familiar face. A friendly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face. Old poppop Crocker, smiling from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beyond. Your dad sure misses him. He\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doesn't like to talk about the day he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"died. Some incident involving a tall\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bookshelf, a ladder, and a mysterious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"young woman in a suspicious looking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hat. You have often fantasized about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"putting on your dirty old fedora and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your Frenchest looking mustache to go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tracking down this felonious broad and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bring her to justice. But your dad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always says best to let sleeping dogs\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lie.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's some other plucky looking tool there next to him. Dunno who that guy is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's some other plucky looking tool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there next to him. Dunno who that guy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is.\
+",
 	},
 	next = {
 		4198,

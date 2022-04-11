@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"What the hell is that... ",
+		"What the hell is that...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If only you could get a closer look. Too bad that's just a fake red plastic eye you've got there.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If only you could get a closer look.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Too bad that's just a fake red plastic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eye you've got there.\
+",
 	},
 	next = {
 		7973,

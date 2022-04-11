@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I was going to stick the cruxtruder in the kitchen.",
+		"TT: I was going to stick the\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"cruxtruder in the kitchen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Distract him with that.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Distract him with that.\
+",
 	},
 	next = {
 		4561,

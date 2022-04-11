@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"After a major cleanup rigmarole and a lot of crawling around your respiteblock, you equip your JOUSTING LANCE.",
+		"After a major cleanup rigmarole and a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lot of crawling around your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respiteblock, you equip your JOUSTING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LANCE.\
+",
 	},
 	next = {
 		2116,

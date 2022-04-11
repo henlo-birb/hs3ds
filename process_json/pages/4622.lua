@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Sure are a lot of them today. They must be getting more desperate.",
+		"Sure are a lot of them today. They\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must be getting more desperate.\
+",
 	},
 	next = {
 		4623,

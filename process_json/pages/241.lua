@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There goes the rest of your BUILD GRIST.",
+		"There goes the rest of your BUILD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRIST.\
+",
 	},
 	next = {
 		242,

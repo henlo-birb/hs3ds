@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"The perfect crime.",
+		"The perfect crime.\
+",
 	},
 	next = {
 		208,

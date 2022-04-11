@@ -13,15 +13,127 @@ return {
 			0,
 			0,
 		},
-		"When a pair of adversaries delve into this quadrant, they become each other's KISMESIS. As one of the concupiscent quadrants, it plays a role in procreation as well. There is no particularly good human translation for this concept. The closest would be an especially potent arch-rivalry. ",
+		"When a pair of adversaries delve into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this quadrant, they become each\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"other's KISMESIS. As one of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concupiscent quadrants, it plays a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"role in procreation as well. There is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no particularly good human translation\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for this concept. The closest would be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an especially potent arch-rivalry.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-For instance, human players would never be able to adequately diagnose the relationship between the queen and her archagent. But troll players could immediately place it as a dead ringer for kismesissitude. They would think we were all pretty stupid for not getting it. And they would be right.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"For instance, human players would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never be able to adequately diagnose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the relationship between the queen and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her archagent. But troll players could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"immediately place it as a dead ringer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for kismesissitude. They would think\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"we were all pretty stupid for not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting it. And they would be right.\
+",
 	},
 	next = {
 		2396,

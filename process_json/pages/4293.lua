@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"You put forth your best LASS SCAMPER of all time, and clear another sweet GOD TIER, the nigh-unattainable SAYONARA KANSAS.",
+		"You put forth your best LASS SCAMPER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of all time, and clear another sweet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GOD TIER, the nigh-unattainable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SAYONARA KANSAS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your battle stats predictably go haywire. You accrue so much YOUNGSTER GUMPTION it's basically insane. Nobody should ever mess with you. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Not even me.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your battle stats predictably go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"haywire. You accrue so much YOUNGSTER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GUMPTION it's basically insane. Nobody\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"should ever mess with you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Not even me.\
+",
 	},
 	next = {
 		4294,

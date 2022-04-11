@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"FLUTHLU, FOUL PATRICIAN OF MISERY. To hear his mammoth belly gurgle is to know the Epoch of Joy has come to an abrupt end.",
+		"FLUTHLU, FOUL PATRICIAN OF MISERY. To\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hear his mammoth belly gurgle is to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"know the Epoch of Joy has come to an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abrupt end.\
+",
 	},
 	next = {
 		303,

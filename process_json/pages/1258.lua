@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Everybody out of the god damn way. You got a hat full of bomb, a fist full of penis, and a head full of empty.",
+		"Everybody out of the god damn way. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got a hat full of bomb, a fist full of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"penis, and a head full of empty.\
+",
 	},
 	next = {
 		1259,

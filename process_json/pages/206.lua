@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Cursing your lack of foresight, you return to the BALCONY for the CRUXITE DOWEL you left on the pedestal.",
+		"Cursing your lack of foresight, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"return to the BALCONY for the CRUXITE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOWEL you left on the pedestal.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You navigate the hallway leery of your DAD, who is presently puzzling over the new fixture in his hallway.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You navigate the hallway leery of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAD, who is presently puzzling over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the new fixture in his hallway.\
+",
 	},
 	next = {
 		207,

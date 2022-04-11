@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Unfortunately, your simple message cannot seem to penetrate their thick carapaces.",
+		"Unfortunately, your simple message\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cannot seem to penetrate their thick\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"carapaces.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Doesn't ANYBODY in this stupid desert speak blinking?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Doesn't ANYBODY in this stupid desert\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"speak blinking?\
+",
 	},
 	next = {
 		3270,

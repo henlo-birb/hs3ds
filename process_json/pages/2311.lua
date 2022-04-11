@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Until she was given a new purpose.",
+		"Until she was given a new purpose.\
+",
 	},
 	next = {
 		2312,

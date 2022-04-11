@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"A mistress becomes a mendicant.",
+		"A mistress becomes a mendicant.\
+",
 	},
 	next = {
 		1949,

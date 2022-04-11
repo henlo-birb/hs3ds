@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Graveyard stuffers.",
+		"Graveyard stuffers.\
+",
 	},
 	next = {
 		892,

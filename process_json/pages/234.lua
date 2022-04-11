@@ -14,15 +14,50 @@ return {
 			0,
 			0,
 		},
-		"The door opens to an exterior walkway, leading to the observatory entrance. ",
+		"The door opens to an exterior walkway,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"leading to the observatory entrance.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You've seen less inclement weather before. Oh the things you'll do to help out a friend.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've seen less inclement weather\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before. Oh the things you'll do to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"help out a friend.\
+",
 	},
 	next = {
 		235,

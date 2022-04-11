@@ -15,7 +15,15 @@ return {
 			0,
 			0,
 		},
-		"(Pages including sound will be preceded by [S] in the command.)",
+		"(Pages including sound will be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"preceded by [S] in the command.)\
+",
 	},
 	next = {
 		78,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This bird's gotta fly!",
+		"This bird's gotta fly!\
+",
 	},
 	next = {
 		379,

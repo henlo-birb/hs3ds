@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Is that...",
+		"Is that...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Is that Charles Dutton?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Is that Charles Dutton?\
+",
 	},
 	next = {
 		1379,

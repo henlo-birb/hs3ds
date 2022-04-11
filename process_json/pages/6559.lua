@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Anyway, I have wasted enough time dithering around with fools.",
+		"ARANEA: Anyway, I have wasted enough\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"time dithering around with fools.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: There is much work to 8e done.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: There is much work to 8e done.\
+",
 	},
 	next = {
 		6560,

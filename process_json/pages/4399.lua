@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Jane is too dead at the moment to be Jack Noir.",
+		"Jane is too dead at the moment to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack Noir.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jack Noir just bees himself instead.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jack Noir just bees himself instead.\
+",
 	},
 	next = {
 		4400,

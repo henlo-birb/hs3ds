@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You guess BRO stuck some FAKE BLOOD CAPSULES in that puppet? Pretty gross.",
+		"You guess BRO stuck some FAKE BLOOD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAPSULES in that puppet? Pretty gross.\
+",
 	},
 	next = {
 		570,

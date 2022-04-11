@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You enter the LABORATORY.",
+		"You enter the LABORATORY.\
+",
 	},
 	next = {
 		848,

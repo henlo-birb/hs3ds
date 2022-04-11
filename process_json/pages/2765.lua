@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You learn much of this young creature's civilization and its customs.",
+		"You learn much of this young\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"creature's civilization and its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"customs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The adult's puppet assistant commences the standard feeding ritual.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The adult's puppet assistant commences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the standard feeding ritual.\
+",
 	},
 	next = {
 		2766,

@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You say a bittersweet goodbye to your beloved city. It is time to move on to greener pastures. By which of course you mean an arid, sandy wasteland upon which nothing green has grown in years.",
+		"You say a bittersweet goodbye to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beloved city. It is time to move on to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"greener pastures. By which of course\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you mean an arid, sandy wasteland upon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which nothing green has grown in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"years.\
+",
 	},
 	next = {
 		725,

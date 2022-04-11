@@ -12,23 +12,120 @@ return {
 			0,
 			0,
 		},
-		"Wow, you really suck at this thing! ",
+		"Wow, you really suck at this thing!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe you should try playing an instrument you actually know how to play instead, like the one in your bedroom. Honestly you have no idea where this flute even came from. Things seem to appear and disappear around here all the time. Especially, to your unending chagrin, any sort of large orange gourd that might be lying around.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You consider throwing the flute down in disgust.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you should try playing an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instrument you actually know how to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"play instead, like the one in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bedroom. Honestly you have no idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"where this flute even came from.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Things seem to appear and disappear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around here all the time. Especially,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to your unending chagrin, any sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"large orange gourd that might be lying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You consider throwing the flute down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in disgust.\
+",
 	},
 	next = {
 		771,

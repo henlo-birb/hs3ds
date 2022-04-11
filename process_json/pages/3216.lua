@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE: WHAT DID YOU DO??????",
+		"JADESPRITE: WHAT DID YOU DO??????\
+",
 	},
 	next = {
 		3217,

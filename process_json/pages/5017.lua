@@ -13,7 +13,43 @@ return {
 			0,
 			0,
 		},
-		"Terry! Atta boy. He looks like he is ready and raring to be a loyal companion to his new owner, that lucky bastard. You will be a little sad to say goodbye. You hardly got a chance to know him at all.",
+		"Terry! Atta boy. He looks like he is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ready and raring to be a loyal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"companion to his new owner, that lucky\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bastard. You will be a little sad to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"say goodbye. You hardly got a chance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to know him at all.\
+",
 	},
 	next = {
 		5018,

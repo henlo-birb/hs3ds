@@ -12,854 +12,2395 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: haha im sorry\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: haha im sorry",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Sorry about what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Sorry about what?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: for stammering an all being an agog grinning idiot",
+		"ROXY: for stammering an all being an\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"agog grinning idiot\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i just cannot....",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i just cannot....\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: actually believe u are real and here and alive and not dying and so am i!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: actually believe u are real and\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"here and alive and not dying and so am\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"i!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: here with u i mean + sharin all those mentioned attributes",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: here with u i mean + sharin all\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"those mentioned attributes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I can't believe it either!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I can't believe it either!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i have so much to say...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i have so much to say...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i think???\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i think???",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: even though i cant think of the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"stuff atm\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: even though i cant think of the stuff atm",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I know what you mean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I know what you mean.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i hope its ok if i just sit near\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"u not bein 'specially articulate for a\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"bit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i hope its ok if i just sit near u not bein 'specially articulate for a bit",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: That is more than ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: That is more than ok.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: As long as you are willing to similarly excuse the spectacular demise of my capacity for artful self-expression.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: omg!!!!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: ahahah youre dirk!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: wow wow i just caught it wow wow wow!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: you sound SO much like him oh my GOD thats too perf and cute :3",
+		"ROSE: As long as you are willing to\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Dirk?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: hahah i cant get over it now i cant unhear it...",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: even your voice sounds kinda like his but its just... girl dirk",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: lmao wow yes <3",
+		"similarly excuse the spectacular\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"demise of my capacity for artful\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"self-expression.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: He sounds like a hell of a guy.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: ohh u have noo idea",
+		"ROXY: omg!!!!\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: Well, I'm told he should be arriving here in a little while.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: If he's anything like Dave's late older brother, and if he's anything like me, which he apparently is, then this is when I'm guessing the real party will begin.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: im redy <|:)",
+		"ROXY: ahahah youre dirk!\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: I want to know things about him.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Such as, if he shares his elder counterpart's avarice for soft puppet ass.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: And if that, combined with his myriad, vaguely unsettling psychological peculiarities, could occupy a dedicated team of therapists for years.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: the answer is yes and yes",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Hmm.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Knowing this amuses me, for some reason.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: But mainly, there are things I want to know about you.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I presume there will be plenty of time later to hound my biological father for the dirt on his proclivities.",
+		"ROXY: wow wow i just caught it wow wow\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"wow!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: whatta ya wanna know about me?",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: you sound SO much like him oh my\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"GOD thats too perf and cute :3\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Dirk?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Everything!",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: hahah i cant get over it now i\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"cant unhear it...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: even your voice sounds kinda\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"like his but its just... girl dirk\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: lmao wow yes <3\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: He sounds like a hell of a guy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I think the main difficulty in deciding what to ask is in sifting questions I would have for my mother, that is to say, the woman who raised me, from the questions I have for you.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: ohh u have noo idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: well i didnt raise u or anything but i can sincerely take a crack at both kindsa questions",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Ok.",
+		"ROSE: Well, I'm told he should be\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"arriving here in a little while.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Do...",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: You really like wizards?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: rose",
+		"ROSE: If he's anything like Dave's\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Yes?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: rose",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: rooose",
+		"late older brother, and if he's\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: ...",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: i fucken",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: LOVE",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: wizzards",
+		"anything like me, which he apparently\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I see.",
+		"is, then this is when I'm guessing the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"real party will begin.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: As odd as it sounds, that actually does go pretty far in letting me know something about both of you.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: im redy <|:)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: oh?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I want to know things about him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: My relationship with her was complicated.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: But I've come to see that as mostly my fault. I was too young to understand her.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: i never even got the chance to misunderstand my mom",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: or grownup you",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: or... i mean i didnt get to misunderstand her IN PERSON",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: more like as a legendary figure",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: cause i grew up 400 years after she died",
+		"ROSE: Such as, if he shares his elder\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Ah, right.",
+		"counterpart's avarice for soft puppet\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I think I'm going to have to call the contest early. Yours is the more interesting biography, by quite a lot.",
+		"ass.\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: not really!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: not to me at least... i was lonely",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: i thought about her a lot to pass the time",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: she was p amazing at least according to history",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: she wrote hella books about wizards and rode a genocidal fat man down a waterfall of blood",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: And if that, combined with his\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"myriad, vaguely unsettling\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"psychological peculiarities, could\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"occupy a dedicated team of therapists\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"for years.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: She wrote hella books about wizards?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: the answer is yes and yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: yeh!",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Knowing this amuses me, for some\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"reason.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: But mainly, there are things I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"want to know about you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I presume there will be plenty\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"of time later to hound my biological\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"father for the dirt on his\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"proclivities.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: whatta ya wanna know about me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: they were famous n good and everything",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Everything!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: It sounds like I fumbled into the wrong line of work.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: There's no money in this Sburb business.",
+		"ROSE: I think the main difficulty in\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"deciding what to ask is in sifting\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"questions I would have for my mother,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"that is to say, the woman who raised\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me, from the questions I have for you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Well, there is. It just comes in incredibly stupid denominations, which are not particularly useful.",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: well i didnt raise u or anything\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"but i can sincerely take a crack at\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"both kindsa questions\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Do...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: You really like wizards?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: rose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Yes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: rose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: rooose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i fucken\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: LOVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: wizzards\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: As odd as it sounds, that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"actually does go pretty far in letting\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me know something about both of you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: oh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: My relationship with her was\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"complicated.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: But I've come to see that as\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"mostly my fault. I was too young to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"understand her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i never even got the chance to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"misunderstand my mom\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: or grownup you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: or... i mean i didnt get to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"misunderstand her IN PERSON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: more like as a legendary figure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: cause i grew up 400 years after\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"she died\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Ah, right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I think I'm going to have to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"call the contest early. Yours is the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"more interesting biography, by quite a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"lot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: not really!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: not to me at least... i was\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"lonely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i thought about her a lot to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"pass the time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: she was p amazing at least\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"according to history\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: she wrote hella books about\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"wizards and rode a genocidal fat man\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"down a waterfall of blood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: She wrote hella books about\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"wizards?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yeh!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: they were famous n good and\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"everything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It sounds like I fumbled into\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the wrong line of work.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: There's no money in this Sburb\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"business.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Well, there is. It just comes in\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"incredibly stupid denominations, which\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"are not particularly useful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Do You Have Copies Of These Books",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: ummmm yes!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: yes i do there are copies back on my planet",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: assuming john didnt retcon them away like a book thiefin sneak!",
+		"KANAYA: Do You Have Copies Of These\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Books\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Would Really Love To Read Them Some Time If You Wouldnt Mind",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: no not at all!",
+		"ROXY: ummmm yes!\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: By the way, this is Kanaya.",
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yes i do there are copies back\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"on my planet\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: Sorry for the combination of bad manners and general dumbfoundedness which precluded a more timely introduction.",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: assuming john didnt retcon them\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"away like a book thiefin sneak!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Hello",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: hey!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: thats a nice name and also ur pretty",
+		"KANAYA: I Would Really Love To Read\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Them Some Time If You Wouldnt Mind\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Thank You",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: no not at all!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: By the way, this is Kanaya.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Sorry for the combination of bad\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"manners and general dumbfoundedness\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"which precluded a more timely\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"introduction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Hello\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Admire The Aesthetics Of Your Name And Appearance As Well And In No Small Part Due To Their Respective Similarity To Your Daughters",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: hey!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: wow man that was somehow both a convoluted thing to say yet smooth as hell",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: thats a nice name and also ur\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"pretty\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: m impressed",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Thank You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: I Admire The Aesthetics Of\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Your Name And Appearance As Well And\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"In No Small Part Due To Their\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Respective Similarity To Your\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Daughters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: wow man that was somehow both a\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"convoluted thing to say yet smooth as\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: m impressed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Welcome to Maryam City, population, a whole lot of great remarks like that.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: but yes ill get u those books!",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: theyre great they made me wanna write my own wizard books",
+		"ROSE: Welcome to Maryam City,\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Did you?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: errr",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: yeah sorta :\\",
+		"population, a whole lot of great\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"remarks like that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Could I read them?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: but yes ill get u those books!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: ummmm",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: theyre great they made me wanna\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"write my own wizard books\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Did you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Hey, you got to read mine!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: errr\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: yeah but u were like an old pro when u wrote yours!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: they are freaking MASTERPIECE WIZARDFICS!!!",
+		"ROXY: yeah sorta :\\\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: they won pulizters and shit",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Could I read them?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Did they really??",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: ummmm\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: um idk probably?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Hey, you got to read mine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Oh.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i dunno they are just vry vry good",
+		"ROXY: yeah but u were like an old pro\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"when u wrote yours!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: so the ancient prize scholars im sure were like, dude these wizards",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: are vry vry fucking good",
+		"ROXY: they are freaking MASTERPIECE\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"WIZARDFICS!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: give them all the awards, then shut down the awards, but not cuz of the looming apocalypse, just cuz u literally cannot do better than these wizards",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: they won pulizters and shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I can live with that.",
+		"ROSE: Did they really??\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: It's always been one of my professional goals to write tales of magical men so provocative, they would cause the permanent and unceremonious dissolution of at least one prestigious award.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: so yeah i dunno i guess u can see",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: um idk probably?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: but its a pale ghost of a story compared to ur stuff and its also um kinda weird?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I like weird!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: yeah",
+		"ROXY: i dunno they are just vry vry\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: just... your opinion means a lot to me & im nervous u might think it sucks!",
+		"good\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: But I never even wrote the masterpieces you read.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I think you may have a view of my abilities which I haven't earned yet.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Really, I'm not that good.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I have my own story drafts which you can read if you like.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: They're nothing special, frankly.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: o really??",
+		"ROXY: so the ancient prize scholars im\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"sure were like, dude these wizards\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: aw man ok then that sounds fun! :)",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: are vry vry fucking good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: give them all the awards, then\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"shut down the awards, but not cuz of\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the looming apocalypse, just cuz u\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"literally cannot do better than these\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"wizards\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I can live with that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It's always been one of my\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"professional goals to write tales of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"magical men so provocative, they would\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cause the permanent and unceremonious\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"dissolution of at least one\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"prestigious award.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: so yeah i dunno i guess u can\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"see\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: but its a pale ghost of a story\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"compared to ur stuff and its also um\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"kinda weird?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I like weird!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: just... your opinion means a lot\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"to me & im nervous u might think it\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"sucks!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: But I never even wrote the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"masterpieces you read.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I think you may have a view of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"my abilities which I haven't earned\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Really, I'm not that good.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I have my own story drafts which\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you can read if you like.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: They're nothing special,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"frankly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: o really??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: aw man ok then that sounds fun!\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		":)\
+",
 	},
 	next = {
 		7494,

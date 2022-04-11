@@ -12,56 +12,148 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: hahaha this piece of shit is still here too",
+		"DAVE: hahaha this piece of shit is\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"still here too\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: didnt we use this thing like ONCE",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: what a useless pile of trash in hindsight",
+		"DAVE: didnt we use this thing like\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"ONCE\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: sometimes i think this game was designed by an idiot",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: wasnt it called like",
+		"DAVE: what a useless pile of trash in\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"hindsight\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: the laserbeam intellivision or something",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: sometimes i think this game was\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"designed by an idiot\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: id throw it in the lava but that would be a waste of melting",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: wasnt it called like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: the laserbeam intellivision or\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: id throw it in the lava but that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"would be a waste of melting\
+",
 	},
 	next = {
 		6304,

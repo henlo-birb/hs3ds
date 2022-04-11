@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It seems that someone has left you a gift. What could it be?",
+		"It seems that someone has left you a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gift. What could it be?\
+",
 	},
 	next = {
 		5633,

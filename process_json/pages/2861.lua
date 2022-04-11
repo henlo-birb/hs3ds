@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Jade's family sure is weird.",
+		"Jade's family sure is weird.\
+",
 	},
 	next = {
 		2862,

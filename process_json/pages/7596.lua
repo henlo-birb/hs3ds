@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: welcome back, jade.",
+		"CALLIOPE: welcome back, jade.\
+",
 	},
 	next = {
 		7597,

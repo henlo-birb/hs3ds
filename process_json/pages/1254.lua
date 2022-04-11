@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You tell Slick to get his scrawny ass to the vault. It's goddamn bedlam down here. You tell him you asked Deuce for backup but surprise surprise he's nowhere to be found. Big surprise, you tell him. You tell him that was sarcasm. He says he knows.",
+		"You tell Slick to get his scrawny ass\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the vault. It's goddamn bedlam down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"here. You tell him you asked Deuce for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"backup but surprise surprise he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nowhere to be found. Big surprise, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tell him. You tell him that was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sarcasm. He says he knows.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Slick says he'll be right there. He'll see if he can round up Droog for support.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Slick says he'll be right there. He'll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"see if he can round up Droog for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"support.\
+",
 	},
 	next = {
 		1255,

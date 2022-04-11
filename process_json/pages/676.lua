@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You drop all the cans and take a look at your wrist.",
+		"You drop all the cans and take a look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at your wrist.\
+",
 	},
 	next = {
 		677,

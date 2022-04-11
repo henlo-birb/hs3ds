@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You overlap two of the punched cards. They mask each other's hole patterns.",
+		"You overlap two of the punched cards.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They mask each other's hole patterns.\
+",
 	},
 	next = {
 		632,

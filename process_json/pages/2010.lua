@@ -12,559 +12,1597 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
-		},
-		"\
-terminallyCapricious [TC]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began trolling ",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"carcinoGeneticist [CG]",
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-\
-TC: wHaT iS uUuUuP mY iNvErTeBrOtHeR?",
+		"terminallyCapricious [TC]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"began trolling\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: WHAT IN THE SWEET ALMIGHTY TAINTCHAFING FUCK DO YOU WANT.",
+		"carcinoGeneticist [CG]\
+",
 		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
+			0,
+			0,
+			0,
 		},
 		"\
-TC: NoT a MoThErFuCkInG tHiNg BrO.",
+",
 		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
+			0,
+			0,
+			0,
 		},
 		"\
-TC: oThEr ThAn I bE cHeCkIn OuT hOw My BeSt MoThErFuCkIn FrIeNd Is At Yo.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I REALLY CAN'T STAND YOU AND I HATE HOW YOU TYPE, IT JUST BOTHERS ME SO MUCH, HAVE I MENTIONED THAT?",
-		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
-		},
-		"\
-TC: YoU SaY iT pReTtY mUcH eVeRy TiMe We TaLk YeAh.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: wHaT iS uUuUuP mY iNvErTeBrOtHeR?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: but uh, i don't have to...",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHAT IN THE SWEET ALMIGHTY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TAINTCHAFING FUCK DO YOU WANT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: NoT a MoThErFuCkInG tHiNg BrO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: uhhh see?",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: but i mean man this feels so motherfuckin unnatural and shit.",
+		"TC: oThEr ThAn I bE cHeCkIn OuT hOw My\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"BeSt MoThErFuCkIn FrIeNd Is At Yo.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: YoU jUsT gOt To Be GoInG wItH wHaT fEeLs RiGhT aT wHeRe YoUr HeArT's Up In, YoU kNoW?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I REALLY CAN'T STAND YOU AND I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HATE HOW YOU TYPE, IT JUST BOTHERS ME\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SO MUCH, HAVE I MENTIONED THAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: bEsT fRiEnD.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I WONDER WHAT KIND OF SHITTY THING I DID TO DESERVE SUCH AN AWFUL BEST FRIEND.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: OR MAYBE WHAT TERRIBLE THING I'M GOING TO DO AND GET PUNISHED FOR IN ADVANCE.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: MAYBE I'M JUST LIKE PREEMPTIVELY THE WORST FUCKING PIECE OF TRASH WHO EVER LIVED AND DON'T EVEN KNOW IT YET, BUT HEY LOOK, YOUR FRIENDSHIP IS EXHIBIT A I GUESS.",
+		"TC: YoU SaY iT pReTtY mUcH eVeRy TiMe\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"We TaLk YeAh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: It'S sUcH a BeAuTiFuL tHiNg.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: ThIs TrOlL dIsEaSe CaLlEd FrIeNdShIp.",
+		"TC: but uh, i don't have to...\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: FRIENDSHIP ISN'T A DISEASE SHITSPONGE.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: IT'S LIKE...",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: A MISTAKE.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: A BIG JOKE OF NATURE.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: iT's A mIrAcLe.",
+		"TC: uhhh see?\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: OH NO, DON'T.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: DON'T START WITH THE MIRACLES AGAIN.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: MaN eVeRyWhErE i LoOk...",
+		"TC: but i mean man this feels so\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"motherfuckin unnatural and shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: aLlS i SeE iS mOtHeRfUcKiN mIrAcLeS.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: It'S sO sPiRiTuAl, AlL tHeSe mIrAcLeS aNd ShIt.",
+		"TC: YoU jUsT gOt To Be GoInG wItH wHaT\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: oK lIkE jUsT bE tAkIn tHiS fUcKiN tItS bOtTlE oF fUcKiN fAyGo I jUsT cRaCkEd Up OpEn.",
+		"fEeLs RiGhT aT wHeRe YoUr HeArT's Up\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"In, YoU kNoW?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: AnD hOw It'S bEiNg AlL lIkE hIsSiNg AnD sHiT.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: bEsT fRiEnD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: mOtHeRfUcKiN hIsSiNg MaN, wHo WeNt AlL aNd ToLd It To Do ThAt?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I WONDER WHAT KIND OF SHITTY THING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"I DID TO DESERVE SUCH AN AWFUL BEST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FRIEND.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: OR MAYBE WHAT TERRIBLE THING I'M\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GOING TO DO AND GET PUNISHED FOR IN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ADVANCE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: MAYBE I'M JUST LIKE PREEMPTIVELY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THE WORST FUCKING PIECE OF TRASH WHO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVER LIVED AND DON'T EVEN KNOW IT YET,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BUT HEY LOOK, YOUR FRIENDSHIP IS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EXHIBIT A I GUESS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: It'S sUcH a BeAuTiFuL tHiNg.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: HoW wOuLd It EvEn Do ThAt, It'S cRaZy.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: iT's A mIrAcLe.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: IT'S CARBONATION YOU IGNORANT DOUCHE.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: TRY GETTING SCHOOLFED SOME TIME INSTEAD OF SLURPING DOWN THAT WEIRD SWILL ALL DAY AND FONDLING YOUR STUPID HORNS.",
+		"TC: ThIs TrOlL dIsEaSe CaLlEd\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"FrIeNdShIp.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: No No BrO, i DoN't WaNnA kNoW, dOn'T eVeN tElL mE.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: FRIENDSHIP ISN'T A DISEASE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SHITSPONGE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: IT'S LIKE...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: A MISTAKE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: A BIG JOKE OF NATURE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: iT's A mIrAcLe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: kNoWiNg ShIt JuSt StEaLs Up AlL tHe FuCkIn MaGiC fRoM mY mIrAcLeS lIkE a MoThErFuCkIn ThIeF.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: OH NO, DON'T.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: DON'T START WITH THE MIRACLES\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"AGAIN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: AnD tHaT aIn'T cOoL.",
+		"TC: MaN eVeRyWhErE i LoOk...\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: THE ONLY MIRACLE IS THAT YOU LIKE THAT DISGUSTING SLUDGE, WHERE DO YOU EVEN GET THAT STUFF.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: IT'S ALSO A MIRACLE HOW YOU DRESS LIKE AN IMBECILE AND ARE BASICALLY THE STUPIDEST ASSHOLE I'VE EVER KNOWN.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: ACTUALLY YOU'RE RIGHT, THERE ARE MIRACLES EVERYWHERE, I'VE BEEN A FOOL.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: sEe MaN, i Am StRaIgHt Up TeLlInG yOu.",
+		"TC: aLlS i SeE iS mOtHeRfUcKiN\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"mIrAcLeS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: MiRaClEs.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: iT's LiKe, AlRiGhT, cOmPuTeRs, RiGhT?",
+		"TC: It'S sO sPiRiTuAl, AlL tHeSe\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"mIrAcLeS aNd ShIt.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: WhAt ThE fUcK?",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: mIrAcLeS iS wHaT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: FUCK YOU.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: FUCK YOU FOR ME JUST READING THAT.",
+		"TC: oK lIkE jUsT bE tAkIn tHiS fUcKiN\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: AnYwAy WhAt'S uP wItH yOuR bAd SeLf, FoR sErIoUs HeRe.",
+		"tItS bOtTlE oF fUcKiN fAyGo I jUsT\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: iSn'T sOmEtHiNg BiG aLl GoInG dOwN?",
+		"cRaCkEd Up OpEn.\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: WHAT?",
-		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
-		},
-		"\
-TC: i HeArD sOmEtHiNg bIg WaS gOiNg AlL dOwN.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: JuSt AlL bE tElLiNg Me AlL wHaT mOtHeRfUcKiN iT's Up AnD aLl AbOuT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: STOP SAYING ALL. ARE YOU TALKING ABOUT TA'S THING?",
+		"TC: AnD hOw It'S bEiNg AlL lIkE\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"hIsSiNg AnD sHiT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: yEaH!! fUcK yEaH mAn, So MyStErIoUs.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: I'm NeVeR bEiNg GeTtInG cEaSeD tO bE aMaZeD bY aLl ThEsE fUcKiN mYsTeRiEs LiFe'S gOt FoR uS.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: UUUUUUGH.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: ANYWAY, I DON'T KNOW WHAT'S UP WITH THAT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: MAYBE I'LL TALK TO HIM TONIGHT ABOUT IT. MAYBE I WON'T.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: IT'S PROBABLY JUST ANOTHER ONE OF HIS PROJECTS THAT WINDS UP BEING COMPLETELY USELESS AND A HUGE WASTE OF MY TIME.",
+		"TC: mOtHeRfUcKiN hIsSiNg MaN, wHo WeNt\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"AlL aNd ToLd It To Do ThAt?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: yEaH mAyBe BuT hE's YoUr BeSt FrIeNd ThOuGh So It'S aLl CoOl.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: AnYwAy I tHoUgHt ThIs SoUnDeD lIkE a PrEtTy BiG mOtHeRfUcKiN dEaL mY mAn.",
+		"TC: HoW wOuLd It EvEn Do ThAt, It'S\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-TC: aAaUuUhHh...",
+		"cRaZy.\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: WHAT.",
-		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
-		},
-		"\
-TC: Aw BrO nEvErMiNd, I jUsT fUcKiN dId LiKe To ScArE tHe ShIt OuTtA mYsElF hErE.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: iT's A mIrAcLe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: tHeSe DaMn HoRnS.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: YOU'VE GOT TO GET RID OF THOSE THINGS.",
+		"CG: IT'S CARBONATION YOU IGNORANT\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"DOUCHE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: THEY MAKE IT MORE EMBARRASSING TO KNOW YOU.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: WHICH IS A FRIGGIN MIRACLE THAT THAT'S EVEN POSSIBLE.",
+		"CG: TRY GETTING SCHOOLFED SOME TIME\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: LIKE, WOW, GOD SURE COOKED UP A DOOZY THERE.",
+		"INSTEAD OF SLURPING DOWN THAT WEIRD\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: TWINKLY EYED SON OF A BITCH JUST KEEPS YOU GUESSING, DOESN'T HE.",
-		{
-			0.16862745098039217,
-			0.0,
-			0.3411764705882353,
-		},
-		"\
-TC: MaN yOu KnOw YoU wAnNa GiVe My HoRnS a GoOd SqUeEzE. :o)",
+		"SWILL ALL DAY AND FONDLING YOUR STUPID\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: ACTUALLY YOU KNOW WHAT WILL BE THE MIRACLE TO END ALL MIRACLES?",
+		"HORNS.\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-CG: IT'LL BE IF I EVER MEET A KID I DESPISE MORE THAN YOU.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: THAT WILL MAKE ME A MOTHERFUCKIN CONVERT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: I'LL SEE LIGHT SO BRIGHT I'LL NEED GC TO WALK ME AROUND SO I DON'T BUMP INTO SHIT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CG: SIGN ME UP FOR YOUR IDIOTIC CLOWN RELIGION OK.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"TC: No No BrO, i DoN't WaNnA kNoW,\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"dOn'T eVeN tElL mE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: hAhAhAhA yOu fUcKiN gOt It BrOtHeR!",
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: kNoWiNg ShIt JuSt StEaLs Up AlL\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"tHe FuCkIn MaGiC fRoM mY mIrAcLeS lIkE\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"a MoThErFuCkIn ThIeF.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: AnD tHaT aIn'T cOoL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: THE ONLY MIRACLE IS THAT YOU LIKE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT DISGUSTING SLUDGE, WHERE DO YOU\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVEN GET THAT STUFF.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: IT'S ALSO A MIRACLE HOW YOU DRESS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"LIKE AN IMBECILE AND ARE BASICALLY THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"STUPIDEST ASSHOLE I'VE EVER KNOWN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: ACTUALLY YOU'RE RIGHT, THERE ARE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MIRACLES EVERYWHERE, I'VE BEEN A FOOL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: sEe MaN, i Am StRaIgHt Up TeLlInG\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"yOu.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: MiRaClEs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: iT's LiKe, AlRiGhT, cOmPuTeRs,\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"RiGhT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: WhAt ThE fUcK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: mIrAcLeS iS wHaT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: FUCK YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: FUCK YOU FOR ME JUST READING THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: AnYwAy WhAt'S uP wItH yOuR bAd\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"SeLf, FoR sErIoUs HeRe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: iSn'T sOmEtHiNg BiG aLl GoInG\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"dOwN?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: i HeArD sOmEtHiNg bIg WaS gOiNg\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"AlL dOwN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: JuSt AlL bE tElLiNg Me AlL wHaT\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"mOtHeRfUcKiN iT's Up AnD aLl AbOuT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: STOP SAYING ALL. ARE YOU TALKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ABOUT TA'S THING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: yEaH!! fUcK yEaH mAn, So\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"MyStErIoUs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: I'm NeVeR bEiNg GeTtInG cEaSeD tO\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"bE aMaZeD bY aLl ThEsE fUcKiN\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"mYsTeRiEs LiFe'S gOt FoR uS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: UUUUUUGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: ANYWAY, I DON'T KNOW WHAT'S UP\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WITH THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: MAYBE I'LL TALK TO HIM TONIGHT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ABOUT IT. MAYBE I WON'T.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: IT'S PROBABLY JUST ANOTHER ONE OF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HIS PROJECTS THAT WINDS UP BEING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"COMPLETELY USELESS AND A HUGE WASTE OF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MY TIME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: yEaH mAyBe BuT hE's YoUr BeSt\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"FrIeNd ThOuGh So It'S aLl CoOl.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: AnYwAy I tHoUgHt ThIs SoUnDeD lIkE\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"a PrEtTy BiG mOtHeRfUcKiN dEaL mY mAn.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: aAaUuUhHh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: Aw BrO nEvErMiNd, I jUsT fUcKiN\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"dId LiKe To ScArE tHe ShIt OuTtA\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"mYsElF hErE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: tHeSe DaMn HoRnS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: YOU'VE GOT TO GET RID OF THOSE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THINGS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: THEY MAKE IT MORE EMBARRASSING TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KNOW YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: WHICH IS A FRIGGIN MIRACLE THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT'S EVEN POSSIBLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: LIKE, WOW, GOD SURE COOKED UP A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DOOZY THERE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: TWINKLY EYED SON OF A BITCH JUST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KEEPS YOU GUESSING, DOESN'T HE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: MaN yOu KnOw YoU wAnNa GiVe My\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"HoRnS a GoOd SqUeEzE. :o)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: ACTUALLY YOU KNOW WHAT WILL BE THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MIRACLE TO END ALL MIRACLES?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: IT'LL BE IF I EVER MEET A KID I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DESPISE MORE THAN YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: THAT WILL MAKE ME A MOTHERFUCKIN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CONVERT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I'LL SEE LIGHT SO BRIGHT I'LL NEED\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GC TO WALK ME AROUND SO I DON'T BUMP\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"INTO SHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: SIGN ME UP FOR YOUR IDIOTIC CLOWN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"RELIGION OK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"TC: hAhAhAhA yOu fUcKiN gOt It\
+",
+		{
+			0.16862745098039217,
+			0.0,
+			0.3411764705882353,
+		},
+		"BrOtHeR!\
+",
 	},
 	next = {
 		2011,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"He really has no idea.",
+		"He really has no idea.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Better hurry! He's in big trouble here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Better hurry! He's in big trouble\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"here.\
+",
 	},
 	next = {
 		2981,

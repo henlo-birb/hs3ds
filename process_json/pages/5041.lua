@@ -12,56 +12,155 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: WHOOPS!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: WHOOPS!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Dag nabbit. This trackpad is AWFUL!",
+		"GG: Dag nabbit. This trackpad is\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"AWFUL!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Lousy dad computer.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Lousy dad computer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Why does he have to buy his computers at the Dadly Depot?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Why does he have to buy EVERYTHING at the Dadly Depot?",
+		"GG: Why does he have to buy his\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"computers at the Dadly Depot?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I really need to keep looking for him soon. Thinking about our expeditions to the Dadly Depot is making me miss him.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Why does he have to buy EVERYTHING\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"at the Dadly Depot?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I really need to keep looking for\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"him soon. Thinking about our\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"expeditions to the Dadly Depot is\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"making me miss him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: You really need to hurry up and deploy that junk instead of that.",
+		"TT: You really need to hurry up and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"deploy that junk instead of that.\
+",
 	},
 	next = {
 		5042,

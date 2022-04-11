@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You sure had to go to a lot of trouble to do that.",
+		"You sure had to go to a lot of trouble\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to do that.\
+",
 	},
 	next = {
 		2052,

@@ -12,224 +12,575 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG| ",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: AWESOME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: AWESOME.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: THIS IS GOING TO BE GREAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: THIS IS GOING TO BE GREAT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OK, WHAT WEAPONS SHOULD I USE? PROBABLY HOMES SMELL YA LATER?",
+		"KARKAT: OK, WHAT WEAPONS SHOULD I USE?\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WAIT, DO I HAVE THOSE WITH ME???",
+		"PROBABLY HOMES SMELL YA LATER?\
+",
 		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
+			0,
+			0,
+			0,
 		},
 		"\
-MEENAH: you a dream ghost you can have whatever you want i think",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: UH...",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THAT'S HOW THAT WORKS?! ARE THERE LIKE, *RULES* FOR THIS DREAM GHOST SHIT??",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: nows not the time to be askin junk like that brah",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: we about to ride this bitch in for a landing who gives a flip where your ghost sickles come from",
+		"KARKAT: WAIT, DO I HAVE THOSE WITH\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: YEAH, YOU'RE RIGHT.",
+		"ME???\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: I SHOULDN'T GET HUNG UP ON PEDANTIC DETAILS, AND START THINKING ABOUT THE INSPIRATIONAL SPEECH I WAS HATCHED TO GIVE ON THIS FATEFUL DAY.",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: what the fuck",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: speech?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: YEAH. IS THAT OK???",
+		"MEENAH: you a dream ghost you can have\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: fuck no",
+		"whatever you want i think\
+",
 		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
+			0,
+			0,
+			0,
 		},
 		"\
-MEENAH: i already gave one and it was dope as shell",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: inspired the shit out of everyone",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: or terrified them",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: same diff",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: UH...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: OH",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: ...",
+		"KARKAT: THAT'S HOW THAT WORKS?! ARE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"THERE LIKE, *RULES* FOR THIS DREAM\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GHOST SHIT??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: CAN I JUST GIVE ONE ANYWAY?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: i guess",
+		"MEENAH: nows not the time to be askin\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"junk like that brah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: as long as you do it quietly over here",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: we about to ride this bitch in\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"for a landing who gives a flip where\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"your ghost sickles come from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: YEAH, YOU'RE RIGHT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I DON'T DO ANYTHING QUIETLY",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I SHOULDN'T GET HUNG UP ON\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PEDANTIC DETAILS, AND START THINKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ABOUT THE INSPIRATIONAL SPEECH I WAS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HATCHED TO GIVE ON THIS FATEFUL DAY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: what the fuck\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: then walk further away",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: speech?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: see like im doin",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YEAH. IS THAT OK???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: fuck no\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: but in the opposite direction a this",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: later shouty i got an army to run",
+		"MEENAH: i already gave one and it was\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"dope as shell\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: get back here when you done murmurin about whatever motivational noise you thinks gonna get you and you alone pumped",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: inspired the shit out of\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"everyone\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: sea ya nubs",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: or terrified them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: same diff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: CAN I JUST GIVE ONE ANYWAY?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: i guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: as long as you do it quietly\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"over here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I DON'T DO ANYTHING QUIETLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: then walk further away\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: see like im doin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: but in the opposite direction\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"a this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: later shouty i got an army to\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"run\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: get back here when you done\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"murmurin about whatever motivational\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"noise you thinks gonna get you and you\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"alone pumped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: sea ya nubs\
+",
 	},
 	next = {
 		7995,

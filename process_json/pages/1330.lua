@@ -12,19 +12,29 @@ return {
 			0,
 			0,
 		},
-		"All of a sudden ",
+		"All of a sudden\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Cans ",
+		"Cans\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"plows through the wall Kool-Aid Man style.",
+		"plows through the wall Kool-Aid Man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"style.\
+",
 	},
 	next = {
 		1331,

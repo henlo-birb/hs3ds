@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Another triumph for adventure. Time to blow the smoke off your berettas and saunter off into the... whoa not so fast! Behind you, Jake!!!",
+		"Another triumph for adventure. Time to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blow the smoke off your berettas and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"saunter off into the... whoa not so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fast! Behind you, Jake!!!\
+",
 	},
 	next = {
 		4232,

@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"What. ",
+		"What.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's just soda. Not great, but not that bad either. What's the big deal?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We all need to settle down here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's just soda. Not great, but not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that bad either. What's the big deal?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We all need to settle down here.\
+",
 	},
 	next = {
 		2478,

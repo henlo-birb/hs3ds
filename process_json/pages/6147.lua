@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Is that... ",
+		"Is that...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Could it really be?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Could it really be?\
+",
 	},
 	next = {
 		6148,

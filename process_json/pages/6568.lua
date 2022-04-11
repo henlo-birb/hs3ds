@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: we got a whale of a problem here",
+		"MEENAH: we got a whale of a problem\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"here\
+",
 	},
 	next = {
 		6569,

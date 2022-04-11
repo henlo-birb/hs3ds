@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are now Viceroy Bubbles Von Salamancer.",
+		"You are now Viceroy Bubbles Von\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Salamancer.\
+",
 	},
 	next = {
 		6078,

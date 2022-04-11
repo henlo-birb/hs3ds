@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You pick up the nugget of URANIUM and...",
+		"You pick up the nugget of URANIUM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh that was so stupid. Why would you do that?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh that was so stupid. Why would you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do that?\
+",
 	},
 	next = {
 		690,

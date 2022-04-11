@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The Questant receives the new ROYAL INSIGNIA.",
+		"The Questant receives the new ROYAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INSIGNIA.\
+",
 	},
 	next = {
 		3020,

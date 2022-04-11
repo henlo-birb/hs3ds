@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: NOT THAT IT HASN'T BEEN DELIGHTFUL! BUT EVERYBODY OUT!",
+		"CALLIOPE: NOT THAT IT HASN'T BEEN\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"DELIGHTFUL! BUT EVERYBODY OUT!\
+",
 	},
 	next = {
 		5624,

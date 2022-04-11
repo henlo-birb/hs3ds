@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Being culturally sensitive is really hard work.",
+		"Being culturally sensitive is really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hard work.\
+",
 	},
 	next = {
 		2681,

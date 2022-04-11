@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"The Seer of Mind had challenged the Thief of Light to a simple game of chance. ",
+		"The Seer of Mind had challenged the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thief of Light to a simple game of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chance.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If the result was the undamaged side, the Thief would agree to stay. If not, she would \"go.\"",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If the result was the undamaged side,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the Thief would agree to stay. If not,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"she would \"go.\"\
+",
 	},
 	next = {
 		3770,

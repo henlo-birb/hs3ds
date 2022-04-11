@@ -12,20 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE:",
+		"JADESPRITE:\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif\"/>\
+",
 	},
 	next = {
 		3218,

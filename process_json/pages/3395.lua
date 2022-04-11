@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You pick up the WALLET. It is full of many things. But the first thing to catch your eye is a NOTE.",
+		"You pick up the WALLET. It is full of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"many things. But the first thing to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"catch your eye is a NOTE.\
+",
 	},
 	next = {
 		3396,

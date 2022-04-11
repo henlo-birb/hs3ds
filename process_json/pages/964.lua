@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"The one on the right seems promising. ",
+		"The one on the right seems promising.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You open it to see what is inside and oh god yes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You open it to see what is inside and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"oh god yes.\
+",
 	},
 	next = {
 		965,

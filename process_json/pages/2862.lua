@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"For such a huge house, things sure are cluttered in here. Got to make some space.",
+		"For such a huge house, things sure are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cluttered in here. Got to make some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"space.\
+",
 	},
 	next = {
 		2863,

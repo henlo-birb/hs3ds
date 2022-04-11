@@ -12,42 +12,148 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: The vast amount of resulting matter then collapses into a 8lack hole.",
+		"ARANEA: The vast amount of resulting\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Its gravit8tional pull is tremendous. Any o8ject within range will 8e sucked in and destroyed.",
+		"matter then collapses into a 8lack\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"hole.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Those planets which settle into or8it will 8e safe, for the time 8eing.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: 8ut in the case of our villain's session, three of the planets did not make it and fell 8ack into the hole.",
+		"ARANEA: Its gravit8tional pull is\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"tremendous. Any o8ject within range\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"will 8e sucked in and destroyed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: This was a very lucky 8r8k for him!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Those planets which settle\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"into or8it will 8e safe, for the time\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8eing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut in the case of our\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"villain's session, three of the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"planets did not make it and fell 8ack\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"into the hole.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: This was a very lucky 8r8k for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"him!\
+",
 	},
 	next = {
 		6002,

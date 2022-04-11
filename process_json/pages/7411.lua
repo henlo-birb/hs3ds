@@ -14,23 +14,148 @@ return {
 			0,
 			0,
 		},
-		"THE FRUITS OF MY ARTISTIC TOILS ARE FINALLY AT HAND. YOU'RE WELCOME IN ADVANCE FOR THE NARRATIVE MAJESTY YOU ARE ABOUT TO WITNESS. IT COST LITERALLY MILLIONS OF CALCOINS TO PRODUCE. AS WELL AS MOST OF MY ATTENTION SPAN FOR ANY FURTHER CREATIVE ENDEAVORS. BUT YOU WILL PROBABLY AGREE, TEARFULLY. THAT IT IS WORTH ALL OF THIS EXPENSE, AND MORE. TO SEE MY TINY ACTORS OF LIVING PUTTY, *DANCE*.",
+		"THE FRUITS OF MY ARTISTIC TOILS ARE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FINALLY AT HAND. YOU'RE WELCOME IN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ADVANCE FOR THE NARRATIVE MAJESTY YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ARE ABOUT TO WITNESS. IT COST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LITERALLY MILLIONS OF CALCOINS TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PRODUCE. AS WELL AS MOST OF MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ATTENTION SPAN FOR ANY FURTHER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CREATIVE ENDEAVORS. BUT YOU WILL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROBABLY AGREE, TEARFULLY. THAT IT IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WORTH ALL OF THIS EXPENSE, AND MORE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TO SEE MY TINY ACTORS OF LIVING PUTTY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"*DANCE*.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-GET READY. TO GET DAZZLED. AS I FUCKING DESTROY THE TRANSCENDENTAL BOUNDARIES OF \"UNCONVENTIONAL MEDIA\". ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(THAT JUJU CHEST SHOULDN'T BE MOVING. SORRY. I BUMPED IT.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GET READY. TO GET DAZZLED. AS I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FUCKING DESTROY THE TRANSCENDENTAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOUNDARIES OF \"UNCONVENTIONAL MEDIA\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(THAT JUJU CHEST SHOULDN'T BE MOVING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SORRY. I BUMPED IT.)\
+",
 	},
 	next = {
 		7412,

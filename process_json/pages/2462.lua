@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And while yet another partook not in revelry, but necessity.",
+		"And while yet another partook not in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"revelry, but necessity.\
+",
 	},
 	next = {
 		2463,

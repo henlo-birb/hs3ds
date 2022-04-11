@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Ok. You're just going to ask me to recap Homestuck though. I don't know why you'd want to sit there and watch me type.",
+		"Ok. You're just going to ask me to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recap Homestuck though. I don't know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"why you'd want to sit there and watch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"me type.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is going to be pretty long.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is going to be pretty long.\
+",
 	},
 	next = {
 		1674,

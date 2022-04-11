@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Party's over, folks.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Party's over, folks.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: The pir8 playtime wiggler jam8oree was fun while it lasted.",
+		"VRISKA: The pir8 playtime wiggler\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"jam8oree was fun while it lasted.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: 8ut it's time to get serious.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8ut it's time to get serious.\
+",
 	},
 	next = {
 		6052,

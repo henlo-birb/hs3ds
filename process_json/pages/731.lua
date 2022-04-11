@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The floor turns 120 degrees and the door opens.",
+		"The floor turns 120 degrees and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"door opens.\
+",
 	},
 	next = {
 		732,

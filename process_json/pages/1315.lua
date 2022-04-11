@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Your attempt was an overwhelming success.",
+		"Your attempt was an overwhelming\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"success.\
+",
 	},
 	next = {
 		1316,

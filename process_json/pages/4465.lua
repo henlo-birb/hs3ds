@@ -12,39 +12,127 @@ return {
 			0,
 			0,
 		},
-		"Roxy is not empowered to resurrect this crusty old gag template because all of the sudden",
+		"Roxy is not empowered to resurrect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this crusty old gag template because\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all of the sudden\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-\"All of a sudden.\"",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-All of the sudden ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"All of a sudden.\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-She is too busy being the other guy.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We have absolutely GOT to peep the last two letters of this max chill dude's name on the devilfucking double!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All of the sudden\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She is too busy being the other guy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We have absolutely GOT to peep the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"last two letters of this max chill\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dude's name on the devilfucking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"double!!!\
+",
 	},
 	next = {
 		4466,

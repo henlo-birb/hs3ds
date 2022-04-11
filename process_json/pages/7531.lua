@@ -12,42 +12,134 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: The Condesce.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: The Condesce.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: We'll need a team to raid Derse again, 8ut this time for all the mar8les.",
+		"VRISKA: We'll need a team to raid\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: And remem8er, the raid has to start 8EFORE the rest of the action, to keep her from getting the upper hand.",
+		"Derse again, 8ut this time for all the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"mar8les.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: And the party has to 8e at LEAST good enough to if not defeat her, keep her 8usy for a long time.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: And remem8er, the raid has to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"start 8EFORE the rest of the action,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to keep her from getting the upper\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"hand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: So who wants a piece of the sea witch?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: And the party has to 8e at\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"LEAST good enough to if not defeat\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her, keep her 8usy for a long time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: So who wants a piece of the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sea witch?\
+",
 	},
 	next = {
 		7532,

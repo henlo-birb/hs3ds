@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You deploy the WRATHTUB.",
+		"You deploy the WRATHTUB.\
+",
 	},
 	next = {
 		1220,

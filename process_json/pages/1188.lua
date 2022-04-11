@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"4/15 GREEN TORSOS DEAD",
+		"4/15 GREEN TORSOS DEAD\
+",
 	},
 	next = {
 		1189,

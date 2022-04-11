@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You can see into eternity. ",
+		"You can see into eternity.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Forever.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok that's enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Forever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok that's enough.\
+",
 	},
 	next = {
 		3173,

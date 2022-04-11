@@ -12,31 +12,169 @@ return {
 			0,
 			0,
 		},
-		"Suddenly you are feeling very businessmanlike for some reason.",
+		"Suddenly you are feeling very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"businessmanlike for some reason.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just punched a shitload of cards in anticipation of making a whole lot of cool stuff. This time you didn't foolishly destroy any items. You just looked at the codes for some objects you rounded up, and punched them on blank cards.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You wonder how much alchemizing you can get away with before Rose gets back? As if she's got any right to tell you what to do with your hard earned grist. You're the one running around here putting your ass on the line. All she's got to do is mess around with her computer!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just punched a shitload of cards\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in anticipation of making a whole lot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of cool stuff. This time you didn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"foolishly destroy any items. You just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looked at the codes for some objects\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you rounded up, and punched them on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blank cards.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway, you better hurry.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You wonder how much alchemizing you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can get away with before Rose gets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back? As if she's got any right to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tell you what to do with your hard\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earned grist. You're the one running\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around here putting your ass on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"line. All she's got to do is mess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around with her computer!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway, you better hurry.\
+",
 	},
 	next = {
 		990,

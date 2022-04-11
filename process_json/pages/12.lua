@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"This note is rich with the aromas of FATHERLY AFTERSHAVES AND COLOGNES.",
+		"This note is rich with the aromas of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FATHERLY AFTERSHAVES AND COLOGNES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Beside the note is a ROLLED UP POSTER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Beside the note is a ROLLED UP POSTER.\
+",
 	},
 	next = {
 		13,

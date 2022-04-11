@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Acquiring a CRUXITE DOWEL seems to have populated the ATHENEUM with one item: a PERFECTLY GENERIC OBJECT.",
+		"Acquiring a CRUXITE DOWEL seems to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have populated the ATHENEUM with one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"item: a PERFECTLY GENERIC OBJECT.\
+",
 	},
 	next = {
 		190,

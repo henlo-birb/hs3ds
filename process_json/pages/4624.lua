@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Maybe he's in one of his arbitrarily helpful moods? ",
+		"Maybe he's in one of his arbitrarily\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"helpful moods?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What do you say there, friend? Little help?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What do you say there, friend? Little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"help?\
+",
 	},
 	next = {
 		4625,

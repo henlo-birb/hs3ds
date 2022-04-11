@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"HOO HOO HOO HOO HOO!",
+		"HOO HOO HOO HOO HOO!\
+",
 	},
 	next = {
 		418,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"But years, not hours...",
+		"But years, not hours...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Under bare white branches a sentry wakens.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Under bare white branches a sentry\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wakens.\
+",
 	},
 	next = {
 		845,

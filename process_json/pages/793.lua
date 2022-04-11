@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"There isn't much to wonder, really. You left the WARDROBIFIER on its randomization setting.",
+		"There isn't much to wonder, really.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You left the WARDROBIFIER on its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"randomization setting.\
+",
 	},
 	next = {
 		794,

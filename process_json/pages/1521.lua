@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You start leeching off John's SHALE at a pace of 4 g/s. ",
+		"You start leeching off John's SHALE at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a pace of 4 g/s.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Not the fastest download rate, but then again you don't need a whole lot. In one second you already collect enough for a PUNCH DESIGNIX.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Not the fastest download rate, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"then again you don't need a whole lot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In one second you already collect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough for a PUNCH DESIGNIX.\
+",
 	},
 	next = {
 		1522,

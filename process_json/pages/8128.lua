@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"THE END",
+		"THE END\
+",
 	},
 	next = {
 		8129,

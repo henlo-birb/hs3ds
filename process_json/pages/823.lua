@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You take the PORTABLE AMP from the WALL SOCKET too.",
+		"You take the PORTABLE AMP from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WALL SOCKET too.\
+",
 	},
 	next = {
 		824,

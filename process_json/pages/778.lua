@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You snap up that PUMPKIN which seems suitably ripe for the taking. Hopefully the safety of your sylladex will prevent it from being spirited away like so many of its ephemeral predecessors.",
+		"You snap up that PUMPKIN which seems\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suitably ripe for the taking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hopefully the safety of your sylladex\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will prevent it from being spirited\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"away like so many of its ephemeral\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"predecessors.\
+",
 	},
 	next = {
 		779,

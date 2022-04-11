@@ -14,42 +14,127 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
-		"\
-AA: i believed the fragment was gibberish from a lunatic",
+		"AA: i believed the fragment was\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"gibberish from a lunatic\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: after completing his rampage through our session",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
-		"\
-AA: since it was not part of the scripted chronology i was oblivious until it was too late to stop it",
+		"AA: after completing his rampage\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"through our session\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: not that it would matter if i did the timeline had already gone astray",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: since it was not part of the\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"scripted chronology i was oblivious\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"until it was too late to stop it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: i pieced together what had happened by sleuthing the various scenes",
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"AA: not that it would matter if i did\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"the timeline had already gone astray\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"AA: i pieced together what had\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"happened by sleuthing the various\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"scenes\
+",
 	},
 	next = {
 		3609,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Another timer winds down, sideways.",
+		"Another timer winds down, sideways.\
+",
 	},
 	next = {
 		871,

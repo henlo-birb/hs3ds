@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Though to be honest, you could do without some of the tacky scenery.",
+		"Though to be honest, you could do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without some of the tacky scenery.\
+",
 	},
 	next = {
 		5134,

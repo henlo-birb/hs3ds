@@ -12,168 +12,393 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: forgive my faltering, miss...",
+		"CALLIOPE: forgive my faltering,\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"miss...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: Um, miss calliope.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: Um, miss calliope.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i don't know what to do.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: am i sUpposed to ask you something?",
+		"CALLIOPE: i don't know what to do.\
+",
 		{
-			1.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: no.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CALLIOPE: but you may if you wish.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: ah.",
+		"CALLIOPE: am i sUpposed to ask you\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: in that case...",
+		"something?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: jade told me that yoU enjoy telling stories, like me.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-CALLIOPE: is that trUe?",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CALLIOPE: i used to.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CALLIOPE: long ago i would tell stories to myself, for the sake of amusement.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: no.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: now i only tell them to others, when it serves a purpose.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: but you may if you wish.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: is there a story you would like to hear?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: ah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: hmm.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: in that case...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: possibly?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: there is so mUch to wonder.",
+		"CALLIOPE: jade told me that yoU enjoy\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"telling stories, like me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: why...",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: why are yoU here?",
+		"CALLIOPE: is that trUe?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i mean, in the lair of echidna?",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: this is where i was killed.",
+		"CALLIOPE: i used to.\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: :u",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: long ago i would tell\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"stories to myself, for the sake of\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"amusement.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: would you like to hear that story?",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: now i only tell them to\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"others, when it serves a purpose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: is there a story you would\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"like to hear?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: possibly?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: there is so mUch to wonder.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: why...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: why are yoU here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i mean, in the lair of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"echidna?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: this is where i was killed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: :u\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: would you like to hear that\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"story?\
+",
 	},
 	next = {
 		7613,

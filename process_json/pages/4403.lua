@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"He says the intelligence report he had said the kid wouldn't take well to peanuts. So he snuck in there with a whole bag of them. You know, like the kind from circuses.",
+		"He says the intelligence report he had\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"said the kid wouldn't take well to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peanuts. So he snuck in there with a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whole bag of them. You know, like the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kind from circuses.\
+",
 	},
 	next = {
 		4404,

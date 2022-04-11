@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You figure you've left him hanging long enough.",
+		"You figure you've left him hanging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long enough.\
+",
 	},
 	next = {
 		199,

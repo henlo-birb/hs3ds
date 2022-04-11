@@ -14,249 +14,533 @@ return {
 			0,
 			0,
 		},
-		"You are no doubt reading this as a handsome and strapping young man! Why, the mangrit needed to lift the book is itself a sign of your maturity, not even to speak of the wisdom needed to grasp the nuance of ",
+		"You are no doubt reading this as a\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"_ul_Sassacre",
+		"handsome and strapping young man! Why,\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s time-tested mischief. I am so proud of you, grandson!",
+		"the mangrit needed to lift the book is\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"\
-\
-How I wish I could have delivered this heirloom to you in the flesh. But I am afraid it wasn't in the cards! For you see, John, like you, this book must yet take a journey! Its journey will end on the ",
+		"itself a sign of your maturity, not\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"_ul_Final Day",
+		"even to speak of the wisdom needed to\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" of my life, and even then will continue some. Though I suppose that will be up to your ",
+		"grasp the nuance of\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"_ul_Father",
+		"Sassacre\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". Perhaps he will discuss it with you one day, when he and you are ready.",
+		"'s time-tested mischief. I am so proud\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"\
-\
-But it is your journey I am writing about to wish you luck! There will come a day when you will be thrust into another world. And once you arrive, that is only the beginning! You will soon delve even deeper into a realm of ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Warring Royalty",
-		{
-			0,
-			0,
-			0,
-		},
-		" in a ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Timeless Expanse",
-		{
-			0,
-			0,
-			0,
-		},
-		". A realm of ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Agents",
-		{
-			0,
-			0,
-			0,
-		},
-		" and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Exiles",
-		{
-			0,
-			0,
-			0,
-		},
-		" and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Consorts",
-		{
-			0,
-			0,
-			0,
-		},
-		" and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Kernelsprites",
-		{
-			0,
-			0,
-			0,
-		},
-		". Of toiling ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Underlings",
-		{
-			0,
-			0,
-			0,
-		},
-		" and slumbering ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Denizens",
-		{
-			0,
-			0,
-			0,
-		},
-		". A realm where four will gather, the ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Heir of Breath",
-		{
-			0,
-			0,
-			0,
-		},
-		" and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Seer of Light",
-		{
-			0,
-			0,
-			0,
-		},
-		", the ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Knight of Time",
-		{
-			0,
-			0,
-			0,
-		},
-		" and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Witch of Space",
-		{
-			0,
-			0,
-			0,
-		},
-		", and together they will ",
-		{
-			0,
-			0,
-			0,
-		},
-		"_ul_Ascend",
-		{
-			0,
-			0,
-			0,
-		},
-		".",
+		"of you, grandson!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-John, if only you knew how important you were! I regret my passing came so early in your life. And yet I feel in my heart we have already met. But what I know for sure is that we will meet again! ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Until then, John, I do hope your ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"_ul_Father",
+		"How I wish I could have delivered this\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" keeps you well fed!",
+		"heirloom to you in the flesh. But I am\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/00759_4under.gif\"/>",
+		"afraid it wasn't in the cards! For you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"see, John, like you, this book must\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yet take a journey! Its journey will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"end on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Final Day\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of my life, and even then will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"continue some. Though I suppose that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will be up to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Father\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		". Perhaps he will discuss it with you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one day, when he and you are ready.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it is your journey I am writing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about to wish you luck! There will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come a day when you will be thrust\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into another world. And once you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"arrive, that is only the beginning!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will soon delve even deeper into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"realm of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Warring Royalty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Timeless Expanse\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		". A realm of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Agents\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Exiles\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Consorts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Kernelsprites\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		". Of toiling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Underlings\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and slumbering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Denizens\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		". A realm where four will gather, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Heir of Breath\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Seer of Light\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		", the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Knight of Time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Witch of Space\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		", and together they will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ascend\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John, if only you knew how important\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you were! I regret my passing came so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"early in your life. And yet I feel in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"my heart we have already met. But what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I know for sure is that we will meet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Until then, John, I do hope your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Father\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"keeps you well fed!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/00759_4under.gif\"/>\
+",
 	},
 	next = {
 		760,

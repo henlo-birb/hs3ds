@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Motherfuckin...",
+		"Motherfuckin...\
+",
 	},
 	next = {
 		2822,

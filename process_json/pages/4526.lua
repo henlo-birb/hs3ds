@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Oh, that? That's just your sick ink, featuring a legendary cultural icon of deep personal significance. What is even the big deal.",
+		"Oh, that? That's just your sick ink,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"featuring a legendary cultural icon of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deep personal significance. What is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even the big deal.\
+",
 	},
 	next = {
 		4527,

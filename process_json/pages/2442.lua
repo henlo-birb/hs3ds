@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What will you both do?",
+		"What will you both do?\
+",
 	},
 	next = {
 		2443,

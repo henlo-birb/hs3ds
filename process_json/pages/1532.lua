@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You have no idea where you're going. You are too nervous to ask anyone.",
+		"You have no idea where you're going.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are too nervous to ask anyone.\
+",
 	},
 	next = {
 		1533,

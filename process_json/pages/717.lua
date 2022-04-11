@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"All four screens activate. Together they display a countdown, starting at four hours and thirteen minutes.",
+		"All four screens activate. Together\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"they display a countdown, starting at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"four hours and thirteen minutes.\
+",
 	},
 	next = {
 		718,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The SPRITE finds the DISTRACTING MANNER in which you FLAIL ABOUT to be rather DISTRACTING.",
+		"The SPRITE finds the DISTRACTING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MANNER in which you FLAIL ABOUT to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather DISTRACTING.\
+",
 	},
 	next = {
 		280,

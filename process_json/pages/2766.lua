@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The little coolkid is making a mess of his lovely new horseleather bib. It is about as adorable as it gets.",
+		"The little coolkid is making a mess of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his lovely new horseleather bib. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about as adorable as it gets.\
+",
 	},
 	next = {
 		2767,

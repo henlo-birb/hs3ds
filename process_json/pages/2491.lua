@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"AH employs a daring execution of AUTHORTECH -> LADDER TO SELF INDULGENCE behind his own back. It keeps happening.",
+		"AH employs a daring execution of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AUTHORTECH -> LADDER TO SELF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INDULGENCE behind his own back. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"keeps happening.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-All MSPA readers make a solemn vow to do an acrobatic fucking pirouette off the stump and blow their brains out if it doesn't stop keep happening.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All MSPA readers make a solemn vow to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do an acrobatic fucking pirouette off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the stump and blow their brains out if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it doesn't stop keep happening.\
+",
 	},
 	next = {
 		2492,

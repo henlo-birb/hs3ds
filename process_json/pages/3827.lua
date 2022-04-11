@@ -12,35 +12,106 @@ return {
 			0,
 			0,
 		},
-		"But challenged, if my guess is right. ",
+		"But challenged, if my guess is right.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Challenged by one claiming godhood before reaping the prodigious spoils from striking down a formidable endgame foe. One with the guile of a cheater, the luck of a ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Challenged by one claiming godhood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before reaping the prodigious spoils\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from striking down a formidable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"endgame foe. One with the guile of a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cheater, the luck of a\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		", the hubris of her mentor, and the drive known only to the pathologically competitive.",
+		", the hubris of her mentor, and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"drive known only to the pathologically\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"competitive.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I believe he'd be challenged, yes...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I believe he'd be challenged, yes...\
+",
 	},
 	next = {
 		3828,

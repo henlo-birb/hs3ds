@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"The dÎsc is tø€ badly da™aged. You can no lcœger play Homeµ&uck.",
+		"The dÎsc is tø€ badly da™aged. You can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no lcœger play Homeµ&uck.\
+",
 	},
 	next = {
 		3762,

@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"You make a FOAM MUTANT SMUPPET ENCASED IN AMBER.",
+		"You make a FOAM MUTANT SMUPPET ENCASED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN AMBER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now we're getting somewhere.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now we're getting somewhere.\
+",
 	},
 	next = {
 		1838,

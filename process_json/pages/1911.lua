@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"There is a large elevator platform ahead.",
+		"There is a large elevator platform\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ahead.\
+",
 	},
 	next = {
 		1912,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The danger currently has John's full attention. What would you like him to do?",
+		"The danger currently has John's full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"attention. What would you like him to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do?\
+",
 	},
 	next = {
 		2979,

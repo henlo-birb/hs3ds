@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You put the punched BLENDER card in a shunt just for the hell of it, and stick it on the jumper pins.",
+		"You put the punched BLENDER card in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shunt just for the hell of it, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stick it on the jumper pins.\
+",
 	},
 	next = {
 		1559,

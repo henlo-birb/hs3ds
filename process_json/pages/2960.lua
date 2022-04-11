@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Why yes, he is in peril. He was stranded there on account of a nap instigated by the one he apprentices under.",
+		"Why yes, he is in peril. He was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stranded there on account of a nap\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instigated by the one he apprentices\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"under.\
+",
 	},
 	next = {
 		2961,

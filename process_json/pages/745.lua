@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You nudge the numbers a bit more and appearify a bunch of cans. This is so much more efficient than walking back to the other room to get them. ",
+		"You nudge the numbers a bit more and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearify a bunch of cans. This is so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"much more efficient than walking back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the other room to get them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are to believe that time is at a premium, after all.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are to believe that time is at a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"premium, after all.\
+",
 	},
 	next = {
 		746,

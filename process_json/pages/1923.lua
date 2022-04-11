@@ -12,23 +12,85 @@ return {
 			0,
 			0,
 		},
-		"This all seems pointless to you, and immaterial to the crime that has been committed. ",
+		"This all seems pointless to you, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"immaterial to the crime that has been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"committed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Though you do find it odd that the appearifier target has been fixed over that especially stupid looking animal. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You hear the elevator platform. Someone is coming.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Though you do find it odd that the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearifier target has been fixed over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that especially stupid looking animal.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You hear the elevator platform.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone is coming.\
+",
 	},
 	next = {
 		1924,

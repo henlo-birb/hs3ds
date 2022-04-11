@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"I GIVE THE MALE A MYSTERIOUS CHEST. ",
+		"I GIVE THE MALE A MYSTERIOUS CHEST.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-WILL WHAT IS INSIDE. TURN THE TIDE OF BATTLE?? LET'S FIND OUT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WILL WHAT IS INSIDE. TURN THE TIDE OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BATTLE?? LET'S FIND OUT.\
+",
 	},
 	next = {
 		6515,

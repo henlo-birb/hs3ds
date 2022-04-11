@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Wait! What is this? Ms. Tyler is handing you a note.",
+		"Wait! What is this? Ms. Tyler is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handing you a note.\
+",
 	},
 	next = {
 		3675,

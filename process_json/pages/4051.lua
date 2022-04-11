@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"And since you are still my guest, it would please me to tell you this inspiring tale as well.",
+		"And since you are still my guest, it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would please me to tell you this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inspiring tale as well.\
+",
 	},
 	next = {
 		4052,

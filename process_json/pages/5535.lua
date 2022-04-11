@@ -12,198 +12,477 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: nothing!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ROXY: nothing!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i was just...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i was just...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: it was a joke!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: it was a joke!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: WAS IT REALLY?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: WAS IT REALLY?!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: ok maybe not a total joke\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: ok maybe not a total joke",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: but still mostly a joke!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: but still mostly a joke!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: im only\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: im only",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: trying to\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: trying to",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: blurgh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: blurgh",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i dont know",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: ROXY, I GET YOU'RE TRYING TO MAKE ME FEEL BETTER, BUT A LOT OF THINGS YOU'RE SAYING HERE AREN'T REALLY HELPING!",
+		"JANE: ROXY, I GET YOU'RE TRYING TO\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: DO YOU EVEN REALIZE WHAT YOU'RE SAYING HALF THE TIME?",
+		"MAKE ME FEEL BETTER, BUT A LOT OF\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"THINGS YOU'RE SAYING HERE AREN'T\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"REALLY HELPING!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I THINK I LIKED YOU BETTER WHEN YOU WERE DRINKING!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: DO YOU EVEN REALIZE WHAT YOU'RE\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"SAYING HALF THE TIME?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I THINK I LIKED YOU BETTER WHEN\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"YOU WERE DRINKING!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: jaaane no\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: jaaane no",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: dont say that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: dont say that",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: i had a problem :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: i had a problem :(",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 3833 < 38(\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FEFETASPRITE: 3833 < 38(",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: OK, YEAH!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: OK, YEAH!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I WAS WAY OUT OF LINE THERE AND I'M SORRY! ",
+		"JANE: I WAS WAY OUT OF LINE THERE AND\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"I'M SORRY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: THAT STUPID CONVERSATION WITH JAKE JUST PUSHED ME OVER SOME KIND OF EDGE AND NOW I AM FEELING REALLY, REALLY DISTRAUGHT!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-\
-JANE: AND NOW ON TOP OF ALL THAT, I MAY HAVE PERMANENTLY DESTROYED MY FRIENDSHIP WITH JAKE!",
+		"JANE: THAT STUPID CONVERSATION WITH\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: AND NOW...",
+		"JAKE JUST PUSHED ME OVER SOME KIND OF\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: Now...",
+		"EDGE AND NOW I AM FEELING REALLY,\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"REALLY DISTRAUGHT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I just want to be alone.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: AND NOW ON TOP OF ALL THAT, I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"MAY HAVE PERMANENTLY DESTROYED MY\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"FRIENDSHIP WITH JAKE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: AND NOW...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Now...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I just want to be alone.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: jane wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: jane wait",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: I have to go!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I have to go!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: where are you going!",
+		"ROXY: where are you going!\
+",
 	},
 	next = {
 		5536,

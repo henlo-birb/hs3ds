@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Look at these fabulous beta envelopes you just drew!",
+		"Look at these fabulous beta envelopes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you just drew!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your sylladex thinks they are fabulous too!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YEAH!!!!!!!!!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your sylladex thinks they are fabulous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"too!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YEAH!!!!!!!!!!!!!!\
+",
 	},
 	next = {
 		1377,

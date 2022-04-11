@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There, there, you blubbering goddamn pansy.",
+		"There, there, you blubbering goddamn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pansy.\
+",
 	},
 	next = {
 		2473,

@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You make a HUGGABLE SOFT SALAMANCER PLUSH.",
+		"You make a HUGGABLE SOFT SALAMANCER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLUSH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You award it to the Viceroy on account of good behavior.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You award it to the Viceroy on account\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of good behavior.\
+",
 	},
 	next = {
 		1806,

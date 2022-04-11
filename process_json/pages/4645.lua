@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"She doesn't respond. Must be busy with something. Probably just goofing off and drinking up a storm as usual.",
+		"She doesn't respond. Must be busy with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something. Probably just goofing off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and drinking up a storm as usual.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like it'll have to wait anyway. Someone's messaging you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like it'll have to wait anyway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone's messaging you.\
+",
 	},
 	next = {
 		4646,

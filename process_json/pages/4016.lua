@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: I THINK I GAVE HIM CANCER.",
+		"PCG: I THINK I GAVE HIM CANCER.\
+",
 	},
 	next = {
 		4017,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Perhaps you will. But if you do, it looks like you'll have to break it first.",
+		"Perhaps you will. But if you do, it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks like you'll have to break it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Perfectly good STRIFE SPECIBUS, down the toilet. Thanks BRO.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Perfectly good STRIFE SPECIBUS, down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the toilet. Thanks BRO.\
+",
 	},
 	next = {
 		1084,

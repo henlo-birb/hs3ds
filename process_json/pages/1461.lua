@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You stop in your tracks. It is a dangerous AGENT from the enemy kingdom. Perhaps you should avoid him.",
+		"You stop in your tracks. It is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous AGENT from the enemy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kingdom. Perhaps you should avoid him.\
+",
 	},
 	next = {
 		1462,

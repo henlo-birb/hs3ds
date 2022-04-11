@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Ah ha! There's HALLEY. The youngsters adore their new guardian. Good dog. Best friend.",
+		"Ah ha! There's HALLEY. The youngsters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adore their new guardian. Good dog.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Best friend.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The young boy has difficulty pronouncing the name though. Sounds more like \"Harley\" when he says it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The young boy has difficulty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pronouncing the name though. Sounds\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more like \"Harley\" when he says it.\
+",
 	},
 	next = {
 		1922,

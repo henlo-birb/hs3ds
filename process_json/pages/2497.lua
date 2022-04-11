@@ -12,14 +12,169 @@ return {
 			0,
 			0,
 		},
-		"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH ",
+		"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA HA!!!!!!!!!!!!!!!!!!!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA HA HA HA HA HA HA HA HA HA HA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HA HA HA!!!!!!!!!!!!!!!!!!!!!!!!\
+",
 	},
 	next = {
 		2498,

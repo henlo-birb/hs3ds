@@ -14,7 +14,29 @@ return {
 			0,
 			0,
 		},
-		"In the distance, meteorites fall with greater frequency. The fire in the forest burns so hot, not even the rain is putting it out!",
+		"In the distance, meteorites fall with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"greater frequency. The fire in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forest burns so hot, not even the rain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is putting it out!\
+",
 	},
 	next = {
 		274,

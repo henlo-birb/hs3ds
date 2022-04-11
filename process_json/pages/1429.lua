@@ -13,78 +13,260 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: nanna, are you there?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: nanna, are you there?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Yes!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: Yes!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i just saw my house from below.\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"what gives? why did the gate take me\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"down here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i just saw my house from below. what gives? why did the gate take me down here?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: All the gates do, John. To ascend, each time you must first descend!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: huh. alright. so i guess i scramble around down here until... uh, until what?",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-\
-JOHN: ok, so i get to that gate and go in. then what? where does it take me? uh... further up maybe? but i haven't even built that high yet.",
+		"NANNASPRITE: All the gates do, John.\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: So you see why you had to build in the first place, John? You must have a little faith in your dear old nanna!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: yeah, well, i do nanna but i'm still not really getting it. does the next gate down here take me back up to the house or something?",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: (please don't say hoo hoo hoo)",
+		"To ascend, each time you must first\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"descend!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: HOO. HOO HOO.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: huh. alright. so i guess i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"scramble around down here until... uh,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"until what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ok, so i get to that gate and go\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"in. then what? where does it take me?\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"uh... further up maybe? but i haven't\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"even built that high yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: So you see why you had to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"build in the first place, John? You\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"must have a little faith in your dear\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"old nanna!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yeah, well, i do nanna but i'm\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"still not really getting it. does the\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"next gate down here take me back up to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the house or something?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: (please don't say hoo hoo hoo)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: HOO. HOO HOO.\
+",
 	},
 	next = {
 		1430,

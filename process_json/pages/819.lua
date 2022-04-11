@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the IRRADIATED STEAK and save it for your trip outside.",
+		"You captchalogue the IRRADIATED STEAK\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and save it for your trip outside.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You probably shouldn't waste much more time. You wouldn't want all those nice depleted steak isotopes to settle down.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You probably shouldn't waste much more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time. You wouldn't want all those nice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"depleted steak isotopes to settle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down.\
+",
 	},
 	next = {
 		820,

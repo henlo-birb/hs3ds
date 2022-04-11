@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"NO NANNA NOOOOOOOOOOOOOOOOOOO",
+		"NO NANNA NOOOOOOOOOOOOOOOOOOO\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Well, at least you are pretty sure she doesn't live in there. She is probably still back at your house, baking or something.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Well, at least you are pretty sure she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doesn't live in there. She is probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"still back at your house, baking or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something.\
+",
 	},
 	next = {
 		2918,

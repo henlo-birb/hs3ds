@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"It is an awfully silly idea and is basically a waste of everyone's time. You will predictably disregard this thought and focus on more sensible objectives at once.",
+		"It is an awfully silly idea and is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"basically a waste of everyone's time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will predictably disregard this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thought and focus on more sensible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"objectives at once.\
+",
 	},
 	next = {
 		775,

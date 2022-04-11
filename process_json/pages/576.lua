@@ -12,63 +12,106 @@ return {
 			0,
 			0,
 		},
-		"You grab the ",
+		"You grab the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"SH",
+		"SH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"R",
+		"R\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"I",
+		"I\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"K",
+		"K\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"NS",
+		"NS\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (5) and...",
+		"(5) and...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hey! Careful where you're putting stuff, especially if you're looking to turn your sylladex into a powder-keg full of sharp things.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hey! Careful where you're putting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stuff, especially if you're looking to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"turn your sylladex into a powder-keg\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full of sharp things.\
+",
 	},
 	next = {
 		577,

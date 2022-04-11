@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A RAG OF SOULS drifts from the heavens. Its owner, a mystery.",
+		"A RAG OF SOULS drifts from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heavens. Its owner, a mystery.\
+",
 	},
 	next = {
 		1946,

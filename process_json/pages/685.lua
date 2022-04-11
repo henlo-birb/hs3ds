@@ -12,7 +12,92 @@ return {
 			0,
 			0,
 		},
-		"As the glorious founder and mayor of CAN TOWN, you erect a dignified, majestic CITY HALL out of cans, fittingly capped off with a tome of good manners for the roof. You have given yourself a very official and important looking MAYORAL SASH made out of old cables to complete your look of authority. A number of rather civic-minded CITIZEN CANS gather in front of the building to offer adulation to their fair and magnanimous leader. All is well.",
+		"As the glorious founder and mayor of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAN TOWN, you erect a dignified,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"majestic CITY HALL out of cans,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fittingly capped off with a tome of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good manners for the roof. You have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"given yourself a very official and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"important looking MAYORAL SASH made\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out of old cables to complete your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"look of authority. A number of rather\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"civic-minded CITIZEN CANS gather in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"front of the building to offer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adulation to their fair and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"magnanimous leader. All is well.\
+",
 	},
 	next = {
 		686,

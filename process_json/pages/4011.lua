@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: HE'S MISSING A CRITICAL SEQUENCE IN HIS DNA.",
+		"PCG: HE'S MISSING A CRITICAL SEQUENCE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IN HIS DNA.\
+",
 	},
 	next = {
 		4012,

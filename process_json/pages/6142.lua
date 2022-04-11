@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"Perfect.",
+		"Perfect.\
+",
 	},
 	next = {
 		6143,

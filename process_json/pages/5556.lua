@@ -12,21 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: FUCK YOU! HE'S NOT DEAD!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: FUCK YOU! HE'S NOT DEAD!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: MY DAD'S FINE, I'M NOT FAT, AND I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"HATE YOU! I'M NEVER TALKING TO YOU\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"AGAIN!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: MY DAD'S FINE, I'M NOT FAT, AND I HATE YOU! I'M NEVER TALKING TO YOU AGAIN!!!!!!",
+",
 	},
 	next = {
 		5557,

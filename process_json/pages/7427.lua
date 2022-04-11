@@ -14,7 +14,29 @@ return {
 			0,
 			0,
 		},
-		"THE FRACAS IS LOUD AND LARGE. POWER LEVELS ARE OFF THE CHARTS. YOU CAN'T EVEN FOLLOW WHAT'S HAPPENING WITH YOUR EYES!",
+		"THE FRACAS IS LOUD AND LARGE. POWER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LEVELS ARE OFF THE CHARTS. YOU CAN'T\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVEN FOLLOW WHAT'S HAPPENING WITH YOUR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EYES!\
+",
 	},
 	next = {
 		7428,

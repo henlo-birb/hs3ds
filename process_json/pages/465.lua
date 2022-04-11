@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You are sort of starting to flip the fuck out.",
+		"You are sort of starting to flip the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fuck out.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Without losing your cool of course.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Without losing your cool of course.\
+",
 	},
 	next = {
 		466,

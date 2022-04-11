@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Like you said, you don't have a bed. ",
+		"Like you said, you don't have a bed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have a SARSWAPAGUS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have a SARSWAPAGUS.\
+",
 	},
 	next = {
 		5120,

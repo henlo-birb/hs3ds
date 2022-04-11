@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Regal types can be very touchy, even the ones who seem to revel in anarchy. But if you know all the right things to say and do, she will happily hand over the keys to the kingdom, so to speak.",
+		"Regal types can be very touchy, even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the ones who seem to revel in anarchy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But if you know all the right things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to say and do, she will happily hand\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"over the keys to the kingdom, so to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"speak.\
+",
 	},
 	next = {
 		4941,

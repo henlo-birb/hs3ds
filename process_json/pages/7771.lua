@@ -12,77 +12,204 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Is It The Thing Behind Your Back",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: yup but u gotta be more specific",
+		"KANAYA: Is It The Thing Behind Your\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Back\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Is It A Little Piece Of Paper That Says Hey On It",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: hahahahaha no but that would be SO FUNNY!",
+		"ROXY: yup but u gotta be more specific\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: hahaha youre pretty funny",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-ROXY: damn now i wanna go away and start this whole shit over so i can do that punchline instead",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Is It A Little Piece Of Paper\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"That Says Hey On It\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Maybe We Should Do Several Rehearsals First Just To Make Sure The Final Performance Is As Funny As Possible",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: yes!!",
+		"ROXY: hahahahaha no but that would be\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"SO FUNNY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: but no",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: hahaha youre pretty funny\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: what i have for youuu",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: damn now i wanna go away and\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"start this whole shit over so i can do\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"that punchline instead\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Maybe We Should Do Several\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Rehearsals First Just To Make Sure The\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Final Performance Is As Funny As\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Possible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yes!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: but no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: what i have for youuu\
+",
 	},
 	next = {
 		7772,

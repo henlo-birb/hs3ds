@@ -14,7 +14,29 @@ return {
 			0,
 			0,
 		},
-		"I retire to my heavily processed photograph of Andrew Carnegie's study, painstakingly retrieved from a google image search.",
+		"I retire to my heavily processed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"photograph of Andrew Carnegie's study,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"painstakingly retrieved from a google\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"image search.\
+",
 	},
 	next = {
 		3232,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You make your way through the burning woods to meet the lusus you never had.",
+		"You make your way through the burning\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"woods to meet the lusus you never had.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's time for her to hatch. It's now or never.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's time for her to hatch. It's now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or never.\
+",
 	},
 	next = {
 		2125,

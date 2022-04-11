@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This RED PACKAGE is addressed to you.",
+		"This RED PACKAGE is addressed to you.\
+",
 	},
 	next = {
 		100,

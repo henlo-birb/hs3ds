@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You make the JUNIOR COMPU-SOOTH SPECTAGOGGLES!",
+		"You make the JUNIOR COMPU-SOOTH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECTAGOGGLES!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can never have too many cool computers.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can never have too many cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computers.\
+",
 	},
 	next = {
 		3159,

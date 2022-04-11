@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You make the DUTTON BUBBLE GOGGLES!",
+		"You make the DUTTON BUBBLE GOGGLES!\
+",
 	},
 	next = {
 		3172,

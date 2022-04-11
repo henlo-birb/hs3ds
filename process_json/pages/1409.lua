@@ -13,15 +13,78 @@ return {
 			0,
 			0,
 		},
-		"You excuse yourself for a moment and retrieve a few of your personal belongings. These should really impress your visitors.",
+		"You excuse yourself for a moment and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"retrieve a few of your personal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"belongings. These should really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"impress your visitors.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That musty old toy on the floor ought to make a nice peace offering for the feisty tall one too. You are quite certain that ladies like squishy useless things like that.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That musty old toy on the floor ought\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to make a nice peace offering for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feisty tall one too. You are quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"certain that ladies like squishy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"useless things like that.\
+",
 	},
 	next = {
 		1410,

@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Your new ruler seems upset. You understand it is not easy being in a position of authority.",
+		"Your new ruler seems upset. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understand it is not easy being in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"position of authority.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You politely inform her that as the queen she is under no obligation to wear a crown. It is her decision.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You politely inform her that as the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"queen she is under no obligation to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wear a crown. It is her decision.\
+",
 	},
 	next = {
 		3017,

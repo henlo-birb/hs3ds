@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The slayer is summoned. The collateral, presented.",
+		"The slayer is summoned. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collateral, presented.\
+",
 	},
 	next = {
 		1951,

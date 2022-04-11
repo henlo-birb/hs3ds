@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Oh God dammit.",
+		"Oh God dammit.\
+",
 	},
 	next = {
 		126,

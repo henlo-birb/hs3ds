@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You de-bed.",
+		"You de-bed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The snow is quite deep.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The snow is quite deep.\
+",
 	},
 	next = {
 		2998,

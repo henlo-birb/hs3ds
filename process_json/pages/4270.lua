@@ -12,7 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The well traveled HAT shares in your glorious spoils. The battle-hardened accessory reaches dizzying new heights, leapfrogging from the DOUCHEBAG'S DOMESUCKER rung, to the rare, highly coveted MARTYR'S PISSCRADLE rung.",
+		"The well traveled HAT shares in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"glorious spoils. The battle-hardened\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"accessory reaches dizzying new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heights, leapfrogging from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOUCHEBAG'S DOMESUCKER rung, to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rare, highly coveted MARTYR'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PISSCRADLE rung.\
+",
 	},
 	next = {
 		4271,

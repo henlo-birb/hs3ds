@@ -13,7 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You've been fidgeting around your room all day, making little observations about your various belongings, checking the clock. When will the dang mail get here?? You take another peek out the window, just in case.",
+		"You've been fidgeting around your room\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all day, making little observations\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about your various belongings,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"checking the clock. When will the dang\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mail get here?? You take another peek\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out the window, just in case.\
+",
 	},
 	next = {
 		4131,

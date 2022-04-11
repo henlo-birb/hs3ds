@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Yes, it seems so.",
+		"Yes, it seems so.\
+",
 	},
 	next = {
 		515,

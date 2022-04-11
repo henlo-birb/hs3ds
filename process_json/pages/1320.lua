@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You're pretty sure this oven doesn't actually work at all. ",
+		"You're pretty sure this oven doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"actually work at all.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just wheel it off somewhere else in the mansion so it can explode in peace.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just wheel it off somewhere else\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the mansion so it can explode in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peace.\
+",
 	},
 	next = {
 		1321,

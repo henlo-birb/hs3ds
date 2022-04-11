@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The underlings have been getting enormous lately. Must have been something one of those other clowns prototyped.",
+		"The underlings have been getting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enormous lately. Must have been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something one of those other clowns\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prototyped.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Speaking of clowns...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Speaking of clowns...\
+",
 	},
 	next = {
 		2542,

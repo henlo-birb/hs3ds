@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Minus several.",
+		"Minus several.\
+",
 	},
 	next = {
 		5573,

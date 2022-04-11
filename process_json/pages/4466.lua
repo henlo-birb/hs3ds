@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Hey, clear out that stupid pony! What is this, some sort of miniature paddock?",
+		"Hey, clear out that stupid pony! What\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is this, some sort of miniature\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paddock?\
+",
 	},
 	next = {
 		4467,

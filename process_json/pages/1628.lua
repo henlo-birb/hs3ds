@@ -12,35 +12,71 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Strider.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Strider.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I need you to do me a favor.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I need you to do me a favor.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Can you take a capture of my bedroom and send me the file?",
+		"TT: Can you take a capture of my\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"bedroom and send me the file?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: For no reason in particular?",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: For no reason in particular?\
+",
 	},
 	next = {
 		1629,

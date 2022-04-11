@@ -12,21 +12,43 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Trace",
+		"Trace\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" always knows where you've been. ",
+		"always knows where you've been.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The spineless rat likes to follow your PAST TRAIL around and mess with you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The spineless rat likes to follow your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PAST TRAIL around and mess with you.\
+",
 	},
 	next = {
 		1204,

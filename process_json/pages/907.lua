@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are accosted by a friendly MUTANT KITTEN.",
+		"You are accosted by a friendly MUTANT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"KITTEN.\
+",
 	},
 	next = {
 		908,

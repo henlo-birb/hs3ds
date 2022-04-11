@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Ah. You see. It appears there are quite a few said gluttons this time. Settle down, gentlemen. There are more than enough face bashings to go around.",
+		"Ah. You see. It appears there are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quite a few said gluttons this time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Settle down, gentlemen. There are more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than enough face bashings to go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around.\
+",
 	},
 	next = {
 		4924,

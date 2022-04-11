@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"By which we might laud his fall as heroic.",
+		"By which we might laud his fall as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heroic.\
+",
 	},
 	next = {
 		3793,

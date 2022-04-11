@@ -12,89 +12,134 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"grrr!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"grrr!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"its so hard to concentrate while i\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"have to stare at his STUPID little\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"shorts!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"its so hard to concentrate while i have to stare at his STUPID little shorts!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"i didnt ask for this jake!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"i didnt ask for this jake!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"i never wanted to see my grandpa in a\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"sexy pair of underpants!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"i never wanted to see my grandpa in a sexy pair of underpants!!!",
+		"<img border=\"0\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext3.gif\"/>",
+		"src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/jake_bigtext3.gif\"/>\
+",
 	},
 	next = {
 		6616,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"John isn't sure about that. It's a long way down.",
+		"John isn't sure about that. It's a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long way down.\
+",
 	},
 	next = {
 		264,

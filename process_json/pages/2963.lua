@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"John is too engrossed in the conversation to entertain your wishes.",
+		"John is too engrossed in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conversation to entertain your wishes.\
+",
 	},
 	next = {
 		2964,

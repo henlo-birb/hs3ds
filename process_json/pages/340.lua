@@ -15,23 +15,64 @@ return {
 			0,
 			0,
 		},
-		"You can't do it!",
+		"You can't do it!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-John's got you all twisted up inside now. All you can think about is Mandel's gross monster piss. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Damn you, Egbert!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John's got you all twisted up inside\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now. All you can think about is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Mandel's gross monster piss.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Damn you, Egbert!\
+",
 	},
 	next = {
 		341,

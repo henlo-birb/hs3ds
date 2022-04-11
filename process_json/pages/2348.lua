@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Having narrowly dodged obliteration, you take your place as the PAGE OF BREATH in the LAND OF SAND AND ZEPHYR.",
+		"Having narrowly dodged obliteration,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you take your place as the PAGE OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BREATH in the LAND OF SAND AND ZEPHYR.\
+",
 	},
 	next = {
 		2349,

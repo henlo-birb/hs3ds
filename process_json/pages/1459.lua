@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You discover a couple of UNAUTHORIZED PARCELS in the cabin of the vehicle. You confiscate them immediately.",
+		"You discover a couple of UNAUTHORIZED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PARCELS in the cabin of the vehicle.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You confiscate them immediately.\
+",
 	},
 	next = {
 		1460,

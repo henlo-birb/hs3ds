@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"That door is locked tight. You're going to need a key to open it. Preferably one that isn't horribly drawn on the floor to taunt you.",
+		"That door is locked tight. You're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"going to need a key to open it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Preferably one that isn't horribly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"drawn on the floor to taunt you.\
+",
 	},
 	next = {
 		4901,

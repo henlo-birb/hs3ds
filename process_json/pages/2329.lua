@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"You had nearly forgotten. Today her time would come. ",
+		"You had nearly forgotten. Today her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time would come.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe you should be there in her final moment. But then it isn't exactly final, is it?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Death is pretty confusing without the finality.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you should be there in her final\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"moment. But then it isn't exactly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"final, is it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Death is pretty confusing without the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"finality.\
+",
 	},
 	next = {
 		2330,

@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"It's not up to you to decide what you retrieve from your sylladex. It's up to the spirits.",
+		"It's not up to you to decide what you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"retrieve from your sylladex. It's up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the spirits.\
+",
 	},
 	next = {
 		2136,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The mail is delivered. An obligation, satisfied.",
+		"The mail is delivered. An obligation,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"satisfied.\
+",
 	},
 	next = {
 		1954,

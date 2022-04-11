@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"The TOWEL floats back down to the rack.",
+		"The TOWEL floats back down to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rack.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The circle of stupidity is complete.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The circle of stupidity is complete.\
+",
 	},
 	next = {
 		491,

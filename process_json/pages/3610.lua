@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: as for the book\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: as for the book",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: i lost track of it shortly after i\
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"arrived\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: i lost track of it shortly after i arrived",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: yes we all lost track of our books",
+		"AA: yes we all lost track of our books\
+",
 	},
 	next = {
 		3611,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"After all, royalty is royalty.",
+		"After all, royalty is royalty.\
+",
 	},
 	next = {
 		4942,

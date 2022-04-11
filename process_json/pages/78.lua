@@ -13,23 +13,85 @@ return {
 			0,
 			0,
 		},
-		"You play the prankster's favorite card game, even though you are alone in the room, thus rendering it an especially foolish version of Solitaire.",
+		"You play the prankster's favorite card\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"game, even though you are alone in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"room, thus rendering it an especially\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"foolish version of Solitaire.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SO STUPID. Look at this mess.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The peanut gallery over there sure is getting a kick out of it. You are allergic to their scorn.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SO STUPID. Look at this mess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The peanut gallery over there sure is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting a kick out of it. You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"allergic to their scorn.\
+",
 	},
 	next = {
 		79,

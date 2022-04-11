@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Fine. You guess you are going for a little ride.",
+		"Fine. You guess you are going for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little ride.\
+",
 	},
 	next = {
 		3409,

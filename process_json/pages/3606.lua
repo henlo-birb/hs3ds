@@ -12,42 +12,78 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: there was another fragment\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: there was another fragment",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"AA: oh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: oh?",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: yes",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"AA: an additional eight symbols\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: an additional eight symbols",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
-		"\
-AA: from a wild card source i suppose",
+		"AA: from a wild card source i suppose\
+",
 	},
 	next = {
 		3607,

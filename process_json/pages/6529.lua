@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"CHAPTER TWO.",
+		"CHAPTER TWO.\
+",
 	},
 	next = {
 		6530,

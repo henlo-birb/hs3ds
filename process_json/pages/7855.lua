@@ -12,372 +12,911 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yES, tHAT'S ME,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yES, tHAT'S ME,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: hI AGAIN FINALLY, uHHHH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: hI AGAIN FINALLY, uHHHH,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: aLIVE VRISKA?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: aLIVE VRISKA?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: tHAT SEEMS LIKE A DIFFERENT TWIST OF EVENTS, i DIDN'T EXPECT, aND DON'T UNDERSTAND, bUT,",
+		"TAVROS: tHAT SEEMS LIKE A DIFFERENT\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TWIST OF EVENTS, i DIDN'T EXPECT, aND\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"DON'T UNDERSTAND, bUT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: iT DOESN'T CHANGE MUCH ABOUT MY CURRENT MAJOR ACCOMPLISHMENT,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: iT DOESN'T CHANGE MUCH ABOUT\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"MY CURRENT MAJOR ACCOMPLISHMENT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: What accomplishment?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: What accomplishment?!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: What are you doing with all these ghosts?",
+		"VRISKA: What are you doing with all\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"these ghosts?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Is this...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Is this...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Is this a GHOST ARMY?!?!?!?!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Is this a GHOST ARMY?!?!?!?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: iT IS INDEED,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: iT IS INDEED,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: And I'm to 8elieve YOU'RE\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"responsi8le for this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: And I'm to 8elieve YOU'RE responsi8le for this?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: yOU CAN BELIEVE WHATEVER YOU LIKE,",
+		"TAVROS: yOU CAN BELIEVE WHATEVER YOU\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"LIKE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: bELIEVING, aS ALWAYS, iS HALF THE BATTLE, wHEN IT COMES TO MAKING THINGS MARGINALLY LESS FAKE,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: bUT THE FACT, tHAT i PERSONALLY BUILT THIS ARMY, mYSELF, iS GOING TO BE A *FACT*,",
+		"TAVROS: bELIEVING, aS ALWAYS, iS HALF\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: wHETHER YOU DECIDE TO BELIEVE IN IT, oR NOT!",
+		"THE BATTLE, wHEN IT COMES TO MAKING\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: }:D",
+		"THINGS MARGINALLY LESS FAKE,\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Oh, 8ullshit.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: You must have had help or something. Or used some kind of trick.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Tell me the truth, Nitram. How'd this get done? Who was pulling the strings??",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: sTRINGS, ?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Who is influencing the minds of all these ghosts????????",
+		"TAVROS: bUT THE FACT, tHAT i\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: mE!",
+		"PERSONALLY BUILT THIS ARMY, mYSELF, iS\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"GOING TO BE A *FACT*,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: wELL, nOT pRESENTLY,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: wHETHER YOU DECIDE TO BELIEVE\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"IN IT, oR NOT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: bUT i DID BEFORE, aND NOW HERE THEY ARE, fOLLOWING ME,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: }:D\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Oh, 8ullshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You?!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: You must 8e joking.",
+		"VRISKA: You must have had help or\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"something. Or used some kind of trick.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You don't have those kinds of powers!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I mean, unless... ghosts are sort of like a kind of animal?",
+		"VRISKA: Tell me the truth, Nitram.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"How'd this get done? Who was pulling\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the strings??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Meenah, is that how it works? Are ghosts actually fucking animals?!",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: sTRINGS, ?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Who is influencing the minds\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of all these ghosts????????\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: mE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: wELL, nOT pRESENTLY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: bUT i DID BEFORE, aND NOW HERE\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"THEY ARE, fOLLOWING ME,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You must 8e joking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You don't have those kinds of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"powers!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I mean, unless... ghosts are\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sort of like a kind of animal?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Meenah, is that how it works?\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Are ghosts actually fucking animals?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: no\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: no",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: vRISKA, tRUST ME,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: vRISKA, tRUST ME,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: tHERE IS NO COMMUNION INVOLVED, oR, eSCAPADES OF THE MIND,",
+		"TAVROS: tHERE IS NO COMMUNION\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"INVOLVED, oR, eSCAPADES OF THE MIND,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: oNLY ESCAPADES OF THE HEART!",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: oNLY ESCAPADES OF THE HEART!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: What sort of hideous fuckwitted 8aloney drivel are you spouting out your prattle socket this time?",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: wHAT i MEAN IS,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: i *CONVINCED* THEM ALL TO JOIN ME, vRISKA,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: uSING WORDS,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: aND SMILES,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: aND FRIENDSHIP, }:D",
+		"VRISKA: What sort of hideous\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: No...",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: nO?",
+		"fuckwitted 8aloney drivel are you\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: NO........",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: bUT,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: hAVE YOU CONSIDERED,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: yES???",
+		"spouting out your prattle socket this\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: NOOOOOOOO!!!!!!!!",
+		"time?\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: This can't 8e.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: I don't see how...",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Do you know what this means?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: wHAT i MEAN IS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-TAVROS: uHH,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: i *CONVINCED* THEM ALL TO JOIN\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"ME, vRISKA,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: mAYBE?",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: uSING WORDS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: aND SMILES,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: aND FRIENDSHIP, }:D\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: No...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It means...",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: NO........\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: bUT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: hAVE YOU CONSIDERED,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: yES???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: NOOOOOOOO!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: This can't 8e.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I don't see how...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Do you know what this means?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: uHH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: mAYBE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It means...\
+",
 	},
 	next = {
 		7856,

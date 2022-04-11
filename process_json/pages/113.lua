@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You decide it's time for less meta, and more beta.",
+		"You decide it's time for less meta,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and more beta.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You insert the CD and install the SBURB BETA.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You insert the CD and install the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SBURB BETA.\
+",
 	},
 	next = {
 		114,

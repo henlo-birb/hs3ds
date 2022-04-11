@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"You make a whole pile of SUITARANGS because they are really cool and pretty cheap.",
+		"You make a whole pile of SUITARANGS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because they are really cool and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pretty cheap.\
+",
 	},
 	next = {
 		1834,

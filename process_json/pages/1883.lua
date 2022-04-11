@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"An old mother lost today, but a new son gained.",
+		"An old mother lost today, but a new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"son gained.\
+",
 	},
 	next = {
 		1884,

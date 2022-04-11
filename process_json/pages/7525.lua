@@ -12,28 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: HOW DOES THIS LOOK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: HOW DOES THIS LOOK?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Gr8!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Gr8!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I think I can work with this.",
+		"VRISKA: I think I can work with this.\
+",
 	},
 	next = {
 		7526,

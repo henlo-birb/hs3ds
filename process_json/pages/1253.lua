@@ -12,69 +12,148 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" mutters to himself in his shop. He guesses ",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"Eggs",
+		"mutters to himself in his shop. He\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" and ",
+		"guesses\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Biscuits",
+		"Eggs\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" are roughhousing again, because the fabric of spacetime is tearing something fierce on ",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"Lord English",
-		{
-			0,
-			0,
-			0,
-		},
-		"'s CAIRO OVERCOAT. This sort of thing is exactly why he keeps a BACKUP COAT, and always leaves ",
+		"and\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Biscuits\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" with one of them.",
+		"are roughhousing again, because the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fabric of spacetime is tearing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something fierce on\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Lord English\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"'s CAIRO OVERCOAT. This sort of thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is exactly why he keeps a BACKUP COAT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and always leaves\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Stitch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with one of them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Any gang does well to have an in-house doctor on hand. But if you deal in time travel you better have a damn good tailor too.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Any gang does well to have an in-house\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doctor on hand. But if you deal in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time travel you better have a damn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good tailor too.\
+",
 	},
 	next = {
 		1254,

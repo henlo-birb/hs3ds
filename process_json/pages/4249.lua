@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Uh oh. Something's coming up.",
+		"Uh oh. Something's coming up.\
+",
 	},
 	next = {
 		4250,

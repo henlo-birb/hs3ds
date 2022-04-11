@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Ok, enough's enough. Time to get goiAUGH",
+		"Ok, enough's enough. Time to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"goiAUGH\
+",
 	},
 	next = {
 		377,

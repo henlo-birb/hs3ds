@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"As long as you're cleaning up...",
+		"As long as you're cleaning up...\
+",
 	},
 	next = {
 		68,

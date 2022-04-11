@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Yes, that will suffice.",
+		"Yes, that will suffice.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Rose deletes the PERFECTLY GENERIC OBJECTS. 6 units of BUILD GRIST are restored to your GRIST CACHE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Rose deletes the PERFECTLY GENERIC\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OBJECTS. 6 units of BUILD GRIST are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"restored to your GRIST CACHE.\
+",
 	},
 	next = {
 		262,

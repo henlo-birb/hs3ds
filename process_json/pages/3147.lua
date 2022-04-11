@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You make a pair of LUNCHMUFFS! Finally, an easy hands-free computing solution that keeps your ears warm, and looks amazing to boot!",
+		"You make a pair of LUNCHMUFFS!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Finally, an easy hands-free computing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"solution that keeps your ears warm,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and looks amazing to boot!\
+",
 	},
 	next = {
 		3148,

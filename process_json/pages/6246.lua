@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"SEE? LIKE THAT.",
+		"SEE? LIKE THAT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HE STOOD ON THAT FLASHY THING. WHICH MAY NOT EVEN BE LITERALLY REAL?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE STOOD ON THAT FLASHY THING. WHICH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAY NOT EVEN BE LITERALLY REAL?\
+",
 	},
 	next = {
 		6247,

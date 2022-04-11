@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"YES. FUCK YES. HELL FUCKING YES.",
+		"YES. FUCK YES. HELL FUCKING YES.\
+",
 	},
 	next = {
 		1773,

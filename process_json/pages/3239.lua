@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"Sorry.",
+		"Sorry.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Why don't we get back to what's happening on the other side of the coat.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These poor girls are very upset and emotional, and we kind of left them hanging.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Why don't we get back to what's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happening on the other side of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These poor girls are very upset and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"emotional, and we kind of left them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hanging.\
+",
 	},
 	next = {
 		3240,

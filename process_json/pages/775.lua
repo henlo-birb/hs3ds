@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"oh my god this is so much fun",
+		"oh my god this is so much fun\
+",
 	},
 	next = {
 		776,

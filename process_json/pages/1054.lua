@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You make the GREEN SLIME GHOST SUIT.",
+		"You make the GREEN SLIME GHOST SUIT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Pretty swanky, but you are not completely satisfied with the wardrobe upgrade yet.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Pretty swanky, but you are not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"completely satisfied with the wardrobe\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"upgrade yet.\
+",
 	},
 	next = {
 		1055,

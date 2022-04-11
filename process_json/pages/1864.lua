@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You ditch the body before Jade sees it. That would probably freak her out.",
+		"You ditch the body before Jade sees\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. That would probably freak her out.\
+",
 	},
 	next = {
 		1865,

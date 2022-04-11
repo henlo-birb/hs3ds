@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"It's too late. ",
+		"It's too late.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'd better change back into your work clothes. No point in getting a good dress dirty.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd better change back into your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"work clothes. No point in getting a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good dress dirty.\
+",
 	},
 	next = {
 		2332,

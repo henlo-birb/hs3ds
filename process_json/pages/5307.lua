@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: john...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: john...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: are you asleep?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: are you asleep?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: please dont tell me you just fell asleep in your driveway",
+		"JADE: please dont tell me you just\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"fell asleep in your driveway\
+",
 	},
 	next = {
 		5308,

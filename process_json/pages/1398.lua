@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"It's almost as if this broken AIR CONDITIONING UNIT was scaled to be a perfect fit for the ALCHEMITER all along.",
+		"It's almost as if this broken AIR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONDITIONING UNIT was scaled to be a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perfect fit for the ALCHEMITER all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-WEIRD!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WEIRD!\
+",
 	},
 	next = {
 		1399,

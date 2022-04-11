@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Thank you.",
+		"Thank you.\
+",
 	},
 	next = {
 		4041,

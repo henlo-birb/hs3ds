@@ -12,21 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Your contraption and its busy fists just royally kicked my ass.",
+		"GT: Your contraption and its busy\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"fists just royally kicked my ass.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: And that sure as god made little green apples isnt all there is to say on the matter!",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: And that sure as god made little\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"green apples isnt all there is to say\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"on the matter!\
+",
 	},
 	next = {
 		4576,

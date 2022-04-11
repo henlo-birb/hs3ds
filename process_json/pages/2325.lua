@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Alright, let's settle down. No need to get hysterical.",
+		"Alright, let's settle down. No need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get hysterical.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, there goes your WARDROBIFIER again. Never a dull moment in fashion when the randomized cycle is on.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, there goes your WARDROBIFIER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again. Never a dull moment in fashion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when the randomized cycle is on.\
+",
 	},
 	next = {
 		2326,

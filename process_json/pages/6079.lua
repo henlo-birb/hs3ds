@@ -12,15 +12,99 @@ return {
 			0,
 			0,
 		},
-		"You retrieve your adorable amphibious arms from your RAG OF DEMONS. And in doing so you reveal them to be adorably grasping the dreaded CROOK OF FRAILTY. No young salamancer should dabble in the dark arts without one.",
+		"You retrieve your adorable amphibious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"arms from your RAG OF DEMONS. And in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doing so you reveal them to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adorably grasping the dreaded CROOK OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FRAILTY. No young salamancer should\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dabble in the dark arts without one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You twirl the grim cudgel in the air and begin to disturb ancient spirits from their slumber. In spite of necromancy's notoriously bonkers FAKENESS ATTRIBUTE, you begin to cast a spell!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You twirl the grim cudgel in the air\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and begin to disturb ancient spirits\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from their slumber. In spite of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"necromancy's notoriously bonkers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FAKENESS ATTRIBUTE, you begin to cast\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a spell!\
+",
 	},
 	next = {
 		6080,

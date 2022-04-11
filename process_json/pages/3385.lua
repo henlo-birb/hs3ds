@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"Alas, they cannot be revived.",
+		"Alas, they cannot be revived.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Their dream selves have been slain.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Their dream selves have been slain.\
+",
 	},
 	next = {
 		3386,

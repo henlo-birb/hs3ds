@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You just make another one.",
+		"You just make another one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You quickly stash it in a card so it can't escape from above.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You quickly stash it in a card so it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't escape from above.\
+",
 	},
 	next = {
 		1832,

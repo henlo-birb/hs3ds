@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You know you should grab this thing, but...",
+		"You know you should grab this thing,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but...\
+",
 	},
 	next = {
 		909,

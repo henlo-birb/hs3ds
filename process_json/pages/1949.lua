@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A communication device is borrowed. A rendezvous, arranged.",
+		"A communication device is borrowed. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rendezvous, arranged.\
+",
 	},
 	next = {
 		1950,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You regather your items and begin the soggy trek mausoleum-ward.",
+		"You regather your items and begin the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"soggy trek mausoleum-ward.\
+",
 	},
 	next = {
 		397,

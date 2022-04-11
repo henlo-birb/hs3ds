@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"OF A CRAFT'S MAN.",
+		"OF A CRAFT'S MAN.\
+",
 	},
 	next = {
 		6932,

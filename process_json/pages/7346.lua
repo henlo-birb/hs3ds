@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: hehehehehe\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: hehehehehe",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Hahahaha!",
+		"VRISKA: Hahahaha!\
+",
 	},
 	next = {
 		7347,

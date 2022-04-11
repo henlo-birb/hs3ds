@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"OF A GENTLE SOUL.",
+		"OF A GENTLE SOUL.\
+",
 	},
 	next = {
 		6933,

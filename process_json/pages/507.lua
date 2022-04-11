@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Oblivious to the commotion behind you, suddenly you find yourself pondering the whereabouts of a CAN OPENER.",
+		"Oblivious to the commotion behind you,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suddenly you find yourself pondering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the whereabouts of a CAN OPENER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You think there is probably one in the kitchen, but the path is blocked by your REFRIGERATOR.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think there is probably one in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kitchen, but the path is blocked by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your REFRIGERATOR.\
+",
 	},
 	next = {
 		508,

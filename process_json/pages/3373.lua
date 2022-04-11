@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"The murder weapon however reveals a plethora of prints! Your keen tongue tells you that most of these belong to the victim. But several are unidentified. Hmm... ",
+		"The murder weapon however reveals a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plethora of prints! Your keen tongue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tells you that most of these belong to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the victim. But several are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unidentified. Hmm...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(You are only pretending to think there is any chance they are not Vriska's, because otherwise it would be no fun.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(You are only pretending to think\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there is any chance they are not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Vriska's, because otherwise it would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be no fun.)\
+",
 	},
 	next = {
 		3374,

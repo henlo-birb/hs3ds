@@ -12,116 +12,267 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
--- grimAuxiliatrix ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"-- grimAuxiliatrix\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"[GA]",
+		"[GA]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began trolling tentacleTherapist ",
+		"began trolling tentacleTherapist\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"[TT]",
+		"[TT]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" --",
+		"--\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-\
-GA: Okay This Will Probably Strike You As An Odd Moment For Me To Mention This",
+		"GA: Okay This Will Probably Strike You\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: But Actually",
+		"As An Odd Moment For Me To Mention\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"This\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: There Are Not Many Moments Ive Observed On Your Timeline Which Wouldnt Qualify As Odd",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: But Actually\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: And Somehow",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: Your Idle Moments Seem To Invite Interruption The Least",
+		"GA: There Are Not Many Moments Ive\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: And This Is A Difficult Topic For Me To Broach",
+		"Observed On Your Timeline Which\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Wouldnt Qualify As Odd\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: For Reasons That You Probably Wont Understand",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And Somehow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Your Idle Moments Seem To Invite\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Interruption The Least\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And This Is A Difficult Topic For\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Me To Broach\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: For Reasons That You Probably Wont\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Understand\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You're rambling again, Kanaya.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You're rambling again, Kanaya.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: Okay Sorry\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Okay Sorry",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: Ive Just Been Meaning To Say\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Ive Just Been Meaning To Say",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: That I Read Your Instructional Guide",
+		"GA: That I Read Your Instructional\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Guide\
+",
 	},
 	next = {
 		2693,

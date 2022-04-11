@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You aren't going to stand around jack king off all day long, so you grab the JACK OF DIAMONDS.",
+		"You aren't going to stand around jack\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"king off all day long, so you grab the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JACK OF DIAMONDS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Here's your BACKUP HAT. Problem solved, you guess.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Here's your BACKUP HAT. Problem\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"solved, you guess.\
+",
 	},
 	next = {
 		1198,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"None the wiser, you board the shuttle. Next stop, Skaia.",
+		"None the wiser, you board the shuttle.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Next stop, Skaia.\
+",
 	},
 	next = {
 		1788,

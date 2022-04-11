@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Just before you can grab one, the powerful ELECTROMAGNETS concealed in their underbellies become activated, and two of them get all tangled up with each other playfully.",
+		"Just before you can grab one, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powerful ELECTROMAGNETS concealed in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their underbellies become activated,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and two of them get all tangled up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with each other playfully.\
+",
 	},
 	next = {
 		796,

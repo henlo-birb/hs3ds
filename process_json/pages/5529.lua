@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!",
+		"GG:\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!\
+",
 	},
 	next = {
 		5530,

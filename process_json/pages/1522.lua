@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You set the application to leech off John's BUILD GRIST because he's obviously got too much for his own good.",
+		"You set the application to leech off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John's BUILD GRIST because he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"obviously got too much for his own\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It cuts the download rate in half though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It cuts the download rate in half\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though.\
+",
 	},
 	next = {
 		1523,

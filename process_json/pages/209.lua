@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You clamp the CRUXITE in the lathe.",
+		"You clamp the CRUXITE in the lathe.\
+",
 	},
 	next = {
 		210,

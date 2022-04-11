@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"SUCH AS IN CASE I WAS IN NEED. OF MORE FICTITIOUS IDIOTS TO MURDER. INSIDE MY DRAWINGS.",
+		"SUCH AS IN CASE I WAS IN NEED. OF MORE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FICTITIOUS IDIOTS TO MURDER. INSIDE MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DRAWINGS.\
+",
 	},
 	next = {
 		6862,

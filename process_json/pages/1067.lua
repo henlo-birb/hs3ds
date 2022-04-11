@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Whatever this item is, you cannot make it yet! It requires a ludicrous amount of grist, some types of which you have not even encountered.",
+		"Whatever this item is, you cannot make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it yet! It requires a ludicrous amount\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of grist, some types of which you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not even encountered.\
+",
 	},
 	next = {
 		1068,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Collateral desecration mars the sacred/illicit.",
+		"Collateral desecration mars the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacred/illicit.\
+",
 	},
 	next = {
 		1360,

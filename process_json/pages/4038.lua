@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"He is a far less gracious host than I.",
+		"He is a far less gracious host than I.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait, what are you doing?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait, what are you doing?\
+",
 	},
 	next = {
 		4039,

@@ -15,7 +15,22 @@ return {
 			0,
 			0,
 		},
-		"You stop all this flying around nonsense and examine John's birthday package.",
+		"You stop all this flying around\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonsense and examine John's birthday\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"package.\
+",
 	},
 	next = {
 		998,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"They witness the destruction of the facility. Collateral damage to a corporation owned by a renowned billionaire explorer. ",
+		"They witness the destruction of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"facility. Collateral damage to a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"corporation owned by a renowned\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"billionaire explorer.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A mystery begins.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A mystery begins.\
+",
 	},
 	next = {
 		1870,

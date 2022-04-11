@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Now where did that craven excuse for a custodian go. It makes you furious when he goes missing like this. Probably off somewhere nursing his bruises. You swear, the old boy is made of glass. You are starting to get agitated.",
+		"Now where did that craven excuse for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"custodian go. It makes you furious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when he goes missing like this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Probably off somewhere nursing his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bruises. You swear, the old boy is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made of glass. You are starting to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"agitated.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Aurthour! Where are you???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Aurthour! Where are you???\
+",
 	},
 	next = {
 		2213,

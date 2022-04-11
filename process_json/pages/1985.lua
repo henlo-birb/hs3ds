@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"There's another cloud.",
+		"There's another cloud.\
+",
 	},
 	next = {
 		1986,

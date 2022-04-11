@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Thank you, cat who is probably Jaspers.",
+		"Thank you, cat who is probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jaspers.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The final two chromosomic symbols have been released from their fluffy, twitching prison.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The final two chromosomic symbols have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been released from their fluffy,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"twitching prison.\
+",
 	},
 	next = {
 		4464,

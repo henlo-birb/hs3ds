@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"HELL",
+		"HELL\
+",
 	},
 	next = {
 		2446,

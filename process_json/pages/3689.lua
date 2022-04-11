@@ -14,102 +14,246 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
--- gardenGnostic ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"-- gardenGnostic\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"[GG]",
+		"[GG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ectoBiologist ",
+		"began pestering ectoBiologist\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"[EB]",
+		"[EB]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" --",
+		"--\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: john!!! i am worried about rose!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-GG: john!!! i am worried about rose!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: im pretty sure she is on her way there to look for jack!",
+		"GG: im pretty sure she is on her way\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"there to look for jack!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i cant say for sure because i cant see her with my goggles anymore for some reason, but i am fearing the worst",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: just in case, you should to try to intercept her before she does something stupid like try to fight him!!!!!",
+		"GG: i cant say for sure because i cant\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: also, um...",
+		"see her with my goggles anymore for\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: i guess you probably still dont know about your dad yet do you?",
+		"some reason, but i am fearing the\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"worst\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: darn, why do i always have to be the one to break terrible news :(",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: er",
+		"GG: just in case, you should to try to\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"intercept her before she does\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"something stupid like try to fight\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"him!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: john?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: also, um...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: i guess you probably still dont\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"know about your dad yet do you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: darn, why do i always have to be\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the one to break terrible news :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: er\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: john?\
+",
 	},
 	next = {
 		3690,

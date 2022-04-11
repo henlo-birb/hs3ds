@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You step up on the little curby thing to get a better look outside. Can't make a plan without getting your bearings.",
+		"You step up on the little curby thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get a better look outside. Can't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make a plan without getting your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bearings.\
+",
 	},
 	next = {
 		4885,

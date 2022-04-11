@@ -12,371 +12,939 @@ return {
 			0,
 			0,
 		},
-		"|AUTHORLOG|",
+		"|AUTHORLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Please don't type in the narrative prompt.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-YOU CAN'T FUCKING DO THAT.",
+		"Please don't type in the narrative\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Do what.",
+		"prompt.\
+",
 		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
+			0,
+			0,
+			0,
 		},
 		"\
-GO BACKWARDS.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-This isn't backwards stupid. It's forwards.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-After all the trickster shit happened.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"YOU CAN'T FUCKING DO THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NO. I MEAN.",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Do what.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"GO BACKWARDS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-BACKWARDS BY AN \"ACT\".",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"This isn't backwards stupid. It's\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"forwards.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"After all the trickster shit happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"NO. I MEAN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-OR I GUESS. AN \"ACT ACT ACT\"?",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-ARGH. I HATE THE THINGS I'M FORCED TO SAY. AND ACKNOWLEDGE AS REAL. BECAUSE OF YOU.",
+		"BACKWARDS BY AN \"ACT\".\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-I can go back all the act act acts I want.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-The act act acts are kind of meaningless anyway.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Besides, trickster mode was getting obnoxious.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-NO IT WASN'T!",
+		"OR I GUESS. AN \"ACT ACT ACT\"?\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Yes it was.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-NO.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Yes.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-NO.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Let's not do the Equius yes/no thing.",
+		"ARGH. I HATE THE THINGS I'M FORCED TO\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-IT WAS GREAT. IT WAS THE BEST THING I EVER UNLOCKED. FROM YOUR BULLSHIT MONITORS.",
+		"SAY. AND ACKNOWLEDGE AS REAL. BECAUSE\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"OF YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DON'T ERASE THE ONLY AWESOME THING. I EVER SAW THESE ASSHOLES DO. ASIDE FROM DYING.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-What are you talking about? I didn't erase it. It was still a thing that happened.",
+		"I can go back all the act act acts I\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"want.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Do you really think I have the power to make something unhappen??",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-I would have to be a wizard to do that. And as we both know perfectly well, magic is fake as shit.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-I WANT TO SEE MORE CANDY ANTICS YOU AWFUL FUCK.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-SEND ME BACK FORWARD TO THE NEXT ACT ACT ACT.",
+		"The act act acts are kind of\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"meaningless anyway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-No way.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-And incidentally, I didn't authorize you to send that lollipop.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-OH, WHAT. YOU DON'T APPROVE OF MY JUJU?!",
+		"Besides, trickster mode was getting\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Approve of kids doing something kinda like drugs and making dumb plans to get quadruple married and have babies?",
+		"obnoxious.\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-No, I don't approve of that.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Besides, that's no way to make progress.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-You don't just give the heroes some cheap game breaking candy let them blast through the whole adventure and all their personal issues.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-That's some deus ex machina shit you were trying to pull.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"NO IT WASN'T!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-YEAH RIGHT. MORE LIKE.",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Yes it was.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"NO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DELICIOUS EX MACHINA!",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Lame.",
+		"Yes.\
+",
 		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
+			0,
+			0,
+			0,
 		},
 		"\
-GO BACK.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-No.",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-I MEAN BACKFORWARD.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-No.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"NO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GO BACKFORWARD TO ACT ACT ACT WHATEVER.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-No.",
+		"Let's not do the Equius yes/no thing.\
+",
 		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
+			0,
+			0,
+			0,
 		},
 		"\
-I WANT TO SEE THEM FINISH THEIR CANDY ROMP!",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Nope!",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-YES.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-No.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-YES.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-No.",
+		"IT WAS GREAT. IT WAS THE BEST THING I\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-YES.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-No.",
+		"EVER UNLOCKED. FROM YOUR BULLSHIT\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"MONITORS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-YOU PIECE OF SHIT!",
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"DON'T ERASE THE ONLY AWESOME THING. I\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"EVER SAW THESE ASSHOLES DO. ASIDE FROM\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"DYING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"What are you talking about? I didn't\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"erase it. It was still a thing that\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Do you really think I have the power\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"to make something unhappen??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"I would have to be a wizard to do\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"that. And as we both know perfectly\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"well, magic is fake as shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I WANT TO SEE MORE CANDY ANTICS YOU\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"AWFUL FUCK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"SEND ME BACK FORWARD TO THE NEXT ACT\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"ACT ACT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"And incidentally, I didn't authorize\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"you to send that lollipop.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"OH, WHAT. YOU DON'T APPROVE OF MY\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"JUJU?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Approve of kids doing something kinda\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"like drugs and making dumb plans to\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"get quadruple married and have babies?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No, I don't approve of that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Besides, that's no way to make\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"progress.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You don't just give the heroes some\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"cheap game breaking candy let them\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"blast through the whole adventure and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"all their personal issues.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"That's some deus ex machina shit you\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"were trying to pull.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YEAH RIGHT. MORE LIKE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"DELICIOUS EX MACHINA!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Lame.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"GO BACK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I MEAN BACKFORWARD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"GO BACKFORWARD TO ACT ACT ACT\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHATEVER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I WANT TO SEE THEM FINISH THEIR CANDY\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"ROMP!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Nope!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YOU PIECE OF SHIT!\
+",
 	},
 	next = {
 		5780,

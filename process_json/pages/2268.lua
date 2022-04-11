@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"One retrieves his dead custodian from the rubble below.",
+		"One retrieves his dead custodian from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the rubble below.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Another finds hers struggling to survive.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Another finds hers struggling to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"survive.\
+",
 	},
 	next = {
 		2269,

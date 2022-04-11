@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: please hUrry back, jade.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: please hUrry back, jade.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: yoUr friends all miss yoU here.",
+		"CALLIOPE: yoUr friends all miss yoU\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"here.\
+",
 	},
 	next = {
 		7887,

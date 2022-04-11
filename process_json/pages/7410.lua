@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"TO JOIN ME, FOR...",
+		"TO JOIN ME, FOR...\
+",
 	},
 	next = {
 		7411,

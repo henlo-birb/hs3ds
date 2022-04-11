@@ -12,182 +12,407 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i dunno\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i dunno",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: ill try to make better sense of all this later",
+		"TG: ill try to make better sense of\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"all this later\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i just wanted to tell you",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i just wanted to tell you\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and thank you for all you did to bring us together like this",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: it has meant so v much 2 me",
+		"TG: and thank you for all you did to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"bring us together like this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: oh guess what i even have a new lightning bug pal!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: it has meant so v much 2 me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: he is toties cute + friendly + blinky as all getout",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i think i will name him",
+		"TG: oh guess what i even have a new\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"lightning bug pal!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: doctor blinkbottom",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: no thats shit",
+		"TG: he is toties cute + friendly +\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"blinky as all getout\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: how about",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i think i will name him\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: twinkly herbert",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: doctor blinkbottom\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: lmfao that is kinda sucky too",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: no thats shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: but i like it",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: how about\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so i am a keep it",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: twinkly herbert\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: herbert just blinked in total agreement omg what a friend",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: lmfao that is kinda sucky too\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ok calliope",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: but i like it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: by which i mean.......",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: so i am a keep it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: CALLIOPE",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: eh?",
+		"TG: herbert just blinked in total\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"agreement omg what a friend\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ehhh???",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ok calliope\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: still nothin?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: by which i mean.......\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: k well i should go then",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: CALLIOPE\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: my party is getting a lit bit rowdy over there",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: eh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: oh my god what are they actually doing",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: ehhh???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: still nothin?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: k well i should go then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: my party is getting a lit bit\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"rowdy over there\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: oh my god what are they actually\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"doing\
+",
 	},
 	next = {
 		5466,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"What? No! That sounds incredibly dangerous!",
+		"What? No! That sounds incredibly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous!\
+",
 	},
 	next = {
 		270,

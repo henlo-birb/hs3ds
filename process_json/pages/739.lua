@@ -12,15 +12,92 @@ return {
 			0,
 			0,
 		},
-		"It seems this mysterious gourd was transported (appearified!!!) from a specific time and location somewhere on this planet you are on. You wonder if the machine (APPEARIFIER!!!) will take any object that exists at whatever time and location you supply.",
+		"It seems this mysterious gourd was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"transported (appearified!!!) from a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"specific time and location somewhere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on this planet you are on. You wonder\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"if the machine (APPEARIFIER!!!) will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"take any object that exists at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whatever time and location you supply.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is a symbol carved on the PUMPKIN. You don't know what it means, and you doubt it will ever prove to be relevant in any way.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is a symbol carved on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PUMPKIN. You don't know what it means,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you doubt it will ever prove to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"relevant in any way.\
+",
 	},
 	next = {
 		740,

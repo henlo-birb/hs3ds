@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Apologies for the intrusion,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Apologies for the intrusion,",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: But I seem to be lost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: But I seem to be lost.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: Could you please tell me where I am?",
+		"JANE: Could you please tell me where I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"am?\
+",
 	},
 	next = {
 		7194,

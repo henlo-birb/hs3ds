@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"There is nothing to psychoanalyze. Your mother clearly has no real affinity for these damnable things. She only collects them to spite you.",
+		"There is nothing to psychoanalyze.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your mother clearly has no real\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"affinity for these damnable things.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She only collects them to spite you.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If anything, she finds them even more repellent than you do. She's just a committed woman.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If anything, she finds them even more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"repellent than you do. She's just a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"committed woman.\
+",
 	},
 	next = {
 		361,

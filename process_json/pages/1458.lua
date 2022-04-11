@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Hello. What have we here?",
+		"Hello. What have we here?\
+",
 	},
 	next = {
 		1459,

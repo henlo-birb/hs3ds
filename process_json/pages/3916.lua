@@ -12,98 +12,246 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: This was my respite8lock.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: This was my respite8lock.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: From kind of an em8arrassing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"memory, actually.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: From kind of an em8arrassing memory, actually.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"GT: haha, more eight balls!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: haha, more eight balls!!!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"GT: you sure do like to smash them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: you sure do like to smash them.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: John, addiction is a powerful\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"thing. You pro8a8ly wouldn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"understand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: John, addiction is a powerful thing. You pro8a8ly wouldn't understand.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"GT: what are you wearing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: what are you wearing?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Just a fairy dress.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Just a fairy dress.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: I wore it for this stupid thing I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"did once.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I wore it for this stupid thing I did once.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-GT: is that a rocket car stuck in the web over there?",
+		"GT: is that a rocket car stuck in the\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-GT: what's that about?",
+		"web over there?\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-AG: Don't worry a8out it! Man, this would 8e such an awkward moment on a d8. Again, if it was one.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"GT: what's that about?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: there's something really familiar about that rocket...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Don't worry a8out it! Man, this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"would 8e such an awkward moment on a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"d8. Again, if it was one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Let's keep going.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"GT: there's something really familiar\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"about that rocket...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Let's keep going.\
+",
 	},
 	next = {
 		3917,

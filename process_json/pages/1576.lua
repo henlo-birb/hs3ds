@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Size of the object you make is now variable. The bigger, the more expensive, as one would expect.",
+		"Size of the object you make is now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"variable. The bigger, the more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"expensive, as one would expect.\
+",
 	},
 	next = {
 		1577,

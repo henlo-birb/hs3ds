@@ -12,23 +12,85 @@ return {
 			0,
 			0,
 		},
-		"There are several signals being broadcasted from the LABORATORY, each of relatively decent strength.",
+		"There are several signals being\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"broadcasted from the LABORATORY, each\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of relatively decent strength.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-One of them is mysteriously and quite conveniently UNSECURED, requiring no password.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You select the signal, and reconnect to the game with John.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"One of them is mysteriously and quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conveniently UNSECURED, requiring no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"password.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You select the signal, and reconnect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the game with John.\
+",
 	},
 	next = {
 		240,

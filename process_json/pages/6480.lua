@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"THESE TWO DELECTABLE FLOOZIES WERE NOT SUPPOSED TO SHOW UP UNTIL A LOT LATER. ",
+		"THESE TWO DELECTABLE FLOOZIES WERE NOT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SUPPOSED TO SHOW UP UNTIL A LOT LATER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BUT LET'S BE HONEST. IT DOESN'T MATTER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUT LET'S BE HONEST. IT DOESN'T\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MATTER.\
+",
 	},
 	next = {
 		6481,

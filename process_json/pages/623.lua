@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You create a HAMMER at the expense of 2 units of BUILD GRIST.",
+		"You create a HAMMER at the expense of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"2 units of BUILD GRIST.\
+",
 	},
 	next = {
 		624,

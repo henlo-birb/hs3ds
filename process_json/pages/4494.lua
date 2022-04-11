@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You push some buttons and mess with some knobby dealies, and get totally set to subject shit to the madrigogs.",
+		"You push some buttons and mess with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some knobby dealies, and get totally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"set to subject shit to the madrigogs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-* mad rigors",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"* mad rigors\
+",
 	},
 	next = {
 		4495,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Whoops, needs the Felt duds. Hang on.",
+		"Whoops, needs the Felt duds. Hang on.\
+",
 	},
 	next = {
 		3236,

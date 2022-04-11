@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"War chest? What are you talking about. All you've got is this simple, unassuming DECK OF CARDS.",
+		"War chest? What are you talking about.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All you've got is this simple,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unassuming DECK OF CARDS.\
+",
 	},
 	next = {
 		1183,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The LIQUOR BOTTLES are out in full force. MOM is surely nearby.",
+		"The LIQUOR BOTTLES are out in full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"force. MOM is surely nearby.\
+",
 	},
 	next = {
 		366,

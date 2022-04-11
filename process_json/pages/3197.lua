@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"There he is. On the battlefield no less! That's a pretty cute outfit he's got on. You wonder what he did to make it?",
+		"There he is. On the battlefield no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"less! That's a pretty cute outfit he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got on. You wonder what he did to make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You also wonder why he's not answering your messages. Does he even have a computer on him?? He should try to have more foresight, and carry no less than 5 computers on him at all times, like a sensible person.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You also wonder why he's not answering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your messages. Does he even have a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computer on him?? He should try to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have more foresight, and carry no less\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than 5 computers on him at all times,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like a sensible person.\
+",
 	},
 	next = {
 		3198,

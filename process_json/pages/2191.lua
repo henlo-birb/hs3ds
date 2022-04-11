@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"She couldn't see you up until the moment after the sprite's second prototyping. ",
+		"She couldn't see you up until the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"moment after the sprite's second\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prototyping.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Because you were dead all along.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Because you were dead all along.\
+",
 	},
 	next = {
 		2192,

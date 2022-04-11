@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Horsefeathers.",
+		"Horsefeathers.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Forcing the comics into your puzzle sylladex knocked out a bunch of other crap. You have seriously got to reorganize this thing. What were you even thinking captchaloguing all those bullets one at a time, anyway?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Forcing the comics into your puzzle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sylladex knocked out a bunch of other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"crap. You have seriously got to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reorganize this thing. What were you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even thinking captchaloguing all those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bullets one at a time, anyway?\
+",
 	},
 	next = {
 		4180,

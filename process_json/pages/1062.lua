@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"You make a deadly BETTY CROCKER BARBASOL BOMB.",
+		"You make a deadly BETTY CROCKER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BARBASOL BOMB.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Be careful with that thing! Jesus!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Be careful with that thing! Jesus!!\
+",
 	},
 	next = {
 		1063,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You are now the Wayward Vagabond.",
+		"You are now the Wayward Vagabond.\
+",
 	},
 	next = {
 		667,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Wait for it...",
+		"Wait for it...\
+",
 	},
 	next = {
 		2412,

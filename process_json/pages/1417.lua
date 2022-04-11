@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Yep. That's right.",
+		"Yep. That's right.\
+",
 	},
 	next = {
 		1418,

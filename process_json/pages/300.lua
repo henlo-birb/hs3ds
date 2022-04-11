@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You lose the ROOT CARD in the process, severing the tree.",
+		"You lose the ROOT CARD in the process,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"severing the tree.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hey, careful with all that stuff!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hey, careful with all that stuff!\
+",
 	},
 	next = {
 		301,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Someone has connected as your server player.",
+		"Someone has connected as your server\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"player.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are pretty sure you know who it is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are pretty sure you know who it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is.\
+",
 	},
 	next = {
 		2858,

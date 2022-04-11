@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You take your HUSKTOP.",
+		"You take your HUSKTOP.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sometimes you just like to pick stuff up and watch the colors. It's so beautiful. Life is beautiful.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sometimes you just like to pick stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up and watch the colors. It's so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beautiful. Life is beautiful.\
+",
 	},
 	next = {
 		2015,

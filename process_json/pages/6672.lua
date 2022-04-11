@@ -12,49 +12,127 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: this is it then, is it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: this is it then, is it?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: am i to spend the rest of eternity hiding inside this vortex?",
+		"CALLIOPE: am i to spend the rest of\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"eternity hiding inside this vortex?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: how can i go in search of myself if i am blown to smithereens the moment i set foot oUtside?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: maybe the trUth is...",
+		"CALLIOPE: how can i go in search of\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: sUch a fate woUld be preferable to this.",
+		"myself if i am blown to smithereens\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"the moment i set foot oUtside?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i am so dreadfUlly lonely. u_u",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: maybe the trUth is...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: sUch a fate woUld be\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"preferable to this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i am so dreadfUlly lonely.\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"u_u\
+",
 	},
 	next = {
 		6673,

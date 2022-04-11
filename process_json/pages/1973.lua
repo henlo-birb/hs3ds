@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A queen mourns. A kingdom, bid farewell.",
+		"A queen mourns. A kingdom, bid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"farewell.\
+",
 	},
 	next = {
 		1974,

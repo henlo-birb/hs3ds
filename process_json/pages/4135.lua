@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Ugh, look at this dreadful clutter. You have got to switch. But then, brand loyalty is a powerful thing.",
+		"Ugh, look at this dreadful clutter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have got to switch. But then,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"brand loyalty is a powerful thing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like Jake is messaging you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like Jake is messaging you.\
+",
 	},
 	next = {
 		4136,

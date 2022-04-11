@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You whimsically decide to captchalogue the TOTEM which was used to create the APPLE TREE earlier.",
+		"You whimsically decide to captchalogue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the TOTEM which was used to create the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"APPLE TREE earlier.\
+",
 	},
 	next = {
 		260,

@@ -12,98 +12,337 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: WELL LOOK, IT WASN'T SUPPOSED TO BE THIS LOPSIDED THING WHERE I SPILL ALL MY FEELINGS INTO IDIOTSPACE WHILE SOME SHIT HEAD YELLS AT ME.",
+		"CCG: WELL LOOK, IT WASN'T SUPPOSED TO\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"BE THIS LOPSIDED THING WHERE I SPILL\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"ALL MY FEELINGS INTO IDIOTSPACE WHILE\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"SOME SHIT HEAD YELLS AT ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: I WAS KIND OF THINKING THERE WOULD BE SOME GIVE AND TAKE, SINCE YOU PRESUMABLY SHARE A LOT OF MY THOUGHTS??",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: I WAS KIND OF THINKING THERE\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"WOULD BE SOME GIVE AND TAKE, SINCE YOU\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"PRESUMABLY SHARE A LOT OF MY\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"THOUGHTS??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-FCG: OK WHATEVER. JUST SAY SOME STUFF ALREADY. ALL THAT SHIT I SAID TEN MINUTES AGO.",
+		"FCG: OK WHATEVER. JUST SAY SOME STUFF\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-FCG: I WILL \"RIFF\" WITH YOU AND SOMEHOW PRETEND IT DOESN'T FEEL LIKE I'M REHASHING A BUNCH OF LINES WRITTEN IN BARELY DRIED INK!!!",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: OK",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: WELL",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: I'M HAVING A HARD TIME EVEN PUTTING MY THOUGHTS INTO WORDS ABOUT THIS BIZARRE TREK THROUGH THE RING.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: AT FIRST IT WAS JUST BLAND AND UNEVENTFUL. BUT THAT WAS KIND OF A RELIEF, REMEMBER?",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: NOT HAVING TO WORRY ABOUT GETTING KILLED ALL THE TIME, OR TRYING TO RALLY A BUNCH OF UNCOOPERATIVE TROOPS TOWARD AN IMPOSSIBLE OBJECTIVE.",
+		"ALREADY. ALL THAT SHIT I SAID TEN\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"MINUTES AGO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FCG: YEAH.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FCG: I WILL \"RIFF\" WITH YOU AND\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SOMEHOW PRETEND IT DOESN'T FEEL LIKE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"I'M REHASHING A BUNCH OF LINES WRITTEN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IN BARELY DRIED INK!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CCG: OK\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: BUT THEN",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CCG: WELL\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: AS IF IT WASN'T ENOUGH THAT SOMETIMES WE VISIT THESE CRAZY DREAM BUBBLES WHEN WE GO TO SLEEP...",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CCG: I'M HAVING A HARD TIME EVEN\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"PUTTING MY THOUGHTS INTO WORDS ABOUT\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"THIS BIZARRE TREK THROUGH THE RING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: WE STARTED PHYSICALLY PASSING THROUGH THEM TOO.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: AT FIRST IT WAS JUST BLAND AND\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"UNEVENTFUL. BUT THAT WAS KIND OF A\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"RELIEF, REMEMBER?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: NOT HAVING TO WORRY ABOUT GETTING\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"KILLED ALL THE TIME, OR TRYING TO\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"RALLY A BUNCH OF UNCOOPERATIVE TROOPS\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"TOWARD AN IMPOSSIBLE OBJECTIVE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FCG: YEAH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: BUT THEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: AS IF IT WASN'T ENOUGH THAT\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"SOMETIMES WE VISIT THESE CRAZY DREAM\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"BUBBLES WHEN WE GO TO SLEEP...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: WE STARTED PHYSICALLY PASSING\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"THROUGH THEM TOO.\
+",
 	},
 	next = {
 		4688,

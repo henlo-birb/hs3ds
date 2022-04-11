@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Of course that was just an imaginary transformation, since the ring doesn't work like that on humans. It was fun to pretend though.",
+		"Of course that was just an imaginary\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"transformation, since the ring doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"work like that on humans. It was fun\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to pretend though.\
+",
 	},
 	next = {
 		1800,

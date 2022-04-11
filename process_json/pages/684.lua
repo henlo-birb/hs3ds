@@ -12,7 +12,50 @@ return {
 			0,
 			0,
 		},
-		"This means nothing to you. You are not an imp, you have no idea what an imp is, and you will not entertain such frivolous and childish ideas ever again. You feel stupid and hate yourself a little for even considering it.",
+		"This means nothing to you. You are not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an imp, you have no idea what an imp\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is, and you will not entertain such\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frivolous and childish ideas ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again. You feel stupid and hate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself a little for even considering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		685,

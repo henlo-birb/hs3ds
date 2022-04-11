@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Who's this guy?",
+		"Who's this guy?\
+",
 	},
 	next = {
 		953,

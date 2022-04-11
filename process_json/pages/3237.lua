@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"No no this is not nearly fast enough, or jittery enough. Come on, I can do better than that.",
+		"No no this is not nearly fast enough,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or jittery enough. Come on, I can do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"better than that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Let's go, dude. Recap it like you mean it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Let's go, dude. Recap it like you mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		3238,

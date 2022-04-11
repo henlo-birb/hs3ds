@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"God you are so bored.",
+		"God you are so bored.\
+",
 	},
 	next = {
 		3553,

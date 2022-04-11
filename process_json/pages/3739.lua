@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"This puppet is becoming a nuisance. It appears to exhibit the same incredible puppet fastness properties which Dave's had. Must be some form of universal puppet enchantment. It couldn't possibly be the same one, because that would just be insane.",
+		"This puppet is becoming a nuisance. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appears to exhibit the same incredible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"puppet fastness properties which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Dave's had. Must be some form of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"universal puppet enchantment. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"couldn't possibly be the same one,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because that would just be insane.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hey, where did Pyralspite go???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hey, where did Pyralspite go???\
+",
 	},
 	next = {
 		3740,

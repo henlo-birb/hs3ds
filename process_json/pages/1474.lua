@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Of course. Now you remember. ",
+		"Of course. Now you remember.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You must deliver a message to John right away.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You must deliver a message to John\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right away.\
+",
 	},
 	next = {
 		1475,

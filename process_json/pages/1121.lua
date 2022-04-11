@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"YOU ARE THE LAW WHOOPS",
+		"YOU ARE THE LAW WHOOPS\
+",
 	},
 	next = {
 		1122,

@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You make the HUBTOP.",
+		"You make the HUBTOP.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That one was pretty obvious.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That one was pretty obvious.\
+",
 	},
 	next = {
 		1804,

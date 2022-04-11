@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"When you turn the wheel, something seems to be pushing up from underneath the lid.",
+		"When you turn the wheel, something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seems to be pushing up from underneath\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the lid.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you aren't strong enough to make the lid come off!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you aren't strong enough to make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the lid come off!\
+",
 	},
 	next = {
 		173,

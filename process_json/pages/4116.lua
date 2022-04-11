@@ -12,7 +12,113 @@ return {
 			0,
 			0,
 		},
-		"You cannot enter her name!!! It was already engraved in her HONORARY PLACRONYM on her 13th birthday, which was about two and a half years ago, and has been sitting here neatly on the bookshelf ever since. Attempting to engrave it with another name after completing this sacred rite of passage is practically unheard of, and is a gesture nearly as offensive as it would be if you tried to name her something dumb like Barnstench Fartface. Luckily she is not the sort to hold a grudge, and she will let it slide this time. As long as you hurry up and get her big day started!",
+		"You cannot enter her name!!! It was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already engraved in her HONORARY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLACRONYM on her 13th birthday, which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was about two and a half years ago,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and has been sitting here neatly on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the bookshelf ever since. Attempting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to engrave it with another name after\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"completing this sacred rite of passage\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is practically unheard of, and is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gesture nearly as offensive as it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be if you tried to name her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something dumb like Barnstench\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Fartface. Luckily she is not the sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to hold a grudge, and she will let it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slide this time. As long as you hurry\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up and get her big day started!\
+",
 	},
 	next = {
 		4117,

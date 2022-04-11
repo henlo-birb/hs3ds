@@ -13,23 +13,85 @@ return {
 			0,
 			0,
 		},
-		"You make FOUR ACES SUITED.",
+		"You make FOUR ACES SUITED.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You aren't really sure which one you like better. The red one is softer, while the black one is sort of stiff and starchy. Anyone wearing this suit is all business.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe you'll switch it up as your mood dictates.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You aren't really sure which one you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like better. The red one is softer,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while the black one is sort of stiff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and starchy. Anyone wearing this suit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is all business.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you'll switch it up as your mood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dictates.\
+",
 	},
 	next = {
 		1835,

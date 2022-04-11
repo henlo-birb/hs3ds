@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"MS. PAINT ARE YOU LISTENING??????",
+		"MS. PAINT ARE YOU LISTENING??????\
+",
 	},
 	next = {
 		4680,

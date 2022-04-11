@@ -12,42 +12,78 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: yeesh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yeesh.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what a gruesome scene.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what a gruesome scene.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i wonder which troll this was?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i wonder which troll this was?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: she looks really cute...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: she looks really cute...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: it's sad that she died.",
+		"JOHN: it's sad that she died.\
+",
 	},
 	next = {
 		7309,

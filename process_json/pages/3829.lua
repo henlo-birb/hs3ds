@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"(That didn't stop being a thing that was true or anything.)",
+		"(That didn't stop being a thing that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was true or anything.)\
+",
 	},
 	next = {
 		3830,

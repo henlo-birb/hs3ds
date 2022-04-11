@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"And walking.",
+		"And walking.\
+",
 	},
 	next = {
 		5452,

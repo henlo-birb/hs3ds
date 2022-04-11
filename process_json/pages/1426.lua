@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You got a CHISEL.",
+		"You got a CHISEL.\
+",
 	},
 	next = {
 		1427,

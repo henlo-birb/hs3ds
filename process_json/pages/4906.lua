@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"He looks none too pleased by your misbehavior. This will surely result in reduced rations. You can expect to find a slightly smaller pumpkin in your cell come Skaia rise, mister.",
+		"He looks none too pleased by your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"misbehavior. This will surely result\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in reduced rations. You can expect to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"find a slightly smaller pumpkin in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your cell come Skaia rise, mister.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You keep beckoning him. Just a little closer. A little closer...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You keep beckoning him. Just a little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"closer. A little closer...\
+",
 	},
 	next = {
 		4907,

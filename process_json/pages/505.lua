@@ -12,49 +12,120 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I blocked the entrance to the study to give you some space to work with the Designix.",
+		"TT: I blocked the entrance to the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: John, imps behind you.",
+		"study to give you some space to work\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"with the Designix.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Should I take care of it?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: John, imps behind you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You trapped your PDA again, didn't you.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Should I take care of it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Why did you have to pick up all that stupid shaving cream?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You trapped your PDA again, didn't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: So pointless.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Why did you have to pick up all\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"that stupid shaving cream?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So pointless.\
+",
 	},
 	next = {
 		506,

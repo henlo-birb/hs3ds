@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"A nearby laboratory is also revisited. Its satellites, dispatched.",
+		"A nearby laboratory is also revisited.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Its satellites, dispatched.\
+",
 	},
 	next = {
 		1966,

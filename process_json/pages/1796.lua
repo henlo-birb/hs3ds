@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It's too late. She's gone. You'll have to remember to deliver it later, somehow.",
+		"It's too late. She's gone. You'll have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to remember to deliver it later,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somehow.\
+",
 	},
 	next = {
 		1797,

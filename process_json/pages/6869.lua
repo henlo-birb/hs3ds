@@ -12,47 +12,288 @@ return {
 			0,
 			0,
 		},
-		"IT OPENS UP SO MANY POSSIBILITIES. TO THE FIEND OF INDECENT SMUT. WHERE BEFORE, IT WAS ALL BUT IMPOSSIBLE. TO RENDER TRULY *****SENTIMENTAL***** IMAGERY, WITHOUT RESORTING TO BABES AND BIMBOS GALORE. DUE TO THE UTTERLY UNACCEPTABLE HAPPENSTANCE WHERE IN MACHO GUYS ARE PHYSICALLY POIGNANT WITH EACH OTHER. WHICH TO REASONABLE MEN IS THE MOST UNWELCOME PERSUASION OF LECHERY. OR THAT IS, IT WAS...",
+		"IT OPENS UP SO MANY POSSIBILITIES. TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE FIEND OF INDECENT SMUT. WHERE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEFORE, IT WAS ALL BUT IMPOSSIBLE. TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RENDER TRULY *****SENTIMENTAL*****\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IMAGERY, WITHOUT RESORTING TO BABES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND BIMBOS GALORE. DUE TO THE UTTERLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNACCEPTABLE HAPPENSTANCE WHERE IN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MACHO GUYS ARE PHYSICALLY POIGNANT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WITH EACH OTHER. WHICH TO REASONABLE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MEN IS THE MOST UNWELCOME PERSUASION\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF LECHERY. OR THAT IS, IT WAS...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-UNTIL NOW!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-LOOK HOW SMART THIS HOAX IS. THANKS TO MANGA. SEE. THROUGH THE ELEGANCE OF BEAUTY AND FINESSE. IT SOFTENS THE UNCOUTH MALE EXTERIOR. BEVELING THE ANGLES OF PURE MUSCLE. TAMING HIS INCREDIBLE ANGRINESS. AND BY THE FLUSHING OF CHEEKS. THE DEWING OF BROW. THE GLASSING OF EYES. ONE BRINGS OUT OF ANY BRUTE, HIS TRUE INNER BISHIE. WHICH ACTUALLY IS MANGANESE. FOR A BEAUTIFUL FUCKING DUDE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNTIL NOW!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IF YOU'RE CONFUSED, BASICALLY THE IDEA IS. YOU PRETEND THEM TO LOOK MORE LIKE GIRLS. TO MAKE IT LESS WEIRD FOR EVERYBODY WHEN THEY DECIDE TO TOUCH EACH OTHER.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I MEAN. IT IS REPULSIVE TO WITNESS. DO NOT GET ME WRONG. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LOOK HOW SMART THIS HOAX IS. THANKS TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MANGA. SEE. THROUGH THE ELEGANCE OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEAUTY AND FINESSE. IT SOFTENS THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNCOUTH MALE EXTERIOR. BEVELING THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANGLES OF PURE MUSCLE. TAMING HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INCREDIBLE ANGRINESS. AND BY THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FLUSHING OF CHEEKS. THE DEWING OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BROW. THE GLASSING OF EYES. ONE BRINGS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OUT OF ANY BRUTE, HIS TRUE INNER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BISHIE. WHICH ACTUALLY IS MANGANESE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR A BEAUTIFUL FUCKING DUDE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BUT YET, IT REMAINS...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IF YOU'RE CONFUSED, BASICALLY THE IDEA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IS. YOU PRETEND THEM TO LOOK MORE LIKE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GIRLS. TO MAKE IT LESS WEIRD FOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVERYBODY WHEN THEY DECIDE TO TOUCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EACH OTHER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I MEAN. IT IS REPULSIVE TO WITNESS. DO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NOT GET ME WRONG.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUT YET, IT REMAINS...\
+",
 	},
 	next = {
 		6870,

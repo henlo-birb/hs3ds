@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You TRANSPORTALIZE upstairs. Just above is your room.",
+		"You TRANSPORTALIZE upstairs. Just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"above is your room.\
+",
 	},
 	next = {
 		788,

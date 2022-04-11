@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You got a GREEN SUCKER, at a cost of negative one unit of ZILLIUM. ",
+		"You got a GREEN SUCKER, at a cost of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"negative one unit of ZILLIUM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Which you guess means... you gain one unit of ZILLIUM in addition to the sucker.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Which you guess means... you gain one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unit of ZILLIUM in addition to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sucker.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok?\
+",
 	},
 	next = {
 		5704,

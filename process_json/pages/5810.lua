@@ -15,133 +15,365 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: yeah",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: so not cool lookin back on it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so not cool lookin back on it",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: and i had no excuse i always knew he was just",
+		"TG: and i had no excuse i always knew\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"he was just\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: SUCH a gay dude",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: SUCH a gay dude\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and i guess maybe hitting on a guy who dont like girls once or twice maybe is alright or even flattering but after so long it was probably just pissing him off or messing with his head or something",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: it def wasnt what he wanted to hear from a friend",
+		"TG: and i guess maybe hitting on a guy\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: let alone day in and day out through garbled drunktexts",
+		"who dont like girls once or twice\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: so when i fuckin harassed him into kissin me...",
+		"maybe is alright or even flattering\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: it just brought back some low rent shit i thought we put behind us",
+		"but after so long it was probably just\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"pissing him off or messing with his\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"head or something\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: just another way i completely humiliated myself in front of him",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: it def wasnt what he wanted to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"hear from a friend\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: let alone day in and day out\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"through garbled drunktexts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: so when i fuckin harassed him into\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"kissin me...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: it just brought back some low rent\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"shit i thought we put behind us\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: just another way i completely\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"humiliated myself in front of him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: So is that why you cant talk to him now?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: mmmmmmmm hmmmmmmm",
+		"GT: So is that why you cant talk to\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"him now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I certainly have no trouble relating to that.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: mmmmmmmm hmmmmmmm\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: yep",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I certainly have no trouble\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"relating to that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: yep\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i dont even know why really",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i dont even know why really\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: hes like taciturn to the max about everything",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but theres somethin about him",
+		"TG: hes like taciturn to the max about\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"everything\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: that just makes it hurt to feel like you let him down",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: but theres somethin about him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: that just makes it hurt to feel\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"like you let him down\
+",
 	},
 	next = {
 		5811,

@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"Someone is pestering you. But you are oblivious to the message because your laptop is buried under three inches of fucking yarn.",
+		"Someone is pestering you. But you are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"oblivious to the message because your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"laptop is buried under three inches of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fucking yarn.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There are footprints in the white sand.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There are footprints in the white\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sand.\
+",
 	},
 	next = {
 		1494,

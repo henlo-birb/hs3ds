@@ -12,28 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: I want you toot,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I want you toot,",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Tell me about your spabes,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Tell me about your spabes,",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Your didamounds,",
+		"ROSE: Your didamounds,\
+",
 	},
 	next = {
 		5418,

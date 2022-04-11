@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"This is an absolutely preposterous amount of money.",
+		"This is an absolutely preposterous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amount of money.\
+",
 	},
 	next = {
 		2759,

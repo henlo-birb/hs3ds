@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"It looks like your DAD is leaving again for more baking supplies. You're relieved to have the house to yourself again, if only for a few minutes.",
+		"It looks like your DAD is leaving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again for more baking supplies. You're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"relieved to have the house to yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again, if only for a few minutes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just hope he doesn't notice the MAGIC CHEST on the roof. Or all the shit you threw out the window, for that matter.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just hope he doesn't notice the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAGIC CHEST on the roof. Or all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shit you threw out the window, for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that matter.\
+",
 	},
 	next = {
 		144,

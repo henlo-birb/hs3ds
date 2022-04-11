@@ -13,15 +13,64 @@ return {
 			0,
 			0,
 		},
-		"You mix your Gushers with some of the blue slime Nanna left on the wall to make a box of HELLACIOUS BLUE PHLEGM ANEURYSM GUSHERS (WITH GHOSTLY HEALING PROPERTIES!)",
+		"You mix your Gushers with some of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blue slime Nanna left on the wall to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make a box of HELLACIOUS BLUE PHLEGM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANEURYSM GUSHERS (WITH GHOSTLY HEALING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROPERTIES!)\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THESE SHOULD BE CONVENIENT, IF SOMEWHAT UNAPPETIZING.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THESE SHOULD BE CONVENIENT, IF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOMEWHAT UNAPPETIZING.\
+",
 	},
 	next = {
 		1059,

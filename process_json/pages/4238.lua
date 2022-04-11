@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Here goes nothing.",
+		"Here goes nothing.\
+",
 	},
 	next = {
 		4239,

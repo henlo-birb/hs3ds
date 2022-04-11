@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Safety is the most important thing.",
+		"Safety is the most important thing.\
+",
 	},
 	next = {
 		3410,

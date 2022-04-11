@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You make the WRINKLEFUCKER.",
+		"You make the WRINKLEFUCKER.\
+",
 	},
 	next = {
 		1069,

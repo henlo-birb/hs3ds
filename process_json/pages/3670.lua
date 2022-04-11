@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"But you wonder where all of her sweet weapons went.",
+		"But you wonder where all of her sweet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapons went.\
+",
 	},
 	next = {
 		3671,

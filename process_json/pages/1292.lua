@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"COUNT SOME SHEEP BITCH",
+		"COUNT SOME SHEEP BITCH\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait... the clock on the wall...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait... the clock on the wall...\
+",
 	},
 	next = {
 		1293,

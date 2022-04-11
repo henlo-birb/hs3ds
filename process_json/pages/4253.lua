@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Not the encounter you were hoping for today.",
+		"Not the encounter you were hoping for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"today.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These things don't back down.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These things don't back down.\
+",
 	},
 	next = {
 		4254,

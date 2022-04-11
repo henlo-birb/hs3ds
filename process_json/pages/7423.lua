@@ -14,15 +14,85 @@ return {
 			0,
 			0,
 		},
-		"THEIR SOULS WERE TRAPPED IN MY JUJU. FOREVER. ",
+		"THEIR SOULS WERE TRAPPED IN MY JUJU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOREVER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THIS SOLVES ONE PROBLEM FOR ME. BUT STARTS ANOTHER. THE JUJU WHEN ITS SHAPES ARE FILLED. CHANGES IN NATURE. IT STOPS BEING A WEAPON I CAN USE, EVER AGAIN. IT'S WEIRD, AND A BIT LAME, BUT YOU CAN'T BE TOO PICKY ABOUT AWESOME JUJUS. YOU HAVE TO TAKE THE GOOD WITH THE BAD. ONCE I USED IT...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THIS SOLVES ONE PROBLEM FOR ME. BUT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STARTS ANOTHER. THE JUJU WHEN ITS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHAPES ARE FILLED. CHANGES IN NATURE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT STOPS BEING A WEAPON I CAN USE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVER AGAIN. IT'S WEIRD, AND A BIT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LAME, BUT YOU CAN'T BE TOO PICKY ABOUT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AWESOME JUJUS. YOU HAVE TO TAKE THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GOOD WITH THE BAD. ONCE I USED IT...\
+",
 	},
 	next = {
 		7424,

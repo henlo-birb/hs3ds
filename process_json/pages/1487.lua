@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"A big gust of wind conveniently comes along and blows out all the fire. ",
+		"A big gust of wind conveniently comes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along and blows out all the fire.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is really convenient.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is really convenient.\
+",
 	},
 	next = {
 		1488,

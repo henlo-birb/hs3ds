@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Now that DAD is busy placating the SMOKE DETECTOR, you can safely sneak away.",
+		"Now that DAD is busy placating the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SMOKE DETECTOR, you can safely sneak\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"away.\
+",
 	},
 	next = {
 		98,

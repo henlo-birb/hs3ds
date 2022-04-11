@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You make a POGO RIDE too. Minus 5 BUILD, 1 SHALE.",
+		"You make a POGO RIDE too. Minus 5\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUILD, 1 SHALE.\
+",
 	},
 	next = {
 		625,

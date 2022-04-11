@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"ALL YOUR FOES HAVE BEEN DEFEATED. YOU WIN THE FRACAS!",
+		"ALL YOUR FOES HAVE BEEN DEFEATED. YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WIN THE FRACAS!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AS THE BEST BOY HERO. WHO ACCOMPLISHED A SUCCESS. YOU ARE NOW ENTITLED TO THE SPOILS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS THE BEST BOY HERO. WHO ACCOMPLISHED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A SUCCESS. YOU ARE NOW ENTITLED TO THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPOILS.\
+",
 	},
 	next = {
 		6521,

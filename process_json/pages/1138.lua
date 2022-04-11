@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You bear the vicious brunt of this story transition directly in the face.",
+		"You bear the vicious brunt of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"story transition directly in the face.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are getting really tired of this feisty man and his busy fists.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are getting really tired of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feisty man and his busy fists.\
+",
 	},
 	next = {
 		1139,

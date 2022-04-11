@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You exit the house.",
+		"You exit the house.\
+",
 	},
 	next = {
 		81,

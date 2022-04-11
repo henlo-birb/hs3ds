@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"The lousy thing breaks. ",
+		"The lousy thing breaks.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You seriously cannot believe how unbelievably shitty this doomsday device is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You seriously cannot believe how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unbelievably shitty this doomsday\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"device is.\
+",
 	},
 	next = {
 		2232,

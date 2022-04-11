@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"This is so much fun.",
+		"This is so much fun.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A huge waste of time, yes. BUT SO MUCH FUN.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A huge waste of time, yes. BUT SO MUCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FUN.\
+",
 	},
 	next = {
 		616,

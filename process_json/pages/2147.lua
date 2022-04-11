@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Ok, looking out this lousy stupid goddamn window. ",
+		"Ok, looking out this lousy stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"goddamn window.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Lousy stupid goddamn psychics.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lousy stupid goddamn psychics.\
+",
 	},
 	next = {
 		2148,

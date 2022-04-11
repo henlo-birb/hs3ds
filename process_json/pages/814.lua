@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"These fruits are unlikely to become less impudent any time soon regardless of where they are stored, but you stick them in anyway.",
+		"These fruits are unlikely to become\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"less impudent any time soon regardless\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of where they are stored, but you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stick them in anyway.\
+",
 	},
 	next = {
 		815,

@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-FAA: we w0uld 0nly narr0wly succeed",
+		"FAA: we w0uld 0nly narr0wly succeed\
+",
 	},
 	next = {
 		2598,

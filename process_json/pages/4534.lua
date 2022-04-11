@@ -13,7 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Might as well complete the plush collection. You grab the SWEET BRO off your bed. It intersects quite conveniently with the PLUSH GROOVE and the FAYGO SHADE. Nice one.",
+		"Might as well complete the plush\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collection. You grab the SWEET BRO off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bed. It intersects quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conveniently with the PLUSH GROOVE and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the FAYGO SHADE. Nice one.\
+",
 	},
 	next = {
 		4535,

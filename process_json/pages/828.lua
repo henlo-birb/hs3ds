@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"It does not appear so, but you just never know with that crazy and cool guy.",
+		"It does not appear so, but you just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never know with that crazy and cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sooooo cooooooool.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sooooo cooooooool.\
+",
 	},
 	next = {
 		829,

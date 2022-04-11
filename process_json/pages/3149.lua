@@ -13,23 +13,78 @@ return {
 			0,
 			0,
 		},
-		"You make the JOHNNYTOP!",
+		"You make the JOHNNYTOP!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Finally, a difficult to use hands-on computing solution that does nothing but roll around of his own accord while talking about his emotions and reading books fast!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-FINALLY!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Finally, a difficult to use hands-on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computing solution that does nothing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but roll around of his own accord\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while talking about his emotions and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reading books fast!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FINALLY!!!!!!\
+",
 	},
 	next = {
 		3150,

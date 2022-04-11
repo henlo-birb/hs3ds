@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"Caliborn.",
+		"Caliborn.\
+",
 	},
 	next = {
 		5473,

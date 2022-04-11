@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The PARADOX GHOST IMPRINT of Jaspers appearifies instead, and quickly settles into a mound of sludge.",
+		"The PARADOX GHOST IMPRINT of Jaspers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearifies instead, and quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"settles into a mound of sludge.\
+",
 	},
 	next = {
 		933,

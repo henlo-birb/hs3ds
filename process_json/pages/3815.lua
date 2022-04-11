@@ -13,15 +13,92 @@ return {
 			0,
 			0,
 		},
-		"Again, sorry for the interruption. My conversation with the girl ran a bit long, slightly exceeding the one second I scheduled for it.",
+		"Again, sorry for the interruption. My\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conversation with the girl ran a bit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long, slightly exceeding the one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second I scheduled for it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is where events begin to outpace my awareness. The deeper into this dark pocket we explore, the more I will be forced to speculate. I rarely have cause to rely on probability, but luckily for you, my guesses are better than anybody's.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is where events begin to outpace\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"my awareness. The deeper into this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dark pocket we explore, the more I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will be forced to speculate. I rarely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have cause to rely on probability, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"luckily for you, my guesses are better\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than anybody's.\
+",
 	},
 	next = {
 		3816,

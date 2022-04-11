@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"WHO YOU ASK, IS THIS BROODING BEAUTIFUL DUDE?",
+		"WHO YOU ASK, IS THIS BROODING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEAUTIFUL DUDE?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THIS IS YOURS TRULY. MY SELF INSERTION GUY. WHICH IS MY PREROGATIVE TO DO AS AN ARTIST. I LEARNED THIS FROM MY \"MASTER\". THE WISE ASSED GHOST WHO HAUNTED MY COMPUTER. HE WAS THE BEST THERE WAS AT STUFF LIKE THIS, HE TOLD ME ONCE. TRULY, HE WAS QUITE THE PIECE OF SHIT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THIS IS YOURS TRULY. MY SELF INSERTION\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GUY. WHICH IS MY PREROGATIVE TO DO AS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AN ARTIST. I LEARNED THIS FROM MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"MASTER\". THE WISE ASSED GHOST WHO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAUNTED MY COMPUTER. HE WAS THE BEST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THERE WAS AT STUFF LIKE THIS, HE TOLD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ME ONCE. TRULY, HE WAS QUITE THE PIECE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF SHIT.\
+",
 	},
 	next = {
 		6882,

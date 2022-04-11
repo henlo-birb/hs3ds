@@ -12,14 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-Upon reflection, Redglare showed the foresight of a true seer in thieving my arm 8efore the trial.",
+		"Upon reflection, Redglare showed the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"foresight of a true seer in thieving\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"my arm 8efore the trial.\
+",
 	},
 	next = {
 		3753,

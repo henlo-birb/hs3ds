@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The agent approaches another device near the large monitor.",
+		"The agent approaches another device\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"near the large monitor.\
+",
 	},
 	next = {
 		1929,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"That should keep her happy for a while.",
+		"That should keep her happy for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And make a freshly orphaned troll somewhere pretty sad.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And make a freshly orphaned troll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhere pretty sad.\
+",
 	},
 	next = {
 		2438,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Why yes, it appears you do.",
+		"Why yes, it appears you do.\
+",
 	},
 	next = {
 		1490,

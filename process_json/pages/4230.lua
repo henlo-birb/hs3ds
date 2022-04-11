@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You do the thing where you fly through the air shooting two guns at once. That thing isn't even that big of a deal for you. You do that thing practically every day on hellmurder island.",
+		"You do the thing where you fly through\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the air shooting two guns at once.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That thing isn't even that big of a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deal for you. You do that thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"practically every day on hellmurder\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"island.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your furious salvo of deadly bullets scares the FRIGHTENING FAUNA off into the jungle, REALNESS ATTRIBUTE and all.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your furious salvo of deadly bullets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"scares the FRIGHTENING FAUNA off into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the jungle, REALNESS ATTRIBUTE and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all.\
+",
 	},
 	next = {
 		4231,

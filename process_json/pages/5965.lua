@@ -12,14 +12,106 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-So she set out to track his scent, as it were. And soon, she found a physical trail as well. A path of carnage left 8ehind 8y a particularly destructive male cheru8. She followed the de8ris from civilized worlds and star systems he left 8ehind, as if to mock her, to make it clear he knew of her pursuit and was all 8ut paving her way with the dead. His 8rutality made her more furious, thus setting the mood, so to speak, for their imminent courtship.",
+		"So she set out to track his scent, as\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it were. And soon, she found a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"physical trail as well. A path of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"carnage left 8ehind 8y a particularly\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"destructive male cheru8. She followed\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the de8ris from civilized worlds and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"star systems he left 8ehind, as if to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mock her, to make it clear he knew of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her pursuit and was all 8ut paving her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"way with the dead. His 8rutality made\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her more furious, thus setting the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mood, so to speak, for their imminent\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"courtship.\
+",
 	},
 	next = {
 		5966,

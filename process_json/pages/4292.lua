@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You produce your most spirited LAD SCRAMBLE yet, and hop up to the next GOD TIER, achieving the illustrious REVENGE OF DOCTOR RAGNAROK.",
+		"You produce your most spirited LAD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SCRAMBLE yet, and hop up to the next\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GOD TIER, achieving the illustrious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"REVENGE OF DOCTOR RAGNAROK.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-All of your vitals go completely bonkers. Your MAN GRIT is off the charts. You're embarrassed for us to even know what it is. It's that gaudy.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All of your vitals go completely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bonkers. Your MAN GRIT is off the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"charts. You're embarrassed for us to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even know what it is. It's that gaudy.\
+",
 	},
 	next = {
 		4293,

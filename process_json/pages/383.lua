@@ -12,103 +12,148 @@ return {
 			0,
 			0,
 		},
-		"It will be handy to have your ",
+		"It will be handy to have your\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"PH",
+		"PH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (2+2+1+2+1 = 8%10 = 8) on standby so you won't always have to go back to your computer whenever someone pesters you. This way you can ",
-		{
-			0,
-			0,
-			1,
-		},
-		"T",
-		{
-			1,
-			0,
-			0,
-		},
-		"E",
-		{
-			0,
-			0,
-			1,
-		},
-		"XT",
+		"(2+2+1+2+1 = 8%10 = 8) on standby so\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"you won't always have to go back to\
+",
 		{
 			0,
 			0,
-			1,
+			0,
 		},
-		"M",
+		"your computer whenever someone pesters\
+",
 		{
-			1,
+			0,
 			0,
 			0,
 		},
-		"E",
+		"you. This way you can\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"SS",
+		"T\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"A",
+		"E\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"G",
+		"XT\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"M\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"SS\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"A\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"G\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"E\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (2+1+2+2 + 2+1+2+2+1+2+1 = 18%10 = 8) people no matter where you are or what outrageously cool thing you're up to.",
+		"(2+1+2+2 + 2+1+2+2+1+2+1 = 18%10 = 8)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"people no matter where you are or what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outrageously cool thing you're up to.\
+",
 	},
 	next = {
 		384,

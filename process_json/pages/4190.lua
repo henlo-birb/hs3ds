@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Yeah, just like you thought. Empty. The thing is out there somewhere. Waiting for you. Oh god.",
+		"Yeah, just like you thought. Empty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The thing is out there somewhere.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Waiting for you. Oh god.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Speak of the devil fucking dickens.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Speak of the devil fucking dickens.\
+",
 	},
 	next = {
 		4191,

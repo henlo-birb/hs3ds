@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"Stop it.",
+		"Stop it.\
+",
 	},
 	next = {
 		5475,

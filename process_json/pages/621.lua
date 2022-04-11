@@ -13,23 +13,71 @@ return {
 			0,
 			0,
 		},
-		"The ALCHEMITER requires one unit of any type of grist to produce one card.",
+		"The ALCHEMITER requires one unit of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any type of grist to produce one card.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You decide to use SHALE, since it seems less generally useful than BUILD GRIST as of now.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You make a whole bunch of them.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You decide to use SHALE, since it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seems less generally useful than BUILD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRIST as of now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You make a whole bunch of them.\
+",
 	},
 	next = {
 		622,

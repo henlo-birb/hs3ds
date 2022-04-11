@@ -12,35 +12,85 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: BuT I THINK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: BuT I THINK.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: THIS DELuXE BITCH HAS GOTTEN A BIT CARRIED AWAY HERE.",
+		"uu: THIS DELuXE BITCH HAS GOTTEN A BIT\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"CARRIED AWAY HERE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: ALL THINKING SHE CAN. DO HEROIC STuFF. AND \"SAVE LIVES\". uGH.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: ALL THINKING SHE CAN. DO HEROIC\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"STuFF. AND \"SAVE LIVES\". uGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: BuT THE ROXY HuMAN HAS MISCALCuLATED.",
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: BuT THE ROXY HuMAN HAS\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"MISCALCuLATED.\
+",
 	},
 	next = {
 		5178,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You both also get one of these. Now you can start flapping your traps with wild abandon at anyone you please.",
+		"You both also get one of these. Now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you can start flapping your traps with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wild abandon at anyone you please.\
+",
 	},
 	next = {
 		4349,

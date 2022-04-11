@@ -13,23 +13,71 @@ return {
 			0,
 			0,
 		},
-		"Alright. It won't be that exciting to watch though.",
+		"Alright. It won't be that exciting to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"watch though.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I'll pull up Photoshop again. Here's the file I was using for the fourth wall.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What do you want me to draw?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I'll pull up Photoshop again. Here's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the file I was using for the fourth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wall.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What do you want me to draw?\
+",
 	},
 	next = {
 		1680,

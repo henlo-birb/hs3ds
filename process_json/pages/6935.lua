@@ -12,63 +12,169 @@ return {
 			0,
 			0,
 		},
-		"WHO IS IN A STRUGGLE OF CREATIVE CALAMITY.",
+		"WHO IS IN A STRUGGLE OF CREATIVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CALAMITY.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I MUST RETREAT TO MY CRAFT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I WILL FALL BACK ON THE FUCKING BASICS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I MUST RETREAT TO MY CRAFT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-FORM.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-LINE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I WILL FALL BACK ON THE FUCKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BASICS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ANGLE.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-LINE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FORM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-MORE LINES.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LINE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANGLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LINE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MORE LINES.\
+",
 	},
 	next = {
 		6936,

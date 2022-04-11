@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You decide to give her the chalk. She is grateful for the colorful present and thinks it looks like fun.",
+		"You decide to give her the chalk. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is grateful for the colorful present\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and thinks it looks like fun.\
+",
 	},
 	next = {
 		1415,

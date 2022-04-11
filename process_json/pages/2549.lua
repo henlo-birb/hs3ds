@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are having trouble bringing yourself to get up and kiss the girl.",
+		"You are having trouble bringing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself to get up and kiss the girl.\
+",
 	},
 	next = {
 		2550,

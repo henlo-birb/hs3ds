@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You guess these are all zeros? Or are they capital O's? Zeros would probably make more sense for an empty card, you think.",
+		"You guess these are all zeros? Or are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"they capital O's? Zeros would probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make more sense for an empty card, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"think.\
+",
 	},
 	next = {
 		549,

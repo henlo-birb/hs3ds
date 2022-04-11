@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The mind honey.",
+		"The mind honey.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Thpppptthhhhhh.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Some of it got in your mouth.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thpppptthhhhhh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Some of it got in your mouth.\
+",
 	},
 	next = {
 		2152,

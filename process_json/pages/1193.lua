@@ -15,15 +15,43 @@ return {
 			0,
 			0,
 		},
-		"You're not sure what's what. You can never remember which card to pick up. ",
+		"You're not sure what's what. You can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never remember which card to pick up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can't believe how shitty your memory is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can't believe how shitty your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"memory is.\
+",
 	},
 	next = {
 		1194,

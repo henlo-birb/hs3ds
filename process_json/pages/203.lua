@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Two chums have been trying to message you.",
+		"Two chums have been trying to message\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 	},
 	next = {
 		204,

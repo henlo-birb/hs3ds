@@ -12,23 +12,106 @@ return {
 			0,
 			0,
 		},
-		"Using most of your imagination and an entire piece of sky-blue chalk, you render a bright and cheerful sky full of clouds. ",
+		"Using most of your imagination and an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"entire piece of sky-blue chalk, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"render a bright and cheerful sky full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of clouds.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have decided that very closely orbiting your city is a LUMINOUS PLANET, about which orbits a single MOON.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You switch to another shade of blue and continue rendering on the western wall.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have decided that very closely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"orbiting your city is a LUMINOUS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLANET, about which orbits a single\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MOON.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You switch to another shade of blue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and continue rendering on the western\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wall.\
+",
 	},
 	next = {
 		703,

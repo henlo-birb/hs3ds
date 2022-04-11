@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"ABSOLUTELY NOT WHAT ARE YOU CRAZY",
+		"ABSOLUTELY NOT WHAT ARE YOU CRAZY\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A MAYOR DOES NOT RELINQUISH HIS MAYORAL SASH UNDER ANY CIRCUMSTANCES EVER PERIOD",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A MAYOR DOES NOT RELINQUISH HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAYORAL SASH UNDER ANY CIRCUMSTANCES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVER PERIOD\
+",
 	},
 	next = {
 		1008,

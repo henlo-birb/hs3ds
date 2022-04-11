@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"The other Hero of Light. Always bugging him.",
+		"The other Hero of Light. Always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bugging him.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Bugging and fussing and meddling.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's her deal?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Bugging and fussing and meddling.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's her deal?\
+",
 	},
 	next = {
 		3797,

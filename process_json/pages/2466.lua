@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The WITCH OF LIFE takes her place in the LAND OF DEW AND GLASS.",
+		"The WITCH OF LIFE takes her place in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the LAND OF DEW AND GLASS.\
+",
 	},
 	next = {
 		2467,

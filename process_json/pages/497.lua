@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"This is incredibly dangerous!",
+		"This is incredibly dangerous!\
+",
 	},
 	next = {
 		498,

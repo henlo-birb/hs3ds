@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The boy finds the castle. His courier's path, crossed.",
+		"The boy finds the castle. His\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"courier's path, crossed.\
+",
 	},
 	next = {
 		1953,

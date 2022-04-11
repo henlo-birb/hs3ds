@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You open the package. There is something suspicious inside.",
+		"You open the package. There is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something suspicious inside.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Something suspiciously dirty and smelly.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Something suspiciously dirty and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smelly.\
+",
 	},
 	next = {
 		1661,

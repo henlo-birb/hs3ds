@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Oh, right. These guys.",
+		"Oh, right. These guys.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Not out of the frying pan yet!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Not out of the frying pan yet!!!\
+",
 	},
 	next = {
 		4658,

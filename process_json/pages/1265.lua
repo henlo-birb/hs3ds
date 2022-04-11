@@ -12,29 +12,85 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Crowbar",
+		"Crowbar\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s alive again. And a whole bunch of other stuff is different.",
+		"'s alive again. And a whole bunch of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"other stuff is different.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You forgot this gang almost seems halfway competent when he's running the show.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The good news is you get to kill him again.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You forgot this gang almost seems\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"halfway competent when he's running\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the show.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The good news is you get to kill him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again.\
+",
 	},
 	next = {
 		1266,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There is another letter from a different author...",
+		"There is another letter from a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"different author...\
+",
 	},
 	next = {
 		1957,

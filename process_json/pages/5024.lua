@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Gotta shrink these weapons down first! No way they're fitting in that box along with the rabbit.",
+		"Gotta shrink these weapons down first!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No way they're fitting in that box\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along with the rabbit.\
+",
 	},
 	next = {
 		5025,

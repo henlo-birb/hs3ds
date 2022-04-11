@@ -15,15 +15,43 @@ return {
 			0,
 			0,
 		},
-		"Those sons of bitches. NO ONE risks painful injury on your GREEN SLIME GHOST POGO RIDE.",
+		"Those sons of bitches. NO ONE risks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"painful injury on your GREEN SLIME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GHOST POGO RIDE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No one but YOU.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No one but YOU.\
+",
 	},
 	next = {
 		477,

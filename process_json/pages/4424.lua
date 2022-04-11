@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Oh. It's the GOD CAT again. You guess that explains it.",
+		"Oh. It's the GOD CAT again. You guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that explains it.\
+",
 	},
 	next = {
 		4425,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Looks like it worked! You love your scribblepad.",
+		"Looks like it worked! You love your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"scribblepad.\
+",
 	},
 	next = {
 		1567,

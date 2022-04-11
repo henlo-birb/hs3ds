@@ -16,21 +16,43 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Roxy do you know if jane just felt\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"that rumbling too??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Roxy do you know if jane just felt that rumbling too??",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: yea",
+		"TG: yea\
+",
 	},
 	next = {
 		5822,

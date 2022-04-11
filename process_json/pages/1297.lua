@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You grab the tub and chest and move on. That is ALTOGETHER ENOUGH of this nonsense.",
+		"You grab the tub and chest and move\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on. That is ALTOGETHER ENOUGH of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonsense.\
+",
 	},
 	next = {
 		1298,

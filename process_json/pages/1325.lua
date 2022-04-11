@@ -12,19 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You ask ",
+		"You ask\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" to open the safe.",
+		"to open the safe.\
+",
 	},
 	next = {
 		1326,

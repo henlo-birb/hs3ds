@@ -12,15 +12,92 @@ return {
 			0,
 			0,
 		},
-		"Ow, your head. The old noggin has been getting a workout lately, and you don't mean the kind you get from puzzles. Good thing your trusty SKULLTOP took some of the brunt. Also, good thing your trusty SKULL took the rest of it. The sturdy bone really makes for a splendid backup helmet, you think.",
+		"Ow, your head. The old noggin has been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting a workout lately, and you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"don't mean the kind you get from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"puzzles. Good thing your trusty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SKULLTOP took some of the brunt. Also,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good thing your trusty SKULL took the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rest of it. The sturdy bone really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"makes for a splendid backup helmet,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you think.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Speaking of your skulltop, it seems someone's left you a message.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Speaking of your skulltop, it seems\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"someone's left you a message.\
+",
 	},
 	next = {
 		5015,

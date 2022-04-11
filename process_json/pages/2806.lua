@@ -12,20 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.41568627450980394,
 			0.0,
 			0.41568627450980394,
 		},
-		"\
-caligulasAquarium's [CA'S]",
+		"caligulasAquarium's [CA'S]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" computer exploded.",
+		"computer exploded.\
+",
 	},
 	next = {
 		2807,

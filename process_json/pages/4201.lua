@@ -12,15 +12,106 @@ return {
 			0,
 			0,
 		},
-		"You figure a little wisdom from your elder couldn't hurt.",
+		"You figure a little wisdom from your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"elder couldn't hurt.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It practically went without saying your dad keeps poppop stuffed and mounted in front of the fireplace, as is the family tradition. Poppop grew up with his legendary humorist grandfather stuffed in front of the fireplace, and so did his grandfather. This was stipulated firmly in the will, at the end of a long list of joke stipulations. (Dad knew this was a real stipulation though.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It practically went without saying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your dad keeps poppop stuffed and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mounted in front of the fireplace, as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is the family tradition. Poppop grew\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up with his legendary humorist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grandfather stuffed in front of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fireplace, and so did his grandfather.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This was stipulated firmly in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will, at the end of a long list of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"joke stipulations. (Dad knew this was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a real stipulation though.)\
+",
 	},
 	next = {
 		4202,

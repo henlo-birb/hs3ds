@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You were hoping it wouldn't have to come to this. But you're running out of options. You need backup.",
+		"You were hoping it wouldn't have to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come to this. But you're running out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of options. You need backup.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-STRONG backup.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STRONG backup.\
+",
 	},
 	next = {
 		3431,

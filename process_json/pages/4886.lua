@@ -12,23 +12,106 @@ return {
 			0,
 			0,
 		},
-		"That guy won't be of any use. You doubt you could even manage to lure him into your pissing radius, magnificent though it is.",
+		"That guy won't be of any use. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doubt you could even manage to lure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him into your pissing radius,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"magnificent though it is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You give the pitiful gourd a little kick. A terrible thought occurs to you. What if you have no choice but to eat this awful thing? You can't let it come to that. You have to get out of here.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hold on, what's that...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You give the pitiful gourd a little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kick. A terrible thought occurs to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you. What if you have no choice but to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eat this awful thing? You can't let it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come to that. You have to get out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hold on, what's that...\
+",
 	},
 	next = {
 		4887,

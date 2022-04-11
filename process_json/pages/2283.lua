@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"This poses no challenge for you at all.",
+		"This poses no challenge for you at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all.\
+",
 	},
 	next = {
 		2284,

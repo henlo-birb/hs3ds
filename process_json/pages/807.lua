@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Before you go out to feed BEC, you will need to prepare a meal for him.",
+		"Before you go out to feed BEC, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will need to prepare a meal for him.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You clear some space on your work table so you can set up your REFRIGERATOR and COOKALIZER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You clear some space on your work\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"table so you can set up your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"REFRIGERATOR and COOKALIZER.\
+",
 	},
 	next = {
 		808,

@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You make the FOAM FETAL MR. T IN A JAR.",
+		"You make the FOAM FETAL MR. T IN A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JAR.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Another backbreaking victory for science.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Another backbreaking victory for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"science.\
+",
 	},
 	next = {
 		1840,

@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You see if a knife can adequately lengthen your reach. But it's no use! They're still just outside of your modest slashing radius.",
+		"You see if a knife can adequately\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lengthen your reach. But it's no use!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They're still just outside of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"modest slashing radius.\
+",
 	},
 	next = {
 		4905,

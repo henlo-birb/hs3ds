@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"John Egbert has gone missing.",
+		"John Egbert has gone missing.\
+",
 	},
 	next = {
 		6279,

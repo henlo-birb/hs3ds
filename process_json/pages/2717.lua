@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You scan her timeline for the right moment to sync up both your sides of the dialogue. Ideally she will have long since discarded her train of thought.",
+		"You scan her timeline for the right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"moment to sync up both your sides of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the dialogue. Ideally she will have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long since discarded her train of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thought.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will finally reap the spoils of all your careful subterfuge. You will reap them good.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will finally reap the spoils of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all your careful subterfuge. You will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reap them good.\
+",
 	},
 	next = {
 		2718,

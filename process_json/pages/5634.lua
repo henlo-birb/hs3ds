@@ -12,23 +12,127 @@ return {
 			0,
 			0,
 		},
-		"Yet another perfect crime successfully perpetrated. And by crime, you guess you mean order from a superior. In your experience, the best crimes are the ones which are totally legal.",
+		"Yet another perfect crime successfully\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perpetrated. And by crime, you guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you mean order from a superior. In\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your experience, the best crimes are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the ones which are totally legal.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are so satisfied with your accomplishment, you cannot contain your exuberance for another second. You have no choice. You absolutely must do the happy umbrella dance, professional protocol be damned.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh shoot. It seems you have misplaced your BULL PENIS UMBRELLA. There will be no dancing today. Now you're sad.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are so satisfied with your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"accomplishment, you cannot contain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your exuberance for another second.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have no choice. You absolutely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must do the happy umbrella dance,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"professional protocol be damned.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh shoot. It seems you have misplaced\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your BULL PENIS UMBRELLA. There will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be no dancing today. Now you're sad.\
+",
 	},
 	next = {
 		5635,

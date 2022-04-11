@@ -14,15 +14,85 @@ return {
 			0,
 			0,
 		},
-		"You make the CAPTCHAROID CAMERA.",
+		"You make the CAPTCHAROID CAMERA.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can use it to snap a ghost image of any object without captchaloguing it. Spits it out on a brand new captchalogue card every time. Could be a useful way to take a large inventory of anything you encounter without cluttering up your sylladex. Also for grabbing codes for stuff you can't ordinarily pick up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can use it to snap a ghost image\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of any object without captchaloguing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. Spits it out on a brand new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captchalogue card every time. Could be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a useful way to take a large inventory\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of anything you encounter without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cluttering up your sylladex. Also for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grabbing codes for stuff you can't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ordinarily pick up.\
+",
 	},
 	next = {
 		1842,

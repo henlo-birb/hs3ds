@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The goggles zero in on a pendant. Which is... covered in blood?",
+		"The goggles zero in on a pendant.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Which is... covered in blood?\
+",
 	},
 	next = {
 		3202,

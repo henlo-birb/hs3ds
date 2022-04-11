@@ -13,23 +13,148 @@ return {
 			0,
 			0,
 		},
-		"You drew your own role playing character for fun, as many Flarpers are prone to do. She is the best character, and you wish you were her. Oh wait, you are her! Your wish has been granted. Probably as a special boon for being so great at everything.",
+		"You drew your own role playing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"character for fun, as many Flarpers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are prone to do. She is the best\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"character, and you wish you were her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh wait, you are her! Your wish has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been granted. Probably as a special\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"boon for being so great at everything.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Her name is Marquise Spinneret Mindfang, scourge of land dwellers and sea dwellers alike, and worst nightmare to silly BOY-SKYLARKS everywhere. She has accumulated more treasure and gained more levels than any member of the PETTICOAT SEAGRIFT class ever. She gained all the levels. All of them.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Yeah!!!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Her name is Marquise Spinneret\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Mindfang, scourge of land dwellers and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sea dwellers alike, and worst\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nightmare to silly BOY-SKYLARKS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everywhere. She has accumulated more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"treasure and gained more levels than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any member of the PETTICOAT SEAGRIFT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"class ever. She gained all the levels.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All of them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yeah!!!!!!!!\
+",
 	},
 	next = {
 		2197,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Au revoir, spidermom.",
+		"Au revoir, spidermom.\
+",
 	},
 	next = {
 		2274,

@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"THE ALPHA MALE DOES THE REQUISITE THINGS WITH THE STUFF. HIS ADVENTURE IS NIGH.",
+		"THE ALPHA MALE DOES THE REQUISITE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THINGS WITH THE STUFF. HIS ADVENTURE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IS NIGH.\
+",
 	},
 	next = {
 		6491,

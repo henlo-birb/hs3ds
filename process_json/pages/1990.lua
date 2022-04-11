@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Oh, ha ha! Nice one, smartypants. Really hilarious.",
+		"Oh, ha ha! Nice one, smartypants.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Really hilarious.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But let's get real here. No more clowning around.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But let's get real here. No more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clowning around.\
+",
 	},
 	next = {
 		1991,

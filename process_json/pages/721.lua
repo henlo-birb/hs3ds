@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"You waste more than four hours on this tomfoolery.",
+		"You waste more than four hours on this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tomfoolery.\
+",
 	},
 	next = {
 		722,

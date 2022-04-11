@@ -12,119 +12,400 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: jOHN JUST SAID TROLLS ARE WEIRD,",
+		"TAVROS: jOHN JUST SAID TROLLS ARE\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: hE SAID IT QUIETLY, bUT i HEARD HIM,",
+		"WEIRD,\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: hey!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: you snitch.",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: yeah but",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: arent we",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: uH,,,,,",
+		"TAVROS: hE SAID IT QUIETLY, bUT i\
+",
 		{
-			0.4666666666666667,
+			0.6313725490196078,
+			0.3137254901960784,
 			0.0,
-			0.23529411764705882,
+		},
+		"HEARD HIM,\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-MEENAH: moral of the story is blue kid is a dumb nerd but is right when he says stuff",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: look at that its like me and him are becoming fast fronds thus lulling him into a sense of false confidence already",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: hey!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: you snitch.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: yeah but\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: (soon my lil whale...)",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: arent we\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: (soon...)",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: uH,,,,,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: moral of the story is blue kid\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"is a dumb nerd but is right when he\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"says stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: look at that its like me and\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"him are becoming fast fronds thus\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"lulling him into a sense of false\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"confidence already\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: (soon my lil whale...)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: (soon...)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: It is true. To a human, the ways of trolls from 8oth Alternia and 8eforus will seem very strange.",
+		"ARANEA: It is true. To a human, the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: In fact, prior to uniting in the afterlife, even the two groups of trolls were reasona8ly alien to one another.",
+		"ways of trolls from 8oth Alternia and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8eforus will seem very strange.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: I've had a gr8 deal of time to study the cultures of many species throughout paradox space. No matter which race you 8elong to, one can always find another whose ideals pose a challenge of comprehension to even the most open minded.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: In fact, prior to uniting in\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the afterlife, even the two groups of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"trolls were reasona8ly alien to one\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"another.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: And though the ethical standards of those from Alternia may seem unpalata8le to you, rest assured there are 8eings elsewhere in the cosmos whose violent 8ehavior would 8e considered extreme even to most trolls.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: I've had a gr8 deal of time to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"study the cultures of many species\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"throughout paradox space. No matter\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"which race you 8elong to, one can\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"always find another whose ideals pose\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a challenge of comprehension to even\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the most open minded.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: And though the ethical\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"standards of those from Alternia may\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"seem unpalata8le to you, rest assured\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there are 8eings elsewhere in the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"cosmos whose violent 8ehavior would 8e\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"considered extreme even to most\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"trolls.\
+",
 	},
 	next = {
 		5959,

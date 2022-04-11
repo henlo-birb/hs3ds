@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Who'th thith douthchebag?",
+		"Who'th thith douthchebag?\
+",
 	},
 	next = {
 		2763,

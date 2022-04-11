@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Another coffin clogger bites the dust.",
+		"Another coffin clogger bites the dust.\
+",
 	},
 	next = {
 		4398,

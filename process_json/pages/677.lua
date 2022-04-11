@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"It is a sort of specialized BAR CODE PATTERN.",
+		"It is a sort of specialized BAR CODE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PATTERN.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This brings back unpleasant memories and you would prefer not to dwell on it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This brings back unpleasant memories\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you would prefer not to dwell on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		678,

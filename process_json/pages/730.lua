@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"The triangley fractal room does not appear to be locked.",
+		"The triangley fractal room does not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appear to be locked.\
+",
 	},
 	next = {
 		731,

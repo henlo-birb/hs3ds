@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Since your expert safe cracker apparently spent the last five or six hours being totally useless down here, you figure it's time to take things into your own hands.",
+		"Since your expert safe cracker\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apparently spent the last five or six\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hours being totally useless down here,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you figure it's time to take things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into your own hands.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Huh? What's this little fella all worked up about?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Huh? What's this little fella all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"worked up about?\
+",
 	},
 	next = {
 		1323,

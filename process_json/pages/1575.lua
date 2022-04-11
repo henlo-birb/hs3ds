@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You ghost-captcha the huge air conditioner and give Dave the code to mess around with.",
+		"You ghost-captcha the huge air\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conditioner and give Dave the code to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mess around with.\
+",
 	},
 	next = {
 		1576,

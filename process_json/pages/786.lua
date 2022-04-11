@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You almost never use the stairs.",
+		"You almost never use the stairs.\
+",
 	},
 	next = {
 		787,

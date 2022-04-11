@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You stick the OBELISK in the wallet. Fits like a dream. The ray of light is no longer reflected into the hole. Sorry, puzzles.",
+		"You stick the OBELISK in the wallet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Fits like a dream. The ray of light is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no longer reflected into the hole.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sorry, puzzles.\
+",
 	},
 	next = {
 		4958,

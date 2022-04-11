@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"All of your computers light up at once as some douche bag starts hassling you, whoever this douche bag might be.",
+		"All of your computers light up at once\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as some douche bag starts hassling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you, whoever this douche bag might be.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will have to remember to keep most of these computers turned off.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will have to remember to keep most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of these computers turned off.\
+",
 	},
 	next = {
 		3175,

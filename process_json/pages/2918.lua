@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"There is no answer.",
+		"There is no answer.\
+",
 	},
 	next = {
 		2919,

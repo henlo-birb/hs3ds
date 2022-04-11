@@ -12,28 +12,64 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: i fell asleep and had a dream\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: i fell asleep and had a dream",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: and that is when i met a very powerful, strangely charismatic creature...",
+		"JADE: and that is when i met a very\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"powerful, strangely charismatic\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"creature...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: her name was calliope ;)",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: her name was calliope ;)\
+",
 	},
 	next = {
 		7068,

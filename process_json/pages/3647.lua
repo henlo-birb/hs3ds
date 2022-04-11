@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"They are stubborn throes.",
+		"They are stubborn throes.\
+",
 	},
 	next = {
 		3648,

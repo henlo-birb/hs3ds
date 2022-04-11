@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You can't! Nothing is working anymore. The timer seems to have disabled the keyboard.",
+		"You can't! Nothing is working anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The timer seems to have disabled the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"keyboard.\
+",
 	},
 	next = {
 		719,

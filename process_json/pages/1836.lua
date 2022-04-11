@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You make a JUTTING OUT AND IMPUDENT FELT PLUSH.",
+		"You make a JUTTING OUT AND IMPUDENT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FELT PLUSH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You do an acrobatic fucking pirouette off the handle and into his heart. And he, into yours.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You do an acrobatic fucking pirouette\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off the handle and into his heart. And\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he, into yours.\
+",
 	},
 	next = {
 		1837,

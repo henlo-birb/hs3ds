@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Got a lot of typing to do. Hope the ribbon holds up.",
+		"Got a lot of typing to do. Hope the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ribbon holds up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I should probably bust out that shitty drawing of myself again so I can type as quickly as possible.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I should probably bust out that shitty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"drawing of myself again so I can type\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as quickly as possible.\
+",
 	},
 	next = {
 		3235,

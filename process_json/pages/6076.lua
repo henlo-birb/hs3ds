@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"So why don't we stop wasting everyone's time, shut the lid on this lousy MacGuffin, and be Viceroy Bubbles Von Salamancer.",
+		"So why don't we stop wasting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everyone's time, shut the lid on this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lousy MacGuffin, and be Viceroy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Bubbles Von Salamancer.\
+",
 	},
 	next = {
 		6077,

@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"You decide to take the VELVET PILLOW and lovingly embroider a poem in praise of MOTHERHOOD on it. Hopefully you can pull this off before she notices it's gone.",
+		"You decide to take the VELVET PILLOW\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and lovingly embroider a poem in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"praise of MOTHERHOOD on it. Hopefully\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you can pull this off before she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"notices it's gone.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ve > L. Ve < Vi. Ve > U.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it causes your tree to be pretty badly unbalanced. It surely will AUTO-BALANCE itself in a moment.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ve > L. Ve < Vi. Ve > U.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it causes your tree to be pretty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"badly unbalanced. It surely will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AUTO-BALANCE itself in a moment.\
+",
 	},
 	next = {
 		375,

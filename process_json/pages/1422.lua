@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Same with this one you guess. At least this HAT didn't technically belong to your DAD. You made it yourself.",
+		"Same with this one you guess. At least\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this HAT didn't technically belong to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your DAD. You made it yourself.\
+",
 	},
 	next = {
 		1423,

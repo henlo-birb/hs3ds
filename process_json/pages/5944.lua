@@ -12,56 +12,155 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i sure do talk to myself a lot dont i",
+		"DAVESPRITE: i sure do talk to myself a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"lot dont i\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: wow why have i never made this observation",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i probably needed to be a bird for exactly three years to finally have that epiphany",
+		"DAVESPRITE: wow why have i never made\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"this observation\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: i wonder if real dave ever had that epiphany",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: probably not cause hes not a bird",
+		"DAVESPRITE: i probably needed to be a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: the bottom line is being a guy whos also a bird makes you think",
+		"bird for exactly three years to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"finally have that epiphany\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: anyway im out",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i wonder if real dave ever\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"had that epiphany\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: probably not cause hes not\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"a bird\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: the bottom line is being a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"guy whos also a bird makes you think\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: anyway im out\
+",
 	},
 	next = {
 		5945,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Oh, is this what we're doing now?",
+		"Oh, is this what we're doing now?\
+",
 	},
 	next = {
 		4043,

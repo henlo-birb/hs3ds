@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What the fuck is this.",
+		"What the fuck is this.\
+",
 	},
 	next = {
 		115,

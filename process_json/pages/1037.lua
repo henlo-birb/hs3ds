@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"See? Over there.",
+		"See? Over there.\
+",
 	},
 	next = {
 		1038,

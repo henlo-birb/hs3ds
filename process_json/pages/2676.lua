@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"What a surprise, more lousy imps having their way with the place. You wonder where nanna could be. Someone needs to get this motley assortment of rogues under control.",
+		"What a surprise, more lousy imps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"having their way with the place. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wonder where nanna could be. Someone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"needs to get this motley assortment of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rogues under control.\
+",
 	},
 	next = {
 		2677,

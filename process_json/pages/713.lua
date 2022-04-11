@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You use the arrow key to scroll up a bit. You can't believe how much you've already typed into this stupid contraption. What a waste of time.",
+		"You use the arrow key to scroll up a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bit. You can't believe how much you've\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already typed into this stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contraption. What a waste of time.\
+",
 	},
 	next = {
 		714,

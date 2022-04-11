@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Sassacre you beautiful bastard. ",
+		"Sassacre you beautiful bastard.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now's your chance!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now's your chance!!!\
+",
 	},
 	next = {
 		97,

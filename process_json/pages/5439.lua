@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"END OF ACT 6 ACT 4.",
+		"END OF ACT 6 ACT 4.\
+",
 	},
 	next = {
 		5440,

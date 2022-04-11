@@ -14,23 +14,78 @@ return {
 			0,
 			0,
 		},
-		"You make the REMOTE GHOST GAUNTLET. ",
+		"You make the REMOTE GHOST GAUNTLET.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like when you put on the special computer-glove it lets you control the big slimy ghost hand.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The GHOST GAUNTLET appears to have a considerably higher lift capacity than your own puny arms.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like when you put on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"special computer-glove it lets you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"control the big slimy ghost hand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The GHOST GAUNTLET appears to have a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"considerably higher lift capacity than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your own puny arms.\
+",
 	},
 	next = {
 		1060,

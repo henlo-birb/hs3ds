@@ -13,27 +13,78 @@ return {
 			0,
 			0,
 		},
-		"This isn't a real newspaper. It's just a wrapper for your private sordid literature, which no one can ever see.",
+		"This isn't a real newspaper. It's just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a wrapper for your private sordid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"literature, which no one can ever see.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Uh oh, it's slipping out a bit. Your appetite for MONOCHROME BEAUTIES is nearly on public display. Gotta keep a lid on that smut! Especially with ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Uh oh, it's slipping out a bit. Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appetite for MONOCHROME BEAUTIES is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nearly on public display. Gotta keep a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lid on that smut! Especially with\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" around.",
+		"around.\
+",
 	},
 	next = {
 		1329,

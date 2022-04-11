@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You are suddenly the awesome coolkid.",
+		"You are suddenly the awesome coolkid.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In a different game session. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In the future.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In a different game session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In the future.\
+",
 	},
 	next = {
 		2774,

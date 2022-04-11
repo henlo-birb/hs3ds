@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Maybe I have not been strict enough with your breathing privileges either?",
+		"Maybe I have not been strict enough\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with your breathing privileges either?\
+",
 	},
 	next = {
 		4044,

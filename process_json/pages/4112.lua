@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"END OF INTERMISSION 2.",
+		"END OF INTERMISSION 2.\
+",
 	},
 	next = {
 		4113,

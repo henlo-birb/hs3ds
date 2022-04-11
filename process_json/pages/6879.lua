@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"DON'T YOU? LET'S DROP THE BULLSHIT. AND STOP FUCKING AROUND.",
+		"DON'T YOU? LET'S DROP THE BULLSHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND STOP FUCKING AROUND.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YOU ARE PROBABLY WONDERING. \"WHO IS RESPONSIBLE FOR ALL THIS MAYHEM?\" YOU ASK.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU ARE PROBABLY WONDERING. \"WHO IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RESPONSIBLE FOR ALL THIS MAYHEM?\" YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ASK.\
+",
 	},
 	next = {
 		6880,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Your mercy killing triggers another avalanche. More rotten luck!",
+		"Your mercy killing triggers another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"avalanche. More rotten luck!\
+",
 	},
 	next = {
 		2275,

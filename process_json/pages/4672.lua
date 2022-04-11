@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Also can you bring some gauze? He stabbed me again.",
+		"Also can you bring some gauze? He\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stabbed me again.\
+",
 	},
 	next = {
 		4673,

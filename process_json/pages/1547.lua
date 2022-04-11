@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"What the hell was that???",
+		"What the hell was that???\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It almost sounded like a huge egg appeared in the sky and landed, and then someone mysterious teleported out of it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It almost sounded like a huge egg\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appeared in the sky and landed, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"then someone mysterious teleported out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of it.\
+",
 	},
 	next = {
 		1548,

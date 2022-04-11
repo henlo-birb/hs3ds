@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the walls of your own home.",
+		"It is a clear, sunny day. Nothing out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the ordinary to report. At least,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not beyond the walls of your own home.\
+",
 	},
 	next = {
 		163,

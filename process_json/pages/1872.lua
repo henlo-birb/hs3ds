@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The ghost sludge is sucked into a glass tube.",
+		"The ghost sludge is sucked into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"glass tube.\
+",
 	},
 	next = {
 		1873,

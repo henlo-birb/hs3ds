@@ -12,91 +12,288 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I STILL HAVE NO IDEA WHY YOU PUT ME ON DRAWING DUTY.",
+		"KARKAT: I STILL HAVE NO IDEA WHY YOU\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"PUT ME ON DRAWING DUTY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I'M EASILY THE WORST ARTIST HERE. ",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: I'M EASILY THE WORST ARTIST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HERE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: AND IN A SETTING THAT INCLUDES DAVE, LET'S GET REAL. THAT'S NO SMALL FEAT.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: AND IN A SETTING THAT INCLUDES\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DAVE, LET'S GET REAL. THAT'S NO SMALL\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FEAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I specifically assigned you to diagramming duty so that it would keep you occupied.",
+		"VRISKA: I specifically assigned you to\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: That way, you'd stand a chance of keeping your mouth shut while I talk strategy.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: THAT'S WORKED OUT GREAT SO FAR, HASN'T IT?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WE'VE LOST HOW MANY STRATEGY-SECONDS TO ME COMPLAINING ABOUT DRAWING ALREADY??",
+		"diagramming duty so that it would keep\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you occupied.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Sure, 8ut I know that drawing requires a lot of concentr8tion from you.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: That way, you'd stand a chance\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of keeping your mouth shut while I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"talk strategy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Once you're in the zone, I expect you'll simmer down.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WOW, FUCK YOU!",
+		"KARKAT: THAT'S WORKED OUT GREAT SO\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"FAR, HASN'T IT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: YOU'RE PROBABLY RIGHT, BUT FUCK YOU NEVERTHELESS!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WE'VE LOST HOW MANY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"STRATEGY-SECONDS TO ME COMPLAINING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ABOUT DRAWING ALREADY??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHERE THE SHIT IS MY ART PENCIL. I HAVE SOME DRAWING TO DO.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sure, 8ut I know that drawing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"requires a lot of concentr8tion from\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Once you're in the zone, I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"expect you'll simmer down.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WOW, FUCK YOU!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YOU'RE PROBABLY RIGHT, BUT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FUCK YOU NEVERTHELESS!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WHERE THE SHIT IS MY ART\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PENCIL. I HAVE SOME DRAWING TO DO.\
+",
 	},
 	next = {
 		7520,

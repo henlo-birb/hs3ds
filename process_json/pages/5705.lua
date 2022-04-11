@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You got a RED SUCKER.",
+		"You got a RED SUCKER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This one unsurprisingly yields another unit of ZILLIUM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This one unsurprisingly yields another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unit of ZILLIUM.\
+",
 	},
 	next = {
 		5706,

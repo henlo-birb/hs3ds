@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The droll is beckoned. The bargain, honored.",
+		"The droll is beckoned. The bargain,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"honored.\
+",
 	},
 	next = {
 		1952,

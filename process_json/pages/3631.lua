@@ -12,320 +12,1037 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: This doesn't sound like an especially admirable objective. Releasing an evil man, who is presumably more powerful than you, an already omnipotent being.",
+		"TT: This doesn't sound like an\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Am I right?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-You are right about both. It is not admirable, and he is considerably more powerful.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But you must decide which objective is more important.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-You may decide to attempt to destroy the sun and end my life. This will neutralize Jack, who is also much more powerful and dangerous than myself by virtue of the ring he wears in addition to drawing energy from the same sun as I. He poses a significant threat to reality.",
+		"especially admirable objective.\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: But in the process of killing him and you, I release your master, who is just as deadly?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-He's more deadly.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But the danger he poses is sanctioned by paradox space.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-It is a known quantity. His very existence in a universe will mean it will inevitably be torn apart.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But there are rules to his entry, and his grim procession through paradox space is rather orderly. The present equilibrium has accounted for him, and will continue to.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Jack however is a loose cannon. He will not stop until he destroys everything he encounters.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Additionally, his existence is your responsibility.",
+		"Releasing an evil man, who is\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"presumably more powerful than you, an\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"already omnipotent being.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Then I guess I don't have a choice.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Am I right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-You do.",
+		"You are right about both. It is not\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-But also know this.",
+		"admirable, and he is considerably more\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"powerful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Refusing to venture out to destroy the sun in no way spares anyone from my master regardless.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-It is certainly true that destroying it will end my life.",
+		"But you must decide which objective is\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"more important.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-And it is certainly true that ",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You may decide to attempt to destroy\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the sun and end my life. This will\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"neutralize Jack, who is also much more\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"powerful and dangerous than myself by\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"virtue of the ring he wears in\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"addition to drawing energy from the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"same sun as I. He poses a significant\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"threat to reality.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: But in the process of killing him\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"and you, I release your master, who is\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"just as deadly?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"He's more deadly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But the danger he poses is sanctioned\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"by paradox space.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It is a known quantity. His very\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"existence in a universe will mean it\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"will inevitably be torn apart.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But there are rules to his entry, and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"his grim procession through paradox\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"space is rather orderly. The present\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"equilibrium has accounted for him, and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"will continue to.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Jack however is a loose cannon. He\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"will not stop until he destroys\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"everything he encounters.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Additionally, his existence is your\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"responsibility.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then I guess I don't have a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"choice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But also know this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Refusing to venture out to destroy the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"sun in no way spares anyone from my\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"master regardless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It is certainly true that destroying\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"it will end my life.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"And it is certainly true that\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"The Tumor",
+		"The Tumor\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		" you will deliver to its location has enough power to destroy it completely.",
+		"you will deliver to its location has\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-But it is not the only way to kill me.",
+		"enough power to destroy it completely.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-It is simply a way I have suggested to you, which doubles as a way to disarm Jack, should you choose to go through with it.",
-		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Instances of myself have spawned in countless universes, and my objective is always the same.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"But it is not the only way to kill me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I have never once failed to complete this objective, and I never will.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-There is nothing noble about taking a course of action you believe would prevent his arrival, because that is impossible.",
+		"It is simply a way I have suggested to\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-He will come.",
+		"you, which doubles as a way to disarm\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Jack, should you choose to go through\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"with it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-In fact, he is already here.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Instances of myself have spawned in\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"countless universes, and my objective\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"is always the same.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I have never once failed to complete\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"this objective, and I never will.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"There is nothing noble about taking a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"course of action you believe would\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"prevent his arrival, because that is\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"impossible.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"He will come.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"In fact, he is already here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Are you saying that I will succeed in the mission to destroy the sun?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Are you asking for another palm reading?",
+		"TT: Are you saying that I will succeed\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"in the mission to destroy the sun?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: ...",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-You seem rather keen on acquiring a fortune from me considering you are the one with the crystal ball.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I'm just trying to ask as many questions as I can. It's the only way to find the dark spots in your obstinacy.",
+		"Are you asking for another palm\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I've been very helpful. And I will continue to be.",
+		"reading?\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-I myself do not care to be an oracle. But I can graciously supply you with one.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Can you?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-An eager consort has brought you one of my seeds. It appears you have amassed followers who wish to please you. How fortuitous.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Your seeds?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"You seem rather keen on acquiring a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"fortune from me considering you are\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the one with the crystal ball.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-The white orb.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Oh. The cue ball. How did I not notice this?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-It will accurately answer any question a curious girl can pose.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Provided she can see through the surface to read its reply.",
+		"TT: I'm just trying to ask as many\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Hmm.",
+		"questions as I can. It's the only way\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"to find the dark spots in your\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"obstinacy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Is that possible?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Is it, Seer?",
+		"I've been very helpful. And I will\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"continue to be.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Given your title and all the tools of prognostication at your disposal, it seems to me I should be the one asking you the questions.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I myself do not care to be an oracle.\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But I can graciously supply you with\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Can you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"An eager consort has brought you one\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of my seeds. It appears you have\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"amassed followers who wish to please\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you. How fortuitous.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Your seeds?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"The white orb.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Oh. The cue ball. How did I not\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"notice this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It will accurately answer any question\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a curious girl can pose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Provided she can see through the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"surface to read its reply.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is that possible?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Is it, Seer?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Given your title and all the tools of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"prognostication at your disposal, it\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"seems to me I should be the one asking\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you the questions.\
+",
 	},
 	next = {
 		3632,

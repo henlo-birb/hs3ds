@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"And yet...",
+		"And yet...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your curiosity. It remains piqued.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How maddening.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your curiosity. It remains piqued.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How maddening.\
+",
 	},
 	next = {
 		2709,

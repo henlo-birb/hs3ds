@@ -12,23 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You snag a bottle of FAYGO. To consume the beverage is what your fellow devotees refer to as KICKIN' THE WICKED ELIXIR. ",
+		"You snag a bottle of FAYGO. To consume\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the beverage is what your fellow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"devotees refer to as KICKIN' THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WICKED ELIXIR.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is captchalogued through your MIRACLE MODUS. You have absolutely no idea how this thing works.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And you don't want to know.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is captchalogued through your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MIRACLE MODUS. You have absolutely no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idea how this thing works.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And you don't want to know.\
+",
 	},
 	next = {
 		2014,

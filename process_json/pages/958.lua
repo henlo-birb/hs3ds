@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Your transmission is interrupted.",
+		"Your transmission is interrupted.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It seems your GLORIOUS MONARCH has concerns over your wardrobe.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It seems your GLORIOUS MONARCH has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concerns over your wardrobe.\
+",
 	},
 	next = {
 		959,

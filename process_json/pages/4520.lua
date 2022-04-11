@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Nervous? That's absurd.",
+		"Nervous? That's absurd.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's no reason to be nervous around Cal. Lil Cal is the shit.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's no reason to be nervous around\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cal. Lil Cal is the shit.\
+",
 	},
 	next = {
 		4521,

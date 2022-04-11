@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The package is opened. Letters, read.",
+		"The package is opened. Letters, read.\
+",
 	},
 	next = {
 		1955,

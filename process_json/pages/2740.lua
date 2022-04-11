@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It is the perfect crime.",
+		"It is the perfect crime.\
+",
 	},
 	next = {
 		2741,

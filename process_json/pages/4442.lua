@@ -12,7 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You try to distract yourself with Strider's literature, but it's no use. Your curiosity is overwhelming. Lalonde could be gone for hours, for all you know. Surely there couldn't be any harm in just installing the file, could there?",
+		"You try to distract yourself with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Strider's literature, but it's no use.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your curiosity is overwhelming.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lalonde could be gone for hours, for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all you know. Surely there couldn't be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any harm in just installing the file,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"could there?\
+",
 	},
 	next = {
 		4443,

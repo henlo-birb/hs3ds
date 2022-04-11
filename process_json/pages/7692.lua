@@ -12,21 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Sorry if I'm interrupting... WHATEVER the fuck is going on here.",
+		"VRISKA: Sorry if I'm interrupting...\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"WHATEVER the fuck is going on here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: 8ut I'm afraid I'm going to need that treasure.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8ut I'm afraid I'm going to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"need that treasure.\
+",
 	},
 	next = {
 		7693,

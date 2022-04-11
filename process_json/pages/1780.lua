@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You have traveled to Prospit's moon to board a shuttle headed for the BATTLEFIELD. There you will seek the counsel of the WHITE KING.",
+		"You have traveled to Prospit's moon to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"board a shuttle headed for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BATTLEFIELD. There you will seek the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"counsel of the WHITE KING.\
+",
 	},
 	next = {
 		1781,

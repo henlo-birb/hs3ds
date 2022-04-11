@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"It worked! The result is a huge kickass PROTON CANNON.",
+		"It worked! The result is a huge\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kickass PROTON CANNON.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Obviously you can only wield this weapon in your IRON LASS SUIT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Obviously you can only wield this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon in your IRON LASS SUIT.\
+",
 	},
 	next = {
 		3165,

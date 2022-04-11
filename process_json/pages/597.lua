@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You dispense several CHERRY BOMBS.",
+		"You dispense several CHERRY BOMBS.\
+",
 	},
 	next = {
 		598,

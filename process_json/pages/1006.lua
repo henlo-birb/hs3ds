@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"You cannot descend from the top of your mobile station. The loose cable you gathered up and tied together is not yet long enough to allow you to reach the ground safely.",
+		"You cannot descend from the top of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your mobile station. The loose cable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you gathered up and tied together is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not yet long enough to allow you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reach the ground safely.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have used all the cable you can find. You will have to come up with another plan.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have used all the cable you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"find. You will have to come up with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another plan.\
+",
 	},
 	next = {
 		1007,

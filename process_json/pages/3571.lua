@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Whose memory is this?",
+		"Whose memory is this?\
+",
 	},
 	next = {
 		3572,

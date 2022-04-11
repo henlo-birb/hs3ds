@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Oh God damn it.",
+		"Oh God damn it.\
+",
 	},
 	next = {
 		648,

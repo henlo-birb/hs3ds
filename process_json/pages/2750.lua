@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Unsurprisingly, you return to a room full of commotion.",
+		"Unsurprisingly, you return to a room\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full of commotion.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What is this guy staring at? Always with the staring. He is so weird.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What is this guy staring at? Always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the staring. He is so weird.\
+",
 	},
 	next = {
 		2751,

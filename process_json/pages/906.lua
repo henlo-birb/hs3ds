@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"Ok, maybe you'll do a LITTLE messing around. You are only human after aAUGH WHAT'S THAT",
+		"Ok, maybe you'll do a LITTLE messing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around. You are only human after aAUGH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHAT'S THAT\
+",
 	},
 	next = {
 		907,

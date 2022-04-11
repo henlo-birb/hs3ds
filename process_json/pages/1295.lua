@@ -12,21 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Hate to chop all of your heads off with this sword. Real sorry about that. My bad.",
+		"Hate to chop all of your heads off\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"with this sword. Real sorry about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that. My bad.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You slay them all with your RAPIER WIT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You slay them all with your RAPIER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WIT.\
+",
 	},
 	next = {
 		1296,

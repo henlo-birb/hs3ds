@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"OH FUCK YOU MAKE A BUNCH OF ZILLY SANTAS.",
+		"OH FUCK YOU MAKE A BUNCH OF ZILLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SANTAS.\
+",
 	},
 	next = {
 		5776,

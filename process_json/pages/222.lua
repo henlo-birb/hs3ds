@@ -15,15 +15,50 @@ return {
 			0,
 			0,
 		},
-		"You waste approximately 40 seconds playing the violin while your friend is in peril. ",
+		"You waste approximately 40 seconds\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"playing the violin while your friend\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is in peril.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Nice time management skills there, sweetheart!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nice time management skills there,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sweetheart!\
+",
 	},
 	next = {
 		223,

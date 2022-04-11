@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You really wish your side of the wall had an off switch. ",
+		"You really wish your side of the wall\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"had an off switch.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Which is to say, I really wish my side of the wall had an off switch.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Which is to say, I really wish my side\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the wall had an off switch.\
+",
 	},
 	next = {
 		1673,

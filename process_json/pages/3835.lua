@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"And she would know victory doesn't matter in a reality where all else is doomed to fail.",
+		"And she would know victory doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter in a reality where all else is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doomed to fail.\
+",
 	},
 	next = {
 		3836,

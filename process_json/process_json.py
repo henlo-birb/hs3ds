@@ -40,33 +40,52 @@ def get_color(style):
             print(h)
     return [0, 0, 0]
 
+def get_lines(s):
+    words = re.findall("\S+", s)
+    whitespace = re.findall("\s+", s)
+
+    lines = []
+    line = ""
+    for i, w in enumerate(words):
+        if i+1 < len(words):
+            if len(line + w + whitespace[i] + words[i+1]) > 38:
+                lines.append(line + w + "\n")
+                line = ""
+            else:
+                line += w + whitespace[i]
+        else:
+            lines.append(line + w)
+    if lines:
+        lines[-1] += "\n"
+    return lines
 
 os.system("mkdir -p pages")
-
-bar = progressbar.ProgressBar(max_value=len(hs_filtered.items()))
+bar = progressbar.ProgressBar(max_value=len(hs_filtered.items()), redirect_stdout=True)
 for k, v in hs_filtered.items():
     new_content = []
     soup = BeautifulSoup(v["content"], "html.parser")
-    breaks = 0
     underline_spans = ""
     for e in soup.contents:
         match e.name:
             case "br":
-                breaks += 1
+                new_content.append([0,0,0])
+                new_content.append("\n")
             case "span":
                 if e.string:
-                    new_content.append(get_color(e.attrs["style"]))
-                    if "text-decoration: underline" in e.attrs["style"]:
-                        e.string = "_ul_" + e.string
-                    new_content.append("\n" * breaks + e.string)
-                    breaks = 0
+                    c = get_color(e.attrs["style"])
+                    lines = get_lines(e.string)
+                    for l in lines:
+                        new_content.append(c)
+                        new_content.append(l)
+                    # if "text-decoration: underline" in e.attrs["style"]:
+                    #     e.string = "_ul_" + e.string
             case _:
-                new_content.append([0, 0, 0])
-                if e.string:
-                    new_content.append("\n" * breaks + e.string)
-                    breaks = 0
-                else:
-                    new_content.append(str(e))
+                s = str(e) if not e.string else e.string
+                lines = get_lines(s)
+                for l in lines:
+                    new_content.append([0, 0, 0])
+                    new_content.append(l)
+                
     v["content"] = new_content
     v["next"] = [conv_key(n) for n in v["next"]]
     if "previous" in v:

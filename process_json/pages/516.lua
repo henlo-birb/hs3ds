@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Thanks for the courtesy. ",
+		"Thanks for the courtesy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's not really necessary, but thanks anyway.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's not really necessary, but thanks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anyway.\
+",
 	},
 	next = {
 		517,

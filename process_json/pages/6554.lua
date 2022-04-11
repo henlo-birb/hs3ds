@@ -12,42 +12,113 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Now then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Now then.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: What to do a8out you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: What to do a8out you?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Shall I continue to manipul8 you? Or will you comply with my orders if I decide to loosen my grip?",
+		"ARANEA: Shall I continue to manipul8\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Perhaps the threat of 8eing controlled again will 8e enough to keep your capricious tendencies in check?",
+		"you? Or will you comply with my orders\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"if I decide to loosen my grip?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: ........",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Perhaps the threat of 8eing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"controlled again will 8e enough to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"keep your capricious tendencies in\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"check?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: ........\
+",
 	},
 	next = {
 		6555,

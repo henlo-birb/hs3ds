@@ -12,65 +12,463 @@ return {
 			0,
 			0,
 		},
-		"You are also a SEA DWELLER. You have the most noble blood possible, the only of your kind known to possess it, and the only to share it with GL'BGOLYB, a deep sea monster also known as THE RIFT'S CARBUNCLE, EMISSARY TO THE HORRORTERRORS, or in more hushed tones, SPEAKER OF THE VAST GLUB.",
+		"You are also a SEA DWELLER. You have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the most noble blood possible, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"only of your kind known to possess it,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and the only to share it with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GL'BGOLYB, a deep sea monster also\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"known as THE RIFT'S CARBUNCLE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EMISSARY TO THE HORRORTERRORS, or in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more hushed tones, SPEAKER OF THE VAST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GLUB.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This makes you the HEIR APPARENT for Alternian rulership, which ordinarily would place you in considerable jeopardy. HER IMPERIOUS CONDESCENSION would steer the flagship from the fleet and make an attempt on your life herself, if not for the protection of your monstrous lusus.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And if not forewarned of your race's extinction by the whispers of that lusus, you would have BIG PLANS FOR THE THRONE. All the plans. All of them.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This makes you the HEIR APPARENT for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Alternian rulership, which ordinarily\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would place you in considerable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jeopardy. HER IMPERIOUS CONDESCENSION\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would steer the flagship from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fleet and make an attempt on your life\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"herself, if not for the protection of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your monstrous lusus.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You would redefine what it means to be CULLED in troll society. Under your rule it would mean caring for the unfit and infirm rather than exterminating them, and you have put this idea into practice by CULLING THE FAUNA OF THE DEEP. You tend to wild and beautiful AQUATIC HOOFBEASTS, grooming and feeding them daily. You capture and cage CUTTLEFISH by the thousands for their own good, and also because they are funny and colorful and you love them. They often swim through the bars of their cages, but that is fine. You run your whole palace as a sort of WILDLIFE ADOPTION FACILITY, even if the wildlife's need for care is dubious at best, and the practice really just amounts to an elaborate ROLE PLAYING SCENARIO. It's still fun though.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You would also look forward to using your reign to UNITE THE TWO RACES. You were told you would do this one day by your lusus, even if it does contradict her message of extinction. Oh well, you suppose NOT ALL PROPHECIES CAN COME TRUE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And if not forewarned of your race's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extinction by the whispers of that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lusus, you would have BIG PLANS FOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE THRONE. All the plans. All of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your trolltag is ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You would redefine what it means to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CULLED in troll society. Under your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rule it would mean caring for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unfit and infirm rather than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exterminating them, and you have put\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this idea into practice by CULLING THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FAUNA OF THE DEEP. You tend to wild\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and beautiful AQUATIC HOOFBEASTS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grooming and feeding them daily. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"capture and cage CUTTLEFISH by the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thousands for their own good, and also\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because they are funny and colorful\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you love them. They often swim\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the bars of their cages, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that is fine. You run your whole\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"palace as a sort of WILDLIFE ADOPTION\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FACILITY, even if the wildlife's need\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for care is dubious at best, and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"practice really just amounts to an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"elaborate ROLE PLAYING SCENARIO. It's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"still fun though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You would also look forward to using\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your reign to UNITE THE TWO RACES. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were told you would do this one day by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your lusus, even if it does contradict\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her message of extinction. Oh well,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you suppose NOT ALL PROPHECIES CAN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COME TRUE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your trolltag is\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"cuttlefishCuller",
+		"cuttlefishCuller\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" and you ",
+		"and you\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		")(ave a )(ard time not getting R-EALLY -EXCIT-ED ABOUT PRACTICALLY -EV-------ERYT)(ING!",
+		")(ave a )(ard time not getting R-EALLY\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"-EXCIT-ED ABOUT PRACTICALLY\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"-EV-------ERYT)(ING!\
+",
 	},
 	next = {
 		2442,

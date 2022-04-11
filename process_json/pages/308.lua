@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Surely your mother is lurking nearby. You should be prepared for an unpleasant confron...",
+		"Surely your mother is lurking nearby.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You should be prepared for an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unpleasant confron...\
+",
 	},
 	next = {
 		309,

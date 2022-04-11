@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You take advantage of Dave's nap to make some architectural headway on his building.",
+		"You take advantage of Dave's nap to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make some architectural headway on his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"building.\
+",
 	},
 	next = {
 		1818,

@@ -13,23 +13,127 @@ return {
 			0,
 			0,
 		},
-		"You pull up to your COMPUTER. This is where you spend most of your time. You decorated your desktop with some rather handsome WALLPAPER which you made yourself. You are really proud of it.",
+		"You pull up to your COMPUTER. This is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"where you spend most of your time. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decorated your desktop with some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather handsome WALLPAPER which you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made yourself. You are really proud of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your desktop is also littered with various PROGRAMMING PROJECT FILES. You are so bad at programming sometimes you wonder why you even bother with it.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your PESTERCHUM application is flashing. Someone is trying to get in touch with you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your desktop is also littered with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"various PROGRAMMING PROJECT FILES. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are so bad at programming sometimes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you wonder why you even bother with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your PESTERCHUM application is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flashing. Someone is trying to get in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"touch with you.\
+",
 	},
 	next = {
 		25,

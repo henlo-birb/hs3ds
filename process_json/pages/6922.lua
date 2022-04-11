@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"A TEEN DIDN'T LIKE THE DIRECTION OF MY STORY, SO HE CAME AND BEAT ME UP.",
+		"A TEEN DIDN'T LIKE THE DIRECTION OF MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STORY, SO HE CAME AND BEAT ME UP.\
+",
 	},
 	next = {
 		6923,

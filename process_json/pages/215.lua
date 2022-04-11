@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"No, that wasn't it!",
+		"No, that wasn't it!\
+",
 	},
 	next = {
 		216,

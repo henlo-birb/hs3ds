@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"THE WINDY THING subsides, and clear skies prevail. You soar to the highest rung, and rule over your echeladder as the HEIR TRANSPARENT.",
+		"THE WINDY THING subsides, and clear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"skies prevail. You soar to the highest\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rung, and rule over your echeladder as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the HEIR TRANSPARENT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Boondollars fly.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Boondollars fly.\
+",
 	},
 	next = {
 		3076,

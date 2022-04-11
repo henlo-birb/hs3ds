@@ -12,15 +12,92 @@ return {
 			0,
 			0,
 		},
-		"But before that you had to scoot around in your wheel device throughout the various worlds of the Medium, and endure all sorts of follies related to your disability, which on account of their great plurality and marginal relevance we will not get to see. Just as well.",
+		"But before that you had to scoot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around in your wheel device throughout\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the various worlds of the Medium, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"endure all sorts of follies related to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your disability, which on account of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their great plurality and marginal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"relevance we will not get to see. Just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as well.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wow, look what happens when you space out and contemplate the future like that. The messages start piling up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wow, look what happens when you space\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out and contemplate the future like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that. The messages start piling up.\
+",
 	},
 	next = {
 		2122,

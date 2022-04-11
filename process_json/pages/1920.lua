@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"An old colonel lost, but a new brother gained.",
+		"An old colonel lost, but a new brother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gained.\
+",
 	},
 	next = {
 		1921,

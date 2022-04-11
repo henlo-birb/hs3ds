@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You snap off a golden pointy thing. Should be sharp enough to do the trick.",
+		"You snap off a golden pointy thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Should be sharp enough to do the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trick.\
+",
 	},
 	next = {
 		4890,

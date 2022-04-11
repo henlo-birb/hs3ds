@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Oh yeah. Jane too!",
+		"Oh yeah. Jane too!\
+",
 	},
 	next = {
 		5070,

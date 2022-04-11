@@ -12,236 +12,673 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-gutsyGumshoe [GG]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began bothering ",
+		"\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
 			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
 		},
-		"golgothasTerror [GT]",
+		"gutsyGumshoe [GG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" at 11:40 ",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-\
-GG: J, how goes the bunnyquest?",
+		"began bothering\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"golgothasTerror [GT]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at 11:40\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Ive barely even begun!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: J, how goes the bunnyquest?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Tell me about it.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Ive barely even begun!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Youre off to a sluggish start then too i gather?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Dad has the whole house in full fatherly lockdown mode. Talk about blowing a few measly \"assassination attempts\" way out of proportion!",
+		"GG: Tell me about it.\
+",
 		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: So I'm currently mulling over my next move.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: What is it that has you hamstrung? Did you ever track down the slippery Mr. Strider?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Not exactly.",
+		"GT: Youre off to a sluggish start then\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"too i gather?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: His stupid doppelglasses have set me on a wild goose chase to go pry his dumb robots chest open and swipe its uranium.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Sounds dangerous!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: No shit.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I think id rather deal with the monsters.",
+		"GG: Dad has the whole house in full\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Why is it that our two best friends in the world always seem to place themselves at the source of all our problems, while simultaneously presenting their only solutions?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I know right???",
+		"fatherly lockdown mode. Talk about\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: I'm debating whether or not to enlist his help in the matter of my current imprisonment. But I'd rather keep it as a plan of last resort.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Dont do it jane its a trap!!!",
+		"blowing a few measly \"assassination\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"attempts\" way out of proportion!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: We'll see.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: So I take it you're out and about now?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Hell no. I spent so much time haggling with those confounded shades im only leaving my room just now.",
+		"GG: So I'm currently mulling over my\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Right. Well, not to keep you too long, since we both still have our missions ahead of us, but I wanted to tell you about that dream I had.",
+		"next move.\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Oh yeah!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I was curious about that. Tell me everything and make it snappy!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: *Whips up bucket of freshly popped corn.*",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Hoo. :B",
+		"GG: What is it that has you hamstrung?\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Ok, but, I should say that the nature of the dream was a bit worrisome.",
+		"Did you ever track down the slippery\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: And I'm concerned it may have implications for the game we're about to play.",
+		"Mr. Strider?\
+",
 		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: So it's probably best that I tell you about it before you leave.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Not exactly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Well shoot.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: His stupid doppelglasses have set\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"me on a wild goose chase to go pry his\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"dumb robots chest open and swipe its\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"uranium.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Ok then lay it on me jane.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Sounds dangerous!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: No shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I think id rather deal with the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"monsters.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Why is it that our two best\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"friends in the world always seem to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"place themselves at the source of all\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"our problems, while simultaneously\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"presenting their only solutions?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I know right???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I'm debating whether or not to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"enlist his help in the matter of my\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"current imprisonment. But I'd rather\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"keep it as a plan of last resort.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Dont do it jane its a trap!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: We'll see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: So I take it you're out and about\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Hell no. I spent so much time\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"haggling with those confounded shades\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"im only leaving my room just now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Right. Well, not to keep you too\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"long, since we both still have our\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"missions ahead of us, but I wanted to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"tell you about that dream I had.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Oh yeah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I was curious about that. Tell me\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"everything and make it snappy!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: *Whips up bucket of freshly popped\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"corn.*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Hoo. :B\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Ok, but, I should say that the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"nature of the dream was a bit\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"worrisome.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: And I'm concerned it may have\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"implications for the game we're about\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"to play.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: So it's probably best that I tell\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"you about it before you leave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Well shoot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Ok then lay it on me jane.\
+",
 	},
 	next = {
 		4209,

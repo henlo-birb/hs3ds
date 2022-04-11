@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You proceed through what seems to be your second gate, into the LAND OF MAPS AND TREASURE. The THIEF OF LIGHT lies in wait.",
+		"You proceed through what seems to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your second gate, into the LAND OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAPS AND TREASURE. The THIEF OF LIGHT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lies in wait.\
+",
 	},
 	next = {
 		2373,

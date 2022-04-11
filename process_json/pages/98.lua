@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You snag your DAD'S PDA. Maybe later you'll switch the background image to something hilarious as a prank. Besides, it may come in handy later.",
+		"You snag your DAD'S PDA. Maybe later\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you'll switch the background image to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something hilarious as a prank.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, it may come in handy later.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your spare CAPTCHALOGUE CARD is forced out of the SYLLADEX, and consequently integrated with the deck. You now have five cards to work with.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your spare CAPTCHALOGUE CARD is forced\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out of the SYLLADEX, and consequently\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"integrated with the deck. You now have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"five cards to work with.\
+",
 	},
 	next = {
 		99,

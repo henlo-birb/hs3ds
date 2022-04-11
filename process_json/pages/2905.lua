@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What the heck is this?",
+		"What the heck is this?\
+",
 	},
 	next = {
 		2906,

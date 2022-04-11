@@ -14,21 +14,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHERE ARE YOUR FUCKING PANTS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHERE ARE YOUR FUCKING PANTS?",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: ZZZZZZZ",
+		"TEREZI: ZZZZZZZ\
+",
 	},
 	next = {
 		5935,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You have a staunch policy of always saving the biggest present for last.",
+		"You have a staunch policy of always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"saving the biggest present for last.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ALWAYS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALWAYS.\
+",
 	},
 	next = {
 		972,

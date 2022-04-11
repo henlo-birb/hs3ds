@@ -12,42 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: what properties?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: what properties?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: OK, FOR STARTERS, NOTICE HOW THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FURIOUS WALL OF FIRE CURRENTLY RUSHING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TOWARD YOU IS TURNING GREEN?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: OK, FOR STARTERS, NOTICE HOW THE FURIOUS WALL OF FIRE CURRENTLY RUSHING TOWARD YOU IS TURNING GREEN?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: uh oh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: uh oh...",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: YEAH\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: YEAH",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: THOSE FUCKING PROPERTIES.",
+		"CG: THOSE FUCKING PROPERTIES.\
+",
 	},
 	next = {
 		2936,

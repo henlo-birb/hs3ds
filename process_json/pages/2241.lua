@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"It's a shame it had to come to this. You don't like summoning the spirits of the dead to settle scores. ",
+		"It's a shame it had to come to this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't like summoning the spirits\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the dead to settle scores.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But if she had to face her victims again, maybe she'd finally learn to feel remorse.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But if she had to face her victims\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again, maybe she'd finally learn to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feel remorse.\
+",
 	},
 	next = {
 		2242,

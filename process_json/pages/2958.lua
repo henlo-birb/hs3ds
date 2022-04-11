@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"John is asking about her. But to no avail. She is currently preoccupied.",
+		"John is asking about her. But to no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"avail. She is currently preoccupied.\
+",
 	},
 	next = {
 		2959,

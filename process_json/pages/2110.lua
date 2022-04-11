@@ -13,7 +13,29 @@ return {
 			0,
 			0,
 		},
-		"You use your awesome bestial communion abilities and bend the ferocious stallion to your whim. Tinkerbull can't stand the suspense!",
+		"You use your awesome bestial communion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abilities and bend the ferocious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stallion to your whim. Tinkerbull\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't stand the suspense!\
+",
 	},
 	next = {
 		2111,

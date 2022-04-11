@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: typheus opened valves to the core",
+		"JADE: typheus opened valves to the\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"core\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: and flooded it with oil!",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: and flooded it with oil!\
+",
 	},
 	next = {
 		7088,

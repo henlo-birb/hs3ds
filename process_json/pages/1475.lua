@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"WOMEN.",
+		"WOMEN.\
+",
 	},
 	next = {
 		1476,

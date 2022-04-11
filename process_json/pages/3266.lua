@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Once the regent's task is complete, the queen must use the key to set the destination for her royal entourage. ",
+		"Once the regent's task is complete,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the queen must use the key to set the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"destination for her royal entourage.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And once all the pieces are in place...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And once all the pieces are in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"place...\
+",
 	},
 	next = {
 		3267,

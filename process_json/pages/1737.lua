@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You decide to try out the code Davesprite gave you.",
+		"You decide to try out the code\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Davesprite gave you.\
+",
 	},
 	next = {
 		1738,

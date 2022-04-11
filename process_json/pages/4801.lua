@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"We settle this NOW.",
+		"We settle this NOW.\
+",
 	},
 	next = {
 		4802,

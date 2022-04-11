@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"At the bottom of the letter is a series of coordinates along with further instructions.",
+		"At the bottom of the letter is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"series of coordinates along with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"further instructions.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You know what you must do.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You know what you must do.\
+",
 	},
 	next = {
 		1127,

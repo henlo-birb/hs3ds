@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You lost your MAGIC CUE BALL in the explosion, so you will have to draw it and hope your modus knows what you're getting at.",
+		"You lost your MAGIC CUE BALL in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"explosion, so you will have to draw it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and hope your modus knows what you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting at.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have been dying to see its predictions, and you think you are on to something here!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have been dying to see its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"predictions, and you think you are on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to something here!\
+",
 	},
 	next = {
 		3155,

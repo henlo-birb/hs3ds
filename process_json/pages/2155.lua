@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Since that moody kid is busy flipping his bifurcated lid, we might as well take a moment to get to know this silly cat girl. ",
+		"Since that moody kid is busy flipping\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his bifurcated lid, we might as well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"take a moment to get to know this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"silly cat girl.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Gosh who is she??",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gosh who is she??\
+",
 	},
 	next = {
 		2156,

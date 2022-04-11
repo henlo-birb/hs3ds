@@ -12,19 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The first thing you whack is ",
+		"The first thing you whack is\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Eggs",
+		"Eggs\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s EGG TIMER.",
+		"'s EGG TIMER.\
+",
 	},
 	next = {
 		1313,

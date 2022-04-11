@@ -13,7 +13,36 @@ return {
 			0,
 			0,
 		},
-		"You try the broken switch again. Hey look, it does something now, toggling your trusty bowlbuster between a STIRRING SOLUTION and a POKING SOLUTION. Neat!",
+		"You try the broken switch again. Hey\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"look, it does something now, toggling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your trusty bowlbuster between a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STIRRING SOLUTION and a POKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOLUTION. Neat!\
+",
 	},
 	next = {
 		4142,

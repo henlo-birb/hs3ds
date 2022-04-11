@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"There's a platform over here. You guess you'll go stand on it oh wow it just made you disappear.",
+		"There's a platform over here. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess you'll go stand on it oh wow it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just made you disappear.\
+",
 	},
 	next = {
 		1767,

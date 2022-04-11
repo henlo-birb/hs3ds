@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You don't need a fancy robotic eye to tell you what that is.",
+		"You don't need a fancy robotic eye to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tell you what that is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You know EXACTLY what that is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You know EXACTLY what that is.\
+",
 	},
 	next = {
 		6149,

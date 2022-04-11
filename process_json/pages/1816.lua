@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"WELCOME TO THE PARTY MOTHERFUCKERS",
+		"WELCOME TO THE PARTY MOTHERFUCKERS\
+",
 	},
 	next = {
 		1817,

@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"How can these things be so fast on land???",
+		"How can these things be so fast on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"land???\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It moves like some sort of giant frisky seal, that is very hungry and angry. You know from experience that bullets only make them hungrier and angrier, so there is nothing to do but run.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It moves like some sort of giant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frisky seal, that is very hungry and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"angry. You know from experience that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bullets only make them hungrier and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"angrier, so there is nothing to do but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"run.\
+",
 	},
 	next = {
 		4272,

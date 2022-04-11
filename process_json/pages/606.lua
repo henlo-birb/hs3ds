@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"It's a pretty sweet fort you just made and you're pretty sure your brother would agree. Under different circumstances, you might be high-fiving over it right now.",
+		"It's a pretty sweet fort you just made\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you're pretty sure your brother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would agree. Under different\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"circumstances, you might be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"high-fiving over it right now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But rather than get inside and take her for a spin, you really just need to use it to get up to that hatch.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But rather than get inside and take\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her for a spin, you really just need\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to use it to get up to that hatch.\
+",
 	},
 	next = {
 		607,

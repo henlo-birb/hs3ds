@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"This was such an unbelievably terrible idea.",
+		"This was such an unbelievably terrible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idea.\
+",
 	},
 	next = {
 		1309,

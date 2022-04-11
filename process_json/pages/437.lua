@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"That's not a command. It's nothing. ",
+		"That's not a command. It's nothing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It's stupid.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're stupid.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's stupid.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're stupid.\
+",
 	},
 	next = {
 		438,

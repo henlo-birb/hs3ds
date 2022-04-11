@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"But you guess it's straightforward enough, even if the drawing is somewhat inaccurate...",
+		"But you guess it's straightforward\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough, even if the drawing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhat inaccurate...\
+",
 	},
 	next = {
 		1118,

@@ -14,23 +14,57 @@ return {
 			0,
 			0,
 		},
-		"God dammit.",
+		"God dammit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We're just gonna zoom in forever on that santa nose aren't we.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok we're done here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We're just gonna zoom in forever on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that santa nose aren't we.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok we're done here.\
+",
 	},
 	next = {
 		5778,

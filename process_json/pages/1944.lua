@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"An ACCURSED MASCOT is located among fallen brethren. Its visage, reviled.",
+		"An ACCURSED MASCOT is located among\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fallen brethren. Its visage, reviled.\
+",
 	},
 	next = {
 		1945,

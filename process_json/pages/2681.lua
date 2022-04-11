@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It looks like someone's server player has been busy.",
+		"It looks like someone's server player\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has been busy.\
+",
 	},
 	next = {
 		2682,

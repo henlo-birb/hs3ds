@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You take the TOWEL, and grab the BOX again while you're at it.",
+		"You take the TOWEL, and grab the BOX\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again while you're at it.\
+",
 	},
 	next = {
 		349,

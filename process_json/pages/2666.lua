@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"IIIIIIIIIIIIIIIIIIIIIMPS!",
+		"IIIIIIIIIIIIIIIIIIIIIMPS!\
+",
 	},
 	next = {
 		2667,

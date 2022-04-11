@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Another one of your chums is messaging you.",
+		"Another one of your chums is messaging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 	},
 	next = {
 		63,

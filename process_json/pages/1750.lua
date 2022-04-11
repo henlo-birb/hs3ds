@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Rose obviously isn't waking up any time soon. Might as well take some time to explore, and maybe stop by again later.",
+		"Rose obviously isn't waking up any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time soon. Might as well take some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time to explore, and maybe stop by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again later.\
+",
 	},
 	next = {
 		1751,

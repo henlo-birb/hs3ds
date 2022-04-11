@@ -12,14 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: and in the veil their codes were merged with the ghost imprints of other mysterious artifacts",
+		"AA: and in the veil their codes were\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"merged with the ghost imprints of\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"other mysterious artifacts\
+",
 	},
 	next = {
 		3613,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"THIS OBVIOUSLY WILL NOT DO.",
+		"THIS OBVIOUSLY WILL NOT DO.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SOME ADDITIONAL BACKUP MALES ARE DEPLOYED. DUE TO, LET'S SAY. TIME TRAVEL.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOME ADDITIONAL BACKUP MALES ARE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DEPLOYED. DUE TO, LET'S SAY. TIME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TRAVEL.\
+",
 	},
 	next = {
 		6527,

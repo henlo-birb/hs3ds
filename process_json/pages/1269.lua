@@ -12,39 +12,64 @@ return {
 			0,
 			0,
 		},
-		"It's not a knife. It's ",
+		"It's not a knife. It's\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Sn",
+		"Sn\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"o",
+		"o\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"wman",
+		"wman\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s CIGARETTE HOLDER.",
+		"'s CIGARETTE HOLDER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-All you know is she's gonna have a hell of a time getting it back.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All you know is she's gonna have a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hell of a time getting it back.\
+",
 	},
 	next = {
 		1270,

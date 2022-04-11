@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Your sylladex now behaves like both a STACK and a QUEUE. Items can be removed from either the top card or the bottom card.",
+		"Your sylladex now behaves like both a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STACK and a QUEUE. Items can be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"removed from either the top card or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the bottom card.\
+",
 	},
 	next = {
 		970,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You interrupt whatever nonsense these silly people are planning with an extremely urgent message!!!",
+		"You interrupt whatever nonsense these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"silly people are planning with an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extremely urgent message!!!\
+",
 	},
 	next = {
 		3269,

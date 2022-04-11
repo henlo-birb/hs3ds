@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"HORSARONI, I CHOOSE YOU!!!!!!",
+		"HORSARONI, I CHOOSE YOU!!!!!!\
+",
 	},
 	next = {
 		2109,

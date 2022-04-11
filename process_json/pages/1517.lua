@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"You put the card in the slot and stick the shunt on the jumper pins.",
+		"You put the card in the slot and stick\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the shunt on the jumper pins.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Nothing happens. You might need to stick a punched card in there, probably allowing the holes in the card to affect the flow of current through the circuits. And to punch cards you'll need to get a designix somehow.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nothing happens. You might need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stick a punched card in there,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably allowing the holes in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"card to affect the flow of current\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the circuits. And to punch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cards you'll need to get a designix\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somehow.\
+",
 	},
 	next = {
 		1518,

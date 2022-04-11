@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-GC: LUCK DO3SNT 4CTU4LLY M4TT3R >8]",
+		"GC: LUCK DO3SNT 4CTU4LLY M4TT3R >8]\
+",
 	},
 	next = {
 		3099,

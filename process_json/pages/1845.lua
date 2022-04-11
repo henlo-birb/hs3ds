@@ -13,23 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You make the SBAHJIFIER. ",
+		"You make the SBAHJIFIER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Finally, something useful.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It cost you -1000 units of ARTIFACT GRIST.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Finally, something useful.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It cost you -1000 units of ARTIFACT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRIST.\
+",
 	},
 	next = {
 		1846,

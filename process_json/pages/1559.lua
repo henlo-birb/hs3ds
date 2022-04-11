@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The ALCHEMITER is fitted with the BLENDER UPGRADE.",
+		"The ALCHEMITER is fitted with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BLENDER UPGRADE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This upgrade doesn't seem all that useful. Looks like all it does is grind up your totems.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This upgrade doesn't seem all that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"useful. Looks like all it does is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grind up your totems.\
+",
 	},
 	next = {
 		1560,

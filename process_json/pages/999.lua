@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Enough for the above weather to be seasonably reconcilable...",
+		"Enough for the above weather to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seasonably reconcilable...\
+",
 	},
 	next = {
 		1000,

@@ -12,31 +12,78 @@ return {
 			0,
 			0,
 		},
-		"This moon is different. It's very... ",
+		"This moon is different. It's very...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Purple.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And quiet. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Purple.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Doesn't look like anyone here is awake yet.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And quiet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Doesn't look like anyone here is awake\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yet.\
+",
 	},
 	next = {
 		2504,

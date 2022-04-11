@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"What?",
+		"What?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh hell no. This is always such a terrible idea. Leave me alone.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh hell no. This is always such a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"terrible idea. Leave me alone.\
+",
 	},
 	next = {
 		1672,

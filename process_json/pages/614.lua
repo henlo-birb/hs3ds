@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You are now the other guy.",
+		"You are now the other guy.\
+",
 	},
 	next = {
 		615,

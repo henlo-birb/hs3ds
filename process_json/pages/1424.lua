@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You wonder what the hell a secret wizard is. You don't think you'll ask him for your bedsheet back.",
+		"You wonder what the hell a secret\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wizard is. You don't think you'll ask\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him for your bedsheet back.\
+",
 	},
 	next = {
 		1425,

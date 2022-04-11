@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There's nothing to fix. Just got to open the viewport. It's easy.",
+		"There's nothing to fix. Just got to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"open the viewport. It's easy.\
+",
 	},
 	next = {
 		1745,

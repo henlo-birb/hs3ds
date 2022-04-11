@@ -13,23 +13,57 @@ return {
 			0,
 			0,
 		},
-		"That...",
+		"That...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok that was completely meaningless. What was the point?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoever you are.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok that was completely meaningless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What was the point?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoever you are.\
+",
 	},
 	next = {
 		2085,

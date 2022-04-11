@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You find a PRESENT.",
+		"You find a PRESENT.\
+",
 	},
 	next = {
 		1134,

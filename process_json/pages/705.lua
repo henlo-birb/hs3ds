@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Oh yeah, it's that guy. You had almost forgotten about him and his confusing shenanigans.",
+		"Oh yeah, it's that guy. You had almost\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forgotten about him and his confusing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shenanigans.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It seems like he has things well in hand at the moment. He does not appear to need your help, and you have already concluded that he cannot help you, at least for the time being.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It seems like he has things well in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hand at the moment. He does not appear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to need your help, and you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already concluded that he cannot help\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you, at least for the time being.\
+",
 	},
 	next = {
 		706,

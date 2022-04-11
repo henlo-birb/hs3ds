@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Ok, awesome. Queuestack full'a shoes.",
+		"Ok, awesome. Queuestack full'a shoes.\
+",
 	},
 	next = {
 		975,

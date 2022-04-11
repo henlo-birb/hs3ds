@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"John! ",
+		"John!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He was falling in your dream. You tried to save him. You hope he is ok.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He was falling in your dream. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tried to save him. You hope he is ok.\
+",
 	},
 	next = {
 		2856,

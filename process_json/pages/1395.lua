@@ -14,15 +14,36 @@ return {
 			0,
 			0,
 		},
-		"It's going to be a hike.",
+		"It's going to be a hike.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's something up ahead through the forest.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's something up ahead through the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forest.\
+",
 	},
 	next = {
 		1396,

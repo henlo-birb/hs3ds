@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"MS. PAINT!!!",
+		"MS. PAINT!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Is that soup ready yet? He's being a dick.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Is that soup ready yet? He's being a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dick.\
+",
 	},
 	next = {
 		4672,

@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"This is not specifically your memory.",
+		"This is not specifically your memory.\
+",
 	},
 	next = {
 		3576,

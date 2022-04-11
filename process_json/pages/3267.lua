@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The vessels must be destroyed.",
+		"The vessels must be destroyed.\
+",
 	},
 	next = {
 		3268,

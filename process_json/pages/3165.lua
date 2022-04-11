@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"Or you would, if you were able to afford the thing.",
+		"Or you would, if you were able to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"afford the thing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Dave turbo-torrented you a lot of grist, but you don't have THAT much.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Dave turbo-torrented you a lot of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grist, but you don't have THAT much.\
+",
 	},
 	next = {
 		3166,

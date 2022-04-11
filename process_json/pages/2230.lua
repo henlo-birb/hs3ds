@@ -13,19 +13,22 @@ return {
 			0,
 			0,
 		},
-		"The ",
+		"The\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"CATENATIVE DOOMSDAY DICE CASCADER",
+		"CATENATIVE DOOMSDAY DICE CASCADER\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" is unfortuitously activated.",
+		"is unfortuitously activated.\
+",
 	},
 	next = {
 		2231,

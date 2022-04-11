@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You make another ordinary FEDORA with FOUR PIECES OF CANDY CORN inside.",
+		"You make another ordinary FEDORA with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOUR PIECES OF CANDY CORN inside.\
+",
 	},
 	next = {
 		1067,

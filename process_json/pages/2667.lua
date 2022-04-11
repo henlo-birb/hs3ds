@@ -12,29 +12,57 @@ return {
 			0,
 			0,
 		},
-		"That is IT. ",
+		"That is IT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-EVERYBODY OUT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"DEAD SERIOUS.",
+		"EVERYBODY OUT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DEAD SERIOUS.\
+",
 	},
 	next = {
 		2668,

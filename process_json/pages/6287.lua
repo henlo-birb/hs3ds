@@ -13,15 +13,71 @@ return {
 			0,
 			0,
 		},
-		"It appears the current path is too corrupted to continue. You can't even open the dialoglog. It is simply too shitty.",
+		"It appears the current path is too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"corrupted to continue. You can't even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"open the dialoglog. It is simply too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shitty.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Perhaps this part of the story will clear up a little later, and you will be able to resume this arc. Until then, no dice.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Perhaps this part of the story will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clear up a little later, and you will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be able to resume this arc. Until\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"then, no dice.\
+",
 	},
 	next = {
 		6284,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Come on. You can't both yell and try to be polite at the same time. It's one or the other.",
+		"Come on. You can't both yell and try\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to be polite at the same time. It's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one or the other.\
+",
 	},
 	next = {
 		2978,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You switch back to STACK MODUS and get a closer look with your TELESCOPE.",
+		"You switch back to STACK MODUS and get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a closer look with your TELESCOPE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whatever it is, the KERNELSPRITE seems particularly agitated about it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whatever it is, the KERNELSPRITE seems\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"particularly agitated about it.\
+",
 	},
 	next = {
 		195,

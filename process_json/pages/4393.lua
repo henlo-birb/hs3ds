@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"The miracle of a new beginning.",
+		"The miracle of a new beginning.\
+",
 	},
 	next = {
 		4394,

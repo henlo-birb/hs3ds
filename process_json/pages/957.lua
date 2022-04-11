@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"You order one of your burliest agents to the scene. He brings something heavier this time.",
+		"You order one of your burliest agents\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the scene. He brings something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heavier this time.\
+",
 	},
 	next = {
 		958,

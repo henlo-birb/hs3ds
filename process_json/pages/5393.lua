@@ -12,147 +12,505 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: John, tell me what you see\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: John, tell me what you see here.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: um...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: um...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: where?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: where?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Right here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Right here.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: What is this? This thing I'm\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"holding?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: What is this? This thing I'm holding?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: a black piece of paper?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: a black piece of paper?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: No, John.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: No, John.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: This is 8ULLSHIT is what it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This is 8ULLSHIT is what it is.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: oh.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: yes, clearly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yes, clearly.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: This is what a map looks like in the furthest ring.",
+		"VRISKA: This is what a map looks like\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"in the furthest ring.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This is what ALL maps look like out here.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Turns out plotting the relative geographical features of an infinite 8lack expanse of pure void is every 8it as moronic as it sounds. 8ut that didn't stop some ancient eldritch chucklefuck from doing exactly that.",
+		"VRISKA: This is what ALL maps look\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"like out here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: For the longest time, this is all we've had to go on when it came to deciphering the clues and figuring out the coordin8tes of the legendary treasure.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Do you have any idea how hard it is to pin down the physical location of something out here? Never mind the fact that physical location in the furthest ring is already a mallea8le concept. Just imagine what it's like giving someone directions! What do you tell them?",
+		"VRISKA: Turns out plotting the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Proceed in a str8 line shaped like a perpetually shifting torus knot until you feel a sense of despair transcending all mortal comprehension, then hang a right at the next octopus?",
+		"relative geographical features of an\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: There's nothing static out there. No landmarks, no points of reference. Nothing!",
+		"infinite 8lack expanse of pure void is\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"every 8it as moronic as it sounds. 8ut\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that didn't stop some ancient eldritch\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"chucklefuck from doing exactly that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: If you want to make any headway in this gr8 8ig field of fuckall, SOMEONE has got to start wrecking some shit.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: For the longest time, this is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"all we've had to go on when it came to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"deciphering the clues and figuring out\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the coordin8tes of the legendary\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"treasure.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Do you have any idea how hard\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it is to pin down the physical\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"location of something out here? Never\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mind the fact that physical location\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"in the furthest ring is already a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mallea8le concept. Just imagine what\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it's like giving someone directions!\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"What do you tell them?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Proceed in a str8 line shaped\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"like a perpetually shifting torus knot\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"until you feel a sense of despair\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"transcending all mortal comprehension,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"then hang a right at the next octopus?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: There's nothing static out\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there. No landmarks, no points of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"reference. Nothing!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: If you want to make any\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"headway in this gr8 8ig field of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"fuckall, SOMEONE has got to start\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wrecking some shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: would that someone be you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: would that someone be you?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Haha. I wish I had that kind of firepower. 8ut no.",
+		"VRISKA: Haha. I wish I had that kind\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of firepower. 8ut no.\
+",
 	},
 	next = {
 		5394,

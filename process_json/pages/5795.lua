@@ -14,119 +14,323 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Pardon?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Pardon?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: im just sayin if youre hung over for the 1st time pls do the experience some justice",
+		"TG: im just sayin if youre hung over\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"for the 1st time pls do the experience\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"some justice\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ur giving suffering a bad name",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: ur giving suffering a bad name\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I will say the multicolored lights from my computer strobing directly into my eyeballs arent helping the matter one freaking bit.",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: SMH",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: (not literally cuz ow)",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: jake here is some sage advice from a veteran of substance abuse and its deleterious consequences",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: dont use your fuckin skulltop when you got a hangover u dork",
+		"GT: I will say the multicolored lights\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Well i wouldnt but i just gave jane my only other device.",
+		"from my computer strobing directly\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"into my eyeballs arent helping the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"matter one freaking bit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I dont know how many times ive told her to keep more than one computer on her no matter what in case of situations just like this.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: SMH\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: oh",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (not literally cuz ow)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: whys she want a computer",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jake here is some sage advice from\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"a veteran of substance abuse and its\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"deleterious consequences\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: is that who dirks talking to now",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: dont use your fuckin skulltop when\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"you got a hangover u dork\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know. Maybe.",
+		"GT: Well i wouldnt but i just gave\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"jane my only other device.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Shes not exactly talking to me at the moment.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: I dont know how many times ive\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"told her to keep more than one\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"computer on her no matter what in case\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"of situations just like this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Not that i can blame her.",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: oh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: whys she want a computer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: is that who dirks talking to now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont know. Maybe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Shes not exactly talking to me at\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Not that i can blame her.\
+",
 	},
 	next = {
 		5796,

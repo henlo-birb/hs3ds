@@ -14,15 +14,50 @@ return {
 			0,
 			0,
 		},
-		"TO DO HIS FLAMBOYANT PINK SPELL. ",
+		"TO DO HIS FLAMBOYANT PINK SPELL.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IT OWNS ME COMPLETELY. BUT SADLY TO DIRK MAYBE, IT ALSO OWNS THE MUSCLE HERO. BOTH OF OUR SOULS ARE CONSUMED BY THE ENCHANTMENT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT OWNS ME COMPLETELY. BUT SADLY TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DIRK MAYBE, IT ALSO OWNS THE MUSCLE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HERO. BOTH OF OUR SOULS ARE CONSUMED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BY THE ENCHANTMENT.\
+",
 	},
 	next = {
 		7443,

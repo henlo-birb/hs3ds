@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"SHE DROPS. LET'S SAY. ADDITIONAL PORNOS. YOU PUT THEM IN YOUR STASH.",
+		"SHE DROPS. LET'S SAY. ADDITIONAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PORNOS. YOU PUT THEM IN YOUR STASH.\
+",
 	},
 	next = {
 		6520,

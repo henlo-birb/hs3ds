@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You were right.",
+		"You were right.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That conversation made you so, so sad.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SO sad.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That conversation made you so, so sad.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SO sad.\
+",
 	},
 	next = {
 		5696,

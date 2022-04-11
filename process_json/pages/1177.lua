@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You are now Clubs Deuce.",
+		"You are now Clubs Deuce.\
+",
 	},
 	next = {
 		1178,

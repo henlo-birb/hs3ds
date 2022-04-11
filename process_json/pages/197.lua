@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You're no astronomer, but its trajectory looks suspiciously head-on with your current perspective.",
+		"You're no astronomer, but its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trajectory looks suspiciously head-on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with your current perspective.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is a troubling development.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is a troubling development.\
+",
 	},
 	next = {
 		198,

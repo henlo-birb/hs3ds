@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You switch to a vague teaser of the final unseen troll in the nick of time.",
+		"You switch to a vague teaser of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"final unseen troll in the nick of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time.\
+",
 	},
 	next = {
 		2181,

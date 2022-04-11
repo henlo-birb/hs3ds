@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The floor rotates a full 360 degrees beneath you, while the surrounding wall seems to stay put.",
+		"The floor rotates a full 360 degrees\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beneath you, while the surrounding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wall seems to stay put.\
+",
 	},
 	next = {
 		730,

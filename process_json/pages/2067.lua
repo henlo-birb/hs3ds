@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Rubbish from the LAND DWELLERS. Makes you sick.",
+		"Rubbish from the LAND DWELLERS. Makes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you sick.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoever you are.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoever you are.\
+",
 	},
 	next = {
 		2068,

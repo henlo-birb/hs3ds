@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It is time to face your destiny. No going back now.",
+		"It is time to face your destiny. No\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"going back now.\
+",
 	},
 	next = {
 		608,

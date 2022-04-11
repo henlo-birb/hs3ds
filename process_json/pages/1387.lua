@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"OH NO BUSTED.",
+		"OH NO BUSTED.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The jig is up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The jig is up.\
+",
 	},
 	next = {
 		1388,

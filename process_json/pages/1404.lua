@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"This whole place is a disorganized mess. It kind of reminds you of your room but full of weird and ironic stuff instead of cute and great stuff. Your stuff is so much better.",
+		"This whole place is a disorganized\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mess. It kind of reminds you of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"room but full of weird and ironic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stuff instead of cute and great stuff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your stuff is so much better.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're pretty sure these are all Dave's BRO'S puppets. You better not mess with them. Frankly his brother makes you a little nervous.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're pretty sure these are all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Dave's BRO'S puppets. You better not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mess with them. Frankly his brother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"makes you a little nervous.\
+",
 	},
 	next = {
 		1405,

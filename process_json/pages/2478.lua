@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"A princess prepares to administer a universal remedy for the unawakened.",
+		"A princess prepares to administer a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"universal remedy for the unawakened.\
+",
 	},
 	next = {
 		2479,

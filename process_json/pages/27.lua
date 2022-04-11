@@ -13,23 +13,99 @@ return {
 			0,
 			0,
 		},
-		"You see the view of your yard from your window.",
+		"You see the view of your yard from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your window.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hanging from the tree is your TIRE SWING. In a kid's yard, a tree without a tire swing is like a proper gentleman without a monocle. That is to say, HE CAN HARDLY BE CONSIDERED A TERRIBLY PROPER GENTLEMAN AT ALL. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And there beside your driveway is the mailbox.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hanging from the tree is your TIRE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SWING. In a kid's yard, a tree without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a tire swing is like a proper\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gentleman without a monocle. That is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to say, HE CAN HARDLY BE CONSIDERED A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TERRIBLY PROPER GENTLEMAN AT ALL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And there beside your driveway is the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mailbox.\
+",
 	},
 	next = {
 		28,

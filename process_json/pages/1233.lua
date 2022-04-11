@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"7/21 CLOCKS REDESTROYED",
+		"7/21 CLOCKS REDESTROYED\
+",
 	},
 	next = {
 		1234,

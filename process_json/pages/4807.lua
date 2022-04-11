@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Ok, that gun looks super deudly. Way deudlier than the one I just threw at you, and I am probably screwed. But there is one thing you probably WEREN'T counting on, and that thing is magic being REAL.",
+		"Ok, that gun looks super deudly. Way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deudlier than the one I just threw at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you, and I am probably screwed. But\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there is one thing you probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WEREN'T counting on, and that thing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"magic being REAL.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-God I hope magic is real...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"God I hope magic is real...\
+",
 	},
 	next = {
 		4808,

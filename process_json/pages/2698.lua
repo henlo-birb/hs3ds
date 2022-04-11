@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"OH DEAR GOD.",
+		"OH DEAR GOD.\
+",
 	},
 	next = {
 		2699,

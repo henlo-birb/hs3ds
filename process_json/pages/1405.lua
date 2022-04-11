@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"What the apartment needs is a woman's touch. You grab a TOWEL you found lying around and dampen it with water from the toilet. This is how ordinary people clean ordinary houses, right?",
+		"What the apartment needs is a woman's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"touch. You grab a TOWEL you found\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lying around and dampen it with water\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from the toilet. This is how ordinary\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"people clean ordinary houses, right?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oops, you dropped it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oops, you dropped it.\
+",
 	},
 	next = {
 		1406,

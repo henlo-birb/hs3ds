@@ -14,15 +14,29 @@ return {
 			0,
 			0,
 		},
-		"Death.",
+		"Death.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-8/15 GREEN TORSOS DEAD",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"8/15 GREEN TORSOS DEAD\
+",
 	},
 	next = {
 		1258,

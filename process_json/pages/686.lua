@@ -12,15 +12,120 @@ return {
 			0,
 			0,
 		},
-		"You immerse yourself in this beautiful dream as you whittle away the minutes, or perhaps hours.",
+		"You immerse yourself in this beautiful\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dream as you whittle away the minutes,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or perhaps hours.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You love the idea of being a mayor. You love everything about mayors, and the concept of an orderly, civil democracy. It all seems so mannerly and reasonable to you. Everyone is friendly and happy, and the city runs like clockwork. The foundation of the government is based on mutual respect between the leader and its people. It is also built on having a really great mayor that everyone loves who is totally amazing and heroic and brave.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You love the idea of being a mayor.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You love everything about mayors, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the concept of an orderly, civil\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"democracy. It all seems so mannerly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and reasonable to you. Everyone is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friendly and happy, and the city runs\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like clockwork. The foundation of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"government is based on mutual respect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"between the leader and its people. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is also built on having a really great\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mayor that everyone loves who is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"totally amazing and heroic and brave.\
+",
 	},
 	next = {
 		687,

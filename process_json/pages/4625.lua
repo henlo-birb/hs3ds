@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"God dammit, GCat.",
+		"God dammit, GCat.\
+",
 	},
 	next = {
 		4626,

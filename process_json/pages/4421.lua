@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"What the heck just happened?",
+		"What the heck just happened?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now you remember. The mailbox was boobytrapped. But you survived somehow, and got knocked out.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How did you get all the way over here?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now you remember. The mailbox was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"boobytrapped. But you survived\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somehow, and got knocked out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How did you get all the way over here?\
+",
 	},
 	next = {
 		4422,

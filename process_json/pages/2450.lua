@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You pay a visit to what the common land dwellers refer to as a THERMAL HULL, instead of the more aristocratic and especially esoteric and alien sounding term, a REFRIGERATOR.",
+		"You pay a visit to what the common\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"land dwellers refer to as a THERMAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HULL, instead of the more aristocratic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and especially esoteric and alien\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sounding term, a REFRIGERATOR.\
+",
 	},
 	next = {
 		2451,

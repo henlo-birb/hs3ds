@@ -12,21 +12,43 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I don't care if it IS some sort of grisly courtship ritual.",
+		"ROSE: I don't care if it IS some sort\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"of grisly courtship ritual.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: THIS HAS TO STOP!",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: THIS HAS TO STOP!\
+",
 	},
 	next = {
 		6831,

@@ -12,28 +12,64 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: wake up sleepy head\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: wake up sleepy head",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: wait why did i even say that",
+		"DAVESPRITE: wait why did i even say\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: stay asleep all you want like i give a fuck",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: stay asleep all you want\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like i give a fuck\
+",
 	},
 	next = {
 		5942,

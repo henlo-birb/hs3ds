@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"7/15 GREEN TORSOS DEAD",
+		"7/15 GREEN TORSOS DEAD\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-107/1000 CLOCKS DESTROYED",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"107/1000 CLOCKS DESTROYED\
+",
 	},
 	next = {
 		1247,

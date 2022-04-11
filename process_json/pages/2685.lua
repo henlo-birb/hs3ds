@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Salamancer.",
+		"Salamancer.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wand, please.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wand, please.\
+",
 	},
 	next = {
 		2686,

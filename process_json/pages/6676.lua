@@ -12,35 +12,64 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: what's happening?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: what's happening?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oh dear.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oh dear.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oh dear, this can't be good!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oh dear, this can't be good!",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: i'd better hide. :U",
+		"CALLIOPE: i'd better hide. :U\
+",
 	},
 	next = {
 		6677,

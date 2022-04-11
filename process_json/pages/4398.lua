@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Two down. Two to go.",
+		"Two down. Two to go.\
+",
 	},
 	next = {
 		4399,

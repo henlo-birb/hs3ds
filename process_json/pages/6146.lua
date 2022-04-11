@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Hang on a minute.",
+		"Hang on a minute.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's that?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's that?\
+",
 	},
 	next = {
 		6147,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"And then darkness.",
+		"And then darkness.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have one lead in your investigation. But she hasn't been very helpful so far.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have one lead in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"investigation. But she hasn't been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"very helpful so far.\
+",
 	},
 	next = {
 		3303,

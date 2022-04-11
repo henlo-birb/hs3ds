@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"He finds a note taped underneath the fridge. It seems to be addressed to you.",
+		"He finds a note taped underneath the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fridge. It seems to be addressed to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 	},
 	next = {
 		4262,

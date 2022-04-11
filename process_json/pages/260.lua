@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"John cannot do anything with the GRIST as of this moment! That is up to the Sburb player.",
+		"John cannot do anything with the GRIST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as of this moment! That is up to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sburb player.\
+",
 	},
 	next = {
 		261,

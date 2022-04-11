@@ -12,39 +12,85 @@ return {
 			0,
 			0,
 		},
-		"Oh, well played, Lemonsnout. ",
+		"Oh, well played, Lemonsnout.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"Well played.",
+		"Well played.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" The prosecution's key witness, murdered. ",
+		"The prosecution's key witness,\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"How convenient!",
+		"murdered.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" The courtblock has little choice but to acknowledge your cunning. You have earned just a teensy sliver of your respect back. For now.",
+		"How convenient!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The courtblock has little choice but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to acknowledge your cunning. You have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earned just a teensy sliver of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respect back. For now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But wait...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But wait...\
+",
 	},
 	next = {
 		2040,

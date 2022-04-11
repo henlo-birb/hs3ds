@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Ok, you take that too.",
+		"Ok, you take that too.\
+",
 	},
 	next = {
 		675,

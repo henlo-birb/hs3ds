@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"No one can ever know about this.",
+		"No one can ever know about this.\
+",
 	},
 	next = {
 		357,

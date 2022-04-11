@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"A mutant kitten does the honors, intentionally or otherwise. Bon voyage, friend.",
+		"A mutant kitten does the honors,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"intentionally or otherwise. Bon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"voyage, friend.\
+",
 	},
 	next = {
 		4617,

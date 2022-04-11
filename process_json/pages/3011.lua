@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Yes, you do.",
+		"Yes, you do.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You might want to step away from the computer.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You might want to step away from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computer.\
+",
 	},
 	next = {
 		3012,

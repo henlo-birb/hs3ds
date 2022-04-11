@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Only one of the books is useful to him. The envelopes are useless. And he couldn't make it through more than a paragraph of the other book. Some weird thing about wizards. He discards them.",
+		"Only one of the books is useful to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him. The envelopes are useless. And he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"couldn't make it through more than a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paragraph of the other book. Some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weird thing about wizards. He discards\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The spare notebook lands on the floor. The envelopes land in the SEED.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The spare notebook lands on the floor.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The envelopes land in the SEED.\
+",
 	},
 	next = {
 		1927,

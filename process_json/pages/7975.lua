@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"All you care about is PAYBACK. You've got a casino to avenge. Remember that? That didn't stop from being a thing.",
+		"All you care about is PAYBACK. You've\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got a casino to avenge. Remember that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That didn't stop from being a thing.\
+",
 	},
 	next = {
 		7976,

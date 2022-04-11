@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Her journey through the windswept must be walked alone. Her entourage, bid farewell.",
+		"Her journey through the windswept must\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be walked alone. Her entourage, bid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"farewell.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A queen becomes a questant.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A queen becomes a questant.\
+",
 	},
 	next = {
 		1975,

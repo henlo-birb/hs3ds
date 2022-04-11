@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It's the fucking JACKPOT.",
+		"It's the fucking JACKPOT.\
+",
 	},
 	next = {
 		6150,

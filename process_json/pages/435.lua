@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Well when you put it so politely, how can John decline??",
+		"Well when you put it so politely, how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can John decline??\
+",
 	},
 	next = {
 		436,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Oops, sylladex is full. Gotta swap it with something.",
+		"Oops, sylladex is full. Gotta swap it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with something.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Probably as good an excuse as any to break in a new FENESTRATED PLANE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Probably as good an excuse as any to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"break in a new FENESTRATED PLANE.\
+",
 	},
 	next = {
 		4504,

@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You go back to the CONTROL PANEL which probably obviously controls that gizmo and you push the big blue button which is obviously probably the most obvious thing to push.",
+		"You go back to the CONTROL PANEL which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably obviously controls that gizmo\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you push the big blue button which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is obviously probably the most obvious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing to push.\
+",
 	},
 	next = {
 		738,

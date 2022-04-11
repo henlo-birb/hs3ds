@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"But part of it was touching the floor, so your mother was kind enough to lift the lower portion of the document with a VELVET PILLOW.",
+		"But part of it was touching the floor,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so your mother was kind enough to lift\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the lower portion of the document with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a VELVET PILLOW.\
+",
 	},
 	next = {
 		370,

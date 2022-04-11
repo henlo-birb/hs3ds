@@ -15,7 +15,15 @@ return {
 			0,
 			0,
 		},
-		"Dave shows you some of his sweet gear. Wow he is so cool.",
+		"Dave shows you some of his sweet gear.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wow he is so cool.\
+",
 	},
 	next = {
 		1721,

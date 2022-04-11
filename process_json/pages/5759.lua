@@ -14,282 +14,1079 @@ return {
 			0,
 			0,
 		},
-		"|TRKSTRLOG|",
+		"|TRKSTRLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickdirktxt_1.gif\"/>",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickdirktxt_2.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickdirktxt_1.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickdirktxt_2.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: no bloody wway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-\
-\
-ERISOLSPRITE: no bloody wway.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: equiiu2 wwhy are you actiin liike 2uch a bulge2niiffiin twwolbox wwhat the hell happened twwo you?",
+		"ERISOLSPRITE: equiiu2 wwhy are you\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: and wwhy are you wweariin that guy2 lame gla22e2. take tho2e off evven you had more 2tyle than that.",
+		"actiin liike 2uch a bulge2niiffiin\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"twwolbox wwhat the hell happened twwo\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-\
-\
-ERISOLSPRITE: wwhat.",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: and wwhy are you\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"wweariin that guy2 lame gla22e2. take\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"tho2e off evven you had more 2tyle\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"than that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: wwhat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 3833 < 38o\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FEFETASPRITE: 3833 < 38o",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.8,
 			0.0,
 		},
+		"DIRK: What??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-DIRK: What??",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.8,
 			0.0,
 		},
+		"DIRK: What part.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-DIRK: What part.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.8,
 			0.0,
 		},
+		"DIRK: Can't help you bro!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-\
-DIRK: Can't help you bro!",
+",
 		{
 			1.0,
 			0.8,
 			0.0,
 		},
-		"\
-DIRK: This is what you asked for. You said you were scared to not exist.",
+		"DIRK: This is what you asked for. You\
+",
 		{
 			1.0,
 			0.8,
 			0.0,
 		},
+		"said you were scared to not exist.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Well, this is what it's like to keep on existing. Better figure out how to deal!",
+",
+		{
+			1.0,
+			0.8,
+			0.0,
+		},
+		"DIRK: Well, this is what it's like to\
+",
+		{
+			1.0,
+			0.8,
+			0.0,
+		},
+		"keep on existing. Better figure out\
+",
+		{
+			1.0,
+			0.8,
+			0.0,
+		},
+		"how to deal!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-\
-\
-\
-ERISOLSPRITE: equiiu2 wwhat the FUCK are you talkiing about.",
+		"ERISOLSPRITE: equiiu2 wwhat the FUCK\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"are you talkiing about.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-ERISOLSPRITE: ehehehe wwoww zahhak you miight actually be more a me22 than me, ii am fuckiin iimpre22ed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: but yeah talkiin iit out wwhen you got aiim2 a reconciiliiatiion help2, me and the feferii 2iide a thii2 abomiinatiion had a niice talk earliier, 2orta.",
+		"ERISOLSPRITE: ehehehe wwoww zahhak you\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"miight actually be more a me22 than\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"me, ii am fuckiin iimpre22ed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: 2ay wwhat you got twwo 2ay, ju2t dont me22 wwiith the feferii part2 twwo much ok man? 2he2 vvery dear to me, ii mean both part2 a me got iit?",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: but yeah talkiin iit out\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"wwhen you got aiim2 a\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"reconciiliiatiion help2, me and the\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"feferii 2iide a thii2 abomiinatiion\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"had a niice talk earliier, 2orta.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: 2ay wwhat you got twwo\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"2ay, ju2t dont me22 wwiith the feferii\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"part2 twwo much ok man? 2he2 vvery\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"dear to me, ii mean both part2 a me\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"got iit?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 38(( < 38\\\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-\
-\
-\
-FEFETASPRITE: 38(( < 38\\",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-\
-\
-\
-ERISOLSPRITE: hey can you maybe wwrap up thii2 p2ychotiic apology you wwretched freak. wwoww youre actually makiin me look liike the model a mental health.",
+		"ERISOLSPRITE: hey can you maybe wwrap\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: anywway youre confu2iin the feferii 2iide of her wwiith your wweiird emotiional baggage.",
+		"up thii2 p2ychotiic apology you\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: feferii try not twwo lii2ten twwo anythiin he 2ay2.",
+		"wwretched freak. wwoww youre actually\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: youvve had enough heartache twwo endure wwiithout lumpiing iin nepeta2 twwii2ted relatiion2hiip wwiith thii2 hor2ekii22iin mu2clefuck.",
+		"makiin me look liike the model a\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"mental health.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ERISOLSPRITE: man wwhat riight do you havve to order nepeta to do ANYTHIN, let alone lii2ten to your confliicted wwhiiniing?",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-ERISOLSPRITE: heheh, fef can you BELIIEVVE thii2 guy??",
+		"ERISOLSPRITE: anywway youre confu2iin\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-\
-ERISOLSPRITE: fuck your ab2olutiion ii take back my advviice.",
+		"the feferii 2iide of her wwiith your\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"wweiird emotiional baggage.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ERISOLSPRITE: 2top talkiin twwo nepeta and LEAVVE FEFERII ALONE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: ye2.",
+		"ERISOLSPRITE: feferii try not twwo\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"lii2ten twwo anythiin he 2ay2.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ERISOLSPRITE: ye2.",
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: augh im not doin your dumba22 ye2/no 2hit!!",
+		"ERISOLSPRITE: youvve had enough\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: no you fliippiin DONT, thii2 conver2atiion ii2 over.",
+		"heartache twwo endure wwiithout\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: no you dont.",
+		"lumpiing iin nepeta2 twwii2ted\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
-		"\
-\
-ERISOLSPRITE: no.",
+		"relatiion2hiip wwiith thii2\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"hor2ekii22iin mu2clefuck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ERISOLSPRITE: NO.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3137254901960784,
 			0.9607843137254902,
 			0.12549019607843137,
 		},
+		"ERISOLSPRITE: man wwhat riight do you\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"havve to order nepeta to do ANYTHIN,\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"let alone lii2ten to your confliicted\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"wwhiiniing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ERISOLSPRITE: NO THII2 HA2 TWWO 2TOP!! CANT YOU 2EE WWERE TEARIIN FEFETA APART??",
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: heheh, fef can you\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"BELIIEVVE thii2 guy??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: fuck your ab2olutiion ii\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"take back my advviice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: 2top talkiin twwo nepeta\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"and LEAVVE FEFERII ALONE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: ye2.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: ye2.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: augh im not doin your\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"dumba22 ye2/no 2hit!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: no you fliippiin DONT,\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"thii2 conver2atiion ii2 over.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: no you dont.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: no.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: NO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"ERISOLSPRITE: NO THII2 HA2 TWWO 2TOP!!\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"CANT YOU 2EE WWERE TEARIIN FEFETA\
+",
+		{
+			0.3137254901960784,
+			0.9607843137254902,
+			0.12549019607843137,
+		},
+		"APART??\
+",
 	},
 	next = {
 		5760,

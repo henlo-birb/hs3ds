@@ -12,29 +12,78 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" says drop the livestock knob and settle the hell down.",
+		"says drop the livestock knob and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"settle the hell down.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He says you do realize C4 is a stable explosive and won't detonate with gunfire, right?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You say oh.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He says you do realize C4 is a stable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"explosive and won't detonate with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gunfire, right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You say oh.\
+",
 	},
 	next = {
 		1260,

@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"John is the boy you saw that day.",
+		"John is the boy you saw that day.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-John is the windy one.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John is the windy one.\
+",
 	},
 	next = {
 		2948,

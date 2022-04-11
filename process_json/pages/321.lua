@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the JUICE into card 7.",
+		"You captchalogue the JUICE into card\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"7.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-2+1+1+2+1 %10 = 7.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"2+1+1+2+1 %10 = 7.\
+",
 	},
 	next = {
 		322,

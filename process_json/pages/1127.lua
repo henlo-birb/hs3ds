@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Liberty. Reason. Justice. Civility. Edification. Perfection.",
+		"Liberty. Reason. Justice. Civility.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Edification. Perfection.\
+",
 	},
 	next = {
 		1128,

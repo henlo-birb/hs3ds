@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"A WINDSWEPT QUESTANT suddenly appears.",
+		"A WINDSWEPT QUESTANT suddenly appears.\
+",
 	},
 	next = {
 		1544,

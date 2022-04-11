@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"HE WILL NOT BE A PART OF THIS STORY.",
+		"HE WILL NOT BE A PART OF THIS STORY.\
+",
 	},
 	next = {
 		6490,

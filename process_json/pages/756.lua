@@ -12,23 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You attempt the rare and highly dangerous 5X CLIFFHANGER COMBO, and fail.",
+		"You attempt the rare and highly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous 5X CLIFFHANGER COMBO, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fail.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We are doing it, man.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We are making this happen.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We are doing it, man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We are making this happen.\
+",
 	},
 	next = {
 		757,

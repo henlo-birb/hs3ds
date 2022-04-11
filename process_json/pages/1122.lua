@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Oh it's this guy again and his little blinking bee. So outrageous.",
+		"Oh it's this guy again and his little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blinking bee. So outrageous.\
+",
 	},
 	next = {
 		1123,

@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"The matter he is discussing is quite urgent. Perhaps he'll humor you another time.",
+		"The matter he is discussing is quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"urgent. Perhaps he'll humor you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another time.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ah, so that's your plan, is it? ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Yelling will get you nowhere. Don't you remember?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ah, so that's your plan, is it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yelling will get you nowhere. Don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you remember?\
+",
 	},
 	next = {
 		2965,

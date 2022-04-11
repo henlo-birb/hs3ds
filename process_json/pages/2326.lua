@@ -13,23 +13,92 @@ return {
 			0,
 			0,
 		},
-		"You can choose between your trademark jade or black. Even though a troll's lips are naturally black.",
+		"You can choose between your trademark\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jade or black. Even though a troll's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lips are naturally black.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But they can always be blacker, and a lady with a true sense of style knows this.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In any case you think you'll mix things up and go with green for a while.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But they can always be blacker, and a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lady with a true sense of style knows\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In any case you think you'll mix\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things up and go with green for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while.\
+",
 	},
 	next = {
 		2327,

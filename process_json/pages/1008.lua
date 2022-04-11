@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"That's such a dumb idea. Not as dumb as using your sash, but it comes close. That temple is way too big. You'd probably just end up appearifying a chunk of useless boring rock.",
+		"That's such a dumb idea. Not as dumb\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as using your sash, but it comes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"close. That temple is way too big.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd probably just end up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearifying a chunk of useless boring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rock.\
+",
 	},
 	next = {
 		1009,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A boy's grief is interrupted. His ring, sought.",
+		"A boy's grief is interrupted. His\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ring, sought.\
+",
 	},
 	next = {
 		1961,

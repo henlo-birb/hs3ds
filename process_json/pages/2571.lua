@@ -12,56 +12,120 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: sniff sniff\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: sniff sniff",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: hey terezi!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: hey terezi!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: heeeeeeeyyyyyyy!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: heeeeeeeyyyyyyy!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: hiiiiii terezi!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: hiiiiii terezi!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-DRAGONSPRITE: hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!",
+		"DRAGONSPRITE:\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: sniff sniff sniff",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: sniff sniff sniff\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: heeheeheeheeheeheeheeheeheeheeheeheeheehee!",
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"DRAGONSPRITE:\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"heeheeheeheeheeheeheeheeheeheeheeheeheehee!\
+",
 	},
 	next = {
 		2572,

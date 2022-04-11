@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You again round up all the FIREWORKS. Time to regroup here.",
+		"You again round up all the FIREWORKS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Time to regroup here.\
+",
 	},
 	next = {
 		581,

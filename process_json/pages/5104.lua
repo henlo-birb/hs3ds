@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"It is a box of SPECIAL STARDUST. Cherubs love this stuff. They eat it like breakfast cereal every day. ",
+		"It is a box of SPECIAL STARDUST.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cherubs love this stuff. They eat it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like breakfast cereal every day.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It doesn't even have any magical properties though. It's really just some useless sparkly powder they like to eat. It's basically inedible to any other kind of creature. However, it is potentially quite useful for various arts and crafts.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It doesn't even have any magical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"properties though. It's really just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some useless sparkly powder they like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to eat. It's basically inedible to any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"other kind of creature. However, it is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"potentially quite useful for various\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"arts and crafts.\
+",
 	},
 	next = {
 		5105,

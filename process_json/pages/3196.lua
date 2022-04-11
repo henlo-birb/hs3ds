@@ -12,31 +12,134 @@ return {
 			0,
 			0,
 		},
-		"These things cost a fortune to make. They better do something awesome.",
+		"These things cost a fortune to make.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They better do something awesome.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND IT TURNS OUT THEY DO!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The sophisticated computing technology merged with the crystal ball provides a simple way to see anything going on right now in the incipisphere! How amazing is that?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND IT TURNS OUT THEY DO!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As the Witch of Space, you figure it's about time you got better acquainted with the full breadth of your domain, which is to say, all physical locations.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The sophisticated computing technology\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"merged with the crystal ball provides\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a simple way to see anything going on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right now in the incipisphere! How\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amazing is that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As the Witch of Space, you figure it's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about time you got better acquainted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the full breadth of your domain,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which is to say, all physical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"locations.\
+",
 	},
 	next = {
 		3197,

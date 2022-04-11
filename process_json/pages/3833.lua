@@ -13,7 +13,120 @@ return {
 			0,
 			0,
 		},
-		"A Seer would support her allies in battle not with her weapons, but her vision. She would sift through dross of her comrades' poor tactical inclinations and examine the grim consequences. A Seer would not charge into the fray headlong but direct it as a conductor with a baton. She would have the sight to eschew the obvious gambits, and find the path to victory disguised cleverly as setback, or even imminent defeat. She would behold the fortunes of friends and foes in totality, and appraise the contrivance of luck itself. She would know its mines were not to be plundered, but simply explored and charted carefully.",
+		"A Seer would support her allies in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"battle not with her weapons, but her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"vision. She would sift through dross\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of her comrades' poor tactical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inclinations and examine the grim\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"consequences. A Seer would not charge\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into the fray headlong but direct it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as a conductor with a baton. She would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have the sight to eschew the obvious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gambits, and find the path to victory\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disguised cleverly as setback, or even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"imminent defeat. She would behold the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fortunes of friends and foes in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"totality, and appraise the contrivance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of luck itself. She would know its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mines were not to be plundered, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"simply explored and charted carefully.\
+",
 	},
 	next = {
 		3834,

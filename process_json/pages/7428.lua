@@ -14,15 +14,155 @@ return {
 			0,
 			0,
 		},
-		"IT'S ALL TOO EASY, FOR AN ASCENDED LORD BOY LIKE ME. I HAVE A PLATTER FULL OF KNUCKLE SANDWICHES TO GO AROUND, PLUS OTHER HUMAN FOOD PRODUCTS YOU'RE FAMILIAR WITH, BUT ALSO INVOLVING KNUCKLES TO MAKE THE PUNCHING METAPHOR WORK. THERE IS *MORE* THAN ENOUGH TO SATISFY EVERY HUNGRY FIST-DESERVER.",
+		"IT'S ALL TOO EASY, FOR AN ASCENDED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LORD BOY LIKE ME. I HAVE A PLATTER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FULL OF KNUCKLE SANDWICHES TO GO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AROUND, PLUS OTHER HUMAN FOOD PRODUCTS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU'RE FAMILIAR WITH, BUT ALSO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INVOLVING KNUCKLES TO MAKE THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PUNCHING METAPHOR WORK. THERE IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"*MORE* THAN ENOUGH TO SATISFY EVERY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HUNGRY FIST-DESERVER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND I KNOW WHAT YOU'RE THINKING. THAT I HAVE. A *REPUTATION*. FOR HAVING A PROBLEM OF UNFAIR CRUELTY THAT GOES AT SILLY LADIES MORE THAN GREAT GENTLEMEN. TO WHICH I TAKE GREAT OFFENSE. BUT STILL, LET IT BE UNCONDITIONALLY ACCEPTED, THAT I AM A FAIR MAN, WHO LISTENS TO CRITICISM, AND WORKS EVER AND ALWAYS. TO IMPROVE MY MASTERFUL CRAFT. AND MY TREMENDOUS DECENCY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND I KNOW WHAT YOU'RE THINKING. THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I HAVE. A *REPUTATION*. FOR HAVING A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROBLEM OF UNFAIR CRUELTY THAT GOES AT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SILLY LADIES MORE THAN GREAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GENTLEMEN. TO WHICH I TAKE GREAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OFFENSE. BUT STILL, LET IT BE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNCONDITIONALLY ACCEPTED, THAT I AM A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FAIR MAN, WHO LISTENS TO CRITICISM,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND WORKS EVER AND ALWAYS. TO IMPROVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MY MASTERFUL CRAFT. AND MY TREMENDOUS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DECENCY.\
+",
 	},
 	next = {
 		7429,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"YESSSSSSSSSSS.",
+		"YESSSSSSSSSSS.\
+",
 	},
 	next = {
 		6478,

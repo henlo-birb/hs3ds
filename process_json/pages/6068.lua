@@ -12,126 +12,302 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: listfin\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: listfin",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: i have a problem\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: i have a problem",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: now we both know some day ima\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"be the one to swindle you out of that\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"life ring\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: now we both know some day ima be the one to swindle you out of that life ring",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: we do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: we do?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: yeah",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: shit is inevibubble and we all\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"know it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: shit is inevibubble and we all know it",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: i like priceless treasure\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: i like priceless treasure",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: you GOT priceless treasure\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: you GOT priceless treasure",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: my fuckin hero title deal all but guarantees ill steal it from you some day",
+		"MEENAH: my fuckin hero title deal all\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"but guarantees ill steal it from you\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"some day\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: and ill come back to life so i can rip shit up in the real world and get all the gold and make all yall my slaves and rule everything forev",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: and ill come back to life so i\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"can rip shit up in the real world and\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"get all the gold and make all yall my\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"slaves and rule everything forev\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i see.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i see.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: just one problem though\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: just one problem though",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what's that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what's that?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: i dunno if i wanna?",
+		"MEENAH: i dunno if i wanna?\
+",
 	},
 	next = {
 		6069,

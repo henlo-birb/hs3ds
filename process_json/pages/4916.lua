@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You don't care what anyone says. You say this pumpkin was MADE for this fucker's melon. Fits like a damn glove.",
+		"You don't care what anyone says. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"say this pumpkin was MADE for this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fucker's melon. Fits like a damn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"glove.\
+",
 	},
 	next = {
 		4917,

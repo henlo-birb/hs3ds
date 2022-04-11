@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You see what happens when you forget your manners?",
+		"You see what happens when you forget\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your manners?\
+",
 	},
 	next = {
 		2969,

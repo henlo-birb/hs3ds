@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You can't take it anymore. You're going to see what's inside.",
+		"You can't take it anymore. You're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"going to see what's inside.\
+",
 	},
 	next = {
 		1709,

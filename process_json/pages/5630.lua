@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Is someone there?",
+		"Is someone there?\
+",
 	},
 	next = {
 		5631,

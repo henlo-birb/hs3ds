@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"DON'T MOVE OR THE POGO GETS IT",
+		"DON'T MOVE OR THE POGO GETS IT\
+",
 	},
 	next = {
 		501,

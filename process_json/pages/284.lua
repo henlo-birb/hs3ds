@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You are about to head upstairs, but you thought you heard something behind you.",
+		"You are about to head upstairs, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you thought you heard something behind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It was faint, but you could swear it was a small, lighthearted chuckle. Along the lines of a spirited \"Hoo-hoo-hoo!\"",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It was faint, but you could swear it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was a small, lighthearted chuckle.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Along the lines of a spirited\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"Hoo-hoo-hoo!\"\
+",
 	},
 	next = {
 		285,

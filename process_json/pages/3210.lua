@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You're sure gonna miss him!",
+		"You're sure gonna miss him!\
+",
 	},
 	next = {
 		3211,

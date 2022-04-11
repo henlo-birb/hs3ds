@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"AURTHOOOOOOOOOOOUUUUUUUUUUR!",
+		"AURTHOOOOOOOOOOOUUUUUUUUUUR!\
+",
 	},
 	next = {
 		2236,

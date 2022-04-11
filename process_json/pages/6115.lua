@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You're not gonna take the wand because obviously magic is fake. Come on. What sort of buffoon would try to wield that thing under any circumstance?",
+		"You're not gonna take the wand because\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"obviously magic is fake. Come on. What\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of buffoon would try to wield\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that thing under any circumstance?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will however take the horns. They'll make a nice trophy. You always thought taking trophies from guys you killed was a cool idea. Or at least from guys you wish you killed, who you happen to find dead.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will however take the horns.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They'll make a nice trophy. You always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thought taking trophies from guys you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"killed was a cool idea. Or at least\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from guys you wish you killed, who you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happen to find dead.\
+",
 	},
 	next = {
 		6116,

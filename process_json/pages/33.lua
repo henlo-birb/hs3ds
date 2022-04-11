@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"What did you just say?? You don't want to clog up your...",
+		"What did you just say?? You don't want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to clog up your...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, Jesus. In a momentary lapse of concentration, you accidentally captchalogue the arms again.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, Jesus. In a momentary lapse of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concentration, you accidentally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captchalogue the arms again.\
+",
 	},
 	next = {
 		34,

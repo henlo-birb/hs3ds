@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Coin? What coin?",
+		"Coin? What coin?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Surely you jest, Mr. Senator. The prosecution sees no coin.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Surely you jest, Mr. Senator. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prosecution sees no coin.\
+",
 	},
 	next = {
 		2047,

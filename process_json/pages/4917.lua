@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Perfect. A textbook burial for a man of honor and distinction.",
+		"Perfect. A textbook burial for a man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of honor and distinction.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The sacrifices made by our public servants don't get anywhere near the respect they deserve, you think.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The sacrifices made by our public\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"servants don't get anywhere near the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respect they deserve, you think.\
+",
 	},
 	next = {
 		4918,

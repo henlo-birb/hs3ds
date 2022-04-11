@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"The crisis is easily averted. You can't imagine it will ever resurface later in any way, shape, or form. That beta is as good as yours, forever.",
+		"The crisis is easily averted. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't imagine it will ever resurface\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"later in any way, shape, or form. That\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beta is as good as yours, forever.\
+",
 	},
 	next = {
 		352,

@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"It's not easy feeding a sleeping boy some peanuts, he says. He says he had to work extra hard to put them in his mouth and then use his hands to make his mouth chew up the nuts.",
+		"It's not easy feeding a sleeping boy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some peanuts, he says. He says he had\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to work extra hard to put them in his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mouth and then use his hands to make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his mouth chew up the nuts.\
+",
 	},
 	next = {
 		4406,

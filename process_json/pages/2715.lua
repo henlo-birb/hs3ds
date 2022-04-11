@@ -12,27 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You decide to ",
+		"You decide to\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"SEEK COUNSEL",
+		"SEEK COUNSEL\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" from the Rose human's dark spectacled friend.",
+		"from the Rose human's dark spectacled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friend.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You believe you understand how to proceed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You believe you understand how to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"proceed.\
+",
 	},
 	next = {
 		2716,

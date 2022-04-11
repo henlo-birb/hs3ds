@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You totally abjure the hell out of that idea.",
+		"You totally abjure the hell out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that idea.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're so busy abjuring, you don't even notice Rose has been trying to pester you this whole time.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're so busy abjuring, you don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even notice Rose has been trying to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pester you this whole time.\
+",
 	},
 	next = {
 		431,

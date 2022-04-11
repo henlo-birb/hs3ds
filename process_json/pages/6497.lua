@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"THE ALPHA MALE'S REIGN OF ADVENTURE BEGINS HERE. ON THIS ROOF. OVERLOOKING AN ENCHANTED CLIFFSCAPE. HOST TO INNUMERABLE GORGEOUS STALLIONS.",
+		"THE ALPHA MALE'S REIGN OF ADVENTURE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BEGINS HERE. ON THIS ROOF. OVERLOOKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AN ENCHANTED CLIFFSCAPE. HOST TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INNUMERABLE GORGEOUS STALLIONS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HOW IRONIC. THAT HIS VERY DEPARTURE. WOULD BE IN THE PROXIMITY OF SOME HORSES. WHAT. YOU DIDN'T FOLLOW THAT? JUST THINK IT OVER.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THINK IT OVER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOW IRONIC. THAT HIS VERY DEPARTURE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WOULD BE IN THE PROXIMITY OF SOME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HORSES. WHAT. YOU DIDN'T FOLLOW THAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JUST THINK IT OVER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THINK IT OVER.\
+",
 	},
 	next = {
 		6498,

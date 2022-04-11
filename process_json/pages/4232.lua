@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"AH HA. GOT YOU YOU SON OF A, SHIT, WAIT.",
+		"AH HA. GOT YOU YOU SON OF A, SHIT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WAIT.\
+",
 	},
 	next = {
 		4233,

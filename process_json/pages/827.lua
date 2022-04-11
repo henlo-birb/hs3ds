@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You greet John but he does not respond. He is undoubtedly gallivanting around his house in a state of barely restrained birthday mirth. He may also be retrieving the two packages and the two envelopes which you are certain came in the mail for him earlier.",
+		"You greet John but he does not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"respond. He is undoubtedly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gallivanting around his house in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"state of barely restrained birthday\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mirth. He may also be retrieving the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"two packages and the two envelopes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which you are certain came in the mail\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for him earlier.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will wait a little while and see if he returns before you head out.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will wait a little while and see\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"if he returns before you head out.\
+",
 	},
 	next = {
 		828,

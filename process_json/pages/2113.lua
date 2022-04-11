@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"This is how you get up to your recuperacoon when it's time to rest. It's kind of a production getting in and out.",
+		"This is how you get up to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recuperacoon when it's time to rest.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's kind of a production getting in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and out.\
+",
 	},
 	next = {
 		2114,

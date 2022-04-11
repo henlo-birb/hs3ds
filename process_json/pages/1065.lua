@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You make the COSBYTOP COMPUTER.",
+		"You make the COSBYTOP COMPUTER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This thing is probably a useless piece of shit, but making it has caused you to feel an alarming sense of satisfaction.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This thing is probably a useless piece\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of shit, but making it has caused you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to feel an alarming sense of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"satisfaction.\
+",
 	},
 	next = {
 		1066,

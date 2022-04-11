@@ -12,31 +12,155 @@ return {
 			0,
 			0,
 		},
-		"THAT WAS NOT A PITIFUL WASTE OF HIS TIME. A SKELETON KEY BADGE. ",
+		"THAT WAS NOT A PITIFUL WASTE OF HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TIME. A SKELETON KEY BADGE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HAVING THIS BADGE MEANT THAT HE COULD AUTOMATICALLY UNLOCK. ANY LOCK HE WANTED TO! ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-INCLUDING ALL THE CONTRAPTIONS ON THIS PLANET. ALLOWING HIM TO OFFICIALLY AND PERMANENTLY ASSUME CONTROL OF. A PROPERTY OF HIS EXPERIENTIAL CONTINUUM WHICH I HAVE REASON TO BELIEVE IS CALLED. \"THE NARRATIVE\".",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAVING THIS BADGE MEANT THAT HE COULD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AUTOMATICALLY UNLOCK. ANY LOCK HE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WANTED TO!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND DUE TO HIS UNQUESTIONED SUPREMACY OVER A LOT OF THINGS. HE IS NOW ABLE TO COMMANDEER THIS ENIGMATIC MEDIUM. WHILE TOTALLY UNIMPEDED BY THE GHOSTLY VOICE OF A SARCASTIC DOUCHE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INCLUDING ALL THE CONTRAPTIONS ON THIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLANET. ALLOWING HIM TO OFFICIALLY AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PERMANENTLY ASSUME CONTROL OF. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROPERTY OF HIS EXPERIENTIAL CONTINUUM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHICH I HAVE REASON TO BELIEVE IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CALLED. \"THE NARRATIVE\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND DUE TO HIS UNQUESTIONED SUPREMACY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OVER A LOT OF THINGS. HE IS NOW ABLE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TO COMMANDEER THIS ENIGMATIC MEDIUM.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHILE TOTALLY UNIMPEDED BY THE GHOSTLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VOICE OF A SARCASTIC DOUCHE.\
+",
 	},
 	next = {
 		6249,

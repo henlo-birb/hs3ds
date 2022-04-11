@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Ok, that guy is pretty much squared away.",
+		"Ok, that guy is pretty much squared\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"away.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What about her?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What about her?\
+",
 	},
 	next = {
 		2422,

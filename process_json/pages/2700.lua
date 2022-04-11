@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"You hope nobody caught you looking at that.",
+		"You hope nobody caught you looking at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The horseshitometer swings back to her side, as she has inadvertently caused you to flush with the shame of one thousand cocoon-wetting children.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You win this round, Lalonde.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The horseshitometer swings back to her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"side, as she has inadvertently caused\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you to flush with the shame of one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thousand cocoon-wetting children.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You win this round, Lalonde.\
+",
 	},
 	next = {
 		2701,

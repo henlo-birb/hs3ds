@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You take the RULES CARD FOR BLACKJACK. ",
+		"You take the RULES CARD FOR BLACKJACK.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have possessed this item for as long as you can remember. You do not yet know its significance. Though you can hustle up a mean game of blackjack when you need to.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have possessed this item for as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long as you can remember. You do not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yet know its significance. Though you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can hustle up a mean game of blackjack\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when you need to.\
+",
 	},
 	next = {
 		1170,

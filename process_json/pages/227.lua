@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"This book is absolutely indispensable for enthusiasts of your ilk. Of which there are very few.",
+		"This book is absolutely indispensable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for enthusiasts of your ilk. Of which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there are very few.\
+",
 	},
 	next = {
 		228,

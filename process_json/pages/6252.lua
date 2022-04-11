@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"YOU FUCK AROUND HEARTILY. AGAIN, BY YOU I MEAN HIM. I KNOW, IT IS COUNTER INTUITIVE. BUT I WILL KEEP SAYING HE'S YOU, BECAUSE OF MY \"ARTISTIC LICENSE\".",
+		"YOU FUCK AROUND HEARTILY. AGAIN, BY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU I MEAN HIM. I KNOW, IT IS COUNTER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INTUITIVE. BUT I WILL KEEP SAYING HE'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU, BECAUSE OF MY \"ARTISTIC LICENSE\".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE YOU MALE FUCKS AROUND A LOT LIKE THIS. BOUNCING AROUND AND JITTERING, WASTING TIME. BUT THE SECRET IS THAT IT'S ACTUALLY ME FUCKING AROUND. I MOVE THIS GUY AROUND LIKE A PUPPET. WITH MY IMAGINARY HAND. SEE?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE YOU MALE FUCKS AROUND A LOT LIKE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THIS. BOUNCING AROUND AND JITTERING,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WASTING TIME. BUT THE SECRET IS THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT'S ACTUALLY ME FUCKING AROUND. I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MOVE THIS GUY AROUND LIKE A PUPPET.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WITH MY IMAGINARY HAND. SEE?\
+",
 	},
 	next = {
 		6253,

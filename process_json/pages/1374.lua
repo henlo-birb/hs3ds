@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You draw a really nice looking Squiddle lunchbox on the CAPTCHALOGUE SCRIBBLEPAD.",
+		"You draw a really nice looking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Squiddle lunchbox on the CAPTCHALOGUE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SCRIBBLEPAD.\
+",
 	},
 	next = {
 		1375,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Will you cut that out! You have company.",
+		"Will you cut that out! You have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"company.\
+",
 	},
 	next = {
 		1037,

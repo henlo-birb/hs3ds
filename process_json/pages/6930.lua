@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"I HUGELY INSIST. THAT I WALK THE PATH. NOT OF A VILLAIN. BUT OF AN ARTIST!!!",
+		"I HUGELY INSIST. THAT I WALK THE PATH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NOT OF A VILLAIN. BUT OF AN ARTIST!!!\
+",
 	},
 	next = {
 		6931,

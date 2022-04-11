@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue one of the CAKES.",
+		"You captchalogue one of the CAKES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You've finally found a use for all these loitering pastries: DEAD WEIGHT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've finally found a use for all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these loitering pastries: DEAD WEIGHT.\
+",
 	},
 	next = {
 		122,

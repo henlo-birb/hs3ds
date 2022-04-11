@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And your prototypings would affect theirs.",
+		"And your prototypings would affect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"theirs.\
+",
 	},
 	next = {
 		2315,

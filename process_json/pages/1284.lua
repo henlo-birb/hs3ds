@@ -12,25 +12,85 @@ return {
 			0,
 			0,
 		},
-		"Ok you think you got one. ",
-		{
-			0,
-			0,
-			0,
-		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/pccool.gif\"/>",
+		"Ok you think you got one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-\
-\
-\
-\
-Wait, that was awful. Really really bad. You're sure you can do better than that.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/pccool.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait, that was awful. Really really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bad. You're sure you can do better\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than that.\
+",
 	},
 	next = {
 		1285,

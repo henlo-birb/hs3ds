@@ -13,31 +13,92 @@ return {
 			0,
 			0,
 		},
-		"You make the SERIOUS BUSINESS GOGGLES.",
+		"You make the SERIOUS BUSINESS GOGGLES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is a pretty nice hands-free communication solution, and it makes you look way cooler, like one of the kids from SPY KIDS or something.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-God that was a good movie. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is a pretty nice hands-free\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"communication solution, and it makes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you look way cooler, like one of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kids from SPY KIDS or something.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-REAL SPIES...only smaller",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"God that was a good movie.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"REAL SPIES...only smaller\
+",
 	},
 	next = {
 		1057,

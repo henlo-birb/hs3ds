@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You grab the ENLARGER from your dismantled photography lab.",
+		"You grab the ENLARGER from your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dismantled photography lab.\
+",
 	},
 	next = {
 		1574,

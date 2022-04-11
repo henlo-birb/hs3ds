@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"He will.",
+		"He will.\
+",
 	},
 	next = {
 		2960,

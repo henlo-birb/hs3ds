@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It is very peaceful here.",
+		"It is very peaceful here.\
+",
 	},
 	next = {
 		5129,

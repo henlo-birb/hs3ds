@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You're right. Didn't Rose yank the door off its hinges and prop it on your bed?",
+		"You're right. Didn't Rose yank the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"door off its hinges and prop it on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bed?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Someone or something has put it back and left it slightly ajar.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone or something has put it back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and left it slightly ajar.\
+",
 	},
 	next = {
 		417,

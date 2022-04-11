@@ -15,49 +15,155 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Well, yeah. I was upset she fell off the horse.",
+		"TT: Well, yeah. I was upset she fell\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"off the horse.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Or the wagon. The horse wagon. Whatever.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: The thing you ride around on when you ain't drinking.",
+		"TT: Or the wagon. The horse wagon.\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"Whatever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: But so what. There was cotton candy in her hair, and she was being stupid. What do you expect? It was a moment of indiscretion.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I'm not mad at her and I'm not disappointed in her. That's ridiculous.",
+		"TT: The thing you ride around on when\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"you ain't drinking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Want to know what I really think of Roxy?",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: But so what. There was cotton\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"candy in her hair, and she was being\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"stupid. What do you expect? It was a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"moment of indiscretion.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm not mad at her and I'm not\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"disappointed in her. That's\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ridiculous.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Want to know what I really think\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of Roxy?\
+",
 	},
 	next = {
 		5827,

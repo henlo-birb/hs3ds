@@ -12,67 +12,176 @@ return {
 			0,
 			0,
 		},
-		"You chuck the LANCE at ",
+		"You chuck the LANCE at\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Sawbuck",
+		"Sawbuck\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". ",
+		".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But of course it's only a fleshwound. Seems like that's the only sort of wound you can ever inflict on the corpulent lummox.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Consequently you and he both jump to a random point on the timeline. This looks to be in the recent past, when ",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"Stitch",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" and ",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"Crowbar",
+		"But of course it's only a fleshwound.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" were setting up the crates for the imminent gunfight. Which was very thoughtful of them.",
+		"Seems like that's the only sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wound you can ever inflict on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"corpulent lummox.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your goons should be showing up any minute with the heavy firepower. For now you've got the drop on everybody.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Consequently you and he both jump to a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"random point on the timeline. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks to be in the recent past, when\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Stitch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Crowbar\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were setting up the crates for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"imminent gunfight. Which was very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thoughtful of them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your goons should be showing up any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"minute with the heavy firepower. For\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now you've got the drop on everybody.\
+",
 	},
 	next = {
 		1271,

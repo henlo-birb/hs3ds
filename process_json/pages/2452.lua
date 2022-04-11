@@ -12,15 +12,78 @@ return {
 			0,
 			0,
 		},
-		"Another emotionally exhausting conversation. Too many FEELINGS AND PROBLEMS. That guy. Talk about a high maintenance moirail. Perhaps tonight you will reveal your true feelings toward him, and end these exaggerated emotional theatrics one way or another.",
+		"Another emotionally exhausting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conversation. Too many FEELINGS AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PROBLEMS. That guy. Talk about a high\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"maintenance moirail. Perhaps tonight\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you will reveal your true feelings\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"toward him, and end these exaggerated\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"emotional theatrics one way or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You need a sugary drink.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You need a sugary drink.\
+",
 	},
 	next = {
 		2453,

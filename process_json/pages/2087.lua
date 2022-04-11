@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are highly startled by the totally unexpected explosion.",
+		"You are highly startled by the totally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unexpected explosion.\
+",
 	},
 	next = {
 		2088,

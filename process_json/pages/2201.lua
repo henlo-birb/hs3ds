@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"What now?",
+		"What now?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, him. You thought he'd washed his hands of you. Strange timing that he's bugging you tonight after so long without a peep from him.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, him. You thought he'd washed his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hands of you. Strange timing that he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bugging you tonight after so long\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without a peep from him.\
+",
 	},
 	next = {
 		2202,

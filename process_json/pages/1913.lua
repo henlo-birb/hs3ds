@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Deeper into the darkness of the room there is some complicated lab equipment. Again, nothing particularly unusual for this jurisdiction.",
+		"Deeper into the darkness of the room\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there is some complicated lab\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"equipment. Again, nothing particularly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unusual for this jurisdiction.\
+",
 	},
 	next = {
 		1914,

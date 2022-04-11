@@ -14,49 +14,134 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but the truth is i was not strong + cool",
+		"TG: but the truth is i was not strong\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"+ cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i was weak + lame all along",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i was weak + lame all along\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and now dirk knows that too and for some reason letting him down feels like the worst part??",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: which is equally lame and weak cuz i should care for my own sake not for how it makes a dude see me but it still just really bothers me ???",
+		"TG: and now dirk knows that too and\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: man",
+		"for some reason letting him down feels\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"like the worst part??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jake again hold pls",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: which is equally lame and weak cuz\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"i should care for my own sake not for\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"how it makes a dude see me but it\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"still just really bothers me ???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: jake again hold pls\
+",
 	},
 	next = {
 		5806,

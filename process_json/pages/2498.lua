@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Hmm.",
+		"Hmm.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Nah, I think we're good.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nah, I think we're good.\
+",
 	},
 	next = {
 		2499,

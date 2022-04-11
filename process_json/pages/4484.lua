@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Uh oh. There you go a-wobblin'.",
+		"Uh oh. There you go a-wobblin'.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Look out below..........",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Look out below..........\
+",
 	},
 	next = {
 		4485,

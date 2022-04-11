@@ -12,42 +12,120 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Mr. Vantas.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Mr. Vantas.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: WHAT THE FUCK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: WHAT THE FUCK?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: WHO ARE YOU, AND WHY ARE YOU MESSAGING ME THROUGH KANAYA'S ACCOUNT?",
+		"GA: WHO ARE YOU, AND WHY ARE YOU\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"MESSAGING ME THROUGH KANAYA'S ACCOUNT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: I SERIOUSLY DON'T NEED THIS SHIT RIGHT NOW.",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: I SERIOUSLY DON'T NEED THIS SHIT\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"RIGHT NOW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I'm delivering this message through the console of one of my numerous unwitting proteges to give you a word of advice, and then you will not hear from me again.",
+		"I'm delivering this message through\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the console of one of my numerous\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"unwitting proteges to give you a word\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of advice, and then you will not hear\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"from me again.\
+",
 	},
 	next = {
 		3355,

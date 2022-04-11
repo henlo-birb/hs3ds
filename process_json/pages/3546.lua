@@ -12,23 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You are now Jack Noir.",
+		"You are now Jack Noir.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have just murdered an innocent family.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What will you do?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have just murdered an innocent\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"family.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What will you do?\
+",
 	},
 	next = {
 		3547,

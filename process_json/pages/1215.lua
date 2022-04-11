@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"How many times does he have to tell you. He made this town.",
+		"How many times does he have to tell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you. He made this town.\
+",
 	},
 	next = {
 		1216,

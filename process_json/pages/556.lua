@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"The Colonel soars to new heights on his ECHELADDER, reaching the rung: ONE MAN JULEP VACUUM, and pockets 9550 BOONDOLLARS.",
+		"The Colonel soars to new heights on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his ECHELADDER, reaching the rung: ONE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAN JULEP VACUUM, and pockets 9550\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOONDOLLARS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Chump change for the genteel, aristocratic southern colonel.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Chump change for the genteel,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"aristocratic southern colonel.\
+",
 	},
 	next = {
 		557,

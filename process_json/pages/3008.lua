@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You think you will try to keep conversations with Becsprite to a minimum from now on.",
+		"You think you will try to keep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conversations with Becsprite to a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"minimum from now on.\
+",
 	},
 	next = {
 		3009,

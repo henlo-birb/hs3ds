@@ -14,7 +14,15 @@ return {
 			0,
 			0,
 		},
-		"I MEAN HE THREW A FULLY FLEDGED TANTRUM OF *PURE HOPE*.",
+		"I MEAN HE THREW A FULLY FLEDGED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TANTRUM OF *PURE HOPE*.\
+",
 	},
 	next = {
 		7434,

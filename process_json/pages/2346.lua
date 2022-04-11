@@ -12,23 +12,204 @@ return {
 			0,
 			0,
 		},
-		"In one dream, the clouds pointed you to the address of a server hidden in an obscure pocket of a realm unknowable to mortals. It contains a journal written by a young member of an alien species. She has documented her experiences playing the game you are about to play.",
+		"In one dream, the clouds pointed you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the address of a server hidden in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an obscure pocket of a realm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unknowable to mortals. It contains a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"journal written by a young member of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an alien species. She has documented\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her experiences playing the game you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are about to play.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can only assume this took place a long time ago. This race is likely ancient, preceding yours by millions of sweeps. Maybe billions! You like to try to imagine the adventures of these players. Were they successful in repopulating their race? Did they manage to protect their matriorb and hatch a new mother grub? Could they hold it together, or were they torn apart by the complex social dynamics, the matespritships and moirallegiences and auspisticisms and kismesissitudes that will surely plague your group along the way?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have little doubt they succeeded with flying colors.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can only assume this took place a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long time ago. This race is likely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ancient, preceding yours by millions\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of sweeps. Maybe billions! You like to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"try to imagine the adventures of these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"players. Were they successful in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"repopulating their race? Did they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"manage to protect their matriorb and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hatch a new mother grub? Could they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hold it together, or were they torn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apart by the complex social dynamics,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the matespritships and moirallegiences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and auspisticisms and kismesissitudes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that will surely plague your group\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along the way?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have little doubt they succeeded\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with flying colors.\
+",
 	},
 	next = {
 		2347,

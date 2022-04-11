@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"John isn't directly cognizant of your greeting, but I'm sure he would feel likewise.",
+		"John isn't directly cognizant of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"greeting, but I'm sure he would feel\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"likewise.\
+",
 	},
 	next = {
 		1419,

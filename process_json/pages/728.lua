@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It appears the funny-looking spirograph room is locked!",
+		"It appears the funny-looking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spirograph room is locked!\
+",
 	},
 	next = {
 		729,

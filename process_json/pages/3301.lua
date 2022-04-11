@@ -12,15 +12,85 @@ return {
 			0,
 			0,
 		},
-		"You have already viewed this moment a hundred times. It is no less confounding on your one hundred and first.",
+		"You have already viewed this moment a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hundred times. It is no less\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"confounding on your one hundred and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is nothing otherwise unusual about the scene. A simple girl is understandably preoccupied by her handsome assortment of orbs, while surrounded by her ever growing band of amphibious and reptilian acolytes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is nothing otherwise unusual\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about the scene. A simple girl is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understandably preoccupied by her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handsome assortment of orbs, while\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surrounded by her ever growing band of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amphibious and reptilian acolytes.\
+",
 	},
 	next = {
 		3302,

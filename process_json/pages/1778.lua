@@ -14,15 +14,43 @@ return {
 			0,
 			0,
 		},
-		"These hops are unreal. Shit this flagrant should be illegal. It probably is.",
+		"These hops are unreal. Shit this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flagrant should be illegal. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you don't care.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you don't care.\
+",
 	},
 	next = {
 		1779,

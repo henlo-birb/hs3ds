@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"There is a large monitor. Displayed on it is a small human girl in a fancy house. The date is April 21, 1910.",
+		"There is a large monitor. Displayed on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it is a small human girl in a fancy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"house. The date is April 21, 1910.\
+",
 	},
 	next = {
 		1915,

@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"You got an UNCARVED MINITABLET!",
+		"You got an UNCARVED MINITABLET!\
+",
 	},
 	next = {
 		1426,

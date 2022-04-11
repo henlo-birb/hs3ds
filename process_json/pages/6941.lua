@@ -12,7 +12,43 @@ return {
 			0,
 			0,
 		},
-		"THAT I AM GRACIOUSLY ACCEPTING \"CAL COINS\". THE BLEEDING EDGE OF MODERN IMAGINARY CURRENCY. WHICH I RECENTLY MADE UP WITH MY COMPUTER. AND CAN CONFIDENTLY CLAIM. TO LARGELY UNDERSTAND.",
+		"THAT I AM GRACIOUSLY ACCEPTING \"CAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COINS\". THE BLEEDING EDGE OF MODERN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IMAGINARY CURRENCY. WHICH I RECENTLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MADE UP WITH MY COMPUTER. AND CAN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONFIDENTLY CLAIM. TO LARGELY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNDERSTAND.\
+",
 	},
 	next = {
 		6942,

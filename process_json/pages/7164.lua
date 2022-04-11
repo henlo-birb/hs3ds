@@ -12,126 +12,302 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Hey Meenah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Hey Meenah.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Any idea where we are now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Any idea where we are now?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: iunno\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: iunno",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Do you think...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Do you think...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: This could 8e the \"Dark Carnival\"??",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: nah",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: that shit aint real",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: its a made up religious belief pimped out by trash clowns",
+		"VRISKA: This could 8e the \"Dark\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"Carnival\"??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Are you sure?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: nah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: shell yes",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: that shit aint real\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: be fake as shit",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: of course the religious beliefs themselves are real",
+		"MEENAH: its a made up religious belief\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"pimped out by trash clowns\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: makin it convenient for anyone who wanna exploit those delusions for her own badass objectives",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Are you sure?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: shell yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: like pulling in clams hand over flipper and ruthlessly subjugating the general public",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: be fake as shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: i mean",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: not that id ever bother with a dope scheme like that",
+		"MEENAH: of course the religious\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"beliefs themselves are real\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: just saying",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: makin it convenient for anyone\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"who wanna exploit those delusions for\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"her own badass objectives\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: like pulling in clams hand\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"over flipper and ruthlessly\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"subjugating the general public\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: i mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: not that id ever bother with a\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"dope scheme like that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: just saying\
+",
 	},
 	next = {
 		7165,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"This is your JUJU CHEST.",
+		"This is your JUJU CHEST.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You keep your JUJU inside it, surprisingly enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You keep your JUJU inside it,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surprisingly enough.\
+",
 	},
 	next = {
 		5116,

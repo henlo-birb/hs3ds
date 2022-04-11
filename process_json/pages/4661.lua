@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"PHWEW.",
+		"PHWEW.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-For the time being, it seems you are safe from punky looking fish aliens and cat hungry chess bandits. But now what?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"For the time being, it seems you are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"safe from punky looking fish aliens\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and cat hungry chess bandits. But now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what?\
+",
 	},
 	next = {
 		4662,

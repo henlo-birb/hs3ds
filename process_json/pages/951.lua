@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"You're going to need a bigger safe.",
+		"You're going to need a bigger safe.\
+",
 	},
 	next = {
 		952,

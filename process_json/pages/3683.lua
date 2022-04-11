@@ -14,7 +14,50 @@ return {
 			0,
 			0,
 		},
-		"First you request that everyone settle down! The squat fellow mediates between the two bickering parties, and patches up Liv's missing eye. She is nothing if not accustomed to decades of repair work, and quickly resumes her plucky demeanor.",
+		"First you request that everyone settle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down! The squat fellow mediates\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"between the two bickering parties, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"patches up Liv's missing eye. She is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nothing if not accustomed to decades\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of repair work, and quickly resumes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her plucky demeanor.\
+",
 	},
 	next = {
 		3684,

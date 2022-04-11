@@ -12,19 +12,22 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"Oh for heaven's sake.",
+		"Oh for heaven's sake.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		3619,

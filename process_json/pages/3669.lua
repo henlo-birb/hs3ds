@@ -12,23 +12,162 @@ return {
 			0,
 			0,
 		},
-		"Sweet, precious, beautiful Liv Tyler. You thought you'd lost her forever, just like Bruce Willis did when he blew himself up with a nuclear bomb in the center of an asteroid the size of Texas. His heroism and fatherly pride were ALSO the size of Texas.",
+		"Sweet, precious, beautiful Liv Tyler.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You thought you'd lost her forever,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just like Bruce Willis did when he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blew himself up with a nuclear bomb in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the center of an asteroid the size of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Texas. His heroism and fatherly pride\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were ALSO the size of Texas.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But your love for Liv is not fatherly, oh no. This reunion is with no loving daughter, but a loving movie star fantasy crush, who happens to be in the form of a robot bunny which has traveled through time, and been given as a gift on five separate occasions, twice by you and thrice to you, and originally fished out of a sewer by Nicholas Cage on the silver screen. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You forget the point you are supposed to be making.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But your love for Liv is not fatherly,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"oh no. This reunion is with no loving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"daughter, but a loving movie star\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fantasy crush, who happens to be in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the form of a robot bunny which has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"traveled through time, and been given\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as a gift on five separate occasions,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"twice by you and thrice to you, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"originally fished out of a sewer by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nicholas Cage on the silver screen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You forget the point you are supposed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to be making.\
+",
 	},
 	next = {
 		3670,

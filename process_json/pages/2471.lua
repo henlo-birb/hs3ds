@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It is all your fault. You couldn't get him in before the glub.",
+		"It is all your fault. You couldn't get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him in before the glub.\
+",
 	},
 	next = {
 		2472,

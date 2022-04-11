@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the TANGLE BUDDIES.",
+		"You captchalogue the TANGLE BUDDIES.\
+",
 	},
 	next = {
 		797,

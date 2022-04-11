@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"A whole bunch of shit happens that we already saw.",
+		"A whole bunch of shit happens that we\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already saw.\
+",
 	},
 	next = {
 		1289,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"The lab is in flight. Its exits, inoperative.",
+		"The lab is in flight. Its exits,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inoperative.\
+",
 	},
 	next = {
 		1968,

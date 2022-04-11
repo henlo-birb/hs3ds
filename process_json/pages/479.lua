@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Doesn't look like that GRIST is going anywhere.",
+		"Doesn't look like that GRIST is going\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anywhere.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just never know with these gaming abstractions.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just never know with these gaming\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abstractions.\
+",
 	},
 	next = {
 		480,

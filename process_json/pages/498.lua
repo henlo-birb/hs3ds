@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Let's see how they like the old doublebarrel latherblaster WHOOPS OH SHIT.",
+		"Let's see how they like the old\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doublebarrel latherblaster WHOOPS OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHIT.\
+",
 	},
 	next = {
 		499,

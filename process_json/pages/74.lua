@@ -12,23 +12,99 @@ return {
 			0,
 			0,
 		},
-		"Your DAD maintains numerous pipes around the household. A father without a pipe is like a strapping roughneck without a toothpick. That is to say, HE IS A RATHER PISS-POOR EXCUSE FOR A ROUGHNECK IF YOU ASK ME.",
+		"Your DAD maintains numerous pipes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around the household. A father without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a pipe is like a strapping roughneck\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without a toothpick. That is to say,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE IS A RATHER PISS-POOR EXCUSE FOR A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ROUGHNECK IF YOU ASK ME.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'd rather not take the PIPE, though. The first one tastes bad enough as it is.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How you suffer for your comedy.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'd rather not take the PIPE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though. The first one tastes bad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough as it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How you suffer for your comedy.\
+",
 	},
 	next = {
 		75,

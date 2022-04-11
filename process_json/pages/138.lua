@@ -14,7 +14,8 @@ return {
 			0,
 			0,
 		},
-		"[Mouseover the interface buttons. -AH]",
+		"[Mouseover the interface buttons. -AH]\
+",
 	},
 	next = {
 		139,

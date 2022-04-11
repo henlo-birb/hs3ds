@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Going up.",
+		"Going up.\
+",
 	},
 	next = {
 		5567,

@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"And inside, a dark laboratory, unused for years.",
+		"And inside, a dark laboratory, unused\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for years.\
+",
 	},
 	next = {
 		1987,

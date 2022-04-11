@@ -14,15 +14,113 @@ return {
 			0,
 			0,
 		},
-		"The thing zooms into the circle representing Derse and suddenly a character select screen explodes into action. Yet again, you find yourself overwhelmed by feelings of narrative empowerment as you agonize over which of these two lawless ladies you will hitch your wagon to as you blaze a new trail through the treacherous frontiers of interactive fiction...",
+		"The thing zooms into the circle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"representing Derse and suddenly a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"character select screen explodes into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"action. Yet again, you find yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"overwhelmed by feelings of narrative\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empowerment as you agonize over which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of these two lawless ladies you will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hitch your wagon to as you blaze a new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trail through the treacherous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frontiers of interactive fiction...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh crud, you say. More stardust glitches. You just click them both in whatever order you feel like, and hope for the best.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh crud, you say. More stardust\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"glitches. You just click them both in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whatever order you feel like, and hope\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the best.\
+",
 	},
 	next = {
 		6291,

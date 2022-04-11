@@ -12,133 +12,386 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: That's a really nice room there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: That's a really nice room there.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: But where is she?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: But where is she?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Hah, her drink is still there. So\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"she can't have gone far.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Hah, her drink is still there. So she can't have gone far.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: Oh snap.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Oh snap.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: I don't see her anywhere in the rest of the house.",
+		"GG: I don't see her anywhere in the\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"rest of the house.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I see plenty of plush wizards and window gizmos, and... pumpkins? Really, Roxy?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: I see plenty of plush wizards and\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"window gizmos, and... pumpkins?\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"Really, Roxy?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: What an unusual house design. Are all homes in the future like this?",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: What an unusual house design. Are\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"all homes in the future like this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: You mean the ones that aren't under water? Yes. They are all almost exactly like that.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: I just tried messaging her. But no response.",
+		"TT: You mean the ones that aren't\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: I'm sure she's out cruising the hood, probably messin' with the locals.",
+		"under water? Yes. They are all almost\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"exactly like that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Maybe attempting some ill advised drunken heroics.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I just tried messaging her. But no\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"response.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Pretty tight numerical probability of that, I just decided with unfeeling precision.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: She said things were on fire when we last talked?",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: Actually, she said the whole neighborhood was burning down, if I recall.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: But judging by the view from her window, it looks lovely outside.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: What exactly is the danger I am saving her from here?",
+		"TT: I'm sure she's out cruising the\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TT: Zoom out.",
+		"hood, probably messin' with the\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"locals.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Way out.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Maybe attempting some ill advised\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"drunken heroics.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Pretty tight numerical probability\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"of that, I just decided with unfeeling\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"precision.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: She said things were on fire when\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"we last talked?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Actually, she said the whole\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"neighborhood was burning down, if I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"recall.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: But judging by the view from her\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"window, it looks lovely outside.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: What exactly is the danger I am\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"saving her from here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Zoom out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TT: Way out.\
+",
 	},
 	next = {
 		5039,

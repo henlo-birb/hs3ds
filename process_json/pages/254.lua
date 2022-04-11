@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"For the last time, this boy's name is John!!!",
+		"For the last time, this boy's name is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John!!!\
+",
 	},
 	next = {
 		255,

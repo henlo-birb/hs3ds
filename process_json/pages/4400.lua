@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Get this shit outta the way. You're a busy bureaucrat. The clock is ticking, and time is dead kids.",
+		"Get this shit outta the way. You're a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"busy bureaucrat. The clock is ticking,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and time is dead kids.\
+",
 	},
 	next = {
 		4401,

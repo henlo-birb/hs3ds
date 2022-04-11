@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Let's see what's in the news today.",
+		"Let's see what's in the news today.\
+",
 	},
 	next = {
 		5560,

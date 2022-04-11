@@ -13,15 +13,29 @@ return {
 			0,
 			0,
 		},
-		"Most other players only get one extra.",
+		"Most other players only get one extra.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you're kind of a special case.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you're kind of a special case.\
+",
 	},
 	next = {
 		2506,

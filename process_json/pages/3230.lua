@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"That's better.",
+		"That's better.\
+",
 	},
 	next = {
 		3231,

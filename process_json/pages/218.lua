@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"The PURPLE PACKAGE'S contents are private! No one is allowed to look inside.",
+		"The PURPLE PACKAGE'S contents are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"private! No one is allowed to look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inside.\
+",
 	},
 	next = {
 		219,

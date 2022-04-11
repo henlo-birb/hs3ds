@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"IT CAUSES EVERYONE TO COMPLETELY FORGET. ABOUT THE INCREASINGLY AGITATED BLUE MALE. ALTOGETHER.",
+		"IT CAUSES EVERYONE TO COMPLETELY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FORGET. ABOUT THE INCREASINGLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AGITATED BLUE MALE. ALTOGETHER.\
+",
 	},
 	next = {
 		6529,

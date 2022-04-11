@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Even though the adventure began recently, it's already over 3000 pages long. You just don't have time for this bullshit. You'll catch up later. ",
+		"Even though the adventure began\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recently, it's already over 3000 pages\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long. You just don't have time for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this bullshit. You'll catch up later.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Besides, it looks like someone's pestering you. You're pretty sure you know who it is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, it looks like someone's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pestering you. You're pretty sure you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"know who it is.\
+",
 	},
 	next = {
 		333,

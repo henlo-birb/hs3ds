@@ -12,7 +12,8 @@ return {
 			0.49411764705882355,
 			1.0,
 		},
-		"it's you, isn't it.",
+		"it's you, isn't it.\
+",
 	},
 	next = {
 		6898,

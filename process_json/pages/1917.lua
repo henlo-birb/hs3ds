@@ -13,23 +13,92 @@ return {
 			0,
 			0,
 		},
-		"The colonel and his new grand daughter investigate.",
+		"The colonel and his new grand daughter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"investigate.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The impact site is where a dog house stood moments ago. It was the magnificent abode of the man's beloved pet, HALLEY.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He takes a belt from the old julep flask. He'd sooner perish himself than lose that dear animal.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The impact site is where a dog house\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stood moments ago. It was the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"magnificent abode of the man's beloved\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pet, HALLEY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He takes a belt from the old julep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flask. He'd sooner perish himself than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lose that dear animal.\
+",
 	},
 	next = {
 		1918,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"HUH???",
+		"HUH???\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, it was nothing. Nothing at all. Moving right along.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, it was nothing. Nothing at all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Moving right along.\
+",
 	},
 	next = {
 		945,

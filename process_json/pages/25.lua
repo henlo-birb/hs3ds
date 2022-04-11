@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Only one of your CHUMS is logged in. He's sent you a message.",
+		"Only one of your CHUMS is logged in.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He's sent you a message.\
+",
 	},
 	next = {
 		26,

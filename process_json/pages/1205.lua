@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You don't know if the wounded guy went up the stairs, or came down. Or who wounded him, and when. Might have even been you, for all you know.",
+		"You don't know if the wounded guy went\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up the stairs, or came down. Or who\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wounded him, and when. Might have even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been you, for all you know.\
+",
 	},
 	next = {
 		1206,

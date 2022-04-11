@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Looks like you can choose between picking leaves, or awkwardly uprooting the whole tree, as you've been doing.",
+		"Looks like you can choose between\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"picking leaves, or awkwardly uprooting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the whole tree, as you've been doing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You select LEAF. You also turn off AUTO-BALANCE, since its consequences can be a little mystifying sometimes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You select LEAF. You also turn off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AUTO-BALANCE, since its consequences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can be a little mystifying sometimes.\
+",
 	},
 	next = {
 		865,

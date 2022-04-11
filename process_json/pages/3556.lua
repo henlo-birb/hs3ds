@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And it is surely why you couldn't go through with it.",
+		"And it is surely why you couldn't go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through with it.\
+",
 	},
 	next = {
 		3557,

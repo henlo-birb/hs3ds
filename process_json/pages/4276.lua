@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Nearby, someone or something bleats like a goat for strategic purposes.",
+		"Nearby, someone or something bleats\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like a goat for strategic purposes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And also",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And also\
+",
 	},
 	next = {
 		4277,

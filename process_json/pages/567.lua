@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"No sign of BRO in here either.",
+		"No sign of BRO in here either.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Well, aside from the absurd quantity of awesome dangerous stuff he leaves lying around.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Well, aside from the absurd quantity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of awesome dangerous stuff he leaves\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lying around.\
+",
 	},
 	next = {
 		568,

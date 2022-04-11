@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"Sounds like your lusus is agitated about something up there. You already gave him his serving of honey today. If he thinks he can get more, well that's just greedy.",
+		"Sounds like your lusus is agitated\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about something up there. You already\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gave him his serving of honey today.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If he thinks he can get more, well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that's just greedy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You wonder what could be bothering him?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You wonder what could be bothering\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him?\
+",
 	},
 	next = {
 		2094,

@@ -14,49 +14,113 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: in the soot of my ruined hive i scrawled my part of the code",
+		"AA: in the soot of my ruined hive i\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"scrawled my part of the code\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: completing the phrase of legend",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"AA: completing the phrase of legend\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: the persisting sounds said to accompany the ultimate demise of the tyrant less an arm and an eye",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: but even these eight characters",
+		"AA: the persisting sounds said to\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: the scrawlings of charge",
+		"accompany the ultimate demise of the\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"tyrant less an arm and an eye\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: were still but half the code",
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"AA: but even these eight characters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"AA: the scrawlings of charge\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"AA: were still but half the code\
+",
 	},
 	next = {
 		3603,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You make a TOTEM for a CAPTCHALOGUE CARD.",
+		"You make a TOTEM for a CAPTCHALOGUE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CARD.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Pretty bare bones looking totem, if you ask you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Pretty bare bones looking totem, if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you ask you.\
+",
 	},
 	next = {
 		620,

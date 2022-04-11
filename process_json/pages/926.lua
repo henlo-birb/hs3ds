@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You fail miserably.",
+		"You fail miserably.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh look, there's some more mad science crap over here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh look, there's some more mad science\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"crap over here.\
+",
 	},
 	next = {
 		927,

@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You guess this is the combination to the safe.",
+		"You guess this is the combination to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the safe.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is completely useless.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is completely useless.\
+",
 	},
 	next = {
 		548,

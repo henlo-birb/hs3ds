@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"John is very nervous about the idea, and the strident tone of your commands is starting to make him a little upset!",
+		"John is very nervous about the idea,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and the strident tone of your commands\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is starting to make him a little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"upset!\
+",
 	},
 	next = {
 		265,

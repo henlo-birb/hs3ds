@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"Again, the name of the thing was right there in plain sight. ",
+		"Again, the name of the thing was right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there in plain sight.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You deploy the PUNCH CARD SHUNT for peanuts.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like a captchalogue card is supposed to fit in the slot.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You deploy the PUNCH CARD SHUNT for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peanuts.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like a captchalogue card is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"supposed to fit in the slot.\
+",
 	},
 	next = {
 		1517,

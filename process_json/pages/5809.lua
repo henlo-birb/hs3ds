@@ -15,147 +15,372 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: wrong wrong wrong wrong wrong\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"wrong\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: wrong wrong wrong wrong wrong wrong",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know. It seemed innocent enough to me.",
+		"GT: I dont know. It seemed innocent\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: What was so wrong about it?",
+		"enough to me.\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-TG: a whole host of things...",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: not sure in how much detail i wanna spell out why exactly it wasnt cool",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: but like",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: jake ur a pretty simple guy and i mean that as <3ways as possible",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: it just wasnt right",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: What was so wrong about it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: No disagreement there. But like i said im here to talk about whatever you feel like.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: a whole host of things...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ok see this is just another embarrassing thing from my past",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: when i was more out of control",
+		"TG: not sure in how much detail i\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: with dirk i was just",
+		"wanna spell out why exactly it wasnt\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: waaay too aggressive",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: but like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i hassled him all the time",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: pretty much every day just like he said",
+		"TG: jake ur a pretty simple guy and i\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"mean that as <3ways as possible\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: about",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: it just wasnt right\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: me and him",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: No disagreement there. But like i\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"said im here to talk about whatever\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"you feel like.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like",
+		"TG: ok see this is just another\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"embarrassing thing from my past\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: GETTING MARRIED AND HAVING BABIES!!!!!!!!!!!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: when i was more out of control\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: U KNO LAST MALE & FEMALE ON EARTH OOH HES A HUNK! IS DREAMZ COME TRU TIME 4 REPOPULATE!!!",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: with dirk i was just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: waaay too aggressive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i hassled him all the time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: pretty much every day just like he\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"said\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: me and him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: GETTING MARRIED AND HAVING\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"BABIES!!!!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: U KNO LAST MALE & FEMALE ON EARTH\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"OOH HES A HUNK! IS DREAMZ COME TRU\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TIME 4 REPOPULATE!!!\
+",
 	},
 	next = {
 		5810,

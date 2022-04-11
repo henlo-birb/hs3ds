@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You guess you could swim. ",
+		"You guess you could swim.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe you can think of a better way across though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you can think of a better way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"across though.\
+",
 	},
 	next = {
 		1116,

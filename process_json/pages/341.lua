@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You re-captchalogue the JUICE.",
+		"You re-captchalogue the JUICE.\
+",
 	},
 	next = {
 		342,

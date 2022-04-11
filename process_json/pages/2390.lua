@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Kanaya, it's hard.",
+		"Kanaya, it's hard.\
+",
 	},
 	next = {
 		2391,

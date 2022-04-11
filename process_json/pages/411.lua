@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"Dave is pestering you. But you don't have time to deal with his nonsense right now. ",
+		"Dave is pestering you. But you don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have time to deal with his nonsense\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Something is amiss in your room. You can't quite put your finger on it...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Something is amiss in your room. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't quite put your finger on it...\
+",
 	},
 	next = {
 		412,

@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You swap the MAGICIAN'S HAT with the BOWLER HAT.",
+		"You swap the MAGICIAN'S HAT with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOWLER HAT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This disguise is somewhat less funny, but A LOT more distinguished looking.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This disguise is somewhat less funny,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but A LOT more distinguished looking.\
+",
 	},
 	next = {
 		74,

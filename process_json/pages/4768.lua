@@ -12,343 +12,1072 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Oh, I know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Oh, I know.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: May8e I'll mindjack some random chump and send him to your hive so he can read my messages to you out loud!",
+		"AG: May8e I'll mindjack some random\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: What a perfect solution. He can 8e your assisted living slave. ",
+		"chump and send him to your hive so he\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"can read my messages to you out loud!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I would have had the perfect candid8 all lined up, 8ut he recently lost the use of his legs unfortun8ly. Oh well, I'll just roll with the punches like I always do and find someone else.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Just say the word, and I'll make him do whatever you want! Read my awesome notes to you, hang some more plush dragons from your tree, pre-chew your food........",
+		"AG: What a perfect solution. He can 8e\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"your assisted living slave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Well, may8e not pre-chew it, since I didn't exactly knock your teeth out, did I?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: May8e more like pre-look-at your food, to make sure there are 8ugs in it.",
+		"AG: I would have had the perfect\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: See, isn't it gr8 when we're helping each other out instead of maiming each other repeatedly?",
+		"candid8 all lined up, 8ut he recently\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: This is how it should 8e 8etween Scourge Sisters. All the maimings and 8acksta88ings should 8e saved for the friends and foes who get in our way, don't you think?",
+		"lost the use of his legs unfortun8ly.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Hey, what do you want to do for our next campaign, 8tw?",
+		"Oh well, I'll just roll with the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: We can take the next one easy. I'll try to think of something 8etter suited to your new disa8ility!",
+		"punches like I always do and find\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"someone else.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I mean, I've ALREADY pretty much nixed anything involving stairs, 8ecause of Tavros. Lol.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: 8n't no one can say I'm not willing to meet people half way!!!!!!!!",
+		"AG: Just say the word, and I'll make\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Whew........",
+		"him do whatever you want! Read my\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I'm losing a lot of 8lood here.",
+		"awesome notes to you, hang some more\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Good thing I seem to have a ton of the stuff. We high8loods are made of some pretty tough shit.",
+		"plush dragons from your tree, pre-chew\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"your food........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: What a fucking mess, though. Not really looking forward to cleaning this up.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I've got to say, your prank was pretty good. Still not sure how you pulled it off. Pretty inconvenient though!",
+		"AG: Well, may8e not pre-chew it, since\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: It's too 8ad you're not going to get to read this for a while, if ever. We could 8e 8onding over the gr8 pranks we just pulled on each other!",
+		"I didn't exactly knock your teeth out,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"did I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Oh well.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Guess I'll take off. 8efore I drop dead like some kind of loser and you never get to hear from me again.",
+		"AG: May8e more like pre-look-at your\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: See you around, sis.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: WOW",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: 1 C4NT B3L13V3 1 4LMOST FORGOT",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: WH4T 4 COMPL3T3LY CR4ZY B1TCH YOU W3R3",
+		"food, to make sure there are 8ugs in\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Hey now!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: What kind of attitude is that to 8ring into this memory?",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: OH",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: Y34H",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: SORRY >:[",
+		"AG: See, isn't it gr8 when we're\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Easy, there.",
+		"helping each other out instead of\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"maiming each other repeatedly?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: No need to waste good remorse on such a trivial exchange.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I am only reminding you,",
+		"AG: This is how it should 8e 8etween\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: That if you 8ring too much 8aggage from the past into the memory, it is dou8tful your experience will 8e either therapeutic or cathartic.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: UH",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: WH4T",
+		"Scourge Sisters. All the maimings and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: You were the one who invoked this memory after all.",
+		"8acksta88ings should 8e saved for the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Isn't this why you are here? Is it not what you have 8een hoping for and fretting you may find since your journey 8egan?",
+		"friends and foes who get in our way,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: A chance to say you are sorry?",
+		"don't you think?\
+",
 		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-GC: VR1SK4",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: YOU SOUND R34LLY D1FF3R3NT",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: WH4T H4PP3N3D TO YOU OUT H3R3?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Sorry for the ruse.",
+		"AG: Hey, what do you want to do for\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Though it isn't as far from the truth as it possi8ly could 8e, I am not who you think I am.",
+		"our next campaign, 8tw?\
+",
 		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-GC: >:?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-AG: I of course needed to visit you through a memory, and interestingly, this is the one you gave me.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: We can take the next one easy.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"I'll try to think of something 8etter\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"suited to your new disa8ility!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: No ill will or upsetting hijinks were intended.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I mean, I've ALREADY pretty much\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"nixed anything involving stairs,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ecause of Tavros. Lol.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8n't no one can say I'm not\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"willing to meet people half\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"way!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Whew........\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I'm losing a lot of 8lood here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Good thing I seem to have a ton of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the stuff. We high8loods are made of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"some pretty tough shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: What a fucking mess, though. Not\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"really looking forward to cleaning\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I've got to say, your prank was\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pretty good. Still not sure how you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pulled it off. Pretty inconvenient\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"though!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: It's too 8ad you're not going to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"get to read this for a while, if ever.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"We could 8e 8onding over the gr8\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pranks we just pulled on each other!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Oh well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Guess I'll take off. 8efore I drop\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"dead like some kind of loser and you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"never get to hear from me again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: See you around, sis.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"GC: WOW\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GC: WHO 4R3 YOU?",
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: 1 C4NT B3L13V3 1 4LMOST FORGOT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: WH4T 4 COMPL3T3LY CR4ZY B1TCH YOU\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"W3R3\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Hey now!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: What kind of attitude is that to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ring into this memory?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: Y34H\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: SORRY >:[\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Easy, there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: No need to waste good remorse on\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"such a trivial exchange.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I am only reminding you,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: That if you 8ring too much 8aggage\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"from the past into the memory, it is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"dou8tful your experience will 8e\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"either therapeutic or cathartic.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: UH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: WH4T\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: You were the one who invoked this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"memory after all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Isn't this why you are here? Is it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"not what you have 8een hoping for and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"fretting you may find since your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"journey 8egan?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: A chance to say you are sorry?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: VR1SK4\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: YOU SOUND R34LLY D1FF3R3NT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: WH4T H4PP3N3D TO YOU OUT H3R3?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Sorry for the ruse.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Though it isn't as far from the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"truth as it possi8ly could 8e, I am\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"not who you think I am.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: >:?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I of course needed to visit you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"through a memory, and interestingly,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this is the one you gave me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: No ill will or upsetting hijinks\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"were intended.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: WHO 4R3 YOU?\
+",
 	},
 	next = {
 		4769,

@@ -14,15 +14,50 @@ return {
 			0,
 			0,
 		},
-		"She's not finished with this yet! Jeez, cut her some slack.",
+		"She's not finished with this yet!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jeez, cut her some slack.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe you could go bug someone somewhere else for a while? Or at the very least, somewhen else.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you could go bug someone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhere else for a while? Or at the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"very least, somewhen else.\
+",
 	},
 	next = {
 		441,

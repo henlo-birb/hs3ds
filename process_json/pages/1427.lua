@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You got a CHUNK OF...",
+		"You got a CHUNK OF...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Why am I repeating myself?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Why am I repeating myself?\
+",
 	},
 	next = {
 		1428,

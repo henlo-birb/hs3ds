@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"What pumpkin?",
+		"What pumpkin?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You see no pumpkin, and frankly it is hard to imagine there ever was a pumpkin, in plain sight or otherwise.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway, that would be a really terrible thing to do to poor, sweet Farmstink.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You see no pumpkin, and frankly it is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hard to imagine there ever was a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pumpkin, in plain sight or otherwise.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway, that would be a really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"terrible thing to do to poor, sweet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Farmstink.\
+",
 	},
 	next = {
 		765,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"One down.",
+		"One down.\
+",
 	},
 	next = {
 		4286,

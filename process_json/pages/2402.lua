@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"And yet others will seem to have been hatched for each other.",
+		"And yet others will seem to have been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hatched for each other.\
+",
 	},
 	next = {
 		2403,

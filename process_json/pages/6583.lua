@@ -12,84 +12,232 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: I'm sorry!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: I'm sorry!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: There! See?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: There! See?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: I am respecting your personal 8oundaries. We don't have to kiss!",
+		"ARANEA: I am respecting your personal\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8oundaries. We don't have to kiss!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Good grief, that went poorly.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Good grief, that went poorly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: I only tried to kiss you 8ecause I knew you were attracted to me!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: I thought I was doing you a FAVOR!",
+		"ARANEA: I only tried to kiss you\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: I don't know what I'm supposed to........",
+		"8ecause I knew you were attracted to\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Sigh.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: You really are a piece of work, Jake. Here I am, a literal mind reader, and I still can't figure you out.",
+		"ARANEA: I thought I was doing you a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"FAVOR!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: 8ut you're right.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: I don't know what I'm supposed\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: My advances were inappropri8te, and in the future I will try to 8e more respectful.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Sigh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: You really are a piece of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"work, Jake. Here I am, a literal mind\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"reader, and I still can't figure you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut you're right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: My advances were\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"inappropri8te, and in the future I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"will try to 8e more respectful.\
+",
 	},
 	next = {
 		6584,

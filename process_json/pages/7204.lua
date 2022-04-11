@@ -12,28 +12,50 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Say.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Do you suppose...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Do you suppose...",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I could make a trollsona too?",
+		"JANE: I could make a trollsona too?\
+",
 	},
 	next = {
 		7205,

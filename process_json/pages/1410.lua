@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"The yellow bandaged fellow seems to have slogged off somewhere. But the tall mail carrier with the lovely white complexion would probably get a kick out of your big computer with the weird boy on it.",
+		"The yellow bandaged fellow seems to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have slogged off somewhere. But the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tall mail carrier with the lovely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"white complexion would probably get a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kick out of your big computer with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weird boy on it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You show her inside.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You show her inside.\
+",
 	},
 	next = {
 		1411,

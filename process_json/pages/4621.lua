@@ -12,23 +12,50 @@ return {
 			0,
 			0,
 		},
-		"FREEZE MOTHERFUTHER!",
+		"FREEZE MOTHERFUTHER!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-* MOCKERFUCKER!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-* SHIT!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"* MOCKERFUCKER!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"* SHIT!!!\
+",
 	},
 	next = {
 		4622,

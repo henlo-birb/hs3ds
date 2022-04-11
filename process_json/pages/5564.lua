@@ -12,23 +12,99 @@ return {
 			0,
 			0,
 		},
-		"Speaking of the new prisoner, you wonder how the old one is doing.",
+		"Speaking of the new prisoner, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wonder how the old one is doing.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're not gonna check on the new one. She's out of your jurisdiction. Like you said, the witch has her schemes. Whatever they are, you're going to leave that alone.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're more curious about the status of the fellow you captured 153 days ago.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're not gonna check on the new one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She's out of your jurisdiction. Like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you said, the witch has her schemes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whatever they are, you're going to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"leave that alone.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're more curious about the status\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the fellow you captured 153 days\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ago.\
+",
 	},
 	next = {
 		5565,

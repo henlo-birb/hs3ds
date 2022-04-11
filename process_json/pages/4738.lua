@@ -12,28 +12,71 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: WOOF WOOF WOOF WOOF WOOF WOOF\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"WOOF WOOF!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF!",
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
+		"JASPERSPRITE:\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"Hisssssssssssssssssssssssssssss!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JASPERSPRITE: Hisssssssssssssssssssssssssssss!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: aaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuugh!",
+		"JOHN:\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"aaaaaaaaaaaaaaaaaaaauuuuuuuuuuuuuuuuugh!\
+",
 	},
 	next = {
 		4739,

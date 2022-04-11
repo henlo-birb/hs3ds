@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You find a book full of beautiful poetry and groundbreaking philosophical thinking by American Sports Legend, Charles Barkley.",
+		"You find a book full of beautiful\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"poetry and groundbreaking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"philosophical thinking by American\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sports Legend, Charles Barkley.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These are words to cherish.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is a man to treasure.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These are words to cherish.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is a man to treasure.\
+",
 	},
 	next = {
 		1707,

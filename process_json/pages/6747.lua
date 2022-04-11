@@ -12,21 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: To 8e honest, I don't even want to hear any more.",
+		"VRISKA: To 8e honest, I don't even\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"want to hear any more.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Next time you have an upd8 on what my ancestor has 8een up to, please just keep it to yourself.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Next time you have an upd8 on\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"what my ancestor has 8een up to,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"please just keep it to yourself.\
+",
 	},
 	next = {
 		6748,

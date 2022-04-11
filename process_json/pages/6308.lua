@@ -12,21 +12,36 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: oh who am i kidding\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: oh who am i kidding",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i cant stay mad at that face",
+		"DAVE: i cant stay mad at that face\
+",
 	},
 	next = {
 		6309,

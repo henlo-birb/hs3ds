@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"I AM NO EXPERT ON MICRO CHIPS. BUT I DOUBT THESE CONDITIONS ARE IDEAL!",
+		"I AM NO EXPERT ON MICRO CHIPS. BUT I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOUBT THESE CONDITIONS ARE IDEAL!\
+",
 	},
 	next = {
 		6277,

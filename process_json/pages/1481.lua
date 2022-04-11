@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"You show him the carved MINITABLET. As he can plainly see, you have signed authorization to deliver one of the parcels.",
+		"You show him the carved MINITABLET. As\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he can plainly see, you have signed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"authorization to deliver one of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"parcels.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He gives you the ENVELOPE. But he retains the PACKAGE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He gives you the ENVELOPE. But he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"retains the PACKAGE.\
+",
 	},
 	next = {
 		1482,

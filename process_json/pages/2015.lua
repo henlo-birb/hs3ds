@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You decide to give this diabolical contraption another shot. Maybe one of these days you will get one more suited to your proportions. For now this is all you have to work with.",
+		"You decide to give this diabolical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contraption another shot. Maybe one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these days you will get one more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suited to your proportions. For now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this is all you have to work with.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just have to figure out how to stay on the thing without flying off the handle.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just have to figure out how to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stay on the thing without flying off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the handle.\
+",
 	},
 	next = {
 		2016,

@@ -12,31 +12,162 @@ return {
 			0,
 			0,
 		},
-		"The Draconian Dignitary.",
+		"The Draconian Dignitary.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Really, you don't know why everyone's always got to be transforming from things into other things. Taking on these wild appearance modifications just for a little boost in power always struck you as tacky. Where's the class?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It just takes no creativity or guile for these villain types to grab a little power through such outlandish transformations. No imagination at all. You are utterly astounded by how shitty their imagination is. If their imagination was a face you would shoot it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Really, you don't know why everyone's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always got to be transforming from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things into other things. Taking on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these wild appearance modifications\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just for a little boost in power\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always struck you as tacky. Where's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the class?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In the face.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It just takes no creativity or guile\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for these villain types to grab a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little power through such outlandish\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"transformations. No imagination at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all. You are utterly astounded by how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shitty their imagination is. If their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"imagination was a face you would shoot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In the face.\
+",
 	},
 	next = {
 		4947,

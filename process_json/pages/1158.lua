@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You have an idea that is so much better.",
+		"You have an idea that is so much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"better.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-CLOCKS DESTROYED: 4/1000",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CLOCKS DESTROYED: 4/1000\
+",
 	},
 	next = {
 		1159,

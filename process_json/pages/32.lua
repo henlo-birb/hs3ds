@@ -13,15 +13,78 @@ return {
 			0,
 			0,
 		},
-		"You decide to consult with the Colonel's bottomless wisdom. Good grief this thing is huge. It could kill a cat if you dropped it.",
+		"You decide to consult with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Colonel's bottomless wisdom. Good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grief this thing is huge. It could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kill a cat if you dropped it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But to really dig into this hefty book, you will have to captchalogue it. You are not sure you are ready to logjam your other ARTIFACTS beneath it just yet.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But to really dig into this hefty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"book, you will have to captchalogue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. You are not sure you are ready to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"logjam your other ARTIFACTS beneath it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just yet.\
+",
 	},
 	next = {
 		33,

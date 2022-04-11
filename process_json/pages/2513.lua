@@ -12,135 +12,197 @@ return {
 			0,
 			0,
 		},
-		"You've wasted enough time on sleeping and dying. You've got to get back to adventurin' while the adventurin's good. And also change out of these stupid pajamas.",
+		"You've wasted enough time on sleeping\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and dying. You've got to get back to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adventurin' while the adventurin's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good. And also change out of these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stupid pajamas.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-PCH",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PCH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"O",
+		"O\
+",
 	},
 	next = {
 		2514,

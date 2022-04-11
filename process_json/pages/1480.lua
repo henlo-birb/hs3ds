@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"He cannot give them to you. They are ILLEGAL CONTRABAND, and if you wish to petition for their release, you must consult with his superiors.",
+		"He cannot give them to you. They are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ILLEGAL CONTRABAND, and if you wish to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"petition for their release, you must\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"consult with his superiors.\
+",
 	},
 	next = {
 		1481,

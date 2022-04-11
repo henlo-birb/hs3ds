@@ -12,23 +12,113 @@ return {
 			0,
 			0,
 		},
-		"In truth, it would be all too easy to solve the land dweller problem once and for all. You'd just need to lighten up on the feeding schedule for a while. Maybe you'd be a little too busy to bother with that hassle for once? Or maybe you could happen to be off your game for a spell? It happens, even to the best sometimes.",
+		"In truth, it would be all too easy to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"solve the land dweller problem once\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and for all. You'd just need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lighten up on the feeding schedule for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a while. Maybe you'd be a little too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"busy to bother with that hassle for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"once? Or maybe you could happen to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off your game for a spell? It happens,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even to the best sometimes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But nah. It would make her upset.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-More emotions. More problems. That's all you need.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But nah. It would make her upset.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"More emotions. More problems. That's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all you need.\
+",
 	},
 	next = {
 		2466,

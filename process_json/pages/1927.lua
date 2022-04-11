@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"The TIME CAPSULE stores the seed, and on account of some default setting, is programmed to bloom several hundred million years from now.",
+		"The TIME CAPSULE stores the seed, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on account of some default setting, is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"programmed to bloom several hundred\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"million years from now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The capsule then readies a new seed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The capsule then readies a new seed.\
+",
 	},
 	next = {
 		1928,

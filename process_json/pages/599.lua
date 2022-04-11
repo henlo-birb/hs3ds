@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Where'd the little dude scamper off to this time?",
+		"Where'd the little dude scamper off to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this time?\
+",
 	},
 	next = {
 		600,

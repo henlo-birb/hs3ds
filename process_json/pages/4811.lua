@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"I failed you.",
+		"I failed you.\
+",
 	},
 	next = {
 		4812,

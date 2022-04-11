@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It looks like they lead out back to the mausoleum.",
+		"It looks like they lead out back to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the mausoleum.\
+",
 	},
 	next = {
 		1495,

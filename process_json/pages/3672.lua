@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"BREEZE.",
+		"BREEZE.\
+",
 	},
 	next = {
 		3673,

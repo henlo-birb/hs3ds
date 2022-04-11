@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"You already woke up when Jade fired her rifle a foot and a half from your eardrum, and then disappeared.",
+		"You already woke up when Jade fired\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her rifle a foot and a half from your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eardrum, and then disappeared.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This idiot here is nakking it up with your ISHADES. Someone is pestering you directly into his brainless reptilian face.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This idiot here is nakking it up with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your ISHADES. Someone is pestering you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"directly into his brainless reptilian\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face.\
+",
 	},
 	next = {
 		3035,

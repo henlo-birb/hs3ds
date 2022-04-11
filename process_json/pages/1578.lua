@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"You find your father's car near the base of the rock pillar. It is surrounded by caution tape for some reason. You are reminded to be cautious.",
+		"You find your father's car near the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"base of the rock pillar. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surrounded by caution tape for some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reason. You are reminded to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cautious.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You cautiously inspect the vehicle. To no one's surprise but yours, the package and the game are missing.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Someone is bugging you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You cautiously inspect the vehicle. To\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no one's surprise but yours, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"package and the game are missing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone is bugging you.\
+",
 	},
 	next = {
 		1579,

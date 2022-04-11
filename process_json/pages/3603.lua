@@ -14,21 +14,43 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: there was another half by scourge in two parts",
+		"AA: there was another half by scourge\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"in two parts\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AA: one part three symbols",
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"AA: one part three symbols\
+",
 	},
 	next = {
 		3604,

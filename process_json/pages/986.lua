@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Huh, that's funny. Shouldn't that place be unestablished by now?",
+		"Huh, that's funny. Shouldn't that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"place be unestablished by now?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The downpour of smaller meteors has stopped...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The downpour of smaller meteors has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stopped...\
+",
 	},
 	next = {
 		987,

@@ -12,161 +12,484 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: I Recommended She Return To Her Denizen For Advice",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: ABOUT WHAT",
+		"FGA: I Recommended She Return To Her\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Denizen For Advice\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FGA: The Location Of The Final Frog Required To Complete The Gene Sequence",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: ABOUT WHAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: One Whose Song Should Remove The Last Traces Of Dissonance From The Waveform",
+		"FGA: The Location Of The Final Frog\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: The Creature Is Quite Elusive Remember",
+		"Required To Complete The Gene Sequence\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-PCG: OH YEAH",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: YOU WERE SEARCHING FOR WEEKS",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: Yes",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: AND YOU NEVER FOUND IT",
+		"FGA: One Whose Song Should Remove The\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: I Had A Good Lead",
+		"Last Traces Of Dissonance From The\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-FGA: But You Decided There Was Not Enough Time Left To Bother With It",
+		"Waveform\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-PCG: THE RECKONING HAD STARTED.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: WE HAD TO KILL THE KING.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"FGA: The Creature Is Quite Elusive\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FGA: Understood But This Was A Matter That Really Did Require Your Attention",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"PCG: OH YEAH\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: YEAH I KNOW, BUT MAYBE I WAS SICK TO FUCKING DEATH OF MUDDLING AROUND WITH FROGS AND THEIR CACOPHONOUS GODDAMN RIBBITS AND MIXING THEIR SLIME AND SHIT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"PCG: YOU WERE SEARCHING FOR WEEKS\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: I'M NOT AN ECTO SCIENTIST NO MATTER HOW MANY GRUBS WHO TURNED OUT TO BE US THE GAME MADE ME ACCIDENTALLY MAKE.",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"FGA: Yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: AND YOU NEVER FOUND IT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"FGA: I Had A Good Lead\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"FGA: But You Decided There Was Not\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Enough Time Left To Bother With It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: THE RECKONING HAD STARTED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: WE HAD TO KILL THE KING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"FGA: Understood But This Was A Matter\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"That Really Did Require Your Attention\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: YEAH I KNOW, BUT MAYBE I WAS SICK\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TO FUCKING DEATH OF MUDDLING AROUND\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WITH FROGS AND THEIR CACOPHONOUS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GODDAMN RIBBITS AND MIXING THEIR SLIME\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"AND SHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: I'M NOT AN ECTO SCIENTIST NO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MATTER HOW MANY GRUBS WHO TURNED OUT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TO BE US THE GAME MADE ME ACCIDENTALLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MAKE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-?GG: but you are a programmer arent you? that is at least kind of like being a scientist, having some technical savvy...",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: I WAS A SHITTY PROGRAMMER. AND ANYWAY I ONLY PROGRAMMED VIRUSES.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: SHITTY VIRUSES.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-PCG: I SHOULDN'T HAVE TO BE A SLIME TECHNICIAN OR A FROG FARMER OR A MYSTICAL FUCKING CROAK DECODER. I'M A WARRIOR AND A LEADER AND A COLD BLOODED KILLER.",
+		"?GG: but you are a programmer arent\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-?GG: we know! you are clearly very good at being all of those things",
+		"you? that is at least kind of like\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"being a scientist, having some\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"technical savvy...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: but now we need your help with frog science. can you help us?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: I WAS A SHITTY PROGRAMMER. AND\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ANYWAY I ONLY PROGRAMMED VIRUSES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: SHITTY VIRUSES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: I SHOULDN'T HAVE TO BE A SLIME\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TECHNICIAN OR A FROG FARMER OR A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MYSTICAL FUCKING CROAK DECODER. I'M A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WARRIOR AND A LEADER AND A COLD\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BLOODED KILLER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"?GG: we know! you are clearly very\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"good at being all of those things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"?GG: but now we need your help with\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"frog science. can you help us?\
+",
 	},
 	next = {
 		3978,

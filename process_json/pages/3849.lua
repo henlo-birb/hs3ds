@@ -12,90 +12,281 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-arachnidsGrip [AG]",
+		"arachnidsGrip [AG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began trolling ",
+		"began trolling\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"tentacleTherapist [TT]",
+		"tentacleTherapist [TT]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: John!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-AG: John!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: You're heading into the 8lackout, so I won't 8e a8le to see you until you leave.",
+		"AG: You're heading into the 8lackout,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: 8ut don't worry, I can still sense you are there. 8ecause of awesome powers, remem8er?",
+		"so I won't 8e a8le to see you until\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you leave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Smooth move, ditching your computer like that, 8y the way. That was some incredi8le leadership you showed!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Now I have to contact you through Rose, thus exposing me to the risk of actually having to taaaaaaaalk to her........",
+		"AG: 8ut don't worry, I can still sense\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Your carelessness has put the Heroes of Light in a very awkward position, John. I hope you're satisfied.",
+		"you are there. 8ecause of awesome\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"powers, remem8er?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Hahahaha, just kidding. She's o8viously a little too \"preoccupied\" at the moment to 8e sassing me.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Just 8orrow her computer and talk to me when you get the chance, ok?",
+		"AG: Smooth move, ditching your\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"computer like that, 8y the way. That\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was some incredi8le leadership you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"showed!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I will 8e waiting. ::::)",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Now I have to contact you through\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Rose, thus exposing me to the risk of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"actually having to taaaaaaaalk to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her........\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Your carelessness has put the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Heroes of Light in a very awkward\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"position, John. I hope you're\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"satisfied.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Hahahaha, just kidding. She's\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"o8viously a little too \"preoccupied\"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"at the moment to 8e sassing me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Just 8orrow her computer and talk\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to me when you get the chance, ok?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I will 8e waiting. ::::)\
+",
 	},
 	next = {
 		3850,

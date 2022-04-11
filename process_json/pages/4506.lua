@@ -13,7 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Need to get this bullshit out of the way. You can't work like this with everything jammed down there in the corner. It's bad enough you're hammered.",
+		"Need to get this bullshit out of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way. You can't work like this with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everything jammed down there in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"corner. It's bad enough you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hammered.\
+",
 	},
 	next = {
 		4507,

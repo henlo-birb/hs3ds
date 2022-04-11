@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"You have no other choice. You are going in. ",
+		"You have no other choice. You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"going in.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-CLEVER DISGUISE, it's time to work your magic.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CLEVER DISGUISE, it's time to work\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your magic.\
+",
 	},
 	next = {
 		88,

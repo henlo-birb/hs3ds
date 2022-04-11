@@ -12,158 +12,337 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Gasp. ROXY! She's a treasure.",
+		"Gasp. ROXY! She's a treasure.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" This skull! Absolutely exquisite.",
+		"This skull! Absolutely exquisite.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" So smooth to the touch and full of luster! So macabre, so... sublimely EXSANGUINOUS! :3",
+		"So smooth to the touch and full of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"luster! So macabre, so... sublimely\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"EXSANGUINOUS! :3\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Quite the fetching artifact to keep propped on such a smartly dressed pair of shoulders.",
+		"Quite the fetching artifact to keep\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Could you maybe stop pawing at her?",
+		"propped on such a smartly dressed pair\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"of shoulders.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: It's creepy.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Could you maybe stop pawing at\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"her?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It's creepy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" The suit! Spectacular. Tailored yourself I gather?",
+		"The suit! Spectacular. Tailored\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"yourself I gather?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" You have no idea what a burning desire I have to get hair on it but don't worry I won't!",
+		"You have no idea what a burning desire\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"I have to get hair on it but don't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"worry I won't!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Oh my god her eyes. Perfect glass! Like a priceless doll's.",
+		"Oh my god her eyes. Perfect glass!\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Like a priceless doll's.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Tis a special friend you pulled from the dead Roxy.",
+		"Tis a special friend you pulled from\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the dead Roxy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Thank you for sharing this gift with us.",
+		"Thank you for sharing this gift with\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"us.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" *Mrr... chirp!*",
+		"*Mrr... chirp!*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: :O",
+		"ROXY: :O\
+",
 	},
 	next = {
 		7650,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"But the monitor has not lost track of the lady.",
+		"But the monitor has not lost track of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the lady.\
+",
 	},
 	next = {
 		1886,

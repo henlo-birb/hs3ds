@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"It'll be a few more pages.",
+		"It'll be a few more pages.\
+",
 	},
 	next = {
 		1934,

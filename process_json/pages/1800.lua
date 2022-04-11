@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Somewhere, a WARWEARY VILLEIN rues eternal struggle between feuding royalty.",
+		"Somewhere, a WARWEARY VILLEIN rues\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eternal struggle between feuding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"royalty.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The BATTLEFIELD holds little promise for the peaceful life of a simple farmer.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The BATTLEFIELD holds little promise\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the peaceful life of a simple\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"farmer.\
+",
 	},
 	next = {
 		1801,

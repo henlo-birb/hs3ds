@@ -13,23 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You make the BRONZED VACUUMBRELLA.",
+		"You make the BRONZED VACUUMBRELLA.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Useless.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you're still getting warmed up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Useless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you're still getting warmed up.\
+",
 	},
 	next = {
 		1805,

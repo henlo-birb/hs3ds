@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"OH GOD HOW CAN SHAVING CREAM BE SO FLAMMABLE",
+		"OH GOD HOW CAN SHAVING CREAM BE SO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FLAMMABLE\
+",
 	},
 	next = {
 		1487,

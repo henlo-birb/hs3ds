@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"And that was how that stuff happened.",
+		"And that was how that stuff happened.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The bunny didn't make it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The bunny didn't make it.\
+",
 	},
 	next = {
 		5029,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"That should get the guy's attention.",
+		"That should get the guy's attention.\
+",
 	},
 	next = {
 		4899,

@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Everyone is dead. ",
+		"Everyone is dead.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Everyone except you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Everyone except you.\
+",
 	},
 	next = {
 		2660,

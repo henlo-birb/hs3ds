@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"MY SKULL TURNS GIDDY, AND SINISTER. BECAUSE I KNOW IN MY HEART THAT TRULY, THEY ARE ABOUT TO GET OWNED.",
+		"MY SKULL TURNS GIDDY, AND SINISTER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BECAUSE I KNOW IN MY HEART THAT TRULY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THEY ARE ABOUT TO GET OWNED.\
+",
 	},
 	next = {
 		7420,

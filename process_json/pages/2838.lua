@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"N8p time.",
+		"N8p time.\
+",
 	},
 	next = {
 		2839,

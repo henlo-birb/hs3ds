@@ -13,15 +13,36 @@ return {
 			0,
 			0,
 		},
-		"Soon the WRIT KEEPER will awaken and serve his new queen.",
+		"Soon the WRIT KEEPER will awaken and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"serve his new queen.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is then that her work may begin.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is then that her work may begin.\
+",
 	},
 	next = {
 		3263,

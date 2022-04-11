@@ -14,15 +14,64 @@ return {
 			0,
 			0,
 		},
-		"You suddenly remember you are Diamonds Droog.",
+		"You suddenly remember you are Diamonds\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Droog.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoever took your hat is about to discover he's the unluckiest man on earth. He better hope you find him dead. What you're gonna do to him will be much less painful that way.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoever took your hat is about to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"discover he's the unluckiest man on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earth. He better hope you find him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dead. What you're gonna do to him will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be much less painful that way.\
+",
 	},
 	next = {
 		1199,

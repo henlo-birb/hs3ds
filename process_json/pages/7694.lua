@@ -12,798 +12,2696 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
 		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: hay!! hope you dont mind i\
+",
+		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"pulled you off to the side like this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: hay!! hope you dont mind i pulled you off to the side like this",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: away from other nice pals for a\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"lil one + one rox & cal time\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: away from other nice pals for a lil one + one rox & cal time",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: i might b greedy as shit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i don't mind at all!\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: i might b greedy as shit!",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i'm still getting Used to\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"the concept of in-person socialization\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"at all, let alone with many people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i don't mind at all!",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: and yes, yoU MAY be greedy,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"bUt if so, then so am i by the exact\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"same standard. ^u^\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: fffuck yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: like a couple of friendship\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"burglars pickin each others pockets\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"all shifty eyed and lookin out for\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"cops\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: but also giggling i guess\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"because that is in the spirit of the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"scenario in question\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i'm still getting Used to the concept of in-person socialization at all, let alone with many people.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"CALLIOPE: heheh. yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i cant believe youre really here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
+		"ROXY: it hardly seems real!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: and yes, yoU MAY be greedy, bUt if so, then so am i by the exact same standard. ^u^",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: after all these years and how u\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"were just like a mystery friend online\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"and then how worried i was we might\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"lose you for good\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: fffuck yes",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: but now......\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: like a couple of friendship burglars pickin each others pockets all shifty eyed and lookin out for cops",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: wow\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: but also giggling i guess because that is in the spirit of the scenario in question",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"CALLIOPE: i know!!!\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: heheh. yes.",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: so u and jane and jade were\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"hangin out?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: yes!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: it was great.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: we drew and told stories.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i'd heard yoU died, so i was\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"holding oUt some hope that yoU woUld\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"show Up too...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: and yoU did eventUally. jUst\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"not the version of yoU i expected.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i never dared to think yoU\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"woUld bring me this gift.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: i cant believe youre really here",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: it hardly seems real!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: i swore i would\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: after all these years and how u were just like a mystery friend online and then how worried i was we might lose you for good",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: and john kinda double swore he\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"would help\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: but now......",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: damn the kid is persistent\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i like him.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: wow",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"CALLIOPE: he is easy to talk to.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i know!!!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: yeah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i've read aboUt him, of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"coUrse.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: the reality of someone\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"standing in front of yoU is qUite\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"different from what yoU read aboUt\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"them in a text.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: bUt then, i have no idea how\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"accUrate anything i read is anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i always believed i was in\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"possession of the texts which decoded\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"yoUr fUtUre, and i behaved toward all\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"of yoU in that sly and knowing manner,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"avoiding \"spoilers\" and sUch.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: that was probably\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"presUmptUoUs of me thoUgh, in\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"hindsight. i clearly didn't know that\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"mUch.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i certainly didn't read\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"anything aboUt my own involvement. i\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"never coUld have imagined being here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: you were still helpful though!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: you were the force in our lives\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"that gave us hope that we could all\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"get together some day\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: going down that road has been\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"craaazy and by no means a smooth ride\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: im losin count of all the times\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"it looked like everything was about to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"break or catch fire or actually DID\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"break and catch fire resulting in\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"loads of dismay\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: but when you look back, every\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"time things went to shit there was\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"always something constructive about\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"that turn of events\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: something that was necessary for\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the good outcome to happen at all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: so whenever something stupid\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"happens like some a-hole gets a\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"bonehead idea to steal a ring and then\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"everyone dies horribly and at the TIME\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"u think ur just gonna curl up and cry\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"yourself into weepy nonexistence\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: maybe those arent even \"bad\"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"realities?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: maybe they are as important as\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: and so are all the experiences\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"that u had in them and so are the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"experiences of everyone who died\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"because you dont just get to say your\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"experiences are more important or\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"significant just cus you happened to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"be someone who survived longer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i guess what im saying is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: im grateful you let me go on\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"this adventure and not even in spite\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"of the hardship it involved\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: i just had a little time to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"think about it in the firefly\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"nothingspace\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: and i think all of it was good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i'm happy that i coUld play\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sUch a role in yoUr lives.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i don't know if i deserve\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"mUch credit for these positive\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"revelations aboUt yoUr joUrney thoUgh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: yoU are the one who's been\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"on the adventUre.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i have barely taken my first\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"step.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i spent all my life in my\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"room, and then every moment in the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"afterlife cowering in fear.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: it's only now that trUe\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"participation is even a possibility.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: bUt even so, i really doUbt\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"i'll have mUch to offer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: my other self who i jUst\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"released... i think she is poised to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"do something mUch more significant.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: what do you think shell do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i have no clUe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: but she told u to live right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: by which i can only assume she\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"meant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: yo live it UP girl\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: like uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: go shopping or something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: or rocket down the highway in a\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"convertible with cash flyin out the\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"back??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: heh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: that is not the sort of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sentiment i can imagine coming from\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"her Under any circUmstance.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: bUt yes, maybe something to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"the effect of encoUraging me to enjoy\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"my existence, as commUnicated by a\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"more typical, trUly asocial member of\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"my species.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: really, what i took from it\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"was...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: she is the \"real\" one, with\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"all the power and relevance now, and i\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"am the \"spare\". a civilian in a sense,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"like in a war.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: and the only Use for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"civilians, from a militaristic\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"mindset, are as those who live their\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"lives in whatever completely\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"irrelevant way they choose to.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: they are the collateral at\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"stake, the ones for whom the war is\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"theoretically foUght, bUt whose\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"lifestyles, choices, happiness and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sUch, hold no concern whatsoever for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"those fighting on their behalf.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: this i think is the mindset\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"of cherUbs of her alignment. as\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"protectors, it is the relationship\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"they have with those they protect.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: and so that is probably the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"relationship she believes she has with\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: you make it sound like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: she is the legit callie\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: and you are the afterthought\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: like the one from the funky\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"reality that didnt go right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: technically, her timeline\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"was doomed, by her predomination\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"alone.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: even so, yes, it does feel\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"as thoUgh my reality was the oddity.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: cherUbs were never sUpposed\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"to grow Up like me. exposed to other\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"caring people, and learning from them.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: so u and jane and jade were hangin out?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: yes!",
+		"CALLIOPE: it made me different, and\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: it was great.",
+		"Unfit to predominate. yet ironically,\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: we drew and told stories.",
+		"this was reqUisite for the timeline's\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"sUccess.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i'd heard yoU died, so i was holding oUt some hope that yoU woUld show Up too...",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: and yoU did eventUally. jUst not the version of yoU i expected.",
+		"CALLIOPE: and it was necessary for yoU\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
+		},
+		"all to begin yoUr joUrney as well.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i never dared to think yoU woUld bring me this gift.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: so this seems like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: well",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i swore i would",
+		"ROXY: an example of what i was just\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"sayin actually\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: and john kinda double swore he would help",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
-		},
-		"\
-ROXY: damn the kid is persistent",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
 		},
-		"\
-CALLIOPE: i like him.",
+		"ROXY: the story of the two callies\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: he is easy to talk to.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: yeah!",
+		"ROXY: neither is really \"more\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: i've read aboUt him, of coUrse.",
+		"important\"\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: the reality of someone standing in front of yoU is qUite different from what yoU read aboUt them in a text.",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: bUt then, i have no idea how accUrate anything i read is anymore.",
+		"ROXY: and your timelines cant really\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: i always believed i was in possession of the texts which decoded yoUr fUtUre, and i behaved toward all of yoU in that sly and knowing manner, avoiding \"spoilers\" and sUch.",
+		"be described as the good one or the\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: that was probably presUmptUoUs of me thoUgh, in hindsight. i clearly didn't know that mUch.",
+		"bad one\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i certainly didn't read anything aboUt my own involvement. i never coUld have imagined being here.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: you were still helpful though!",
+		"ROXY: there were good and bad things\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: you were the force in our lives that gave us hope that we could all get together some day",
+		"about both ways stuff went down and\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: going down that road has been craaazy and by no means a smooth ride",
+		"different qualities to the people you\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"became\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: im losin count of all the times it looked like everything was about to break or catch fire or actually DID break and catch fire resulting in loads of dismay",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: but when you look back, every time things went to shit there was always something constructive about that turn of events",
+		"ROXY: her life sounds like it was\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"harsh and lonely in its own way\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: something that was necessary for the good outcome to happen at all",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: so whenever something stupid happens like some a-hole gets a bonehead idea to steal a ring and then everyone dies horribly and at the TIME u think ur just gonna curl up and cry yourself into weepy nonexistence",
+		"ROXY: but it sorta paid off cause she\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"got to beat her brother\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: maybe those arent even \"bad\" realities?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: maybe they are as important as any",
+		"ROXY: but then got arbitrarily\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and so are all the experiences that u had in them and so are the experiences of everyone who died because you dont just get to say your experiences are more important or significant just cus you happened to be someone who survived longer",
+		"punished for that outcome because it\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"wasnt supposed to happen??\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: i guess what im saying is",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: im grateful you let me go on this adventure and not even in spite of the hardship it involved",
+		"ROXY: and then finally u meet her and\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i just had a little time to think about it in the firefly nothingspace",
+		"\"free\" her or something so she\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and i think all of it was good",
+		"presumably gets to go off and do...\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: i'm happy that i coUld play sUch a role in yoUr lives.",
+		"something badass???\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i don't know if i deserve mUch credit for these positive revelations aboUt yoUr joUrney thoUgh.",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: yoU are the one who's been on the adventUre.",
+		"ROXY: then theres you\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: i have barely taken my first step.",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: i spent all my life in my room, and then every moment in the afterlife cowering in fear.",
+		"ROXY: who had probably an even more\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: it's only now that trUe participation is even a possibility.",
+		"challenging upbringing gettin so\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: bUt even so, i really doUbt i'll have mUch to offer.",
+		"hassled by your bro\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: my other self who i jUst released... i think she is poised to do something mUch more significant.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: what do you think shell do",
+		"ROXY: and he killed you i guess\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: i have no clUe.",
+		"because the way the deck was shuffled\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: but she told u to live right",
+		"he had the edge this time\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: yes.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: by which i can only assume she meant",
+		"ROXY: but the upshot was you got to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: yo live it UP girl",
+		"have all these great friends who cared\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"about you\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: like uh",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: go shopping or something",
+		"ROXY: and it helped you become the\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: or rocket down the highway in a convertible with cash flyin out the back??",
+		"nice person you are who means a lot to\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: heh.",
+		"other people\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: that is not the sort of sentiment i can imagine coming from her Under any circUmstance.",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: bUt yes, maybe something to the effect of encoUraging me to enjoy my existence, as commUnicated by a more typical, trUly asocial member of my species.",
+		"ROXY: and now\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: really, what i took from it was...",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: she is the \"real\" one, with all the power and relevance now, and i am the \"spare\". a civilian in a sense, like in a war.",
+		"ROXY: you get to live whatever kind of\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: and the only Use for civilians, from a militaristic mindset, are as those who live their lives in whatever completely irrelevant way they choose to.",
+		"life you want and be completely free\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: they are the collateral at stake, the ones for whom the war is theoretically foUght, bUt whose lifestyles, choices, happiness and sUch, hold no concern whatsoever for those fighting on their behalf.",
+		"from all the crummy stuff you grew up\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: this i think is the mindset of cherUbs of her alignment. as protectors, it is the relationship they have with those they protect.",
+		"with\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: and so that is probably the relationship she believes she has with me.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: you make it sound like",
+		"ROXY: who cares if you arent as strong\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: she is the legit callie",
+		"as her or dont have the wicked powers\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and you are the afterthought",
+		"she does or some \"important\" mission\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: like the one from the funky reality that didnt go right?",
+		"to do\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: technically, her timeline was doomed, by her predomination alone.",
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: even so, yes, it does feel as thoUgh my reality was the oddity.",
+		"ROXY: you both came from perfectly\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: cherUbs were never sUpposed to grow Up like me. exposed to other caring people, and learning from them.",
+		"legitimate realities and IMHO you are\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
 		},
-		"\
-CALLIOPE: it made me different, and Unfit to predominate. yet ironically, this was reqUisite for the timeline's sUccess.",
+		"both equally valuable\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: and it was necessary for yoU all to begin yoUr joUrney as well.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: so this seems like",
+		"ROXY: and both of those realities seem\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: an example of what i was just sayin actually",
+		"to be tied together\
+",
 		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: the story of the two callies",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: neither is really \"more important\"",
+		"ROXY: she cant do her mysterious\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and your timelines cant really be described as the good one or the bad one",
+		"badass thing unless you make it all\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: there were good and bad things about both ways stuff went down and different qualities to the people you became",
+		"the way through your journey and free\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"her\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: her life sounds like it was harsh and lonely in its own way",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: but it sorta paid off cause she got to beat her brother",
+		"ROXY: and your reality was the thing\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: but then got arbitrarily punished for that outcome because it wasnt supposed to happen??",
+		"settin the stage for this huge\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and then finally u meet her and \"free\" her or something so she presumably gets to go off and do... something badass???",
+		"multiversal vortex of problems which\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: then theres you",
+		"after a kajillion fuckin EPOCHS she\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: who had probably an even more challenging upbringing gettin so hassled by your bro",
+		"was always meant to resolve in some\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"way\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: and he killed you i guess because the way the deck was shuffled he had the edge this time",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: but the upshot was you got to have all these great friends who cared about you",
+		"ROXY: and that doesnt mean your life\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and it helped you become the nice person you are who means a lot to other people",
+		"was like... a means to an end in a big\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"cosmic sense\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: and now",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"ROXY: i think its more like...\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: you get to live whatever kind of life you want and be completely free from all the crummy stuff you grew up with",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: who cares if you arent as strong as her or dont have the wicked powers she does or some \"important\" mission to do",
+		"ROXY: you ARE the end, or one of the\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ends\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: you both came from perfectly legitimate realities and IMHO you are both equally valuable",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and both of those realities seem to be tied together",
+		"ROXY: you and me and everyone who made\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
+		},
+		"it and everyone who didnt\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-ROXY: she cant do her mysterious badass thing unless you make it all the way through your journey and free her",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and your reality was the thing settin the stage for this huge multiversal vortex of problems which after a kajillion fuckin EPOCHS she was always meant to resolve in some way",
+		"ROXY: so that means you dont have to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: and that doesnt mean your life was like... a means to an end in a big cosmic sense",
+		"be able to do a lot of super special\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: i think its more like...",
+		"shit to validate your identity as the\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"real version of yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: you ARE the end, or one of the ends",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: you and me and everyone who made it and everyone who didnt",
+		"ROXY: the only validation you need is\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: so that means you dont have to be able to do a lot of super special shit to validate your identity as the real version of yourself",
+		"being who you are cause no one can be\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: the only validation you need is being who you are cause no one can be that person but you!",
+		"that person but you!\
+",
 	},
 	next = {
 		7695,

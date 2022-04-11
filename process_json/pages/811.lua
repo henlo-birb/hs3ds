@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"Congratulations, you advance your matching skill to the new level: YUKON HERO: LEGACY OF THE FROSTBITE AMPUTEE.",
+		"Congratulations, you advance your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matching skill to the new level: YUKON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HERO: LEGACY OF THE FROSTBITE AMPUTEE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jade is beginning to regret breaking the fourth wall for this ill advised escapade.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jade is beginning to regret breaking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the fourth wall for this ill advised\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"escapade.\
+",
 	},
 	next = {
 		812,

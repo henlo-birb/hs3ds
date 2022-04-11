@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"COUNT SOM-E WOOLB-EASTS BITC)(",
+		"COUNT SOM-E WOOLB-EASTS BITC)(\
+",
 	},
 	next = {
 		4644,

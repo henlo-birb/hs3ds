@@ -12,49 +12,190 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: But before we could badger hapless pals in the slammer, there was work to be done.",
+		"JANE: But before we could badger\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: We were to prepare for the others, scheduled to arrive shortly on a meteor from the furthest ring.",
+		"hapless pals in the slammer, there was\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"work to be done.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I was ordered to build up the houses on our planets to reach Skaia. The witch said it was critical to her plans.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: Whereas Jade was told to intercept the meteor, and scatter all her friends on the four new planets.",
+		"JANE: We were to prepare for the\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: They were all to be separated into pairs, and prepared to receive instruction to help us advance the cause.",
+		"others, scheduled to arrive shortly on\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"a meteor from the furthest ring.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: But then, something went wrong. Something fully unanticipated, even by the Witch!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I was ordered to build up the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"houses on our planets to reach Skaia.\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"The witch said it was critical to her\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"plans.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: Whereas Jade was told to\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"intercept the meteor, and scatter all\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"her friends on the four new planets.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: They were all to be separated\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"into pairs, and prepared to receive\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"instruction to help us advance the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"cause.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: But then, something went wrong.\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"Something fully unanticipated, even by\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"the Witch!\
+",
 	},
 	next = {
 		7270,

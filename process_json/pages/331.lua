@@ -14,15 +14,78 @@ return {
 			0,
 			0,
 		},
-		"You don't remember where you last left off, so you jump way ahead. You always forget to save your place in the story.",
+		"You don't remember where you last left\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off, so you jump way ahead. You always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forget to save your place in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"story.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like tempers have become short in this pressure cooker already. You speculate that the tipping point may have been an ill-advised motion for a game of 52 PICKUP.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like tempers have become\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"short in this pressure cooker already.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You speculate that the tipping point\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"may have been an ill-advised motion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a game of 52 PICKUP.\
+",
 	},
 	next = {
 		332,

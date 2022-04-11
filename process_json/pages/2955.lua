@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"There is so much left for him to do.",
+		"There is so much left for him to do.\
+",
 	},
 	next = {
 		2956,

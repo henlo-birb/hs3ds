@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You've read this a million times already. It's one of your favorite gifts. ",
+		"You've read this a million times\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already. It's one of your favorite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gifts.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Another gander at it sure couldn't hurt.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Another gander at it sure couldn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hurt.\
+",
 	},
 	next = {
 		4439,

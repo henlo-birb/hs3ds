@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"It seems he has been collecting scraps from the news over the years. These articles go back decades.",
+		"It seems he has been collecting scraps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from the news over the years. These\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"articles go back decades.\
+",
 	},
 	next = {
 		546,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the VIOLIN, storing it the ROOT CARD of your SYLLADEX.",
+		"You captchalogue the VIOLIN, storing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it the ROOT CARD of your SYLLADEX.\
+",
 	},
 	next = {
 		222,

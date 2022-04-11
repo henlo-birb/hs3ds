@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Soon, friends will arrive. They will need your help.",
+		"Soon, friends will arrive. They will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"need your help.\
+",
 	},
 	next = {
 		3570,

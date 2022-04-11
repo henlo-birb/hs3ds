@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"It comes in great supply from your planet's star, a MASSIVE RED SUPERGIANT.",
+		"It comes in great supply from your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"planet's star, a MASSIVE RED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SUPERGIANT.\
+",
 	},
 	next = {
 		5124,

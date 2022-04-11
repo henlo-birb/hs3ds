@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"Another textbook impaling. Your perp has been busy tonight.",
+		"Another textbook impaling. Your perp\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has been busy tonight.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait... there appears to be a pair of smaller marks on the victim's neck.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait... there appears to be a pair of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smaller marks on the victim's neck.\
+",
 	},
 	next = {
 		3436,

@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-AT: bUT FOR YOU IT WAS VERY LONG AGO,",
+		"AT: bUT FOR YOU IT WAS VERY LONG AGO,\
+",
 	},
 	next = {
 		3051,

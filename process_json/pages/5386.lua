@@ -12,441 +12,1380 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Yeah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Yeah!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Oh, sorry. I really should\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"have introduced myself. I guess I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"forgot I technically never met this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"version of you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Oh, sorry. I really should have introduced myself. I guess I forgot I technically never met this version of you.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: uh. that's alright. nice to meet you.",
+		"JOHN: uh. that's alright. nice to meet\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: wait...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: are you a ghost too?",
+		"JOHN: wait...\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Yep.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: so... you're dead?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Yes, John. That's what 8eing a ghost means.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: are you a ghost too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok, i'm still confused though...",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: so... you're dead?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: sorry if i sound dumb, but dream bubbles are still kind of baffling to me.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yes, John. That's what 8eing a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ghost means.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok, i'm still confused though...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: you're, uh... \"REALLY\" dead?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: as in, the real you? i mean... dang, what the hell am i even trying to ask here...",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: No, I get what you're asking.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Yes, the real me. The actual, legit, fully authentic alpha timeline Vriska. Dead. Gone. Fuckin' toast.",
+		"JOHN: sorry if i sound dumb, but dream\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: oh.",
+		"bubbles are still kind of baffling to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: so when i meet up with everyone on your troll meteor in a year, that means...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: you'll be...",
+		"JOHN: you're, uh... \"REALLY\" dead?\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: A corpse!!!!!!!!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: That's assuming my 8ody was sufficiently preserved during the trip.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Which, now that I think a8out it, I guess it was? It must have 8een, 8ecause otherwise that unspeaka8le prototyping atrocity couldn't have happened.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: That piece of shit clown. I still have no idea what the deal with that was! He's completely lost his mind. Anyway, that's neither here nor there.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Honestly, I'm surprised you hadn't already heard I was dead, one way or another. It's kind of old news?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Then again, these things are all relative. So who knows.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ...",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Are you ok? You seem sad.",
+		"JOHN: as in, the real you? i mean...\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: well,",
+		"dang, what the hell am i even trying\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"to ask here...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yeah.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No, I get what you're asking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yes, the real me. The actual,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"legit, fully authentic alpha timeline\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Vriska. Dead. Gone. Fuckin' toast.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: it's always sad to hear a friend died. even if you find out about it from their ghost.",
+		"JOHN: oh.\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: I guess so.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: also, i had kind of thought that when we all arrived at the new session, that...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: we were going to like... hang out. or something.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Oh yeah! That's right. We were.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: 8ut then I got sta88ed through the 8ack. Which to 8e fair, was for the good of the party, so the meteor could make the trip in the first place, and keep this whole crazy sequence of events intact.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Not gonna lie. I made some mistakes.",
+		"JOHN: so when i meet up with everyone\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: wow. what even happened out there?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Just some pointless, deadly teen drama. Mostly 8rought on 8y ourselves, all acting like juvenile idiots. Like I said, old news.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: VERY old for me. I've 8een here a pretty long time now.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: A lot has happened since I died. John, did you know the little rendezvous we planned sort of already happened? I mean, in a way.",
+		"on your troll meteor in a year, that\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: what? it did?",
+		"means...\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Yes. With your ghost.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: you'll be...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: huh??",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: A corpse!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: I mean, the ghost of one of your altern8te selves, who died along the way doing some stupid thing.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: That's assuming my 8ody was\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sufficiently preserved during the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"trip.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Actually, he and I d8ted for a little while.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Which, now that I think a8out\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it, I guess it was? It must have 8een,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ecause otherwise that unspeaka8le\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"prototyping atrocity couldn't have\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: That piece of shit clown. I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"still have no idea what the deal with\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that was! He's completely lost his\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mind. Anyway, that's neither here nor\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Honestly, I'm surprised you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"hadn't already heard I was dead, one\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"way or another. It's kind of old news?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Then again, these things are\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"all relative. So who knows.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Are you ok? You seem sad.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: well,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it's always sad to hear a friend\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"died. even if you find out about it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"from their ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I guess so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: also, i had kind of thought that\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"when we all arrived at the new\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"session, that...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: we were going to like... hang\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"out. or something.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Oh yeah! That's right. We\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"were.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8ut then I got sta88ed through\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the 8ack. Which to 8e fair, was for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the good of the party, so the meteor\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"could make the trip in the first\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"place, and keep this whole crazy\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sequence of events intact.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Not gonna lie. I made some\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mistakes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: wow. what even happened out\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"there?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Just some pointless, deadly\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"teen drama. Mostly 8rought on 8y\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ourselves, all acting like juvenile\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"idiots. Like I said, old news.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: VERY old for me. I've 8een\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"here a pretty long time now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: A lot has happened since I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"died. John, did you know the little\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"rendezvous we planned sort of already\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"happened? I mean, in a way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what? it did?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yes. With your ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: huh??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I mean, the ghost of one of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"your altern8te selves, who died along\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the way doing some stupid thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Actually, he and I d8ted for a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"little while.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: wHOA, hOLD ON,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: wHOA, hOLD ON,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: wHAT'S THIS, aBOUT DATING WHO?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: wHAT'S THIS, aBOUT DATING WHO?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Groan. Here we go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Groan. Here we go.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: wHY DIDN'T YOU TELL ME, aBOUT THAT,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Tavros, I have led a rich and complic8ted life and death. I can hardly 8e expected to tell you a8out every little thing that I've 8een through.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: 8esides, you should have already known this a8out me.",
+		"TAVROS: wHY DIDN'T YOU TELL ME, aBOUT\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"THAT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: wHY,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: 8ecause we shared a sprite 8ody once!!!!!!!! We 8riefly had access to all each others memories and feelings.",
+		"VRISKA: Tavros, I have led a rich and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: So if you didn't take the chance to dig that out of my memory, you only have yourself to 8lame.",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: nO, bUT, tHAT HARDLY LASTED ANY TIME AT ALL,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: aND THERE WERE A LOT, oF OVERWHELMING EXPERIENCES ALL HAPPENING AT ONCE,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: hOW COULD i TRY TO REMEMBER ALL YOUR MEMORIES BEFORE WE EXPLODED,",
+		"complic8ted life and death. I can\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Well, all I can say is, I managed! I took the opportunity to remem8er pretty much all YOUR memories.",
+		"hardly 8e expected to tell you a8out\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I was in and out like a 8andit, and now all your life experiences are mine.",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: tHAT'S NOT FAIR,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: bECAUSE, yOU'RE SMARTER THAN ME, aND MORE CUNNING,",
+		"every little thing that I've 8een\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"through.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Them's the 8r8ks!!!!!!!!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8esides, you should have\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"already known this a8out me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: wHY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8ecause we shared a sprite\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ody once!!!!!!!! We 8riefly had\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"access to all each others memories and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"feelings.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: So if you didn't take the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"chance to dig that out of my memory,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you only have yourself to 8lame.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO, bUT, tHAT HARDLY LASTED\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"ANY TIME AT ALL,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: aND THERE WERE A LOT, oF\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"OVERWHELMING EXPERIENCES ALL HAPPENING\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AT ONCE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: hOW COULD i TRY TO REMEMBER\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"ALL YOUR MEMORIES BEFORE WE EXPLODED,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Well, all I can say is, I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"managed! I took the opportunity to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"remem8er pretty much all YOUR\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"memories.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I was in and out like a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8andit, and now all your life\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"experiences are mine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: tHAT'S NOT FAIR,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: bECAUSE, yOU'RE SMARTER THAN\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"ME, aND MORE CUNNING,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Them's the 8r8ks!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: wait, i'm with tavros here, i think we should back this up a bit.",
+		"JOHN: wait, i'm with tavros here, i\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"think we should back this up a bit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: so, my alternate reality ghost dated you?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: so, my alternate reality ghost\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"dated you?\
+",
 	},
 	next = {
 		5387,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"He was so much easier to deal with when he was alive.",
+		"He was so much easier to deal with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when he was alive.\
+",
 	},
 	next = {
 		921,

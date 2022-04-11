@@ -14,7 +14,22 @@ return {
 			0,
 			0,
 		},
-		"An outrageously awesome dude stands before a crater where his favorite record shop stood one day prior.",
+		"An outrageously awesome dude stands\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before a crater where his favorite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"record shop stood one day prior.\
+",
 	},
 	next = {
 		1879,

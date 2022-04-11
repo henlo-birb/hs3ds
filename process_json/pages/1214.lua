@@ -12,13 +12,22 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Die ",
+		"Die\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"scrambles for a PIN he's been saving for a special occasion.",
+		"scrambles for a PIN he's been saving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a special occasion.\
+",
 	},
 	next = {
 		1215,

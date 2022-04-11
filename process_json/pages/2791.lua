@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You cannot be Past Karkat because in the past, Past Karkat is asleep!",
+		"You cannot be Past Karkat because in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the past, Past Karkat is asleep!\
+",
 	},
 	next = {
 		2792,

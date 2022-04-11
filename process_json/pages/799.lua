@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You gather all your dolls into a rather cozy looking pile.",
+		"You gather all your dolls into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather cozy looking pile.\
+",
 	},
 	next = {
 		800,

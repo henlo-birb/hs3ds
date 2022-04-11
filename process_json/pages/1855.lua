@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You drop it on the john in case you're looking for some reading material later.",
+		"You drop it on the john in case you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looking for some reading material\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"later.\
+",
 	},
 	next = {
 		1856,

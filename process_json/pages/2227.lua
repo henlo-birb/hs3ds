@@ -13,7 +13,57 @@ return {
 			0,
 			0,
 		},
-		"And just what do you think YOU'RE looking at??? Keep your cold, mechanical judgment to yourself. As if your own record is so spotless! Don't forget who made you. Oh, what's that? My, that is a smart mouth you have. That was the last straw. An example must be made of this insubordination.",
+		"And just what do you think YOU'RE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looking at??? Keep your cold,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mechanical judgment to yourself. As if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your own record is so spotless! Don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forget who made you. Oh, what's that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"My, that is a smart mouth you have.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That was the last straw. An example\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must be made of this insubordination.\
+",
 	},
 	next = {
 		2228,

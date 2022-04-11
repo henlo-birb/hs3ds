@@ -12,28 +12,57 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: hang on man ive got to take this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: hang on man ive got to take this",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: wonder who this could be\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: wonder who this could be",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: mayor ill be just a second with this i promise",
+		"DAVE: mayor ill be just a second with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"this i promise\
+",
 	},
 	next = {
 		6396,

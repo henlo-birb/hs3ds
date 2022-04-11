@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"The pesky SPRITE eludes you again! Not even the great Colonel himself can outfox it!!!",
+		"The pesky SPRITE eludes you again! Not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even the great Colonel himself can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outfox it!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In narrowly missing with your attempt to create the COLONELSPRITE, you drop the massive tome. The entire house rattles under the astonishing girth of the book.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In narrowly missing with your attempt\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to create the COLONELSPRITE, you drop\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the massive tome. The entire house\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rattles under the astonishing girth of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the book.\
+",
 	},
 	next = {
 		281,

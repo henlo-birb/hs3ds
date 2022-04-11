@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You cannot select a PLAYER!",
+		"You cannot select a PLAYER!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-JOHN abjures the meddlesome cursor.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JOHN abjures the meddlesome cursor.\
+",
 	},
 	next = {
 		146,

@@ -12,23 +12,78 @@ return {
 			0,
 			0,
 		},
-		"And even meanerwhile, in the present. Sort of.",
+		"And even meanerwhile, in the present.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sort of.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Once again, the slippery antagonist eludes you. You only find more of these unpleasant oily smears.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Someone is pestering you. Both your PDA and computer register the message.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Once again, the slippery antagonist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eludes you. You only find more of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these unpleasant oily smears.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone is pestering you. Both your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PDA and computer register the message.\
+",
 	},
 	next = {
 		386,

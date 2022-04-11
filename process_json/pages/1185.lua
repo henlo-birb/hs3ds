@@ -12,29 +12,64 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Doze",
+		"Doze\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" proceeds to make a fleetfooted getaway.",
+		"proceeds to make a fleetfooted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getaway.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE CHASE",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IS ON",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE CHASE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IS ON\
+",
 	},
 	next = {
 		1186,

@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"Wait a minute.",
+		"Wait a minute.\
+",
 	},
 	next = {
 		3575,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Here's one.",
+		"Here's one.\
+",
 	},
 	next = {
 		1107,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You are now Calliope.",
+		"You are now Calliope.\
+",
 	},
 	next = {
 		5099,

@@ -12,84 +12,232 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Are you listening my friend???\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Are you listening my friend???",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Ill have you know my ass was straightup served ice cold.",
+		"GT: Ill have you know my ass was\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"straightup served ice cold.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: My savaged caboose has been catered to impeccably.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Not unlike that of a gentleman stranded on an island inhabited by a race of indigenous butlers.",
+		"GT: My savaged caboose has been\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"catered to impeccably.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I hope the far fetched scenario i have described has adequately communicated the severity of my robotic buttwhoopin!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Does this mean i passed the test or whatever the fuck.",
+		"GT: Not unlike that of a gentleman\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Can your robot drop the bullshit and give me the uranium now or what?",
+		"stranded on an island inhabited by a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"race of indigenous butlers.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Dirk???",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: I hope the far fetched scenario i\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"have described has adequately\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"communicated the severity of my\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"robotic buttwhoopin!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Where the frig are you?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Does this mean i passed the test\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"or whatever the fuck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Can your robot drop the bullshit\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"and give me the uranium now or what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Dirk???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Where the frig are you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TT: I'm afraid Dirk can't hear you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"right now, Jake.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'm afraid Dirk can't hear you right now, Jake.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Aw nuts.",
+		"GT: Aw nuts.\
+",
 	},
 	next = {
 		4577,

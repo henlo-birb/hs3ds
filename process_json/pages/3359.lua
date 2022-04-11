@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You have never been so scared in your entire life.",
+		"You have never been so scared in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"entire life.\
+",
 	},
 	next = {
 		3360,

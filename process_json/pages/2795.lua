@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: HOO HOO HOO HOO HOO!",
+		"NANNASPRITE: HOO HOO HOO HOO HOO!\
+",
 	},
 	next = {
 		2796,

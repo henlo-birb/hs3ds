@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the BAG OF FERTILIZER.",
+		"You captchalogue the BAG OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FERTILIZER.\
+",
 	},
 	next = {
 		777,

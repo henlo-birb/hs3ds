@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You are getting way better at this sort of thing.",
+		"You are getting way better at this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of thing.\
+",
 	},
 	next = {
 		475,

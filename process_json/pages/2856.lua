@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You look up at your house. Your cool satellite tower bedroom is gone.",
+		"You look up at your house. Your cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"satellite tower bedroom is gone.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's that thing floating there?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's that thing floating there?\
+",
 	},
 	next = {
 		2857,

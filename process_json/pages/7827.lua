@@ -12,42 +12,78 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: What the hell is this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: What the hell is this?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: How did this get in there...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: How did this get in there...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Don't worry a8out that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Don't worry a8out that.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Just throw it on the ground!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Just throw it on the ground!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Alrighty.",
+		"JAKE: Alrighty.\
+",
 	},
 	next = {
 		7828,

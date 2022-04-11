@@ -12,42 +12,92 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: I wouldn't worry about it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I wouldn't worry about it.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Maybe I should go look?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Maybe I should go look?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Though I'm a little afraid to.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Though I'm a little afraid to.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I think it'll take a lot more to kill that dude than a little falling debris.",
+		"TT: I think it'll take a lot more to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"kill that dude than a little falling\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"debris.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Trust me.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Trust me.\
+",
 	},
 	next = {
 		4458,

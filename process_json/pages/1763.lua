@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"There are many frightening and powerful monsters in here.",
+		"There are many frightening and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powerful monsters in here.\
+",
 	},
 	next = {
 		1764,

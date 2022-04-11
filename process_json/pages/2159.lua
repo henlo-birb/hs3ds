@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"Later there was a cave-in.",
+		"Later there was a cave-in.\
+",
 	},
 	next = {
 		2160,

@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Oh for fuck's sake. You are impossible.",
+		"Oh for fuck's sake. You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"impossible.\
+",
 	},
 	next = {
 		4671,

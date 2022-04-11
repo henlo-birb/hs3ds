@@ -12,14 +12,29 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: OUR GENESIS FROG NEEDED THE GENES FROM THAT FINAL FROG.",
+		"PCG: OUR GENESIS FROG NEEDED THE GENES\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FROM THAT FINAL FROG.\
+",
 	},
 	next = {
 		4010,

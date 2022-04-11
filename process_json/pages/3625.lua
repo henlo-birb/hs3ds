@@ -12,19 +12,36 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"Now please excuse me. I have to talk to a teenage girl from another universe.",
+		"Now please excuse me. I have to talk\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"to a teenage girl from another\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"universe.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		3626,

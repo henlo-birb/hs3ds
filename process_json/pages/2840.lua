@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: caw caw motherfuckers",
+		"DAVESPRITE: caw caw motherfuckers\
+",
 	},
 	next = {
 		2841,

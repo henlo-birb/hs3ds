@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"YOU DO NOT UNDER ANY CIRCUMSTANCE EAT THE MIND HONEY",
+		"YOU DO NOT UNDER ANY CIRCUMSTANCE EAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE MIND HONEY\
+",
 	},
 	next = {
 		2153,

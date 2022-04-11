@@ -13,7 +13,15 @@ return {
 			0,
 			0,
 		},
-		"Hoofprints in the sand. The mystery deepens.",
+		"Hoofprints in the sand. The mystery\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deepens.\
+",
 	},
 	next = {
 		1763,

@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Better pick that up. You'll try to repair it later before dad sees it and blows a gasket.",
+		"Better pick that up. You'll try to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"repair it later before dad sees it and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blows a gasket.\
+",
 	},
 	next = {
 		4207,

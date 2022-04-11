@@ -12,7 +12,36 @@ return {
 			0,
 			0,
 		},
-		"You return to a more typical mindset. You suddenly feel empowered to make important decisions on your own without supervision. Parental or otherwise.",
+		"You return to a more typical mindset.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You suddenly feel empowered to make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"important decisions on your own\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without supervision. Parental or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"otherwise.\
+",
 	},
 	next = {
 		1541,

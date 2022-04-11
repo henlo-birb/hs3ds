@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"But that all sounds like a big waste of time so you just go in the shower.",
+		"But that all sounds like a big waste\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of time so you just go in the shower.\
+",
 	},
 	next = {
 		1444,

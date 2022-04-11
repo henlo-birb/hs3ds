@@ -13,31 +13,155 @@ return {
 			0,
 			0,
 		},
-		"NORMALLY. HERE'S WHAT WOULD HAPPEN.",
+		"NORMALLY. HERE'S WHAT WOULD HAPPEN.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HE WOULD TALK INTO HIS GLASSES OR SOMETHING. LIKE A PITIFUL LOSER. IN DOING SO HE WOULD SUMMON BELOW HIS RECTANGLE. WHAT IS KNOWN AS. A PESTERLOG.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IT IS NEVER ADVISABLE TO OPEN A PESTERLOG. YOU SEE. THE BUTTON IS A TRAP. WHICH WHEN SPRUNG. RELEASES WORDS UPON WORDS. WHICH ONLY SERVE TO REMIND YOU. OF YOUR INTENSE DISLIKE FOR THE PEOPLE SAYING THE THINGS. AS WELL AS. HOW LITTLE REGARD THE AUTHOR HAS. FOR YOUR VALUABLE TIME.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE WOULD TALK INTO HIS GLASSES OR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOMETHING. LIKE A PITIFUL LOSER. IN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOING SO HE WOULD SUMMON BELOW HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RECTANGLE. WHAT IS KNOWN AS. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PESTERLOG.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AS SUCH. THERE WILL BE NO WORDS DESCRIBED IN MY TALE. ONLY ACTION!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT IS NEVER ADVISABLE TO OPEN A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PESTERLOG. YOU SEE. THE BUTTON IS A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TRAP. WHICH WHEN SPRUNG. RELEASES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WORDS UPON WORDS. WHICH ONLY SERVE TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"REMIND YOU. OF YOUR INTENSE DISLIKE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR THE PEOPLE SAYING THE THINGS. AS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WELL AS. HOW LITTLE REGARD THE AUTHOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAS. FOR YOUR VALUABLE TIME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS SUCH. THERE WILL BE NO WORDS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DESCRIBED IN MY TALE. ONLY ACTION!\
+",
 	},
 	next = {
 		6479,

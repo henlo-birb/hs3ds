@@ -12,23 +12,71 @@ return {
 			0,
 			0,
 		},
-		"GOD.",
+		"GOD.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-DAMMIT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You hear some unhappy grumbling through the hole below. This was not the coolest thing you could have done just now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAMMIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You hear some unhappy grumbling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the hole below. This was not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the coolest thing you could have done\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just now.\
+",
 	},
 	next = {
 		2001,

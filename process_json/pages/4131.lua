@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"It's still not there. But there is your dad. What is he up to?",
+		"It's still not there. But there is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your dad. What is he up to?\
+",
 	},
 	next = {
 		4132,

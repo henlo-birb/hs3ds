@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You turn back the clock and make a VINTAGE GAMEBRO.",
+		"You turn back the clock and make a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VINTAGE GAMEBRO.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You think you remember this one from your BRO'S stash. It's a classic.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think you remember this one from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your BRO'S stash. It's a classic.\
+",
 	},
 	next = {
 		1833,

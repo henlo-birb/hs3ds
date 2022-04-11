@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Pff. Monsters. ",
+		"Pff. Monsters.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Only retarded babies who poop in their diapers believe in that stuff.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Only retarded babies who poop in their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"diapers believe in that stuff.\
+",
 	},
 	next = {
 		388,

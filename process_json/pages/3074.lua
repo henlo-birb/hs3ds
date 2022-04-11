@@ -12,15 +12,43 @@ return {
 			0,
 			0,
 		},
-		"And so came to an end the most heroic thing that ever happened in the history of metafiction.",
+		"And so came to an end the most heroic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing that ever happened in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"history of metafiction.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Let's move on.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Let's move on.\
+",
 	},
 	next = {
 		3075,

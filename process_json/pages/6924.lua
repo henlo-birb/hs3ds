@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"TO BEING SUCCUMBED TO A NEW LOW. OF DEPRESSING EMOTIONS.",
+		"TO BEING SUCCUMBED TO A NEW LOW. OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DEPRESSING EMOTIONS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AS A TORTURED ARTIST. OF SO MUCH TALENTED PROMISE, AND INTELLECTUAL DARING, AND CULTURAL MAGNITUDE. THERE CAN BE NO DOUBT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS A TORTURED ARTIST. OF SO MUCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TALENTED PROMISE, AND INTELLECTUAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DARING, AND CULTURAL MAGNITUDE. THERE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAN BE NO DOUBT.\
+",
 	},
 	next = {
 		6925,

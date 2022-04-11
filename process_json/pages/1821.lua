@@ -13,15 +13,57 @@ return {
 			0,
 			0,
 		},
-		"You make a pair of iSHADES.",
+		"You make a pair of iSHADES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This one was really obvious cause future Dave had a pair, but he took them with him when he prototyped himself. But now you have a pair too so that's cool.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This one was really obvious cause\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"future Dave had a pair, but he took\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"them with him when he prototyped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"himself. But now you have a pair too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so that's cool.\
+",
 	},
 	next = {
 		1822,

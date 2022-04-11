@@ -12,56 +12,127 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: KANAYA WAIT UP!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: KANAYA WAIT UP!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: YOU KNOW I CAN'T COMPETE WITH\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOUR DRINKER FASTNESS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: YOU KNOW I CAN'T COMPETE WITH YOUR DRINKER FASTNESS.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: My What\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: My What",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: GOD DAMN IT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: GOD DAMN IT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WE'RE MISSING EVERYTHING!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WE'RE MISSING EVERYTHING!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: HOW MUCH BULLSHIT IS IT THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WE'RE PRETTY MUCH THE ONLY TWO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ASSHOLES LEFT WHO CAN'T FLY?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: HOW MUCH BULLSHIT IS IT THAT WE'RE PRETTY MUCH THE ONLY TWO ASSHOLES LEFT WHO CAN'T FLY?!",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: It Really Is Such Bullshit",
+		"KANAYA: It Really Is Such Bullshit\
+",
 	},
 	next = {
 		6739,

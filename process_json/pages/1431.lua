@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"Apparently she can.",
+		"Apparently she can.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Though usually she goes by Rose.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Though usually she goes by Rose.\
+",
 	},
 	next = {
 		1432,

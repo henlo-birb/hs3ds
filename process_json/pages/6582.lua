@@ -12,77 +12,190 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: What's the matter?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: What's the matter?!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: Stop! Please stop!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Stop! Please stop!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Why does everyone want to kiss me all the time!",
+		"JAKE: Why does everyone want to kiss\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"me all the time!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: What did i ever do to deserve this sort of attention!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: I dont know what you all see in me i just dont understand it!",
+		"JAKE: What did i ever do to deserve\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"this sort of attention!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Cant you see i just want you to LEAVE ME ALONE?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: CHEESE AND STUPID CRACKERS I AM A MAN NOT A PIECE OF MEAT!!!",
+		"JAKE: I dont know what you all see in\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"me i just dont understand it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Waaah hah hah hah hah hah hah hah hah!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: Cant you see i just want you to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"LEAVE ME ALONE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: WAAAAAAAAAAAAAAAAAAAAAAA-",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: CHEESE AND STUPID CRACKERS I AM\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"A MAN NOT A PIECE OF MEAT!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Waaah hah hah hah hah hah hah\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"hah hah!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: WAAAAAAAAAAAAAAAAAAAAAAA-\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Wow, alright!!!!!!!!",
+		"ARANEA: Wow, alright!!!!!!!!\
+",
 	},
 	next = {
 		6583,

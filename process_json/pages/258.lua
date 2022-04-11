@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"John makes his way to the balcony per your awkwardly-worded request.",
+		"John makes his way to the balcony per\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your awkwardly-worded request.\
+",
 	},
 	next = {
 		259,

@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"What did I say?",
+		"What did I say?\
+",
 	},
 	next = {
 		4033,

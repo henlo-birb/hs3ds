@@ -13,7 +13,8 @@ return {
 			0,
 			0,
 		},
-		"A regulator becomes a renegade.",
+		"A regulator becomes a renegade.\
+",
 	},
 	next = {
 		1964,

@@ -12,15 +12,50 @@ return {
 			0,
 			0,
 		},
-		"You plug the laptop into the hub again and turn it on. It is now powered and connected to the wireless signal the hub is broadcasting.",
+		"You plug the laptop into the hub again\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and turn it on. It is now powered and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"connected to the wireless signal the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hub is broadcasting.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your Sburb session reconnects.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your Sburb session reconnects.\
+",
 	},
 	next = {
 		878,

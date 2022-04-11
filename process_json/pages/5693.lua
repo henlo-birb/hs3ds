@@ -12,15 +12,36 @@ return {
 			0,
 			0,
 		},
-		"Oh no.",
+		"Oh no.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh no this conversation is going to make you even sadder isn't it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh no this conversation is going to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make you even sadder isn't it.\
+",
 	},
 	next = {
 		5694,

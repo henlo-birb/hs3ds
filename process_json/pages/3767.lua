@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"And since for once in my life, time is at a premium, let's get on with it. Where were we?",
+		"And since for once in my life, time is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at a premium, let's get on with it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Where were we?\
+",
 	},
 	next = {
 		3768,

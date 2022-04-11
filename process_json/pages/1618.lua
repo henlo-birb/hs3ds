@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"Abdication is never ideal. But in the face of inevitable conquest, conceding ground can supply the only remaining advantage. ",
+		"Abdication is never ideal. But in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face of inevitable conquest, conceding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ground can supply the only remaining\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"advantage.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The final hope for victory lies in patience and planning.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The final hope for victory lies in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"patience and planning.\
+",
 	},
 	next = {
 		1619,

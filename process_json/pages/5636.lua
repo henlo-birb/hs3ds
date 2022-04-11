@@ -12,266 +12,645 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: um yeah so im on derse...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: um yeah so im on derse...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: wow i am tellin this story as shitty and backwards as possible",
+		"TG: wow i am tellin this story as\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"shitty and backwards as possible\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i got gcatted here and dumped in jail by the b witch",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: and she left an ugly folder full of a thing to do but who cares",
+		"TG: i got gcatted here and dumped in\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"jail by the b witch\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so i broke out!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: busted loose as hell from the hag slammer",
+		"TG: and she left an ugly folder full\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"of a thing to do but who cares\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i got this sweet ass ring",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: so i broke out!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: its so fukkin magic you dont even know",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: REAL magic i mean not the fake shit",
+		"TG: busted loose as hell from the hag\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"slammer\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: it put it on...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i got this sweet ass ring\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and i turn invisible",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: and also sort of intangible?",
+		"TG: its so fukkin magic you dont even\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i jumped right through the wall now im free as a bird",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: a secret bird u cannot see ;)",
+		"TG: REAL magic i mean not the fake\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: doin secret flaps",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: it put it on...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: incognito tweets",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: and i turn invisible\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: layin covert eggs in a hush hush nest ;)",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: and also sort of intangible?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i jumped right through the wall\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"now im free as a bird\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: a secret bird u cannot see ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: doin secret flaps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: incognito tweets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: layin covert eggs in a hush hush\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"nest ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Interesting.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Interesting.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i think that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i think that",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: this ring is special\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: this ring is special",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like it is maybe helping me get in touch with my voidey powers?",
+		"TG: like it is maybe helping me get in\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"touch with my voidey powers?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: even though i kinda didnt know voidey powers were much of a thing til just now",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: see i just had a knockout dream from bonkin my head",
+		"TG: even though i kinda didnt know\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: calliope was there!",
+		"voidey powers were much of a thing til\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"just now\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: callie is the coolest omg you should meet her",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: she said a huge villain rumble is going down tomorrow",
+		"TG: see i just had a knockout dream\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"from bonkin my head\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and to get ready for that we should all become god tiers",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: calliope was there!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so u have to rocket your ass to derse asnap",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: come w me to the moon",
+		"TG: callie is the coolest omg you\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"should meet her\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: then uhhh",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: she said a huge villain rumble is\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"going down tomorrow\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ill explain what to do when we get there just get over here k?",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: and to get ready for that we\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"should all become god tiers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: so u have to rocket your ass to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"derse asnap\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: come w me to the moon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: then uhhh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: ill explain what to do when we get\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"there just get over here k?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Hmm.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ......\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ......",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: yo dirk\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: yo dirk",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: you busy or what\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: you busy or what",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: is any of this gettin thru\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: is any of this gettin thru",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Yes.",
+		"TT: Yes.\
+",
 	},
 	next = {
 		5637,

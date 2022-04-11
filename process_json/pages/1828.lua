@@ -13,15 +13,50 @@ return {
 			0,
 			0,
 		},
-		"You make the SNOOP DOGG SNOW CONE MACHETE.",
+		"You make the SNOOP DOGG SNOW CONE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MACHETE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-When foes drop it like it's hot just turn up the blizzizzle nozzle so they chizzlax fo' rizzle.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"When foes drop it like it's hot just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"turn up the blizzizzle nozzle so they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chizzlax fo' rizzle.\
+",
 	},
 	next = {
 		1829,

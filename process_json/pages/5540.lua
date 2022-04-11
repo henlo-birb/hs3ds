@@ -12,14 +12,22 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: oh mother fuck",
+		"ROXY: oh mother fuck\
+",
 	},
 	next = {
 		5541,

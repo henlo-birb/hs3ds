@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You thought wrong.",
+		"You thought wrong.\
+",
 	},
 	next = {
 		974,

@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"One book is titled \"MEOW\". The other is titled \"Complacency of the Learned\".",
+		"One book is titled \"MEOW\". The other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is titled \"Complacency of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Learned\".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Gee, you wonder what could be in MEOW.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gee, you wonder what could be in MEOW.\
+",
 	},
 	next = {
 		1850,

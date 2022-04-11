@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You fail to regain consciousness.",
+		"You fail to regain consciousness.\
+",
 	},
 	next = {
 		4843,

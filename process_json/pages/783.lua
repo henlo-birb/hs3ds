@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"Then a delicious MANDARIN ORANGE. Those are your favorite.",
+		"Then a delicious MANDARIN ORANGE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Those are your favorite.\
+",
 	},
 	next = {
 		784,

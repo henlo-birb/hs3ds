@@ -12,15 +12,71 @@ return {
 			0,
 			0,
 		},
-		"You figure as long as you have the LUNCHTOP card handy, you might as well try to do something with this dumb JOHNNY 5 GHOST IMAGE you accidentally made once.",
+		"You figure as long as you have the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LUNCHTOP card handy, you might as well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"try to do something with this dumb\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JOHNNY 5 GHOST IMAGE you accidentally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made once.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't even know what this robot's deal is. You've never seen this stupid movie.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't even know what this robot's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deal is. You've never seen this stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"movie.\
+",
 	},
 	next = {
 		3149,

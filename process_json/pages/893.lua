@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"This message to Dr. Brinner looks pretty serious.",
+		"This message to Dr. Brinner looks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pretty serious.\
+",
 	},
 	next = {
 		894,

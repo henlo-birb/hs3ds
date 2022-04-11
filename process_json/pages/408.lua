@@ -13,15 +13,43 @@ return {
 			0,
 			0,
 		},
-		"You group the two SPECIBI in your STRIFE PORTFOLIO. ",
+		"You group the two SPECIBI in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STRIFE PORTFOLIO.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No self-respecting strifer would be caught dead without one.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No self-respecting strifer would be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"caught dead without one.\
+",
 	},
 	next = {
 		409,

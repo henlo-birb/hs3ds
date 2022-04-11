@@ -12,15 +12,29 @@ return {
 			0,
 			0,
 		},
-		"This doesn't appear to be a game.",
+		"This doesn't appear to be a game.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It appears to be an APPEARIFIER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It appears to be an APPEARIFIER.\
+",
 	},
 	next = {
 		929,

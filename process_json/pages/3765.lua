@@ -12,15 +12,64 @@ return {
 			0,
 			0,
 		},
-		"She really did a number on it, didn't she? It's virtually unplayable like this.",
+		"She really did a number on it, didn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"she? It's virtually unplayable like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What a shame. There are many moments trapped on this disc which you would have no doubt found to be quite exhilarating.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What a shame. There are many moments\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trapped on this disc which you would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have no doubt found to be quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exhilarating.\
+",
 	},
 	next = {
 		3766,

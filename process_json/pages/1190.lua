@@ -13,23 +13,85 @@ return {
 			0,
 			0,
 		},
-		"You deploy your chest and swap this dinky little hat for one more suited to your tastes.",
+		"You deploy your chest and swap this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dinky little hat for one more suited\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to your tastes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait a minute...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Thank god. Your precious SCOTTY DOGS are still here. You don't know what you'd do without them. You don't want to even think about it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait a minute...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thank god. Your precious SCOTTY DOGS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are still here. You don't know what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you'd do without them. You don't want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to even think about it.\
+",
 	},
 	next = {
 		1191,

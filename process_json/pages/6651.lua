@@ -12,7 +12,29 @@ return {
 			0,
 			0,
 		},
-		"<a class=\"postlink\" href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/comoc.php?cid=038.jpg\" target=\"_blank\"><img border=\"0\" src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/wizordofoz.jpg\"/></a>",
+		"<a class=\"postlink\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/comoc.php?cid=038.jpg\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"target=\"_blank\"><img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://mspaintadventures.com/storyfiles/hs2/scraps/wizordofoz.jpg\"/></a>\
+",
 	},
 	next = {
 		6652,

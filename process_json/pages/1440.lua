@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You begin to hatch a brilliant plan.",
+		"You begin to hatch a brilliant plan.\
+",
 	},
 	next = {
 		1441,

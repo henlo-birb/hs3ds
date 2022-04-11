@@ -12,23 +12,92 @@ return {
 			0,
 			0,
 		},
-		"She would like clarification on the nature of the work, which you are happy to provide. You explain that it is very simple.",
+		"She would like clarification on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nature of the work, which you are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happy to provide. You explain that it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is very simple.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As the new queen, she will be charged with bringing the slayer to justice, and rebuilding her kingdom in a new land.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Her Majesty again is overwhelmed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As the new queen, she will be charged\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with bringing the slayer to justice,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and rebuilding her kingdom in a new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"land.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Her Majesty again is overwhelmed.\
+",
 	},
 	next = {
 		3264,

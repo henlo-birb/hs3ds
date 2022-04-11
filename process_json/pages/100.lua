@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"You got the SBURB BETA!!!",
+		"You got the SBURB BETA!!!\
+",
 	},
 	next = {
 		101,

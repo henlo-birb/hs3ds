@@ -13,7 +13,71 @@ return {
 			0,
 			0,
 		},
-		"You never really understood what Caveney's relation to Anderson was, or why he wrote this book about him. His ambivalent attitude toward your favorite magician in these anecdotes always struck you as a little weird, and to be honest, you tend not to read much of the text in the book. You mostly like to look at the diagrams for all the cool tricks.",
+		"You never really understood what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Caveney's relation to Anderson was, or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"why he wrote this book about him. His\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ambivalent attitude toward your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"favorite magician in these anecdotes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always struck you as a little weird,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and to be honest, you tend not to read\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"much of the text in the book. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mostly like to look at the diagrams\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for all the cool tricks.\
+",
 	},
 	next = {
 		630,

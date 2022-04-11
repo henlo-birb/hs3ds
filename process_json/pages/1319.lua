@@ -12,19 +12,29 @@ return {
 			0,
 			0,
 		},
-		"You set the bomb to go off in a few seconds, when both it and ",
+		"You set the bomb to go off in a few\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seconds, when both it and\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Biscuits ",
+		"Biscuits\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"are released from it in a few hours.",
+		"are released from it in a few hours.\
+",
 	},
 	next = {
 		1320,

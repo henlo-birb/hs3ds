@@ -12,15 +12,99 @@ return {
 			0,
 			0,
 		},
-		"After an insane, full blown whirlwind of free will up in here, you are ready to get off this rollercoaster ride of absolute empowerment. You are feeling downright dizzy from the absurd amounts of decisive autovolition heaped upon you, and you are more than ready to proceed linearly for a while.",
+		"After an insane, full blown whirlwind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of free will up in here, you are ready\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get off this rollercoaster ride of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"absolute empowerment. You are feeling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"downright dizzy from the absurd\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amounts of decisive autovolition\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heaped upon you, and you are more than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ready to proceed linearly for a while.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are now Jane. A robot shaped like a bunny has just handed you the reins to a computer shaped like a man. What will you do?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are now Jane. A robot shaped like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a bunny has just handed you the reins\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to a computer shaped like a man. What\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will you do?\
+",
 	},
 	next = {
 		4570,

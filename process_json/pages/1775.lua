@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"You equip the JUNIOR ECTOBIOLOGIST'S LAB SUIT.",
+		"You equip the JUNIOR ECTOBIOLOGIST'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LAB SUIT.\
+",
 	},
 	next = {
 		1776,

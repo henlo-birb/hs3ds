@@ -12,7 +12,15 @@ return {
 			0,
 			0,
 		},
-		"This guy doesn't have time for this sort of bullshit.",
+		"This guy doesn't have time for this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of bullshit.\
+",
 	},
 	next = {
 		311,

@@ -13,23 +13,78 @@ return {
 			0,
 			0,
 		},
-		"Below there is a dark cavernous room. ",
+		"Below there is a dark cavernous room.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Near the platform is a TIME CAPSULE. It has deployed a SEED, and waits for something to be deposited, and for the clock to be set.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is all harmless enough. Still no sign of any perpetrators.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Near the platform is a TIME CAPSULE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It has deployed a SEED, and waits for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something to be deposited, and for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clock to be set.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is all harmless enough. Still no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sign of any perpetrators.\
+",
 	},
 	next = {
 		1913,

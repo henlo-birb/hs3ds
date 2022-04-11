@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"Better get out of here. This room is a powder-keg with all this booze lying around.",
+		"Better get out of here. This room is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powder-keg with all this booze lying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around.\
+",
 	},
 	next = {
 		989,

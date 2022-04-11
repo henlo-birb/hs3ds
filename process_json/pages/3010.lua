@@ -12,7 +12,22 @@ return {
 			0,
 			0,
 		},
-		"You have extraordinarily bad timing. Her guardian will not be pleased with your intrusion.",
+		"You have extraordinarily bad timing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Her guardian will not be pleased with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your intrusion.\
+",
 	},
 	next = {
 		3011,

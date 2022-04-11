@@ -12,7 +12,8 @@ return {
 			0,
 			0,
 		},
-		"THEY'RE OFF! LOOK AT THEM GO.",
+		"THEY'RE OFF! LOOK AT THEM GO.\
+",
 	},
 	next = {
 		6500,

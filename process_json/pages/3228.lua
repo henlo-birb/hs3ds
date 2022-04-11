@@ -12,15 +12,57 @@ return {
 			0,
 			0,
 		},
-		"What are you a fucking idiot? Of course I am not Lord English. How dumb would that even be.",
+		"What are you a fucking idiot? Of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"course I am not Lord English. How dumb\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would that even be.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Jesus this coat is huge. I am swimming in this garish piece of shit. Would ANYBODY fit in this thing???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Jesus this coat is huge. I am swimming\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in this garish piece of shit. Would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANYBODY fit in this thing???\
+",
 	},
 	next = {
 		3229,

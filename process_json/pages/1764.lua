@@ -13,7 +13,22 @@ return {
 			0,
 			0,
 		},
-		"You stun them with the cool time powers of your awesome new hammer, and then dispatch them swiftly.",
+		"You stun them with the cool time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"powers of your awesome new hammer, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"then dispatch them swiftly.\
+",
 	},
 	next = {
 		1765,
