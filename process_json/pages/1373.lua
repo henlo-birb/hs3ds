@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Try out new Pictionary modus.",
-	pageId = 1373,
 	timestamp = "1265940988",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1374,
 	},
 	previous = 1372,
+	page_id = 1373,
+	long_title = true,
 }

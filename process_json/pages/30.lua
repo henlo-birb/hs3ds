@@ -1,6 +1,5 @@
 return {
 	title = "John: Forget it. Check mail later.",
-	pageId = 30,
 	timestamp = "1239831837",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		31,
 	},
 	previous = 29,
+	page_id = 30,
+	long_title = true,
 }

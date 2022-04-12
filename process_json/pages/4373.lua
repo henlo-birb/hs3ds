@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6I1] Karkat: Mental breakdown.",
-	pageId = 4373,
 	timestamp = "1324627030",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		4374,
 	},
 	previous = 4372,
+	page_id = 4373,
+	long_title = true,
 }

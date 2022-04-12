@@ -1,6 +1,5 @@
 return {
 	title = "[o] But not for lack of a devoted mentor.",
-	pageId = 3795,
 	timestamp = "1306393661",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 3794,
 	theme = "scratch",
+	page_id = 3795,
+	long_title = true,
 }

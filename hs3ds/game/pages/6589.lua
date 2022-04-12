@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6589,
 	timestamp = "1378582849",
 	flag = {},
 	media = {
@@ -12,29 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JADE:\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"something is happening...",
+		"something is happening...\
+",
 	},
 	next = {
 		6590,
 	},
 	previous = 6588,
+	page_id = 6589,
+	long_title = false,
 }

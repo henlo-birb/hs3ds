@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Go back up.",
-	pageId = 2360,
 	timestamp = "1281074870",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2361,
 	},
 	previous = 2359,
+	page_id = 2360,
+	long_title = false,
 }

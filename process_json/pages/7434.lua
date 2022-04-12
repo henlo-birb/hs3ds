@@ -1,6 +1,5 @@
 return {
 	title = "THE HOPE... MY GOD.",
-	pageId = 7434,
 	timestamp = "1429067272",
 	flag = {
 		"F",
@@ -120,4 +119,6 @@ return {
 	},
 	previous = 7433,
 	theme = "A6A6",
+	page_id = 7434,
+	long_title = false,
 }

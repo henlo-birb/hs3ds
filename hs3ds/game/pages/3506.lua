@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Read Mindfang's journal.",
-	pageId = 3506,
 	timestamp = "1297651834",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3507,
 	},
 	previous = 3505,
+	page_id = 3506,
+	long_title = false,
 }

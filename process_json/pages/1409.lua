@@ -1,6 +1,5 @@
 return {
 	title = "AR: Retrieve mysterious artifacts from ruins.",
-	pageId = 1409,
 	timestamp = "1266518353",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1410,
 	},
 	previous = 1408,
+	page_id = 1409,
+	long_title = true,
 }

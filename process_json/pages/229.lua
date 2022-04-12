@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go explore the house.",
-	pageId = 229,
 	timestamp = "1243836803",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		230,
 	},
 	previous = 228,
+	page_id = 229,
+	long_title = false,
 }

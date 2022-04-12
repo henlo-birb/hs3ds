@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Make copies of Rose's journals.",
-	pageId = 1848,
 	timestamp = "1273879407",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1849,
 	},
 	previous = 1847,
+	page_id = 1848,
+	long_title = true,
 }

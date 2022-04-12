@@ -1,6 +1,5 @@
 return {
 	title = "John: Admire harlequins.",
-	pageId = 49,
 	timestamp = "1240093749",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		50,
 	},
 	previous = 48,
+	page_id = 49,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Check the little red bar.",
-	pageId = 669,
 	timestamp = "1253594874",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		670,
 	},
 	previous = 668,
+	page_id = 669,
+	long_title = false,
 }

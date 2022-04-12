@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2699,
 	timestamp = "1285808747",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"The exhibit of depravity maxes out your side of the HORSESHITOMETER. ",
+		"The exhibit of depravity maxes out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your side of the HORSESHITOMETER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You had this girl wrong all along. She is an utter buffoon.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You had this girl wrong all along. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is an utter buffoon.\
+",
 	},
 	next = {
 		2700,
 	},
 	previous = 2698,
+	page_id = 2699,
+	long_title = false,
 }

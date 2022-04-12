@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7919,
 	timestamp = "1437600860",
 	flag = {},
 	media = {
@@ -12,864 +11,2498 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: all that melodramatic sadbabble aside",
+		"DAVE: all that melodramatic sadbabble\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"aside\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i think its perfectly cool if youre still curious about your adult self",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: and i dont mind tellin you more stuff about him if you want",
+		"DAVE: i think its perfectly cool if\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i know im still wondering about what my adult self got up to",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Yeah.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Well like I said, any time you want to know more, feel free to ask.",
+		"youre still curious about your adult\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"self\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: kay how about",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: we do this thing",
+		"DAVE: and i dont mind tellin you more\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: when i met roxy we did a thing",
+		"stuff about him if you want\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-DIRK: A thing?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: yeah",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: its called the lightning round",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: That does sound like a Roxy thing.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Does it by any chance involve asking a rapid-fire series of questions, some of which end up being a bit too personal or invasive?",
+		"DAVE: i know im still wondering about\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: well yeah when she does it",
+		"what my adult self got up to\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: we could be chill though",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: when it comes to asking about each others secret crushes and shit",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Then I guess I will disclaim in advance that I don't have any, and I don't care about yours even if you do.",
+		"DIRK: Yeah.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: it is settled then on the fact that we are a couple of cool dudes who know where to draw the line on certain topics",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Cool.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: So how do we start.",
+		"DIRK: Well like I said, any time you\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"want to know more, feel free to ask.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Whose lightning round is this, mine or yours?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: kay how about\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: it can be yours go ahead shoot",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we do this thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: when i met roxy we did a thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: A thing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Ok.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: its called the lightning round\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: How...",
+		"DIRK: That does sound like a Roxy\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Did...",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: He, um,",
+		"DIRK: Does it by any chance involve\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Come to \"adopt\" you?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i was a baby and i came down to earth on a meteor while riding a pony with a pink heart on its ass",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: he found me in a crater on top of a dead pony and gave me a lil baby pair of shades that look exactly like the ones youre wearin now",
+		"asking a rapid-fire series of\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I see.",
+		"questions, some of which end up being\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"a bit too personal or invasive?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: So you decided to ditch those shades for the aviator glasses?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: well yeah when she does it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: yeah",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: we could be chill though\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: years ago john got me these for my bday",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: it might have been like an \"ironic dare\" to wear them i dont remember",
+		"DAVE: when it comes to asking about\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: but when i got em i was like hell yeah im wearing these",
+		"each others secret crushes and shit\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: gonna rock these fuckers til the end of time",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: they were ben stillers",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: like literally",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: they actually touched his weird sort of gaunt face in one of his films",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Wait...",
+		"DIRK: Then I guess I will disclaim in\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: THE Stiller?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: yeah",
+		"advance that I don't have any, and I\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"don't care about yours even if you do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Incredible.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it is settled then on the fact\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that we are a couple of cool dudes who\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"know where to draw the line on certain\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"topics\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Also, such a shame what happened to that poor man.",
+		"DIRK: Cool.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: wait what happened to him",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: I can tell you when it's your lightning round.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Or mine. Whatever. I'm still not sure whose lightning round it is when you're the one asking questions.",
+		"DIRK: So how do we start.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: dunno ask roxy",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Ok. Anyway, didn't mean to interrupt.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but yeah we would send each other stuff sometimes",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: me and john",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: well we all would",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: usually absurd birthday packages and such",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: We did that too.",
+		"DIRK: Whose lightning round is this,\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"mine or yours?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Except I had to send things through time.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it can be yours go ahead shoot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Always had to figure out stuff small enough to send through the sendificator, even if it was piece by piece.",
+		"DIRK: Ok.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: nice",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: one time it turned out we ACCIDENTALLY sent presents through time",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i mean not literally, more in a roundabout way",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: we all sent john a rabbit",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but all three rabbits just turned out to be the same damn rabbit",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: because of stupid time shit",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: How...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Once I deliberately and quite literally sent a rabbit through time.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: It was a robot.",
+		"DIRK: Did...\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: wow",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: He was a loyal friend to Jane. I don't know what happened to him though.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: yeah i dunno what happened to johns rabbits either",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: rabbits am i right",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I hear you, man.",
+		"DIRK: He, um,\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: what next",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-DIRK: Hm.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Come to \"adopt\" you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: You say he owned Cal as well?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: i was a baby and i came down to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"earth on a meteor while riding a pony\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"with a pink heart on its ass\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: yep",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he found me in a crater on top\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"of a dead pony and gave me a lil baby\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"pair of shades that look exactly like\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the ones youre wearin now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Did he come down to Earth on a meteor with Cal too?",
+		"DIRK: I see.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: i think so",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: that was a long time ago",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: kinda weird to imagine him strutting around with that puppet as a kid in the 80s",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: or maybe just kinda funny actually",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: he sure held on to it a long time",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: must have gotten attached at a really early age and just never let go",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i guess you fell to earth with one of those things too?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Yeah.",
+		"DIRK: So you decided to ditch those\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"shades for the aviator glasses?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: But if I came to Earth on a meteor the same way you all did, then I guess I just got dunked right in the fucking ocean.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: years ago john got me these for\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"my bday\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it might have been like an\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"\"ironic dare\" to wear them i dont\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but when i got em i was like\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hell yeah im wearing these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: gonna rock these fuckers til the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"end of time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: they were ben stillers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: like literally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: they actually touched his weird\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"sort of gaunt face in one of his films\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Which makes sense. One of my earliest memories is of using Cal as a flotation device.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: THE Stiller?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: So he sorta saved my life in a way. I guess I bonded with him too, the way your bro did, even if that sounds a bit stupid.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Then again, it didn't help matters much that I lived alone in the middle of the ocean. He was my only real life friend. I mean, until I built some new ones.",
+		"DIRK: Incredible.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: hmm wait we fucked up",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i asked you a question its not my turn",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: keep firing",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Ok.",
+		"DIRK: Also, such a shame what happened\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"to that poor man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: How did your bro die?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: he died fighting one of these jacks",
+		"DAVE: wait what happened to him\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: at this point i almost forget which one",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: no wait",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: ok yeah it was the omnipotent dog one",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: the jack from our session",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: he was fighting like a lesser form of him and then jack got extra prototyped by dog powers and then got outmatched and stabbed with his own sword",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: pretty sure davesprite was fighting with him and almost died too but then it turned out he didnt",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but now im at least 99% sure that davesprite is DEFINITELY dead and wont suddenly reappear as a stupid surprise or anything",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I hate stupid surprises.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: word",
+		"DIRK: I can tell you when it's your\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"lightning round.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: So, you said he \"trained\" you.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I'm guessing that means he knew what was coming?",
+		"DIRK: Or mine. Whatever. I'm still not\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Or, some things about your future, at least?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: seems that way",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: not sure what he knew or how he knew it",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: all our guardians seemed to know bits and pieces of stuff and did vague mysterious things to prepare",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: to this day i have no idea if he was training me to fight lord english or if he even knew who that guy was on any conscious level",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: or it was more like general purpose training to be able to survive some hard shit after the end of the world happened",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: youd have to ask him but thats impossible",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i do know he managed to get the drop on a meteor before i entered the game",
+		"sure whose lightning round it is when\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"you're the one asking questions.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: What?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: dunno ask roxy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: as far as i can tell he stood on top of it and split it in half with his sword",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Um,",
+		"DIRK: Ok. Anyway, didn't mean to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"interrupt.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Not to be too much of a wet blanket on that rad as fuck anecdote, but that sounds kind of far fetched.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: yeah it does doesnt it",
+		"DAVE: but yeah we would send each\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"other stuff sometimes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: but then again so does a baby getting dunked from space in the ocean then floating on a weird doll and then growin up by himself with no adults around",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: me and john\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: well we all would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: usually absurd birthday packages\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and such\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: We did that too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: That's not far fetched. It was pretty straightforward.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: I think I just found a building poking out of the water, climbed up, then I just started foraging for food in there like a feral infant.",
+		"DIRK: Except I had to send things\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"through time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Supplies which I'm sure your adult self must have left behind for me, seeing as he clearly must have known some things about the future too.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Always had to figure out stuff\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"small enough to send through the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"sendificator, even if it was piece by\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"piece.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Speaking of which, maybe it's your turn now?",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: nice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: one time it turned out we\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ACCIDENTALLY sent presents through\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i mean not literally, more in a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"roundabout way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we all sent john a rabbit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but all three rabbits just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"turned out to be the same damn rabbit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: because of stupid time shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Once I deliberately and quite\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"literally sent a rabbit through time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: It was a robot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: wow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: He was a loyal friend to Jane. I\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"don't know what happened to him\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"though.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah i dunno what happened to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"johns rabbits either\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: rabbits am i right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I hear you, man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: what next\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Hm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: You say he owned Cal as well?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Did he come down to Earth on a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"meteor with Cal too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i think so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: that was a long time ago\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: kinda weird to imagine him\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"strutting around with that puppet as a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"kid in the 80s\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: or maybe just kinda funny\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"actually\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he sure held on to it a long\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: must have gotten attached at a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"really early age and just never let go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i guess you fell to earth with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"one of those things too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: But if I came to Earth on a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"meteor the same way you all did, then\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"I guess I just got dunked right in the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"fucking ocean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Which makes sense. One of my\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"earliest memories is of using Cal as a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"flotation device.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: So he sorta saved my life in a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"way. I guess I bonded with him too,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the way your bro did, even if that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"sounds a bit stupid.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Then again, it didn't help\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"matters much that I lived alone in the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"middle of the ocean. He was my only\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"real life friend. I mean, until I\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"built some new ones.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: hmm wait we fucked up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i asked you a question its not\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"my turn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: keep firing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: How did your bro die?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he died fighting one of these\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"jacks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: at this point i almost forget\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"which one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: no wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: ok yeah it was the omnipotent\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"dog one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: the jack from our session\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: he was fighting like a lesser\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"form of him and then jack got extra\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"prototyped by dog powers and then got\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"outmatched and stabbed with his own\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"sword\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: pretty sure davesprite was\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"fighting with him and almost died too\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"but then it turned out he didnt\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but now im at least 99% sure\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that davesprite is DEFINITELY dead and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"wont suddenly reappear as a stupid\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"surprise or anything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I hate stupid surprises.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: word\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: So, you said he \"trained\" you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I'm guessing that means he knew\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"what was coming?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Or, some things about your\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"future, at least?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: seems that way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: not sure what he knew or how he\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"knew it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: all our guardians seemed to know\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"bits and pieces of stuff and did vague\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"mysterious things to prepare\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: to this day i have no idea if he\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"was training me to fight lord english\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"or if he even knew who that guy was on\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"any conscious level\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: or it was more like general\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"purpose training to be able to survive\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"some hard shit after the end of the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"world happened\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: youd have to ask him but thats\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"impossible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i do know he managed to get the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"drop on a meteor before i entered the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"game\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: as far as i can tell he stood on\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"top of it and split it in half with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"his sword\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Um,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Not to be too much of a wet\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"blanket on that rad as fuck anecdote,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"but that sounds kind of far fetched.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah it does doesnt it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but then again so does a baby\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"getting dunked from space in the ocean\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"then floating on a weird doll and then\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"growin up by himself with no adults\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"around\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: That's not far fetched. It was\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"pretty straightforward.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: I think I just found a building\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"poking out of the water, climbed up,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"then I just started foraging for food\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"in there like a feral infant.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Supplies which I'm sure your\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"adult self must have left behind for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"me, seeing as he clearly must have\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"known some things about the future\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DIRK: Speaking of which, maybe it's\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your turn now?\
+",
 	},
 	next = {
 		7920,
 	},
 	previous = 7918,
+	page_id = 7919,
+	long_title = false,
 }

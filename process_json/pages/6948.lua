@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 6948,
 	timestamp = "1414991011",
 	flag = {
 		"HSCROLL",
@@ -13,4 +12,6 @@ return {
 		6949,
 	},
 	previous = 6947,
+	page_id = 6948,
+	long_title = false,
 }

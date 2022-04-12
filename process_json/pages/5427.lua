@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6I3] MINISTRIFE!!!",
-	pageId = 5427,
 	timestamp = "1351978301",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		5428,
 	},
 	previous = 5426,
+	page_id = 5427,
+	long_title = false,
 }

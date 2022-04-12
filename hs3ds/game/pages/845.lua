@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 845,
 	timestamp = "1257812985",
 	flag = {},
 	media = {
@@ -13,36 +12,48 @@ return {
 			0,
 			0,
 		},
-		"PUNCH CARD CALCULATOR",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"PUNCH CARD CALCULATOR\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-[By ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"Gankro",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"[By\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gankro\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"]\
+",
 	},
 	next = {
 		846,
 	},
 	previous = 844,
+	page_id = 845,
+	long_title = false,
 }

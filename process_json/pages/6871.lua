@@ -1,6 +1,5 @@
 return {
 	title = "OH, BUT WHAT'S THIS?",
-	pageId = 6871,
 	timestamp = "1413621017",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6870,
 	theme = "A6A6",
+	page_id = 6871,
+	long_title = false,
 }

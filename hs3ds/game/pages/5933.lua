@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5933,
 	timestamp = "1361089107",
 	flag = {},
 	media = {
@@ -12,45 +11,111 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: I DON'T\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I DON'T",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: ...",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HOW DO I EVEN BEGIN TO ADDRESS THIS SHIT.",
+		"KARKAT: HOW DO I EVEN BEGIN TO ADDRESS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"THIS SHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: OK, HOW ABOUT THIS.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: OK, HOW ABOUT THIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: SINCE I CAN'T THINK OF A BETTER GENERAL PURPOSE QUESTION TO HELP BREAK THE ICE IN LITERALLY ANY IMAGINABLE SOCIAL SITUATION.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: SINCE I CAN'T THINK OF A\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BETTER GENERAL PURPOSE QUESTION TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HELP BREAK THE ICE IN LITERALLY ANY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IMAGINABLE SOCIAL SITUATION.\
+",
 	},
 	next = {
 		5934,
 	},
 	previous = 5932,
+	page_id = 5933,
+	long_title = false,
 }

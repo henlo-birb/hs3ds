@@ -1,6 +1,5 @@
 return {
 	title = "Oh, oh! Do a fancy santa.",
-	pageId = 5773,
 	timestamp = "1359099117",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 	},
 	previous = 5772,
 	theme = "trickster",
+	page_id = 5773,
+	long_title = false,
 }

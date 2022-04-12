@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5660,
 	timestamp = "1356746921",
 	flag = {},
 	media = {
@@ -12,66 +11,174 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: ooh la la this adventure is steaming up",
+		"TG: ooh la la this adventure is\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"steaming up\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: such a racy twist would surely fog up their shiny black shells",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: nah but bangin a chess dude probably aint feasible or even remotely advisable to try",
+		"TG: such a racy twist would surely fog\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"up their shiny black shells\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i wonder how that would work, i dont even...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: well you seen em right they p universally do not wear pants",
+		"TG: nah but bangin a chess dude\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like what is even down there",
+		"probably aint feasible or even\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"remotely advisable to try\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: not a whole lot",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i wonder how that would work, i\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"dont even...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ok jake we are getting sidetracked here lets FOCUS",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: well you seen em right they p\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"universally do not wear pants\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like what is even down there\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: not a whole lot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: ok jake we are getting sidetracked\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"here lets FOCUS\
+",
 	},
 	next = {
 		5661,
 	},
 	previous = 5659,
+	page_id = 5660,
+	long_title = false,
 }

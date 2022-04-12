@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Check up on Nannaquin, see what's cookin'!",
-	pageId = 491,
 	timestamp = "1250474451",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		492,
 	},
 	previous = 490,
+	page_id = 491,
+	long_title = true,
 }

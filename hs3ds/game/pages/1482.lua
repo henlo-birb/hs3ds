@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1482,
 	timestamp = "1267052447",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You quickly drop the ENVELOPE into an empty PYXIS. It is out of your hands now. THE BREEZE will know where to take it.",
+		"You quickly drop the ENVELOPE into an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empty PYXIS. It is out of your hands\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now. THE BREEZE will know where to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"take it.\
+",
 	},
 	next = {
 		1483,
 	},
 	previous = 1481,
+	page_id = 1482,
+	long_title = false,
 }

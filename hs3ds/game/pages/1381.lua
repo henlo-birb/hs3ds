@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1381,
 	timestamp = "1265958420",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue a PUMPKIN GHOST IMAGE.",
+		"You captchalogue a PUMPKIN GHOST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IMAGE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-At least you have the CAPTCHA CODE for it on the back in case you ever want to replicate a real one.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"At least you have the CAPTCHA CODE for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it on the back in case you ever want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to replicate a real one.\
+",
 	},
 	next = {
 		1382,
 	},
 	previous = 1380,
+	page_id = 1381,
+	long_title = false,
 }

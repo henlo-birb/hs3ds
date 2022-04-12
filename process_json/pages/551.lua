@@ -1,6 +1,5 @@
 return {
 	title = "John: Punch card.",
-	pageId = 551,
 	timestamp = "1251409990",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 		552,
 	},
 	previous = 550,
+	page_id = 551,
+	long_title = false,
 }

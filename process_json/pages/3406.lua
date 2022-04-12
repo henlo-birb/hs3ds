@@ -1,6 +1,5 @@
 return {
 	title = "John: Clean up this mess.",
-	pageId = 3406,
 	timestamp = "1296453558",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3407,
 	},
 	previous = 3405,
+	page_id = 3406,
+	long_title = false,
 }

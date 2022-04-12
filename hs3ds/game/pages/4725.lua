@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4725,
 	timestamp = "1332135817",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: hup",
+		"DAVE: hup\
+",
 	},
 	next = {
 		4726,
 	},
 	previous = 4724,
+	page_id = 4725,
+	long_title = false,
 }

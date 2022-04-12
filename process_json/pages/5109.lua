@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Open it up.",
-	pageId = 5109,
 	timestamp = "1340172001",
 	flag = {
 		"R4",
@@ -470,4 +469,6 @@ return {
 		5110,
 	},
 	previous = 5108,
+	page_id = 5109,
+	long_title = false,
 }

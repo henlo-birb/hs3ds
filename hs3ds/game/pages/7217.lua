@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7217,
 	timestamp = "1418964578",
 	flag = {},
 	media = {
@@ -12,45 +11,125 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: dave! see you in a different reality, buddy.",
+		"JOHN: dave! see you in a different\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"reality, buddy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: be sure to take care of mr. mayor too.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: your beautiful friendship with a cute chess man is an inspiration to us all.",
+		"JOHN: be sure to take care of mr.\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"mayor too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i hope and firmly believe it will transcend the boundaries of even the most ludicrous retcon shenanigans.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: your beautiful friendship with a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"cute chess man is an inspiration to us\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: (heheheh.)",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i hope and firmly believe it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"will transcend the boundaries of even\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the most ludicrous retcon shenanigans.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: (heheheh.)\
+",
 	},
 	next = {
 		7218,
 	},
 	previous = 7216,
+	page_id = 7217,
+	long_title = false,
 }

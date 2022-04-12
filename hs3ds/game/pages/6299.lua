@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6299,
 	timestamp = "1371627246",
 	flag = {
 		"F",
@@ -14,18 +13,160 @@ return {
 			0,
 			0,
 		},
-		"You return to the character select screen upon having completed one of the above arcs. Oh yeah, that's right. You forgot you even came from this select screen. Some of these choosable paths start getting a little long, you think. Per the drill, you double check to make sure you've clicked on them all before proceeding.",
+		"You return to the character select\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"screen upon having completed one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the above arcs. Oh yeah, that's right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You forgot you even came from this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"select screen. Some of these choosable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paths start getting a little long, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"think. Per the drill, you double check\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to make sure you've clicked on them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all before proceeding.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-On the other hand, if this is your first time seeing this page, then welcome to the p=008199 character select screen. It's like a triple scoop of ice cream piled generously atop your waffle cone of free will, making you a truly happy camper. You begin to wonder why this paragraph didn't come first. \"Kind of burying the lede there,\" to quote your private observation verbatim.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"On the other hand, if this is your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first time seeing this page, then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"welcome to the p=008199 character\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"select screen. It's like a triple\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"scoop of ice cream piled generously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"atop your waffle cone of free will,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"making you a truly happy camper. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"begin to wonder why this paragraph\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"didn't come first. \"Kind of burying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the lede there,\" to quote your private\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"observation verbatim.\
+",
 	},
 	next = {
 		6376,
 	},
 	previous = 6298,
+	page_id = 6299,
+	long_title = false,
 }

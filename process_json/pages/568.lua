@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Transfer katana to strife specibus.",
-	pageId = 568,
 	timestamp = "1251865089",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		569,
 	},
 	previous = 567,
+	page_id = 568,
+	long_title = true,
 }

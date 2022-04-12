@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1550,
 	timestamp = "1267833072",
 	flag = {},
 	media = {
@@ -12,10 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Mr. Noir tells you that ticket had better be notarized and punched in triplicate and presented with the full boondollar penalty plus processing fees, or you are wasting valuable time he could otherwise spend shirking his clerical duties.",
+		"Mr. Noir tells you that ticket had\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"better be notarized and punched in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"triplicate and presented with the full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"boondollar penalty plus processing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fees, or you are wasting valuable time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he could otherwise spend shirking his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clerical duties.\
+",
 	},
 	next = {
 		1551,
 	},
 	previous = 1549,
+	page_id = 1550,
+	long_title = false,
 }

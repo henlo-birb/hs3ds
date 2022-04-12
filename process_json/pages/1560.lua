@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Use a punched Gamebro Magazine card.",
-	pageId = 1560,
 	timestamp = "1267929081",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1561,
 	},
 	previous = 1559,
+	page_id = 1560,
+	long_title = true,
 }

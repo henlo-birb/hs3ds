@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Crowbar: Lead gang back to hideout.",
-	pageId = 6128,
 	timestamp = "1365404781",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		6129,
 	},
 	previous = 6127,
+	page_id = 6128,
+	long_title = true,
 }

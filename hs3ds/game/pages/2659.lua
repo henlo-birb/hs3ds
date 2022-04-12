@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Survey casualties.",
-	pageId = 2659,
 	timestamp = "1285388803",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Everyone is dead. ",
+		"Everyone is dead.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Everyone except you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Everyone except you.\
+",
 	},
 	next = {
 		2660,
 	},
 	previous = 2658,
+	page_id = 2659,
+	long_title = false,
 }

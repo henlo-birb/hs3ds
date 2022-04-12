@@ -1,6 +1,5 @@
 return {
 	title = "==>==>",
-	pageId = 267,
 	timestamp = "1245205031",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Just one ==> command will suffice. Thanks.",
+		"Just one ==> command will suffice.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thanks.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like you're not the only one trying to locate your father after the disaster.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like you're not the only one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trying to locate your father after the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disaster.\
+",
 	},
 	next = {
 		268,
 	},
 	previous = 266,
+	page_id = 267,
+	long_title = false,
 }

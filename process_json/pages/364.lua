@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Acquire umbrella for protection from elements.",
-	pageId = 364,
 	timestamp = "1247340268",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		365,
 	},
 	previous = 363,
+	page_id = 364,
+	long_title = true,
 }

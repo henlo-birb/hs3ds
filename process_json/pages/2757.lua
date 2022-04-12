@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Lick screen.",
-	pageId = 2757,
 	timestamp = "1286944007",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		2758,
 	},
 	previous = 2756,
+	page_id = 2757,
+	long_title = false,
 }

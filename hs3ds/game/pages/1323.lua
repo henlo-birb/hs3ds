@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1323,
 	timestamp = "1265491703",
 	flag = {},
 	media = {
@@ -12,16 +11,69 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" insists that you reconsider! Using that to pry open the vault would be EVER so much bad luck! Like breaking a thousand mirrors all at once! The sort of mirrors that tick and have numbers and tell time and stuff. That is the worst kind of mirror to break, luckwise.",
+		"insists that you reconsider! Using\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that to pry open the vault would be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVER so much bad luck! Like breaking a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thousand mirrors all at once! The sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of mirrors that tick and have numbers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and tell time and stuff. That is the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"worst kind of mirror to break,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"luckwise.\
+",
 	},
 	next = {
 		1324,
 	},
 	previous = 1322,
+	page_id = 1323,
+	long_title = false,
 }

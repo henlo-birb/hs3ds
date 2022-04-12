@@ -1,10 +1,9 @@
 return {
 	title = "Be Jake.",
-	pageId = "007051",
 	timestamp = "1340699348",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/05148.gif",
+		"05148",
 	},
 	content = {
 		{
@@ -12,51 +11,124 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: WILL YOu GET A MAMMOTH LOAD OF THIS CLuELESS DuMBFuCK.",
+		"uu: WILL YOu GET A MAMMOTH LOAD OF\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"THIS CLuELESS DuMBFuCK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: HE ACTuALLY \"CARES\" ABOuT STuFF. AND LIKE. WEIRDLY uRINATES THROuGH HIS EYE HOLES. WHAT A JOKE.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: I REALLY HATE HIM.",
+		"uu: HE ACTuALLY \"CARES\" ABOuT STuFF.\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: WHY ALL THE BITCHES.",
+		"AND LIKE. WEIRDLY uRINATES THROuGH HIS\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"EYE HOLES. WHAT A JOKE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: FLuSH OVER THIS MuMBLING. SOCIALLY STuNTED IMBECILE. I WILL NEVER KNOW.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: I REALLY HATE HIM.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: TALK ABOuT THICK HEADED.",
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: WHY ALL THE BITCHES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: FLuSH OVER THIS MuMBLING. SOCIALLY\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"STuNTED IMBECILE. I WILL NEVER KNOW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: TALK ABOuT THICK HEADED.\
+",
 	},
 	next = {
 		5152,
 	},
+	page_id = 5151,
+	long_title = false,
 }

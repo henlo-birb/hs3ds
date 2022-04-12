@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7339,
 	timestamp = "1420779334",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Hahahaha!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Hahahaha!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: heheheh",
+		"MEENAH: heheheh\
+",
 	},
 	next = {
 		7340,
 	},
 	previous = 7338,
+	page_id = 7339,
+	long_title = false,
 }

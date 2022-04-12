@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Start whacking things with the crowbar.",
-	pageId = 1312,
 	timestamp = "1265354054",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1313,
 	},
 	previous = 1311,
+	page_id = 1312,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Pester informant.",
-	pageId = 3627,
 	timestamp = "1299566390",
 	flag = {},
 	media = {
@@ -12,794 +11,2211 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: It's quite warm here on Lohac.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: It's quite warm here on Lohac.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I think I've been patient enough.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I think I've been patient enough.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: When will I receive further instruction?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Now.",
+		"TT: When will I receive further\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"instruction?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: So,",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I could have contacted you at any time?",
+		"TT: So,\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-No.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Only now.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I came away with the impression from our last conversation that our next would take place on your invitation.",
+		"TT: I could have contacted you at any\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"time?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I was being polite by waiting.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Your inevitable impatience caused you to contact me again.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Inevitability is my invitation.",
+		"Only now.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: That's pretty smug.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I am right to be smug. I am omniscient, extremely powerful, and very charming.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Well,",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Two out of three isn't bad.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Can you use your limitless intelligence to figure out which ones I mean?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-That was clever.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-If I plead ignorance to the fact that you are denying my charisma, it invalidates my claim of omniscience.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But if I must adhere to my all knowing status, it forces me to validate the unfortunate reality that you are feigning the opinion that my demeamor is unpalatable.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Not that it matters, because I have all three qualities and you know it.",
+		"TT: I came away with the impression\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: This is stupid.",
+		"from our last conversation that our\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Could we get to the point?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes, I was about to say.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-We should hurry this along. My visitor is beginning to set things on fire.",
+		"next would take place on your\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"invitation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You have a visitor?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I was being polite by waiting.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Who?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Some guy.",
+		"Your inevitable impatience caused you\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I was joking anyway. I am not in a hurry at all.",
+		"to contact me again.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: You tell jokes?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Haa haa.",
+		"Inevitability is my invitation.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: So, your visitor isn't setting anything on fire then?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Oh, he most definitely is.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Hee hee.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: That's pretty smug.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'm really not getting this joke.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I was joking about being in a hurry.",
+		"I am right to be smug. I am\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-From my perspective, this conversation is taking place in less than one second.",
+		"omniscient, extremely powerful, and\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I type very quickly.",
+		"very charming.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Hoo hoo.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I thought you didn't lie.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Aren't jokes essentially humorous lies?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: At least, those like the one you just attempted.",
+		"TT: Well,\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Jokes are only temporary lies.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-If the falsehood is never exposed, there is no punchline. If the punchline is never delivered, the lie is sealed forever, regardless of initial humorous intent. Lies are not funny.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I think if you're going to risk tarnishing your record of honesty, you should probably get better material.",
+		"TT: Two out of three isn't bad.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-My joke was objectively funny. Who would know better than I?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Ok.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: So you're saying an inaccurate statement doesn't count as a lie, as long as you say \"just kidding\" later?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Basically.",
+		"TT: Can you use your limitless\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: What if it's much later? Is it still \"just a joke?\"",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-No, that would be something closer to a prank.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I don't play pranks very often.",
+		"intelligence to figure out which ones\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"I mean?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Are you allowed to lie about playing pranks? If I asked you if you were playing a prank on me, would you tell the truth?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"That was clever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I am allowed to do whatever I want. I choose never to lie. I also choose to tell jokes now and then, and to play pranks quite sparingly.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-But I can say that I have never played a prank on you, and no statement I have made to you thus far, or will make in this conversation, will contain any trace of falsehood for the sake of setting up a joke or a prank, with the exception of the joke I just made, and another one I will make very soon.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I'm starting to change my mind.",
+		"If I plead ignorance to the fact that\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Oh?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Yes. I think your joke was funny in retrospect. Actually, your whole shtick is pretty good. I'm warming up to it.",
+		"you are denying my charisma, it\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Yes. I knew it.",
+		"invalidates my claim of omniscience.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Just to be clear,",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Was the assurance you just made a prank or a joke?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-It was neither. It was the truth.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Was that?",
+		"But if I must adhere to my all knowing\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: The truth?",
+		"status, it forces me to validate the\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Ok.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Were you serious about wanting to die?",
+		"unfortunate reality that you are\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Why?",
+		"feigning the opinion that my demeamor\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"is unpalatable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I'll tell you later.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Not that it matters, because I have\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"all three qualities and you know it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Why?",
+		"TT: This is stupid.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Because you asked.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: But why not now?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Because that piece of information would not fit elegantly into the sequence of our exchange at this moment.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Could we get to the point?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Then you know how this entire conversation will go?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Yes.",
+		"Yes, I was about to say.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Is that true of all conversations you have?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes. Until, briefly, I don't. But the dark spots never last long. The truth disguises itself to me sometimes which can be mildly frustrating, but it usually reveals itself quickly, much as if a punchline was delivered. It's a humorous dialogue I have with reality, and it is very amusing.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Then why do you bother with the conversations? Obligation to predestination, as usual?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-There is no obligation.",
+		"We should hurry this along. My visitor\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-It's a pleasure.",
+		"is beginning to set things on fire.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: It is?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I've always had a soft spot for young ladies.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You have a visitor?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Hmm.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Who?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: That's a little creepy.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-No it's not.",
+		"Some guy.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Yes it is.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-No it's not.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: It kind of is.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I have looked into the future and determined that we would continue in this manner pointlessly for some time, so I am putting an end to it here.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: That doesn't make sense.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Was that the other joke?",
+		"I was joking anyway. I am not in a\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"hurry at all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Yes.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You tell jokes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Heh. Good one.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Thank you.",
+		"Yes.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: How young are the ladies you typically take a shining to?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: And does this mean you are attracted to me?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Suddenly this conversation is kind of terrible.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Of course I am not. Not in the way you mean.",
+		"Haa haa.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-And anyway, you are applying standards of conduct frowned upon for your kind which make no sense to apply to me.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I am an immortal entity with a large cue ball for a head, and no biological means of reproduction.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: ...",
+		"TT: So, your visitor isn't setting\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"anything on fire then?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Really.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Oh, he most definitely is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Also, if you were millions of years old, you would find that nearly every lady you encounter is quite young, relatively speaking.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-There should be no reason for you to feel uncomfortable with this interaction. Try to think of me as one of your kindly human uncle figures.",
+		"Hee hee.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-In fact, if I were in your presence now, I would offer you candy to prove it.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I'm really not getting this joke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Oh my god.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"I was joking about being in a hurry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-What?",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"From my perspective, this conversation\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"is taking place in less than one\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"second.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I type very quickly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Hoo hoo.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I thought you didn't lie.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Can we talk about the scratch instead of this?",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Aren't jokes essentially humorous\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"lies?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: At least, those like the one you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"just attempted.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Jokes are only temporary lies.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Yes.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"If the falsehood is never exposed,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"there is no punchline. If the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"punchline is never delivered, the lie\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"is sealed forever, regardless of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"initial humorous intent. Lies are not\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"funny.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I think if you're going to risk\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"tarnishing your record of honesty, you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"should probably get better material.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"My joke was objectively funny. Who\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"would know better than I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So you're saying an inaccurate\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"statement doesn't count as a lie, as\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"long as you say \"just kidding\" later?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Basically.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What if it's much later? Is it\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"still \"just a joke?\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No, that would be something closer to\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a prank.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I don't play pranks very often.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Are you allowed to lie about\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"playing pranks? If I asked you if you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"were playing a prank on me, would you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"tell the truth?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I am allowed to do whatever I want. I\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"choose never to lie. I also choose to\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"tell jokes now and then, and to play\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"pranks quite sparingly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But I can say that I have never played\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a prank on you, and no statement I\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"have made to you thus far, or will\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"make in this conversation, will\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"contain any trace of falsehood for the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"sake of setting up a joke or a prank,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"with the exception of the joke I just\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"made, and another one I will make very\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"soon.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I'm starting to change my mind.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Oh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Yes. I think your joke was funny\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"in retrospect. Actually, your whole\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"shtick is pretty good. I'm warming up\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"to it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes. I knew it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Just to be clear,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Was the assurance you just made a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"prank or a joke?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It was neither. It was the truth.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Was that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: The truth?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Were you serious about wanting to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"die?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Why?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I'll tell you later.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Why?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Because you asked.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: But why not now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Because that piece of information\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"would not fit elegantly into the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"sequence of our exchange at this\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then you know how this entire\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"conversation will go?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is that true of all conversations\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you have?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes. Until, briefly, I don't. But the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"dark spots never last long. The truth\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"disguises itself to me sometimes which\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"can be mildly frustrating, but it\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"usually reveals itself quickly, much\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"as if a punchline was delivered. It's\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a humorous dialogue I have with\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reality, and it is very amusing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then why do you bother with the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"conversations? Obligation to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"predestination, as usual?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"There is no obligation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It's a pleasure.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It is?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I've always had a soft spot for young\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"ladies.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That's a little creepy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No it's not.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Yes it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No it's not.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It kind of is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I have looked into the future and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"determined that we would continue in\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"this manner pointlessly for some time,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"so I am putting an end to it here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That doesn't make sense.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Was that the other joke?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Heh. Good one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Thank you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: How young are the ladies you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"typically take a shining to?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And does this mean you are\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"attracted to me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Suddenly this conversation is kind\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"of terrible.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Of course I am not. Not in the way you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"mean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"And anyway, you are applying standards\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of conduct frowned upon for your kind\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"which make no sense to apply to me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I am an immortal entity with a large\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"cue ball for a head, and no biological\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"means of reproduction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Really.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Also, if you were millions of years\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"old, you would find that nearly every\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"lady you encounter is quite young,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"relatively speaking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"There should be no reason for you to\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"feel uncomfortable with this\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"interaction. Try to think of me as one\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of your kindly human uncle figures.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"In fact, if I were in your presence\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"now, I would offer you candy to prove\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Oh my god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Can we talk about the scratch\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"instead of this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
 	},
 	next = {
 		3628,
 	},
 	previous = 3626,
+	page_id = 3627,
+	long_title = false,
 }

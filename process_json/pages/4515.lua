@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Proceed to lab.",
-	pageId = 4515,
 	timestamp = "1327970763",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		4516,
 	},
 	previous = 4514,
+	page_id = 4515,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Hop down the hole.",
-	pageId = 166,
 	timestamp = "1242540849",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You jump down to the UTILITY ROOM.",
+		"You jump down to the UTILITY ROOM.\
+",
 	},
 	next = {
 		167,
 	},
 	previous = 165,
+	page_id = 166,
+	long_title = false,
 }

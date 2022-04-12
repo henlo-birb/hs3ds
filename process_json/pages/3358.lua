@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Answer.",
-	pageId = 3358,
 	timestamp = "1295920115",
 	flag = {},
 	media = {
@@ -1461,4 +1460,6 @@ return {
 		3359,
 	},
 	previous = 3357,
+	page_id = 3358,
+	long_title = false,
 }

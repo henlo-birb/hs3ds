@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine the small potted plant.",
-	pageId = 678,
 	timestamp = "1253649045",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		679,
 	},
 	previous = 677,
+	page_id = 678,
+	long_title = true,
 }

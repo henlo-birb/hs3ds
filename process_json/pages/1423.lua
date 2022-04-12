@@ -1,6 +1,5 @@
 return {
 	title = "Introduce yourself to the local amphibious fauna.",
-	pageId = 1423,
 	timestamp = "1266539354",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1424,
 	},
 	previous = 1422,
+	page_id = 1423,
+	long_title = true,
 }

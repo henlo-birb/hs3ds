@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3632,
 	timestamp = "1299874685",
 	flag = {},
 	media = {
@@ -12,647 +11,1931 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: How can I see through it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: How can I see through it?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-It seems you weren't listening, so I will state this again in the form of a question.",
+		"It seems you weren't listening, so I\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Don't you think I should be asking the questions from now on?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Yes, if you wanted to be disingenuous and irritating.",
+		"will state this again in the form of a\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Don't you think a clever person should be able to acquire information from someone who only asks questions?",
+		"question.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Then it's a challenge!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I pass.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Do you have a choice? What if I'm feeling a bit stubborn?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Ok, so what you mean is I should continue humoring your leading questions until you happen to ask certain rhetorical questions that contain information I need.",
+		"Don't you think I should be asking the\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"questions from now on?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Was that a question?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That was a fact, and then a period.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-How does a Seer see?",
+		"TT: Yes, if you wanted to be\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"disingenuous and irritating.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: ...",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Don't you think a clever person should\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"be able to acquire information from\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"someone who only asks questions?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Then it's a challenge!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: With a crystal ball?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I pass.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I already considered that. I don't think I can get the focus of the ball to \"zoom in\" tight enough on the cue ball's enclosure to read the answers.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-How else does she see?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: By other magical means, I guess.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Should I use magic?",
+		"Do you have a choice? What if I'm\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Do you believe in magic?",
+		"feeling a bit stubborn?\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Magic is real.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I've been using it.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Are you sure?",
+		"TT: Ok, so what you mean is I should\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Use whatever word you want to describe it. I have magic wands, they are very powerful, and they allow me to be magic. Your questions are silly.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What makes you convinced the wands are responsible for your abilities?",
+		"continue humoring your leading\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Because I did not have the abilities before I made them.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Could this be circumstantial?",
+		"questions until you happen to ask\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Could it?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Is there an echo?",
+		"certain rhetorical questions that\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"contain information I need.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Is there an echo?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Hee hee?",
+		"Was that a question?\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: I don't know what you're getting at.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: How about another leading question?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What did you combine to make those wands?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Some stuff.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Knitting needles?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-An inexpensive figurine of some fictional fellow with long whiskers?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-A simple textbook on the zoologically dubious?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Why would this mundane combination of objects grant a child such an alarming mastery over dark forces all at once?",
+		"TT: That was a fact, and then a\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"period.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'm guessing this is one of the rhetorical questions meant to be informative.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"How does a Seer see?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: So then, my answer should affirm how ridiculous that sounds, shouldn't it?",
+		"TT: ...\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Maybe?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: That wasn't even a question.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes it was?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Ok. Magic is fake, the wands are useless toys, and there is something else going on. Next question???",
+		"TT: With a crystal ball?\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Would it be so difficult to believe the power you've found to devastate your planet and create shortcuts through your session is not entirely by your own device?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Would it be so difficult to believe a young lady could be unwittingly apprenticed by more powerful entities who meant her potential to be realized later through some arbitrary trigger?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What would you say if I said a dutiful girl raised in the daylight was protected by a bulb-headed guardian, and learned to glow in the dark after death?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What would you say if I said a vengeful boy on a path of nihilism was taken under the wings of fearsome angels, and learned to destroy hope with their light?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What would you say if I said a reserved girl enamored by what dwelt in shadow was selected by the horrorterrors for service, and did their bidding at every step while convinced of her own autonomy?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: What would I say to those short fables?",
+		"TT: I already considered that. I don't\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Not much, except I gather the third is a story about me, and that there's a lesson you'd like me to take from it.",
+		"think I can get the focus of the ball\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That I should renounce my \"allegiance\" before my grimdark corruption is absolute.",
+		"to \"zoom in\" tight enough on the cue\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ball's enclosure to read the answers.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And while I'm at it, I should discard these useless wands, because apparently the power was in my little black heart all along. Is that right?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Won't you have to give up your specibus to the one who causes the Scratch regardless?",
+		"How else does she see?\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-How else will the young man wield that great big needle?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I don't know! If you say so.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Haven't your friends already shown concern for your recklessness and your increasing sense of detachment from the party, the team objectives, and not to mention those of your personal quest?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Does this worry you? Is there a part of you left that's able to worry?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Yes. It has been mysteriously localized to my middle finger. Could the dark magics be at work AGAIN?!",
+		"TT: By other magical means, I guess.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Do you deny that you have been neglecting incoming messages from your teammates? Would that be in keeping with the spirit of the human emotion of friendship for one whose soul was not so befouled by the designs of unknowable monstrosities?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Friendship isn't an emotion, numbnuts.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Isn't it, Rose?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Isn't it?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Should I use magic?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I've been busy. I'll get back to them.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Do you believe in magic?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Magic is real.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And can we please stop doing the patronizing question thing?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I've been using it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: In exchange I promise I will discontinue my patronizing responses.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Can the omniscient be patronized?",
+		"Are you sure?\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: The omniscipotent can do whatever they please. I guess I'm just asking you nicely to do me this favor.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Very well. I will stop smothering you with surprise noodles.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Huh?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But only because I find you to be adorable.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: So creepy.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-So cute.",
+		"TT: Use whatever word you want to\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Yuck.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I am going to ask the same question I asked earlier.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Please do not regard it as a violation of my pledge. It is just an ordinary question, like those that crop up in an ordinary conversation.",
+		"describe it. I have magic wands, they\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Ok.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-How does a Seer see?",
+		"are very powerful, and they allow me\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"to be magic. Your questions are silly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I don't know.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Be literal.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: With her eyes?",
+		"What makes you convinced the wands are\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Take the orb.",
+		"responsible for your abilities?\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Ask it a question.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I don't know what to ask anymore.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I'm confused.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What would you ask me?",
+		"TT: Because I did not have the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"abilities before I made them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I would ask what should I do next.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Could this be circumstantial?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Then ask.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Could it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What should I do next?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Is there an echo?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Not me.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is there an echo?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Hee hee?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-The ball, dunkass.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I don't know what you're getting\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"at.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: How about another leading\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"question?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What did you combine to make those\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"wands?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Some stuff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Knitting needles?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"An inexpensive figurine of some\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"fictional fellow with long whiskers?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"A simple textbook on the zoologically\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"dubious?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Why would this mundane combination of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"objects grant a child such an alarming\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"mastery over dark forces all at once?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I'm guessing this is one of the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"rhetorical questions meant to be\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"informative.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So then, my answer should affirm\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"how ridiculous that sounds, shouldn't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Maybe?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That wasn't even a question.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes it was?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Ok. Magic is fake, the wands are\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"useless toys, and there is something\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"else going on. Next question???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Would it be so difficult to believe\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the power you've found to devastate\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"your planet and create shortcuts\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"through your session is not entirely\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"by your own device?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Would it be so difficult to believe a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"young lady could be unwittingly\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"apprenticed by more powerful entities\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"who meant her potential to be realized\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"later through some arbitrary trigger?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What would you say if I said a dutiful\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"girl raised in the daylight was\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"protected by a bulb-headed guardian,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"and learned to glow in the dark after\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"death?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What would you say if I said a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"vengeful boy on a path of nihilism was\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"taken under the wings of fearsome\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"angels, and learned to destroy hope\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"with their light?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What would you say if I said a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reserved girl enamored by what dwelt\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"in shadow was selected by the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"horrorterrors for service, and did\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"their bidding at every step while\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"convinced of her own autonomy?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What would I say to those short\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"fables?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Not much, except I gather the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"third is a story about me, and that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"there's a lesson you'd like me to take\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"from it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That I should renounce my\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"\"allegiance\" before my grimdark\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"corruption is absolute.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And while I'm at it, I should\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"discard these useless wands, because\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"apparently the power was in my little\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"black heart all along. Is that right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Won't you have to give up your\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"specibus to the one who causes the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Scratch regardless?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"How else will the young man wield that\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"great big needle?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I don't know! If you say so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Haven't your friends already shown\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"concern for your recklessness and your\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"increasing sense of detachment from\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the party, the team objectives, and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"not to mention those of your personal\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"quest?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Does this worry you? Is there a part\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of you left that's able to worry?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Yes. It has been mysteriously\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"localized to my middle finger. Could\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the dark magics be at work AGAIN?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Do you deny that you have been\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"neglecting incoming messages from your\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"teammates? Would that be in keeping\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"with the spirit of the human emotion\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of friendship for one whose soul was\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"not so befouled by the designs of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"unknowable monstrosities?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Friendship isn't an emotion,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"numbnuts.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Isn't it, Rose?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Isn't it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I've been busy. I'll get back to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And can we please stop doing the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"patronizing question thing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: In exchange I promise I will\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"discontinue my patronizing responses.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Can the omniscient be patronized?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: The omniscipotent can do whatever\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"they please. I guess I'm just asking\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you nicely to do me this favor.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Very well. I will stop smothering you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"with surprise noodles.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But only because I find you to be\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"adorable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: So creepy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"So cute.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Yuck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I am going to ask the same question I\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"asked earlier.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Please do not regard it as a violation\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of my pledge. It is just an ordinary\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"question, like those that crop up in\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"an ordinary conversation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"How does a Seer see?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I don't know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Be literal.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: With her eyes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Take the orb.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Ask it a question.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I don't know what to ask anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I'm confused.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What would you ask me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I would ask what should I do next.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Then ask.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What should I do next?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Not me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"The ball, dunkass.\
+",
 	},
 	next = {
 		3633,
 	},
 	previous = 3631,
+	page_id = 3632,
+	long_title = false,
 }

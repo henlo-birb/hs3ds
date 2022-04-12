@@ -1,6 +1,5 @@
 return {
 	title = "Snowman: Escape.",
-	pageId = 3132,
 	timestamp = "1293119922",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3133,
 	},
 	previous = 3131,
+	page_id = 3132,
+	long_title = false,
 }

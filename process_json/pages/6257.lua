@@ -1,6 +1,5 @@
 return {
 	title = "IT IS HAPPENING AT YOUR EXPENSE!",
-	pageId = 6257,
 	timestamp = "1371079877",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 	},
 	previous = 6256,
 	theme = "A6A6",
+	page_id = 6257,
+	long_title = false,
 }

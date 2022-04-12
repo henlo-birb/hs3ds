@@ -1,6 +1,5 @@
 return {
 	title = "HERE COMES ANOTHER PRIME O.C. OF MINE, HOT OFF THE PRESS.",
-	pageId = 6877,
 	timestamp = "1413621411",
 	flag = {},
 	media = {
@@ -223,4 +222,6 @@ return {
 	},
 	previous = 6876,
 	theme = "A6A6",
+	page_id = 6877,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Recap 2.",
-	pageId = 1988,
 	timestamp = "1276312597",
 	flag = {},
 	media = {
@@ -4590,4 +4589,6 @@ return {
 		1989,
 	},
 	previous = 1987,
+	page_id = 1988,
+	long_title = false,
 }

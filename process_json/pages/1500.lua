@@ -1,6 +1,5 @@
 return {
 	title = "WV: Become the mayor of Exile Town.",
-	pageId = 1500,
 	timestamp = "1267232760",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1501,
 	},
 	previous = 1499,
+	page_id = 1500,
+	long_title = true,
 }

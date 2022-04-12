@@ -1,13 +1,14 @@
 return {
 	title = "END OF ACT 6 INTERMISSION 5 INTERMISSION 6",
-	pageId = "008106",
 	timestamp = "1365653523",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/06203.gif",
+		"06203",
 	},
 	content = {},
 	next = {
 		6207,
 	},
+	page_id = 6206,
+	long_title = true,
 }

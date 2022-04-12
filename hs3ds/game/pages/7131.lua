@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7131,
 	timestamp = "1418014361",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i shouldn't mess around with that moment.",
+		"JOHN: i shouldn't mess around with\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"that moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: it is WAY too fundamental.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it is WAY too fundamental.\
+",
 	},
 	next = {
 		7132,
 	},
 	previous = 7130,
+	page_id = 7131,
+	long_title = false,
 }

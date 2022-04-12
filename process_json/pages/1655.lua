@@ -1,6 +1,5 @@
 return {
 	title = "Future Dream Rose: Cease to exist.",
-	pageId = 1655,
 	timestamp = "1270331658",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1656,
 	},
 	previous = 1654,
+	page_id = 1655,
+	long_title = true,
 }

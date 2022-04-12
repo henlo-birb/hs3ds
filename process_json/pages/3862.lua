@@ -1,6 +1,5 @@
 return {
 	title = "[o] Slick, I can tolerate many things from a guest.",
-	pageId = 3862,
 	timestamp = "1308276372",
 	flag = {},
 	media = {
@@ -28,4 +27,6 @@ return {
 	},
 	previous = 3861,
 	theme = "scratch",
+	page_id = 3862,
+	long_title = true,
 }

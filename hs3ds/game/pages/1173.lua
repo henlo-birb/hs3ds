@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Use radio device to check on unscrupulous cohorts.",
-	pageId = 1173,
 	timestamp = "1263800653",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You put the word out to your cronies for a status report. No response yet.",
+		"You put the word out to your cronies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a status report. No response yet.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You clean up all your junk and prepare to get this show on the road.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You clean up all your junk and prepare\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to get this show on the road.\
+",
 	},
 	next = {
 		1174,
 	},
 	previous = 1172,
+	page_id = 1173,
+	long_title = true,
 }

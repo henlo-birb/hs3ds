@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7870,
 	timestamp = "1436485245",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Why is everything always so wonderful?",
+		"VRISKA: Why is everything always so\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wonderful?\
+",
 	},
 	next = {
 		7871,
 	},
 	previous = 7869,
+	page_id = 7870,
+	long_title = false,
 }

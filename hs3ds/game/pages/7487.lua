@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7487,
 	timestamp = "1430437813",
 	flag = {},
 	media = {
@@ -12,1543 +11,4899 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: so tell me about your ridiculous\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"meteor journey!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: so tell me about your ridiculous meteor journey!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: um\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: um",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: the dave from the bad time line told me some funny stories when we got together on the grassy hill planet",
+		"JOHN: the dave from the bad time line\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: but we weren't actually hanging out for that long, so i didn't hear much.",
+		"told me some funny stories when we got\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"together on the grassy hill planet\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: also, i'm MOSTLY sure vriska wasn't alive during their trip.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but we weren't actually hanging\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"out for that long, so i didn't hear\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"much.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: also, i'm MOSTLY sure vriska\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"wasn't alive during their trip.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: oh well let me tell you\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: oh well let me tell you",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: vriska was most certainly alive during this one",
+		"DAVE: vriska was most certainly alive\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"during this one\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: like almost",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: like almost\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: extra-alive, if thats possible",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: extra-alive, if thats possible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: haha.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: haha.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i think i know what you mean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i think i know what you mean.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i spent some time with her when she was a ghost, and uh...",
+		"JOHN: i spent some time with her when\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"she was a ghost, and uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: let's just say whatever her mortality status is, she makes her presence hard to ignore.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: let's just say whatever her\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"mortality status is, she makes her\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"presence hard to ignore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: YES. YES!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: YES. YES!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: I LOVE THIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I LOVE THIS.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: CAN WE SPEND OUR WHOLE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"REMINISCENCE JUST DESTROYING VRISKA,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SLIGHTLY ABOVE AUDIBLE LEVEL?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: CAN WE SPEND OUR WHOLE REMINISCENCE JUST DESTROYING VRISKA, SLIGHTLY ABOVE AUDIBLE LEVEL?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Slightly?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Slightly?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Karkat, you only have one\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"volume setting.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Karkat, you only have one volume setting.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WOW, FUCK YOU?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WOW, FUCK YOU?!",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: ok dude maybe lets not spend our\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"paltime trash talking serket if only\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"cus theres no way youre not getting\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"repeatedly trounced exactly just like\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: ok dude maybe lets not spend our paltime trash talking serket if only cus theres no way youre not getting repeatedly trounced exactly just like that",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: FFFFFFFFFFFFFYEAH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: FFFFFFFFFFFFFYEAH.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"KARKAT: YEAH, YOU'RE RIGHT.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: YEAH, YOU'RE RIGHT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: OK, I'LL CHILL OUT. YOU'RE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"RIGHT DAVE, AS USUAL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: OK, I'LL CHILL OUT. YOU'RE RIGHT DAVE, AS USUAL.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"JOHN: wow.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: wow.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: karkat, for a funny shouty guy,\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"you backed down on that really fast.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: karkat, for a funny shouty guy, you backed down on that really fast.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i'm almost... a bit\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"disappointed?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm almost... a bit disappointed?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i was looking forward to more of\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"your patented ravings!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i was looking forward to more of your patented ravings!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HEY, JOHN FUCKBERT, I'LL HAVE YOU KNOW I'M A LITTLE MORE MATURE AND REASONABLE THAN THE LAST TIME YOU SAW ME.",
+		"KARKAT: HEY, JOHN FUCKBERT, I'LL HAVE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
-		},
-		"\
-KARKAT: I'M A LOT MORE THAN MR. HOLLERSPONGE ONE-NOTE, AND ANYONE WHO DISPUTES THIS CAN CORDIALLY INVITE ME TO PLAY THEIR DIRTY SEED FLAP LIKE A DISCOUNT HARMONICA.",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
 		},
-		"\
-JOHN: oh. well, i'm sold.",
+		"YOU KNOW I'M A LITTLE MORE MATURE AND\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: SERIOUSLY THOUGH, IT'S PRETTY COOL TO FINALLY MEET YOU. I MEAN, UNDER MORE CIVIL, RATIONAL CIRCUMSTANCES.",
+		"REASONABLE THAN THE LAST TIME YOU SAW\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"ME.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: UNLIKE WHATEVER THE *FUCK* THAT BRIEF ENCOUNTER WAS THREE YEARS AGO WHERE YOU KO'D VRISKA AND THEN POOFED YOUR FLIMSY ASS INTO THE FUCKALL CONTINUUM.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I KNOW I SEEMED REALLY MAD ABOUT THAT AT THE TIME, FOR WHATEVER REASON.",
+		"KARKAT: I'M A LOT MORE THAN MR.\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BUT REALLY, I'VE HAD SOOOOO MANY BORING HOURS ON THAT METEOR TO SPEND BARELY REFLECTING ON THE ROUGHLY TEN THOUSAND WAYS I DON'T GIVE THE SLIGHTEST FUCK ABOUT WHATEVER IDIOTIC TWIST OF FATE TRANSPIRED BACK THERE.",
+		"HOLLERSPONGE ONE-NOTE, AND ANYONE WHO\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: heheh. ok?",
+		"DISPUTES THIS CAN CORDIALLY INVITE ME\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I'M COMPLETELY OVER IT.",
+		"TO PLAY THEIR DIRTY SEED FLAP LIKE A\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"DISCOUNT HARMONICA.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: I'M OVER A LOT OF THINGS ACTUALLY.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"JOHN: oh. well, i'm sold.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: ... you are?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: YEAH.",
+		"KARKAT: SERIOUSLY THOUGH, IT'S PRETTY\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: LIKE, REMEMBER BACK WHEN I WAS YELLING AT YOU ALL THE TIME FROM MY COMPUTER.",
+		"COOL TO FINALLY MEET YOU. I MEAN,\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BACK THEN I PROBABLY WOULD HAVE FELT NERVOUS OR AWKWARD ABOUT THIS ENCOUNTER.",
+		"UNDER MORE CIVIL, RATIONAL\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BECAUSE OF... WELL, YOU KNOW.",
+		"CIRCUMSTANCES.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: no?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
-		},
-		"\
-KARKAT: I WAS HITTING ON YOU BRIEFLY, AND IN A VERY CONFUSING NON-CHRONOLOGICAL WAY, WITHOUT EVEN QUITE REALIZING HOW BADLY I WAS SHOVING MY STRUT POD DOWN MY OWN STATEMENT TUNNEL.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
 		},
-		"\
-DAVE: dude",
+		"KARKAT: UNLIKE WHATEVER THE *FUCK*\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I MEAN, UNTIL YOU MERCIFULLY AND WITH A FAIR AMOUNT OF TACT SHUT ME DOWN.",
+		"THAT BRIEF ENCOUNTER WAS THREE YEARS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
-		},
-		"\
-KARKAT: DON'T YOU REMEMBER?",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
 		},
-		"\
-JOHN: uh...",
+		"AGO WHERE YOU KO'D VRISKA AND THEN\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: maybe?",
+		"POOFED YOUR FLIMSY ASS INTO THE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HOW CAN YOU NOT REMEMBER THAT?",
+		"FUCKALL CONTINUUM.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: i dunno, it was a long time ago!",
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: and we had a lot of ridiculous conversations...",
+		"KARKAT: I KNOW I SEEMED REALLY MAD\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OK, WELL MAYBE IT WAS A BIGGER DEAL FOR ME THAN IT WAS FOR YOU.",
+		"ABOUT THAT AT THE TIME, FOR WHATEVER\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"REASON.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I MEAN, *OBVIOUSLY* IT WAS, THAT'S SORT OF THE WHOLE POINT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BUT THE *REAL* POINT IS, OR THAT I WAS *TRYING* TO MAKE, IS THAT IT *ISN'T* A BIG DEAL ANY MORE.",
+		"KARKAT: BUT REALLY, I'VE HAD SOOOOO\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BECAUSE I'M OVER IT!",
+		"MANY BORING HOURS ON THAT METEOR TO\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: karkat what the fuck are you doing",
+		"SPEND BARELY REFLECTING ON THE ROUGHLY\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WHAT!",
+		"TEN THOUSAND WAYS I DON'T GIVE THE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I'M TALKING, QUITE CASUALLY, ABOUT SOME SHIT THAT'S NOT A BIG DEAL.",
+		"SLIGHTEST FUCK ABOUT WHATEVER IDIOTIC\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: AND THE *POINT* IS THAT IT'S NOT A BIG DEAL ANYMORE, SO I'M JUST CASUALLY SAYING THAT! GOD.",
+		"TWIST OF FATE TRANSPIRED BACK THERE.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: ok its not an unreasonable conversation to have but like",
+",
 		{
-			0.8784313725490196,
 			0.027450980392156862,
-			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: we JUST started friend-jamming about past anecdotes to get us all up to speed or whatever",
+		"JOHN: heheh. ok?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: and youre already trucking out these guns",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: GUNS? WHAT GUNS!",
+		"KARKAT: I'M COMPLETELY OVER IT.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: just sayin, it doesnt sound that casual and no big deal if you keep saying its casual and no big deal oh and also its the first fuckin thing out of your mouth to john in three years",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: SORRY!",
+		"KARKAT: I'M OVER A LOT OF THINGS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
-		},
-		"\
-KARKAT: I'M SO TRULY FUCKING SORRY. I FORGOT THERE WAS SUCH AN OUTSTANDINGLY SMOOTH PILE OF SHIT IN A CAPE WITHIN MY JUDGMENT RADIUS!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
 		},
-		"\
-JOHN: no, i mean, i think i remember.",
+		"ACTUALLY.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: i think you were um, \"black flirting\" with me or something, but in backwards order, and while constantly yelling.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: and i didn't really even know what that was.",
+		"JOHN: ... you are?\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: and then i told you i wasn't a homosexual, so it was kind of a moot point, but also, you didn't even know what that was either?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: YEAH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: YES!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THAT'S BASICALLY WHAT HAPPENED",
+		"KARKAT: LIKE, REMEMBER BACK WHEN I WAS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: AND THAT IS EXACTLY WHAT I WAS *TRYING* TO SAY I WAS OVER, AND WASN'T A BIG DEAL ANYMORE, BUT NOW IT'S A BIG DEAL AGAIN I GUESS?",
+		"YELLING AT YOU ALL THE TIME FROM MY\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THAT'S FUCKING GREAT! THANKS DAVE!",
+		"COMPUTER.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: yo im hardly one to talk here since i am a goddamn geyser of hilariously self-pulverizing freudian bloopers",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: at this point i cant even pretend to keep a lid on any shit ive got in me cause i know sooner or later during one of my rad soliloquies ill just pratfall butt backwards into an embarrassing admission and i just have to be like yeah... yeah ok thats my shit thats what im about lets just get the fuck on with our lives",
+		"KARKAT: BACK THEN I PROBABLY WOULD\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: so when johns like hey man and youre all locked and loaded with some stuff about how youre 'over him' and go on and on about it its like some way obvious protest-too-much shit and everybody knows it so i dont see how it salvages any of your dignity or whatever to pretend thats not whats happening",
+		"HAVE FELT NERVOUS OR AWKWARD ABOUT\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OH MY FUCKING GOD...",
+		"THIS ENCOUNTER.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: so what im saying is if youre so eager to push this out there-",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I'M NOT \"PUSHING THIS OUT THERE\"!",
+		"KARKAT: BECAUSE OF... WELL, YOU KNOW.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: if youre pushing this out there which you are then maybe we should rap about it",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: no?\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: i mean discuss it critically and earnestly not drop ill rhymes or anything tho that could be sweet too",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: UEHRNGH.",
+		"KARKAT: I WAS HITTING ON YOU BRIEFLY,\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: so are you SURE you still dont have these unreconciled blackrom feelings about john",
+		"AND IN A VERY CONFUSING\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: i say we air this out before it ferments into some rank and hella unexamined feeling sauce",
+		"NON-CHRONOLOGICAL WAY, WITHOUT EVEN\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: dave, i think you're making karkat uncomfortable!",
+		"QUITE REALIZING HOW BADLY I WAS\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: are you being a wise guy and trying to make us uncomfortable?",
+		"SHOVING MY STRUT POD DOWN MY OWN\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: no!",
+		"STATEMENT TUNNEL.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: i dont do that to bros thats huge uncool",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
+		},
+		"DAVE: dude\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: i dont see what has to be uncomfy about chattin out our true ass thoughts and emotions",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: YEEUURHNGHGHH.",
+		"KARKAT: I MEAN, UNTIL YOU MERCIFULLY\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-DAVE: dude you clearly had a spades thing for john but i dont recall you ever bringing it up",
+		"AND WITH A FAIR AMOUNT OF TACT SHUT ME\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DOWN.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: is this something you been thinking about all this time or",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"KARKAT: DON'T YOU REMEMBER?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
+		"JOHN: uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: maybe?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: NO!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"KARKAT: HOW CAN YOU NOT REMEMBER THAT?\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: NOT... NOT REALLY",
+",
 		{
-			0.8784313725490196,
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i dunno, it was a long time ago!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: and we had a lot of ridiculous\
+",
+		{
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"conversations...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OK, WELL MAYBE IT WAS A BIGGER\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DEAL FOR ME THAN IT WAS FOR YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
+		"KARKAT: I MEAN, *OBVIOUSLY* IT WAS,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT'S SORT OF THE WHOLE POINT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: BUT THE *REAL* POINT IS, OR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT I WAS *TRYING* TO MAKE, IS THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IT *ISN'T* A BIG DEAL ANY MORE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: BECAUSE I'M OVER IT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: yeah we coulda talked about this",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i have all KINDS of shit to say about john seeing as he was my number 1 dude for approximately the majority of 13 years",
+		"DAVE: karkat what the fuck are you\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
+		},
+		"doing\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: the main dead end here man is like, nothing personal at all its just that he is literally incapable of hating anyone",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I KNOW THAT!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THAT IS THE *EXACT* FUCKING THING I KNEW AND UNDERSTOOD, AND WHY I FELT SO STUPID ABOUT IT IN HINDSIGHT!",
+		"KARKAT: I'M TALKING, QUITE CASUALLY,\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: well...",
+		"ABOUT SOME SHIT THAT'S NOT A BIG DEAL.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: not that i really want to egg on this train of thought, but i dunno if that's quite true.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: AND THE *POINT* IS THAT IT'S\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"NOT A BIG DEAL ANYMORE, SO I'M JUST\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"CASUALLY SAYING THAT! GOD.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: IT'S NOT?",
+",
 		{
+			0.8784313725490196,
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.027450980392156862,
 		},
-		"\
-JOHN: i can get really angry and hate stuff too, just like you. but i think only in extreme cases?",
+		"DAVE: ok its not an unreasonable\
+",
 		{
+			0.8784313725490196,
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.027450980392156862,
+		},
+		"conversation to have but like\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: the skull guy in suspenders i got REALLY pissed off at...",
+",
 		{
+			0.8784313725490196,
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.027450980392156862,
 		},
-		"\
-JOHN: but i am a hundred percent sure that hate was platonic!",
+		"DAVE: we JUST started friend-jamming\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: gettin pissed off at a suspender dude sounds like just the sort of yarn i wanna be all ears for some time",
+		"about past anecdotes to get us all up\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
+		},
+		"to speed or whatever\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: but ok thats something to work with",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: and youre already trucking out\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"these guns\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: hey karkat maybe theres some hope yet maybe its not a total lost cause",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
+		},
+		"KARKAT: GUNS? WHAT GUNS!\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: NERGH!",
+",
 		{
+			0.8784313725490196,
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.027450980392156862,
 		},
-		"\
-JOHN: ok, dave, it definitely sounds like you're trying to own us now!",
+		"DAVE: just sayin, it doesnt sound that\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: own",
+		"casual and no big deal if you keep\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: what",
+		"saying its casual and no big deal oh\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: no way",
+		"and also its the first fuckin thing\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"out of your mouth to john in three\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
+		},
+		"years\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: SORRY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I'M SO TRULY FUCKING SORRY. I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FORGOT THERE WAS SUCH AN OUTSTANDINGLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
+		"SMOOTH PILE OF SHIT IN A CAPE WITHIN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MY JUDGMENT RADIUS!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: im being real as a motherfucker",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"JOHN: no, i mean, i think i remember.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: being able to hate things i think is...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: the smaller part of that equation?",
+		"JOHN: i think you were um, \"black\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"flirting\" with me or something, but in\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"backwards order, and while constantly\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"yelling.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what about the other part? don't you think that's, uh...",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: and i didn't really even know\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"what that was.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: a little more significant?",
+",
 		{
-			0.8784313725490196,
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: and then i told you i wasn't a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"homosexual, so it was kind of a moot\
+",
+		{
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"point, but also, you didn't even know\
+",
+		{
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"what that was either?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YES!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THAT'S BASICALLY WHAT HAPPENED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: AND THAT IS EXACTLY WHAT I WAS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"*TRYING* TO SAY I WAS OVER, AND WASN'T\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"A BIG DEAL ANYMORE, BUT NOW IT'S A BIG\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DEAL AGAIN I GUESS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THAT'S FUCKING GREAT! THANKS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DAVE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yo im hardly one to talk here\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"since i am a goddamn geyser of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hilariously self-pulverizing freudian\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"bloopers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: at this point i cant even\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"pretend to keep a lid on any shit ive\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"got in me cause i know sooner or later\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"during one of my rad soliloquies ill\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"just pratfall butt backwards into an\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"embarrassing admission and i just have\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"to be like yeah... yeah ok thats my\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"shit thats what im about lets just get\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the fuck on with our lives\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so when johns like hey man and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"youre all locked and loaded with some\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"stuff about how youre 'over him' and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"go on and on about it its like some\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"way obvious protest-too-much shit and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"everybody knows it so i dont see how\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"it salvages any of your dignity or\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"whatever to pretend thats not whats\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"happening\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OH MY FUCKING GOD...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so what im saying is if youre so\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"eager to push this out there-\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I'M NOT \"PUSHING THIS OUT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THERE\"!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: if youre pushing this out there\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"which you are then maybe we should rap\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"about it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i mean discuss it critically and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"earnestly not drop ill rhymes or\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"anything tho that could be sweet too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: UEHRNGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so are you SURE you still dont\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"have these unreconciled blackrom\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"feelings about john\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i say we air this out before it\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ferments into some rank and hella\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"unexamined feeling sauce\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: dave, i think you're making\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"karkat uncomfortable!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: are you being a wise guy and\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"trying to make us uncomfortable?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: no!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i dont do that to bros thats\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"huge uncool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i dont see what has to be\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"uncomfy about chattin out our true ass\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"thoughts and emotions\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YEEUURHNGHGHH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: dude you clearly had a spades\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"thing for john but i dont recall you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ever bringing it up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: is this something you been\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"thinking about all this time or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: NO!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: NOT... NOT REALLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah we coulda talked about this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i have all KINDS of shit to say\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"about john seeing as he was my number\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"1 dude for approximately the majority\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"of 13 years\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: the main dead end here man is\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"like, nothing personal at all its just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that he is literally incapable of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hating anyone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I KNOW THAT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THAT IS THE *EXACT* FUCKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THING I KNEW AND UNDERSTOOD, AND WHY I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FELT SO STUPID ABOUT IT IN HINDSIGHT!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: well...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: not that i really want to egg on\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"this train of thought, but i dunno if\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"that's quite true.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: IT'S NOT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i can get really angry and hate\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"stuff too, just like you. but i think\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"only in extreme cases?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: the skull guy in suspenders i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"got REALLY pissed off at...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but i am a hundred percent sure\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"that hate was platonic!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: gettin pissed off at a suspender\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"dude sounds like just the sort of yarn\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"i wanna be all ears for some time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but ok thats something to work\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: hey karkat maybe theres some\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hope yet maybe its not a total lost\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"cause\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: NERGH!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ok, dave, it definitely sounds\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"like you're trying to own us now!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: own\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: no way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: im being real as a motherfucker\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: being able to hate things i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"think is...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: the smaller part of that\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"equation?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what about the other part? don't\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"you think that's, uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: a little more significant?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: what part\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: the part about not being a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"homosexual!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: john\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: dude i gotta say\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: when you talk about being or not\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"being \"a homosexual\" you kinda sound\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"like a corny old man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what! why?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: no, that's a normal way of\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"putting it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i mean... it's a pretty normal\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"thing to say, right? when that's...\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"how... you are?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: SOMEBODY FUCKING KILL ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: what does normal mean though\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: normal was some crap that ruled\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"our dead civilization\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we left that behind years ago\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: its all a huge pile of shit that\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"doesnt matter anymore\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: oh. kay?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: so then, you're saying...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: what are you saying?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: im not sure i guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: ok i guess what im saying is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i dont think its all as simple\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"as you think it is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: or maybe not like ACTIVELY think\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"it is but continue to assume it is on\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"account of NOT thinkin about it much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: due to a lot of junk about the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"subject that gets shoved into our\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"brains from movies and stuff while we\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"were just dumb kids\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: hm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: im just saying it probably isnt\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"as absolute or simplistic as the way\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"youve been framing it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: or maybe it is for you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"personally i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: im just guessing you havent\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"spent much time thinking about it if\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"only cause all the stuff we read and\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"watch suggests that like even\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"examining your honest thoughts about\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"it is perilous road to go down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: cause if you actually think too\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"much about it without always having\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"that undercurrent of haha nope nope\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"nope THEN what happens\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: what if it turns out youre\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"like...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ...like?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: like not exactly the way you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"thought you were\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: or maybe not so much that, as\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"old presumptions about what you were\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"turn out to be not that relevant?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: (WHY. WHY ARE THESE WORDS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HAPPENING TO OUR CONVERSATION.)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i dunno man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: not sure what youve been doing\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the last 3 years all riding a large\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"boat, then saving everyone from\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"apocalyptic whatever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but ive had a fuck ton of time\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"on my hands to think about stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: about stuff ive said and done in\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the past why i said and did them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: a lot of things i once would\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"have insisted were like part of my\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"brand and helped me come across cool\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and smartassy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but now im not so sure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: we used rip on each other all\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the time for being gay even though we\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"knew we werent which of course is what\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"made it \"funny\" remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i dunno, it was pretty funny,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"sometimes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it was just a lot of joking\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"around!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: yeah i know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: it frankly IS funny to say how\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"gay something is sometimes and lets\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"face it sometimes someone or something\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"is just flat out REALLY fucking gay\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and theres no two ways about it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: its more like that through the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"preponderance of all that jokey shit\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"is an underlying implication that its\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"all lame stuff for pansies but not\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"like us no were not lame and ha ha\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"thats the joke\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: which thrives on this like\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"double-buried implication that the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"REAL COOL SHIT is founded on this\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"absurd wanky ideal about masculinity\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"which if you think about it is 1. dumb\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"as fuck 2. the male adulation of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"masculinity to that extent TO BE\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"HONEST is pretty fucking gay unto\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"itself and 3. was always some totally\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"impossible shit for us to live up to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"anyway\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i think all thats mixed up with\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"the same phony ideals about heroism\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: like living up to the storybook\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"idea of what a hero to me feels almost\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"interchangeable with living up to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"societys snapshot of what a hard manly\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"dude should be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i stopped pretending i could\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ever live up to either thing a while\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ago\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: and mainly have spent time\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"looking back on the sheer magnitude of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"all my \"joking around\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i used to lambaste fuckers left\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"and right grinding them into the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"pavement over how gay they probably\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"were and how much they were quite\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"possibly jonesin to kiss some dudes or\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"such\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: and i dont really feel bad about\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"it in the sense that it was jerky or\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"like \"insensitive\" necessarily even\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"though i guess it maybe was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: more that i feel like it was\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"probably transparent\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: a massive front of outrageous\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"snark to disguise a lot of insecurity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: like a fuckin coverup\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: as long as i kept clowning hard\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"about it i didnt actually have to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"think about it or face my actual\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"beliefs\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: dave, um.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: all that's cool and all, and...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i think i mostly agree?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ummmm, how do i put this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
+		"JOHN: are you...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: what part",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: the part about not being a homosexual!!!",
+		"JOHN: are you gay now?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: john",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: dude i gotta say",
+		"DAVE: what no\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: when you talk about being or not being \"a homosexual\" you kinda sound like a corny old man",
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
+		"KARKAT: (THE WORDS. WHY WON'T THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WORDS STOP. DEAR GOD.)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what! why?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: no, that's a normal way of putting it!",
+		"JOHN: i dunno, it sounds to me like\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i mean... it's a pretty normal thing to say, right? when that's... how... you are?",
+		"you're trying tell me something here!\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: SOMEBODY FUCKING KILL ME.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: what does normal mean though",
+		"DAVE: man no look\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: normal was some crap that ruled our dead civilization",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: we left that behind years ago",
+		"JOHN: i mean, it's ok if you're gay\
+",
 		{
-			0.8784313725490196,
 			0.027450980392156862,
-			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"now!\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: its all a huge pile of shit that doesnt matter anymore",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"JOHN: that's totally cool, if true.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: oh. kay?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
+		},
+		"JOHN: i just think...\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: so then, you're saying...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: what are you saying?",
+		"JOHN: you turning gay would be kind of\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: im not sure i guess",
+		"a weird consequence of me changing the\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ...",
+		"time line around?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: ok i guess what im saying is",
+",
 		{
-			0.8784313725490196,
 			0.027450980392156862,
-			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: i dont think its all as simple as you think it is",
+		"JOHN: ok, not \"weird\"...\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: or maybe not like ACTIVELY think it is but continue to assume it is on account of NOT thinkin about it much",
+",
 		{
-			0.8784313725490196,
 			0.027450980392156862,
-			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: just, unexpected!\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: due to a lot of junk about the subject that gets shoved into our brains from movies and stuff while we were just dumb kids",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i,",
+		"JOHN: i dunno what i did that would\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: hm.",
+		"account for that.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: im just saying it probably isnt as absolute or simplistic as the way youve been framing it",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: or maybe it is for you personally i dont know",
+		"JOHN: maybe saving one of terezi's\
+",
 		{
-			0.8784313725490196,
 			0.027450980392156862,
-			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: im just guessing you havent spent much time thinking about it if only cause all the stuff we read and watch suggests that like even examining your honest thoughts about it is perilous road to go down",
+		"plush toys did some goofy homosexual\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: cause if you actually think too much about it without always having that undercurrent of haha nope nope nope THEN what happens",
+		"butterfly effect thing on you?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: what if it turns out youre like...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ...like?",
+		"JOHN: jeez, who knows!\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: like not exactly the way you thought you were",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: or maybe not so much that, as old presumptions about what you were turn out to be not that relevant?",
+		"DAVE: dude you arent listening\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: (WHY. WHY ARE THESE WORDS HAPPENING TO OUR CONVERSATION.)",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i dunno man",
+		"DAVE: although a gay butterfly effect\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: not sure what youve been doing the last 3 years all riding a large boat, then saving everyone from apocalyptic whatever",
+		"is a pretty funny idea lets not\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: but ive had a fuck ton of time on my hands to think about stuff",
+		"dismiss that as a concept altogether\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: about stuff ive said and done in the past why i said and did them",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: a lot of things i once would have insisted were like part of my brand and helped me come across cool and smartassy",
+		"DAVE: anyway maybe what im tryin to\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: but now im not so sure",
+		"say is sorta getting lost in the weeds\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: we used rip on each other all the time for being gay even though we knew we werent which of course is what made it \"funny\" remember",
+		"here\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: yeah.",
+",
 		{
+			0.8784313725490196,
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-JOHN: i dunno, it was pretty funny, sometimes.",
-		{
 			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
 		},
-		"\
-JOHN: it was just a lot of joking around!",
+		"DAVE: the fact that you were wondering\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: yeah i know",
+		"if i \"turned gay\" makes me think maybe\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: it frankly IS funny to say how gay something is sometimes and lets face it sometimes someone or something is just flat out REALLY fucking gay and theres no two ways about it",
+		"youre still not quite on the\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: its more like that through the preponderance of all that jokey shit is an underlying implication that its all lame stuff for pansies but not like us no were not lame and ha ha thats the joke",
+		"wavelength im tryin to ramble on here\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: which thrives on this like double-buried implication that the REAL COOL SHIT is founded on this absurd wanky ideal about masculinity which if you think about it is 1. dumb as fuck 2. the male adulation of masculinity to that extent TO BE HONEST is pretty fucking gay unto itself and 3. was always some totally impossible shit for us to live up to anyway",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i think all thats mixed up with the same phony ideals about heroism",
+		"DAVE: maybe we should wrestle this\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: like living up to the storybook idea of what a hero to me feels almost interchangeable with living up to societys snapshot of what a hard manly dude should be",
+		"topic to the ground another time,\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i stopped pretending i could ever live up to either thing a while ago",
+		"theres a lot more id wanna say but\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: and mainly have spent time looking back on the sheer magnitude of all my \"joking around\"",
+		"this is probably not the venue\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: i used to lambaste fuckers left and right grinding them into the pavement over how gay they probably were and how much they were quite possibly jonesin to kiss some dudes or such",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: and i dont really feel bad about it in the sense that it was jerky or like \"insensitive\" necessarily even though i guess it maybe was",
+		"DAVE: i mean not literally wrestle to\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: more that i feel like it was probably transparent",
+		"the ground because that is maybe\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: a massive front of outrageous snark to disguise a lot of insecurity",
+		"literally the gayest course of action\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: like a fuckin coverup",
+		"we could possibly take but you know\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: as long as i kept clowning hard about it i didnt actually have to think about it or face my actual beliefs",
+		"what i mean\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: dave, um.",
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: all that's cool and all, and...",
+		"KARKAT: (YES! LATER! TALK LATER,\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: i think i mostly agree?",
+		"BECAUSE THEN THE WORDS WOULD STOP! OH\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
 		},
-		"\
-JOHN: but...",
+		"WOULDN'T THAT BE LOVELY.)\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: ummmm, how do i put this.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: are you...",
+		"JOHN: that's fine, we can talk about\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: are you gay now?",
+		"anything you want, any time.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: what no",
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-KARKAT: (THE WORDS. WHY WON'T THE WORDS STOP. DEAR GOD.)",
+		"JOHN: i'm just still confused about\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i dunno, it sounds to me like you're trying tell me something here!",
+		"what you're getting at, is all.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: man no look",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i mean, it's ok if you're gay now!",
+		"JOHN: like, what is the bottom line\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: that's totally cool, if true.",
+		"here?\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: i just think...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: you turning gay would be kind of a weird consequence of me changing the time line around?",
+		"JOHN: are you actually attracted to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ok, not \"weird\"...",
+		"boys now?\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: just, unexpected!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i dunno what i did that would account for that.",
+		"JOHN: do you...\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: maybe saving one of terezi's plush toys did some goofy homosexual butterfly effect thing on you?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: jeez, who knows!",
+		"JOHN: um.\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: dude you arent listening",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: although a gay butterfly effect is a pretty funny idea lets not dismiss that as a concept altogether",
+		"JOHN: did you...\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: anyway maybe what im tryin to say is sorta getting lost in the weeds here",
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
 			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
 		},
-		"\
-DAVE: the fact that you were wondering if i \"turned gay\" makes me think maybe youre still not quite on the wavelength im tryin to ramble on here",
+		"JOHN: like, date any boys?\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: maybe we should wrestle this topic to the ground another time, theres a lot more id wanna say but this is probably not the venue",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
-		},
-		"\
-DAVE: i mean not literally wrestle to the ground because that is maybe literally the gayest course of action we could possibly take but you know what i mean",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
 		},
-		"\
-KARKAT: (YES! LATER! TALK LATER, BECAUSE THEN THE WORDS WOULD STOP! OH WOULDN'T THAT BE LOVELY.)",
+		"DAVE: uh\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: that's fine, we can talk about anything you want, any time.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i'm just still confused about what you're getting at, is all.",
+		"JOHN: but there weren't even that many\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: like, what is the bottom line here?",
+		"boys on the meteor?\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: are you actually attracted to boys now?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: do you...",
+		"JOHN: well, there's the clown guy, but\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: um.",
+		"i don't really see you and him...\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: did you...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
-		},
-		"\
-JOHN: like, date any boys?",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
 		},
-		"\
-DAVE: uh",
+		"JOHN: that really only leaves...\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: but there weren't even that many boys on the meteor?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: well, there's the clown guy, but i don't really see you and him...",
+		"JOHN: um, were you and karkat...\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: that really only leaves...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: um, were you and karkat...",
+		"JOHN: ARE you and karkat, like.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: ARE you and karkat, like.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: hmm.",
+		"JOHN: hmm.\
+",
 	},
 	next = {
 		7488,
 	},
 	previous = 7486,
+	page_id = 7487,
+	long_title = false,
 }

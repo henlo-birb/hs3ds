@@ -1,6 +1,5 @@
 return {
 	title = "John: Shrink it down.",
-	pageId = 1739,
 	timestamp = "1272046329",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1740,
 	},
 	previous = 1738,
+	page_id = 1739,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Stop being SS.",
-	pageId = 1216,
 	timestamp = "1264123208",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1217,
 	},
 	previous = 1215,
+	page_id = 1216,
+	long_title = false,
 }

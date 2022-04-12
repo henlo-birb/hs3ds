@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go dark.",
-	pageId = 3642,
 	timestamp = "1300179347",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		3643,
 	},
 	previous = 3641,
+	page_id = 3642,
+	long_title = false,
 }

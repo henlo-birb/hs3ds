@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Trace Jaspers' whereabouts on the machine.",
-	pageId = 937,
 	timestamp = "1259628682",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		938,
 	},
 	previous = 936,
+	page_id = 937,
+	long_title = true,
 }

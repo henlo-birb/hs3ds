@@ -1,6 +1,5 @@
 return {
 	title = "What are you.",
-	pageId = 3126,
 	timestamp = "1293048995",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3127,
 	},
 	previous = 3125,
+	page_id = 3126,
+	long_title = false,
 }

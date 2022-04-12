@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: View Rose.",
-	pageId = 3301,
 	timestamp = "1295219058",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		3302,
 	},
 	previous = 3300,
+	page_id = 3301,
+	long_title = false,
 }

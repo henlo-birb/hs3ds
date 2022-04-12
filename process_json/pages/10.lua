@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip fake arms.",
-	pageId = 10,
 	timestamp = "1239678957",
 	flag = {},
 	media = {
@@ -208,4 +207,6 @@ return {
 		11,
 	},
 	previous = 9,
+	page_id = 10,
+	long_title = false,
 }

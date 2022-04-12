@@ -1,6 +1,5 @@
 return {
 	title = "John: Flip the fuck out.",
-	pageId = 498,
 	timestamp = "1250573641",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		499,
 	},
 	previous = 497,
+	page_id = 498,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S... BAHJ] Terezi: Ascend.",
-	pageId = 2577,
 	timestamp = "1283490041",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/puase.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/puase.gif\"/>\
+",
 	},
 	next = {
 		2578,
 	},
 	previous = 2576,
+	page_id = 2577,
+	long_title = false,
 }

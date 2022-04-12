@@ -1,6 +1,5 @@
 return {
 	title = "John: Take totem to alchemiter.",
-	pageId = 243,
 	timestamp = "1244247353",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		244,
 	},
 	previous = 242,
+	page_id = 243,
+	long_title = false,
 }

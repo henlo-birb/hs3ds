@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine box of crayons.",
-	pageId = 690,
 	timestamp = "1253850418",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		691,
 	},
 	previous = 689,
+	page_id = 690,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Press green button on right.",
-	pageId = 742,
 	timestamp = "1254706518",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		743,
 	},
 	previous = 741,
+	page_id = 742,
+	long_title = false,
 }

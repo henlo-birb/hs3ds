@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Retrieve chalk.",
-	pageId = 2526,
 	timestamp = "1282785608",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		2527,
 	},
 	previous = 2525,
+	page_id = 2526,
+	long_title = false,
 }

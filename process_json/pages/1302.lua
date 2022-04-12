@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Arm yourself, in case Cans shows up.",
-	pageId = 1302,
 	timestamp = "1265238656",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1303,
 	},
 	previous = 1301,
+	page_id = 1302,
+	long_title = true,
 }

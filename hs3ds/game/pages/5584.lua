@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Look out window.",
-	pageId = 5584,
 	timestamp = "1355551043",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: is there something out here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: is there something out here?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: how is that possible",
+		"TG: how is that possible\
+",
 	},
 	next = {
 		5585,
 	},
 	previous = 5583,
+	page_id = 5584,
+	long_title = false,
 }

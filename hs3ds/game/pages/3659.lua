@@ -1,6 +1,5 @@
 return {
 	title = "John: Locate Tumor.",
-	pageId = 3659,
 	timestamp = "1300420700",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		3660,
 	},
 	previous = 3658,
+	page_id = 3659,
+	long_title = false,
 }

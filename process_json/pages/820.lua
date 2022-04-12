@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Examine the atomic bass by your bed.",
-	pageId = 820,
 	timestamp = "1256635530",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		821,
 	},
 	previous = 819,
+	page_id = 820,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Kill John's dad yourself.",
-	pageId = 1139,
 	timestamp = "1262822477",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1140,
 	},
 	previous = 1138,
+	page_id = 1139,
+	long_title = false,
 }

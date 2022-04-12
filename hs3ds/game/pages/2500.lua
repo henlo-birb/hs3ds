@@ -1,6 +1,5 @@
 return {
 	title = "SS: Move this along.",
-	pageId = 2500,
 	timestamp = "1282504190",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"It's bad enough you had to watch this broad smooch a corpse and this kid bawl his eyes out once already, even if it was centuries ago.",
+		"It's bad enough you had to watch this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"broad smooch a corpse and this kid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bawl his eyes out once already, even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"if it was centuries ago.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-NEXT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NEXT.\
+",
 	},
 	next = {
 		2501,
 	},
 	previous = 2499,
+	page_id = 2500,
+	long_title = false,
 }

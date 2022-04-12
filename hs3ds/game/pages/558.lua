@@ -1,6 +1,5 @@
 return {
 	title = "Safe: Level up for slaying the imp.",
-	pageId = 558,
 	timestamp = "1251521209",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"The SAFE was slain in battle. A great flaming nautical pyre carries it off to VAULTHALLA.",
+		"The SAFE was slain in battle. A great\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flaming nautical pyre carries it off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to VAULTHALLA.\
+",
 	},
 	next = {
 		559,
 	},
 	previous = 557,
+	page_id = 558,
+	long_title = true,
 }

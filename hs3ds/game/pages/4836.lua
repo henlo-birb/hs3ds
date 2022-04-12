@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4836,
 	timestamp = "1334804960",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-TAVRISPRITE: eEEEEEEEAAAAAAAAUUUUUUUURRRRRRRRUUUUUUUUEEEEEEEEGGGGGGGGHHHHHHHH,,,,,,,,.",
+		"TAVRISPRITE:\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"eEEEEEEEAAAAAAAAUUUUUUUURRRRRRRRUUUUUUUUEEEEEEEEGGGGGGGGHHHHHHHH,,,,,,,,.\
+",
 	},
 	next = {
 		4837,
 	},
 	previous = 4835,
+	page_id = 4836,
+	long_title = false,
 }

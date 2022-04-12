@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2074,
 	timestamp = "1277249009",
 	flag = {},
 	media = {
@@ -12,34 +11,83 @@ return {
 			0,
 			0,
 		},
-		"Ok, what's her name?",
+		"Ok, what's her name?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You've got to be kidding me. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like we're going back to the other guy again. Alright, hang on...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've got to be kidding me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like we're going back to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"other guy again. Alright, hang on...\
+",
 	},
 	next = {
 		2075,
 	},
 	previous = 2073,
+	page_id = 2074,
+	long_title = false,
 }

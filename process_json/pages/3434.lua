@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine horn pile.",
-	pageId = 3434,
 	timestamp = "1296849076",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3435,
 	},
 	previous = 3433,
+	page_id = 3434,
+	long_title = false,
 }

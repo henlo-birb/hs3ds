@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Inform Mr. Vanilla Milkshake about his missing orb.",
-	pageId = 2263,
 	timestamp = "1279360581",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/shehaswhat.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/shehaswhat.gif\"/>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-\
-GC: >:o",
+		"GC: >:o\
+",
 	},
 	next = {
 		2264,
 	},
 	previous = 2262,
+	page_id = 2263,
+	long_title = true,
 }

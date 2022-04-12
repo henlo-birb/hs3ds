@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Take doll.",
-	pageId = 6124,
 	timestamp = "1365390904",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		6125,
 	},
 	previous = 6123,
+	page_id = 6124,
+	long_title = false,
 }

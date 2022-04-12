@@ -1,6 +1,5 @@
 return {
 	title = "John: Hugen hammer.",
-	pageId = 3677,
 	timestamp = "1300847499",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3678,
 	},
 	previous = 3676,
+	page_id = 3677,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine movie posters.",
-	pageId = 1997,
 	timestamp = "1276405451",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		1998,
 	},
 	previous = 1996,
+	page_id = 1997,
+	long_title = false,
 }

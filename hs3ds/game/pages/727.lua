@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 727,
 	timestamp = "1254540808",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"The LCD PANEL appears to have a touchscreen interface.",
+		"The LCD PANEL appears to have a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"touchscreen interface.\
+",
 	},
 	next = {
 		728,
 	},
 	previous = 726,
+	page_id = 727,
+	long_title = false,
 }

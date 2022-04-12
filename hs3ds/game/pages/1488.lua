@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1488,
 	timestamp = "1267072133",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"The townspeople rejoice and are more than willing to give you all the credit. You suspect it is probably because they are not all that smart.",
+		"The townspeople rejoice and are more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than willing to give you all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"credit. You suspect it is probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because they are not all that smart.\
+",
 	},
 	next = {
 		1489,
 	},
 	previous = 1487,
+	page_id = 1488,
+	long_title = false,
 }

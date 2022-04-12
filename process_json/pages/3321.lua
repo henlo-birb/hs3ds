@@ -1,6 +1,5 @@
 return {
 	title = "[S] Kanaya: Return to the core.",
-	pageId = 3321,
 	timestamp = "1295716241",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3322,
 	},
 	previous = 3320,
+	page_id = 3321,
+	long_title = false,
 }

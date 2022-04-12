@@ -1,6 +1,5 @@
 return {
 	title = "Davesprite: Also pester.",
-	pageId = 1858,
 	timestamp = "1274043079",
 	flag = {},
 	media = {
@@ -755,4 +754,6 @@ return {
 		1859,
 	},
 	previous = 1857,
+	page_id = 1858,
+	long_title = false,
 }

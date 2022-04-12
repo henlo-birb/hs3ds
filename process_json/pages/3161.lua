@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Charles Dutton and squiddle.",
-	pageId = 3161,
 	timestamp = "1293254859",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		3162,
 	},
 	previous = 3160,
+	page_id = 3161,
+	long_title = true,
 }

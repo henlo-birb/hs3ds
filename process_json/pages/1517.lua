@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Insert card with the CD on the slot.",
-	pageId = 1517,
 	timestamp = "1267409807",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1518,
 	},
 	previous = 1516,
+	page_id = 1517,
+	long_title = true,
 }

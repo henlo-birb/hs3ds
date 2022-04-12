@@ -1,14 +1,15 @@
 return {
 	title = "[S] Ride.",
-	pageId = "pony2",
 	timestamp = "",
 	flag = {
 		"F",
 		"HQ",
 	},
 	media = {
-		"/storyfiles/hs2/pony2/pony2.swf",
+		"pony2/pony2.swf",
 	},
 	content = {},
 	next = {},
+	page_id = "pony2",
+	long_title = false,
 }

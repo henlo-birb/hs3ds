@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine plush pile.",
-	pageId = 4483,
 	timestamp = "1326869358",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		4484,
 	},
 	previous = 4482,
+	page_id = 4483,
+	long_title = false,
 }

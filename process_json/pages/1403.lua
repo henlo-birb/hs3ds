@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Replace television with totem lathe.",
-	pageId = 1403,
 	timestamp = "1266305240",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1404,
 	},
 	previous = 1402,
+	page_id = 1403,
+	long_title = true,
 }

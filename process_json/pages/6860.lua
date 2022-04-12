@@ -1,6 +1,5 @@
 return {
 	title = "AND LEST WE FORGET. A SALTY ARRAY. OF MISCELLANEOUS BITCHES.",
-	pageId = 6860,
 	timestamp = "1413620215",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6859,
 	theme = "A6A6",
+	page_id = 6860,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Forge blade out of illicit literature.",
-	pageId = 4897,
 	timestamp = "1335909457",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		4898,
 	},
 	previous = 4896,
+	page_id = 4897,
+	long_title = true,
 }

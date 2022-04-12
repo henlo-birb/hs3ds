@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Occam's Razor. Crowbar's head. Make it hapen.",
-	pageId = 1273,
 	timestamp = "1264824836",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1274,
 	},
 	previous = 1272,
+	page_id = 1273,
+	long_title = true,
 }

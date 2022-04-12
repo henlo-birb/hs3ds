@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Wake up.",
-	pageId = 2151,
 	timestamp = "1278141108",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"The mind honey.",
+		"The mind honey.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Thpppptthhhhhh.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Some of it got in your mouth.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thpppptthhhhhh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Some of it got in your mouth.\
+",
 	},
 	next = {
 		2152,
 	},
 	previous = 2150,
+	page_id = 2151,
+	long_title = false,
 }

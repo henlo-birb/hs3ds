@@ -1,6 +1,5 @@
 return {
 	title = "ANYWAY, BACK TO THE STORY.",
-	pageId = 6263,
 	timestamp = "1371080252",
 	flag = {},
 	media = {
@@ -132,4 +131,6 @@ return {
 	},
 	previous = 6262,
 	theme = "A6A6",
+	page_id = 6263,
+	long_title = false,
 }

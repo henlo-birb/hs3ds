@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine knittings and velvet pillow and squiddle shirt",
-	pageId = 1811,
 	timestamp = "1273189862",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1812,
 	},
 	previous = 1810,
+	page_id = 1811,
+	long_title = true,
 }

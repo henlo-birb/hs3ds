@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Prepare for imminent windfall.",
-	pageId = 3139,
 	timestamp = "1293146475",
 	flag = {},
 	media = {
@@ -250,4 +249,6 @@ return {
 		3140,
 	},
 	previous = 3138,
+	page_id = 3139,
+	long_title = true,
 }

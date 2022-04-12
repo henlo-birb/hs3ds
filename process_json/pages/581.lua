@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue each shuriken individually.",
-	pageId = 581,
 	timestamp = "1252092675",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		582,
 	},
 	previous = 580,
+	page_id = 581,
+	long_title = true,
 }

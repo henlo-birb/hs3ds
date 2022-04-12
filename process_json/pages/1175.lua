@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Enter the hallway near the main entrance.",
-	pageId = 1175,
 	timestamp = "1263800764",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1176,
 	},
 	previous = 1174,
+	page_id = 1175,
+	long_title = true,
 }

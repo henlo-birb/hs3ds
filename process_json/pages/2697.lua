@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Keep viewing.",
-	pageId = 2697,
 	timestamp = "1285808673",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2698,
 	},
 	previous = 2696,
+	page_id = 2697,
+	long_title = false,
 }

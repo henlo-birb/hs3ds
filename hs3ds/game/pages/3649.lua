@@ -1,6 +1,5 @@
 return {
 	title = "BM: Wreck some havoc.",
-	pageId = 3649,
 	timestamp = "1300327660",
 	flag = {
 		"R4",
@@ -14,4 +13,6 @@ return {
 		3650,
 	},
 	previous = 3648,
+	page_id = 3649,
+	long_title = false,
 }

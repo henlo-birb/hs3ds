@@ -1,6 +1,5 @@
 return {
 	title = "Years in the future, but not many...",
-	pageId = 248,
 	timestamp = "1244595566",
 	flag = {
 		"R2",
@@ -35,4 +34,6 @@ return {
 		249,
 	},
 	previous = 247,
+	page_id = 248,
+	long_title = true,
 }

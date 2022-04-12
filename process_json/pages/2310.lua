@@ -1,6 +1,5 @@
 return {
 	title = "Red team: Execute Operation Regisurp.",
-	pageId = 2310,
 	timestamp = "1280441662",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2311,
 	},
 	previous = 2309,
+	page_id = 2310,
+	long_title = true,
 }

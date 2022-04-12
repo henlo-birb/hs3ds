@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1256,
 	timestamp = "1264478660",
 	flag = {},
 	media = {
@@ -12,54 +11,146 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Fin",
+		"Fin\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" busts into ",
+		"busts into\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s workshop blubbering something about watching out for the little guy who's about to come in here. He says to watch out because he's got a bomb on his head which is undoubtedly quite volatile and even the slightest spark would surely set it off.",
+		"'s workshop blubbering something about\
+",
 		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
+			0,
+			0,
+			0,
+		},
+		"watching out for the little guy who's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about to come in here. He says to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"watch out because he's got a bomb on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his head which is undoubtedly quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"volatile and even the slightest spark\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would surely set it off.\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-\
-Stitch ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"sees ",
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Fin",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s obviously in pretty bad shape, and checks his EFFIGY. Sure enough, the thing's in tatters. But he should be just fine if it can be patched up before he bleeds to...",
+		"sees\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Fin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"'s obviously in pretty bad shape, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"checks his EFFIGY. Sure enough, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing's in tatters. But he should be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just fine if it can be patched up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before he bleeds to...\
+",
 	},
 	next = {
 		1257,
 	},
 	previous = 1255,
+	page_id = 1256,
+	long_title = false,
 }

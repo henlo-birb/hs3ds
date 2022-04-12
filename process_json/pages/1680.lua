@@ -1,6 +1,5 @@
 return {
 	title = "AH: Can you show us what's going on with John again?",
-	pageId = 1680,
 	timestamp = "1271388815",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1681,
 	},
 	previous = 1679,
+	page_id = 1680,
+	long_title = true,
 }

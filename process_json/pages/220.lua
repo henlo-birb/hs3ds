@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Stroke writing journal and mutter, 'My precious...'",
-	pageId = 220,
 	timestamp = "1243567675",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		221,
 	},
 	previous = 219,
+	page_id = 220,
+	long_title = true,
 }

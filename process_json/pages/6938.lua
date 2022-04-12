@@ -1,6 +1,5 @@
 return {
 	title = "AND SO I BIDE MY TIME.",
-	pageId = 6938,
 	timestamp = "1414892897",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 	},
 	previous = 6937,
 	theme = "A6A6",
+	page_id = 6938,
+	long_title = false,
 }

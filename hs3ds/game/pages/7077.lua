@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7077,
 	timestamp = "1416547139",
 	flag = {},
 	media = {
@@ -12,31 +11,62 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oops. :u\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oops. :u",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: ahem. pay no attention to that.",
+		"CALLIOPE: ahem. pay no attention to\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: do carry on.",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: do carry on.\
+",
 	},
 	next = {
 		7078,
 	},
 	previous = 7076,
+	page_id = 7077,
+	long_title = false,
 }

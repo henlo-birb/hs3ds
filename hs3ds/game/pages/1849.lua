@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take a look.",
-	pageId = 1849,
 	timestamp = "1273879460",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"One book is titled \"MEOW\". The other is titled \"Complacency of the Learned\".",
+		"One book is titled \"MEOW\". The other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is titled \"Complacency of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Learned\".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Gee, you wonder what could be in MEOW.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gee, you wonder what could be in MEOW.\
+",
 	},
 	next = {
 		1850,
 	},
 	previous = 1848,
+	page_id = 1849,
+	long_title = false,
 }

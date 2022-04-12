@@ -1,6 +1,5 @@
 return {
 	title = "John: Alchemize.",
-	pageId = 1024,
 	timestamp = "1261008346",
 	flag = {},
 	media = {
@@ -565,4 +564,6 @@ return {
 		1025,
 	},
 	previous = 1023,
+	page_id = 1024,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Receive transfer from John.",
-	pageId = 2741,
 	timestamp = "1286408888",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		2742,
 	},
 	previous = 2740,
+	page_id = 2741,
+	long_title = true,
 }

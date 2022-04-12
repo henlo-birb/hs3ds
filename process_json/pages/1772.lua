@@ -1,6 +1,5 @@
 return {
 	title = "John: Who cares, just ride the pony already.",
-	pageId = 1772,
 	timestamp = "1272338645",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1773,
 	},
 	previous = 1771,
+	page_id = 1772,
+	long_title = true,
 }

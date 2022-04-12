@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5618,
 	timestamp = "1355974547",
 	flag = {},
 	media = {
@@ -12,423 +11,1196 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but it sounds like we dont have much to pull this off",
+		"TG: but it sounds like we dont have\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"much to pull this off\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: because foes are a comin?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: who are all these foes you say we gotta beat",
+		"TG: because foes are a comin?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: those who i mentioned my brother has been exploiting as his pawns from afar.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: the most obvioUs woUld be the one responsible for the extinction of yoUr race.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: and who also happened to be responsible for this most fortUitoUs nap.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: huh?",
+		"TG: who are all these foes you say we\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"gotta beat\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: wait",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: those who i mentioned my brother\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"has been exploiting as his pawns from\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"afar.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: the most obvioUs woUld be the one\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"responsible for the extinction of yoUr\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"race.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: and who also happened to be\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"responsible for this most fortUitoUs\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"nap.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: how DID i fall asleep?",
+		"TG: huh?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: yoU don't remember yet?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: i remember",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: a party",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: how DID i fall asleep?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: yoU don't remember yet?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: a sad jane",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: a party\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: a poor sad jane with shitty fella problems",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: and\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and a ruined cake! it was going 2 be so delish, but no",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: it was claimed by the cruel and unforgiving sands of lopan",
+		"TG: a sad jane\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: ...",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: i remember",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: gcat",
+		"TG: a poor sad jane with shitty fella\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"problems\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: GCAT!!!!!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: god DAMMIT gcat!",
+		"TG: and a ruined cake! it was going 2\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: he poofed me away with cat magic and i got ko'd by a floor",
+		"be so delish, but no\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: bUt which floor?",
-		{
-			1.0,
-			0.43529411764705883,
-			0.9490196078431372,
-		},
-		"\
-TG: it was",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: a derse floor?",
+		"TG: it was claimed by the cruel and\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"unforgiving sands of lopan\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: aw man",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i remember\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: was i captured?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: gcat\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: the batterwitch has me doesnt she",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: GCAT!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: THATS who you meant",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: what is she gonna do with me?",
+		"TG: god DAMMIT gcat!\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: as i said, she is his servant, and is obligated to do everything in her power to facilitate the cycle of his existence.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: and while nearly all she has done on earth and on derse has been to advance that scheme, that does not mean she's withoUt her own agenda.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: i know that she woUld like to see my brother defeated as mUch as anyone else. for her enslavement, for doUble-crossing her, and for orchestrating her people's extinction.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: he always did loathe trolls. i've sUspected i may be to blame for their misfortUne as well, considering he knew how mUch i fancied them. u_u",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: ok so if she wants him dead too and has her own personal secret plans or whatever then whats she want with me",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: i believe she's looking ahead, beyond the fUlfillment of her obligation. she is likely making plans for after she is liberated. she has lived as a rUler and conqUerer for very long time, and probably coUldn't have done so withoUt sUch gUile and foresight.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: if she has captUred yoU, it's certainly for a good reason.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: i think she wishes to exploit yoUr abilities as a rogUe of void.",
+		"TG: he poofed me away with cat magic\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"and i got ko'd by a floor\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: pfahahaha",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: bUt which floor?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: it was\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: WHAT abilities",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: a derse floor?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i dont have any abilities",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: except making screens dark which as superpowers go is lame as hell",
+		"TG: aw man\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: none that yoU have gotten in toUch with yet.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: bUt rest assUred, yoU have them!",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: it's like i told yoU before, remember?",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: a fUlly realized rogUe of void can do remarkable things. things which even other god tiers woUld view as miracUloUs.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like what?",
+		"TG: was i captured?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-UU: why don't yoU see what it is the qUeen woUld have yoU do?",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: then yoU may look inside and determine whether yoU have it in yoU to do it.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: the batterwitch has me doesnt she\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: man",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: THATS who you meant\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: whatever she wants",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: what is she gonna do with me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: even if it IS an enemy of my enemy kind of thing",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: as i said, she is his servant, and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"is obligated to do everything in her\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"power to facilitate the cycle of his\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"existence.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: and while nearly all she has done\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"on earth and on derse has been to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"advance that scheme, that does not\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"mean she's withoUt her own agenda.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: i know that she woUld like to see\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"my brother defeated as mUch as anyone\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"else. for her enslavement, for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"doUble-crossing her, and for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"orchestrating her people's extinction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: he always did loathe trolls. i've\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"sUspected i may be to blame for their\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"misfortUne as well, considering he\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"knew how mUch i fancied them. u_u\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i dont think i could ever bring myself to help her :(",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: that is Understandable.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: jUst do whatever yoU feel is right. i'm sUre yoU will make the correct decision.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-UU: yoU see, i trUst yoU too, roxy. ^u^",
+		"TG: ok so if she wants him dead too\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"and has her own personal secret plans\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"or whatever then whats she want with\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: daw thanx callie",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"UU: i believe she's looking ahead,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"beyond the fUlfillment of her\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"obligation. she is likely making plans\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"for after she is liberated. she has\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"lived as a rUler and conqUerer for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"very long time, and probably coUldn't\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"have done so withoUt sUch gUile and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"foresight.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-UU: oh no...",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: if she has captUred yoU, it's\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"certainly for a good reason.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: i think she wishes to exploit yoUr\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"abilities as a rogUe of void.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: pfahahaha\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: WHAT abilities\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i dont have any abilities\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: except making screens dark which\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"as superpowers go is lame as hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: none that yoU have gotten in toUch\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"with yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: bUt rest assUred, yoU have them!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: it's like i told yoU before,\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"remember?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: a fUlly realized rogUe of void can\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"do remarkable things. things which\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"even other god tiers woUld view as\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"miracUloUs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: why don't yoU see what it is the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"qUeen woUld have yoU do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: then yoU may look inside and\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"determine whether yoU have it in yoU\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"to do it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: whatever she wants\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: even if it IS an enemy of my enemy\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"kind of thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i dont think i could ever bring\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"myself to help her :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: that is Understandable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: jUst do whatever yoU feel is\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"right. i'm sUre yoU will make the\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"correct decision.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: yoU see, i trUst yoU too, roxy.\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"^u^\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: daw thanx callie\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"UU: oh no...\
+",
 	},
 	next = {
 		5619,
 	},
 	previous = 5617,
+	page_id = 5618,
+	long_title = false,
 }

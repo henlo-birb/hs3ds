@@ -1,6 +1,5 @@
 return {
 	title = "Examine caliginous quadrant.",
-	pageId = 2395,
 	timestamp = "1281485232",
 	flag = {},
 	media = {
@@ -139,4 +138,6 @@ return {
 		2396,
 	},
 	previous = 2394,
+	page_id = 2395,
+	long_title = false,
 }

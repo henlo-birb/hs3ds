@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Examine magic 8-ball and magic cue ball.",
-	pageId = 804,
 	timestamp = "1256419534",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		805,
 	},
 	previous = 803,
+	page_id = 804,
+	long_title = true,
 }

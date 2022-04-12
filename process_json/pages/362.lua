@@ -1,6 +1,5 @@
 return {
 	title = "Rose: View Mother's solid copper vacuum statue.",
-	pageId = 362,
 	timestamp = "1247340187",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		363,
 	},
 	previous = 361,
+	page_id = 362,
+	long_title = true,
 }

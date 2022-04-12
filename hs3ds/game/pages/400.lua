@@ -1,6 +1,5 @@
 return {
 	title = "[S] JOHN, SALVAGE YOUR WEAPON AND FIGHT ON!",
-	pageId = 400,
 	timestamp = "1248562514",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		401,
 	},
 	previous = 399,
+	page_id = 400,
+	long_title = true,
 }

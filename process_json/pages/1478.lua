@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Ready sword.",
-	pageId = 1478,
 	timestamp = "1267047746",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1479,
 	},
 	previous = 1477,
+	page_id = 1478,
+	long_title = false,
 }

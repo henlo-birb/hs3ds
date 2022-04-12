@@ -1,6 +1,5 @@
 return {
 	title = "[S] Terezi: Remem8er.",
-	pageId = 7959,
 	timestamp = "1438030992",
 	flag = {
 		"S",
@@ -14,4 +13,6 @@ return {
 		7960,
 	},
 	previous = 7958,
+	page_id = 7959,
+	long_title = false,
 }

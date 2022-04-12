@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4875,
 	timestamp = "1335729017",
 	flag = {},
 	media = {
@@ -12,696 +11,2050 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Ok.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Ok.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I will disregard your anomalous observation for now and continue conversing as if it never happened.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Right. Good plan.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Um.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Anyhoo thats a heck of a tragic and thrilling tale dirk.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I am still totally cockeyed and catawampus about it all i dont even know what to think.",
+		"TT: I will disregard your anomalous\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: But you believe me, right?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Oh yeah every word of it!",
+		"observation for now and continue\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"conversing as if it never happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Wow.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Right. Good plan.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Why shouldnt i? You are my friend and i trust you.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Um.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Anyhoo thats a heck of a tragic\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"and thrilling tale dirk.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I am still totally cockeyed and\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"catawampus about it all i dont even\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"know what to think.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: But you believe me, right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I still just think it's impressive, is all. Even after all this time. You are pretty much a one of a kind dude.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Heh not really i just like believing stuff and believing in people.",
+		"GT: Oh yeah every word of it!\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Wait what do you mean?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Wow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: About what?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: When you said after all this time?",
+		"GT: Why shouldnt i? You are my friend\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"and i trust you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: You just told me now!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Yes.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Hang on.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Blarg! The deja vuey shit is happening again!!!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Okay i am SURE weve had this conversation before so many things are familiar.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I remember you saying the one of a kind dude thing and i remember saying the word catawampus and...",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: All of it!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Whats going on?",
+		"TT: I still just think it's\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Took you long enough to figure it out.",
+		"impressive, is all. Even after all\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Pages really are a slow burning class. Damn.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Figure what out!",
+		"this time. You are pretty much a one\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"of a kind dude.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You're asleep.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh.",
+		"GT: Heh not really i just like\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"believing stuff and believing in\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Thats right. I fell off the platform thing and i guess i got knocked out?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Wait what do you mean?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: About what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yep.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: So im dreaming.",
+		"GT: When you said after all this time?\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Kinda.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: It's a dream bubble.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: You just told me now!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Whats that?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: A place in the infinite abyss where sleeping people can share dreams with each other while revisiting memories.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Hang on.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Blarg! The deja vuey shit is\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"happening again!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Okay i am SURE weve had this\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"conversation before so many things are\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"familiar.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I remember you saying the one of a\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"kind dude thing and i remember saying\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the word catawampus and...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: All of it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Whats going on?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Also where they can meet dead people.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: So we are sharing a dream together?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: And youre currently asleep too? Uh. Currently in the future?",
+		"TT: Took you long enough to figure it\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: No.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Even if I was, I wouldn't visit a dream bubble. That only happens when your dream self is dead, like yours is.",
+		"TT: Pages really are a slow burning\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"class. Damn.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Mine is not.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Hm. I guess i understand?",
+		"GT: Figure what out!\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: So whats the deal then? Wait.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: You said this is where they meet dead people too...",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Shit! Dirk are you dead? Are you a ghost!?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: You're asleep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: No, dude. Chill. I'm fine.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Then what the fuck is going on! Who am i talking to?",
+		"GT: Oh.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Well, who are the people you talk to when you have a regular dream?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: What? Uh...",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Like just a boring normal dream, and there's a person you're talking to. Who is that?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know?",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: It's nobody. Just a projection of your own mind.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Dream bubbles don't always need to be shared by dreamers or dead people. You can go to sleep and wake up in one alone, reliving an old memory.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Kind of like a normal dream. Until you remember it's just a memory, which is where we are now.",
+		"GT: Thats right. I fell off the\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Okay.",
+		"platform thing and i guess i got\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: So.",
+		"knocked out?\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: I am having like a lucid dreamy thing in a magic bubble and you are just like a figment of my imagination?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yes, basically.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: So im dreaming.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: So im talking to myself! Thats kind of stupid!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Kinda.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Well, yeah. But not quite.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: You could view me as a projection of the real Dirk within your mind, as expressed through all of your thought patterns about him.",
+		"TT: It's a dream bubble.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: So I'm kind of a splinter of his corporeal self who happens to live in your awareness.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: I'm a startlingly close approximation to the real thing, for all intents and purposes.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Whats that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Just how startlingly close are we talking?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I'm not going to give you a bogus percentage like the glasses cause that's not my shtick.",
+		"TT: A place in the infinite abyss\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: But pretty damn close.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Okay thats fair.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: But.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Man.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: There is something that feels kind of weird about this. You being in my head... its a little messed up!",
+		"where sleeping people can share dreams\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: What's messed up about it?",
+		"with each other while revisiting\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"memories.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: You were the one who put me here, with your intimate understanding of all his mannerisms and predilections.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: And a splintered existence is pretty much how he rolls.",
+		"TT: Also where they can meet dead\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: This is how shit is bro.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Ok im sorry for saying its messed up but...",
+		"GT: So we are sharing a dream\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"together?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its still a bit frustrating! Ive been trying to talk to you all day.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: But all i get is your pesky responder bedeviling me at every turn and your friggin robot punching me across the ocean and then throwing a weird tantrum and ripping his nuclear heart out in front of me.",
+		"GT: And youre currently asleep too?\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: And if that werent enough i tumbled off the doohickey and knocked myself out and now im strolling down memory lane with your fake brain ghost!",
+		"Uh. Currently in the future?\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Its like you are surrounding me from all sides with imitations of yourself but never the REAL YOU!!!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Cheese and fucking crackers when do i just get to talk to the actual dirk?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Jake, what do you even know about someone's actual self?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Even if I was, I wouldn't visit a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"dream bubble. That only happens when\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your dream self is dead, like yours\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What makes it actual? What is \"actuality?\"",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Mine is not.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Hm. I guess i understand?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: What a horseshitty question!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont know anything about actuality i guess but i know some philosobabble horseshit when i dadblasted hear it.",
+		"GT: So whats the deal then? Wait.\
+",
 		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: I'm just saying, this isn't really your field of expertise.",
-		{
-			0.9490196078431372,
-			0.6431372549019608,
-			0.0,
-		},
-		"\
-TT: Dirk is the heart guy. He's the one walking the path of self, even when he doesn't know it. Like right now.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: But what does that mean?",
+		"GT: You said this is where they meet\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"dead people too...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: And how can you really be made of only my thoughts when i dont even know what youre talking about sometimes?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Or when i didnt know some of the things youre telling me? Like about being in a dream bubble?",
+		"GT: Shit! Dirk are you dead? Are you a\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"ghost!?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: How can i tell myself about that stuff through brain ghost dirk!",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: No, dude. Chill. I'm fine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Who says you don't know those things on some level?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I dont think i do!",
+		"GT: Then what the fuck is going on!\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"Who am i talking to?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I have no business knowing those things.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Pages have a lot of untapped potential.",
+		"TT: Well, who are the people you talk\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"to when you have a regular dream?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: That's practically all there is to the class, actually.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What? Uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: But when they eventually find it, look out.",
+		"TT: Like just a boring normal dream,\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: And the ones who deal in hope? Shit, man.",
+		"and there's a person you're talking\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"to. Who is that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'm scared of you already, and I'm not even real.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont know?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: It's nobody. Just a projection of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your own mind.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Dream bubbles don't always need to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"be shared by dreamers or dead people.\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"You can go to sleep and wake up in one\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"alone, reliving an old memory.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Kind of like a normal dream. Until\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you remember it's just a memory, which\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"is where we are now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Okay.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I am having like a lucid dreamy\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"thing in a magic bubble and you are\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"just like a figment of my imagination?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Yes, basically.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So im talking to myself! Thats\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"kind of stupid!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Well, yeah. But not quite.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You could view me as a projection\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"of the real Dirk within your mind, as\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"expressed through all of your thought\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"patterns about him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: So I'm kind of a splinter of his\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"corporeal self who happens to live in\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your awareness.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm a startlingly close\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"approximation to the real thing, for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"all intents and purposes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Just how startlingly close are we\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"talking?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm not going to give you a bogus\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"percentage like the glasses cause\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that's not my shtick.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: But pretty damn close.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Okay thats fair.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: There is something that feels kind\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"of weird about this. You being in my\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"head... its a little messed up!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What's messed up about it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: You were the one who put me here,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"with your intimate understanding of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"all his mannerisms and predilections.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: And a splintered existence is\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"pretty much how he rolls.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: This is how shit is bro.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Ok im sorry for saying its messed\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"up but...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Its still a bit frustrating! Ive\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"been trying to talk to you all day.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But all i get is your pesky\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"responder bedeviling me at every turn\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"and your friggin robot punching me\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"across the ocean and then throwing a\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"weird tantrum and ripping his nuclear\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"heart out in front of me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: And if that werent enough i\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"tumbled off the doohickey and knocked\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"myself out and now im strolling down\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"memory lane with your fake brain\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"ghost!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Its like you are surrounding me\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"from all sides with imitations of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"yourself but never the REAL YOU!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Cheese and fucking crackers when\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"do i just get to talk to the actual\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"dirk?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Jake, what do you even know about\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"someone's actual self?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: What makes it actual? What is\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"\"actuality?\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What a horseshitty question!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont know anything about\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"actuality i guess but i know some\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"philosobabble horseshit when i\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"dadblasted hear it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm just saying, this isn't really\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your field of expertise.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Dirk is the heart guy. He's the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"one walking the path of self, even\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"when he doesn't know it. Like right\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But what does that mean?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: And how can you really be made of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"only my thoughts when i dont even know\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"what youre talking about sometimes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Or when i didnt know some of the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"things youre telling me? Like about\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"being in a dream bubble?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: How can i tell myself about that\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"stuff through brain ghost dirk!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Who says you don't know those\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"things on some level?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont think i do!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I have no business knowing those\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"things.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Pages have a lot of untapped\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"potential.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: That's practically all there is to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the class, actually.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: But when they eventually find it,\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"look out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: And the ones who deal in hope?\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"Shit, man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: I'm scared of you already, and I'm\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"not even real.\
+",
 	},
 	next = {
 		4876,
 	},
 	previous = 4874,
+	page_id = 4875,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Change shirt.",
-	pageId = 4525,
 	timestamp = "1328048003",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You bust out a tank top, which is THE go-to solution for hard dudes who want to show off their guns. It is a very STRONG look, you think.",
+		"You bust out a tank top, which is THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"go-to solution for hard dudes who want\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to show off their guns. It is a very\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"STRONG look, you think.\
+",
 	},
 	next = {
 		4526,
 	},
 	previous = 4524,
+	page_id = 4525,
+	long_title = false,
 }

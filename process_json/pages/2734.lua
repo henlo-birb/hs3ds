@@ -1,6 +1,5 @@
 return {
 	title = "John: Hurry up!",
-	pageId = 2734,
 	timestamp = "1286238343",
 	flag = {},
 	media = {
@@ -250,4 +249,6 @@ return {
 		2735,
 	},
 	previous = 2733,
+	page_id = 2734,
+	long_title = false,
 }

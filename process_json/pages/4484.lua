@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Succumb to unfathomable booze snooze.",
-	pageId = 4484,
 	timestamp = "1326869439",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4485,
 	},
 	previous = 4483,
+	page_id = 4484,
+	long_title = true,
 }

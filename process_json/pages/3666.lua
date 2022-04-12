@@ -1,6 +1,5 @@
 return {
 	title = "John: Return to surface.",
-	pageId = 3666,
 	timestamp = "1300599157",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		3667,
 	},
 	previous = 3665,
+	page_id = 3666,
+	long_title = false,
 }

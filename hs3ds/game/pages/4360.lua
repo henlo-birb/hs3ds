@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4360,
 	timestamp = "1324517921",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HOLY",
+		"KARKAT: HOLY\
+",
 	},
 	next = {
 		4361,
 	},
 	previous = 4359,
+	page_id = 4360,
+	long_title = false,
 }

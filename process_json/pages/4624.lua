@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Solicit GCat for assistance.",
-	pageId = 4624,
 	timestamp = "1330394944",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		4625,
 	},
 	previous = 4623,
+	page_id = 4624,
+	long_title = true,
 }

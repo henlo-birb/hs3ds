@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Retrieve husktop.",
-	pageId = 2021,
 	timestamp = "1276655990",
 	flag = {},
 	media = {
@@ -35,4 +34,6 @@ return {
 		2022,
 	},
 	previous = 2020,
+	page_id = 2021,
+	long_title = false,
 }

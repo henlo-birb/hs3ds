@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: ENGAGE MURDER MODE.",
-	pageId = 3445,
 	timestamp = "1297050556",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"This is completely terrifying.",
+		"This is completely terrifying.\
+",
 	},
 	next = {
 		3446,
 	},
 	previous = 3444,
+	page_id = 3445,
+	long_title = false,
 }

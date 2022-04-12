@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Play haunting piano refrain.",
-	pageId = 77,
 	timestamp = "1240356767",
 	flag = {
 		"F",
@@ -15,10 +14,20 @@ return {
 			0,
 			0,
 		},
-		"(Pages including sound will be preceded by [S] in the command.)",
+		"(Pages including sound will be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"preceded by [S] in the command.)\
+",
 	},
 	next = {
 		78,
 	},
 	previous = 76,
+	page_id = 77,
+	long_title = true,
 }

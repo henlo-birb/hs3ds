@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Retrieve two of hearts from backup hat.",
-	pageId = 1220,
 	timestamp = "1264141956",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You retrieve your pair of WAX LIPS.",
+		"You retrieve your pair of WAX LIPS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If anyone tried to steal your WAX LIPS, you would eat their eyeballs and deliver an angry lecture into their empty sockets.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If anyone tried to steal your WAX\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LIPS, you would eat their eyeballs and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deliver an angry lecture into their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empty sockets.\
+",
 	},
 	next = {
 		1221,
 	},
 	previous = 1219,
+	page_id = 1220,
+	long_title = true,
 }

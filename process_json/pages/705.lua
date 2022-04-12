@@ -1,6 +1,5 @@
 return {
 	title = "WV: Check that rampaging boy on the screen.",
-	pageId = 705,
 	timestamp = "1254098132",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		706,
 	},
 	previous = 704,
+	page_id = 705,
+	long_title = true,
 }

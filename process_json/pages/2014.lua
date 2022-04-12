@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Captchalogue computer.",
-	pageId = 2014,
 	timestamp = "1276635091",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		2015,
 	},
 	previous = 2013,
+	page_id = 2014,
+	long_title = false,
 }

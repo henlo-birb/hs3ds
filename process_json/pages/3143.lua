@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deck halls.",
-	pageId = 3143,
 	timestamp = "1293234209",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		3144,
 	},
 	previous = 3142,
+	page_id = 3143,
+	long_title = false,
 }

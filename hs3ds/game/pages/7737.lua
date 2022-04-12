@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7737,
 	timestamp = "1435534567",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Do you know when he arrives?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Do you know when he arrives?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: i already said i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i already said i dont know",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Right.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: ...",
+		"DIRK: ...\
+",
 	},
 	next = {
 		7738,
 	},
 	previous = 7736,
+	page_id = 7737,
+	long_title = false,
 }

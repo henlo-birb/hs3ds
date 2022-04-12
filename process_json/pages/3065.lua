@@ -1,6 +1,5 @@
 return {
 	title = "Page: Retrieve arms.",
-	pageId = 3065,
 	timestamp = "1292218464",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		3066,
 	},
 	previous = 3064,
+	page_id = 3065,
+	long_title = false,
 }

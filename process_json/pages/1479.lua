@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Doff your hat to the attractive female.",
-	pageId = 1479,
 	timestamp = "1267047934",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1480,
 	},
 	previous = 1478,
+	page_id = 1479,
+	long_title = true,
 }

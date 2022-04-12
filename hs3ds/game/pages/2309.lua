@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2309,
 	timestamp = "1280428095",
 	flag = {},
 	media = {
@@ -13,18 +12,69 @@ return {
 			0,
 			0,
 		},
-		"She removed the ring and concealed it in the ROYAL VAULT while she was quite sure no one was looking. She then retired to her private chamber from which she would dispatch orders, no one the wiser of her disadvantage.",
+		"She removed the ring and concealed it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the ROYAL VAULT while she was quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure no one was looking. She then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"retired to her private chamber from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which she would dispatch orders, no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one the wiser of her disadvantage.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Or so she thought.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Or so she thought.\
+",
 	},
 	next = {
 		2310,
 	},
 	previous = 2308,
+	page_id = 2309,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Grab the Eldritch Princess.",
-	pageId = 363,
 	timestamp = "1247340242",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		364,
 	},
 	previous = 362,
+	page_id = 363,
+	long_title = true,
 }

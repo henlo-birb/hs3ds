@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine needlewands and grimoire.",
-	pageId = 1812,
 	timestamp = "1273189929",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1813,
 	},
 	previous = 1811,
+	page_id = 1812,
+	long_title = true,
 }

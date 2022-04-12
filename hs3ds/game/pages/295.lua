@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 295,
 	timestamp = "1245802205",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Your LAPTOP is out of BATTERY POWER. There's only one thing left to do. Time to make your way to that BACKUP GENERATOR.",
+		"Your LAPTOP is out of BATTERY POWER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's only one thing left to do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Time to make your way to that BACKUP\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GENERATOR.\
+",
 	},
 	next = {
 		296,
 	},
 	previous = 294,
+	page_id = 295,
+	long_title = false,
 }

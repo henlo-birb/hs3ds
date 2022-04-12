@@ -1,6 +1,5 @@
 return {
 	title = "THE END. OF ACT 1.",
-	pageId = 6266,
 	timestamp = "1371080898",
 	flag = {},
 	media = {
@@ -272,4 +271,6 @@ return {
 	},
 	previous = 6265,
 	theme = "A6A6",
+	page_id = 6266,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6224,
 	timestamp = "1365750676",
 	flag = {},
 	media = {
@@ -12,108 +11,265 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: so\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: so",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: has anyone figured out how were actually gonna stop this meteor",
+		"DAVE: has anyone figured out how were\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: or was three years not enough time to solve that problem",
+		"actually gonna stop this meteor\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: NO, WE HAVEN'T.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: OH MY GOD.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WE'RE STILL TRAVELING AT THE SPEED OF LIGHT, AND WE ONLY SEEM TO BE PICKING UP STEAM!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i dont think thats possible dude",
+		"DAVE: or was three years not enough\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"time to solve that problem\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: in fact im not sure we were ever traveling at light speed",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: NO, WE HAVEN'T.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OH MY GOD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE'RE STILL TRAVELING AT THE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SPEED OF LIGHT, AND WE ONLY SEEM TO BE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PICKING UP STEAM!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i think maybe theres been some bogus science in circulation that we been chumped into gettin behind",
+		"DAVE: i dont think thats possible dude\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: WHAT?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: in fact im not sure we were ever\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"traveling at light speed\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: just saying",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i think maybe theres been some\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"bogus science in circulation that we\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"been chumped into gettin behind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: NO.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: just saying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: NO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: *I'M* JUST SAYING.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: *I'M* JUST SAYING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WE CAME ALL THIS WAY, AND WE'RE ALL GOING TO DIE!!!",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE CAME ALL THIS WAY, AND\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WE'RE ALL GOING TO DIE!!!\
+",
 	},
 	next = {
 		6225,
 	},
 	previous = 6223,
+	page_id = 6224,
+	long_title = false,
 }

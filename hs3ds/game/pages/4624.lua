@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Solicit GCat for assistance.",
-	pageId = 4624,
 	timestamp = "1330394944",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Maybe he's in one of his arbitrarily helpful moods? ",
+		"Maybe he's in one of his arbitrarily\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"helpful moods?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What do you say there, friend? Little help?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What do you say there, friend? Little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"help?\
+",
 	},
 	next = {
 		4625,
 	},
 	previous = 4623,
+	page_id = 4624,
+	long_title = true,
 }

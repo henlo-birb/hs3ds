@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Attempt to get a gab in edgeways.",
-	pageId = 4926,
 	timestamp = "1336539368",
 	flag = {},
 	media = {
@@ -2154,4 +2153,6 @@ return {
 		4927,
 	},
 	previous = 4925,
+	page_id = 4926,
+	long_title = true,
 }

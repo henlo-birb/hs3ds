@@ -1,6 +1,5 @@
 return {
 	title = "[o] Try to make sense of this mess yourself.",
-	pageId = 3895,
 	timestamp = "1310165088",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 	},
 	previous = 3874,
 	theme = "scratch",
+	page_id = 3895,
+	long_title = true,
 }

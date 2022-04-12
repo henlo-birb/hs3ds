@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue damp towel.",
-	pageId = 346,
 	timestamp = "1247014461",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		347,
 	},
 	previous = 345,
+	page_id = 346,
+	long_title = false,
 }

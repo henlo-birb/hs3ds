@@ -1,6 +1,5 @@
 return {
 	title = "fellow john, it appears we have reached an impasse",
-	pageId = 514,
 	timestamp = "1250910549",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Yes, it seems so.",
+		"Yes, it seems so.\
+",
 	},
 	next = {
 		515,
 	},
 	previous = 513,
+	page_id = 514,
+	long_title = true,
 }

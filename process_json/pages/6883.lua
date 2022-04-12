@@ -1,6 +1,5 @@
 return {
 	title = "ALSO, HOW ABOUT A HAT?",
-	pageId = 6883,
 	timestamp = "1413621840",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 	},
 	previous = 6882,
 	theme = "A6A6",
+	page_id = 6883,
+	long_title = false,
 }

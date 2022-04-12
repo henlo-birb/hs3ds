@@ -1,6 +1,5 @@
 return {
 	title = "7. GETTING MURDERED IN DRAWINGS.",
-	pageId = 6873,
 	timestamp = "1413621133",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 	},
 	previous = 6872,
 	theme = "A6A6",
+	page_id = 6873,
+	long_title = false,
 }

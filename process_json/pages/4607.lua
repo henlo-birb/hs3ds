@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Appearify.",
-	pageId = 4607,
 	timestamp = "1330155039",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4608,
 	},
 	previous = 4606,
+	page_id = 4607,
+	long_title = false,
 }

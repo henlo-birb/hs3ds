@@ -1,6 +1,5 @@
 return {
 	title = "John: Might as well grab those cuffs.",
-	pageId = 124,
 	timestamp = "1241596304",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		125,
 	},
 	previous = 123,
+	page_id = 124,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Access laboratory wifi network.",
-	pageId = 239,
 	timestamp = "1244096508",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		240,
 	},
 	previous = 238,
+	page_id = 239,
+	long_title = true,
 }

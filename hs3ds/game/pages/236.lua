@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Try to connect!",
-	pageId = 236,
 	timestamp = "1244010347",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You first put your LAPTOP down on the floor to get it situated.",
+		"You first put your LAPTOP down on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"floor to get it situated.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But removing it from the ROOT CARD causes all the branches and leaves to be severed! Your items are dumped unceremoniously on the floor.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But removing it from the ROOT CARD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"causes all the branches and leaves to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be severed! Your items are dumped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unceremoniously on the floor.\
+",
 	},
 	next = {
 		237,
 	},
 	previous = 235,
+	page_id = 236,
+	long_title = false,
 }

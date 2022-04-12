@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Cut to the chase and begin LARPing immediately.",
-	pageId = 2032,
 	timestamp = "1276799819",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		2033,
 	},
 	previous = 2031,
+	page_id = 2032,
+	long_title = true,
 }

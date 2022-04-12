@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Examine computer.",
-	pageId = 2160,
 	timestamp = "1278279638",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		2161,
 	},
 	previous = 2159,
+	page_id = 2160,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Deappearify the pumpkin.",
-	pageId = 746,
 	timestamp = "1254764422",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		747,
 	},
 	previous = 745,
+	page_id = 746,
+	long_title = false,
 }

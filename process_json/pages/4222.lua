@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine pumpkin patch.",
-	pageId = 4222,
 	timestamp = "1322372143",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		4223,
 	},
 	previous = 4221,
+	page_id = 4222,
+	long_title = false,
 }

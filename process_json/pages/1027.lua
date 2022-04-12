@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Change wardrobifier to cycle thru STAR HEART HORSESHOE",
-	pageId = 1027,
 	timestamp = "1261178296",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1028,
 	},
 	previous = 1026,
+	page_id = 1027,
+	long_title = true,
 }

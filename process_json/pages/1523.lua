@@ -1,6 +1,5 @@
 return {
 	title = "You guide the Heir. Consult with him.",
-	pageId = 1523,
 	timestamp = "1267509800",
 	flag = {},
 	media = {
@@ -831,4 +830,6 @@ return {
 		1524,
 	},
 	previous = 1522,
+	page_id = 1523,
+	long_title = true,
 }

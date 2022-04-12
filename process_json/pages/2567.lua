@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Reply to memo.",
-	pageId = 2567,
 	timestamp = "1283298578",
 	flag = {},
 	media = {
@@ -6033,4 +6032,6 @@ return {
 		2568,
 	},
 	previous = 2566,
+	page_id = 2567,
+	long_title = false,
 }

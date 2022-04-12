@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Peek inside kitchen.",
-	pageId = 365,
 	timestamp = "1247429248",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"The LIQUOR BOTTLES are out in full force. MOM is surely nearby.",
+		"The LIQUOR BOTTLES are out in full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"force. MOM is surely nearby.\
+",
 	},
 	next = {
 		366,
 	},
 	previous = 364,
+	page_id = 365,
+	long_title = false,
 }

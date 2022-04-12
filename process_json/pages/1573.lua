@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue enlarger.",
-	pageId = 1573,
 	timestamp = "1268194816",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1574,
 	},
 	previous = 1572,
+	page_id = 1573,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6605,
 	timestamp = "1378750785",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		6606,
 	},
 	previous = 6604,
+	page_id = 6605,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Inspect timekeeping devices.",
-	pageId = 1156,
 	timestamp = "1263629480",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1157,
 	},
 	previous = 1155,
+	page_id = 1156,
+	long_title = true,
 }

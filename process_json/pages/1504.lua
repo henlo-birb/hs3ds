@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Give Dave punch card of an eggy loking thign [sic].",
-	pageId = 1504,
 	timestamp = "1267310988",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1505,
 	},
 	previous = 1503,
+	page_id = 1504,
+	long_title = true,
 }

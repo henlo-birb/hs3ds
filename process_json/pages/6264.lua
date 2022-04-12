@@ -1,6 +1,5 @@
 return {
 	title = "MALE: GET MURDERED BY EXPLOSION.",
-	pageId = 6264,
 	timestamp = "1371080455",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 	},
 	previous = 6263,
 	theme = "A6A6",
+	page_id = 6264,
+	long_title = false,
 }

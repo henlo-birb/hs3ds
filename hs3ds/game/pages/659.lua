@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 659,
 	timestamp = "1253332123",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You are being ambushed!",
+		"You are being ambushed!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There isn't much room to maneuver on this sloping roof. Maybe you should consider making your way to higher ground.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There isn't much room to maneuver on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this sloping roof. Maybe you should\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"consider making your way to higher\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ground.\
+",
 	},
 	next = {
 		660,
 	},
 	previous = 658,
+	page_id = 659,
+	long_title = false,
 }

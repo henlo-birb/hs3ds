@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine mummy and MC poster and outfit.",
-	pageId = 3166,
 	timestamp = "1293258429",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		3167,
 	},
 	previous = 3165,
+	page_id = 3166,
+	long_title = true,
 }

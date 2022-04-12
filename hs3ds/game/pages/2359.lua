@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Take them.",
-	pageId = 2359,
 	timestamp = "1281074835",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2360,
 	},
 	previous = 2358,
+	page_id = 2359,
+	long_title = false,
 }

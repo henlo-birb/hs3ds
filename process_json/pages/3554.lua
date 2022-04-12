@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Succumb to unfathomable bloodlust.",
-	pageId = 3554,
 	timestamp = "1298318113",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3555,
 	},
 	previous = 3553,
+	page_id = 3554,
+	long_title = true,
 }

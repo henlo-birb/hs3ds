@@ -1,6 +1,5 @@
 return {
 	title = "WV: Curiously prod the funny-looking spirograph.",
-	pageId = 728,
 	timestamp = "1254620119",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"It appears the funny-looking spirograph room is locked!",
+		"It appears the funny-looking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spirograph room is locked!\
+",
 	},
 	next = {
 		729,
 	},
 	previous = 727,
+	page_id = 728,
+	long_title = true,
 }

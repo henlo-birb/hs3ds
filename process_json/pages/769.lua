@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Play a silly flute refrain.",
-	pageId = 769,
 	timestamp = "1255576099",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		770,
 	},
 	previous = 768,
+	page_id = 769,
+	long_title = true,
 }

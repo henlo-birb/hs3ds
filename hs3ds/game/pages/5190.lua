@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5190,
 	timestamp = "1340701284",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: I'D STILL LOVE TO WATCH HIM DIE...........",
+		"uu: I'D STILL LOVE TO WATCH HIM\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"DIE...........\
+",
 	},
 	next = {
 		5191,
 	},
 	previous = 5189,
+	page_id = 5190,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Slap him around a bit.",
-	pageId = 2036,
 	timestamp = "1276810720",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2037,
 	},
 	previous = 2035,
+	page_id = 2036,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Bother Feferi.",
-	pageId = 2448,
 	timestamp = "1282018112",
 	flag = {},
 	media = {
@@ -2385,4 +2384,6 @@ return {
 		2449,
 	},
 	previous = 2447,
+	page_id = 2448,
+	long_title = false,
 }

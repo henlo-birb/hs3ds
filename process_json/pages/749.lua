@@ -1,6 +1,5 @@
 return {
 	title = "WV: Appearify firefly out of the amber.",
-	pageId = 749,
 	timestamp = "1254764537",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		750,
 	},
 	previous = 748,
+	page_id = 749,
+	long_title = true,
 }

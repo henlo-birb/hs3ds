@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1515,
 	timestamp = "1267400126",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You then pay the steep fee of 1000 BUILD GRIST to deploy the JUMPER BLOCK EXTENSION.",
+		"You then pay the steep fee of 1000\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUILD GRIST to deploy the JUMPER BLOCK\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EXTENSION.\
+",
 	},
 	next = {
 		1516,
 	},
 	previous = 1514,
+	page_id = 1515,
+	long_title = false,
 }

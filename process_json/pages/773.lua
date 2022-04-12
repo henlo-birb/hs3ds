@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Select Memory.",
-	pageId = 773,
 	timestamp = "1255677507",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		774,
 	},
 	previous = 772,
+	page_id = 773,
+	long_title = false,
 }

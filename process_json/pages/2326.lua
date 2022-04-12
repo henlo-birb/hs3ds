@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Apply.",
-	pageId = 2326,
 	timestamp = "1280616720",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		2327,
 	},
 	previous = 2325,
+	page_id = 2326,
+	long_title = false,
 }

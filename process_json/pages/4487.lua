@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Wake up.",
-	pageId = 4487,
 	timestamp = "1327201687",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4488,
 	},
 	previous = 4486,
+	page_id = 4487,
+	long_title = false,
 }

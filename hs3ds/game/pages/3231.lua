@@ -1,6 +1,5 @@
 return {
 	title = "AH: Retire to study.",
-	pageId = 3231,
 	timestamp = "1294007926",
 	flag = {
 		"R4",
@@ -14,10 +13,34 @@ return {
 			0,
 			0,
 		},
-		"I retire to my heavily processed photograph of Andrew Carnegie's study, painstakingly retrieved from a google image search.",
+		"I retire to my heavily processed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"photograph of Andrew Carnegie's study,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"painstakingly retrieved from a google\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"image search.\
+",
 	},
 	next = {
 		3232,
 	},
 	previous = 3230,
+	page_id = 3231,
+	long_title = false,
 }

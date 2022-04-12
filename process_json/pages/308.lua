@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Confront mother in hall.",
-	pageId = 308,
 	timestamp = "1246267292",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		309,
 	},
 	previous = 307,
+	page_id = 308,
+	long_title = false,
 }

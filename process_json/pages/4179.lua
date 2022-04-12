@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Take comics.",
-	pageId = 4179,
 	timestamp = "1321777330",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4180,
 	},
 	previous = 4178,
+	page_id = 4179,
+	long_title = false,
 }

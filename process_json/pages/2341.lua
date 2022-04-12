@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Meddle with moirail.",
-	pageId = 2341,
 	timestamp = "1280783575",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		2342,
 	},
 	previous = 2340,
+	page_id = 2341,
+	long_title = false,
 }

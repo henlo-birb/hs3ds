@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Flip.",
-	pageId = 2043,
 	timestamp = "1276882206",
 	flag = {},
 	media = {
@@ -28,4 +27,6 @@ return {
 		2044,
 	},
 	previous = 2042,
+	page_id = 2043,
+	long_title = false,
 }

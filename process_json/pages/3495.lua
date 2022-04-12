@@ -1,6 +1,5 @@
 return {
 	title = "John: 8e cre8tive.",
-	pageId = 3495,
 	timestamp = "1297563501",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3496,
 	},
 	previous = 3494,
+	page_id = 3495,
+	long_title = false,
 }

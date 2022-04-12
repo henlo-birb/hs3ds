@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Sniff around for clues.",
-	pageId = 3366,
 	timestamp = "1296092236",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Above, you detect faint traces of what you reckon to be special stardust, such as the kind left behind by the flapping wings of a mischievous fairy.",
+		"Above, you detect faint traces of what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you reckon to be special stardust,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such as the kind left behind by the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"flapping wings of a mischievous fairy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Suspicious indeed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Suspicious indeed.\
+",
 	},
 	next = {
 		3367,
 	},
 	previous = 3365,
+	page_id = 3366,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Kill John's dad yourself.",
-	pageId = 1139,
 	timestamp = "1262822477",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Here, stick this in your pipe and bleed to death slowly.",
+		"Here, stick this in your pipe and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bleed to death slowly.\
+",
 	},
 	next = {
 		1140,
 	},
 	previous = 1138,
+	page_id = 1139,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Closely inspect Fruit Gushers box.",
-	pageId = 976,
 	timestamp = "1260056873",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		977,
 	},
 	previous = 975,
+	page_id = 976,
+	long_title = true,
 }

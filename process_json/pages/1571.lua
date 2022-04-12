@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw the intellibeam laserstation.",
-	pageId = 1571,
 	timestamp = "1268003151",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		1572,
 	},
 	previous = 1570,
+	page_id = 1571,
+	long_title = true,
 }

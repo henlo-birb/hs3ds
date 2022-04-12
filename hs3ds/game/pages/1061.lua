@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine umbrella and straight razor.",
-	pageId = 1061,
 	timestamp = "1261464999",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You make the BARBER'S BEST FRIEND.",
+		"You make the BARBER'S BEST FRIEND.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It suddenly seems worthwhile to you to go nab that UMBRELLAKIND STRIFE SPECIBUS that's been lying in the study for a while.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It suddenly seems worthwhile to you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"go nab that UMBRELLAKIND STRIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECIBUS that's been lying in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"study for a while.\
+",
 	},
 	next = {
 		1062,
 	},
 	previous = 1060,
+	page_id = 1061,
+	long_title = true,
 }

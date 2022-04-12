@@ -1,6 +1,5 @@
 return {
 	title = "Rose: It's time to build.",
-	pageId = 484,
 	timestamp = "1250395210",
 	flag = {},
 	media = {
@@ -194,4 +193,6 @@ return {
 		485,
 	},
 	previous = 483,
+	page_id = 484,
+	long_title = false,
 }

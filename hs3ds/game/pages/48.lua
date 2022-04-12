@@ -1,6 +1,5 @@
 return {
 	title = "John: Go downstairs.",
-	pageId = 48,
 	timestamp = "1240031837",
 	flag = {},
 	media = {
@@ -13,30 +12,90 @@ return {
 			0,
 			0,
 		},
-		"The accursed odor of fresh baking wafts into your newfound nostrils. Something is brewing in the KITCHEN. It must be the connivings of your arch nemesis, ",
+		"The accursed odor of fresh baking\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"BETTY CROCKER",
+		"wafts into your newfound nostrils.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		", and the rich, buttery aroma of her plot stinks to high heaven.",
+		"Something is brewing in the KITCHEN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It must be the connivings of your arch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nemesis,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BETTY CROCKER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		", and the rich, buttery aroma of her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plot stinks to high heaven.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This mission is going to be more difficult than you imagined.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This mission is going to be more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"difficult than you imagined.\
+",
 	},
 	next = {
 		49,
 	},
 	previous = 47,
+	page_id = 48,
+	long_title = false,
 }

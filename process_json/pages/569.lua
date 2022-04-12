@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Set Blender to \"Mix\".",
-	pageId = 569,
 	timestamp = "1251865116",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		570,
 	},
 	previous = 568,
+	page_id = 569,
+	long_title = false,
 }

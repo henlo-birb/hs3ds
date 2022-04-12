@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7232,
 	timestamp = "1419394579",
 	flag = {},
 	media = {
@@ -12,31 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: framed, huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: framed, huh?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i mean... \"FR4M3D\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i mean... \"FR4M3D\".",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ...which i guess is pronounced the same way, but you have to yell it in terezi's weird annoying voice?",
+		"JOHN: ...which i guess is pronounced\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the same way, but you have to yell it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"in terezi's weird annoying voice?\
+",
 	},
 	next = {
 		7233,
 	},
 	previous = 7231,
+	page_id = 7232,
+	long_title = false,
 }

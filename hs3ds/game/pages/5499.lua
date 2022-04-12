@@ -1,6 +1,5 @@
 return {
 	title = "[A6I4] ==>",
-	pageId = 5499,
 	timestamp = "1353921384",
 	flag = {},
 	media = {
@@ -12,38 +11,90 @@ return {
 			0,
 			0,
 		},
-		"|AUTHORLOG|",
+		"|AUTHORLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"Oh great.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Oh great.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"Now he's vomiting blood.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Now he's vomiting blood.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"Are you satisfied?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Are you satisfied?",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-You made this dear, sweet, pseudo-innocent juggalo vomit liter after thick, glutinous liter of nasty purple blood.",
+		"You made this dear, sweet,\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"pseudo-innocent juggalo vomit liter\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"after thick, glutinous liter of nasty\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"purple blood.\
+",
 	},
 	next = {
 		5500,
 	},
 	previous = 5498,
+	page_id = 5499,
+	long_title = false,
 }

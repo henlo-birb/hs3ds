@@ -1,6 +1,5 @@
 return {
 	title = "John: Obtain SW33TL00T.",
-	pageId = 965,
 	timestamp = "1259975733",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		966,
 	},
 	previous = 964,
+	page_id = 965,
+	long_title = false,
 }

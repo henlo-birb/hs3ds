@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Subjugglate.",
-	pageId = 3440,
 	timestamp = "1297037711",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3441,
 	},
 	previous = 3439,
+	page_id = 3440,
+	long_title = false,
 }

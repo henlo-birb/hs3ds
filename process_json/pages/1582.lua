@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Strife.",
-	pageId = 1582,
 	timestamp = "1268288890",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1583,
 	},
 	previous = 1581,
+	page_id = 1582,
+	long_title = false,
 }

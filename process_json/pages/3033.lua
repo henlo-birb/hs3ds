@@ -1,6 +1,5 @@
 return {
 	title = "Jade: OH GOD HURRY UP AND ALCHEMIZE STUFF GO GO GO.",
-	pageId = 3033,
 	timestamp = "1291862712",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3034,
 	},
 	previous = 3032,
+	page_id = 3033,
+	long_title = true,
 }

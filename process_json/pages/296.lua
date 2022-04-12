@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Knit laptop cozy to shield your laptop from the rain.",
-	pageId = 296,
 	timestamp = "1245885771",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		297,
 	},
 	previous = 295,
+	page_id = 296,
+	long_title = true,
 }

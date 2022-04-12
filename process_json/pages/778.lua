@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Captchalogue the pumpkin growing next to you.",
-	pageId = 778,
 	timestamp = "1255742826",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		779,
 	},
 	previous = 777,
+	page_id = 778,
+	long_title = true,
 }

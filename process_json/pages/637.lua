@@ -1,6 +1,5 @@
 return {
 	title = "John: Attack the nearest imp to test pogo hammer's strength.",
-	pageId = 637,
 	timestamp = "1252908310",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		638,
 	},
 	previous = 636,
+	page_id = 637,
+	long_title = true,
 }

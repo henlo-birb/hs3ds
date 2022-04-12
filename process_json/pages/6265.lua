@@ -1,6 +1,5 @@
 return {
 	title = "CONFIRM THE KILL.",
-	pageId = 6265,
 	timestamp = "1371080587",
 	flag = {},
 	media = {
@@ -265,4 +264,6 @@ return {
 	},
 	previous = 6264,
 	theme = "A6A6",
+	page_id = 6265,
+	long_title = false,
 }

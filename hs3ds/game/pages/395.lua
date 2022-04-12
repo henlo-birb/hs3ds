@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Use umbrella.",
-	pageId = 395,
 	timestamp = "1248385881",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		396,
 	},
 	previous = 394,
+	page_id = 395,
+	long_title = false,
 }

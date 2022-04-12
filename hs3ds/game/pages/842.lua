@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 842,
 	timestamp = "1257561731",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You pack up your LUNCHTOP and get ready to take care of some business downstairs.",
+		"You pack up your LUNCHTOP and get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ready to take care of some business\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"downstairs.\
+",
 	},
 	next = {
 		843,
 	},
 	previous = 841,
+	page_id = 842,
+	long_title = false,
 }

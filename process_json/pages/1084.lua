@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue beta.",
-	pageId = 1084,
 	timestamp = "1262244588",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		1085,
 	},
 	previous = 1083,
+	page_id = 1084,
+	long_title = false,
 }

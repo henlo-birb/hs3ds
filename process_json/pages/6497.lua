@@ -1,6 +1,5 @@
 return {
 	title = "STALLIONS: DESCEND.",
-	pageId = 6497,
 	timestamp = "1377910045",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 	},
 	previous = 6496,
 	theme = "A6A6",
+	page_id = 6497,
+	long_title = false,
 }

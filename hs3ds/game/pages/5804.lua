@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5804,
 	timestamp = "1359847072",
 	flag = {
 		"X2COMBO",
@@ -14,59 +13,181 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i hardly wasted a second before giving in",
+		"TG: i hardly wasted a second before\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"giving in\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and here i thought i was actually over that",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but the second im given the slightest justification to drink again i say fuck it",
+		"TG: and here i thought i was actually\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"over that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so it turns out i didnt stop wanting to like i told myself",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: but that i still wanted to while pretending i didnt per some bogus tough girl act",
+		"TG: but the second im given the\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like i thought i was better than the problem",
+		"slightest justification to drink again\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"i say fuck it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: or more like i thought i was too cool and too strong to admit it was actually really hard",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: so it turns out i didnt stop\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"wanting to like i told myself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: but that i still wanted to while\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"pretending i didnt per some bogus\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"tough girl act\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: like i thought i was better than\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the problem\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: or more like i thought i was too\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"cool and too strong to admit it was\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"actually really hard\
+",
 	},
 	next = {
 		5805,
 	},
 	previous = 5803,
+	page_id = 5804,
+	long_title = false,
 }

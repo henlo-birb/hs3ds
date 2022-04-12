@@ -1,6 +1,5 @@
 return {
 	title = "Remove CAKE from MAGIC CHEST.",
-	pageId = 6,
 	timestamp = "1239607471",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		7,
 	},
 	previous = 5,
+	page_id = 6,
+	long_title = false,
 }

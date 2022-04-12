@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5625,
 	timestamp = "1356074017",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: SHOO SHOO SHOO SHOO SHOO SHOO!",
+		"CALLIOPE: SHOO SHOO SHOO SHOO SHOO\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"SHOO!\
+",
 	},
 	next = {
 		5626,
 	},
 	previous = 5624,
+	page_id = 5625,
+	long_title = false,
 }

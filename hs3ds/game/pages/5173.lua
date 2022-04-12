@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5173,
 	timestamp = "1340699912",
 	flag = {},
 	media = {
@@ -12,38 +11,90 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: HE MAKES NO BONES ABOuT GANKING MY LOOK.",
+		"uu: HE MAKES NO BONES ABOuT GANKING MY\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"LOOK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: IT'S PATHETIC.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: IT'S PATHETIC.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: YOu DON'T JuST GO AND JACK A MAN'S SWAGGER.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: YOu DON'T JuST GO AND JACK A MAN'S\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"SWAGGER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: THAT'S THE CARDINAL FuCKING RuLE OF BROS. RIGHT?",
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: THAT'S THE CARDINAL FuCKING RuLE\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"OF BROS. RIGHT?\
+",
 	},
 	next = {
 		5174,
 	},
 	previous = 5172,
+	page_id = 5173,
+	long_title = false,
 }

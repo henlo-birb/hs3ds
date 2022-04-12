@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Zoom out.",
-	pageId = 5039,
 	timestamp = "1339236764",
 	flag = {},
 	media = {
@@ -264,4 +263,6 @@ return {
 		5040,
 	},
 	previous = 5038,
+	page_id = 5039,
+	long_title = false,
 }

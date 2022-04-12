@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Troll Rose human again.",
-	pageId = 2711,
 	timestamp = "1285828736",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"In a little while, she is back in her hive.",
+		"In a little while, she is back in her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hive.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You prepare an ambush. This time, the fashionable, hand-crafted gloves are coming OFF.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You prepare an ambush. This time, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fashionable, hand-crafted gloves are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coming OFF.\
+",
 	},
 	next = {
 		2712,
 	},
 	previous = 2710,
+	page_id = 2711,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Investigate clue.",
-	pageId = 4953,
 	timestamp = "1337463208",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4954,
 	},
 	previous = 4952,
+	page_id = 4953,
+	long_title = false,
 }

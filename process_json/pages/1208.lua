@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Just lock Doze in the battledrobe.",
-	pageId = 1208,
 	timestamp = "1264046161",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1209,
 	},
 	previous = 1207,
+	page_id = 1208,
+	long_title = true,
 }

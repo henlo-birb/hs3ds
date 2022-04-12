@@ -1,0 +1,14 @@
+return {
+	title = "[A6I2] ==>",
+	timestamp = "1332654069",
+	flag = {},
+	media = {
+		"04759",
+	},
+	content = {},
+	next = {
+		4763,
+	},
+	previous = 4761,
+	page_id = 4762,
+}

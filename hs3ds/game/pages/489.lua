@@ -1,6 +1,5 @@
 return {
 	title = "John: Ride pogo ride.",
-	pageId = 489,
 	timestamp = "1250457851",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"It's a little cramped in here for any sort of proper reckless pogoing. You'll just grab it and hang on to it until the right moment presents itself.",
+		"It's a little cramped in here for any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of proper reckless pogoing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll just grab it and hang on to it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"until the right moment presents\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"itself.\
+",
 	},
 	next = {
 		490,
 	},
 	previous = 488,
+	page_id = 489,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "NOW JOHN. RESPOND TO YOUR FRIEND UNIT.",
-	pageId = 256,
 	timestamp = "1245095864",
 	flag = {},
 	media = {
@@ -726,4 +725,6 @@ return {
 		257,
 	},
 	previous = 255,
+	page_id = 256,
+	long_title = true,
 }

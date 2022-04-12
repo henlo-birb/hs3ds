@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Deploy the Punch Designix.",
-	pageId = 471,
 	timestamp = "1250212874",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		472,
 	},
 	previous = 470,
+	page_id = 471,
+	long_title = false,
 }

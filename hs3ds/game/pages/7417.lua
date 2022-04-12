@@ -1,6 +1,5 @@
 return {
 	title = "HERE I AM LORDING IT OVER MY MINIONS.",
-	pageId = 7417,
 	timestamp = "1428897883",
 	flag = {
 		"F",
@@ -14,11 +13,35 @@ return {
 			0,
 			0,
 		},
-		"THE CLASSIC HONK FRIEND. MY RABBIT PAL FOR LIFE. AND MY FLOPPY PUPPET BUDDY. I'M BOSSING THEM AROUND, BEING THE SHIT, AS ALWAYS. WHATEVER.",
+		"THE CLASSIC HONK FRIEND. MY RABBIT PAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR LIFE. AND MY FLOPPY PUPPET BUDDY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I'M BOSSING THEM AROUND, BEING THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHIT, AS ALWAYS. WHATEVER.\
+",
 	},
 	next = {
 		7418,
 	},
 	previous = 7416,
 	theme = "A6A6",
+	page_id = 7417,
+	long_title = true,
 }

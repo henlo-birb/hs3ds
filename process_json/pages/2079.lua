@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Taste honey.",
-	pageId = 2079,
 	timestamp = "1277317930",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		2080,
 	},
 	previous = 2078,
+	page_id = 2079,
+	long_title = false,
 }

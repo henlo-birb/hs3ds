@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Go upstairs.",
-	pageId = 3022,
 	timestamp = "1291778750",
 	flag = {
 		"R1",
@@ -70,4 +69,6 @@ return {
 		3023,
 	},
 	previous = 3021,
+	page_id = 3022,
+	long_title = false,
 }

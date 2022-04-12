@@ -1,6 +1,5 @@
 return {
 	title = "Serenity: Go get help.",
-	pageId = 3259,
 	timestamp = "1294420747",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		3260,
 	},
 	previous = 3258,
+	page_id = 3259,
+	long_title = false,
 }

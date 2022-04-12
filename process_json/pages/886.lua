@@ -1,6 +1,5 @@
 return {
 	title = "Elsewhere, we find a place...",
-	pageId = 886,
 	timestamp = "1258871549",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		887,
 	},
 	previous = 885,
+	page_id = 886,
+	long_title = false,
 }

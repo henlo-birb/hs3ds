@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Abscond.",
-	pageId = 3348,
 	timestamp = "1295840012",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3349,
 	},
 	previous = 3347,
+	page_id = 3348,
+	long_title = false,
 }

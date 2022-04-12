@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Hastily enter the room with wild abandon.",
-	pageId = 446,
 	timestamp = "1249791002",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You barge in and see a familiar face. A friendly face.",
+		"You barge in and see a familiar face.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A friendly face.\
+",
 	},
 	next = {
 		447,
 	},
 	previous = 445,
+	page_id = 446,
+	long_title = true,
 }

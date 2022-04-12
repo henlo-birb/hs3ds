@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Captchalogue Sweet Bro plush.",
-	pageId = 4534,
 	timestamp = "1328154067",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		4535,
 	},
 	previous = 4533,
+	page_id = 4534,
+	long_title = true,
 }

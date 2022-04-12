@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Rematerialize.",
-	pageId = 1235,
 	timestamp = "1264269619",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1236,
 	},
 	previous = 1234,
+	page_id = 1235,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Attempt to pry open window.",
-	pageId = 4879,
 	timestamp = "1335826301",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		4880,
 	},
 	previous = 4878,
+	page_id = 4879,
+	long_title = true,
 }

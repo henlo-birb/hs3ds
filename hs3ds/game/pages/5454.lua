@@ -1,6 +1,5 @@
 return {
 	title = "[A6I4] ==>",
-	pageId = 5454,
 	timestamp = "1352969712",
 	flag = {
 		"R1",
@@ -14,10 +13,13 @@ return {
 			0,
 			0,
 		},
-		"This place is boring as hell.",
+		"This place is boring as hell.\
+",
 	},
 	next = {
 		5455,
 	},
 	previous = 5453,
+	page_id = 5454,
+	long_title = false,
 }

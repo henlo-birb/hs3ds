@@ -1,6 +1,5 @@
 return {
 	title = "o",
-	pageId = 3625,
 	timestamp = "1299384901",
 	flag = {},
 	media = {
@@ -12,22 +11,41 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"Now please excuse me. I have to talk to a teenage girl from another universe.",
+		"Now please excuse me. I have to talk\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"to a teenage girl from another\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"universe.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		3626,
 	},
 	previous = 3624,
+	page_id = 3625,
+	long_title = false,
 }

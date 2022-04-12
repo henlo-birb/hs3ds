@@ -1,6 +1,5 @@
 return {
 	title = "PUT THE BUNNY",
-	pageId = 402,
 	timestamp = "1248656608",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		403,
 	},
 	previous = 401,
+	page_id = 402,
+	long_title = false,
 }

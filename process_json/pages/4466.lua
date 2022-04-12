@@ -1,6 +1,5 @@
 return {
 	title = "Examine placronym.",
-	pageId = 4466,
 	timestamp = "1326668682",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		4467,
 	},
 	previous = 4465,
+	page_id = 4466,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Give Jaspersprite laptop.",
-	pageId = 2815,
 	timestamp = "1288418510",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You won't need it anymore. It served you well. You suppose there are a lot of things you've outgrown, now that you think about it.",
+		"You won't need it anymore. It served\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you well. You suppose there are a lot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of things you've outgrown, now that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you think about it.\
+",
 	},
 	next = {
 		2816,
 	},
 	previous = 2814,
+	page_id = 2815,
+	long_title = false,
 }

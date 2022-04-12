@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Preview item with holopad.",
-	pageId = 1825,
 	timestamp = "1273722125",
 	flag = {},
 	media = {
@@ -13,18 +12,62 @@ return {
 			0,
 			0,
 		},
-		"You momentarily reconfigure your alchemiter upgrades to make use of the HOLOPAD EXTENSION. You pop the card in the slot and check it out.",
+		"You momentarily reconfigure your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"alchemiter upgrades to make use of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOLOPAD EXTENSION. You pop the card in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the slot and check it out.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The combination would produce the BROKEN SCARLET RIBBITAR.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The combination would produce the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BROKEN SCARLET RIBBITAR.\
+",
 	},
 	next = {
 		1826,
 	},
 	previous = 1824,
+	page_id = 1825,
+	long_title = false,
 }

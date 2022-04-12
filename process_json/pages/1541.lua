@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Sip martini thoughtfully.",
-	pageId = 1541,
 	timestamp = "1267743690",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1542,
 	},
 	previous = 1540,
+	page_id = 1541,
+	long_title = false,
 }

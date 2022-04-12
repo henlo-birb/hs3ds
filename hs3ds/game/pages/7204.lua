@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7204,
 	timestamp = "1418792939",
 	flag = {},
 	media = {
@@ -12,31 +11,55 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Say.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: Do you suppose...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: Do you suppose...",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: I could make a trollsona too?",
+		"JANE: I could make a trollsona too?\
+",
 	},
 	next = {
 		7205,
 	},
 	previous = 7203,
+	page_id = 7204,
+	long_title = false,
 }

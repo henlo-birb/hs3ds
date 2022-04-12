@@ -1,6 +1,5 @@
 return {
 	title = "John: Type in nZ7Un6BI",
-	pageId = 527,
 	timestamp = "1251011059",
 	flag = {},
 	media = {
@@ -63,4 +62,6 @@ return {
 		528,
 	},
 	previous = 526,
+	page_id = 527,
+	long_title = false,
 }

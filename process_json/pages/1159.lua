@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Check for traps under the billiards rug.",
-	pageId = 1159,
 	timestamp = "1263671729",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1160,
 	},
 	previous = 1158,
+	page_id = 1159,
+	long_title = true,
 }

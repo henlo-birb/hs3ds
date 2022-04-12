@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Deploy terminal.",
-	pageId = 3313,
 	timestamp = "1295404720",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3314,
 	},
 	previous = 3312,
+	page_id = 3313,
+	long_title = false,
 }

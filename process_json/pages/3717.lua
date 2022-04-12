@@ -1,6 +1,5 @@
 return {
 	title = "[S] Terezi: Proceed.",
-	pageId = 3717,
 	timestamp = "1303002938",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		3718,
 	},
 	previous = 3716,
+	page_id = 3717,
+	long_title = false,
 }

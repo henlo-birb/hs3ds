@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Examine other chain.",
-	pageId = 5118,
 	timestamp = "1340239962",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		5119,
 	},
 	previous = 5117,
+	page_id = 5118,
+	long_title = false,
 }

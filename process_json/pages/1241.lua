@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Follow blood trail downstairs and finish him off.",
-	pageId = 1241,
 	timestamp = "1264298955",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1242,
 	},
 	previous = 1240,
+	page_id = 1241,
+	long_title = true,
 }

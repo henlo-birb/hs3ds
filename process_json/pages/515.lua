@@ -1,6 +1,5 @@
 return {
 	title = "the opener dilemma remains unsettled, most unfortunately",
-	pageId = 515,
 	timestamp = "1250910575",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		516,
 	},
 	previous = 514,
+	page_id = 515,
+	long_title = true,
 }

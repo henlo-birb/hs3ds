@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Captchalogue carriage clock.",
-	pageId = 1157,
 	timestamp = "1263629544",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1158,
 	},
 	previous = 1156,
+	page_id = 1157,
+	long_title = true,
 }

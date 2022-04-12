@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Lift left leg and hold it a little ways in the air.",
-	pageId = 1187,
 	timestamp = "1263888256",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		1188,
 	},
 	previous = 1186,
+	page_id = 1187,
+	long_title = true,
 }

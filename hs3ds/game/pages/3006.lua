@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Thank best friend.",
-	pageId = 3006,
 	timestamp = "1291687097",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: thanks bec, good boy!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: thanks bec, good boy!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: soooooo...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: soooooo...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: can you talk now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: can you talk now?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: what do you have to say?",
+		"JADE: what do you have to say?\
+",
 	},
 	next = {
 		3007,
 	},
 	previous = 3005,
+	page_id = 3006,
+	long_title = false,
 }

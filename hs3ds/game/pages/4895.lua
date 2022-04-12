@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Empty pumpkin on floor.",
-	pageId = 4895,
 	timestamp = "1335909166",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You take a quick inventory of the smuggled contraband. ",
+		"You take a quick inventory of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smuggled contraband.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hold on. Looks like he snuck something else in the pumpkin under all the knives. Something... compromising.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hold on. Looks like he snuck something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"else in the pumpkin under all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"knives. Something... compromising.\
+",
 	},
 	next = {
 		4896,
 	},
 	previous = 4894,
+	page_id = 4895,
+	long_title = false,
 }

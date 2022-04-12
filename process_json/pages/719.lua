@@ -1,6 +1,5 @@
 return {
 	title = "WV: Be the mayor.",
-	pageId = 719,
 	timestamp = "1254288743",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		720,
 	},
 	previous = 718,
+	page_id = 719,
+	long_title = false,
 }

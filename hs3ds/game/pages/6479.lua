@@ -1,6 +1,5 @@
 return {
 	title = "SEND IN THE BITCHES.",
-	pageId = 6479,
 	timestamp = "1377739653",
 	flag = {},
 	media = {
@@ -12,19 +11,56 @@ return {
 			0,
 			0,
 		},
-		"THE ALPHA MALE WHISTLES FOR HIS BITCHES. ",
+		"THE ALPHA MALE WHISTLES FOR HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BITCHES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HE WILL NEED A LOYAL ENTOURAGE OF TOP FLIGHT FEMALES TO ASSIST HIM ON HIS IMPORTANT BOY JOURNEY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE WILL NEED A LOYAL ENTOURAGE OF TOP\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FLIGHT FEMALES TO ASSIST HIM ON HIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IMPORTANT BOY JOURNEY.\
+",
 	},
 	next = {
 		6480,
 	},
 	previous = 6478,
 	theme = "A6A6",
+	page_id = 6479,
+	long_title = false,
 }

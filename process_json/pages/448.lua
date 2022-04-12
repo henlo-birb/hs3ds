@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pity da fool.",
-	pageId = 448,
 	timestamp = "1249793787",
 	flag = {},
 	media = {
@@ -285,4 +284,6 @@ return {
 		449,
 	},
 	previous = 447,
+	page_id = 448,
+	long_title = false,
 }

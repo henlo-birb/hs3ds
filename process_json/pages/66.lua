@@ -1,6 +1,5 @@
 return {
 	title = "John: Inspect burnt paper on the floor.",
-	pageId = 66,
 	timestamp = "1240202109",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		67,
 	},
 	previous = 65,
+	page_id = 66,
+	long_title = true,
 }

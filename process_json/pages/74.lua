@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine second pipe with clever disguise.",
-	pageId = 74,
 	timestamp = "1240349713",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		75,
 	},
 	previous = 73,
+	page_id = 74,
+	long_title = true,
 }

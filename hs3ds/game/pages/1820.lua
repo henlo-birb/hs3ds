@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Wake up and jam.",
-	pageId = 1820,
 	timestamp = "1273708435",
 	flag = {},
 	media = {
@@ -13,26 +12,62 @@ return {
 			0,
 			0,
 		},
-		"And by jam you mean alchemize of course.",
+		"And by jam you mean alchemize of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"course.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoa your house is huge suddenly.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Anyway let's get this party started.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoa your house is huge suddenly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Anyway let's get this party started.\
+",
 	},
 	next = {
 		1821,
 	},
 	previous = 1819,
+	page_id = 1820,
+	long_title = false,
 }

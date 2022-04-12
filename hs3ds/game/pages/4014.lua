@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4014,
 	timestamp = "1312309456",
 	flag = {},
 	media = {
@@ -12,18 +11,35 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: I KIND OF FELT LIKE HE DIDN'T LOOK SO GOOD.",
+		"PCG: I KIND OF FELT LIKE HE DIDN'T\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"LOOK SO GOOD.\
+",
 	},
 	next = {
 		4015,
 	},
 	previous = 4013,
 	theme = "scratch",
+	page_id = 4014,
+	long_title = false,
 }

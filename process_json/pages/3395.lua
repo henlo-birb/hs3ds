@@ -1,6 +1,5 @@
 return {
 	title = "John: Take wallet.",
-	pageId = 3395,
 	timestamp = "1296409971",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		3396,
 	},
 	previous = 3394,
+	page_id = 3395,
+	long_title = false,
 }

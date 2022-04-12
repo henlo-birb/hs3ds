@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 3974,
 	timestamp = "1311390165",
 	flag = {
 		"F",
@@ -14,11 +13,21 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/nextbowl2.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/nextbowl2.gif\"/>\
+",
 	},
 	next = {
 		4002,
 	},
 	previous = 3936,
 	theme = "scratch",
+	page_id = 3974,
+	long_title = false,
 }

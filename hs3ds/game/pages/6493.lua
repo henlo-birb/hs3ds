@@ -1,6 +1,5 @@
 return {
 	title = "SUDDENLY. THERE IS A DRAMATIC CHANGE.",
-	pageId = 6493,
 	timestamp = "1377837131",
 	flag = {},
 	media = {
@@ -13,4 +12,6 @@ return {
 	},
 	previous = 6492,
 	theme = "A6A6",
+	page_id = 6493,
+	long_title = true,
 }

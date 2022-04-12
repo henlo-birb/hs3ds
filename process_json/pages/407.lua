@@ -1,6 +1,5 @@
 return {
 	title = "WHAT ABOUT THAT CARD.",
-	pageId = 407,
 	timestamp = "1248748774",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		408,
 	},
 	previous = 406,
+	page_id = 407,
+	long_title = false,
 }

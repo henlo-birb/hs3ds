@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Hide evidence in microwave.",
-	pageId = 574,
 	timestamp = "1251932209",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		575,
 	},
 	previous = 573,
+	page_id = 574,
+	long_title = true,
 }

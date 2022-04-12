@@ -1,6 +1,5 @@
 return {
 	title = "[o] I thought I could rely on you of all people.",
-	pageId = 3868,
 	timestamp = "1308540320",
 	flag = {
 		"R4",
@@ -914,4 +913,6 @@ return {
 	},
 	previous = 3867,
 	theme = "scratch",
+	page_id = 3868,
+	long_title = true,
 }

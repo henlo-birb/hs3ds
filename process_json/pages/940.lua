@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Appearify Jaspers immediately.",
-	pageId = 940,
 	timestamp = "1259641700",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		941,
 	},
 	previous = 939,
+	page_id = 940,
+	long_title = true,
 }

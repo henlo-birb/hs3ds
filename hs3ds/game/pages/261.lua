@@ -1,6 +1,5 @@
 return {
 	title = "I SEE. ==>?",
-	pageId = 261,
 	timestamp = "1245127258",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Yes, that will suffice.",
+		"Yes, that will suffice.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Rose deletes the PERFECTLY GENERIC OBJECTS. 6 units of BUILD GRIST are restored to your GRIST CACHE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Rose deletes the PERFECTLY GENERIC\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OBJECTS. 6 units of BUILD GRIST are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"restored to your GRIST CACHE.\
+",
 	},
 	next = {
 		262,
 	},
 	previous = 260,
+	page_id = 261,
+	long_title = false,
 }

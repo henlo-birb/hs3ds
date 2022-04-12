@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3767,
 	timestamp = "1305602421",
 	flag = {},
 	media = {
@@ -12,11 +11,28 @@ return {
 			0,
 			0,
 		},
-		"And since for once in my life, time is at a premium, let's get on with it. Where were we?",
+		"And since for once in my life, time is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at a premium, let's get on with it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Where were we?\
+",
 	},
 	next = {
 		3768,
 	},
 	previous = 3766,
 	theme = "scratch",
+	page_id = 3767,
+	long_title = false,
 }

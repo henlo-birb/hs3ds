@@ -1,6 +1,5 @@
 return {
 	title = "I KNOW WHAT THE CRUX TO THIS HORRIBLE PROBLEM IS.",
-	pageId = 6928,
 	timestamp = "1414892392",
 	flag = {},
 	media = {
@@ -12,27 +11,84 @@ return {
 			0,
 			0,
 		},
-		"IT IS THAT, I AM MISUNDERSTOOD.",
+		"IT IS THAT, I AM MISUNDERSTOOD.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE ATROCIOUS HATERS AND WEAK CHILDREN WILL SAY THAT I AM A MONSTER. THAT I AM THE BIGGEST BAD GUY. AND THAT MY EVIL CRIMES NEED TO BE STOPPED USING TANTRUM PUNCHES. BUT NO.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I AM JUST A SIMPLE ARTIST.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE ATROCIOUS HATERS AND WEAK CHILDREN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WILL SAY THAT I AM A MONSTER. THAT I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AM THE BIGGEST BAD GUY. AND THAT MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EVIL CRIMES NEED TO BE STOPPED USING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TANTRUM PUNCHES. BUT NO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I AM JUST A SIMPLE ARTIST.\
+",
 	},
 	next = {
 		6929,
 	},
 	previous = 6927,
 	theme = "A6A6",
+	page_id = 6928,
+	long_title = true,
 }

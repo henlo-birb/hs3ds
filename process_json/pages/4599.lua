@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Answer Dignitary.",
-	pageId = 4599,
 	timestamp = "1329975562",
 	flag = {},
 	media = {
@@ -222,4 +221,6 @@ return {
 		4600,
 	},
 	previous = 4598,
+	page_id = 4599,
+	long_title = false,
 }

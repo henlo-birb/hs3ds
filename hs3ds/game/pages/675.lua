@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine can of custard.",
-	pageId = 675,
 	timestamp = "1253648911",
 	flag = {},
 	media = {
@@ -12,26 +11,104 @@ return {
 			0,
 			0,
 		},
-		"The can clearly reads \"MUSTARD\", a fact of which you were perfectly well aware.",
+		"The can clearly reads \"MUSTARD\", a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fact of which you were perfectly well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"aware.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is sort of cumbersome holding all these cans at once. You doubt you can hold many more than this. Maybe one or two.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll need to find something to put stuff in if you want to carry a lot of things around.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is sort of cumbersome holding all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these cans at once. You doubt you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hold many more than this. Maybe one or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"two.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll need to find something to put\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stuff in if you want to carry a lot of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things around.\
+",
 	},
 	next = {
 		676,
 	},
 	previous = 674,
+	page_id = 675,
+	long_title = false,
 }

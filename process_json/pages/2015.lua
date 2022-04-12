@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Ride one wheel device.",
-	pageId = 2015,
 	timestamp = "1276635144",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2016,
 	},
 	previous = 2014,
+	page_id = 2015,
+	long_title = false,
 }

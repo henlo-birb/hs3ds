@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, the past pulls a mean double reacharound...",
-	pageId = 1525,
 	timestamp = "1267584836",
 	flag = {},
 	media = {
@@ -1686,4 +1685,6 @@ return {
 		1526,
 	},
 	previous = 1524,
+	page_id = 1525,
+	long_title = true,
 }

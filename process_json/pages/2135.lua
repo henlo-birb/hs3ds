@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Retrieve computer.",
-	pageId = 2135,
 	timestamp = "1278029674",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		2136,
 	},
 	previous = 2134,
+	page_id = 2135,
+	long_title = false,
 }

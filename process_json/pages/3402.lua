@@ -1,6 +1,5 @@
 return {
 	title = "John: Empty wallet.",
-	pageId = 3402,
 	timestamp = "1296437363",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3403,
 	},
 	previous = 3401,
+	page_id = 3402,
+	long_title = false,
 }

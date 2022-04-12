@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine bowlbuster.",
-	pageId = 4140,
 	timestamp = "1321253783",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		4141,
 	},
 	previous = 4139,
+	page_id = 4140,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Retrieve both parcels.",
-	pageId = 1480,
 	timestamp = "1267052379",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1481,
 	},
 	previous = 1479,
+	page_id = 1480,
+	long_title = false,
 }

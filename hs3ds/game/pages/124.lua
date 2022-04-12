@@ -1,6 +1,5 @@
 return {
 	title = "John: Might as well grab those cuffs.",
-	pageId = 124,
 	timestamp = "1241596304",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You take the TRICK HANDCUFFS, expelling the PDA like a bullet.",
+		"You take the TRICK HANDCUFFS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"expelling the PDA like a bullet.\
+",
 	},
 	next = {
 		125,
 	},
 	previous = 123,
+	page_id = 124,
+	long_title = true,
 }

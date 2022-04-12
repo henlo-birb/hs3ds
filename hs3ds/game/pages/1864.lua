@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Throw yourself out the window.",
-	pageId = 1864,
 	timestamp = "1274047531",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You ditch the body before Jade sees it. That would probably freak her out.",
+		"You ditch the body before Jade sees\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. That would probably freak her out.\
+",
 	},
 	next = {
 		1865,
 	},
 	previous = 1863,
+	page_id = 1864,
+	long_title = true,
 }

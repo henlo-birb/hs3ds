@@ -1,6 +1,5 @@
 return {
 	title = "Safe: Level up for slaying the imp.",
-	pageId = 558,
 	timestamp = "1251521209",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		559,
 	},
 	previous = 557,
+	page_id = 558,
+	long_title = true,
 }

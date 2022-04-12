@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine can of custard.",
-	pageId = 675,
 	timestamp = "1253648911",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		676,
 	},
 	previous = 674,
+	page_id = 675,
+	long_title = false,
 }

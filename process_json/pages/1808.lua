@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine magnetic W and bottle of vodka.",
-	pageId = 1808,
 	timestamp = "1273189683",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1809,
 	},
 	previous = 1807,
+	page_id = 1808,
+	long_title = true,
 }

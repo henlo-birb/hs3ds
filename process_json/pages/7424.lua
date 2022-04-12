@@ -1,6 +1,5 @@
 return {
 	title = "IT BECAME MYSTERIOUSLY INTANGIBLE.",
-	pageId = 7424,
 	timestamp = "1428979340",
 	flag = {
 		"F",
@@ -71,4 +70,6 @@ return {
 	},
 	previous = 7423,
 	theme = "A6A6",
+	page_id = 7424,
+	long_title = true,
 }

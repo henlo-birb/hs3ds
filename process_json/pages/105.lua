@@ -1,6 +1,5 @@
 return {
 	title = "John: Go to bathroom and grab a towel.",
-	pageId = 105,
 	timestamp = "1241246471",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		106,
 	},
 	previous = 104,
+	page_id = 105,
+	long_title = true,
 }

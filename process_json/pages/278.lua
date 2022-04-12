@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Prototype sprite with Sassacre text.",
-	pageId = 278,
 	timestamp = "1245479511",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		279,
 	},
 	previous = 277,
+	page_id = 278,
+	long_title = true,
 }

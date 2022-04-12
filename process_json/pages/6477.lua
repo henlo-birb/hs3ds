@@ -1,6 +1,5 @@
 return {
 	title = "HE HAS EXCEPTIONAL TASTE IN PUPPETS.",
-	pageId = 6477,
 	timestamp = "1377739397",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 	},
 	previous = 6476,
 	theme = "A6A6",
+	page_id = 6477,
+	long_title = true,
 }

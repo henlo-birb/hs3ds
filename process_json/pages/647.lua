@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Message John the Captcha code.",
-	pageId = 647,
 	timestamp = "1253062990",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		648,
 	},
 	previous = 646,
+	page_id = 647,
+	long_title = true,
 }

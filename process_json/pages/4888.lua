@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Search for carving apparatus.",
-	pageId = 4888,
 	timestamp = "1335861267",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4889,
 	},
 	previous = 4887,
+	page_id = 4888,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4056,
 	timestamp = "1313188969",
 	flag = {},
 	media = {
@@ -13,19 +12,280 @@ return {
 			0,
 			0,
 		},
-		"His teachings would also persist through surviving disciples, but in hushed tones. His following would dwindle to an obscure cult facing persecution for centuries. After his execution, the body was burned leaving only his irons. They cooled in the ash, as if his anger itself was subsiding, and his followers appropriated their shapes in defiance of the Highbloods. The symbols became the sign of the Signless, always shown as colorless as the cold iron, to conceal the stigma of his hue. This was as much a reminder to his followers to remain hidden as it was of the Sufferer's sacrifice, and his rage hidden like heat in the iron, one day to be reignited by another of his bloodline. ",
+		"His teachings would also persist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through surviving disciples, but in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hushed tones. His following would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dwindle to an obscure cult facing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"persecution for centuries. After his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"execution, the body was burned leaving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"only his irons. They cooled in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ash, as if his anger itself was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"subsiding, and his followers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appropriated their shapes in defiance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the Highbloods. The symbols became\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the sign of the Signless, always shown\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as colorless as the cold iron, to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conceal the stigma of his hue. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was as much a reminder to his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"followers to remain hidden as it was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the Sufferer's sacrifice, and his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rage hidden like heat in the iron, one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"day to be reignited by another of his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bloodline.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The Sufferer preached that after he passed, another Signless would come, heralding the end times for their planet. The Second Signless would continue his work, and lead his people to glory beyond this realm. The followers kept his teachings alive for ages, even as the uproar surrounding the movement subsided. By modern times, the Sufferer's scripture was little more than ancient superstition all but forgotten. Hardly the anathema of old. But the followers had already made their preparations in the shadows, and when the Second Signless finally came he would have a lusus to raise him and a sign to his name.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The Sufferer preached that after he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"passed, another Signless would come,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heralding the end times for their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"planet. The Second Signless would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"continue his work, and lead his people\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to glory beyond this realm. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"followers kept his teachings alive for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ages, even as the uproar surrounding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the movement subsided. By modern\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"times, the Sufferer's scripture was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little more than ancient superstition\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all but forgotten. Hardly the anathema\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of old. But the followers had already\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"made their preparations in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shadows, and when the Second Signless\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"finally came he would have a lusus to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"raise him and a sign to his name.\
+",
 	},
 	next = {
 		4057,
 	},
 	previous = 4055,
 	theme = "scratch",
+	page_id = 4056,
+	long_title = false,
 }

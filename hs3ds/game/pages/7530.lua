@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7530,
 	timestamp = "1431557077",
 	flag = {},
 	media = {
@@ -12,108 +11,286 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: vriska, wait.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: vriska, wait.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: ????????\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: ????????",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: before you go on, i just wanted to say...",
+		"JOHN: before you go on, i just wanted\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"to say...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm really impressed with your strategic analysis so far!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: you really seem to be all over this. i wouldn't even know where to begin figuring all this stuff out.",
+		"JOHN: i'm really impressed with your\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"strategic analysis so far!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: anyway, i'm glad we have you back on our side!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: you really seem to be all over\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"this. i wouldn't even know where to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"begin figuring all this stuff out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: anyway, i'm glad we have you\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"back on our side!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Aww, thanks John!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Aww, thanks John!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: just thought i'd say!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: just thought i'd say!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i didn't want you to go through all this stuff for us, thinking it was going unappreciated.",
+		"JOHN: i didn't want you to go through\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"all this stuff for us, thinking it was\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"going unappreciated.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: anyway, please continue!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: anyway, please continue!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: You got it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You got it!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Now it's time to divide everyone into teams.",
+		"VRISKA: Now it's time to divide\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"everyone into teams.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Let's go down the list of foes again, and assign party mem8ers to each 8attle.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Let's go down the list of foes\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"again, and assign party mem8ers to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"each 8attle.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Once again, starting from the top...",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Once again, starting from the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"top...\
+",
 	},
 	next = {
 		7531,
 	},
 	previous = 7529,
+	page_id = 7530,
+	long_title = false,
 }

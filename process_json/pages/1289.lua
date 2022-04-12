@@ -1,6 +1,5 @@
 return {
 	title = "[I] PSS: Be Future Spades Slick.",
-	pageId = 1289,
 	timestamp = "1265073689",
 	flag = {},
 	media = {
@@ -215,4 +214,6 @@ return {
 		1290,
 	},
 	previous = 1288,
+	page_id = 1289,
+	long_title = false,
 }

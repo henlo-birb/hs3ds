@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Be Jack Noir.",
-	pageId = 4399,
 	timestamp = "1325318179",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		4400,
 	},
 	previous = 4398,
+	page_id = 4399,
+	long_title = false,
 }

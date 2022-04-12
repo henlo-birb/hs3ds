@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Quick, be the other guy again.",
-	pageId = 4924,
 	timestamp = "1336097915",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You be the other guy again while they beat you senseless.",
+		"You be the other guy again while they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beat you senseless.\
+",
 	},
 	next = {
 		4925,
 	},
 	previous = 4923,
+	page_id = 4924,
+	long_title = true,
 }

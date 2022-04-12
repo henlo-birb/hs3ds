@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Quickly remove lance from Sawbuck.",
-	pageId = 1291,
 	timestamp = "1265073871",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"You pry the CIGARETTE HOLDER from his torso. Whoops, another time jump.",
+		"You pry the CIGARETTE HOLDER from his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"torso. Whoops, another time jump.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This tub of goo keeps going for his gun. Widebody's gotta settle his big ass down.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You really should incapacitate him without inflicting another wound.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This tub of goo keeps going for his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gun. Widebody's gotta settle his big\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ass down.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You really should incapacitate him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without inflicting another wound.\
+",
 	},
 	next = {
 		1292,
 	},
 	previous = 1290,
+	page_id = 1291,
+	long_title = true,
 }

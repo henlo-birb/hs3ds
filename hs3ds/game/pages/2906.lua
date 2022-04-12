@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Carve totem.",
-	pageId = 2906,
 	timestamp = "1290291194",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2907,
 	},
 	previous = 2905,
+	page_id = 2906,
+	long_title = false,
 }

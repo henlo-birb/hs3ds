@@ -1,6 +1,5 @@
 return {
 	title = "John: Run to your room and contact TT through Pesterchum.",
-	pageId = 203,
 	timestamp = "1243129579",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		204,
 	},
 	previous = 202,
+	page_id = 203,
+	long_title = true,
 }

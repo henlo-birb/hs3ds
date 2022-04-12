@@ -1,6 +1,5 @@
 return {
 	title = "AND AGAIN I WILL RISE.",
-	pageId = 6937,
 	timestamp = "1414892814",
 	flag = {},
 	media = {
@@ -12,19 +11,56 @@ return {
 			0,
 			0,
 		},
-		"LIKE A PHOENIX FROM THE ASSES. (\"PLAY ON WORDS\".)",
+		"LIKE A PHOENIX FROM THE ASSES. (\"PLAY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ON WORDS\".)\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE ASSES BELONG TO THE HATERS OF COURSE. WHICH I HANDED TO THEM PERSONALLY. WITH MY STRONG BARE HANDS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE ASSES BELONG TO THE HATERS OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COURSE. WHICH I HANDED TO THEM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PERSONALLY. WITH MY STRONG BARE HANDS.\
+",
 	},
 	next = {
 		6938,
 	},
 	previous = 6936,
 	theme = "A6A6",
+	page_id = 6937,
+	long_title = false,
 }

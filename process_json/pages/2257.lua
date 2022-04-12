@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Orchestrate demise of the wicked.",
-	pageId = 2257,
 	timestamp = "1279360163",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2258,
 	},
 	previous = 2256,
+	page_id = 2257,
+	long_title = true,
 }

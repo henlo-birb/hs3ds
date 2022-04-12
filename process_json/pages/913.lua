@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Arm yourself.",
-	pageId = 913,
 	timestamp = "1259109000",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		914,
 	},
 	previous = 912,
+	page_id = 913,
+	long_title = false,
 }

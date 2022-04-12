@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Summon Rufio.",
-	pageId = 2352,
 	timestamp = "1281021885",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2353,
 	},
 	previous = 2351,
+	page_id = 2352,
+	long_title = false,
 }

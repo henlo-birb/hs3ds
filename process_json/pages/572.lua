@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue Buster Sword from behind microwave.",
-	pageId = 572,
 	timestamp = "1251874606",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		573,
 	},
 	previous = 571,
+	page_id = 572,
+	long_title = true,
 }

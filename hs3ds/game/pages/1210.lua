@@ -1,6 +1,5 @@
 return {
 	title = "[I] Meanwhile, running roughly parallel with present events.",
-	pageId = 1210,
 	timestamp = "1264056124",
 	flag = {},
 	media = {
@@ -14,4 +13,6 @@ return {
 		1211,
 	},
 	previous = 1209,
+	page_id = 1210,
+	long_title = true,
 }

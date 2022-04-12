@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Make this legendary piece of shit.",
-	pageId = 3176,
 	timestamp = "1293514093",
 	flag = {},
 	media = {
@@ -1651,4 +1650,6 @@ return {
 		3177,
 	},
 	previous = 3175,
+	page_id = 3176,
+	long_title = true,
 }

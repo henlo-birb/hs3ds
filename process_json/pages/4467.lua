@@ -1,6 +1,5 @@
 return {
 	title = "Pony: Wake up.",
-	pageId = 4467,
 	timestamp = "1326677708",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4468,
 	},
 	previous = 4466,
+	page_id = 4467,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Look around room.",
-	pageId = 4909,
 	timestamp = "1336018124",
 	flag = {},
 	media = {
@@ -12,18 +11,118 @@ return {
 			0,
 			0,
 		},
-		"The only remaining thing in the room worth noting is in the other corner of your cell. Just a transport pad prisoners are supposed to use as a waste receptacle. These were decommissioned in Derse prisons a long time ago. Too many prisoner suicides, and severed heads showing up in the waste bins. None of those auto-decapitations were authorized with the right paperwork, so privileges had to be suspended.",
+		"The only remaining thing in the room\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"worth noting is in the other corner of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your cell. Just a transport pad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prisoners are supposed to use as a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"waste receptacle. These were\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decommissioned in Derse prisons a long\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time ago. Too many prisoner suicides,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and severed heads showing up in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"waste bins. None of those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"auto-decapitations were authorized\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the right paperwork, so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"privileges had to be suspended.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You hear the door open and slam shut. Someone else is in your cell.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You hear the door open and slam shut.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Someone else is in your cell.\
+",
 	},
 	next = {
 		4910,
 	},
 	previous = 4908,
+	page_id = 4909,
+	long_title = false,
 }

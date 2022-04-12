@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Remove Midnight Crew record.",
-	pageId = 3726,
 	timestamp = "1303262533",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3727,
 	},
 	previous = 3725,
+	page_id = 3726,
+	long_title = true,
 }

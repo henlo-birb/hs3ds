@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine hub and laptop.",
-	pageId = 1803,
 	timestamp = "1273121531",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		1804,
 	},
 	previous = 1802,
+	page_id = 1803,
+	long_title = false,
 }

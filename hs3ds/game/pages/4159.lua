@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Don clever disguise.",
-	pageId = 4159,
 	timestamp = "1321581800",
 	flag = {},
 	media = {
@@ -12,18 +11,90 @@ return {
 			0,
 			0,
 		},
-		"Why, is that his loving daughter, or could it be none other than INSPECTOR JACQUES CLOUSEAU??? Mr. Clouseau, what are you doing in this household? Can I bake you a cake? Please make yourself comfortable while I go about my business not being suspicious.",
+		"Why, is that his loving daughter, or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"could it be none other than INSPECTOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JACQUES CLOUSEAU??? Mr. Clouseau, what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are you doing in this household? Can I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bake you a cake? Please make yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"comfortable while I go about my\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"business not being suspicious.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But wait, perhaps that is not so much the distinguished Inspector Clouseau as it is...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But wait, perhaps that is not so much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the distinguished Inspector Clouseau\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as it is...\
+",
 	},
 	next = {
 		4160,
 	},
 	previous = 4158,
+	page_id = 4159,
+	long_title = false,
 }

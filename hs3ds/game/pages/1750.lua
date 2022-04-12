@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip trusty rocket.",
-	pageId = 1750,
 	timestamp = "1272141753",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Rose obviously isn't waking up any time soon. Might as well take some time to explore, and maybe stop by again later.",
+		"Rose obviously isn't waking up any\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time soon. Might as well take some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time to explore, and maybe stop by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again later.\
+",
 	},
 	next = {
 		1751,
 	},
 	previous = 1749,
+	page_id = 1750,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "IN MY DREAM. I AM THIS CHERUB.",
-	pageId = 6249,
 	timestamp = "1371079388",
 	flag = {},
 	media = {
@@ -12,35 +11,161 @@ return {
 			0,
 			0,
 		},
-		"IT'S ME. ",
+		"IT'S ME.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND AS IT HAPPENS. MY DREAM IS A *FACT*.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I HAVE TAKEN OVER THIS \"STORY\". AND I WILL NOW RETELL IT ACCORDING TO MY UNDERSTANDING AND LEVEL OF INTEREST. I WILL ADDITIONALLY PROVIDE AN HONEST AND BRUTAL CRITIQUE OF THE EVENTS AND THE WAY THEY HAVE BEEN SHOWN. BY UTILIZING THE MOST POTENT WEAPON ANYONE COULD EVER HOPE TO ALLOCATE TO HIS SPECIBUS. IT IS THE WEAPON. OF \"SATIRE\".",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND AS IT HAPPENS. MY DREAM IS A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"*FACT*.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-OH MY GOD. THIS IS GOING TO BE SO GREAT. HAS ANYONE EVER DONE ANYTHING LIKE THIS BEFORE??",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I HAVE TAKEN OVER THIS \"STORY\". AND I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WILL NOW RETELL IT ACCORDING TO MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UNDERSTANDING AND LEVEL OF INTEREST. I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WILL ADDITIONALLY PROVIDE AN HONEST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND BRUTAL CRITIQUE OF THE EVENTS AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE WAY THEY HAVE BEEN SHOWN. BY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"UTILIZING THE MOST POTENT WEAPON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANYONE COULD EVER HOPE TO ALLOCATE TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HIS SPECIBUS. IT IS THE WEAPON. OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"SATIRE\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OH MY GOD. THIS IS GOING TO BE SO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GREAT. HAS ANYONE EVER DONE ANYTHING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LIKE THIS BEFORE??\
+",
 	},
 	next = {
 		6250,
 	},
 	previous = 6248,
 	theme = "A6A6",
+	page_id = 6249,
+	long_title = false,
 }

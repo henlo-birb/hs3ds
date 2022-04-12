@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Start Jailbreak Adventure.",
-	pageId = 4878,
 	timestamp = "1335825969",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You wake up locked in a deserted jail cell, completely alone. There is nothing at all in your cell, useful or otherwise.",
+		"You wake up locked in a deserted jail\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cell, completely alone. There is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nothing at all in your cell, useful or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"otherwise.\
+",
 	},
 	next = {
 		4879,
 	},
 	previous = 4877,
+	page_id = 4878,
+	long_title = false,
 }

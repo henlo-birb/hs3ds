@@ -1,10 +1,9 @@
 return {
 	title = "Be Jake.",
-	pageId = "006953",
 	timestamp = "1339379483",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/05050.gif",
+		"05050",
 	},
 	content = {
 		{
@@ -12,17 +11,103 @@ return {
 			0,
 			0,
 		},
-		"Now that you've shot your boxed-up friend through time and space to grandma land, it's time to retrieve her lab globe which you shrunk then hot potatoed down the rabbit hole. Then it'll be time to hoof it out of these musty old ruins, assuming you can get that elevator working again. Which might be a problem, now that you think about it.",
+		"Now that you've shot your boxed-up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friend through time and space to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grandma land, it's time to retrieve\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her lab globe which you shrunk then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hot potatoed down the rabbit hole.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Then it'll be time to hoof it out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these musty old ruins, assuming you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can get that elevator working again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Which might be a problem, now that you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"think about it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Also, it seems the volcanic tremors have increased, which can't be good.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Also, it seems the volcanic tremors\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have increased, which can't be good.\
+",
 	},
 	next = {
 		5054,
 	},
+	page_id = 5053,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AND I WEEP THE TEARS.",
-	pageId = 6933,
 	timestamp = "1414892592",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6932,
 	theme = "A6A6",
+	page_id = 6933,
+	long_title = false,
 }

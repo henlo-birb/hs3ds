@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine time capsule.",
-	pageId = 5016,
 	timestamp = "1338773063",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Still about 10 minutes to go before the stuff is supposed to appear. In the meantime, might as well mess around with the bunny like she said, see if it works.",
+		"Still about 10 minutes to go before\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the stuff is supposed to appear. In\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the meantime, might as well mess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around with the bunny like she said,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"see if it works.\
+",
 	},
 	next = {
 		5017,
 	},
 	previous = 5015,
+	page_id = 5016,
+	long_title = false,
 }

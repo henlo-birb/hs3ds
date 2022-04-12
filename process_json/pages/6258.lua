@@ -1,6 +1,5 @@
 return {
 	title = "THIS IS JUST A CLEVER TRICK THOUGH.",
-	pageId = 6258,
 	timestamp = "1371079911",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 	},
 	previous = 6257,
 	theme = "A6A6",
+	page_id = 6258,
+	long_title = true,
 }

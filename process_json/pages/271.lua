@@ -1,6 +1,5 @@
 return {
 	title = "Years in the future, but not many...",
-	pageId = 271,
 	timestamp = "1245283091",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		272,
 	},
 	previous = 270,
+	page_id = 271,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Shred.",
-	pageId = 1909,
 	timestamp = "1274639419",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1910,
 	},
 	previous = 1908,
+	page_id = 1909,
+	long_title = false,
 }

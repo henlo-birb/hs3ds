@@ -1,6 +1,5 @@
 return {
 	title = "Jade: View missing Dave.",
-	pageId = 3203,
 	timestamp = "1293743518",
 	flag = {
 		"R4",
@@ -22,4 +21,6 @@ return {
 		3204,
 	},
 	previous = 3202,
+	page_id = 3203,
+	long_title = false,
 }

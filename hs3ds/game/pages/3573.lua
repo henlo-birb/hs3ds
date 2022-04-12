@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Enter bubble.",
-	pageId = 3573,
 	timestamp = "1298493895",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3574,
 	},
 	previous = 3572,
+	page_id = 3573,
+	long_title = false,
 }

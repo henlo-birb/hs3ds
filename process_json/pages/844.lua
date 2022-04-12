@@ -1,6 +1,5 @@
 return {
 	title = "Also in the future...",
-	pageId = 844,
 	timestamp = "1257750121",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		845,
 	},
 	previous = 843,
+	page_id = 844,
+	long_title = false,
 }

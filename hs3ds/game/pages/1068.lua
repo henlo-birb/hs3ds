@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine iron and pogo hammer.",
-	pageId = 1068,
 	timestamp = "1261526387",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"You make the WRINKLEFUCKER.",
+		"You make the WRINKLEFUCKER.\
+",
 	},
 	next = {
 		1069,
 	},
 	previous = 1067,
+	page_id = 1068,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6054,
 	timestamp = "1364453141",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: 8y 8eing me.",
+		"VRISKA: 8y 8eing me.\
+",
 	},
 	next = {
 		6055,
 	},
 	previous = 6053,
+	page_id = 6054,
+	long_title = false,
 }

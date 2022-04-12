@@ -1,6 +1,5 @@
 return {
 	title = "THIS FACT IS CALLED A *GAME CHANGER*.",
-	pageId = 6857,
 	timestamp = "1413620119",
 	flag = {},
 	media = {
@@ -139,4 +138,6 @@ return {
 	},
 	previous = 6856,
 	theme = "A6A6",
+	page_id = 6857,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "MALE: BOGGLE VACANTLY AT THESE SHENANIGANS.",
-	pageId = 6261,
 	timestamp = "1371080149",
 	flag = {},
 	media = {
@@ -209,4 +208,6 @@ return {
 	},
 	previous = 6260,
 	theme = "A6A6",
+	page_id = 6261,
+	long_title = true,
 }

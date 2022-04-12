@@ -1,6 +1,5 @@
 return {
 	title = "John: Collect grist, examine safe.",
-	pageId = 542,
 	timestamp = "1251346046",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		543,
 	},
 	previous = 541,
+	page_id = 542,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "SS: Move this along.",
-	pageId = 2500,
 	timestamp = "1282504190",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2501,
 	},
 	previous = 2499,
+	page_id = 2500,
+	long_title = false,
 }

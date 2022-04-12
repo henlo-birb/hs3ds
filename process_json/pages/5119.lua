@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Check out bed.",
-	pageId = 5119,
 	timestamp = "1340247796",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		5120,
 	},
 	previous = 5118,
+	page_id = 5119,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Check capsule clock.",
-	pageId = 5023,
 	timestamp = "1338782207",
 	flag = {},
 	media = {
@@ -12,18 +11,76 @@ return {
 			0,
 			0,
 		},
-		"Hold on. The clock reset itself to a new countdown. Something else is going to come out of this thing in a little more than an hour.",
+		"Hold on. The clock reset itself to a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new countdown. Something else is going\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to come out of this thing in a little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more than an hour.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But according to the game plan, you're not even supposed to still BE here in an hour. You wonder what it could be? Guess you won't be around to find out.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But according to the game plan, you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not even supposed to still BE here in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an hour. You wonder what it could be?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Guess you won't be around to find out.\
+",
 	},
 	next = {
 		5024,
 	},
 	previous = 5022,
+	page_id = 5023,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "now my civil fellow, i have a well mannered query to ask",
-	pageId = 505,
 	timestamp = "1250717822",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		506,
 	},
 	previous = 504,
+	page_id = 505,
+	long_title = true,
 }

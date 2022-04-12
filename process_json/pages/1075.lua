@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Update colourful reminders.",
-	pageId = 1075,
 	timestamp = "1262143084",
 	flag = {},
 	media = {
@@ -222,4 +221,6 @@ return {
 		1076,
 	},
 	previous = 1074,
+	page_id = 1075,
+	long_title = true,
 }

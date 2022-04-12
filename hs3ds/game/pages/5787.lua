@@ -1,6 +1,5 @@
 return {
 	title = "[S] Caliborn + Gamzee: Engage.",
-	pageId = 5787,
 	timestamp = "1359365034",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		5788,
 	},
 	previous = 5786,
+	page_id = 5787,
+	long_title = false,
 }

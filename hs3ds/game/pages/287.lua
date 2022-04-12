@@ -1,6 +1,5 @@
 return {
 	title = "INDULGE THE DEVICE. BUT BE CURT WITH IT.",
-	pageId = 287,
 	timestamp = "1245652367",
 	flag = {},
 	media = {
@@ -12,269 +11,727 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: hey bro check it out im working on\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"some new rhymes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: hey bro check it out im working on some new rhymes",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: dude, i don't have time for your nerdy raps!",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TG: come on this is hells of ill just listen",
+		"EB: dude, i don't have time for your\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"nerdy raps!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: it sounds like you don't even believe me that i was about to get blown up!",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: come on this is hells of ill just\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"listen\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: but i really was, but now im in some weird dimension that sburb sent me to or something.",
+		"EB: it sounds like you don't even\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: and now on top of that i think i'm being haunted by my dead grandma!",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TG: huh",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TG: for real",
+		"believe me that i was about to get\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: yeah, it's true but i'll talk to you later about it!",
+		"blown up!\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-TG: i think i could drop some sick rhymes about all this",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-EB: man, see i just don't think all the rapping stuff is really as cool as you think it is.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-TG: no thisll be dope check it",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: but i really was, but now im in\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"some weird dimension that sburb sent\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"me to or something.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: no, i have to go! bye!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: and now on top of that i think i'm\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"being haunted by my dead grandma!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: huh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: wait wait",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: for real\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: armageddon's gettin waged on us",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: yeah, it's true but i'll talk to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"you later about it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: but im-a gettin armed and dangerous",
+		"TG: i think i could drop some sick\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"rhymes about all this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: sending men in space for savin us",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: man, see i just don't think all\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"the rapping stuff is really as cool as\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"you think it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: no thisll be dope check it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: see which playa's more couragerous",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: no, i have to go! bye!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: wait wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ben or bruce? dudes reach a truce",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: armageddon's gettin waged on us\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: put their blowchutes to use and up-suck it",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: afflecks saclifice, i mean -crifice, would have to sufflice. aw fluck it",
+		"TG: but im-a gettin armed and\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"dangerous\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: bro be a stained-glass saint, up on a cross gettin hella christ-plagiarous",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: sending men in space for savin us\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: bruce's like offa that cruciflix, nuff a this fuckin savior-fuss",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: see which playa's more couragerous\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: restrained his ass per mclane-redux while buscemi remained derangerous",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: ben or bruce? dudes reach a truce\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: when a plan gone astray pays off a wasted craterous",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: ash tray caterin to layers of matt maconnaheys vague remainder-dust",
+		"TG: put their blowchutes to use and\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"up-suck it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: wait",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: uh",
+		"TG: afflecks saclifice, i mean\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: macconahey wasnt even in any of those meteor movies was he",
+		"-crifice, would have to sufflice. aw\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"fluck it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ill have to make a rap about",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: i dont know",
+		"TG: bro be a stained-glass saint, up\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: morgan freeman or something",
+		"on a cross gettin hella\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"christ-plagiarous\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: being the president",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: itll be called",
+		"TG: bruce's like offa that cruciflix,\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"nuff a this fuckin savior-fuss\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: \"obama made it so that no one gives a shit about black presidents in movies anymore\"",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: see youve got to fill me in on whats going on",
+		"TG: restrained his ass per\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"mclane-redux while buscemi remained\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"derangerous\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so i have something to rap about besides all your dumbshit movies",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: when a plan gone astray pays off a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"wasted craterous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: ash tray caterin to layers of matt\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"maconnaheys vague remainder-dust\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: uh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: macconahey wasnt even in any of\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"those meteor movies was he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: ill have to make a rap about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: morgan freeman or something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: being the president\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: itll be called\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: \"obama made it so that no one\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"gives a shit about black presidents in\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"movies anymore\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: see youve got to fill me in on\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"whats going on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: so i have something to rap about\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"besides all your dumbshit movies\
+",
 	},
 	next = {
 		288,
 	},
 	previous = 286,
+	page_id = 287,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Select character.",
-	pageId = 5084,
 	timestamp = "1339742172",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		5085,
 	},
 	previous = 5083,
+	page_id = 5084,
+	long_title = false,
 }

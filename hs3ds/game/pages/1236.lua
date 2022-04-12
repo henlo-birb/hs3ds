@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1236,
 	timestamp = "1264269701",
 	flag = {},
 	media = {
@@ -12,24 +11,76 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Die",
+		"Die\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" realizes there is a cost to settling the score with you in this way. The cost is having to live in a desert amidst the ruins of a dead civilization for the rest of his life. ",
+		"realizes there is a cost to settling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the score with you in this way. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cost is having to live in a desert\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"amidst the ruins of a dead\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"civilization for the rest of his life.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He thinks that's stupid, so he pulls your pin.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He thinks that's stupid, so he pulls\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your pin.\
+",
 	},
 	next = {
 		1237,
 	},
 	previous = 1235,
+	page_id = 1236,
+	long_title = false,
 }

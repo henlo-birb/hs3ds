@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Knit the scarf. Ride the ogre.",
-	pageId = 1586,
 	timestamp = "1268325427",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1587,
 	},
 	previous = 1585,
+	page_id = 1586,
+	long_title = true,
 }

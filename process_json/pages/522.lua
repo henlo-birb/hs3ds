@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Answer Dave.",
-	pageId = 522,
 	timestamp = "1250967197",
 	flag = {},
 	media = {
@@ -698,4 +697,6 @@ return {
 		523,
 	},
 	previous = 521,
+	page_id = 522,
+	long_title = false,
 }

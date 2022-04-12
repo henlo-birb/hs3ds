@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6053,
 	timestamp = "1364453086",
 	flag = {},
 	media = {
@@ -12,129 +11,601 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Not that it would even matter to some people.",
+		"VRISKA: Not that it would even matter\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"to some people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You know, they can say whatever they want a8out me.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: 8ut somewhere out there is a shimmering new universe growing in a 8ig 8all of water.",
+		"VRISKA: You know, they can say\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"whatever they want a8out me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: He's looking hells of majestic. Amphi8ious and resplendent. His glorious croak would 8ring you to your knees.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: That universe is going to give life to 8illions of trillions of zillions of cute little aliens.",
+		"VRISKA: 8ut somewhere out there is a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: You wouldn't even 8elieve how pretty and wonderful and happy all these aliens will 8e. It's making your lip trem8le just thinking a8out them, and how worth saving they are. Wow.",
+		"shimmering new universe growing in a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8ig 8all of water.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You could walk up to one of those aliens and put your hand on its innocent shoulder, and with a str8 face you could say, \"Sorry to 8r8k it to you. 8ut tomorrow, a guy named Lord English is going to destroy your universe. You are all going to die.\"",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: And when that alien looks up at you with tears in its eyes, just 8efore the first one rolls down its weird alien cheek, you lean in close to its a8surd alien ear and whisper, \"Psyche.\"",
+		"VRISKA: He's looking hells of\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: That's 8ecause you know a long time ago, in an o8scure pocket of reality the alien could never understand or give a shit a8out, some crazy girl sacrificed the \"lives\" of a 8unch ghosts in order to kill that guy forever.",
+		"majestic. Amphi8ious and resplendent.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: They were already a million sweeps past their prime, existing on 8orrowed time, luxuri8ting in a kind of 8izarre metaphysical longevity few others will ever enjoy.",
+		"His glorious croak would 8ring you to\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"your knees.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Just a fresh 8atch of 88 the squid gods kept on ice for an ins8tia8le fisherman cause they were sick of 8eing hunted themselves.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Those ghosts were all that stood in the way of an end to this eternal holocaust, and sparing their souls 8n't different in my view from personally committing atrocities on a cosmic fucking scale.",
+		"VRISKA: That universe is going to give\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I only ever wanted to do the right thing no matter how it made people judge me, and I don't need a magic ring to do that.",
+		"life to 8illions of trillions of\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"zillions of cute little aliens.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You don't have to 8e alive to make yourself relevant.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: And you don't have to 8e a good person to 8e a hero.",
+		"VRISKA: You wouldn't even 8elieve how\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: You just have to know who you are and stay true to that.",
+		"pretty and wonderful and happy all\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"these aliens will 8e. It's making your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"lip trem8le just thinking a8out them,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and how worth saving they are. Wow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: So I'm going to keep fighting for people the only way I ever knew how.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You could walk up to one of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"those aliens and put your hand on its\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"innocent shoulder, and with a str8\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"face you could say, \"Sorry to 8r8k it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to you. 8ut tomorrow, a guy named Lord\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"English is going to destroy your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"universe. You are all going to die.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: And when that alien looks up\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"at you with tears in its eyes, just\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8efore the first one rolls down its\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"weird alien cheek, you lean in close\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to its a8surd alien ear and whisper,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"\"Psyche.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: That's 8ecause you know a long\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"time ago, in an o8scure pocket of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"reality the alien could never\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"understand or give a shit a8out, some\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"crazy girl sacrificed the \"lives\" of a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8unch ghosts in order to kill that guy\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"forever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: They were already a million\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sweeps past their prime, existing on\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8orrowed time, luxuri8ting in a kind\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of 8izarre metaphysical longevity few\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"others will ever enjoy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Just a fresh 8atch of 88 the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"squid gods kept on ice for an\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ins8tia8le fisherman cause they were\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sick of 8eing hunted themselves.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Those ghosts were all that\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"stood in the way of an end to this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"eternal holocaust, and sparing their\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"souls 8n't different in my view from\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"personally committing atrocities on a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"cosmic fucking scale.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I only ever wanted to do the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"right thing no matter how it made\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"people judge me, and I don't need a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"magic ring to do that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You don't have to 8e alive to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"make yourself relevant.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: And you don't have to 8e a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"good person to 8e a hero.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You just have to know who you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"are and stay true to that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: So I'm going to keep fighting\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"for people the only way I ever knew\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"how.\
+",
 	},
 	next = {
 		6054,
 	},
 	previous = 6052,
+	page_id = 6053,
+	long_title = false,
 }

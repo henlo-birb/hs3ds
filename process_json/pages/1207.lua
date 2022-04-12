@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Follow Diamonds Droog's instructions.",
-	pageId = 1207,
 	timestamp = "1264046124",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		1208,
 	},
 	previous = 1206,
+	page_id = 1207,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: First, be the pony. Second, follow Mom.",
-	pageId = 1723,
 	timestamp = "1271913597",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1724,
 	},
 	previous = 1722,
+	page_id = 1723,
+	long_title = true,
 }

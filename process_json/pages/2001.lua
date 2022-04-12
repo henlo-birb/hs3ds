@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine large black book.",
-	pageId = 2001,
 	timestamp = "1276476800",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2002,
 	},
 	previous = 2000,
+	page_id = 2001,
+	long_title = true,
 }

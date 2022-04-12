@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Pick up card depicting stately blonde-haired fellows",
-	pageId = 1197,
 	timestamp = "1263969875",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1198,
 	},
 	previous = 1196,
+	page_id = 1197,
+	long_title = true,
 }

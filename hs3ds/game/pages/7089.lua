@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7089,
 	timestamp = "1416977921",
 	flag = {},
 	media = {
@@ -12,73 +11,216 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: drowning obviously would have been bad :p",
+		"JADE: drowning obviously would have\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"been bad :p\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: but disappearing wouldnt be much better!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: he would appear somewhere else, having made no progress on his personal quest",
+		"JADE: but disappearing wouldnt be much\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"better!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: his planet would still be polluted and he would be no closer to playing his song",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: somehow he understood the only way was to conceive of a third option",
+		"JADE: he would appear somewhere else,\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: an idea beyond the simple binary set of outcomes before him",
+		"having made no progress on his\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"personal quest\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: and interestingly",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: it was coming to this understanding which gave him the first glimpse of how to control the power",
+		"JADE: his planet would still be\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"polluted and he would be no closer to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"playing his song\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: he realized it wasnt himself that he needed to make disappear...",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: somehow he understood the only\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"way was to conceive of a third option\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: an idea beyond the simple binary\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"set of outcomes before him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: and interestingly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: it was coming to this\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"understanding which gave him the first\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"glimpse of how to control the power\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: he realized it wasnt himself\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"that he needed to make disappear...\
+",
 	},
 	next = {
 		7090,
 	},
 	previous = 7088,
+	page_id = 7089,
+	long_title = false,
 }

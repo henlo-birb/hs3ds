@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Examine closet.",
-	pageId = 317,
 	timestamp = "1246401101",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		318,
 	},
 	previous = 316,
+	page_id = 317,
+	long_title = false,
 }

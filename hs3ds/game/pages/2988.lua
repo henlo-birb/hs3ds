@@ -1,6 +1,5 @@
 return {
 	title = "[S] ==>",
-	pageId = 2988,
 	timestamp = "1291503630",
 	flag = {
 		"F",
@@ -15,26 +14,125 @@ return {
 			0,
 			0,
 		},
-		"\"I slept and saw God's forge in frost. Its hearth was quelled, and as it cooled so swooned the verdancy it kept above. In slumber it grew a thick winter skin, white as bedsheets. In their folds the waker dreamt, her breath as steam, her touch as hot as iron, forgotten in the fire.",
+		"\"I slept and saw God's forge in frost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Its hearth was quelled, and as it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cooled so swooned the verdancy it kept\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"above. In slumber it grew a thick\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"winter skin, white as bedsheets. In\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their folds the waker dreamt, her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"breath as steam, her touch as hot as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"iron, forgotten in the fire.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, that this too too solid flesh would melt, thaw and resolve itself into a dew!\"",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
--Acclaimed actor and sleeping prophet, Charles Dutton",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, that this too too solid flesh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would melt, thaw and resolve itself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into a dew!\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"-Acclaimed actor and sleeping prophet,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Charles Dutton\
+",
 	},
 	next = {
 		2989,
 	},
 	previous = 2987,
+	page_id = 2988,
+	long_title = false,
 }

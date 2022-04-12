@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Pester informant.",
-	pageId = 3627,
 	timestamp = "1299566390",
 	flag = {},
 	media = {
@@ -2217,4 +2216,6 @@ return {
 		3628,
 	},
 	previous = 3626,
+	page_id = 3627,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Also in the future...",
-	pageId = 844,
 	timestamp = "1257750121",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"But years, not hours...",
+		"But years, not hours...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Under bare white branches a sentry wakens.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Under bare white branches a sentry\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wakens.\
+",
 	},
 	next = {
 		845,
 	},
 	previous = 843,
+	page_id = 844,
+	long_title = false,
 }

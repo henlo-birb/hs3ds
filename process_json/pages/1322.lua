@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Use crowbar to pry the safe open.",
-	pageId = 1322,
 	timestamp = "1265491223",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1323,
 	},
 	previous = 1321,
+	page_id = 1322,
+	long_title = true,
 }

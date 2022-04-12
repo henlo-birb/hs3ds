@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: RECEIVE BOON FROM YOUR CREATOR.",
-	pageId = 6514,
 	timestamp = "1378007620",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 6513,
 	theme = "A6A6",
+	page_id = 6514,
+	long_title = true,
 }

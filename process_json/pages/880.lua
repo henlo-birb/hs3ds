@@ -1,6 +1,5 @@
 return {
 	title = "John: High-five Nannaquin.",
-	pageId = 880,
 	timestamp = "1258845916",
 	flag = {},
 	media = {
@@ -356,4 +355,6 @@ return {
 		881,
 	},
 	previous = 879,
+	page_id = 880,
+	long_title = false,
 }

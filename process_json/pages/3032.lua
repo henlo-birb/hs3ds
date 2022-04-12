@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Deploy and upgrade.",
-	pageId = 3032,
 	timestamp = "1291847511",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		3033,
 	},
 	previous = 3031,
+	page_id = 3032,
+	long_title = false,
 }

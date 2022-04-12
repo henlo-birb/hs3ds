@@ -1,6 +1,5 @@
 return {
 	title = "WV: Search for power source.",
-	pageId = 3138,
 	timestamp = "1293124399",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		3139,
 	},
 	previous = 3137,
+	page_id = 3138,
+	long_title = false,
 }

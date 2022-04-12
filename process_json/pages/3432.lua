@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Return to computer lab.",
-	pageId = 3432,
 	timestamp = "1296848981",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		3433,
 	},
 	previous = 3431,
+	page_id = 3432,
+	long_title = false,
 }

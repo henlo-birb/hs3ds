@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine equipment.",
-	pageId = 3470,
 	timestamp = "1297303437",
 	flag = {},
 	media = {
@@ -299,4 +298,6 @@ return {
 		3471,
 	},
 	previous = 3469,
+	page_id = 3470,
+	long_title = false,
 }

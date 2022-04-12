@@ -1,6 +1,5 @@
 return {
 	title = "John: Await further instruction.",
-	pageId = 1633,
 	timestamp = "1269921454",
 	flag = {},
 	media = {
@@ -552,4 +551,6 @@ return {
 		1634,
 	},
 	previous = 1632,
+	page_id = 1633,
+	long_title = false,
 }

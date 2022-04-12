@@ -1,6 +1,5 @@
 return {
 	title = "John: Get sledgehammer and card.",
-	pageId = 167,
 	timestamp = "1242540900",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		168,
 	},
 	previous = 166,
+	page_id = 167,
+	long_title = false,
 }

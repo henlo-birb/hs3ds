@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine posters.",
-	pageId = 4169,
 	timestamp = "1321678381",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		4170,
 	},
 	previous = 4168,
+	page_id = 4169,
+	long_title = false,
 }

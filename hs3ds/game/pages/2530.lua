@@ -1,6 +1,5 @@
 return {
 	title = "To begin your mission.",
-	pageId = 2530,
 	timestamp = "1282785700",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2531,
 	},
 	previous = 2529,
+	page_id = 2530,
+	long_title = false,
 }

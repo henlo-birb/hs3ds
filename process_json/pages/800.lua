@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Change wardrobifier setting.",
-	pageId = 800,
 	timestamp = "1256257688",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		801,
 	},
 	previous = 799,
+	page_id = 800,
+	long_title = true,
 }

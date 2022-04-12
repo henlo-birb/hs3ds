@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Dream.",
-	pageId = 990,
 	timestamp = "1260490575",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		991,
 	},
 	previous = 989,
+	page_id = 990,
+	long_title = false,
 }

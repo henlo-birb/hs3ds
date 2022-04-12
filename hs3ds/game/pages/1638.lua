@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue Casey.",
-	pageId = 1638,
 	timestamp = "1270008182",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"This is absolutely no place for children. You take dear, sweet CASEY into protective custody.",
+		"This is absolutely no place for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"children. You take dear, sweet CASEY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into protective custody.\
+",
 	},
 	next = {
 		1639,
 	},
 	previous = 1637,
+	page_id = 1638,
+	long_title = false,
 }

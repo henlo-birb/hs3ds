@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Answer this douche bag.",
-	pageId = 3175,
 	timestamp = "1293505758",
 	flag = {},
 	media = {
@@ -1426,4 +1425,6 @@ return {
 		3176,
 	},
 	previous = 3174,
+	page_id = 3175,
+	long_title = false,
 }

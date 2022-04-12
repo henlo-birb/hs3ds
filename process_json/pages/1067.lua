@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Hammer and Problem Sleuth game.",
-	pageId = 1067,
 	timestamp = "1261526318",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1068,
 	},
 	previous = 1066,
+	page_id = 1067,
+	long_title = true,
 }

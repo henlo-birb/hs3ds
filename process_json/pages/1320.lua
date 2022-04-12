@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Turn up heat on Biscuit's oven.",
-	pageId = 1320,
 	timestamp = "1265412687",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1321,
 	},
 	previous = 1319,
+	page_id = 1320,
+	long_title = true,
 }

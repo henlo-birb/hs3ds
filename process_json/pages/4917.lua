@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Close it up.",
-	pageId = 4917,
 	timestamp = "1336032820",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4918,
 	},
 	previous = 4916,
+	page_id = 4917,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 341,
 	timestamp = "1246842537",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You re-captchalogue the JUICE.",
+		"You re-captchalogue the JUICE.\
+",
 	},
 	next = {
 		342,
 	},
 	previous = 340,
+	page_id = 341,
+	long_title = false,
 }

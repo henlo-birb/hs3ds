@@ -1,6 +1,5 @@
 return {
 	title = "Great! I would like you to carve something on it.",
-	pageId = 1490,
 	timestamp = "1267133099",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1491,
 	},
 	previous = 1489,
+	page_id = 1490,
+	long_title = true,
 }

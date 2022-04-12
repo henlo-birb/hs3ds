@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Consider suspects.",
-	pageId = 3365,
 	timestamp = "1296092182",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		3366,
 	},
 	previous = 3364,
+	page_id = 3365,
+	long_title = false,
 }

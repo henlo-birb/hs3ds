@@ -1,6 +1,5 @@
 return {
 	title = "Follow them.",
-	pageId = 1494,
 	timestamp = "1267149497",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1495,
 	},
 	previous = 1493,
+	page_id = 1494,
+	long_title = false,
 }

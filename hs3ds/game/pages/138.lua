@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 138,
 	timestamp = "1242113970",
 	flag = {
 		"F",
@@ -14,10 +13,13 @@ return {
 			0,
 			0,
 		},
-		"[Mouseover the interface buttons. -AH]",
+		"[Mouseover the interface buttons. -AH]\
+",
 	},
 	next = {
 		139,
 	},
 	previous = 137,
+	page_id = 138,
+	long_title = false,
 }

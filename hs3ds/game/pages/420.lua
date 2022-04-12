@@ -1,6 +1,5 @@
 return {
 	title = "INTERROGATE THIS MADWOMAN.",
-	pageId = 420,
 	timestamp = "1249015307",
 	flag = {},
 	media = {
@@ -12,67 +11,188 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: um... nanna?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: um... nanna?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Yes, dear!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: Yes, dear!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: wow, you scared the living\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"daylights out of me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: wow, you scared the living daylights out of me!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Hoo hoo hoo!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: Hoo hoo hoo!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: well, i guess it was a really great prank. good one nanna.",
+		"JOHN: well, i guess it was a really\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"great prank. good one nanna.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: anyway, are you REALLY my dead nanna?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-\
-JOHN: ok, i guess i will take your word for it. i don't remember you at all! my dad said i was really young when you died.",
+		"JOHN: anyway, are you REALLY my dead\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"nanna?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: hey speaking of which, do you know where he is??? i looked everywhere for him!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ok, i guess i will take your\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"word for it. i don't remember you at\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"all! my dad said i was really young\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"when you died.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: hey speaking of which, do you\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"know where he is??? i looked\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"everywhere for him!\
+",
 	},
 	next = {
 		421,
 	},
 	previous = 419,
+	page_id = 420,
+	long_title = false,
 }

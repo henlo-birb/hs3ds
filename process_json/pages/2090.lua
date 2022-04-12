@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Lament.",
-	pageId = 2090,
 	timestamp = "1277436281",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		2091,
 	},
 	previous = 2089,
+	page_id = 2090,
+	long_title = false,
 }

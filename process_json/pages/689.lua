@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use glowing green rock to open cans.",
-	pageId = 689,
 	timestamp = "1253850398",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		690,
 	},
 	previous = 688,
+	page_id = 689,
+	long_title = true,
 }

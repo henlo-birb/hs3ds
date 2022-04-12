@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6751,
 	timestamp = "1380767725",
 	flag = {},
 	media = {
@@ -12,31 +11,62 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Mr. Strider?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Mr. Strider?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: ...",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: What are you doing to this troll, if I might ask?",
+		"ROSE: What are you doing to this\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"troll, if I might ask?\
+",
 	},
 	next = {
 		6752,
 	},
 	previous = 6750,
+	page_id = 6751,
+	long_title = false,
 }

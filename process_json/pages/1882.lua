@@ -1,6 +1,5 @@
 return {
 	title = "John: Zoom in.",
-	pageId = 1882,
 	timestamp = "1274308166",
 	flag = {
 		"R1",
@@ -137,4 +136,6 @@ return {
 		1883,
 	},
 	previous = 1881,
+	page_id = 1882,
+	long_title = false,
 }

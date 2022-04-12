@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Fuck it.",
-	pageId = 5653,
 	timestamp = "1356493211",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Fuck it.",
+		"DIRK: Fuck it.\
+",
 	},
 	next = {
 		5654,
 	},
 	previous = 5652,
+	page_id = 5653,
+	long_title = false,
 }

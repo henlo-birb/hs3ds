@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Alchemize a whole bunch of cool stuff.",
-	pageId = 1802,
 	timestamp = "1273121501",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1803,
 	},
 	previous = 1801,
+	page_id = 1802,
+	long_title = true,
 }

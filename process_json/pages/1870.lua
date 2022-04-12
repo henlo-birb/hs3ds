@@ -1,6 +1,5 @@
 return {
 	title = "John: Press blue button.",
-	pageId = 1870,
 	timestamp = "1274307573",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1871,
 	},
 	previous = 1869,
+	page_id = 1870,
+	long_title = false,
 }

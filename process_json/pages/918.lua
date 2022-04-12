@@ -1,6 +1,5 @@
 return {
 	title = "[S] Strife!!!",
-	pageId = 918,
 	timestamp = "1259364709",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		919,
 	},
 	previous = 917,
+	page_id = 918,
+	long_title = false,
 }

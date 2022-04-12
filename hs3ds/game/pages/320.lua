@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Examine jar of unknown yellow substance in the closet.",
-	pageId = 320,
 	timestamp = "1246487499",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Oh hell yes. It is an unopened container of APPLE JUICE. You thought you were all out. It is like fucking christmas up in here.",
+		"Oh hell yes. It is an unopened\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"container of APPLE JUICE. You thought\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you were all out. It is like fucking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"christmas up in here.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is so great. You've got to tell John about this immediately. He'll be so excited.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is so great. You've got to tell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John about this immediately. He'll be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so excited.\
+",
 	},
 	next = {
 		321,
 	},
 	previous = 319,
+	page_id = 320,
+	long_title = true,
 }

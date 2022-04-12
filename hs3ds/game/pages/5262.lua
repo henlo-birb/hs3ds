@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5262,
 	timestamp = "1343521157",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"END OF ACT 6 ACT 3.",
+		"END OF ACT 6 ACT 3.\
+",
 	},
 	next = {
 		5263,
 	},
 	previous = 5261,
+	page_id = 5262,
+	long_title = false,
 }

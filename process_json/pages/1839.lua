@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine fetus in a jar and Mr. T puppet.",
-	pageId = 1839,
 	timestamp = "1273798473",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1840,
 	},
 	previous = 1838,
+	page_id = 1839,
+	long_title = true,
 }

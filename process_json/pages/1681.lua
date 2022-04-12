@@ -1,6 +1,5 @@
 return {
 	title = "AH: That sounds like a good idea.",
-	pageId = 1681,
 	timestamp = "1271389049",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1682,
 	},
 	previous = 1680,
+	page_id = 1681,
+	long_title = true,
 }

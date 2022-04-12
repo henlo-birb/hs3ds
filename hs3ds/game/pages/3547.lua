@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Accessorize immediately.",
-	pageId = 3547,
 	timestamp = "1298161348",
 	flag = {},
 	media = {
@@ -12,10 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You begin claiming trophies to celebrate your magnificent triumph over the defenseless loving couple. The man's hat suits you perfectly. It is plain and serviceable. Yes, that looks so good. The only way the look could possibly be improved is if it was blacker. Or bloodier.",
+		"You begin claiming trophies to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"celebrate your magnificent triumph\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"over the defenseless loving couple.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The man's hat suits you perfectly. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is plain and serviceable. Yes, that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks so good. The only way the look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"could possibly be improved is if it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was blacker. Or bloodier.\
+",
 	},
 	next = {
 		3548,
 	},
 	previous = 3546,
+	page_id = 3547,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Ride.",
-	pageId = 5655,
 	timestamp = "1356493332",
 	flag = {
 		"F",
@@ -43,4 +42,6 @@ return {
 		5656,
 	},
 	previous = 5654,
+	page_id = 5655,
+	long_title = false,
 }

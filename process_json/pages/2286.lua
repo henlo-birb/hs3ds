@@ -1,6 +1,5 @@
 return {
 	title = "Aradiasprite: Enter soulbot.",
-	pageId = 2286,
 	timestamp = "1279600801",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2287,
 	},
 	previous = 2285,
+	page_id = 2286,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "BUT THERE WAS ONE BADGE HE GOT.",
-	pageId = 6248,
 	timestamp = "1371079312",
 	flag = {},
 	media = {
@@ -167,4 +166,6 @@ return {
 	},
 	previous = 6247,
 	theme = "A6A6",
+	page_id = 6248,
+	long_title = false,
 }

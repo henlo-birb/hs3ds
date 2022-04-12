@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Open it.",
-	pageId = 1556,
 	timestamp = "1267903323",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1557,
 	},
 	previous = 1555,
+	page_id = 1556,
+	long_title = false,
 }

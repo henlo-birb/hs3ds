@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Open FreshJamz!",
-	pageId = 830,
 	timestamp = "1256977886",
 	flag = {
 		"F",
@@ -15,10 +14,20 @@ return {
 			0,
 			0,
 		},
-		"You open the FRESHJAMZ MEDIA PLAYER and add Dave's remix to the playlist.",
+		"You open the FRESHJAMZ MEDIA PLAYER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and add Dave's remix to the playlist.\
+",
 	},
 	next = {
 		831,
 	},
 	previous = 829,
+	page_id = 830,
+	long_title = false,
 }

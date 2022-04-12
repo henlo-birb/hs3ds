@@ -1,6 +1,5 @@
 return {
 	title = "John: Use cruxite dowel on totem lathe.",
-	pageId = 209,
 	timestamp = "1243298218",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		210,
 	},
 	previous = 208,
+	page_id = 209,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "CD: Do happy umbrella dance.",
-	pageId = 5634,
 	timestamp = "1356154297",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		5635,
 	},
 	previous = 5633,
+	page_id = 5634,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Check the box \"detect collisions\".",
-	pageId = 586,
 	timestamp = "1252104367",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		587,
 	},
 	previous = 585,
+	page_id = 586,
+	long_title = true,
 }

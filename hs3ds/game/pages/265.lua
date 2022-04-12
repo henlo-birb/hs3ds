@@ -1,6 +1,5 @@
 return {
 	title = "FINE. PROCEED AS YOUR LEVEL OF COMFORT DICTATES.",
-	pageId = 265,
 	timestamp = "1245127405",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You cautiously walk within range of the PDA. Rose retrieves it.",
+		"You cautiously walk within range of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the PDA. Rose retrieves it.\
+",
 	},
 	next = {
 		266,
 	},
 	previous = 264,
+	page_id = 265,
+	long_title = true,
 }

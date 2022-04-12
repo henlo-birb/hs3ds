@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Insert coin.",
-	pageId = 927,
 	timestamp = "1259528926",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"This weird arcade gizmo adapted to this setup obviously doesn't take coins anymore, assuming it ever did.",
+		"This weird arcade gizmo adapted to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this setup obviously doesn't take\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coins anymore, assuming it ever did.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Besides, you left all your coins on the fridge, remember?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, you left all your coins on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the fridge, remember?\
+",
 	},
 	next = {
 		928,
 	},
 	previous = 926,
+	page_id = 927,
+	long_title = false,
 }

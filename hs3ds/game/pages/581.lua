@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue each shuriken individually.",
-	pageId = 581,
 	timestamp = "1252092675",
 	flag = {},
 	media = {
@@ -12,66 +11,97 @@ return {
 			0,
 			0,
 		},
-		"You grab each ",
+		"You grab each\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"SH",
+		"SH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"R",
+		"R\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"I",
+		"I\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"K",
+		"K\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (3) one at a time, knocking out those NUNCHAKU.",
+		"(3) one at a time, knocking out those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NUNCHAKU.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But no worries. You've got a plan.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But no worries. You've got a plan.\
+",
 	},
 	next = {
 		582,
 	},
 	previous = 580,
+	page_id = 581,
+	long_title = true,
 }

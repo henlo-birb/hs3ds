@@ -1,6 +1,5 @@
 return {
 	title = "John: Retrieve tiny hammer.",
-	pageId = 3673,
 	timestamp = "1300813950",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		3674,
 	},
 	previous = 3672,
+	page_id = 3673,
+	long_title = false,
 }

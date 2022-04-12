@@ -1,6 +1,5 @@
 return {
 	title = "Don't I know you?",
-	pageId = 900,
 	timestamp = "1258947087",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		901,
 	},
 	previous = 899,
+	page_id = 900,
+	long_title = false,
 }

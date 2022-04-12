@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Roll up your ramp.",
-	pageId = 2113,
 	timestamp = "1277778995",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2114,
 	},
 	previous = 2112,
+	page_id = 2113,
+	long_title = false,
 }

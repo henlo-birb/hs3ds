@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Land already.",
-	pageId = 3298,
 	timestamp = "1295144609",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3299,
 	},
 	previous = 3297,
+	page_id = 3298,
+	long_title = false,
 }

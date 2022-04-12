@@ -1,6 +1,5 @@
 return {
 	title = "John: Behold puffy oracle.",
-	pageId = 3393,
 	timestamp = "1296407243",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		3394,
 	},
 	previous = 3392,
+	page_id = 3393,
+	long_title = false,
 }

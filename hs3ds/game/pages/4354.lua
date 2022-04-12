@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4354,
 	timestamp = "1324419851",
 	flag = {},
 	media = {
@@ -12,234 +11,699 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: karkat i dont know if anyone cares about formal ranks like that anymore",
+		"ARADIA: karkat i dont know if anyone\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: or if anyone ever did!",
+		"cares about formal ranks like that\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"anymore\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: but for what its worth i suggest that from now on you all listen closely to the advice of our human guests",
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: or if anyone ever did!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: but for what its worth i\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"suggest that from now on you all\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"listen closely to the advice of our\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"human guests\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: wait",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: really\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: really",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"ARADIA: yes!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: yes!",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"ARADIA: no need to be so modest dave\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: no need to be so modest dave",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"ARADIA: tactically speaking a knight\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"of time and a seer of light is a\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"nearly unbeatable combination\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: tactically speaking a knight of time and a seer of light is a nearly unbeatable combination",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: ok\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: ok",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i dont really have any orders to give though",
+		"DAVE: i dont really have any orders to\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"give though\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: except for karkat to shut the hell up because that horseshit is more obnoxious in person than i ever imagined",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: except for karkat to shut the\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hell up because that horseshit is more\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"obnoxious in person than i ever\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"imagined\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OH WOW, I WOULD OFFER A RETORT TO YOUR VICIOUS BARB, EXCEPT FOR THE FACT THAT UNLIKE EVERY ASSHOLE EVER, I CAN ACTUALLY FOLLOW ORDERS AND SHUT MY MOUTH!",
+		"KARKAT: OH WOW, I WOULD OFFER A RETORT\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: CHECK IT OUT, \"DOGG\"",
+		"TO YOUR VICIOUS BARB, EXCEPT FOR THE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"FACT THAT UNLIKE EVERY ASSHOLE EVER, I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CAN ACTUALLY FOLLOW ORDERS AND SHUT MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MOUTH!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: ......................................",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: CHECK IT OUT, \"DOGG\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT:\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"......................................\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: yes you are off to an excellent start as a subordinate",
+		"ARADIA: yes you are off to an\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"excellent start as a subordinate\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: keep doing that!",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"ARADIA: keep doing that!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: but dave dont worry if you do not have instructions for us",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: the knight of time is not necessarily the tactician",
+		"ARADIA: but dave dont worry if you do\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"not have instructions for us\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: he is a powerful warrior class which exploits the flow of time as a weapon",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: rose is the one who must play the role of the strategist",
+		"ARADIA: the knight of time is not\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"necessarily the tactician\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: the seer class knows her aspect comprehensively",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: as a knower of all fortune she can see the circuitous path that will lead to the most favorable outcome for everyone",
+		"ARADIA: he is a powerful warrior class\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"which exploits the flow of time as a\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"weapon\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: personally i would defer to her judgment!",
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: rose is the one who must play\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"the role of the strategist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: the seer class knows her\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"aspect comprehensively\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: as a knower of all fortune she\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"can see the circuitous path that will\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"lead to the most favorable outcome for\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"everyone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: personally i would defer to\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"her judgment!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: R34LLY? YOU C4N DO TH4T??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: R34LLY? YOU C4N DO TH4T??",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Yes.",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: TH4T SOUNDS 4 LOT MOR3 US3FUL TH4N MY S33R POW3RS >:[",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Illumination of the road to victory for all is an asset considerably different from command over the outcomes of decisions made by individuals.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: How do you know your talents won't be critical in blazing this auspicious trail?",
+		"TEREZI: TH4T SOUNDS 4 LOT MOR3 US3FUL\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: UM",
+		"TH4N MY S33R POW3RS >:[\
+",
 		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-TEREZI: 1 GU3SS 1 DONT",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Illumination of the road to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"victory for all is an asset\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"considerably different from command\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"over the outcomes of decisions made by\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"individuals.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: That's because you're not me.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: How do you know your talents\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"won't be critical in blazing this\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"auspicious trail?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: UM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: 1 GU3SS 1 DONT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: That's because you're not me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Okay Then What Do We Do",
+		"KANAYA: Okay Then What Do We Do\
+",
 	},
 	next = {
 		4355,
 	},
 	previous = 4353,
+	page_id = 4354,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "BUT THEN.",
-	pageId = 7419,
 	timestamp = "1428897988",
 	flag = {
 		"F",
@@ -36,4 +35,6 @@ return {
 	},
 	previous = 7418,
 	theme = "A6A6",
+	page_id = 7419,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine games on CD rack.",
-	pageId = 31,
 	timestamp = "1239856123",
 	flag = {
 		"F",
@@ -14,10 +13,20 @@ return {
 			0,
 			0,
 		},
-		"You've put countless manhours into this assortment of quality titles.",
+		"You've put countless manhours into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this assortment of quality titles.\
+",
 	},
 	next = {
 		32,
 	},
 	previous = 30,
+	page_id = 31,
+	long_title = false,
 }

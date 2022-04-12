@@ -1,6 +1,5 @@
 return {
 	title = "AR: Realize that your weapon is magazine-fed, not clip-fed.",
-	pageId = 1101,
 	timestamp = "1262480769",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You don't give a shit about that.",
+		"You don't give a shit about that.\
+",
 	},
 	next = {
 		1102,
 	},
 	previous = 1100,
+	page_id = 1101,
+	long_title = true,
 }

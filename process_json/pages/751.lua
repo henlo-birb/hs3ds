@@ -1,6 +1,5 @@
 return {
 	title = "WV: Adjust time dial to appearify rotten pumpkin.",
-	pageId = 751,
 	timestamp = "1254778604",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		752,
 	},
 	previous = 750,
+	page_id = 751,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Save the lizards!",
-	pageId = 1485,
 	timestamp = "1267072040",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1486,
 	},
 	previous = 1484,
+	page_id = 1485,
+	long_title = false,
 }

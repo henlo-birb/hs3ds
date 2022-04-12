@@ -1,6 +1,5 @@
 return {
 	title = "John: Exit to balcony.",
-	pageId = 2676,
 	timestamp = "1285558163",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"What a surprise, more lousy imps having their way with the place. You wonder where nanna could be. Someone needs to get this motley assortment of rogues under control.",
+		"What a surprise, more lousy imps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"having their way with the place. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wonder where nanna could be. Someone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"needs to get this motley assortment of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rogues under control.\
+",
 	},
 	next = {
 		2677,
 	},
 	previous = 2675,
+	page_id = 2676,
+	long_title = false,
 }

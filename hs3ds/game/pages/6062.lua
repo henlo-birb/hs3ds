@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6062,
 	timestamp = "1364710751",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Are you going to brek up with me?",
+		"ROSE: Are you going to brek up with\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me?\
+",
 	},
 	next = {
 		6063,
 	},
 	previous = 6061,
+	page_id = 6062,
+	long_title = false,
 }

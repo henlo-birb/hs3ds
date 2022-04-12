@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4801,
 	timestamp = "1333270927",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"We settle this NOW.",
+		"We settle this NOW.\
+",
 	},
 	next = {
 		4802,
 	},
 	previous = 4800,
+	page_id = 4801,
+	long_title = false,
 }

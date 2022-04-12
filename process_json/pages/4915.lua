@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Seek alternative casket.",
-	pageId = 4915,
 	timestamp = "1336032562",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4916,
 	},
 	previous = 4914,
+	page_id = 4915,
+	long_title = false,
 }

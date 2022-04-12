@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7856,
 	timestamp = "1436395213",
 	flag = {},
 	media = {
@@ -12,171 +11,426 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: You actually did something\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"useful for once.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You actually did something useful for once.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: }:D!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: }:D!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I don't know how I'm even supposed to process or handle this inform8tion...",
+		"VRISKA: I don't know how I'm even\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: It's... it's completely messed up, is what it is.",
+		"supposed to process or handle this\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"inform8tion...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: My entire world view is shattering around me...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: It can't 8e true.",
+		"VRISKA: It's... it's completely messed\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"up, is what it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It can't!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: My entire world view is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"shattering around me...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Some8ody slap me. I need to wake up from this horseshit.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It can't 8e true.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It can't!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Some8ody slap me. I need to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wake up from this horseshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: aLRIGHT, bUT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: aLRIGHT, bUT,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: DON'T TOUCH ME!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: DON'T TOUCH ME!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Meenah, is this real??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Meenah, is this real??",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Tell me I'm not going insane.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Please confirm for me that Tavros has\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"for once in his preposterous life or\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"death or whatever has at least\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"momentarily stopped 8eing a totally\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"useless sack of shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Tell me I'm not going insane. Please confirm for me that Tavros has for once in his preposterous life or death or whatever has at least momentarily stopped 8eing a totally useless sack of shit.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: its fucked up but true\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: its fucked up but true",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: God........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: God........",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: DAAAAAAAAMN it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: DAAAAAAAAMN it.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Fuck this. I can't accept this reality.",
+		"VRISKA: Fuck this. I can't accept this\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"reality.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Nope. No way. Won't do it.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Nope. No way. Won't do it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: No...",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: No...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: No, no, no, no, no, no, no, no...",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No, no, no, no, no, no, no,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"no...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: oH, bUT MAYBE MORE LIKE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: oH, bUT MAYBE MORE LIKE,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yES,,,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yES,,,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yES, yES, yES, yES, yES!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yES, yES, yES, yES, yES!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: XXXX|",
+		"VRISKA: XXXX|\
+",
 	},
 	next = {
 		7857,
 	},
 	previous = 7855,
+	page_id = 7856,
+	long_title = false,
 }

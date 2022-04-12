@@ -1,6 +1,5 @@
 return {
 	title = "[S] Dirk: Synchronize.",
-	pageId = 5238,
 	timestamp = "1341857117",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		5239,
 	},
 	previous = 5237,
+	page_id = 5238,
+	long_title = false,
 }

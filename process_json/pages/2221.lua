@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Talk to friend/enemy.",
-	pageId = 2221,
 	timestamp = "1278998420",
 	flag = {},
 	media = {
@@ -2903,4 +2902,6 @@ return {
 		2222,
 	},
 	previous = 2220,
+	page_id = 2221,
+	long_title = false,
 }

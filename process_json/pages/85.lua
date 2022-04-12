@@ -1,6 +1,5 @@
 return {
 	title = "John: See if your father left the mail in the car.",
-	pageId = 85,
 	timestamp = "1240615106",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		86,
 	},
 	previous = 84,
+	page_id = 85,
+	long_title = true,
 }

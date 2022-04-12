@@ -1,6 +1,5 @@
 return {
 	title = "IT KEEPS HAPPENING",
-	pageId = 872,
 	timestamp = "1258601430",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		873,
 	},
 	previous = 871,
+	page_id = 872,
+	long_title = false,
 }

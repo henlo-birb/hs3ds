@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Rummage around.",
-	pageId = 4146,
 	timestamp = "1321405084",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		4147,
 	},
 	previous = 4145,
+	page_id = 4146,
+	long_title = false,
 }

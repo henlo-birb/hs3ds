@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Punch clocks in faces to establish chronology.",
-	pageId = 1180,
 	timestamp = "1263854253",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Why would you do that? All of these clocks are lovely. You see no reason to harm them.",
+		"Why would you do that? All of these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clocks are lovely. You see no reason\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to harm them.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-987/1000 CLOCKS UNHARMED",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"987/1000 CLOCKS UNHARMED\
+",
 	},
 	next = {
 		1181,
 	},
 	previous = 1179,
+	page_id = 1180,
+	long_title = true,
 }

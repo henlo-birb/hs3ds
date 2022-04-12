@@ -1,6 +1,5 @@
 return {
 	title = "IGNORE THIS WOMAN'S ANTICS.",
-	pageId = 286,
 	timestamp = "1245652026",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		287,
 	},
 	previous = 285,
+	page_id = 286,
+	long_title = false,
 }

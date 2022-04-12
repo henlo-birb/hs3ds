@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Take wand.",
-	pageId = 6115,
 	timestamp = "1365316346",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		6116,
 	},
 	previous = 6114,
+	page_id = 6115,
+	long_title = false,
 }

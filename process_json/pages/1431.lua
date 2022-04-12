@@ -1,6 +1,5 @@
 return {
 	title = "Seer, can you hear me?",
-	pageId = 1431,
 	timestamp = "1266558595",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1432,
 	},
 	previous = 1430,
+	page_id = 1431,
+	long_title = false,
 }

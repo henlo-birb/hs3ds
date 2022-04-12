@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1972,
 	timestamp = "1276153280",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"A grandfather mourns. A family tradition, honored.",
+		"A grandfather mourns. A family\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tradition, honored.\
+",
 	},
 	next = {
 		1973,
 	},
 	previous = 1971,
+	page_id = 1972,
+	long_title = false,
 }

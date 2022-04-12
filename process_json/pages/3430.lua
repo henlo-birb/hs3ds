@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Contact Equius.",
-	pageId = 3430,
 	timestamp = "1296775175",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		3431,
 	},
 	previous = 3429,
+	page_id = 3430,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Ascend to the highest point of the house.",
-	pageId = 660,
 	timestamp = "1253345655",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You go up here.",
+		"You go up here.\
+",
 	},
 	next = {
 		661,
 	},
 	previous = 659,
+	page_id = 660,
+	long_title = true,
 }

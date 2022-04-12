@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Answer fairy god troll.",
-	pageId = 3049,
 	timestamp = "1292098648",
 	flag = {},
 	media = {
@@ -929,4 +928,6 @@ return {
 		3050,
 	},
 	previous = 3048,
+	page_id = 3049,
+	long_title = false,
 }

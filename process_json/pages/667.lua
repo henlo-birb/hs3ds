@@ -1,6 +1,5 @@
 return {
 	title = "WV: Retri...",
-	pageId = 667,
 	timestamp = "1253568327",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		668,
 	},
 	previous = 666,
+	page_id = 667,
+	long_title = false,
 }

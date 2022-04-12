@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Wake.",
-	pageId = 5237,
 	timestamp = "1341117331",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		5238,
 	},
 	previous = 5236,
+	page_id = 5237,
+	long_title = false,
 }

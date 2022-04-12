@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Sneak by.",
-	pageId = 232,
 	timestamp = "1243901677",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		233,
 	},
 	previous = 231,
+	page_id = 232,
+	long_title = false,
 }

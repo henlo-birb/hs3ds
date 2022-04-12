@@ -1,6 +1,5 @@
 return {
 	title = "[FUCK YOU!] ==>",
-	pageId = 5780,
 	timestamp = "1359260242",
 	flag = {
 		"FULLSCREEN",
@@ -13,4 +12,6 @@ return {
 		5781,
 	},
 	previous = 5779,
+	page_id = 5780,
+	long_title = false,
 }

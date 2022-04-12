@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Check the latest page of the Midnight Crew.",
-	pageId = 327,
 	timestamp = "1246672926",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		328,
 	},
 	previous = 326,
+	page_id = 327,
+	long_title = true,
 }

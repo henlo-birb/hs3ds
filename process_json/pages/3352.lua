@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine Feferi.",
-	pageId = 3352,
 	timestamp = "1295905953",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		3353,
 	},
 	previous = 3351,
+	page_id = 3352,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Watch the meteor impact.",
-	pageId = 986,
 	timestamp = "1260406569",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		987,
 	},
 	previous = 985,
+	page_id = 986,
+	long_title = false,
 }

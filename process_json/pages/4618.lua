@@ -1,6 +1,5 @@
 return {
 	title = "Jaspersprite: Say hi to everybody!",
-	pageId = 4618,
 	timestamp = "1330303376",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4619,
 	},
 	previous = 4617,
+	page_id = 4618,
+	long_title = true,
 }

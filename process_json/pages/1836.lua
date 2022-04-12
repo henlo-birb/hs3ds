@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine smuppet and Felt poster.",
-	pageId = 1836,
 	timestamp = "1273798275",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1837,
 	},
 	previous = 1835,
+	page_id = 1836,
+	long_title = true,
 }

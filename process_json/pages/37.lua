@@ -1,6 +1,5 @@
 return {
 	title = "John: Allocate hammer to strife specibus.",
-	pageId = 37,
 	timestamp = "1239918920",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		38,
 	},
 	previous = 36,
+	page_id = 37,
+	long_title = true,
 }

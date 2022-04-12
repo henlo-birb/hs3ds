@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Release him.",
-	pageId = 3566,
 	timestamp = "1298412954",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3567,
 	},
 	previous = 3565,
+	page_id = 3566,
+	long_title = false,
 }

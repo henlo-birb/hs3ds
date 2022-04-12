@@ -1,6 +1,5 @@
 return {
 	title = "PM: Scamper quickly to the newly created hole.",
-	pageId = 1124,
 	timestamp = "1262657016",
 	flag = {
 		"R4",
@@ -29,4 +28,6 @@ return {
 		1125,
 	},
 	previous = 1123,
+	page_id = 1124,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "THIS IS MY NADIR.",
-	pageId = 6925,
 	timestamp = "1414892235",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 	},
 	previous = 6924,
 	theme = "A6A6",
+	page_id = 6925,
+	long_title = false,
 }

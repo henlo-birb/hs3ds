@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7013,
 	timestamp = "1415765690",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: this is where you and your\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"brother lived?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: this is where you and your brother lived?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: u_u",
+		"CALLIOPE: u_u\
+",
 	},
 	next = {
 		7014,
 	},
 	previous = 7012,
+	page_id = 7013,
+	long_title = false,
 }

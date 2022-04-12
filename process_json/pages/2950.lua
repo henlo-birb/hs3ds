@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Defend treasure.",
-	pageId = 2950,
 	timestamp = "1291160153",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		2951,
 	},
 	previous = 2949,
+	page_id = 2950,
+	long_title = false,
 }

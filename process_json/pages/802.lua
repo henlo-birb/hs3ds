@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Retrieve fursuit from magic chest.",
-	pageId = 802,
 	timestamp = "1256342743",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		803,
 	},
 	previous = 801,
+	page_id = 802,
+	long_title = true,
 }

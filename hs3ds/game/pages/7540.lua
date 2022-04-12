@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7540,
 	timestamp = "1431650656",
 	flag = {},
 	media = {
@@ -12,178 +11,552 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: what is it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what is it?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: It's Earth!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It's Earth!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Remem8er how three years ago you told Terezi we needed your wallet, 8ut you didn't have it?",
+		"VRISKA: Remem8er how three years ago\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Well in the time since, we talked a8out it a lot, and figured this was most likely the reason she told you to give it to us.",
+		"you told Terezi we needed your wallet,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8ut you didn't have it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It wasn't a 8ig deal, actually.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: We spent some time deciphering the code for your wallet. It took a little while, and a few lucky guesses on the code digits, 8ut we eventually got there.",
+		"VRISKA: Well in the time since, we\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"talked a8out it a lot, and figured\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this was most likely the reason she\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"told you to give it to us.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Then I just used it to upgrade my much cooler 8 8all modus.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It wasn't a 8ig deal,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"actually.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: We spent some time deciphering\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the code for your wallet. It took a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"little while, and a few lucky guesses\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"on the code digits, 8ut we eventually\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"got there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Then I just used it to upgrade\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"my much cooler 8 8all modus.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: you hacked my dad's wallet??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: you hacked my dad's wallet??",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Sure. Like I said, we had some time on our hands.",
+		"VRISKA: Sure. Like I said, we had some\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"time on our hands.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It is after all just a fucking wallet. It's not like it's some legendary item he got on some mythical dad quest.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: It is after all just a fucking\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wallet. It's not like it's some\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"legendary item he got on some mythical\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"dad quest.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: I mean, he did 8UY the thing somewhere, right?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I mean, he did 8UY the thing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"somewhere, right?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: um. yeah, i guess so.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: um. yeah, i guess so.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i dunno.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i dunno.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i still think it's a pretty special thing.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Nope!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Sorry to 8e the 8earer of 8ad news. It is literally... just a wallet.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Anyway.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Then, 8efore I did the scouting work on this session, I rode the meteor through the g8, watched it crash on Earth, then just captchalogued the whole damn thing and got out of there.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: No sweat!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Presuma8ly like Grim8ark Jade was supposed to, if she wasn't asleep.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Again, it was a pretty good plan, she just never saw me coming.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Sorry Condy, if you want your waterlogged little glo8e 8ack, you'll have to pry it from John's dead hands now.",
+		"JOHN: i still think it's a pretty\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"special thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: er.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Nope!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sorry to 8e the 8earer of 8ad\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"news. It is literally... just a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wallet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Anyway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Then, 8efore I did the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"scouting work on this session, I rode\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the meteor through the g8, watched it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"crash on Earth, then just\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"captchalogued the whole damn thing and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"got out of there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No sweat!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Presuma8ly like Grim8ark Jade\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was supposed to, if she wasn't asleep.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Again, it was a pretty good\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"plan, she just never saw me coming.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sorry Condy, if you want your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"waterlogged little glo8e 8ack, you'll\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"have to pry it from John's dead hands\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: er.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ...yeah.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ...yeah.\
+",
 	},
 	next = {
 		7541,
 	},
 	previous = 7539,
+	page_id = 7540,
+	long_title = false,
 }

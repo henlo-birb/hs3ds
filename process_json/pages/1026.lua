@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Dream up extra arms and play advanced bass solo.",
-	pageId = 1026,
 	timestamp = "1261128437",
 	flag = {
 		"F",
@@ -16,4 +15,6 @@ return {
 		1027,
 	},
 	previous = 1025,
+	page_id = 1026,
+	long_title = true,
 }

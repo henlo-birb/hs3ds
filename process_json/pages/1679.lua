@@ -1,6 +1,5 @@
 return {
 	title = "AH: This is stupid. Stop being a wiseass and get drawing.",
-	pageId = 1679,
 	timestamp = "1271388770",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1680,
 	},
 	previous = 1678,
+	page_id = 1679,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine camera and captchalogue card.",
-	pageId = 1841,
 	timestamp = "1273812736",
 	flag = {},
 	media = {
@@ -98,4 +97,6 @@ return {
 		1842,
 	},
 	previous = 1840,
+	page_id = 1841,
+	long_title = true,
 }

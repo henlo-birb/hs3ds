@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4132,
 	timestamp = "1321166009",
 	flag = {},
 	media = {
@@ -12,18 +11,90 @@ return {
 			0,
 			0,
 		},
-		"He just captchalogued the CAR. Oh, that's right. He was going to wash it today. He's probably taking it into the back yard next to the garden hose. He keeps a very busy fatherly itinerary. So many dad things to do, every single day.",
+		"He just captchalogued the CAR. Oh,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that's right. He was going to wash it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"today. He's probably taking it into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the back yard next to the garden hose.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He keeps a very busy fatherly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"itinerary. So many dad things to do,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"every single day.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If the mail arrives soon, this would be a great opportunity to sneak out and get it! Fingers crossed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If the mail arrives soon, this would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be a great opportunity to sneak out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and get it! Fingers crossed.\
+",
 	},
 	next = {
 		4133,
 	},
 	previous = 4131,
+	page_id = 4132,
+	long_title = false,
 }

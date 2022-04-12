@@ -1,6 +1,5 @@
 return {
 	title = "Remove CAKE from MAGIC CHEST.",
-	pageId = 6,
 	timestamp = "1239607471",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Out of sympathy for John's perceived lack of arms, you pick up the CAKE for him and put it on his BED.",
+		"Out of sympathy for John's perceived\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lack of arms, you pick up the CAKE for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him and put it on his BED.\
+",
 	},
 	next = {
 		7,
 	},
 	previous = 5,
+	page_id = 6,
+	long_title = false,
 }

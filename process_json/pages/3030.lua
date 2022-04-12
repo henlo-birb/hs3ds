@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Duplicate disc.",
-	pageId = 3030,
 	timestamp = "1291847389",
 	flag = {},
 	media = {
@@ -474,4 +473,6 @@ return {
 		3031,
 	},
 	previous = 3029,
+	page_id = 3030,
+	long_title = false,
 }

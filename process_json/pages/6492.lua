@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: BE ON ROOF.",
-	pageId = 6492,
 	timestamp = "1377837103",
 	flag = {
 		"R4",
@@ -51,4 +50,6 @@ return {
 	},
 	previous = 6491,
 	theme = "A6A6",
+	page_id = 6492,
+	long_title = false,
 }

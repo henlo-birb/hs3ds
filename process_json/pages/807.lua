@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Feed your friend.",
-	pageId = 807,
 	timestamp = "1256419655",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		808,
 	},
 	previous = 806,
+	page_id = 807,
+	long_title = false,
 }

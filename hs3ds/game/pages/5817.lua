@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5817,
 	timestamp = "1359848394",
 	flag = {
 		"X2COMBO",
@@ -14,101 +13,300 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: How long do you think it's been a\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"problem?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: How long do you think it's been a problem?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i dont know its hard to say exactly when i started getting real carried away",
+		"TG: i dont know its hard to say\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: just at some point i discovered a load of my moms centurys old booze in the house",
+		"exactly when i started getting real\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"carried away\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and i didnt have much to relate to her by except her books",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: so i felt like drinking was a way to be more like her",
+		"TG: just at some point i discovered a\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: or be closer to her kinda",
+		"load of my moms centurys old booze in\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"the house\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and there was nobody around except the silly chess people",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: who in a way just made me feel more alone",
+		"TG: and i didnt have much to relate to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"her by except her books\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: cause they reminded me i was only one of two humans left and the other was an ocean away",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: so little by little",
+		"TG: so i felt like drinking was a way\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"to be more like her\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i got out of hand",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: or be closer to her kinda\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and one of the only things i had to look forward to was the idea that the game was supposed to be able to bring my mom back",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: and there was nobody around except\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the silly chess people\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: assuming i even decided to help the batterwitch out by playing at all",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: who in a way just made me feel\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"more alone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: cause they reminded me i was only\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"one of two humans left and the other\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"was an ocean away\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: so little by little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i got out of hand\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: and one of the only things i had\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"to look forward to was the idea that\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the game was supposed to be able to\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"bring my mom back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: assuming i even decided to help\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the batterwitch out by playing at all\
+",
 	},
 	next = {
 		5818,
 	},
 	previous = 5816,
+	page_id = 5817,
+	long_title = false,
 }

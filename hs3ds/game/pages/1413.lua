@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1413,
 	timestamp = "1266530092",
 	flag = {},
 	media = {
@@ -13,26 +12,125 @@ return {
 			0,
 			0,
 		},
-		"But instead she takes note of your nice chalk drawings and pays you a compliment.",
+		"But instead she takes note of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nice chalk drawings and pays you a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"compliment.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are somewhat mystified by the fact that she is be more impressed by your silly drawings than your amazing technology.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe simple things are the key to the heart of a lady. You do not know because you do not know anything about ladies really. They are a riddle draped in a mystery wrapped in post-apocalyptic shroudwear.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are somewhat mystified by the fact\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that she is be more impressed by your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"silly drawings than your amazing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"technology.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe simple things are the key to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heart of a lady. You do not know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because you do not know anything about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ladies really. They are a riddle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"draped in a mystery wrapped in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"post-apocalyptic shroudwear.\
+",
 	},
 	next = {
 		1414,
 	},
 	previous = 1412,
+	page_id = 1413,
+	long_title = false,
 }

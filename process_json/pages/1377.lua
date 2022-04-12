@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quick! Random scribbling!",
-	pageId = 1377,
 	timestamp = "1265958217",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1378,
 	},
 	previous = 1376,
+	page_id = 1377,
+	long_title = false,
 }

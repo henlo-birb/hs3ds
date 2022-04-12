@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Check the blue box.",
-	pageId = 318,
 	timestamp = "1246401197",
 	flag = {
 		"R4",
@@ -148,4 +147,6 @@ return {
 		319,
 	},
 	previous = 317,
+	page_id = 318,
+	long_title = false,
 }

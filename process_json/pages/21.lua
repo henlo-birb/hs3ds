@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine Deep Impact poster.",
-	pageId = 21,
 	timestamp = "1239745996",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		22,
 	},
 	previous = 20,
+	page_id = 21,
+	long_title = true,
 }

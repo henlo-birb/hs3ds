@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7386,
 	timestamp = "1421211543",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
-		"\
-SOLLUX: mutha.",
+		"SOLLUX: mutha.\
+",
 	},
 	next = {
 		7387,
 	},
 	previous = 7385,
+	page_id = 7386,
+	long_title = false,
 }

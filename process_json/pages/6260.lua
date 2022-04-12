@@ -1,6 +1,5 @@
 return {
 	title = "MALE: LEAVE BUILDING.",
-	pageId = 6260,
 	timestamp = "1371080076",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6259,
 	theme = "A6A6",
+	page_id = 6260,
+	long_title = false,
 }

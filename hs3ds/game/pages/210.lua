@@ -1,6 +1,5 @@
 return {
 	title = "John: Activate lathe.",
-	pageId = 210,
 	timestamp = "1243298292",
 	flag = {},
 	media = {
@@ -13,18 +12,34 @@ return {
 			0,
 			0,
 		},
-		"The lathe carves ONE (1) TOTEM. ",
+		"The lathe carves ONE (1) TOTEM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You take the TOTEM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You take the TOTEM.\
+",
 	},
 	next = {
 		211,
 	},
 	previous = 209,
+	page_id = 210,
+	long_title = false,
 }

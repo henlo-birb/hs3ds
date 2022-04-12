@@ -1,6 +1,5 @@
 return {
 	title = "Wait! More troll romance exposition please.",
-	pageId = 2403,
 	timestamp = "1281635484",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2404,
 	},
 	previous = 2402,
+	page_id = 2403,
+	long_title = true,
 }

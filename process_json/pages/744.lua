@@ -1,6 +1,5 @@
 return {
 	title = "WV: Appearify your trusty knife.",
-	pageId = 744,
 	timestamp = "1254706676",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		745,
 	},
 	previous = 743,
+	page_id = 744,
+	long_title = false,
 }

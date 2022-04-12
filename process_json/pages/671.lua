@@ -1,6 +1,5 @@
 return {
 	title = "WV: Pick up the can of gravy. Just pick it up.",
-	pageId = 671,
 	timestamp = "1253594946",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		672,
 	},
 	previous = 670,
+	page_id = 671,
+	long_title = true,
 }

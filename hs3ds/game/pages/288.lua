@@ -1,6 +1,5 @@
 return {
 	title = "ENOUGH STRANGE POETRY FROM THE RED TEXT.",
-	pageId = 288,
 	timestamp = "1245710099",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You head out to the balcony to find out what Rose has in mind. She is messaging you again.",
+		"You head out to the balcony to find\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out what Rose has in mind. She is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"messaging you again.\
+",
 	},
 	next = {
 		289,
 	},
 	previous = 287,
+	page_id = 288,
+	long_title = true,
 }

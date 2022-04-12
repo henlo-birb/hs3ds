@@ -1,6 +1,5 @@
 return {
 	title = "Snowman: Continue briefing.",
-	pageId = 2557,
 	timestamp = "1283139631",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2558,
 	},
 	previous = 2556,
+	page_id = 2557,
+	long_title = false,
 }

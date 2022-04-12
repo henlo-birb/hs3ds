@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Admire posters.",
-	pageId = 2117,
 	timestamp = "1277835528",
 	flag = {},
 	media = {
@@ -201,4 +200,6 @@ return {
 		2118,
 	},
 	previous = 2116,
+	page_id = 2117,
+	long_title = false,
 }

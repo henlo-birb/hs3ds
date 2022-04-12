@@ -1,6 +1,5 @@
 return {
 	title = "WQ: Approach queen.",
-	pageId = 3016,
 	timestamp = "1291773756",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3017,
 	},
 	previous = 3015,
+	page_id = 3016,
+	long_title = false,
 }

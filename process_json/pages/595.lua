@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Open refrigerator.",
-	pageId = 595,
 	timestamp = "1252210588",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		596,
 	},
 	previous = 594,
+	page_id = 595,
+	long_title = false,
 }

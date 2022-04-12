@@ -1,6 +1,5 @@
 return {
 	title = "AND AGAIN I WILL RISE.",
-	pageId = 6937,
 	timestamp = "1414892814",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 	},
 	previous = 6936,
 	theme = "A6A6",
+	page_id = 6937,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "THE BOX!!!!!!",
-	pageId = 404,
 	timestamp = "1248656721",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Now why couldn't he put the bunny back in the box?",
+		"Now why couldn't he put the bunny back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the box?\
+",
 	},
 	next = {
 		405,
 	},
 	previous = 403,
+	page_id = 404,
+	long_title = false,
 }

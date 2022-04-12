@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Fine, equip that then.",
-	pageId = 2325,
 	timestamp = "1280616655",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2326,
 	},
 	previous = 2324,
+	page_id = 2325,
+	long_title = false,
 }

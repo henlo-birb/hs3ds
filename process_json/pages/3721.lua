@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Climb stairs.",
-	pageId = 3721,
 	timestamp = "1303170315",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		3722,
 	},
 	previous = 3720,
+	page_id = 3721,
+	long_title = false,
 }

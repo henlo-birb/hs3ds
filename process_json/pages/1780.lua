@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Prepare to depart for battlefield.",
-	pageId = 1780,
 	timestamp = "1272502648",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1781,
 	},
 	previous = 1779,
+	page_id = 1780,
+	long_title = true,
 }

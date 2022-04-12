@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1076,
 	timestamp = "1262143191",
 	flag = {},
 	media = {
@@ -13,18 +12,111 @@ return {
 			0,
 			0,
 		},
-		"Bec has never allowed you to enter the MYSTIC RUINS for reasons you never understood. You always assumed it was on account of your protection. But your dream has strongly suggested to you that is where you need to go now!",
+		"Bec has never allowed you to enter the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MYSTIC RUINS for reasons you never\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understood. You always assumed it was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on account of your protection. But\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your dream has strongly suggested to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you that is where you need to go now!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Since your DREAMBOT is secured in its chamber and does not need to be looked after, Bec is taking a nap in the GRAND FOYER as he usually does. Perhaps you can take advantage of this and sneak out of the house another way?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Since your DREAMBOT is secured in its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chamber and does not need to be looked\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"after, Bec is taking a nap in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRAND FOYER as he usually does.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Perhaps you can take advantage of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and sneak out of the house another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way?\
+",
 	},
 	next = {
 		1077,
 	},
 	previous = 1075,
+	page_id = 1076,
+	long_title = false,
 }

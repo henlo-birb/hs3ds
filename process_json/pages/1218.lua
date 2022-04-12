@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Pry the wall from the safe.",
-	pageId = 1218,
 	timestamp = "1264129969",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		1219,
 	},
 	previous = 1217,
+	page_id = 1218,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5820,
 	timestamp = "1359848802",
 	flag = {
 		"X2COMBO",
@@ -16,24 +15,48 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: The whole place was shaking for a\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"moment there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: The whole place was shaking for a moment there.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: wut",
+		"TG: wut\
+",
 	},
 	next = {
 		5821,
 	},
 	previous = 5819,
+	page_id = 5820,
+	long_title = false,
 }

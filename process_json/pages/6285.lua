@@ -1,13 +1,14 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = "008185",
 	timestamp = "1371338547",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/06283.gif",
+		"06283",
 	},
 	content = {},
 	next = {
 		6286,
 	},
+	page_id = 6285,
+	long_title = false,
 }

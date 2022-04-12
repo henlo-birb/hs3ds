@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Examine little posters.",
-	pageId = 4527,
 	timestamp = "1328055918",
 	flag = {},
 	media = {
@@ -285,4 +284,6 @@ return {
 		4528,
 	},
 	previous = 4526,
+	page_id = 4527,
+	long_title = false,
 }

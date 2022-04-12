@@ -1,6 +1,5 @@
 return {
 	title = "TA: Fix GA's computer.",
-	pageId = 1744,
 	timestamp = "1272067781",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1745,
 	},
 	previous = 1743,
+	page_id = 1744,
+	long_title = false,
 }

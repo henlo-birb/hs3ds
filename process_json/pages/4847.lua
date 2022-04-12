@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Complete brobot.",
-	pageId = 4847,
 	timestamp = "1335126508",
 	flag = {},
 	media = {
@@ -880,4 +879,6 @@ return {
 		4848,
 	},
 	previous = 4846,
+	page_id = 4847,
+	long_title = false,
 }

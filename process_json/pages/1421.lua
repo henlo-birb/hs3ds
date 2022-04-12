@@ -1,6 +1,5 @@
 return {
 	title = "There is nothing inside. Should we put something in?",
-	pageId = 1421,
 	timestamp = "1266539261",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		1422,
 	},
 	previous = 1420,
+	page_id = 1421,
+	long_title = true,
 }

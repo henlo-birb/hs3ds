@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5210,
 	timestamp = "1340874256",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: So...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: So...",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Here's the thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Here's the thing.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: I have to go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: I have to go.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: Like, right now.",
+		"DIRK: Like, right now.\
+",
 	},
 	next = {
 		5211,
 	},
 	previous = 5209,
+	page_id = 5210,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Remember.",
-	pageId = 2946,
 	timestamp = "1291088943",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2947,
 	},
 	previous = 2945,
+	page_id = 2946,
+	long_title = false,
 }

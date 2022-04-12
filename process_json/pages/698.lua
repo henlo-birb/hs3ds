@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use your own pee for the commercial zones.",
-	pageId = 698,
 	timestamp = "1253945280",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		699,
 	},
 	previous = 697,
+	page_id = 698,
+	long_title = true,
 }

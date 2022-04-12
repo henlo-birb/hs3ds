@@ -1,6 +1,5 @@
 return {
 	title = "STEEDS: RIDE.",
-	pageId = 6499,
 	timestamp = "1377919379",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 	},
 	previous = 6498,
 	theme = "A6A6",
+	page_id = 6499,
+	long_title = false,
 }

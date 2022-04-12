@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Sniff Skaiaward.",
-	pageId = 2744,
 	timestamp = "1286846137",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		2745,
 	},
 	previous = 2743,
+	page_id = 2744,
+	long_title = false,
 }

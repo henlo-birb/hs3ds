@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6587,
 	timestamp = "1378582711",
 	flag = {},
 	media = {
@@ -12,257 +11,335 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"who took my ship??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"who took my ship??",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"I don't know.",
+		"I don't know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"When I arrived, it was already parked here.",
+		"When I arrived, it was already parked\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"Most illegally, I might add.",
+		"Most illegally, I might add.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"that is SO illegal\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"that is SO illegal",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"maybe we should call in some authority\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"regulators to have it ticketed and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"towed\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"maybe we should call in some authority regulators to have it ticketed and towed",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"If you really wanted to relocate the vehicle, couldn't you just.",
+		"If you really wanted to relocate the\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"vehicle, couldn't you just.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"You know. Teleport it somewhere else?",
+		"You know. Teleport it somewhere else?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"yes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"yes",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"but i love watching those guys write\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"their little tickets\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"but i love watching those guys write their little tickets",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE:\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"theyre so cute\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"theyre so cute",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"Indeed.",
+		"Indeed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"But observing adorable creatures issue citations will not address our problem.",
+		"But observing adorable creatures issue\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"citations will not address our\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"problem.\
+",
 	},
 	next = {
 		6588,
 	},
 	previous = 6586,
+	page_id = 6587,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Davesprite: Defend.",
-	pageId = 2840,
 	timestamp = "1288938214",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: caw caw motherfuckers",
+		"DAVESPRITE: caw caw motherfuckers\
+",
 	},
 	next = {
 		2841,
 	},
 	previous = 2839,
+	page_id = 2840,
+	long_title = false,
 }

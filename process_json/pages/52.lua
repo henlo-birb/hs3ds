@@ -1,6 +1,5 @@
 return {
 	title = "John: Fondly regard cremation.",
-	pageId = 52,
 	timestamp = "1240093894",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		53,
 	},
 	previous = 51,
+	page_id = 52,
+	long_title = false,
 }

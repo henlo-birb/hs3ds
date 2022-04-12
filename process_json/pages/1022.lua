@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Build as much as you can as fast as you can.",
-	pageId = 1022,
 	timestamp = "1261008164",
 	flag = {},
 	media = {
@@ -369,4 +368,6 @@ return {
 		1023,
 	},
 	previous = 1021,
+	page_id = 1022,
+	long_title = true,
 }

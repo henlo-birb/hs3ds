@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Burst in thrusting bull penis cane.",
-	pageId = 1258,
 	timestamp = "1264539958",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1259,
 	},
 	previous = 1257,
+	page_id = 1258,
+	long_title = true,
 }

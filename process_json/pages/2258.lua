@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Contact partner in crime.",
-	pageId = 2258,
 	timestamp = "1279360326",
 	flag = {},
 	media = {
@@ -803,4 +802,6 @@ return {
 		2259,
 	},
 	previous = 2257,
+	page_id = 2258,
+	long_title = true,
 }

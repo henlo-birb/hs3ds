@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue Fruit Gushers.",
-	pageId = 975,
 	timestamp = "1260056816",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		976,
 	},
 	previous = 974,
+	page_id = 975,
+	long_title = true,
 }

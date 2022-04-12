@@ -1,6 +1,5 @@
 return {
 	title = "Be Jack Noir.",
-	pageId = 3546,
 	timestamp = "1298146650",
 	flag = {},
 	media = {
@@ -12,26 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You are now Jack Noir.",
+		"You are now Jack Noir.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have just murdered an innocent family.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What will you do?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have just murdered an innocent\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"family.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What will you do?\
+",
 	},
 	next = {
 		3547,
 	},
 	previous = 3545,
+	page_id = 3546,
+	long_title = false,
 }

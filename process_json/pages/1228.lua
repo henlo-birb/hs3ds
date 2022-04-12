@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Take a good look around the new room you're in.",
-	pageId = 1228,
 	timestamp = "1264200704",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1229,
 	},
 	previous = 1227,
+	page_id = 1228,
+	long_title = true,
 }

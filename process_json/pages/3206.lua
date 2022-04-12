@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Pester Tavros.",
-	pageId = 3206,
 	timestamp = "1293780971",
 	flag = {},
 	media = {
@@ -250,4 +249,6 @@ return {
 		3207,
 	},
 	previous = 3205,
+	page_id = 3206,
+	long_title = false,
 }

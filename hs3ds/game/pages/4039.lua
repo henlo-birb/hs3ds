@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4039,
 	timestamp = "1312836253",
 	flag = {},
 	media = {
@@ -12,19 +11,42 @@ return {
 			0,
 			0,
 		},
-		"No, stop that.",
+		"No, stop that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You render yourself in a more symbolic manner this instant.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You render yourself in a more symbolic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"manner this instant.\
+",
 	},
 	next = {
 		4040,
 	},
 	previous = 4038,
 	theme = "scratch",
+	page_id = 4039,
+	long_title = false,
 }

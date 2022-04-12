@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Answer Equius.",
-	pageId = 2825,
 	timestamp = "1288662690",
 	flag = {},
 	media = {
@@ -1720,4 +1719,6 @@ return {
 		2826,
 	},
 	previous = 2824,
+	page_id = 2825,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Be Aradia.",
-	pageId = 3565,
 	timestamp = "1298411408",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		3566,
 	},
 	previous = 3564,
+	page_id = 3565,
+	long_title = false,
 }

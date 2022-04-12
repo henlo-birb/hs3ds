@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Read it.",
-	pageId = 3741,
 	timestamp = "1303588980",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		3742,
 	},
 	previous = 3740,
+	page_id = 3741,
+	long_title = false,
 }

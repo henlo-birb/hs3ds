@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Call Spades.",
-	pageId = 1298,
 	timestamp = "1265144368",
 	flag = {},
 	media = {
@@ -265,4 +264,6 @@ return {
 		1299,
 	},
 	previous = 1297,
+	page_id = 1298,
+	long_title = false,
 }

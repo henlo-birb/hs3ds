@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Ignore him and just pry the safe open.",
-	pageId = 1336,
 	timestamp = "1265617086",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1337,
 	},
 	previous = 1335,
+	page_id = 1336,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WAIT. TAKE THAT. THE BLUE WOBBLY THING.",
-	pageId = 259,
 	timestamp = "1245127166",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		260,
 	},
 	previous = 258,
+	page_id = 259,
+	long_title = true,
 }

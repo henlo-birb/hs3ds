@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Let's play a game.",
-	pageId = 928,
 	timestamp = "1259528972",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		929,
 	},
 	previous = 927,
+	page_id = 928,
+	long_title = false,
 }

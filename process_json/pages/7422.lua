@@ -1,6 +1,5 @@
 return {
 	title = "AND RULES AND STUFF.",
-	pageId = 7422,
 	timestamp = "1428979237",
 	flag = {
 		"F",
@@ -239,4 +238,6 @@ return {
 	},
 	previous = 7421,
 	theme = "A6A6",
+	page_id = 7422,
+	long_title = false,
 }

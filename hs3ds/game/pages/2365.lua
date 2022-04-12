@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Fly, Pupa!!!!!!!!",
-	pageId = 2365,
 	timestamp = "1281130589",
 	flag = {},
 	media = {
@@ -13,17 +12,27 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Flyyyyyyyy!",
+		"AG: Flyyyyyyyy!\
+",
 	},
 	next = {
 		2366,
 	},
 	previous = 2364,
+	page_id = 2365,
+	long_title = false,
 }

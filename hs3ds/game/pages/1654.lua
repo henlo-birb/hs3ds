@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Prepare for nap.",
-	pageId = 1654,
 	timestamp = "1270331612",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You bundle up your knittings into a cozy nest. You aren't all that tired though. It's hard to imagine falling asleep without the luxury of Harley's narcolepsy.",
+		"You bundle up your knittings into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cozy nest. You aren't all that tired\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though. It's hard to imagine falling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"asleep without the luxury of Harley's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"narcolepsy.\
+",
 	},
 	next = {
 		1655,
 	},
 	previous = 1653,
+	page_id = 1654,
+	long_title = false,
 }

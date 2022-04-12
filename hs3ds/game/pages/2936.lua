@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2936,
 	timestamp = "1291062843",
 	flag = {},
 	media = {
@@ -12,31 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: BUT IT'S A LOT MORE THAN THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: BUT IT'S A LOT MORE THAN THAT.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: AS THE DEFENDERS OF THEIR PLANETS, THEY'RE VIRTUALLY OMNIPOTENT.",
+		"CG: AS THE DEFENDERS OF THEIR PLANETS,\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"THEY'RE VIRTUALLY OMNIPOTENT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: PROTOTYPING ONE IS ABSOLUTELY UNCONSCIONABLE.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: PROTOTYPING ONE IS ABSOLUTELY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"UNCONSCIONABLE.\
+",
 	},
 	next = {
 		2937,
 	},
 	previous = 2935,
+	page_id = 2936,
+	long_title = false,
 }

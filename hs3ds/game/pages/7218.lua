@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7218,
 	timestamp = "1418964643",
 	flag = {},
 	media = {
@@ -12,80 +11,216 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: goodbye, rose. it makes me happy to see you alive and well, even if only for a minute.",
+		"JOHN: goodbye, rose. it makes me happy\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i'm going to make sure i never have to watch you die again.",
+		"to see you alive and well, even if\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"only for a minute.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: sorry if that sounds morbid and confusing, but... yeah.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: and if you see her around, say hello to roxy for me!",
+		"JOHN: i'm going to make sure i never\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"have to watch you die again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: haha, oh yeah. hey terezi.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i feel like this is some big joke you are in on too.",
+		"JOHN: sorry if that sounds morbid and\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"confusing, but... yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: but you probably don't have the slightest clue what's going on, do you?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: maybe it's better that way, heh.",
+		"JOHN: and if you see her around, say\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"hello to roxy for me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: anyway, the plan is going perfectly so far. ;)",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: haha, oh yeah. hey terezi.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: (i just winked.)",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i feel like this is some big\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"joke you are in on too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but you probably don't have the\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"slightest clue what's going on, do\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: maybe it's better that way, heh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: anyway, the plan is going\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"perfectly so far. ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: (i just winked.)\
+",
 	},
 	next = {
 		7219,
 	},
 	previous = 7217,
+	page_id = 7218,
+	long_title = false,
 }

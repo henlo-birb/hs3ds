@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Politely ask Clover to remain calm.",
-	pageId = 1324,
 	timestamp = "1265508157",
 	flag = {},
 	media = {
@@ -229,4 +228,6 @@ return {
 		1325,
 	},
 	previous = 1323,
+	page_id = 1324,
+	long_title = true,
 }

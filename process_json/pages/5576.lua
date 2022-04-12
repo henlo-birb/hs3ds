@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine wizardfic journal.",
-	pageId = 5576,
 	timestamp = "1355460882",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		5577,
 	},
 	previous = 5575,
+	page_id = 5576,
+	long_title = false,
 }

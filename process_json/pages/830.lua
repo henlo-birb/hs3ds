@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Open FreshJamz!",
-	pageId = 830,
 	timestamp = "1256977886",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 		831,
 	},
 	previous = 829,
+	page_id = 830,
+	long_title = false,
 }

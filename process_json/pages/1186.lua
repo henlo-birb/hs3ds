@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Stop being Hearts Boxcars.",
-	pageId = 1186,
 	timestamp = "1263880289",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		1187,
 	},
 	previous = 1185,
+	page_id = 1186,
+	long_title = true,
 }

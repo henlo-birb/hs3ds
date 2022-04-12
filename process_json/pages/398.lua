@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Forget the W and make haste to the mausoleum.",
-	pageId = 398,
 	timestamp = "1248479582",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		399,
 	},
 	previous = 397,
+	page_id = 398,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: On second thought, take his book.",
-	pageId = 4205,
 	timestamp = "1322110582",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		4206,
 	},
 	previous = 4204,
+	page_id = 4205,
+	long_title = true,
 }

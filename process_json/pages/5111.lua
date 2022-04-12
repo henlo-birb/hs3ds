@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Examine black tome.",
-	pageId = 5111,
 	timestamp = "1340181278",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		5112,
 	},
 	previous = 5110,
+	page_id = 5111,
+	long_title = false,
 }

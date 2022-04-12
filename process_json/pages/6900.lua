@@ -1,6 +1,5 @@
 return {
 	title = "GAME OVER KID.",
-	pageId = 6900,
 	timestamp = "1413697776",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6899,
 	theme = "A6A6",
+	page_id = 6900,
+	long_title = false,
 }

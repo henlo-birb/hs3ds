@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Use build grist to construct observation tower on roof",
-	pageId = 486,
 	timestamp = "1250395413",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		487,
 	},
 	previous = 485,
+	page_id = 486,
+	long_title = true,
 }

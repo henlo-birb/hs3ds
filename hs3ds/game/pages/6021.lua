@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6021,
 	timestamp = "1363828906",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: D4V3, YOU D1CK!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: D4V3, YOU D1CK!!!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: what\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: what",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: dont blame me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: dont blame me",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: i cant control the crab",
+		"DAVE: i cant control the crab\
+",
 	},
 	next = {
 		6022,
 	},
 	previous = 6020,
+	page_id = 6021,
+	long_title = false,
 }

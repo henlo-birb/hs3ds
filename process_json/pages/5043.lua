@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Follow the rabbit.",
-	pageId = 5043,
 	timestamp = "1339299742",
 	flag = {},
 	media = {
@@ -215,4 +214,6 @@ return {
 		5044,
 	},
 	previous = 5042,
+	page_id = 5043,
+	long_title = false,
 }

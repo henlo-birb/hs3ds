@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Give Tavros the bad news.",
-	pageId = 2164,
 	timestamp = "1278373936",
 	flag = {},
 	media = {
@@ -565,4 +564,6 @@ return {
 		2165,
 	},
 	previous = 2163,
+	page_id = 2164,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine neighborhood.",
-	pageId = 2004,
 	timestamp = "1276492454",
 	flag = {
 		"R4",
@@ -128,4 +127,6 @@ return {
 		2005,
 	},
 	previous = 2003,
+	page_id = 2004,
+	long_title = false,
 }

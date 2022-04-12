@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Answer Strider.",
-	pageId = 4256,
 	timestamp = "1322809686",
 	flag = {},
 	media = {
@@ -1209,4 +1208,6 @@ return {
 		4257,
 	},
 	previous = 4255,
+	page_id = 4256,
+	long_title = false,
 }

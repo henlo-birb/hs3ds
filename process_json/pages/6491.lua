@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: GO OUTSIDE.",
-	pageId = 6491,
 	timestamp = "1377823541",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 	},
 	previous = 6490,
 	theme = "A6A6",
+	page_id = 6491,
+	long_title = false,
 }

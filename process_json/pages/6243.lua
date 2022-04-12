@@ -1,6 +1,5 @@
 return {
 	title = "[S] ACT 6 ACT 6",
-	pageId = 6243,
 	timestamp = "1371078432",
 	flag = {
 		"F",
@@ -12,4 +11,6 @@ return {
 	next = {},
 	previous = 6242,
 	theme = "A6A6",
+	page_id = 6243,
+	long_title = false,
 }

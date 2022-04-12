@@ -1,6 +1,5 @@
 return {
 	title = "UU: Defeat uu.",
-	pageId = 5030,
 	timestamp = "1339139950",
 	flag = {
 		"F",
@@ -2352,4 +2351,6 @@ return {
 		5031,
 	},
 	previous = 5029,
+	page_id = 5030,
+	long_title = false,
 }

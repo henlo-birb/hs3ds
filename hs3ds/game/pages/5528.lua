@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5528,
 	timestamp = "1354510546",
 	flag = {},
 	media = {
@@ -12,256 +11,860 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: JAKE, LET ME ASK YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: JAKE, LET ME ASK YOU.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: DO YOU EVEN REMEMBER THE LAST TIME WE TALKED?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Hmm.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Wasnt it a few days ago?",
+		"GG: DO YOU EVEN REMEMBER THE LAST TIME\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"WE TALKED?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-GG: AND EVEN THEN, YOU MESSAGED ME JUST TO TALK ABOUT SOME STUPID SHIT THAT HAPPENED WITH DIRK.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Wasnt it a few days ago?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: A TEDIOUS GESTURE WHICH YOU THEN SAW FIT TO REPRISE ON MY BIRTHDAY OF ALL DAYS, WHILST CONSIDERATELY FORGETTING ABOUT IT!",
+		"GG: AND EVEN THEN, YOU MESSAGED ME\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: AND EVEN WHEN I REMINDED YOU ABOUT IT, YOU STILL BARGED AHEAD WITH YOUR SELF-INDULGENT RELATIONSHIP CLAPTRAP ANYWAY!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I didnt realize it was so long ago. Sorry about that.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Again all i can say is where does the time go? I guess i have trouble keeping up with everything im supposed to. Which it would seem includes personal relationships as much as calendars.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Im not much of a leader of people. Not like you are jane. I think when it comes to adventuring maybe im more of a solo act?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Which now that i think about it might be contributing to my problems with dirk. Maybe thats part of the reason why i needed some space?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Oh brother there i go again blustering about my problems. I guess i see what you mean.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: But really if you wanted to talk sooner then why didnt you get in touch with me?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: It feels as though im always the one to say hello to you lately.",
+		"JUST TO TALK ABOUT SOME STUPID SHIT\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"THAT HAPPENED WITH DIRK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: YEAH! THAT'S BECAUSE EVERY SINGLE TIME WE CHAT, YOU DO NOTHING BUT TALK ABOUT YOURSELF!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: YOU NEVER ASK ME HOW I'M FEELING OR WHAT I'VE BEEN UP TO. YOU JUST LAUNCH INTO YOUR ROMANTIC PROBLEMS, AND I JUST LISTEN LIKE AN ACCOMMODATING FOOL AS ALWAYS!",
+		"GG: A TEDIOUS GESTURE WHICH YOU THEN\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: SO I JUST STOPPED BOTHERING! WHY SHOULD I SUBJECT MYSELF TO THAT REPEATEDLY?!",
+		"SAW FIT TO REPRISE ON MY BIRTHDAY OF\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: YOU MIGHT ACTUALLY BE THE MOST THOUGHTLESS, SELF-CENTERED PERSON I HAVE EVER MET!",
+		"ALL DAYS, WHILST CONSIDERATELY\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: I CAN'T BELIEVE I USED TO FEEL...",
+		"FORGETTING ABOUT IT!\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Huh?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Used to feel what?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: JAKE, HAS IT EVER OCCURRED TO YOU HOW IT MUST FEEL FOR SOMEONE TO LISTEN TO HER FRIEND GO ON AND ON ABOUT HIS BOYFRIEND PROBLEMS WHEN...",
+		"GG: AND EVEN WHEN I REMINDED YOU ABOUT\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: WHEN ALL ALONG SHE...",
+		"IT, YOU STILL BARGED AHEAD WITH YOUR\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: BUT SHE JUST COULDN'T SAY BECAUSE SHE BLEW IT AND IT WAS TOO LATE TO...",
+		"SELF-INDULGENT RELATIONSHIP CLAPTRAP\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"ANYWAY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I DON'T EVEN KNOW WHY I'M BOTHERING TO EXPLAIN THIS TO YOU. NEVER MIND.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Now hold the phone.",
+		"GT: I didnt realize it was so long\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"ago. Sorry about that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Jane i think i may finally understand whats been going on here.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: In retrospect i cant believe ive been this blind.",
+		"GT: Again all i can say is where does\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Youre right i really can be deplorably thick sometimes.",
+		"the time go? I guess i have trouble\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Looking back i can see how many of our conversations must have been torment for you.",
+		"keeping up with everything im supposed\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"to. Which it would seem includes\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"personal relationships as much as\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"calendars.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: You really should have told me how you felt sooner!",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Im not much of a leader of people.\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"Not like you are jane. I think when it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"comes to adventuring maybe im more of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"a solo act?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Which now that i think about it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"might be contributing to my problems\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"with dirk. Maybe thats part of the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"reason why i needed some space?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Oh brother there i go again\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"blustering about my problems. I guess\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"i see what you mean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But really if you wanted to talk\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"sooner then why didnt you get in touch\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"with me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: It feels as though im always the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"one to say hello to you lately.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: YEAH. I...",
+		"GG: YEAH! THAT'S BECAUSE EVERY SINGLE\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"TIME WE CHAT, YOU DO NOTHING BUT TALK\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"ABOUT YOURSELF!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I know. :(",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: YOU NEVER ASK ME HOW I'M FEELING\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"OR WHAT I'VE BEEN UP TO. YOU JUST\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"LAUNCH INTO YOUR ROMANTIC PROBLEMS,\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"AND I JUST LISTEN LIKE AN\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"ACCOMMODATING FOOL AS ALWAYS!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: SO I JUST STOPPED BOTHERING! WHY\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"SHOULD I SUBJECT MYSELF TO THAT\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"REPEATEDLY?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: YOU MIGHT ACTUALLY BE THE MOST\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"THOUGHTLESS, SELF-CENTERED PERSON I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"HAVE EVER MET!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I CAN'T BELIEVE I USED TO FEEL...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: If you told me you had the hots for dirk i would have backed off without another word.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Used to feel what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: What are friends for!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: JAKE, HAS IT EVER OCCURRED TO YOU\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"HOW IT MUST FEEL FOR SOMEONE TO LISTEN\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"TO HER FRIEND GO ON AND ON ABOUT HIS\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"BOYFRIEND PROBLEMS WHEN...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: WHEN ALL ALONG SHE...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: BUT SHE JUST COULDN'T SAY BECAUSE\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"SHE BLEW IT AND IT WAS TOO LATE TO...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I DON'T EVEN KNOW WHY I'M\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"BOTHERING TO EXPLAIN THIS TO YOU.\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NEVER MIND.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Now hold the phone.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Jane i think i may finally\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"understand whats been going on here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: In retrospect i cant believe ive\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"been this blind.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Youre right i really can be\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"deplorably thick sometimes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Looking back i can see how many of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"our conversations must have been\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"torment for you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: You really should have told me how\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"you felt sooner!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: YEAH. I...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I know. :(\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: If you told me you had the hots\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"for dirk i would have backed off\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"without another word.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What are friends for!\
+",
 	},
 	next = {
 		5529,
 	},
 	previous = 5527,
+	page_id = 5528,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1956,
 	timestamp = "1276065318",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"There is another letter from a different author...",
+		"There is another letter from a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"different author...\
+",
 	},
 	next = {
 		1957,
 	},
 	previous = 1955,
+	page_id = 1956,
+	long_title = false,
 }

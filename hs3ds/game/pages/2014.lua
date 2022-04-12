@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Captchalogue computer.",
-	pageId = 2014,
 	timestamp = "1276635091",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You take your HUSKTOP.",
+		"You take your HUSKTOP.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sometimes you just like to pick stuff up and watch the colors. It's so beautiful. Life is beautiful.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sometimes you just like to pick stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up and watch the colors. It's so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beautiful. Life is beautiful.\
+",
 	},
 	next = {
 		2015,
 	},
 	previous = 2013,
+	page_id = 2014,
+	long_title = false,
 }

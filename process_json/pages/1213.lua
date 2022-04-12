@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Make friends with Die.",
-	pageId = 1213,
 	timestamp = "1264108914",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1214,
 	},
 	previous = 1212,
+	page_id = 1213,
+	long_title = false,
 }

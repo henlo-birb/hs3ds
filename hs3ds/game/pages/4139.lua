@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Look around.",
-	pageId = 4139,
 	timestamp = "1321253547",
 	flag = {},
 	media = {
@@ -13,30 +12,111 @@ return {
 			0,
 			0,
 		},
-		"Yep. This one changed too. Crockercorp is nothing if not thorough with its branding tactics. You ",
+		"Yep. This one changed too. Crockercorp\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"guess",
+		"is nothing if not thorough with its\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" it's pretty cool? It's just a fork instead of a spoon. Not the most awe inspiring logo you've ever seen, but who are you to judge? Aside from the future owner of the company.",
+		"branding tactics. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it's pretty cool? It's just a fork\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instead of a spoon. Not the most awe\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inspiring logo you've ever seen, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"who are you to judge? Aside from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"future owner of the company.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(You make a mental note that when you turn 18 and inherit the company you will change it back to a spoon, you love the spoon.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(You make a mental note that when you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"turn 18 and inherit the company you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will change it back to a spoon, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"love the spoon.)\
+",
 	},
 	next = {
 		4140,
 	},
 	previous = 4138,
+	page_id = 4139,
+	long_title = false,
 }

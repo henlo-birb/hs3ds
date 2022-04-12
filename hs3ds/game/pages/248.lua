@@ -1,6 +1,5 @@
 return {
 	title = "Years in the future, but not many...",
-	pageId = 248,
 	timestamp = "1244595566",
 	flag = {
 		"R2",
@@ -14,10 +13,27 @@ return {
 			0,
 			0,
 		},
-		"A WAYWARD VAGABOND records a stuttering step in the sun-bleached dust.",
+		"A WAYWARD VAGABOND records a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stuttering step in the sun-bleached\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dust.\
+",
 	},
 	next = {
 		249,
 	},
 	previous = 247,
+	page_id = 248,
+	long_title = true,
 }

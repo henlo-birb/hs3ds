@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2828,
 	timestamp = "1288755655",
 	flag = {},
 	media = {
@@ -12,66 +11,139 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"CT: D --> What are you doing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CT: D --> What are you doing",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: whats it look like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: whats it look like",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"CT: D --> Careful\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CT: D --> Careful",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
-		"\
-CT: D --> About succumbing to these sorts of destructive",
+		"CT: D --> About succumbing to these\
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"sorts of destructive\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CT: D --> Urges",
+",
 		{
 			0.0,
 			0.0,
 			0.33725490196078434,
 		},
+		"CT: D --> Urges\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CT: D --> Addi%ion is a powerful thing",
+",
+		{
+			0.0,
+			0.0,
+			0.33725490196078434,
+		},
+		"CT: D --> Addi%ion is a powerful thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: so am i\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so am i",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: bow down before your new king bitch",
+		"TG: bow down before your new king\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"bitch\
+",
 	},
 	next = {
 		2829,
 	},
 	previous = 2827,
+	page_id = 2828,
+	long_title = false,
 }

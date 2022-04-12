@@ -1,6 +1,5 @@
 return {
 	title = "[S] Rose: Ascend.",
-	pageId = 879,
 	timestamp = "1258758761",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		880,
 	},
 	previous = 878,
+	page_id = 879,
+	long_title = false,
 }

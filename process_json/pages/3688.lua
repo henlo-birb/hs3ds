@@ -1,6 +1,5 @@
 return {
 	title = "John: Bid farewell.",
-	pageId = 3688,
 	timestamp = "1301095341",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3689,
 	},
 	previous = 3687,
+	page_id = 3688,
+	long_title = false,
 }

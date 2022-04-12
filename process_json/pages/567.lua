@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go into the kitchen.",
-	pageId = 567,
 	timestamp = "1251855567",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		568,
 	},
 	previous = 566,
+	page_id = 567,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Examine punched card.",
-	pageId = 2905,
 	timestamp = "1290273163",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		2906,
 	},
 	previous = 2904,
+	page_id = 2905,
+	long_title = false,
 }

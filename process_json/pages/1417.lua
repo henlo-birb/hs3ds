@@ -1,6 +1,5 @@
 return {
 	title = "I am told your name is John. Is that correct?",
-	pageId = 1417,
 	timestamp = "1266539122",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1418,
 	},
 	previous = 1416,
+	page_id = 1417,
+	long_title = true,
 }

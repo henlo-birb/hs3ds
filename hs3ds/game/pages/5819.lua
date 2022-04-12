@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5819,
 	timestamp = "1359848667",
 	flag = {
 		"X2COMBO",
@@ -15,171 +14,419 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i didnt want her to meet a sloppy embarrassing mess of a daughter",
+		"TG: i didnt want her to meet a sloppy\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"embarrassing mess of a daughter\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: even if she did like to drink at some point it was kind of a childish idea that doing so myself would make me closer to her or help us bond or whatever",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: anyway i think i might of overestimated her drinkin habits",
+		"TG: even if she did like to drink at\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: she sure didnt look like no drunk",
+		"some point it was kind of a childish\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: oh!",
+		"idea that doing so myself would make\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: jane did i mention",
+		"me closer to her or help us bond or\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"whatever\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i saw her in a dream today!",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: anyway i think i might of\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"overestimated her drinkin habits\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: she sure didnt look like no drunk\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: oh!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: jane did i mention\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i saw her in a dream today!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: No!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: No!",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: shes real young tho\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: shes real young tho",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: like our age\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like our age",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: and she looks so pretty and happy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: and she looks so pretty and happy",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: not like a girl w booze challenges\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: not like a girl w booze challenges",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: i think her fav color must be orange just like dirk",
+		"TG: i think her fav color must be\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"orange just like dirk\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: she was wearin the same sunny orange nighty deal i caught a glimpse of her in v briefly another time",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: and oh...",
+		"TG: she was wearin the same sunny\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"orange nighty deal i caught a glimpse\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"of her in v briefly another time\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: she also called me mom?",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: and oh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: she also called me mom?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Huh?",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: huh is right\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: huh is right",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: u know im really not sure if shes actually my mom",
+		"TG: u know im really not sure if shes\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"actually my mom\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: but i do know were totes genetically related somehow",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: but i do know were totes\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"genetically related somehow\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i just think theres more to it than we know",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i just think theres more to it\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"than we know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: I guess we'll find out!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I guess we'll find out!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Whoa...",
+		"GG: Whoa...\
+",
 	},
 	next = {
 		5820,
 	},
 	previous = 5818,
+	page_id = 5819,
+	long_title = false,
 }

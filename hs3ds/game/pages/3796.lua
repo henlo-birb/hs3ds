@@ -1,6 +1,5 @@
 return {
 	title = "[o] Instead, he got her.",
-	pageId = 3796,
 	timestamp = "1306393766",
 	flag = {},
 	media = {
@@ -12,27 +11,63 @@ return {
 			0,
 			0,
 		},
-		"The other Hero of Light. Always bugging him.",
+		"The other Hero of Light. Always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bugging him.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Bugging and fussing and meddling.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's her deal?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Bugging and fussing and meddling.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's her deal?\
+",
 	},
 	next = {
 		3797,
 	},
 	previous = 3795,
 	theme = "scratch",
+	page_id = 3796,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Send him off.",
-	pageId = 4920,
 	timestamp = "1336036755",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4921,
 	},
 	previous = 4919,
+	page_id = 4920,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Follow suit.",
-	pageId = 3410,
 	timestamp = "1296504949",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		3411,
 	},
 	previous = 3409,
+	page_id = 3410,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Exit.",
-	pageId = 4547,
 	timestamp = "1328399899",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4548,
 	},
 	previous = 4546,
+	page_id = 4547,
+	long_title = false,
 }

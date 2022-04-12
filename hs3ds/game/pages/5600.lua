@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Continue.",
-	pageId = 5600,
 	timestamp = "1355652946",
 	flag = {},
 	media = {
@@ -12,101 +11,223 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (booyes)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (booyes)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (more choice 'zards)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (more choice 'zards)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: (dont worry i wont stand around fangirling over these ones)",
+		"TG: (dont worry i wont stand around\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"fangirling over these ones)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (well maybe for a second)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (well maybe for a second)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (lookit that one)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (lookit that one)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (dude means business with his resplendent beam of pure white superstition)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: (hey wait)",
+		"TG: (dude means business with his\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"resplendent beam of pure white\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"superstition)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (youre getting away from me!)",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: (hey wait)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: (youre getting away from me!)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"UU: - .... . -. / .... ..- .-. .-.\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"-.-- / ..- .--. !\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-UU: - .... . -. / .... ..- .-. .-. -.-- / ..- .--. !",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (hold on)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (hold on)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (what was that)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (what was that)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (callie hang on)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (callie hang on)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: (is there someone else in here)",
+		"TG: (is there someone else in here)\
+",
 	},
 	next = {
 		5601,
 	},
 	previous = 5599,
+	page_id = 5600,
+	long_title = false,
 }

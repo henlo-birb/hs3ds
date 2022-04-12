@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Pick up your toys!",
-	pageId = 798,
 	timestamp = "1256248891",
 	flag = {
 		"R4",
@@ -126,4 +125,6 @@ return {
 		799,
 	},
 	previous = 797,
+	page_id = 798,
+	long_title = false,
 }

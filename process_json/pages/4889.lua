@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Take pointy thing.",
-	pageId = 4889,
 	timestamp = "1335861414",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		4890,
 	},
 	previous = 4888,
+	page_id = 4889,
+	long_title = false,
 }

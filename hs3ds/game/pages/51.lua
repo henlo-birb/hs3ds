@@ -1,6 +1,5 @@
 return {
 	title = "John: Toss GameBro into fire.",
-	pageId = 51,
 	timestamp = "1240093855",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"It doesn't burn as quickly as you hoped.",
+		"It doesn't burn as quickly as you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hoped.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Each GAMEBRO MAGAZINE is guaranteed to be printed on 40% recycled asbestos. For big ups to Mother Earth, yo.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Each GAMEBRO MAGAZINE is guaranteed to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be printed on 40% recycled asbestos.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"For big ups to Mother Earth, yo.\
+",
 	},
 	next = {
 		52,
 	},
 	previous = 50,
+	page_id = 51,
+	long_title = false,
 }

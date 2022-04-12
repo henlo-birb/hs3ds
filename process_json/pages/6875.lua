@@ -1,6 +1,5 @@
 return {
 	title = "\"IDIOT GIRL NUMBER WHATEVER\" LIKES:",
-	pageId = 6875,
 	timestamp = "1413621246",
 	flag = {},
 	media = {
@@ -153,4 +152,6 @@ return {
 	},
 	previous = 6874,
 	theme = "A6A6",
+	page_id = 6875,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "I SWEAT THE STUFF.",
-	pageId = 6932,
 	timestamp = "1414892560",
 	flag = {},
 	media = {
@@ -12,11 +11,14 @@ return {
 			0,
 			0,
 		},
-		"OF A GENTLE SOUL.",
+		"OF A GENTLE SOUL.\
+",
 	},
 	next = {
 		6933,
 	},
 	previous = 6931,
 	theme = "A6A6",
+	page_id = 6932,
+	long_title = false,
 }

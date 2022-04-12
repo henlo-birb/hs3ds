@@ -1,6 +1,5 @@
 return {
 	title = "John: Connect to Jade.",
-	pageId = 2793,
 	timestamp = "1288019368",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		2794,
 	},
 	previous = 2792,
+	page_id = 2793,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Captchalogue Hella Jeff plush.",
-	pageId = 4535,
 	timestamp = "1328154180",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		4536,
 	},
 	previous = 4534,
+	page_id = 4535,
+	long_title = true,
 }

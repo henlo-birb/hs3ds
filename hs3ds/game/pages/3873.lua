@@ -1,6 +1,5 @@
 return {
 	title = "[o] This scrapbook is now in hopeless disarray.",
-	pageId = 3873,
 	timestamp = "1309644771",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 3872,
 	theme = "scratch",
+	page_id = 3873,
+	long_title = true,
 }

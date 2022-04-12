@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 276,
 	timestamp = "1245479411",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"The SPRITE is playing hard to get! You guess that's what you get for originally prototyping it with something that engenders mischief and pranksterism!",
+		"The SPRITE is playing hard to get! You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess that's what you get for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"originally prototyping it with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something that engenders mischief and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pranksterism!\
+",
 	},
 	next = {
 		277,
 	},
 	previous = 275,
+	page_id = 276,
+	long_title = false,
 }

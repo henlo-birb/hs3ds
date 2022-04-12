@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Descend.",
-	pageId = 843,
 	timestamp = "1257722088",
 	flag = {
 		"F",
@@ -50,4 +49,6 @@ return {
 		844,
 	},
 	previous = 842,
+	page_id = 843,
+	long_title = false,
 }

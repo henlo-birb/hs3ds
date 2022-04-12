@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Open chest.",
-	pageId = 3734,
 	timestamp = "1303364649",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		3735,
 	},
 	previous = 3733,
+	page_id = 3734,
+	long_title = false,
 }

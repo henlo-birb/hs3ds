@@ -1,6 +1,5 @@
 return {
 	title = "John: Chase the man, you want your book!",
-	pageId = 1484,
 	timestamp = "1267072006",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1485,
 	},
 	previous = 1483,
+	page_id = 1484,
+	long_title = true,
 }

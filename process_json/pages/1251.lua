@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Waste exactly four hours on this tomfoolery.",
-	pageId = 1251,
 	timestamp = "1264451944",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1252,
 	},
 	previous = 1250,
+	page_id = 1251,
+	long_title = true,
 }

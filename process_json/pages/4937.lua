@@ -1,6 +1,5 @@
 return {
 	title = "DD: Mount Dronegorg and ride into battle.",
-	pageId = 4937,
 	timestamp = "1336975459",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		4938,
 	},
 	previous = 4936,
+	page_id = 4937,
+	long_title = true,
 }

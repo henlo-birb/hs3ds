@@ -1,6 +1,5 @@
 return {
 	title = "Hooray! This one contains a prize!",
-	pageId = 1425,
 	timestamp = "1266539422",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		1426,
 	},
 	previous = 1424,
+	page_id = 1425,
+	long_title = true,
 }

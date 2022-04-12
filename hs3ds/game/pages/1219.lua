@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Deploy PUNCHBOX.",
-	pageId = 1219,
 	timestamp = "1264130022",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You deploy the WRATHTUB.",
+		"You deploy the WRATHTUB.\
+",
 	},
 	next = {
 		1220,
 	},
 	previous = 1218,
+	page_id = 1219,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine comics.",
-	pageId = 4178,
 	timestamp = "1321777266",
 	flag = {},
 	media = {
@@ -12,10 +11,76 @@ return {
 			0,
 			0,
 		},
-		"On your worktable there are a few comic books starring your favorite heroine of all, SPIDER-GIRL. You don't know what it is, but there's something about a girl who has spidery powers and a sassy attitude that is just so cool to you. It's just another quirky fact about you that definitely doesn't have any greater significance, and never will.",
+		"On your worktable there are a few\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"comic books starring your favorite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heroine of all, SPIDER-GIRL. You don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"know what it is, but there's something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about a girl who has spidery powers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and a sassy attitude that is just so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cool to you. It's just another quirky\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fact about you that definitely doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have any greater significance, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never will.\
+",
 	},
 	next = {
 		4179,
 	},
 	previous = 4177,
+	page_id = 4178,
+	long_title = false,
 }

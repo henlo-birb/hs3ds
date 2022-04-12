@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine ghost gauntlet and bathroom mirror.",
-	pageId = 1060,
 	timestamp = "1261462834",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You make a LEFT HANDED REMOTE GHOST GAUNTLET to complete the pair.",
+		"You make a LEFT HANDED REMOTE GHOST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GAUNTLET to complete the pair.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BECAUSE YOU DON'T SEE WHY THE HELL NOT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BECAUSE YOU DON'T SEE WHY THE HELL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"NOT.\
+",
 	},
 	next = {
 		1061,
 	},
 	previous = 1059,
+	page_id = 1060,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Toss GameBro into fire.",
-	pageId = 51,
 	timestamp = "1240093855",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		52,
 	},
 	previous = 50,
+	page_id = 51,
+	long_title = false,
 }

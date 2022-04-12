@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6313,
 	timestamp = "1371628327",
 	flag = {},
 	media = {
@@ -12,45 +11,90 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: YOU WIN!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: YOU WIN!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: HAHAHAHAHAHAHA!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: HAHAHAHAHAHAHA!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: YOU WIN YOUNG DAVE\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: YOU WIN YOUNG DAVE",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: THESE SELFIES ARE COMEDY GOLD\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: THESE SELFIES ARE COMEDY GOLD",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: AAAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!!",
+		"DAVE:\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"AAAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!!\
+",
 	},
 	next = {
 		6314,
 	},
 	previous = 6312,
+	page_id = 6313,
+	long_title = false,
 }

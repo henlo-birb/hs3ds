@@ -1,6 +1,5 @@
 return {
 	title = "John: Unwrap the smallest present first.",
-	pageId = 971,
 	timestamp = "1259985939",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		972,
 	},
 	previous = 970,
+	page_id = 971,
+	long_title = true,
 }

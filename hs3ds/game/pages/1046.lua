@@ -1,6 +1,5 @@
 return {
 	title = "WV: Give present! Hooray!!!",
-	pageId = 1046,
 	timestamp = "1261292355",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1047,
 	},
 	previous = 1045,
+	page_id = 1046,
+	long_title = false,
 }

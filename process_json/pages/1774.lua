@@ -1,6 +1,5 @@
 return {
 	title = "John: But seriously, keep exploring.",
-	pageId = 1774,
 	timestamp = "1272401170",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1775,
 	},
 	previous = 1773,
+	page_id = 1774,
+	long_title = true,
 }

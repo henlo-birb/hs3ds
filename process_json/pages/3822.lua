@@ -1,6 +1,5 @@
 return {
 	title = "[o] 8^y",
-	pageId = 3822,
 	timestamp = "1307057328",
 	flag = {
 		"R4",
@@ -57,4 +56,6 @@ return {
 	},
 	previous = 3821,
 	theme = "scratch",
+	page_id = 3822,
+	long_title = false,
 }

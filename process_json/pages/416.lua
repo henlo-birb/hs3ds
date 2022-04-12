@@ -1,6 +1,5 @@
 return {
 	title = "THE DOOR, JOHN. LOOK AT THE DOOR.",
-	pageId = 416,
 	timestamp = "1248923991",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		417,
 	},
 	previous = 415,
+	page_id = 416,
+	long_title = true,
 }

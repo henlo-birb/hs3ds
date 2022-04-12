@@ -1,6 +1,5 @@
 return {
 	title = "uu: Reveal shitty twist.",
-	pageId = 4974,
 	timestamp = "1337927787",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		4975,
 	},
 	previous = 4973,
+	page_id = 4974,
+	long_title = false,
 }

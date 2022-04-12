@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Troll the Dave human.",
-	pageId = 2715,
 	timestamp = "1285886829",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2716,
 	},
 	previous = 2714,
+	page_id = 2715,
+	long_title = false,
 }

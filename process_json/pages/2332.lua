@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Go downstairs.",
-	pageId = 2332,
 	timestamp = "1280728032",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		2333,
 	},
 	previous = 2331,
+	page_id = 2332,
+	long_title = false,
 }

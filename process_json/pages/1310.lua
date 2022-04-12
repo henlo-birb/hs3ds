@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: CHARGE!",
-	pageId = 1310,
 	timestamp = "1265327426",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1311,
 	},
 	previous = 1309,
+	page_id = 1310,
+	long_title = false,
 }

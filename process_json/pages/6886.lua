@@ -1,6 +1,5 @@
 return {
 	title = "SOMETHING IS A MISS.",
-	pageId = 6886,
 	timestamp = "1413697086",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 	},
 	previous = 6885,
 	theme = "A6A6",
+	page_id = 6886,
+	long_title = false,
 }

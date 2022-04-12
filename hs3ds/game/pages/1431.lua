@@ -1,6 +1,5 @@
 return {
 	title = "Seer, can you hear me?",
-	pageId = 1431,
 	timestamp = "1266558595",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Apparently she can.",
+		"Apparently she can.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Though usually she goes by Rose.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Though usually she goes by Rose.\
+",
 	},
 	next = {
 		1432,
 	},
 	previous = 1430,
+	page_id = 1431,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1375,
 	timestamp = "1265958154",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"The modus recognizes what you were trying to draw and snaps it right up. Nice going!",
+		"The modus recognizes what you were\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trying to draw and snaps it right up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nice going!\
+",
 	},
 	next = {
 		1376,
 	},
 	previous = 1374,
+	page_id = 1375,
+	long_title = false,
 }

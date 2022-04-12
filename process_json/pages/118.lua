@@ -1,6 +1,5 @@
 return {
 	title = "John: Apply Fetch Modus to Sylladex.",
-	pageId = 118,
 	timestamp = "1241497912",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		119,
 	},
 	previous = 117,
+	page_id = 118,
+	long_title = true,
 }

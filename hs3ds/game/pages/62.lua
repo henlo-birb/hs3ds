@@ -1,6 +1,5 @@
 return {
 	title = "John: Check Pesterchum.",
-	pageId = 62,
 	timestamp = "1240192423",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"Another one of your chums is messaging you.",
+		"Another one of your chums is messaging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 	},
 	next = {
 		63,
 	},
 	previous = 61,
+	page_id = 62,
+	long_title = false,
 }

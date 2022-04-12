@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7884,
 	timestamp = "1437432818",
 	flag = {},
 	media = {
@@ -12,52 +11,111 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oh, silly me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oh, silly me.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: of coUrse yoU are!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: of coUrse yoU are!",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: it says so right there on yoUr handsome sash.",
+		"CALLIOPE: it says so right there on\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"yoUr handsome sash.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: how nice it is to meet yoU!",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: how nice it is to meet yoU!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i was told this is where jade is sleeping.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: i was told this is where\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"jade is sleeping.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: do yoU know where she is?",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: do yoU know where she is?\
+",
 	},
 	next = {
 		7885,
 	},
 	previous = 7883,
+	page_id = 7884,
+	long_title = false,
 }

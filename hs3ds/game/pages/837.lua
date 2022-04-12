@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 837,
 	timestamp = "1257561067",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Rose is online.",
+		"Rose is online.\
+",
 	},
 	next = {
 		838,
 	},
 	previous = 836,
+	page_id = 837,
+	long_title = false,
 }

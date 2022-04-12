@@ -1,6 +1,5 @@
 return {
 	title = "FINE. PROCEED AS YOUR LEVEL OF COMFORT DICTATES.",
-	pageId = 265,
 	timestamp = "1245127405",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		266,
 	},
 	previous = 264,
+	page_id = 265,
+	long_title = true,
 }

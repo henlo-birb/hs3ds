@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7147,
 	timestamp = "1418014797",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: stop fooling around and go find roxy, you dumb goof!",
+		"JOHN: stop fooling around and go find\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"roxy, you dumb goof!\
+",
 	},
 	next = {
 		7148,
 	},
 	previous = 7146,
+	page_id = 7147,
+	long_title = false,
 }

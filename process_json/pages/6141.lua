@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Take oven.",
-	pageId = 6141,
 	timestamp = "1365473986",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		6142,
 	},
 	previous = 6140,
+	page_id = 6141,
+	long_title = false,
 }

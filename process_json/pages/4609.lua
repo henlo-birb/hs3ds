@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Collect sample.",
-	pageId = 4609,
 	timestamp = "1330162751",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4610,
 	},
 	previous = 4608,
+	page_id = 4609,
+	long_title = false,
 }

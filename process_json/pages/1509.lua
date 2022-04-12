@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy Punch Designix.",
-	pageId = 1509,
 	timestamp = "1267341952",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1510,
 	},
 	previous = 1508,
+	page_id = 1509,
+	long_title = false,
 }

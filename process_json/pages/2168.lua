@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Contact fellow Team Charge member.",
-	pageId = 2168,
 	timestamp = "1278433801",
 	flag = {},
 	media = {
@@ -607,4 +606,6 @@ return {
 		2169,
 	},
 	previous = 2167,
+	page_id = 2168,
+	long_title = true,
 }

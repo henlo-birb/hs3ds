@@ -1,6 +1,5 @@
 return {
 	title = "WV: Devour pumpkin.",
-	pageId = 740,
 	timestamp = "1254706365",
 	flag = {
 		"R1",
@@ -71,4 +70,6 @@ return {
 		741,
 	},
 	previous = 739,
+	page_id = 740,
+	long_title = false,
 }

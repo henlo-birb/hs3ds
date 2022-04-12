@@ -1,6 +1,5 @@
 return {
 	title = "John: Recombine hammer and pogo ride.",
-	pageId = 1053,
 	timestamp = "1261449391",
 	flag = {},
 	media = {
@@ -168,4 +167,6 @@ return {
 		1054,
 	},
 	previous = 1052,
+	page_id = 1053,
+	long_title = true,
 }

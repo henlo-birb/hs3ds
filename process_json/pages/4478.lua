@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Read other book.",
-	pageId = 4478,
 	timestamp = "1326861889",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		4479,
 	},
 	previous = 4477,
+	page_id = 4478,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Observe coolkid.",
-	pageId = 2765,
 	timestamp = "1287074365",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		2766,
 	},
 	previous = 2764,
+	page_id = 2765,
+	long_title = false,
 }

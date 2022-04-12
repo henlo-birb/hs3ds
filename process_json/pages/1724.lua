@@ -1,6 +1,5 @@
 return {
 	title = "Maplehoof: Enter.",
-	pageId = 1724,
 	timestamp = "1271965723",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1725,
 	},
 	previous = 1723,
+	page_id = 1724,
+	long_title = false,
 }

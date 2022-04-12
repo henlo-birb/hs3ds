@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Exit your bro's room.",
-	pageId = 564,
 	timestamp = "1251701586",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		565,
 	},
 	previous = 563,
+	page_id = 564,
+	long_title = false,
 }

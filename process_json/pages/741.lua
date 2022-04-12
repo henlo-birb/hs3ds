@@ -1,6 +1,5 @@
 return {
 	title = "WV: Inspect green buttons.",
-	pageId = 741,
 	timestamp = "1254706447",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		742,
 	},
 	previous = 740,
+	page_id = 741,
+	long_title = false,
 }

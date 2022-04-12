@@ -1,6 +1,5 @@
 return {
 	title = "AH: Pull up to the old underwood.",
-	pageId = 3234,
 	timestamp = "1294014435",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3235,
 	},
 	previous = 3233,
+	page_id = 3234,
+	long_title = true,
 }

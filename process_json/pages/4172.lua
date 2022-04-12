@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Stop kissing stupid poster.",
-	pageId = 4172,
 	timestamp = "1321691627",
 	flag = {},
 	media = {
@@ -243,4 +242,6 @@ return {
 		4173,
 	},
 	previous = 4171,
+	page_id = 4172,
+	long_title = true,
 }

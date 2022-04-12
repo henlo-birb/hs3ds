@@ -1,6 +1,5 @@
 return {
 	title = "John: Forget it. Check mail later.",
-	pageId = 30,
 	timestamp = "1239831837",
 	flag = {},
 	media = {
@@ -12,34 +11,153 @@ return {
 			0,
 			0,
 		},
-		"If you go down stairs to get it, he will likely monopolize hours of your time. You decide to chill out up here for a while until the dust settles.",
+		"If you go down stairs to get it, he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will likely monopolize hours of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time. You decide to chill out up here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a while until the dust settles.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sometimes you feel like you are trapped in this room. Stuck, if you will, in a sense which possibly borders on the titular.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And now your chum is pestering you again. The clockwork of friendship turns ceaselessly, operating the swing-lever dealies of harassment in perpetuity!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sometimes you feel like you are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trapped in this room. Stuck, if you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will, in a sense which possibly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"borders on the titular.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whatever. The dude can just hold his damn horses.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And now your chum is pestering you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"again. The clockwork of friendship\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"turns ceaselessly, operating the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"swing-lever dealies of harassment in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perpetuity!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whatever. The dude can just hold his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"damn horses.\
+",
 	},
 	next = {
 		31,
 	},
 	previous = 29,
+	page_id = 30,
+	long_title = true,
 }

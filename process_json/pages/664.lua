@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Stop being the other guy.",
-	pageId = 664,
 	timestamp = "1253545698",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		665,
 	},
 	previous = 663,
+	page_id = 664,
+	long_title = false,
 }

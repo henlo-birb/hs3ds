@@ -1,6 +1,5 @@
 return {
 	title = "In the aftermath of more recent misfortune...",
-	pageId = 2268,
 	timestamp = "1279408737",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		2269,
 	},
 	previous = 2267,
+	page_id = 2268,
+	long_title = true,
 }

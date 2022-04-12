@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Answer Gamzee.",
-	pageId = 2818,
 	timestamp = "1288497508",
 	flag = {},
 	media = {
@@ -1433,4 +1432,6 @@ return {
 		2819,
 	},
 	previous = 2817,
+	page_id = 2818,
+	long_title = false,
 }

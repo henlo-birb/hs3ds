@@ -1,6 +1,5 @@
 return {
 	title = "RIDICULOUS FOLLY. INEXCUSABLE.",
-	pageId = 292,
 	timestamp = "1245801752",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		293,
 	},
 	previous = 291,
+	page_id = 292,
+	long_title = false,
 }

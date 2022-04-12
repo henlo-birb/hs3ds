@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Answer Aradia.",
-	pageId = 3182,
 	timestamp = "1293584854",
 	flag = {},
 	media = {
@@ -621,4 +620,6 @@ return {
 		3183,
 	},
 	previous = 3181,
+	page_id = 3182,
+	long_title = false,
 }

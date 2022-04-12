@@ -1,6 +1,5 @@
 return {
 	title = "[A6I3] ==>",
-	pageId = 5396,
 	timestamp = "1350772384",
 	flag = {},
 	media = {
@@ -12,290 +11,1021 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: that is pretty neat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: that is pretty neat.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: so does that mean you know where the treasure is now?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: No, 8ecause the map isn't complete yet!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Needs more cracks so we can plot the rest of the course. All we're a8le to do now is head in the right general direction.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: So ironically in order to prevent reality from 8eing destroyed, we need to w8 for it to 8e damaged further. In fact, we're 8etter off encouraging it!",
+		"JOHN: so does that mean you know where\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"the treasure is now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: encouraging it?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No, 8ecause the map isn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"complete yet!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Needs more cracks so we can\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"plot the rest of the course. All we're\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8le to do now is head in the right\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"general direction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: So ironically in order to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"prevent reality from 8eing destroyed,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"we need to w8 for it to 8e damaged\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"further. In fact, we're 8etter off\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"encouraging it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: encouraging it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: what, you mean like, making him mad so he breaks more... uh...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: nothingness?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Yes, 8ut it has to 8e strategic. We have to somehow lead him in the direction of the places we want him to damage.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Specifically, the places where the route dead-ends. Wherever we need new points of reference to keep going.",
+		"JOHN: what, you mean like, making him\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: so that means you have to piss him off i guess.",
+		"mad so he breaks more... uh...\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Not really. He's already pissed off. I think he's just permanently that way?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: It's more a8out getting his attention. Using the right 88! Like going fishing.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: 8ut to do that, you gotta know what he really wants. Like what motiv8tes him. I mean, 8esides indiscrimin8tely killing dead children and huge tentacle monsters.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: nothingness?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i am guessing you have an idea what that might be?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Sure. The rumor is he's trying to find that dead alien girl I mentioned, and kill her ghost for good.",
+		"VRISKA: Yes, 8ut it has to 8e\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: If he catches on to the fact that some of us are looking for her too, and thinks we're hot on her trail, he'll pro8a8ly start following us around and wreaking havoc wherever we go.",
+		"strategic. We have to somehow lead him\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"in the direction of the places we want\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"him to damage.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: We just have to make sure we're in the right place when he tries to kill us. Oh, also try not to actually die again while we're at it. Haha.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Specifically, the places where\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the route dead-ends. Wherever we need\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"new points of reference to keep going.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: so the bait is really you.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Sort of! It's actually more the 8ogus idea that we'll lead him to the cheru8, 8ecause we're looking for her too. Which we're o8viously not.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: There's some manipul8tion involved.",
+		"JOHN: so that means you have to piss\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"him off i guess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok. how do you know he'll go for it? i mean, how will he actually know you're \"looking\" for her?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Not really. He's already\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"pissed off. I think he's just\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"permanently that way?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: That's a pretty good question. Have to admit, I don't have everything quite figured out yet.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It's more a8out getting his\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"attention. Using the right 88! Like\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"going fishing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: 8ut to do that, you gotta know\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"what he really wants. Like what\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"motiv8tes him. I mean, 8esides\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"indiscrimin8tely killing dead children\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and huge tentacle monsters.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i am guessing you have an idea\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"what that might be?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sure. The rumor is he's trying\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to find that dead alien girl I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mentioned, and kill her ghost for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"good.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: If he catches on to the fact\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that some of us are looking for her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"too, and thinks we're hot on her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"trail, he'll pro8a8ly start following\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"us around and wreaking havoc wherever\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"we go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: We just have to make sure\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"we're in the right place when he tries\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to kill us. Oh, also try not to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"actually die again while we're at it.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Haha.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: so the bait is really you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Sort of! It's actually more\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the 8ogus idea that we'll lead him to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the cheru8, 8ecause we're looking for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her too. Which we're o8viously not.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: There's some manipul8tion\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"involved.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ok. how do you know he'll go for\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"it? i mean, how will he actually know\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"you're \"looking\" for her?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: That's a pretty good question.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Have to admit, I don't have everything\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"quite figured out yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yEEAAAAAAAAAAH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yEEAAAAAAAAAAH,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Shhhhhhh! I'm still talking!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Shhhhhhh! I'm still talking!",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: bUT, tHAT'S NEVER NOT BEING\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"THE CASE, aLWAYS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: bUT, tHAT'S NEVER NOT BEING THE CASE, aLWAYS,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Nice sentence, genius! Anyway, like I was saying........",
+		"VRISKA: Nice sentence, genius! Anyway,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"like I was saying........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: I'm hoping my exploits can spread throughout the ring 8y word of mouth. Tales of my legend, you know?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: I'm hoping my exploits can\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"spread throughout the ring 8y word of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mouth. Tales of my legend, you know?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Then once he catches on, he'll come looking for us, and then presuma8ly go apeshit with his rain8ow laser 8reath. Metaphysical cataclysm ensues.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Then once he catches on, he'll\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"come looking for us, and then\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"presuma8ly go apeshit with his rain8ow\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"laser 8reath. Metaphysical cataclysm\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ensues.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: that sounds... optimistic?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: that sounds... optimistic?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yEAH, eXACTLY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yEAH, eXACTLY,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: sEE, tHIS TO ME, mAYBE SPEAKS TO THE DANGER,",
+		"TAVROS: sEE, tHIS TO ME, mAYBE SPEAKS\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TO THE DANGER,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: oF HAVING SELF ESTEEM THAT IS UNREASONABLY HIGH,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: oF HAVING SELF ESTEEM THAT IS\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"UNREASONABLY HIGH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: heh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: heh.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Oh, shut up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Oh, shut up.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: I said it's a work in progress!!!!!!!!",
+		"VRISKA: I said it's a work in\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"progress!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: We might need to make a 8igger spectacle of ourselves somehow. Get more people involved. I don't know.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: It does seems like he's more drawn toward gr8ter concentr8tions of ghosts.",
+		"VRISKA: We might need to make a 8igger\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: There's still plenty of time to figure it out. That's one thing a8out 8eing dead. There's always more time.",
+		"spectacle of ourselves somehow. Get\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"more people involved. I don't know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Plus, needless to say, lady luck will ALWAYS 8e on our side! ::::)",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: It does seems like he's more\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"drawn toward gr8ter concentr8tions of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ghosts.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: There's still plenty of time\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to figure it out. That's one thing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8out 8eing dead. There's always more\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Plus, needless to say, lady\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"luck will ALWAYS 8e on our side! ::::)\
+",
 	},
 	next = {
 		5397,
 	},
 	previous = 5395,
+	page_id = 5396,
+	long_title = false,
 }

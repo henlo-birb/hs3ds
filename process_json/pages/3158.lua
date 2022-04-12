@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine sooth specs and lunchtop.",
-	pageId = 3158,
 	timestamp = "1293251885",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		3159,
 	},
 	previous = 3157,
+	page_id = 3158,
+	long_title = true,
 }

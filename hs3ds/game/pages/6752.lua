@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6752,
 	timestamp = "1380767758",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: GET HER THE FUCK OUT OF HERE!",
+		"DIRK: GET HER THE FUCK OUT OF HERE!\
+",
 	},
 	next = {
 		6753,
 	},
 	previous = 6751,
+	page_id = 6752,
+	long_title = false,
 }

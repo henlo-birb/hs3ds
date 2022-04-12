@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip trusty rocket.",
-	pageId = 1750,
 	timestamp = "1272141753",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1751,
 	},
 	previous = 1749,
+	page_id = 1750,
+	long_title = false,
 }

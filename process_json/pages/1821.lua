@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine sunglasses and iPhone.",
-	pageId = 1821,
 	timestamp = "1273708478",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1822,
 	},
 	previous = 1820,
+	page_id = 1821,
+	long_title = true,
 }

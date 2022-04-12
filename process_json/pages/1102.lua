@@ -1,6 +1,5 @@
 return {
 	title = "AR: Examine the wall behind you.",
-	pageId = 1102,
 	timestamp = "1262480882",
 	flag = {
 		"R4",
@@ -64,4 +63,6 @@ return {
 		1103,
 	},
 	previous = 1101,
+	page_id = 1102,
+	long_title = false,
 }

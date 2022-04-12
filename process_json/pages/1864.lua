@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Throw yourself out the window.",
-	pageId = 1864,
 	timestamp = "1274047531",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1865,
 	},
 	previous = 1863,
+	page_id = 1864,
+	long_title = true,
 }

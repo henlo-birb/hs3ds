@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Examine fetch modus.",
-	pageId = 583,
 	timestamp = "1252101414",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		584,
 	},
 	previous = 582,
+	page_id = 583,
+	long_title = false,
 }

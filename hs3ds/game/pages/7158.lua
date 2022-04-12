@@ -1,6 +1,5 @@
 return {
 	title = "[???????]",
-	pageId = 7158,
 	timestamp = "1418186859",
 	flag = {
 		"TZPASSWORD",
@@ -13,4 +12,6 @@ return {
 		7159,
 	},
 	previous = 7048,
+	page_id = 7158,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Watch capsule bloom.",
-	pageId = 5022,
 	timestamp = "1338782144",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		5023,
 	},
 	previous = 5021,
+	page_id = 5022,
+	long_title = false,
 }

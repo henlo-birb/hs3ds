@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Obliquely foreshadow future through interpretive dance",
-	pageId = 994,
 	timestamp = "1260562311",
 	flag = {
 		"R1",
@@ -15,18 +14,41 @@ return {
 			0,
 			0,
 		},
-		"Your silly dance foreshadows nothing and is essentially meaningless. ",
+		"Your silly dance foreshadows nothing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and is essentially meaningless.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it sure is a lot of fun.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it sure is a lot of fun.\
+",
 	},
 	next = {
 		995,
 	},
 	previous = 993,
+	page_id = 994,
+	long_title = true,
 }

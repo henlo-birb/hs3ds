@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Get the rest of your items.",
-	pageId = 1383,
 	timestamp = "1266003949",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1384,
 	},
 	previous = 1382,
+	page_id = 1383,
+	long_title = true,
 }

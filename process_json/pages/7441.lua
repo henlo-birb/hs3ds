@@ -1,6 +1,5 @@
 return {
 	title = "THE SWEATY MUSCULAR GHOST APPEARS OUT OF NOWHERE.",
-	pageId = 7441,
 	timestamp = "1429067989",
 	flag = {
 		"F",
@@ -85,4 +84,6 @@ return {
 	},
 	previous = 7440,
 	theme = "A6A6",
+	page_id = 7441,
+	long_title = true,
 }

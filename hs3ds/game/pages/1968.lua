@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1968,
 	timestamp = "1276147304",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Another public servant makes a sacrifice. A citizen's safety, secured.",
+		"Another public servant makes a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacrifice. A citizen's safety,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"secured.\
+",
 	},
 	next = {
 		1969,
 	},
 	previous = 1967,
+	page_id = 1968,
+	long_title = false,
 }

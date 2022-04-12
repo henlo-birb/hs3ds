@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Stroke writing journal and mutter, 'My precious...'",
-	pageId = 220,
 	timestamp = "1243567675",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You would only resort to such an embarrassing activity while no one was watching!!!",
+		"You would only resort to such an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"embarrassing activity while no one was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"watching!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These journals are for your eyes only.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These journals are for your eyes only.\
+",
 	},
 	next = {
 		221,
 	},
 	previous = 219,
+	page_id = 220,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5581,
 	timestamp = "1355534545",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Your home suddenly loses power due to the storm. Which... makes no sense? All devices in your house are powered by the portable green hubs you stole from the lab. That's weird.",
+		"Your home suddenly loses power due to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the storm. Which... makes no sense?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"All devices in your house are powered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by the portable green hubs you stole\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from the lab. That's weird.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your laptop continues to run on battery power regardless.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your laptop continues to run on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"battery power regardless.\
+",
 	},
 	next = {
 		5582,
 	},
 	previous = 5580,
+	page_id = 5581,
+	long_title = false,
 }

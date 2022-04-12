@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take the skateboard.",
-	pageId = 587,
 	timestamp = "1252125566",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		588,
 	},
 	previous = 586,
+	page_id = 587,
+	long_title = false,
 }

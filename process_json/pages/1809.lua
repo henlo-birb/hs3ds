@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine wizard statue and ball of yarn.",
-	pageId = 1809,
 	timestamp = "1273189774",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1810,
 	},
 	previous = 1808,
+	page_id = 1809,
+	long_title = true,
 }

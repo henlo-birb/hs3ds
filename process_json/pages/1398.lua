@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy alchemiter.",
-	pageId = 1398,
 	timestamp = "1266267029",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1399,
 	},
 	previous = 1397,
+	page_id = 1398,
+	long_title = false,
 }

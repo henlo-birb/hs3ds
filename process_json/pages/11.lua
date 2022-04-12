@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine Problem Sleuth Poster.",
-	pageId = 11,
 	timestamp = "1239678995",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		12,
 	},
 	previous = 10,
+	page_id = 11,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Retrieve contraband from chest of whimsy.",
-	pageId = 4829,
 	timestamp = "1334731517",
 	flag = {},
 	media = {
@@ -12,18 +11,111 @@ return {
 			0,
 			0,
 		},
-		"The clown says he can all motherfuckin abide about that. He doesn't want to get his step on to any motherfuckin toes. But he says if he's not going to be your guide, you gotta at least have SOMEONE as a guide, to all guide you on your way through this quest of miracles.",
+		"The clown says he can all motherfuckin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abide about that. He doesn't want to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get his step on to any motherfuckin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"toes. But he says if he's not going to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be your guide, you gotta at least have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SOMEONE as a guide, to all guide you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on your way through this quest of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"miracles.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He tells you to hold your shit while he retrieves something from his CHEST OF WHIMSY. You say, you mean the refrigerator? He acts like he didn't even hear you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He tells you to hold your shit while\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he retrieves something from his CHEST\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF WHIMSY. You say, you mean the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"refrigerator? He acts like he didn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even hear you.\
+",
 	},
 	next = {
 		4830,
 	},
 	previous = 4828,
+	page_id = 4829,
+	long_title = true,
 }

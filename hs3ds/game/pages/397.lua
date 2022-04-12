@@ -1,6 +1,5 @@
 return {
 	title = "[S] GET UP JOHN, THIS IS NO TIME FOR SLUMBER.",
-	pageId = 397,
 	timestamp = "1248391472",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		398,
 	},
 	previous = 396,
+	page_id = 397,
+	long_title = true,
 }

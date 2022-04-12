@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Cause time paradox.",
-	pageId = 931,
 	timestamp = "1259539251",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		932,
 	},
 	previous = 930,
+	page_id = 931,
+	long_title = false,
 }

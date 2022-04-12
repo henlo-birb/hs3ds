@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Examine your dad's room.",
-	pageId = 948,
 	timestamp = "1259800844",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		949,
 	},
 	previous = 947,
+	page_id = 948,
+	long_title = true,
 }

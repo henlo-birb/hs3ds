@@ -1,6 +1,5 @@
 return {
 	title = "ACT 6 ACT 6 ACT 3",
-	pageId = 6853,
 	timestamp = "1413585560",
 	flag = {},
 	media = {
@@ -12,19 +11,35 @@ return {
 			0,
 			0,
 		},
-		"WELCOME BACK.",
+		"WELCOME BACK.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(AGAIN.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(AGAIN.)\
+",
 	},
 	next = {
 		6854,
 	},
 	previous = 6852,
 	theme = "A6A6",
+	page_id = 6853,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Move spirograph switch.",
-	pageId = 748,
 	timestamp = "1254764511",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		749,
 	},
 	previous = 747,
+	page_id = 748,
+	long_title = false,
 }

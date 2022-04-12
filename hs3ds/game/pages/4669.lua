@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4669,
 	timestamp = "1331340142",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"It's warm and nutritious. Fresh from the butler's teat. You JUST watched me milk it.",
+		"It's warm and nutritious. Fresh from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the butler's teat. You JUST watched me\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"milk it.\
+",
 	},
 	next = {
 		4670,
 	},
 	previous = 4668,
+	page_id = 4669,
+	long_title = false,
 }

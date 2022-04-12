@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3568,
 	timestamp = "1298425329",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You're done with dying.",
+		"You're done with dying.\
+",
 	},
 	next = {
 		3569,
 	},
 	previous = 3567,
+	page_id = 3568,
+	long_title = false,
 }

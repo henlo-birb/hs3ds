@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Activate.",
-	pageId = 4152,
 	timestamp = "1321430575",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		4153,
 	},
 	previous = 4151,
+	page_id = 4152,
+	long_title = false,
 }

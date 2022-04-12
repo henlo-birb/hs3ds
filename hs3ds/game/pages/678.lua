@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine the small potted plant.",
-	pageId = 678,
 	timestamp = "1253649045",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"What plant?",
+		"What plant?\
+",
 	},
 	next = {
 		679,
 	},
 	previous = 677,
+	page_id = 678,
+	long_title = true,
 }

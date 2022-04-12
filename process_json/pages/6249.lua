@@ -1,6 +1,5 @@
 return {
 	title = "IN MY DREAM. I AM THIS CHERUB.",
-	pageId = 6249,
 	timestamp = "1371079388",
 	flag = {},
 	media = {
@@ -167,4 +166,6 @@ return {
 	},
 	previous = 6248,
 	theme = "A6A6",
+	page_id = 6249,
+	long_title = false,
 }

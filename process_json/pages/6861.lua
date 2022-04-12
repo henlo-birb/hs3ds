@@ -1,6 +1,5 @@
 return {
 	title = "OH. ALSO. THE BEFORE TROLLS. IN CASE OF EMERGENCY",
-	pageId = 6861,
 	timestamp = "1413620259",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 	},
 	previous = 6860,
 	theme = "A6A6",
+	page_id = 6861,
+	long_title = true,
 }

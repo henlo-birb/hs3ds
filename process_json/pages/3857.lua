@@ -1,6 +1,5 @@
 return {
 	title = "[o] To redirect the view from this impropriety. Oh goodness.",
-	pageId = 3857,
 	timestamp = "1308041439",
 	flag = {},
 	media = {
@@ -181,4 +180,6 @@ return {
 	},
 	previous = 3856,
 	theme = "scratch",
+	page_id = 3857,
+	long_title = true,
 }

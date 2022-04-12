@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Examine block.",
-	pageId = 2440,
 	timestamp = "1281987657",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2441,
 	},
 	previous = 2439,
+	page_id = 2440,
+	long_title = false,
 }

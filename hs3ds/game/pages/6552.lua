@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6A6I2] ====>",
-	pageId = 6552,
 	timestamp = "1378196749",
 	flag = {
 		"F",
@@ -14,24 +13,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Just gr8.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Just gr8.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: What does she want THIS time?",
+		"ARANEA: What does she want THIS time?\
+",
 	},
 	next = {
 		6553,
 	},
 	previous = 6551,
+	page_id = 6552,
+	long_title = false,
 }

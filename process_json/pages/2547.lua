@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Begin another memo.",
-	pageId = 2547,
 	timestamp = "1283048081",
 	flag = {
 		"R4",
@@ -4404,4 +4403,6 @@ return {
 		2548,
 	},
 	previous = 2546,
+	page_id = 2547,
+	long_title = false,
 }

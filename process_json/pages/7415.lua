@@ -1,6 +1,5 @@
 return {
 	title = "ALSO, LOOK CLOSELY.",
-	pageId = 7415,
 	timestamp = "1428897773",
 	flag = {
 		"F",
@@ -120,4 +119,6 @@ return {
 	},
 	previous = 7414,
 	theme = "A6A6",
+	page_id = 7415,
+	long_title = false,
 }

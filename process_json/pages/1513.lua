@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy circuit board looking thingy.",
-	pageId = 1513,
 	timestamp = "1267399987",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1514,
 	},
 	previous = 1512,
+	page_id = 1513,
+	long_title = true,
 }

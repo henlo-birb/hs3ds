@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Cosby poster with computer.",
-	pageId = 1065,
 	timestamp = "1261515857",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You make the COSBYTOP COMPUTER.",
+		"You make the COSBYTOP COMPUTER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This thing is probably a useless piece of shit, but making it has caused you to feel an alarming sense of satisfaction.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This thing is probably a useless piece\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of shit, but making it has caused you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to feel an alarming sense of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"satisfaction.\
+",
 	},
 	next = {
 		1066,
 	},
 	previous = 1064,
+	page_id = 1065,
+	long_title = true,
 }

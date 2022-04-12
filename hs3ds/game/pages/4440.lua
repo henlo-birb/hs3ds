@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Flip to page 1.",
-	pageId = 4440,
 	timestamp = "1326260155",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4441,
 	},
 	previous = 4439,
+	page_id = 4440,
+	long_title = false,
 }

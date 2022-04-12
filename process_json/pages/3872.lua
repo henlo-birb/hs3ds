@@ -1,6 +1,5 @@
 return {
 	title = "[o] Will you look at this mess.",
-	pageId = 3872,
 	timestamp = "1309055835",
 	flag = {},
 	media = {
@@ -1512,4 +1511,6 @@ return {
 	},
 	previous = 3871,
 	theme = "scratch",
+	page_id = 3872,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Captchalogue Sburb Server CD.",
-	pageId = 646,
 	timestamp = "1253062959",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		647,
 	},
 	previous = 645,
+	page_id = 646,
+	long_title = true,
 }

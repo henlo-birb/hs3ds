@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Go home.",
-	pageId = 2436,
 	timestamp = "1281904071",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2437,
 	},
 	previous = 2435,
+	page_id = 2436,
+	long_title = false,
 }

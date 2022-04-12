@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7311,
 	timestamp = "1420432255",
 	flag = {},
 	media = {
@@ -12,38 +11,83 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok, this one's easy enough.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok, this one's easy enough.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: there, you're welcome terezi.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: there, you're welcome terezi.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: keep up the good work at solving dumb crimes.",
+		"JOHN: keep up the good work at solving\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"dumb crimes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: whoops, here you come! got to go.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: whoops, here you come! got to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"go.\
+",
 	},
 	next = {
 		7312,
 	},
 	previous = 7310,
+	page_id = 7311,
+	long_title = false,
 }

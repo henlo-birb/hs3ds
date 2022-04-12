@@ -1,6 +1,5 @@
 return {
 	title = "PM: Read the next step of the letter.",
-	pageId = 1126,
 	timestamp = "1262666757",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1127,
 	},
 	previous = 1125,
+	page_id = 1126,
+	long_title = true,
 }

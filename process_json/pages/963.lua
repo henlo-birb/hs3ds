@@ -1,6 +1,5 @@
 return {
 	title = "John: Investigate room for anything dad may have left behind",
-	pageId = 963,
 	timestamp = "1259958310",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		964,
 	},
 	previous = 962,
+	page_id = 963,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Collide.",
-	pageId = 8087,
 	timestamp = "1459915198",
 	flag = {
 		"F",
@@ -15,4 +14,6 @@ return {
 	},
 	previous = 8086,
 	theme = "collide",
+	page_id = 8087,
+	long_title = false,
 }

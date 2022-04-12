@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Summon Davesprite.",
-	pageId = 2835,
 	timestamp = "1288897738",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2836,
 	},
 	previous = 2834,
+	page_id = 2835,
+	long_title = false,
 }

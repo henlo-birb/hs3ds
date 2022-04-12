@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2800,
 	timestamp = "1288151435",
 	flag = {},
 	media = {
@@ -12,73 +11,195 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok. what is it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok. what is it?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: You can use it to summon me wherever you go.",
+		"NANNASPRITE: You can use it to summon\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: Now we needn't endure those long spells without a good visit!",
+		"me wherever you go.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-JOHN: oh cool, that is great!",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: And now, the most important question of all.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Now we needn't endure\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"those long spells without a good\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"visit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: When was the last time you have eaten anything, young man??",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: oh cool, that is great!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: hmm, i guess it has been a good while!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: And now, the most\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"important question of all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: When was the last time\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"you have eaten anything, young man??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i've been snacking on gushers a whole lot. bluh...",
+		"JOHN: hmm, i guess it has been a good\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"while!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i never realized how terrible they were, actually.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i've been snacking on gushers a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"whole lot. bluh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i never realized how terrible\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"they were, actually.\
+",
 	},
 	next = {
 		2801,
 	},
 	previous = 2799,
+	page_id = 2800,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine slimy purple pod.",
-	pageId = 1995,
 	timestamp = "1276403949",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1996,
 	},
 	previous = 1994,
+	page_id = 1995,
+	long_title = true,
 }

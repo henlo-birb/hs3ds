@@ -1,6 +1,5 @@
 return {
 	title = "[o] While I continue to not be a gambling man,",
-	pageId = 3829,
 	timestamp = "1307511711",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 3828,
 	theme = "scratch",
+	page_id = 3829,
+	long_title = true,
 }

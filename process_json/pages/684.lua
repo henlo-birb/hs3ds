@@ -1,6 +1,5 @@
 return {
 	title = "WV: Be the imp.",
-	pageId = 684,
 	timestamp = "1253764929",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		685,
 	},
 	previous = 683,
+	page_id = 684,
+	long_title = false,
 }

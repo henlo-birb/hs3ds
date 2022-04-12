@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine treasure.",
-	pageId = 3137,
 	timestamp = "1293124285",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3138,
 	},
 	previous = 3136,
+	page_id = 3137,
+	long_title = false,
 }

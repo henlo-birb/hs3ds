@@ -1,6 +1,5 @@
 return {
 	title = "John: Turn around...",
-	pageId = 663,
 	timestamp = "1253404371",
 	flag = {},
 	media = {
@@ -13,30 +12,167 @@ return {
 			0,
 			0,
 		},
-		"You are confronted with a pair of enormous foes.",
+		"You are confronted with a pair of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enormous foes.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is it. You have no choice but to wage a fierce rooftop battle. This is totally going to happen now, and could in no way conceivably be interrupted by a sudden shift in our attention. It's go time. It's time to do this thing.",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<a class=\"postlink\" href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=005.jpg\" target=\"_blank\"><img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/wheredoingitman.gif\"/></a>",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<a class=\"postlink\" href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=005.jpg\" target=\"_blank\"><img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whereMAKINGTHISHAPEN.gif\"/></a>",
+		"This is it. You have no choice but to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wage a fierce rooftop battle. This is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"totally going to happen now, and could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in no way conceivably be interrupted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by a sudden shift in our attention.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's go time. It's time to do this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<a class=\"postlink\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=005.jpg\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"target=\"_blank\"><img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/wheredoingitman.gif\"/></a>\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<a class=\"postlink\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"href=\"http://www.mspaintadventures.com/sweetbroandhellajeff/?cid=005.jpg\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"target=\"_blank\"><img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whereMAKINGTHISHAPEN.gif\"/></a>\
+",
 	},
 	next = {
 		664,
 	},
 	previous = 662,
+	page_id = 663,
+	long_title = false,
 }

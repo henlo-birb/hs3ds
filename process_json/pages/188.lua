@@ -1,6 +1,5 @@
 return {
 	title = "John: Use pre-punched card with the alchemiter.",
-	pageId = 188,
 	timestamp = "1242878556",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		189,
 	},
 	previous = 187,
+	page_id = 188,
+	long_title = true,
 }

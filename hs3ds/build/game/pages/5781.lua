@@ -1,0 +1,1485 @@
+return {
+	title = "==>",
+	timestamp = "1359364636",
+	flag = {},
+	media = {
+		"05778",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"|AUTHORLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"FINE. NOW WHAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Caliborn, first let me explain\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"something to you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"I guess it falls on me to teach you\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"these life lessons, because as\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"unpleasant as the idea is for both of\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"us, I am the closest thing you will\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"ever have to a father.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You see, teenagers are sensitive and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"beautiful creatures.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Well, not you. You are repulsive. But\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"most teenagers, I mean.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You can't just force them to settle\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"all their issues with insane\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"psychotropic game powerups.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"They have to face all those issues\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"themselves, or they will never learn\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"and grow as people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHO CARES??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Well, you don't. But human beings do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"The journey itself is more important\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"than the destination.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"The struggle is what builds character\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"and teaches us about ourselves and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"about life.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"BULLSHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I DID THEM ALL A FAVOR. BY GIVING THEM\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"MY JUJU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"THEY WERE GOING NOWHERE. AND BEING\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"STUPID.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"AND DOING LITERALLY NOTHING\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHATSOEVER. EXCEPT FOR WALLOWING IN\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"GROTESQUE EMOTIONS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"LOOK HOW MUCH GREAT STUFF THEY GOT\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"DONE BECAUSE OF ME!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Of course you think you were doing\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"them a favor. You're an alien.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"So is your sister. She thought the\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"juju would be a great boon for them as\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"well. But she was wrong.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"See, you cherubs are predisposed to\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"love all this trickster crap. All that\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"goofy squeaky candy coated nonsense is\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"a critical part of your people's\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"mythos.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"That sugarized zillyjunk sort of\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"embodies a unified field of absurd\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Platonic ideals to the cherubim, so\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"when you see expressions of it in\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"reality of course you're gonna go\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"apeshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"But that kind of stuff is freakish and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"disturbing to humans. Those aren't our\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"ideals.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Furthermore, that could only be seen\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"as a boon from an asocial species.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You never have to deal with other\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"people. So if you lick a magic\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"lollipop that flips a switch in your\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"brain that says \"all my problems are\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"solved,\" I guess maybe that's fine for\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"cherubs, but if you're a human you\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"haven't actually solved anything.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"By the same logic it's not much of a\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"boon to a human's physical journey\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"either.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Using an item that lets them start\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"maniacally powering from point A to\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"point B isn't doing them any favors.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I HAVE NO IDEA WHAT YOU'RE TALKING\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"ABOUT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"It's like when Mario gets the star.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You know when Mario gets the star?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHO THE FUCK IS MARIO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He's a small Italian plumber who goes\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"on sideways adventures.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He jumps on stuff and bops bricks with\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"his head to save a princess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHAT'S ITALIAN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHAT'S A PLUMBER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Never mind what an Italian is. It's\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"just a kind of guy on Earth.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"And a plumber is a guy who fixes load\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"gapers.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHAT'S A LOAD GAPER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Shut up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Anyway, sometimes when Mario's running\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"sideways he gets a star that makes him\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"magic and invincible.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"OH. YOU MEAN HE BECOMES TRICKSTER\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"MARIO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Yes, but less stupid.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"So for a while he becomes flashy and\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"hyperactive and nothing's challenging\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He just starts barreling over\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"mushrooms and leaping over pits as\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"fast as he can, then gets to the end\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"and jumps on the flagpole and that's\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"it. Mario \"wins\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"But the point is, he didn't really\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"win. That magic star was actually\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"devastating to his development as a\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"human being.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Because he skipped over many critical\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"trials on his spiritual journey.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Mario NEEDS to stomp on all those\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"mushrooms. He NEEDS to bonk those\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"bricks with his head, for the sake of\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"his personal growth.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"By using the star, he is denying\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"himself many powerful moments of\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"catharsis.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"UH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Well, I don't know. Maybe Mario isn't\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"the best example.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Like I'm not sure if Mario really even\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"has a soul?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He's just kind of a one-dimensional\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"friendly cartoon plumber.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"So maybe this stuff doesn't quite\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"apply to him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"But these aren't one-dimensional\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"plumbers we're talking about here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"These are TEENS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"And as we all know, teens have BIG\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"FEELINGS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I CAN'T TAKE ANYMORE OF THIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"THE DISCOURSE WITH YOU HAS BEEN EVEN\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"MORE GRATING AND UNPALATABLE THAN\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"USUAL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YOU SAID YOU'D HELP ME SPEED UP MY\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"QUEST. BUT ALL YOU DID.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WAS TRICK ME INTO HEARING ANOTHER\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"CONVERSATION. IN WHICH YOU INDULGE\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"YOURSELF TO AN EXTENT. WHICH I CANNOT\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"EVEN BELIEVE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I'M GOING TO HIT THINGS WITH MY\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"CROWBAR AGAIN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"No don't!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Jane is still nursing a wicked\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"hangover you ass.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"THEN BE USEFUL TO ME.\
+",
+	},
+	next = {
+		5782,
+	},
+	previous = 5780,
+	page_id = 5781,
+}

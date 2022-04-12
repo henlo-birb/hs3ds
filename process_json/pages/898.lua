@@ -1,6 +1,5 @@
 return {
 	title = "PM: Type => VIEW",
-	pageId = 898,
 	timestamp = "1258945765",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		899,
 	},
 	previous = 897,
+	page_id = 898,
+	long_title = false,
 }

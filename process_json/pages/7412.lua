@@ -1,6 +1,5 @@
 return {
 	title = "LET US BEGIN.",
-	pageId = 7412,
 	timestamp = "1428897590",
 	flag = {
 		"F",
@@ -127,4 +126,6 @@ return {
 	},
 	previous = 7411,
 	theme = "A6A6",
+	page_id = 7412,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WITH YOUR TRUSTY SMUT. FORGE A SWORD.",
-	pageId = 6516,
 	timestamp = "1378007716",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 6515,
 	theme = "A6A6",
+	page_id = 6516,
+	long_title = true,
 }

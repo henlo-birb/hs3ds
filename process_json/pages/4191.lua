@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Answer Strider.",
-	pageId = 4191,
 	timestamp = "1321938595",
 	flag = {},
 	media = {
@@ -1545,4 +1544,6 @@ return {
 		4192,
 	},
 	previous = 4190,
+	page_id = 4191,
+	long_title = false,
 }

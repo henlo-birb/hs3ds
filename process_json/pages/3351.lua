@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine Sollux.",
-	pageId = 3351,
 	timestamp = "1295905885",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3352,
 	},
 	previous = 3350,
+	page_id = 3351,
+	long_title = false,
 }

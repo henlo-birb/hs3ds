@@ -1,6 +1,5 @@
 return {
 	title = "[A6I3] ==>",
-	pageId = 5289,
 	timestamp = "1347420353",
 	flag = {},
 	media = {
@@ -12,164 +11,517 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: look.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: look.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i love nic cage. he is basically my hero, ok?",
+		"JOHN: i love nic cage. he is basically\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"my hero, ok?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: but i'm kind of just realizing now that he is EMBARRASSINGLY BAD in this movie!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: he is just doing this corny parody of a southern guy who is down on his luck, and acts \"charming\" with his goofy accent and stuff.",
+		"JOHN: but i'm kind of just realizing\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: some things i used to think were so badass are just coming off as ridiculous now.",
+		"now that he is EMBARRASSINGLY BAD in\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"this movie!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: can you believe that one time we were watching this movie, when he said \"put the bunny back in the box\" i actually high fived my dad?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: this time that line just made me roll my eyes.",
+		"JOHN: he is just doing this corny\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: there's so much crappy dialogue!",
+		"parody of a southern guy who is down\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"on his luck, and acts \"charming\" with\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"his goofy accent and stuff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: \"cyrus, this is your barbecue, and it tastes good...\" arrgh!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: some things i used to think were\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"so badass are just coming off as\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"ridiculous now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: can you believe that one time we\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"were watching this movie, when he said\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"\"put the bunny back in the box\" i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"actually high fived my dad?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: this time that line just made me\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"roll my eyes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: there's so much crappy dialogue!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: \"cyrus, this is your barbecue,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"and it tastes good...\" arrgh!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: but he was trying to sound like\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"a hardened criminal to win the trust\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"of john malkovich!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: but he was trying to sound like a hardened criminal to win the trust of john malkovich!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: jade, please. it was a cheesy line, don't be so naive.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: what!!",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: you spent your whole life worshiping this dumb movie and now youre calling ME naive????",
+		"JOHN: jade, please. it was a cheesy\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"line, don't be so naive.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok, i'm sorry. i guess in fairness to you, you have only just begun to climb the steep learning curve of this vexing and hypnotic film.",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: what!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: you spent your whole life\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"worshiping this dumb movie and now\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"youre calling ME naive????\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: but i am no longer bound by its spell, jade.",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: oh god",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: vexing and hypnotic??",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: its a movie full of explosions about a guy with a mullet",
-		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
-		},
-		"\
-JADE: what is with you lately? you seem to be in such a crappy mood these days",
+		"JOHN: ok, i'm sorry. i guess in\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"fairness to you, you have only just\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"begun to climb the steep learning\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"curve of this vexing and hypnotic\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"film.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i am fine. this MOVIE is what's crappy these days.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: but i am no longer bound by its\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"spell, jade.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: oh god\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: oh bluh bluh",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: vexing and hypnotic??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: can we just finish the rest of the movie?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: its a movie full of explosions\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"about a guy with a mullet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: what is with you lately? you\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"seem to be in such a crappy mood these\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"days\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i am fine. this MOVIE is what's\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"crappy these days.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: oh bluh bluh\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: can we just finish the rest of\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the movie?\
+",
 	},
 	next = {
 		5290,
 	},
 	previous = 5288,
+	page_id = 5289,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Message John the Captcha code.",
-	pageId = 647,
 	timestamp = "1253062990",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"Oh God damn it.",
+		"Oh God damn it.\
+",
 	},
 	next = {
 		648,
 	},
 	previous = 646,
+	page_id = 647,
+	long_title = true,
 }

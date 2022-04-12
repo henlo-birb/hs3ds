@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3058,
 	timestamp = "1292121715",
 	flag = {},
 	media = {
@@ -12,17 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Make sure her chat client isn't 8eing holographically projected for all to see, ok?",
+		"AG: Make sure her chat client isn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8eing holographically projected for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"all to see, ok?\
+",
 	},
 	next = {
 		3059,
 	},
 	previous = 3057,
+	page_id = 3058,
+	long_title = false,
 }

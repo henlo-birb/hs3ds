@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1918,
 	timestamp = "1274670886",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"People would think reports of the man's death were greatly exaggerated.",
+		"People would think reports of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"man's death were greatly exaggerated.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But they weren't.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But they weren't.\
+",
 	},
 	next = {
 		1919,
 	},
 	previous = 1917,
+	page_id = 1918,
+	long_title = false,
 }

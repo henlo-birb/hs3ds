@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy beloved daughter.",
-	pageId = 1713,
 	timestamp = "1271801783",
 	flag = {},
 	media = {
@@ -12,34 +11,167 @@ return {
 			0,
 			0,
 		},
-		"You release dear, precious Casey. She was probably getting antsy in that card. You think you'll leave her here with Rose. A dangerous quest is nothing to embark on with a sweet, innocent little girl stashed in your inventory.",
+		"You release dear, precious Casey. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was probably getting antsy in that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"card. You think you'll leave her here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with Rose. A dangerous quest is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nothing to embark on with a sweet,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"innocent little girl stashed in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inventory.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You aren't actually sure if she is a girl though. You don't even know if salamanders can be girls. Aren't they hermaphrodites or something?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't know anything about biology. Unless it is biology that has to do with ghosts and slime. But even then you don't actually know anything, you just sort of like to pretend you do.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You aren't actually sure if she is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"girl though. You don't even know if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"salamanders can be girls. Aren't they\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hermaphrodites or something?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like a troll is bugging Rose.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't know anything about biology.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Unless it is biology that has to do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with ghosts and slime. But even then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you don't actually know anything, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just sort of like to pretend you do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like a troll is bugging Rose.\
+",
 	},
 	next = {
 		1714,
 	},
 	previous = 1712,
+	page_id = 1713,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "In a future settled askance of the present...",
-	pageId = 1359,
 	timestamp = "1265865480",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Collateral desecration mars the sacred/illicit.",
+		"Collateral desecration mars the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sacred/illicit.\
+",
 	},
 	next = {
 		1360,
 	},
 	previous = 1358,
+	page_id = 1359,
+	long_title = true,
 }

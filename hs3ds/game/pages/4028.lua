@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4028,
 	timestamp = "1312623253",
 	flag = {},
 	media = {
@@ -12,137 +11,371 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"TC: no.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: no.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"TC: MOTHER FUCK NO, BRO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: MOTHER FUCK NO, BRO.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: i'm not looking on any more of your blasphmemes.",
+		"TC: i'm not looking on any more of\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"your blasphmemes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: I REALLY JUST CAME BACK ON YOU TO MOTHER FUCKING SAY.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: that while that sickening noise you did at me is your fault",
+		"TC: I REALLY JUST CAME BACK ON YOU TO\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"MOTHER FUCKING SAY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: THERE'S SOMETHING I DID AT YOU WHAT'S MINE.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: i did something that's motherfucking atrocious to your posse.",
+		"TC: that while that sickening noise\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"you did at me is your fault\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: MADE YOUR WHOLE CREW OF JOKERS GET TO BEING KINDA MENTALLY MOTHER FUCKIN",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: unstable.",
+		"TC: THERE'S SOMETHING I DID AT YOU\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"WHAT'S MINE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: IN FUCKING FACT",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: that atrocious business i got to doing",
+		"TC: i did something that's\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"motherfucking atrocious to your posse.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: I DID THAT SHIT TO YOUR WHOLE UNIVERSE AS A MATTER OF MOTHER FUCKING FACT.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: you see",
+		"TC: MADE YOUR WHOLE CREW OF JOKERS GET\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"TO BEING KINDA MENTALLY MOTHER FUCKIN\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: YOU MOTHER FUCKIN SEE",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"TC: unstable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: i finally got all caught up in what's true behind the sweet murdermirth of the bitchin bloodcircus.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"TC: IN FUCKING FACT\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: I REACHED DEEP DOWN AND GOT AT WHERE ALL THE REAL HARSHWHIMSIES WERE HIDING INSIDE ME.",
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
-		"\
-TC: in the angriest ways i found up my dark ancestral chucklevoodoos within.",
+		"TC: that atrocious business i got to\
+",
 		{
 			0.25882352941176473,
 			0.0,
 			0.6901960784313725,
 		},
+		"doing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TC: AND THEN",
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: I DID THAT SHIT TO YOUR WHOLE\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"UNIVERSE AS A MATTER OF MOTHER FUCKING\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"FACT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: you see\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: YOU MOTHER FUCKIN SEE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: i finally got all caught up in\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"what's true behind the sweet\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"murdermirth of the bitchin\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"bloodcircus.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: I REACHED DEEP DOWN AND GOT AT\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"WHERE ALL THE REAL HARSHWHIMSIES WERE\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"HIDING INSIDE ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: in the angriest ways i found up my\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"dark ancestral chucklevoodoos within.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.25882352941176473,
+			0.0,
+			0.6901960784313725,
+		},
+		"TC: AND THEN\
+",
 	},
 	next = {
 		4029,
 	},
 	previous = 4027,
 	theme = "scratch",
+	page_id = 4028,
+	long_title = false,
 }

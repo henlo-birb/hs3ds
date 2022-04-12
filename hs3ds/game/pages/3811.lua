@@ -1,6 +1,5 @@
 return {
 	title = "[o] But the story will.",
-	pageId = 3811,
 	timestamp = "1306898804",
 	flag = {},
 	media = {
@@ -12,19 +11,140 @@ return {
 			0,
 			0,
 		},
-		"The Slayer was, for the moment, unmotivated by the Thief's motion for a compelling duel. This side of The Scratch, he opted for a more ruthless and calculating policy of extermination. On his arrival, not about to repeat the mistakes leading to his banishment, he quickly obliterated all twelve planets, followed by Prospit and Derse, to weed out those who might outsmart him in the same manner. ",
+		"The Slayer was, for the moment,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unmotivated by the Thief's motion for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a compelling duel. This side of The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Scratch, he opted for a more ruthless\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and calculating policy of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extermination. On his arrival, not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about to repeat the mistakes leading\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to his banishment, he quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"obliterated all twelve planets,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"followed by Prospit and Derse, to weed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out those who might outsmart him in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the same manner.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-With as little fanfare, he seized the opportunity to follow the Thief's trail quickly before it dissipated, and destroyed their hideout in the veil.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"With as little fanfare, he seized the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"opportunity to follow the Thief's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trail quickly before it dissipated,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and destroyed their hideout in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"veil.\
+",
 	},
 	next = {
 		3812,
 	},
 	previous = 3810,
 	theme = "scratch",
+	page_id = 3811,
+	long_title = false,
 }

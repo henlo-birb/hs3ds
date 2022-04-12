@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine the nails and hammer.",
-	pageId = 17,
 	timestamp = "1239745843",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You MERGE the top two cards. ",
+		"You MERGE the top two cards.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The HAMMER and NAILS are now captchalogued on the same card and can be used together.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The HAMMER and NAILS are now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captchalogued on the same card and can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be used together.\
+",
 	},
 	next = {
 		18,
 	},
 	previous = 16,
+	page_id = 17,
+	long_title = true,
 }

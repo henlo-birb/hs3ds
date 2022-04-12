@@ -1,6 +1,5 @@
 return {
 	title = "WV: Mourn the loss of citizen tab.",
-	pageId = 722,
 	timestamp = "1254529409",
 	flag = {},
 	media = {
@@ -13,18 +12,90 @@ return {
 			0,
 			0,
 		},
-		"Your caffeinated jittering must have agitated all the little bubbles curiously hidden in the liquid, creating too much pressure in the can. You speculate this is why it exploded as you nervously eye the timer.",
+		"Your caffeinated jittering must have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"agitated all the little bubbles\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"curiously hidden in the liquid,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"creating too much pressure in the can.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You speculate this is why it exploded\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as you nervously eye the timer.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are starting to wonder what will happen when it reaches zero. Maybe it would be best not to be near it when this happens.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are starting to wonder what will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happen when it reaches zero. Maybe it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be best not to be near it when\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this happens.\
+",
 	},
 	next = {
 		723,
 	},
 	previous = 721,
+	page_id = 722,
+	long_title = true,
 }

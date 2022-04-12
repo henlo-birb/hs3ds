@@ -1,6 +1,5 @@
 return {
 	title = "A mother will do whatever is best for her children.",
-	pageId = 1499,
 	timestamp = "1267167240",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1500,
 	},
 	previous = 1498,
+	page_id = 1499,
+	long_title = true,
 }

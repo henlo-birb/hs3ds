@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2931,
 	timestamp = "1291005285",
 	flag = {},
 	media = {
@@ -12,24 +11,55 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: AND IF THIS WASN'T BAD ENOUGH\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: AND IF THIS WASN'T BAD ENOUGH",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: YOUR \"SOLUTION\" LATER WOULD BE TO OPEN A RIFT IN SOME GLORIOUS GESTURE OF MEANINGLESS SUICIDE.",
+		"CG: YOUR \"SOLUTION\" LATER WOULD BE TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"OPEN A RIFT IN SOME GLORIOUS GESTURE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"OF MEANINGLESS SUICIDE.\
+",
 	},
 	next = {
 		2932,
 	},
 	previous = 2930,
+	page_id = 2931,
+	long_title = false,
 }

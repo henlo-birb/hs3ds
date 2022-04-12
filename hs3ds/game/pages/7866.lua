@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7866,
 	timestamp = "1436485105",
 	flag = {},
 	media = {
@@ -12,122 +11,258 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: whoa man what the fuck?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: whoa man what the fuck?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: yOUR MAJESTY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yOUR MAJESTY!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: ........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: ........",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i EXIST ONLY TO DO YOUR BIDDING,",
+		"TAVROS: i EXIST ONLY TO DO YOUR\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"BIDDING,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: sUDDENLY,",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: sUDDENLY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Tavros, will you get the fuck\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"up?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Tavros, will you get the fuck up?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: no\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: no",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: no dont\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: no dont",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: stay\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: stay",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: stay down there\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: stay down there",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: exactly like that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: exactly like that",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: oF COURSE, yOUR HIGHNESS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: oF COURSE, yOUR HIGHNESS,",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: i think\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: i think",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: i think i LIK-E this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: i think i LIK-E this",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: i think i R-E-ELY LIK-E T)(IS A W)(OL-E GLUBBING LOT",
+		"MEENAH: i think i R-E-ELY LIK-E T)(IS\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"A W)(OL-E GLUBBING LOT\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: T)(IS F-E-ELS RIG)(T YO",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: T)(IS F-E-ELS RIG)(T YO\
+",
 	},
 	next = {
 		7867,
 	},
 	previous = 7865,
+	page_id = 7866,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "THE DUDE PILE. DOESN'T STOP. FROM GETTING TALLER.",
-	pageId = 6528,
 	timestamp = "1378096512",
 	flag = {},
 	media = {
@@ -12,11 +11,28 @@ return {
 			0,
 			0,
 		},
-		"IT CAUSES EVERYONE TO COMPLETELY FORGET. ABOUT THE INCREASINGLY AGITATED BLUE MALE. ALTOGETHER.",
+		"IT CAUSES EVERYONE TO COMPLETELY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FORGET. ABOUT THE INCREASINGLY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AGITATED BLUE MALE. ALTOGETHER.\
+",
 	},
 	next = {
 		6529,
 	},
 	previous = 6527,
 	theme = "A6A6",
+	page_id = 6528,
+	long_title = true,
 }

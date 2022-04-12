@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: RECEIVE SPOILS.",
-	pageId = 6521,
 	timestamp = "1378075301",
 	flag = {},
 	media = {
@@ -160,4 +159,6 @@ return {
 	},
 	previous = 6520,
 	theme = "A6A6",
+	page_id = 6521,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Pester Vriska.",
-	pageId = 2784,
 	timestamp = "1287456802",
 	flag = {},
 	media = {
@@ -726,4 +725,6 @@ return {
 		2785,
 	},
 	previous = 2783,
+	page_id = 2784,
+	long_title = false,
 }

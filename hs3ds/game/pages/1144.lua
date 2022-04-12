@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1144,
 	timestamp = "1262822555",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You release the prisoner. He is free to go.",
+		"You release the prisoner. He is free\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to go.\
+",
 	},
 	next = {
 		1145,
 	},
 	previous = 1143,
+	page_id = 1144,
+	long_title = false,
 }

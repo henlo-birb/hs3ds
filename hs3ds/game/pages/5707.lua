@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5707,
 	timestamp = "1357689909",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"The jujus snap together to form a single SPIRAL SUCKER.",
+		"The jujus snap together to form a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"single SPIRAL SUCKER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The urge to lick it is suddenly overwhelming.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The urge to lick it is suddenly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"overwhelming.\
+",
 	},
 	next = {
 		5708,
 	},
 	previous = 5706,
+	page_id = 5707,
+	long_title = false,
 }

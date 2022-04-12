@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw the totem lathe.",
-	pageId = 1568,
 	timestamp = "1267998803",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		1569,
 	},
 	previous = 1567,
+	page_id = 1568,
+	long_title = false,
 }

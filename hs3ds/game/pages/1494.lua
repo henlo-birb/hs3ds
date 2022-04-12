@@ -1,6 +1,5 @@
 return {
 	title = "Follow them.",
-	pageId = 1494,
 	timestamp = "1267149497",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"It looks like they lead out back to the mausoleum.",
+		"It looks like they lead out back to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the mausoleum.\
+",
 	},
 	next = {
 		1495,
 	},
 	previous = 1493,
+	page_id = 1494,
+	long_title = false,
 }

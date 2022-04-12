@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Implement nefarious scheme.",
-	pageId = 1243,
 	timestamp = "1264299195",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		1244,
 	},
 	previous = 1242,
+	page_id = 1243,
+	long_title = true,
 }

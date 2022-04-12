@@ -1,6 +1,5 @@
 return {
 	title = "John: Open the big one.",
-	pageId = 973,
 	timestamp = "1259986046",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You thought wrong.",
+		"You thought wrong.\
+",
 	},
 	next = {
 		974,
 	},
 	previous = 972,
+	page_id = 973,
+	long_title = false,
 }

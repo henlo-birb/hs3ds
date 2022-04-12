@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Check window.",
-	pageId = 4200,
 	timestamp = "1322026406",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		4201,
 	},
 	previous = 4199,
+	page_id = 4200,
+	long_title = false,
 }

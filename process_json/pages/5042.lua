@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Deploy.",
-	pageId = 5042,
 	timestamp = "1339289894",
 	flag = {
 		"R4",
@@ -142,4 +141,6 @@ return {
 		5043,
 	},
 	previous = 5041,
+	page_id = 5042,
+	long_title = false,
 }

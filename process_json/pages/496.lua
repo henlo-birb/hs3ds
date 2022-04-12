@@ -1,6 +1,5 @@
 return {
 	title = "John: Ride your steed to victory.",
-	pageId = 496,
 	timestamp = "1250566441",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		497,
 	},
 	previous = 495,
+	page_id = 496,
+	long_title = true,
 }

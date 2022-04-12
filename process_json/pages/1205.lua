@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Resume pursuit of wounded felt member.",
-	pageId = 1205,
 	timestamp = "1264029344",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1206,
 	},
 	previous = 1204,
+	page_id = 1205,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "I AM ALMOST CERTAIN CHERUB SHAKESPEARE SAID THAT.",
-	pageId = 6262,
 	timestamp = "1371080207",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 	},
 	previous = 6261,
 	theme = "A6A6",
+	page_id = 6262,
+	long_title = true,
 }

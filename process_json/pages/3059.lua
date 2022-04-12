@@ -1,6 +1,5 @@
 return {
 	title = "Thief: Tear into Page.",
-	pageId = 3059,
 	timestamp = "1292139152",
 	flag = {},
 	media = {
@@ -1608,4 +1607,6 @@ return {
 		3060,
 	},
 	previous = 3058,
+	page_id = 3059,
+	long_title = false,
 }

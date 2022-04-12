@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine batarang + Midnight Crew poster.",
-	pageId = 1833,
 	timestamp = "1273786994",
 	flag = {},
 	media = {
@@ -35,4 +34,6 @@ return {
 		1834,
 	},
 	previous = 1832,
+	page_id = 1833,
+	long_title = true,
 }

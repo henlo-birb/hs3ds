@@ -1,6 +1,5 @@
 return {
 	title = "John: Leave room.",
-	pageId = 47,
 	timestamp = "1240031405",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		48,
 	},
 	previous = 46,
+	page_id = 47,
+	long_title = false,
 }

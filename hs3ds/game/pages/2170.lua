@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2170,
 	timestamp = "1278439881",
 	flag = {},
 	media = {
@@ -12,10 +11,62 @@ return {
 			0,
 			0,
 		},
-		"They disperse throughout the terrain surrounding your hive. They follow both preprogrammed and live instructions by your CLOUDER, a member of Team Scourge, whose role is to provide you with a challenging scenario, while your teammate does the same for Scourge's other player.",
+		"They disperse throughout the terrain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surrounding your hive. They follow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"both preprogrammed and live\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instructions by your CLOUDER, a member\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of Team Scourge, whose role is to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"provide you with a challenging\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"scenario, while your teammate does the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"same for Scourge's other player.\
+",
 	},
 	next = {
 		2171,
 	},
 	previous = 2169,
+	page_id = 2170,
+	long_title = false,
 }

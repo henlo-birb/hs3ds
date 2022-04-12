@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go online and view sites indicative of your interests.",
-	pageId = 325,
 	timestamp = "1246602616",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		326,
 	},
 	previous = 324,
+	page_id = 325,
+	long_title = true,
 }

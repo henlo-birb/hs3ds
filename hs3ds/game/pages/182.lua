@@ -1,6 +1,5 @@
 return {
 	title = "John: Get card.",
-	pageId = 182,
 	timestamp = "1242785041",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"A SHARD OF GLASS is expelled from the deck and maims the HARLEQUIN DOLL.",
+		"A SHARD OF GLASS is expelled from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deck and maims the HARLEQUIN DOLL.\
+",
 	},
 	next = {
 		183,
 	},
 	previous = 181,
+	page_id = 182,
+	long_title = false,
 }

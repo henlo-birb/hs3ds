@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pull sword out of thing.",
-	pageId = 2826,
 	timestamp = "1288749289",
 	flag = {},
 	media = {
@@ -740,4 +739,6 @@ return {
 		2827,
 	},
 	previous = 2825,
+	page_id = 2826,
+	long_title = false,
 }

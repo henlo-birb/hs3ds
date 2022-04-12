@@ -1,6 +1,5 @@
 return {
 	title = "[S] Dave: Strife!",
-	pageId = 1070,
 	timestamp = "1261643131",
 	flag = {
 		"F",
@@ -16,4 +15,6 @@ return {
 		1071,
 	},
 	previous = 1069,
+	page_id = 1070,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine dead mutant collection.",
-	pageId = 4472,
 	timestamp = "1326855816",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		4473,
 	},
 	previous = 4471,
+	page_id = 4472,
+	long_title = true,
 }

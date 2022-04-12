@@ -1,6 +1,5 @@
 return {
 	title = "WHEN SUDDENLY.",
-	pageId = 7418,
 	timestamp = "1428897928",
 	flag = {
 		"F",
@@ -71,4 +70,6 @@ return {
 	},
 	previous = 7417,
 	theme = "A6A6",
+	page_id = 7418,
+	long_title = false,
 }

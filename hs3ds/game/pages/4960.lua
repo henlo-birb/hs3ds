@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Proceed to crypt.",
-	pageId = 4960,
 	timestamp = "1337483852",
 	flag = {},
 	media = {
@@ -12,26 +11,90 @@ return {
 			0,
 			0,
 		},
-		"Aaaaaand the door's locked now. ",
+		"Aaaaaand the door's locked now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like that obelisk was important after all. It was lighting up one of those globe switch doohickeys at the bottom of the hole, which was apparently keeping the door open. Just great.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Real nice work there, gumshoe.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like that obelisk was important\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"after all. It was lighting up one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"those globe switch doohickeys at the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bottom of the hole, which was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apparently keeping the door open. Just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"great.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Real nice work there, gumshoe.\
+",
 	},
 	next = {
 		4961,
 	},
 	previous = 4959,
+	page_id = 4960,
+	long_title = false,
 }

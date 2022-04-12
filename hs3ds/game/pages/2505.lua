@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2505,
 	timestamp = "1282543393",
 	flag = {},
 	media = {
@@ -13,18 +12,34 @@ return {
 			0,
 			0,
 		},
-		"Most other players only get one extra.",
+		"Most other players only get one extra.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you're kind of a special case.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you're kind of a special case.\
+",
 	},
 	next = {
 		2506,
 	},
 	previous = 2504,
+	page_id = 2505,
+	long_title = false,
 }

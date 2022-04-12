@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4721,
 	timestamp = "1332120863",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT:\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: RAAARARRAAUUUAAAAUUAGHGHGGHGGGGHHGH!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: shit!",
+		"DAVE: shit!\
+",
 	},
 	next = {
 		4722,
 	},
 	previous = 4720,
+	page_id = 4721,
+	long_title = false,
 }

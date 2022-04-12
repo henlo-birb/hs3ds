@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Make it fit.",
-	pageId = 4916,
 	timestamp = "1336032619",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4917,
 	},
 	previous = 4915,
+	page_id = 4916,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Captchalogue knitting supply bag.",
-	pageId = 224,
 	timestamp = "1243727868",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		225,
 	},
 	previous = 223,
+	page_id = 224,
+	long_title = true,
 }

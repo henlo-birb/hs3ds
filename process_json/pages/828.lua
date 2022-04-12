@@ -1,6 +1,5 @@
 return {
 	title = "Jade: See if Dave left you a sweet new rap.",
-	pageId = 828,
 	timestamp = "1256890473",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		829,
 	},
 	previous = 827,
+	page_id = 828,
+	long_title = true,
 }

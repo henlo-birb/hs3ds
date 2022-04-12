@@ -1,6 +1,5 @@
 return {
 	title = "John: Take PDA.",
-	pageId = 554,
 	timestamp = "1251447717",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		555,
 	},
 	previous = 553,
+	page_id = 554,
+	long_title = false,
 }

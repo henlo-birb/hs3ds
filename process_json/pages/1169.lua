@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Take the spade key.",
-	pageId = 1169,
 	timestamp = "1263772232",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1170,
 	},
 	previous = 1168,
+	page_id = 1169,
+	long_title = false,
 }

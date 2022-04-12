@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Check if Sweet Bro and Hella Jeff has a sweet update.",
-	pageId = 459,
 	timestamp = "1249967020",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		460,
 	},
 	previous = 458,
+	page_id = 459,
+	long_title = true,
 }

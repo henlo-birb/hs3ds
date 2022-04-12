@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Load wand.",
-	pageId = 5114,
 	timestamp = "1340231168",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		5115,
 	},
 	previous = 5113,
+	page_id = 5114,
+	long_title = false,
 }

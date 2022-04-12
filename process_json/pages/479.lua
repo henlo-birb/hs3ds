@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Use pogo ride to fling grist through window.",
-	pageId = 479,
 	timestamp = "1250370222",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		480,
 	},
 	previous = 478,
+	page_id = 479,
+	long_title = true,
 }

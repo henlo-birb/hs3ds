@@ -1,6 +1,5 @@
 return {
 	title = "TT: Select magic chest.",
-	pageId = 139,
 	timestamp = "1242114007",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		140,
 	},
 	previous = 138,
+	page_id = 139,
+	long_title = false,
 }

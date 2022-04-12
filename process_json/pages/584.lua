@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Press EJECT button.",
-	pageId = 584,
 	timestamp = "1252104114",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		585,
 	},
 	previous = 583,
+	page_id = 584,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Play some hauntingly sick beats.",
-	pageId = 337,
 	timestamp = "1246679601",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		338,
 	},
 	previous = 336,
+	page_id = 337,
+	long_title = true,
 }

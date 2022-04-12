@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Use the turntables and cinderblocks to make a fort.",
-	pageId = 606,
 	timestamp = "1252286352",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		607,
 	},
 	previous = 605,
+	page_id = 606,
+	long_title = true,
 }

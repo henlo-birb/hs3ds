@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6I3] ==>",
-	pageId = 5308,
 	timestamp = "1348463254",
 	flag = {
 		"J",
@@ -14,22 +13,27 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"MAP",
+		"MAP\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		5309,
 	},
 	previous = 5307,
+	page_id = 5308,
+	long_title = false,
 }

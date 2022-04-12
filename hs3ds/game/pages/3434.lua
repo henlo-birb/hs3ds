@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine horn pile.",
-	pageId = 3434,
 	timestamp = "1296849076",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"This was no nap. This was...",
+		"This was no nap. This was...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ANOTHER MURDER.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What is going on in this lab???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANOTHER MURDER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What is going on in this lab???\
+",
 	},
 	next = {
 		3435,
 	},
 	previous = 3433,
+	page_id = 3434,
+	long_title = false,
 }

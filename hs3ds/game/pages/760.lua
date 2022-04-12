@@ -1,6 +1,5 @@
 return {
 	title = "ACT 3 ==>",
-	pageId = 760,
 	timestamp = "1255498020",
 	flag = {},
 	media = {
@@ -12,18 +11,97 @@ return {
 			0,
 			0,
 		},
-		"A silly girl naps by her flowers. It is quite likely that she tired herself out with a variety of silly antics, as silly girls are often known to do. She may have a silly name too. Or maybe not. It is hard to say for sure without asking her.",
+		"A silly girl naps by her flowers. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is quite likely that she tired herself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out with a variety of silly antics, as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"silly girls are often known to do. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"may have a silly name too. Or maybe\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not. It is hard to say for sure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without asking her.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But since she's slumbering peacefully, it would be a shame to wake her up. You might as well just give her a name right now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But since she's slumbering peacefully,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it would be a shame to wake her up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You might as well just give her a name\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"right now.\
+",
 	},
 	next = {
 		761,
 	},
 	previous = 759,
+	page_id = 760,
+	long_title = false,
 }

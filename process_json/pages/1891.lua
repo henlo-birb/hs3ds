@@ -1,6 +1,5 @@
 return {
 	title = "John: Scale echeladder.",
-	pageId = 1891,
 	timestamp = "1274392781",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1892,
 	},
 	previous = 1890,
+	page_id = 1891,
+	long_title = false,
 }

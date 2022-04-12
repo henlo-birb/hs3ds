@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3140,
 	timestamp = "1293146549",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Karkat cannot be conveyed with a more detailed portrait yet. He is too angry, and is forced to look like shit.",
+		"Karkat cannot be conveyed with a more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"detailed portrait yet. He is too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"angry, and is forced to look like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe later if he can manage to calm down.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe later if he can manage to calm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down.\
+",
 	},
 	next = {
 		3141,
 	},
 	previous = 3139,
+	page_id = 3140,
+	long_title = false,
 }

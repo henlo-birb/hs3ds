@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine mailbox.",
-	pageId = 28,
 	timestamp = "1239831678",
 	flag = {},
 	media = {
@@ -13,18 +12,76 @@ return {
 			0,
 			0,
 		},
-		"The little red arm-swingy-dealy thing or whatever it is called is flipped up!",
+		"The little red arm-swingy-dealy thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or whatever it is called is flipped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What the hell is that thing called anyway. You do not have time for these semantics. The red flippy-lever thing means you have new mail. And that means the beta might be here!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What the hell is that thing called\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anyway. You do not have time for these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"semantics. The red flippy-lever thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"means you have new mail. And that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"means the beta might be here!\
+",
 	},
 	next = {
 		29,
 	},
 	previous = 27,
+	page_id = 28,
+	long_title = false,
 }

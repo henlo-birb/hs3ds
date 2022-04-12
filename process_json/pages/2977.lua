@@ -1,6 +1,5 @@
 return {
 	title = "JOHN, I APOLOGIZE IN A MANNERLY WAY FOR MY BIG LETTERS.",
-	pageId = 2977,
 	timestamp = "1291312272",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2978,
 	},
 	previous = 2976,
+	page_id = 2977,
+	long_title = true,
 }

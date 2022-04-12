@@ -1,6 +1,5 @@
 return {
 	title = "THIS IS THE WORST THING THAT'S EVER HAPPENED TO ME.",
-	pageId = 6923,
 	timestamp = "1414891838",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 	},
 	previous = 6922,
 	theme = "A6A6",
+	page_id = 6923,
+	long_title = true,
 }

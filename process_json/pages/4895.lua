@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Empty pumpkin on floor.",
-	pageId = 4895,
 	timestamp = "1335909166",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4896,
 	},
 	previous = 4894,
+	page_id = 4895,
+	long_title = false,
 }

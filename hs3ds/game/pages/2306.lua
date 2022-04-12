@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Be in cahoots with Jack.",
-	pageId = 2306,
 	timestamp = "1280427720",
 	flag = {
 		"R4",
@@ -14,18 +13,139 @@ return {
 			0,
 			0,
 		},
-		"You and your like-blooded accomplice soon put OPERATION REGISURP into motion, a contingency plan which the archagent conveniently had on file and named himself. If it were drafted by a legitimate contingency firm, it would ostensibly have been given a better title.",
+		"You and your like-blooded accomplice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"soon put OPERATION REGISURP into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"motion, a contingency plan which the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"archagent conveniently had on file and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"named himself. If it were drafted by a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"legitimate contingency firm, it would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ostensibly have been given a better\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"title.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your whole team executes the plan along the course of its journey, employing espionage, mind control tactics, political sabotage, vicious interrogations and cold blooded assassinations. Everyone does their part and you begin to learn the true meaning of teamwork, as well as this troll disease called friendship.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your whole team executes the plan\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along the course of its journey,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"employing espionage, mind control\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tactics, political sabotage, vicious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"interrogations and cold blooded\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"assassinations. Everyone does their\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"part and you begin to learn the true\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meaning of teamwork, as well as this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troll disease called friendship.\
+",
 	},
 	next = {
 		2307,
 	},
 	previous = 2305,
+	page_id = 2306,
+	long_title = false,
 }

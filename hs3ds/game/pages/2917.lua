@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2917,
 	timestamp = "1290307053",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"NO NANNA NOOOOOOOOOOOOOOOOOOO",
+		"NO NANNA NOOOOOOOOOOOOOOOOOOO\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Well, at least you are pretty sure she doesn't live in there. She is probably still back at your house, baking or something.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Well, at least you are pretty sure she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doesn't live in there. She is probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"still back at your house, baking or\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something.\
+",
 	},
 	next = {
 		2918,
 	},
 	previous = 2916,
+	page_id = 2917,
+	long_title = false,
 }

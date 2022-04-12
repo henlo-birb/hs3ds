@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine box of crayons.",
-	pageId = 690,
 	timestamp = "1253850418",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"It's chalk numbnuts.",
+		"It's chalk numbnuts.\
+",
 	},
 	next = {
 		691,
 	},
 	previous = 689,
+	page_id = 690,
+	long_title = false,
 }

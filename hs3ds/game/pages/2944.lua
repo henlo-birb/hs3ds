@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine pumpkin.",
-	pageId = 2944,
 	timestamp = "1291088776",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You feel as though there is something you've forgotten. Something concealed in long slumbering memories.",
+		"You feel as though there is something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you've forgotten. Something concealed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in long slumbering memories.\
+",
 	},
 	next = {
 		2945,
 	},
 	previous = 2943,
+	page_id = 2944,
+	long_title = false,
 }

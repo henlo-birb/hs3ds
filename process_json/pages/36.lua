@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine fake arms with cake.",
-	pageId = 36,
 	timestamp = "1239918879",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		37,
 	},
 	previous = 35,
+	page_id = 36,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: See what you can observe.",
-	pageId = 237,
 	timestamp = "1244096422",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		238,
 	},
 	previous = 236,
+	page_id = 237,
+	long_title = false,
 }

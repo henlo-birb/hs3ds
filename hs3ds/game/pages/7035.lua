@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7035,
 	timestamp = "1416201405",
 	flag = {},
 	media = {
@@ -12,94 +11,237 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: lmao\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: lmao",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: scarf troll ur p funny\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: scarf troll ur p funny",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: hope i meet ya again\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: hope i meet ya again",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: or at least some version of myself meets some version of urself",
+		"ROXY: or at least some version of\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"myself meets some version of urself\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: whew wat an abstract wish! fantasy wishgiver dreamchrist dont even kno what that meant enough to make it happen or not",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: he and his loyal entourage of religion-wizerds just shruggin @ eachother",
+		"ROXY: whew wat an abstract wish!\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: um k so",
+		"fantasy wishgiver dreamchrist dont\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: good luck fixin all the shit john",
+		"even kno what that meant enough to\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"make it happen or not\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: anyway im out",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: phasin down to the core o this sucker 4 denizen timez",
+		"ROXY: he and his loyal entourage of\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: later dudes",
+		"religion-wizerds just shruggin @\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"eachother\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: *poof!*",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: um k so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: good luck fixin all the shit\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"john\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: anyway im out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: phasin down to the core o this\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"sucker 4 denizen timez\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: later dudes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: *poof!*\
+",
 	},
 	next = {
 		7036,
 	},
 	previous = 7034,
+	page_id = 7035,
+	long_title = false,
 }

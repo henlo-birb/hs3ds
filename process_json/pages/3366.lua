@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Sniff around for clues.",
-	pageId = 3366,
 	timestamp = "1296092236",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3367,
 	},
 	previous = 3365,
+	page_id = 3366,
+	long_title = false,
 }

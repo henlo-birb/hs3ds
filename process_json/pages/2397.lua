@@ -1,6 +1,5 @@
 return {
 	title = "Examine ashen quadrant.",
-	pageId = 2397,
 	timestamp = "1281564092",
 	flag = {},
 	media = {
@@ -222,4 +221,6 @@ return {
 		2398,
 	},
 	previous = 2396,
+	page_id = 2397,
+	long_title = false,
 }

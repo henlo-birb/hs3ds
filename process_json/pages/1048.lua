@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Inspect neighbor's tower.",
-	pageId = 1048,
 	timestamp = "1261368034",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1049,
 	},
 	previous = 1047,
+	page_id = 1048,
+	long_title = false,
 }

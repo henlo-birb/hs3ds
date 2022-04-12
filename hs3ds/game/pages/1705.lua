@@ -1,6 +1,5 @@
 return {
 	title = "John: Check Rose's bookshelf.",
-	pageId = 1705,
 	timestamp = "1271647980",
 	flag = {},
 	media = {
@@ -12,38 +11,153 @@ return {
 			0,
 			0,
 		},
-		"You eye your birthday package again curiously. It's awfully tempting to peek inside, but you feel guilty about it for some reason, even though it's yours anyway.",
+		"You eye your birthday package again\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"curiously. It's awfully tempting to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peek inside, but you feel guilty about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it for some reason, even though it's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yours anyway.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You suppose a perusal of her bookshelf would be harmless enough. Just a bunch of books. The knowledge within is meant for everybody.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Dave pesters you with the message, \"",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You suppose a perusal of her bookshelf\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be harmless enough. Just a bunch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of books. The knowledge within is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meant for everybody.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Dave pesters you with the message, \"\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"TG: afdsjjjjjjjjvfffffffffffffffffffffffffffffffff",
+		"TG:\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"afdsjjjjjjjjvfffffffffffffffffffffffffffffffff\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"\" which you decide not to bother dignifying with a whole pesterlog ordeal because it's probably just him being a truculent jackass again so screw him.",
+		"\" which you decide not to bother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dignifying with a whole pesterlog\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ordeal because it's probably just him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"being a truculent jackass again so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"screw him.\
+",
 	},
 	next = {
 		1706,
 	},
 	previous = 1704,
+	page_id = 1705,
+	long_title = false,
 }

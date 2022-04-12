@@ -1,6 +1,5 @@
 return {
 	title = "[o] And what sort of spectator would you be...",
-	pageId = 3791,
 	timestamp = "1306370084",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 	},
 	previous = 3790,
 	theme = "scratch",
+	page_id = 3791,
+	long_title = true,
 }

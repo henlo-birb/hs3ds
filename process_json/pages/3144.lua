@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Alchemize.",
-	pageId = 3144,
 	timestamp = "1293241845",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3145,
 	},
 	previous = 3143,
+	page_id = 3144,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Do a silly dance.",
-	pageId = 1217,
 	timestamp = "1264129922",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1218,
 	},
 	previous = 1216,
+	page_id = 1217,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AR: Examine moving platform.",
-	pageId = 1111,
 	timestamp = "1262575741",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"It appears to be a large stage serving as a kind of elevator. But it can't go down because there's something jammed in it. Looks like a peculiar musical instrument, probably centuries old.",
+		"It appears to be a large stage serving\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as a kind of elevator. But it can't go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"down because there's something jammed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in it. Looks like a peculiar musical\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instrument, probably centuries old.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But yeah, the jury agrees. You've got to go blow up those trespassers.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But yeah, the jury agrees. You've got\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to go blow up those trespassers.\
+",
 	},
 	next = {
 		1112,
 	},
 	previous = 1110,
+	page_id = 1111,
+	long_title = false,
 }

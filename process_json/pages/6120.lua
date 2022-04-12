@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Inquire about personals.",
-	pageId = 6120,
 	timestamp = "1365324323",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		6121,
 	},
 	previous = 6119,
+	page_id = 6120,
+	long_title = true,
 }

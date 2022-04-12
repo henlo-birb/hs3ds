@@ -1,6 +1,5 @@
 return {
 	title = "FINE. JOHN. RETURN TO YOUR QUARTERS.",
-	pageId = 255,
 	timestamp = "1245095621",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		256,
 	},
 	previous = 254,
+	page_id = 255,
+	long_title = true,
 }

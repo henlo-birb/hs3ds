@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5961,
 	timestamp = "1362716231",
 	flag = {},
 	media = {
@@ -13,94 +12,244 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: There was a very mysterious alien race called cheru8s!",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: aranea i thought you said youd fix the shitty parts of the story",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: you started with that crappy line the first time too",
+		"ARANEA: There was a very mysterious\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"alien race called cheru8s!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: The opening line is fine!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: its aight i guess",
+		"MEENAH: aranea i thought you said youd\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"fix the shitty parts of the story\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: knot",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: you started with that crappy\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"line the first time too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: The opening line is fine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Oh shut up and let me tell my story.",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: its aight i guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: knot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Oh shut up and let me tell my\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"story.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Now where was I?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Now where was I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: there was a very mysterious\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"alien race called cherubs.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: there was a very mysterious alien race called cherubs.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Right.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: There was a very mysterious alien race called cheru8s.",
+		"ARANEA: There was a very mysterious\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"alien race called cheru8s.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: 8ut there was one cheru8 in particular who, for at least the first half of our story, will 8e our heroine.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut there was one cheru8 in\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"particular who, for at least the first\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"half of our story, will 8e our\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"heroine.\
+",
 	},
 	next = {
 		5962,
 	},
 	previous = 5960,
+	page_id = 5961,
+	long_title = false,
 }

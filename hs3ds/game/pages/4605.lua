@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4605,
 	timestamp = "1330154753",
 	flag = {},
 	media = {
@@ -12,10 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You never understood what the point of this thing was. It's old and damaged. Whatever is supposed to show up on the screens is blacked out, either due to the damage, or due to this voidey blackout bullshit that seems to follow you wherever you go.",
+		"You never understood what the point of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this thing was. It's old and damaged.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whatever is supposed to show up on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"screens is blacked out, either due to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the damage, or due to this voidey\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blackout bullshit that seems to follow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you wherever you go.\
+",
 	},
 	next = {
 		4606,
 	},
 	previous = 4604,
+	page_id = 4605,
+	long_title = false,
 }

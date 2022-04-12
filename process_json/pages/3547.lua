@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Accessorize immediately.",
-	pageId = 3547,
 	timestamp = "1298161348",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3548,
 	},
 	previous = 3546,
+	page_id = 3547,
+	long_title = false,
 }

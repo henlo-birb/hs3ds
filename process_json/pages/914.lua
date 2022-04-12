@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Examine those chaps on the sofa.",
-	pageId = 914,
 	timestamp = "1259199239",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		915,
 	},
 	previous = 913,
+	page_id = 914,
+	long_title = true,
 }

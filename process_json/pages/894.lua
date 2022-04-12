@@ -1,6 +1,5 @@
 return {
 	title = "PM: Open envelope.",
-	pageId = 894,
 	timestamp = "1258925761",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		895,
 	},
 	previous = 893,
+	page_id = 894,
+	long_title = false,
 }

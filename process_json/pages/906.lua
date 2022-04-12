@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Wear the scarf. Be the Rider.",
-	pageId = 906,
 	timestamp = "1259011179",
 	flag = {},
 	media = {
@@ -35,4 +34,6 @@ return {
 		907,
 	},
 	previous = 905,
+	page_id = 906,
+	long_title = true,
 }

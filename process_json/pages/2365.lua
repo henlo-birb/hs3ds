@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Fly, Pupa!!!!!!!!",
-	pageId = 2365,
 	timestamp = "1281130589",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		2366,
 	},
 	previous = 2364,
+	page_id = 2365,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "OPEN CHEST.",
-	pageId = 6515,
 	timestamp = "1378007654",
 	flag = {},
 	media = {
@@ -12,19 +11,49 @@ return {
 			0,
 			0,
 		},
-		"YOU OPEN THE CHEST. TO REVEAL A COLLECTION OF ILLICIT SMUT.",
+		"YOU OPEN THE CHEST. TO REVEAL A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COLLECTION OF ILLICIT SMUT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-*JACKPOT* I SAY. BY WHICH I MEAN. YOU SAY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"*JACKPOT* I SAY. BY WHICH I MEAN. YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SAY.\
+",
 	},
 	next = {
 		6516,
 	},
 	previous = 6514,
 	theme = "A6A6",
+	page_id = 6515,
+	long_title = false,
 }

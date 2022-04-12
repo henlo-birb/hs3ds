@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Johnny 5 and lunchtop.",
-	pageId = 3148,
 	timestamp = "1293242080",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		3149,
 	},
 	previous = 3147,
+	page_id = 3148,
+	long_title = true,
 }

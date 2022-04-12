@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Be the other guy.",
-	pageId = 4911,
 	timestamp = "1336026297",
 	flag = {},
 	media = {
@@ -132,4 +131,6 @@ return {
 		4912,
 	},
 	previous = 4910,
+	page_id = 4911,
+	long_title = false,
 }

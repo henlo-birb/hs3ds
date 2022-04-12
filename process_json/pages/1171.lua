@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Wonder where the number 8 mugshot went.",
-	pageId = 1171,
 	timestamp = "1263786383",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1172,
 	},
 	previous = 1170,
+	page_id = 1171,
+	long_title = true,
 }

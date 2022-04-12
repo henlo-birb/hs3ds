@@ -1,6 +1,5 @@
 return {
 	title = "AR: Be the law.",
-	pageId = 1120,
 	timestamp = "1262641536",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1121,
 	},
 	previous = 1119,
+	page_id = 1120,
+	long_title = false,
 }

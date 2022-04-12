@@ -1,6 +1,5 @@
 return {
 	title = "THESE BORING MEN ARE UNINTERESTING.",
-	pageId = 268,
 	timestamp = "1245205163",
 	flag = {},
 	media = {
@@ -244,4 +243,6 @@ return {
 		269,
 	},
 	previous = 267,
+	page_id = 268,
+	long_title = true,
 }

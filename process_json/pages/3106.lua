@@ -1,6 +1,5 @@
 return {
 	title = "THATS IT",
-	pageId = 3106,
 	timestamp = "1292914392",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3107,
 	},
 	previous = 3105,
+	page_id = 3106,
+	long_title = false,
 }

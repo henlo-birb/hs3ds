@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Ready sword.",
-	pageId = 1478,
 	timestamp = "1267047746",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You do not have a sword. You are quite sure it would never occur to you to carry a sword or resort to violence under any circumstance.",
+		"You do not have a sword. You are quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure it would never occur to you to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"carry a sword or resort to violence\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"under any circumstance.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will have to take a more diplomatic route with this fellow.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will have to take a more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"diplomatic route with this fellow.\
+",
 	},
 	next = {
 		1479,
 	},
 	previous = 1477,
+	page_id = 1478,
+	long_title = false,
 }

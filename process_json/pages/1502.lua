@@ -1,6 +1,5 @@
 return {
 	title = "WV: Fondly regard desert night.",
-	pageId = 1502,
 	timestamp = "1267232846",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1503,
 	},
 	previous = 1501,
+	page_id = 1502,
+	long_title = false,
 }

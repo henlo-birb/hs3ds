@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Take voodoo doll.",
-	pageId = 1239,
 	timestamp = "1264280635",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		1240,
 	},
 	previous = 1238,
+	page_id = 1239,
+	long_title = false,
 }

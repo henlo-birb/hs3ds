@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1255,
 	timestamp = "1264478557",
 	flag = {},
 	media = {
@@ -12,54 +11,104 @@ return {
 			0,
 			0,
 		},
-		"Droog says Deuce is tailing ",
+		"Droog says Deuce is tailing\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Fin",
+		"Fin\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		", while he is tailing Deuce. He'll be there to help out Boxcars as soon as he and Deuce take care of business with ",
+		", while he is tailing Deuce. He'll be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there to help out Boxcars as soon as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he and Deuce take care of business\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Stitch",
+		"Stitch\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". Couldn't be simpler.",
+		". Couldn't be simpler.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh yeah, he also mentions he pumped ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh yeah, he also mentions he pumped\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Fin ",
+		"Fin\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"full of lead so you can cross him off the list. You roger all that.",
+		"full of lead so you can cross him off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the list. You roger all that.\
+",
 	},
 	next = {
 		1256,
 	},
 	previous = 1254,
+	page_id = 1255,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Triple somersault into room, etc. Stick the landing.",
-	pageId = 946,
 	timestamp = "1259800790",
 	flag = {},
 	media = {
@@ -12,26 +11,90 @@ return {
 			0,
 			0,
 		},
-		"Ok, you do that. You are now in your DAD'S room.",
+		"Ok, you do that. You are now in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAD'S room.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hmm... Where are all the clowns?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You spot your DAD'S BRIEFCASE beside you. It probably contains all sorts of clues, or at least various forms and paperwork critical to his trade as a hilarious street performer.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hmm... Where are all the clowns?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You spot your DAD'S BRIEFCASE beside\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you. It probably contains all sorts of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"clues, or at least various forms and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paperwork critical to his trade as a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hilarious street performer.\
+",
 	},
 	next = {
 		947,
 	},
 	previous = 945,
+	page_id = 946,
+	long_title = true,
 }

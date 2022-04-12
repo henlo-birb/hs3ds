@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Check out DVD.",
-	pageId = 2008,
 	timestamp = "1276553383",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		2009,
 	},
 	previous = 2007,
+	page_id = 2008,
+	long_title = false,
 }

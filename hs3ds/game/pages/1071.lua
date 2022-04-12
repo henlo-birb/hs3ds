@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1071,
 	timestamp = "1261643203",
 	flag = {
 		"R4",
@@ -14,49 +13,76 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
--- turntechGodhead ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"-- turntechGodhead\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"[TG]",
+		"[TG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ectoBiologist ",
+		"began pestering ectoBiologist\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"[EB]",
+		"[EB]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" --",
+		"--\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-\
-TG: bro just kicked my ass",
+		"TG: bro just kicked my ass\
+",
 	},
 	next = {
 		1072,
 	},
 	previous = 1070,
+	page_id = 1071,
+	long_title = false,
 }

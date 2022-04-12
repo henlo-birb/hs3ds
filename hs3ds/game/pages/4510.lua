@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4510,
 	timestamp = "1327623474",
 	flag = {},
 	media = {
@@ -12,10 +11,216 @@ return {
 			0,
 			0,
 		},
-		"From the perspective of anyone observing the two windows from the outside, transport looks instantaneous. But for the traveler, there's always this gap of void between them. In your experience, the more significant the journey between the planes is, the wider the gap. This one is small enough to be negligible though. Probably because it leads to somewhere else in your house. You've set a bunch of these up as little shortcuts to places around your house, as well as some places nearby like the lab. It's a convenient way to hop around, though isn't without some risk. You're still not sure what happens if one of the planes loses power while in transit, other than objects predictably getting sliced in half if they're straddling the plane when the plug is pulled. You haven't come up with a good way to observe the consequences from the inside yet, without using yourself as a giguinea pig. And you're in as much a hurry to try that as you are to look up the correct spelling of guinea pig, because seriously, fuck those particular pigs.",
+		"From the perspective of anyone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"observing the two windows from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outside, transport looks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instantaneous. But for the traveler,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there's always this gap of void\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"between them. In your experience, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more significant the journey between\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the planes is, the wider the gap. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one is small enough to be negligible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though. Probably because it leads to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhere else in your house. You've\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"set a bunch of these up as little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shortcuts to places around your house,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as well as some places nearby like the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lab. It's a convenient way to hop\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around, though isn't without some\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"risk. You're still not sure what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happens if one of the planes loses\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"power while in transit, other than\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"objects predictably getting sliced in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"half if they're straddling the plane\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when the plug is pulled. You haven't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come up with a good way to observe the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"consequences from the inside yet,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without using yourself as a giguinea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pig. And you're in as much a hurry to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"try that as you are to look up the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"correct spelling of guinea pig,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because seriously, fuck those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"particular pigs.\
+",
 	},
 	next = {
 		4511,
 	},
 	previous = 4509,
+	page_id = 4510,
+	long_title = false,
 }

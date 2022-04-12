@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6305,
 	timestamp = "1371627827",
 	flag = {},
 	media = {
@@ -12,129 +11,314 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: this poster...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: this poster...",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: love this poster\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: love this poster",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: its like an old friend\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: its like an old friend",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: never even knew who these guys were or what their deal was",
+		"DAVE: never even knew who these guys\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"were or what their deal was\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: never gave it much thought i guess",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: doubt ill ever find out at this point",
+		"DAVE: never gave it much thought i\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: oh well",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: some things i guess were never meant to be figured out",
+		"DAVE: doubt ill ever find out at this\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"point\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: or benefit from any kind of elaboration",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: oh well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: not even years later",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: just the way it is sometimes",
+		"DAVE: some things i guess were never\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"meant to be figured out\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: its like ive said before",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: this poster is a hell of a mystery",
+		"DAVE: or benefit from any kind of\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"elaboration\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: that i never even thought was a mystery",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: not even years later\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: and it would be pretty cool if somebody solved it",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: just the way it is sometimes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: but damn if thats ever gonna happen",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: its like ive said before\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: so thats a shame",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: this poster is a hell of a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"mystery\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: that i never even thought was a\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"mystery\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: and it would be pretty cool if\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"somebody solved it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but damn if thats ever gonna\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"happen\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: so thats a shame\
+",
 	},
 	next = {
 		6306,
 	},
 	previous = 6304,
+	page_id = 6305,
+	long_title = false,
 }

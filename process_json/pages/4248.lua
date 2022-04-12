@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine frog temple.",
-	pageId = 4248,
 	timestamp = "1322715484",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		4249,
 	},
 	previous = 4247,
+	page_id = 4248,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Consult little advantage.",
-	pageId = 2259,
 	timestamp = "1279360366",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"She can't be serious. What could POSSIBLY lead to your demise in a matter of minutes?",
+		"She can't be serious. What could\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"POSSIBLY lead to your demise in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter of minutes?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-WHAT COULD IT POSSIBLY BE???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WHAT COULD IT POSSIBLY BE???\
+",
 	},
 	next = {
 		2260,
 	},
 	previous = 2258,
+	page_id = 2259,
+	long_title = true,
 }

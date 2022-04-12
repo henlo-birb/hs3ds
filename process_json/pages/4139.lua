@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Look around.",
-	pageId = 4139,
 	timestamp = "1321253547",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 		4140,
 	},
 	previous = 4138,
+	page_id = 4139,
+	long_title = false,
 }

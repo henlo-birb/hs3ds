@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6046,
 	timestamp = "1364204101",
 	flag = {
 		"F",
@@ -14,17 +13,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
-		"\
-SOLLUX: LADIES.",
+		"SOLLUX: LADIES.\
+",
 	},
 	next = {
 		6047,
 	},
 	previous = 6045,
+	page_id = 6046,
+	long_title = false,
 }

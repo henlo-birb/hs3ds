@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4976,
 	timestamp = "1338058452",
 	flag = {},
 	media = {
@@ -12,45 +11,83 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: AND THE GREAT THING IS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: AND THE GREAT THING IS.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: HOW I GOT THE IDEA FROM YOuR GAME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: HOW I GOT THE IDEA FROM YOuR GAME.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: What idea?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What idea?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: The idea to kill her dream self?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: The idea to kill her dream self?",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: NO.",
+		"uu: NO.\
+",
 	},
 	next = {
 		4977,
 	},
 	previous = 4975,
+	page_id = 4976,
+	long_title = false,
 }

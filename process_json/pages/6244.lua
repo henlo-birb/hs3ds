@@ -1,10 +1,9 @@
 return {
 	title = "HOMOSUCK.",
-	pageId = "008144",
 	timestamp = "1371078647",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/06241.gif",
+		"06241",
 	},
 	content = {
 		{
@@ -117,4 +116,6 @@ return {
 		6245,
 	},
 	theme = "A6A6",
+	page_id = 6244,
+	long_title = false,
 }

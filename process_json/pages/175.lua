@@ -1,6 +1,5 @@
 return {
 	title = "John: Hit Cruxtruder with sledgehammer.",
-	pageId = 175,
 	timestamp = "1242627285",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		176,
 	},
 	previous = 174,
+	page_id = 175,
+	long_title = true,
 }

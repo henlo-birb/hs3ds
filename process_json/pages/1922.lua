@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Fast forward.",
-	pageId = 1922,
 	timestamp = "1274671037",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1923,
 	},
 	previous = 1921,
+	page_id = 1922,
+	long_title = false,
 }

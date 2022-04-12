@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine Con Air poster.",
-	pageId = 20,
 	timestamp = "1239745963",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		21,
 	},
 	previous = 19,
+	page_id = 20,
+	long_title = false,
 }

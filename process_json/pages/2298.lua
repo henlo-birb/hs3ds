@@ -1,6 +1,5 @@
 return {
 	title = "Be Jack a few minutes ago...",
-	pageId = 2298,
 	timestamp = "1280353180",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2299,
 	},
 	previous = 2297,
+	page_id = 2298,
+	long_title = false,
 }

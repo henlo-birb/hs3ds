@@ -1,6 +1,5 @@
 return {
 	title = "NOW EXULT. VICTORY, SPOILS ARE YOURS.",
-	pageId = 405,
 	timestamp = "1248737117",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		406,
 	},
 	previous = 404,
+	page_id = 405,
+	long_title = true,
 }

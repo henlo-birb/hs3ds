@@ -1,6 +1,5 @@
 return {
 	title = "State name and rank.",
-	pageId = 955,
 	timestamp = "1259872349",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 		956,
 	},
 	previous = 954,
+	page_id = 955,
+	long_title = false,
 }

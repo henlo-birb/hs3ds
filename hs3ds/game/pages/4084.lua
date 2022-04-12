@@ -1,6 +1,5 @@
 return {
 	title = "Insert disc 2.",
-	pageId = 4084,
 	timestamp = "1313990633",
 	flag = {
 		"F",
@@ -11,4 +10,6 @@ return {
 	content = {},
 	next = {},
 	previous = 4083,
+	page_id = 4084,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Read Pony Pals.",
-	pageId = 4438,
 	timestamp = "1326260096",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		4439,
 	},
 	previous = 4437,
+	page_id = 4438,
+	long_title = false,
 }

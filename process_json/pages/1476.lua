@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Retrieve package.",
-	pageId = 1476,
 	timestamp = "1266978988",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1477,
 	},
 	previous = 1475,
+	page_id = 1476,
+	long_title = false,
 }

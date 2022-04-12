@@ -1,6 +1,5 @@
 return {
 	title = "NOW IS WHEN THE PUMMELING BEGINS.",
-	pageId = 7427,
 	timestamp = "1428979520",
 	flag = {
 		"F",
@@ -43,4 +42,6 @@ return {
 	},
 	previous = 7426,
 	theme = "A6A6",
+	page_id = 7427,
+	long_title = true,
 }

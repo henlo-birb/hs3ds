@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 538,
 	timestamp = "1251257861",
 	flag = {},
 	media = {
@@ -12,73 +11,216 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: wow, that was so totally unnecessary!",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: I made a shortcut upstairs. I thought it would be a good idea to get up there and try the cards as soon as possible.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Also, you weren't being terribly responsive.",
+		"EB: wow, that was so totally\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"unnecessary!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: you mean these stairs?",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I made a shortcut upstairs. I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"thought it would be a good idea to get\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"up there and try the cards as soon as\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"possible.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Also, you weren't being terribly\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"responsive.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: you mean these stairs?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: man, look at these shitty stairs...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: man, look at these shitty\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"stairs...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: they're so narrow! i'm supposed to climb those?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"EB: they're so narrow! i'm supposed to\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"climb those?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: They're perfectly navigable.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: They're perfectly navigable.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I'm saving on grist for now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'm saving on grist for now.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: If you keep slaying foes, collecting grist, and expanding the cache limit, we may not need to be so economical with our resources in the future.",
+		"TT: If you keep slaying foes,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"collecting grist, and expanding the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cache limit, we may not need to be so\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"economical with our resources in the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"future.\
+",
 	},
 	next = {
 		539,
 	},
 	previous = 537,
+	page_id = 538,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1009,
 	timestamp = "1260667088",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Wait, what's that?",
+		"Wait, what's that?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's something dangling from the top of one of the towers near the temple.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's something dangling from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"top of one of the towers near the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"temple.\
+",
 	},
 	next = {
 		1010,
 	},
 	previous = 1008,
+	page_id = 1009,
+	long_title = false,
 }

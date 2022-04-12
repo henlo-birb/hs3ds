@@ -1,6 +1,5 @@
 return {
 	title = "Karkat and Terezi: Revive.",
-	pageId = 3384,
 	timestamp = "1296196200",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		3385,
 	},
 	previous = 3383,
+	page_id = 3384,
+	long_title = false,
 }

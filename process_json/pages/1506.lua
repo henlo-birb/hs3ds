@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Make the world's largest omlette.",
-	pageId = 1506,
 	timestamp = "1267319054",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1507,
 	},
 	previous = 1505,
+	page_id = 1506,
+	long_title = true,
 }

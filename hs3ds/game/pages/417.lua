@@ -1,6 +1,5 @@
 return {
 	title = "INCREDIBLY ALARMING. INVESTIGATE.",
-	pageId = 417,
 	timestamp = "1248924061",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"HOO HOO HOO HOO HOO!",
+		"HOO HOO HOO HOO HOO!\
+",
 	},
 	next = {
 		418,
 	},
 	previous = 416,
+	page_id = 417,
+	long_title = true,
 }

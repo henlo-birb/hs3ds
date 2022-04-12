@@ -1,6 +1,5 @@
 return {
 	title = "LADIES AND GENTLEMEN. WE HAVE A HATER.",
-	pageId = 6899,
 	timestamp = "1413697717",
 	flag = {},
 	media = {
@@ -195,4 +194,6 @@ return {
 	},
 	previous = 6898,
 	theme = "A6A6",
+	page_id = 6899,
+	long_title = true,
 }

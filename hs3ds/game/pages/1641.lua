@@ -1,6 +1,5 @@
 return {
 	title = "[S] Dave: Accelerate.",
-	pageId = 1641,
 	timestamp = "1270170307",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		1642,
 	},
 	previous = 1640,
+	page_id = 1641,
+	long_title = false,
 }

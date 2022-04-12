@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1108,
 	timestamp = "1262559511",
 	flag = {},
 	media = {
@@ -12,34 +11,202 @@ return {
 			0,
 			0,
 		},
-		"They are both in flagrant violation, trespassing through several zones which you painstakingly marked as off-limits while you conduct your investigation of this crime scene. It is your duty to investigate this ILLEGAL MONUMENT and get to the bottom of its ILLICIT AMPHIBIOUS IDOLATRY. Just thinking about all the sloppy footprints they are leaving in the sand makes your carapace steam.",
+		"They are both in flagrant violation,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trespassing through several zones\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which you painstakingly marked as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off-limits while you conduct your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"investigation of this crime scene. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is your duty to investigate this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ILLEGAL MONUMENT and get to the bottom\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of its ILLICIT AMPHIBIOUS IDOLATRY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just thinking about all the sloppy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"footprints they are leaving in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sand makes your carapace steam.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The law is all that's left to hold on to in this unforgiving dust bowl. You cannot afford to loosen your black claw's grip lest justice slip through your fingers. Law is beauty. Order is peace. Judgment is the very basis for all that is pure and...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hold that thought.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The law is all that's left to hold on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to in this unforgiving dust bowl. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cannot afford to loosen your black\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"claw's grip lest justice slip through\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your fingers. Law is beauty. Order is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peace. Judgment is the very basis for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all that is pure and...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You need to take a moment to wear something ridiculous before you continue your spiel...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hold that thought.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You need to take a moment to wear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something ridiculous before you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"continue your spiel...\
+",
 	},
 	next = {
 		1109,
 	},
 	previous = 1107,
+	page_id = 1108,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine Tavros.",
-	pageId = 3362,
 	timestamp = "1296074349",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		3363,
 	},
 	previous = 3361,
+	page_id = 3362,
+	long_title = false,
 }

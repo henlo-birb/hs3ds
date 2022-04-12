@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Appearify frog.",
-	pageId = 3315,
 	timestamp = "1295405083",
 	flag = {},
 	media = {
@@ -12,192 +11,517 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: oh god, it is still a frogcicle!!!!",
+		"GG: oh god, it is still a\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: this will not do",
+		"frogcicle!!!!\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: The Problem Isnt That The Frog Is Still Frozen",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: The Problem Is That You Were Able To Appearify It At All",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: Ectobiology Is Based Entirely On Your Inability To Appearify A Subject",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: this will not do\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i dont understand!",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: The Problem Isnt That The Frog Is\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Still Frozen\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: The Problem Is That You Were Able\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"To Appearify It At All\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Ectobiology Is Based Entirely On\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Your Inability To Appearify A Subject\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: but i am intrigued...",
+		"GG: i dont understand!\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: If That Frog Were Destined To Do Something Else",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: Such As Become Ensnared In Your Net Later",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: You Would Not Be Able To Appearify It Because That Would Cause A Paradox",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: So Instead You Would Appearify Its Slime Imprint",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: The Paradox Slime Is What Is Important Here",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: You Can Mix It With The Slime From Other Paradoxically Appearified Frog Imprints",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: Study The Genes And Selectively Combine",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: And Then Create Resulting Paradox Clones",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: but i am intrigued...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: ok, that makes sense i think",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: If That Frog Were Destined To Do\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Something Else\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Such As Become Ensnared In Your\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Net Later\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: You Would Not Be Able To Appearify\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"It Because That Would Cause A Paradox\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: So Instead You Would Appearify Its\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Slime Imprint\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: The Paradox Slime Is What Is\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Important Here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: You Can Mix It With The Slime From\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Other Paradoxically Appearified Frog\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Imprints\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Study The Genes And Selectively\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Combine\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And Then Create Resulting Paradox\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Clones\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: how can i appearify some frog slime?",
+		"GG: ok, that makes sense i think\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: You Will Need To Direct The Terminal To Another Frog",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: And Then You Must Be Sure Later To Interfere With That Frog In Some Way",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: For Instance By Planning To Venture Out To Capture That Exact Frog As I Suggested Earlier",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: That Way It Will Be Impossible To Appearify The Frog Before Your Interference Has Taken Place",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: Only Its Slime Will Arrive",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: so it is like",
+		"GG: how can i appearify some frog\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: a sort of backwards frog breeding",
+		"slime?\
+",
 		{
-			0.2901960784313726,
-			0.788235294117647,
-			0.1450980392156863,
+			0,
+			0,
+			0,
 		},
 		"\
-GG: clone first, catch later?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: You Will Need To Direct The\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Terminal To Another Frog\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Yes",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And Then You Must Be Sure Later To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Interfere With That Frog In Some Way\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: For Instance By Planning To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Venture Out To Capture That Exact Frog\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"As I Suggested Earlier\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: That Way It Will Be Impossible To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Appearify The Frog Before Your\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Interference Has Taken Place\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Only Its Slime Will Arrive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: so it is like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: a sort of backwards frog breeding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: clone first, catch later?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Yes\
+",
 	},
 	next = {
 		3316,
 	},
 	previous = 3314,
+	page_id = 3315,
+	long_title = false,
 }

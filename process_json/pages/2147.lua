@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Look out window.",
-	pageId = 2147,
 	timestamp = "1278132124",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2148,
 	},
 	previous = 2146,
+	page_id = 2147,
+	long_title = false,
 }

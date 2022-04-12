@@ -1,6 +1,5 @@
 return {
 	title = "IT WAS A PRETTY GOOD FIGHT BETWEEN US.",
-	pageId = 7431,
 	timestamp = "1428980544",
 	flag = {
 		"F",
@@ -71,4 +70,6 @@ return {
 	},
 	previous = 7430,
 	theme = "A6A6",
+	page_id = 7431,
+	long_title = true,
 }

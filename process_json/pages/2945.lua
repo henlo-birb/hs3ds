@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine ring.",
-	pageId = 2945,
 	timestamp = "1291088867",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		2946,
 	},
 	previous = 2944,
+	page_id = 2945,
+	long_title = false,
 }

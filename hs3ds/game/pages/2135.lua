@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Retrieve computer.",
-	pageId = 2135,
 	timestamp = "1278029674",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"It's not up to you to decide what you retrieve from your sylladex. It's up to the spirits.",
+		"It's not up to you to decide what you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"retrieve from your sylladex. It's up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the spirits.\
+",
 	},
 	next = {
 		2136,
 	},
 	previous = 2134,
+	page_id = 2135,
+	long_title = false,
 }

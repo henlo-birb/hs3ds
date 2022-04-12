@@ -1,6 +1,5 @@
 return {
 	title = "Rose, find your sprite.",
-	pageId = 1491,
 	timestamp = "1267133157",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1492,
 	},
 	previous = 1490,
+	page_id = 1491,
+	long_title = false,
 }

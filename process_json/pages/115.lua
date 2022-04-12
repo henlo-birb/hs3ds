@@ -1,6 +1,5 @@
 return {
 	title = "John: Bone up on data structures.",
-	pageId = 115,
 	timestamp = "1241497776",
 	flag = {
 		"R4",
@@ -36,4 +35,6 @@ return {
 		116,
 	},
 	previous = 114,
+	page_id = 115,
+	long_title = true,
 }

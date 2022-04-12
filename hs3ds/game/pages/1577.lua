@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1577,
 	timestamp = "1268194986",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You make a tiny AIR CONDITIONER.",
+		"You make a tiny AIR CONDITIONER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This was totally not a waste of time!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This was totally not a waste of time!\
+",
 	},
 	next = {
 		1578,
 	},
 	previous = 1576,
+	page_id = 1577,
+	long_title = false,
 }

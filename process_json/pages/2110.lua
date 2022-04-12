@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Horsaroni: Spawntech -> Slumberbuddies.",
-	pageId = 2110,
 	timestamp = "1277760262",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		2111,
 	},
 	previous = 2109,
+	page_id = 2110,
+	long_title = true,
 }

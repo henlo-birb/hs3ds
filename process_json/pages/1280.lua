@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Stick Crowbar's pin back in again.",
-	pageId = 1280,
 	timestamp = "1264893649",
 	flag = {},
 	media = {
@@ -153,4 +152,6 @@ return {
 		1281,
 	},
 	previous = 1279,
+	page_id = 1280,
+	long_title = true,
 }

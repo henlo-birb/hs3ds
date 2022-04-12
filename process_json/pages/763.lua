@@ -1,6 +1,5 @@
 return {
 	title = "Retrieve arms from...",
-	pageId = 763,
 	timestamp = "1255504289",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		764,
 	},
 	previous = 762,
+	page_id = 763,
+	long_title = false,
 }

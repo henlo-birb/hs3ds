@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Begin session.",
-	pageId = 2185,
 	timestamp = "1278634557",
 	flag = {},
 	media = {
@@ -13,18 +12,139 @@ return {
 			0,
 			0,
 		},
-		"You have an arrangement to begin the session as co-leader with one of the blue bloods. You understand this player intends to make a power grab, and take sole possession of the leadership role. Such subterfuge is typical of their caste. But you're perfectly ok with this. It's one of the many things you're ok with. ",
+		"You have an arrangement to begin the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"session as co-leader with one of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blue bloods. You understand this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"player intends to make a power grab,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and take sole possession of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"leadership role. Such subterfuge is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"typical of their caste. But you're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perfectly ok with this. It's one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the many things you're ok with.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You allow your co-player to take the lead and enter the Medium first. You understand that the leadership role is essentially meaningless, aside from offering the distinction of being the first player to enter. You also understand that entering the game second was always your intention.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You allow your co-player to take the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lead and enter the Medium first. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understand that the leadership role is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"essentially meaningless, aside from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"offering the distinction of being the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first player to enter. You also\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understand that entering the game\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second was always your intention.\
+",
 	},
 	next = {
 		2186,
 	},
 	previous = 2184,
+	page_id = 2185,
+	long_title = false,
 }

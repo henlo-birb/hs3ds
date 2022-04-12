@@ -1,6 +1,5 @@
 return {
 	title = "7. NOT BEING WORTH ANYTHING. (A.K.A. \"WORTHLESS\")",
-	pageId = 6876,
 	timestamp = "1413621291",
 	flag = {},
 	media = {
@@ -12,11 +11,14 @@ return {
 			0,
 			0,
 		},
-		"BYE.",
+		"BYE.\
+",
 	},
 	next = {
 		6877,
 	},
 	previous = 6875,
 	theme = "A6A6",
+	page_id = 6876,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Go home.",
-	pageId = 2183,
 	timestamp = "1278634180",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2184,
 	},
 	previous = 2182,
+	page_id = 2183,
+	long_title = false,
 }

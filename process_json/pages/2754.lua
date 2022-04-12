@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Open memo.",
-	pageId = 2754,
 	timestamp = "1286933183",
 	flag = {},
 	media = {
@@ -1034,4 +1033,6 @@ return {
 		2755,
 	},
 	previous = 2753,
+	page_id = 2754,
+	long_title = false,
 }

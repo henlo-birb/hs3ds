@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Tier 2 prototype.",
-	pageId = 2191,
 	timestamp = "1278635430",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2192,
 	},
 	previous = 2190,
+	page_id = 2191,
+	long_title = false,
 }

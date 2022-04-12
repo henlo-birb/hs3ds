@@ -1,6 +1,5 @@
 return {
 	title = "John: Use hammer/nails on poster.",
-	pageId = 18,
 	timestamp = "1239745890",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		19,
 	},
 	previous = 17,
+	page_id = 18,
+	long_title = true,
 }

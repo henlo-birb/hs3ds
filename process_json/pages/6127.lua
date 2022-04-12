@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Consult with brains of operation.",
-	pageId = 6127,
 	timestamp = "1365404690",
 	flag = {},
 	media = {
@@ -243,4 +242,6 @@ return {
 		6128,
 	},
 	previous = 6126,
+	page_id = 6127,
+	long_title = true,
 }

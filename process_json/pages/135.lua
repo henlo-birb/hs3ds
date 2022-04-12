@@ -1,6 +1,5 @@
 return {
 	title = "John: Check Pesterchum window.",
-	pageId = 135,
 	timestamp = "1241865105",
 	flag = {},
 	media = {
@@ -334,4 +333,6 @@ return {
 		136,
 	},
 	previous = 134,
+	page_id = 135,
+	long_title = false,
 }

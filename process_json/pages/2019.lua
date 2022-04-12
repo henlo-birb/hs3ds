@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Go outside.",
-	pageId = 2019,
 	timestamp = "1276645664",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		2020,
 	},
 	previous = 2018,
+	page_id = 2019,
+	long_title = false,
 }

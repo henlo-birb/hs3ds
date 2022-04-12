@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7063,
 	timestamp = "1416546214",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: lowas exploded!!!",
+		"JADE: lowas exploded!!!\
+",
 	},
 	next = {
 		7064,
 	},
 	previous = 7062,
+	page_id = 7063,
+	long_title = false,
 }

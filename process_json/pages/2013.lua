@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Captchalogue bottle of Faygo.",
-	pageId = 2013,
 	timestamp = "1276630235",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		2014,
 	},
 	previous = 2012,
+	page_id = 2013,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2065,
 	timestamp = "1277090451",
 	flag = {},
 	media = {
@@ -13,26 +12,83 @@ return {
 			0,
 			0,
 		},
-		"You're not sure why you did that, really.",
+		"You're not sure why you did that,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"really.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There'll probably turn out to be a reason. There's a reason for everything. Understanding this lets you be reckless.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoever you are.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There'll probably turn out to be a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reason. There's a reason for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everything. Understanding this lets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you be reckless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoever you are.\
+",
 	},
 	next = {
 		2066,
 	},
 	previous = 2064,
+	page_id = 2065,
+	long_title = false,
 }

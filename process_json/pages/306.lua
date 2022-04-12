@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Take items and proceed downstairs.",
-	pageId = 306,
 	timestamp = "1245969219",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		307,
 	},
 	previous = 305,
+	page_id = 306,
+	long_title = true,
 }

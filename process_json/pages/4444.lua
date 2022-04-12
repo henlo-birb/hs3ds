@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Install Sburb client.",
-	pageId = 4444,
 	timestamp = "1326324378",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4445,
 	},
 	previous = 4443,
+	page_id = 4444,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Get ye rope.",
-	pageId = 1011,
 	timestamp = "1260678106",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1012,
 	},
 	previous = 1010,
+	page_id = 1011,
+	long_title = false,
 }

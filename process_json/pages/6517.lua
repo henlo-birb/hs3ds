@@ -1,6 +1,5 @@
 return {
 	title = "STRIKE THE WITCH.",
-	pageId = 6517,
 	timestamp = "1378014464",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 	},
 	previous = 6516,
 	theme = "A6A6",
+	page_id = 6517,
+	long_title = false,
 }

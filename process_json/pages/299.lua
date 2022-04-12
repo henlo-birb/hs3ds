@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Allocate knitting needles to strife specibus.",
-	pageId = 299,
 	timestamp = "1245885952",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		300,
 	},
 	previous = 298,
+	page_id = 299,
+	long_title = true,
 }

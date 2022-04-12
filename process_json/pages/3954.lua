@@ -1,10 +1,9 @@
 return {
 	title = "[o]",
-	pageId = "005854",
 	timestamp = "1310928515",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/03951.gif",
+		"03951",
 	},
 	content = {
 		{
@@ -726,4 +725,6 @@ return {
 		3955,
 	},
 	theme = "scratch",
+	page_id = 3954,
+	long_title = false,
 }

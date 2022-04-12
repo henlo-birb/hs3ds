@@ -1,6 +1,5 @@
 return {
 	title = "THE SAVVY CASH GIVER WILL ALSO BE PLEASED TO KNOW.",
-	pageId = 6941,
 	timestamp = "1414893090",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6940,
 	theme = "A6A6",
+	page_id = 6941,
+	long_title = true,
 }

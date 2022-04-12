@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Get up and commence the adventurin'.",
-	pageId = 2541,
 	timestamp = "1282944319",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2542,
 	},
 	previous = 2540,
+	page_id = 2541,
+	long_title = true,
 }

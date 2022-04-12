@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue nunchucks.",
-	pageId = 582,
 	timestamp = "1252092839",
 	flag = {},
 	media = {
@@ -12,54 +11,104 @@ return {
 			0,
 			0,
 		},
-		"You take the ",
+		"You take the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"NCH",
+		"NCH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"CKS",
+		"CKS\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (6). Everything seems to be in order now.",
+		"(6). Everything seems to be in order\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"now.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It would have been badass to go with the authentic Japanese names for each weapon, but sometimes you've just got to compromise with this modus.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It would have been badass to go with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the authentic Japanese names for each\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon, but sometimes you've just got\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to compromise with this modus.\
+",
 	},
 	next = {
 		583,
 	},
 	previous = 581,
+	page_id = 582,
+	long_title = false,
 }

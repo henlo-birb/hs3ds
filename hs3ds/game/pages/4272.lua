@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4272,
 	timestamp = "1323242024",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Oh no, it's a hostile swarm of those little fairy bulls! They are probably pissed off about the one you killed earlier. They have come for revenge!",
+		"Oh no, it's a hostile swarm of those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little fairy bulls! They are probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pissed off about the one you killed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earlier. They have come for revenge!\
+",
 	},
 	next = {
 		4273,
 	},
 	previous = 4271,
+	page_id = 4272,
+	long_title = false,
 }

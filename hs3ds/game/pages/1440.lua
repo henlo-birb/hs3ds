@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Use now empty apple juice bottle as pee receptacle.",
-	pageId = 1440,
 	timestamp = "1266688203",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You begin to hatch a brilliant plan.",
+		"You begin to hatch a brilliant plan.\
+",
 	},
 	next = {
 		1441,
 	},
 	previous = 1439,
+	page_id = 1440,
+	long_title = true,
 }

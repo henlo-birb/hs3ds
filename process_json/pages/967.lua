@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip array fetch modus.",
-	pageId = 967,
 	timestamp = "1259982256",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		968,
 	},
 	previous = 966,
+	page_id = 967,
+	long_title = false,
 }

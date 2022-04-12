@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Put dynamite in oven.",
-	pageId = 1319,
 	timestamp = "1265412630",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1320,
 	},
 	previous = 1318,
+	page_id = 1319,
+	long_title = false,
 }

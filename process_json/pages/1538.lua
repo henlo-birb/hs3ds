@@ -1,6 +1,5 @@
 return {
 	title = "Rose, I must leave now.",
-	pageId = 1538,
 	timestamp = "1267743482",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1539,
 	},
 	previous = 1537,
+	page_id = 1538,
+	long_title = false,
 }

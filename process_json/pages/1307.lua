@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Shoot up biscuit and eggs's effigies.",
-	pageId = 1307,
 	timestamp = "1265263686",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1308,
 	},
 	previous = 1306,
+	page_id = 1307,
+	long_title = true,
 }

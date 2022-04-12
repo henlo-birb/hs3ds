@@ -1,6 +1,5 @@
 return {
 	title = "John: Unwrap the smallest present first.",
-	pageId = 971,
 	timestamp = "1259985939",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You have a staunch policy of always saving the biggest present for last.",
+		"You have a staunch policy of always\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"saving the biggest present for last.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-ALWAYS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALWAYS.\
+",
 	},
 	next = {
 		972,
 	},
 	previous = 970,
+	page_id = 971,
+	long_title = true,
 }

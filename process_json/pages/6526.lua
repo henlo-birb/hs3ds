@@ -1,6 +1,5 @@
 return {
 	title = "IT SEEMS THE ALPHA MALE HAS BEEN SLAIN.",
-	pageId = 6526,
 	timestamp = "1378096327",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6525,
 	theme = "A6A6",
+	page_id = 6526,
+	long_title = true,
 }

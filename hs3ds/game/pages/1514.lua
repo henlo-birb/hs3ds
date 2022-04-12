@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1514,
 	timestamp = "1267400054",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You expend another relatively affordable 100 BUILD GRIST to relocate it.",
+		"You expend another relatively\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"affordable 100 BUILD GRIST to relocate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		1515,
 	},
 	previous = 1513,
+	page_id = 1514,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine ghost shirt and suit.",
-	pageId = 1054,
 	timestamp = "1261449453",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1055,
 	},
 	previous = 1053,
+	page_id = 1054,
+	long_title = true,
 }

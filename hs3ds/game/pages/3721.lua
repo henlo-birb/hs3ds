@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Climb stairs.",
-	pageId = 3721,
 	timestamp = "1303170315",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You cannot ascend!!! ",
+		"You cannot ascend!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The staircase is suffering from a catastrophic horn clog.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The staircase is suffering from a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"catastrophic horn clog.\
+",
 	},
 	next = {
 		3722,
 	},
 	previous = 3720,
+	page_id = 3721,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] RAP-OFF!!!!!!!!!!",
-	pageId = 4541,
 	timestamp = "1328321864",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		4542,
 	},
 	previous = 4540,
+	page_id = 4541,
+	long_title = false,
 }

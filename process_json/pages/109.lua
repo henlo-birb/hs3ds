@@ -1,6 +1,5 @@
 return {
 	title = "John: Admire \"Failure to Launch\" poster.",
-	pageId = 109,
 	timestamp = "1241338618",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		110,
 	},
 	previous = 108,
+	page_id = 109,
+	long_title = true,
 }

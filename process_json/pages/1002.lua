@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Flee room.",
-	pageId = 1002,
 	timestamp = "1260596484",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1003,
 	},
 	previous = 1001,
+	page_id = 1002,
+	long_title = false,
 }

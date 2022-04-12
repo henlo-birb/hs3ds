@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Update wall.",
-	pageId = 2295,
 	timestamp = "1280259521",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		2296,
 	},
 	previous = 2294,
+	page_id = 2295,
+	long_title = false,
 }

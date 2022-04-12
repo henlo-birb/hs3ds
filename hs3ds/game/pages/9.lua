@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue smoke pellets.",
-	pageId = 9,
 	timestamp = "1239678933",
 	flag = {},
 	media = {
@@ -12,26 +11,97 @@ return {
 			0,
 			0,
 		},
-		"You stow the SMOKE PELLETS on one of your CAPTCHALOGUE CARDS in your SYLLADEX.",
+		"You stow the SMOKE PELLETS on one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your CAPTCHALOGUE CARDS in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SYLLADEX.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You still aren't totally sure what that means, but you are starting to get the hang of the vernacular at least.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have two empty CAPTCHALOGUE CARDS remaining.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You still aren't totally sure what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that means, but you are starting to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get the hang of the vernacular at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"least.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have two empty CAPTCHALOGUE CARDS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remaining.\
+",
 	},
 	next = {
 		10,
 	},
 	previous = 8,
+	page_id = 9,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine dead things in amber || smuppet.",
-	pageId = 1838,
 	timestamp = "1273798361",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1839,
 	},
 	previous = 1837,
+	page_id = 1838,
+	long_title = true,
 }

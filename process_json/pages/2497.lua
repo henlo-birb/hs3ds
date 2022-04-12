@@ -1,6 +1,5 @@
 return {
 	title = "Alright, now you're DEFINITELY trolling us. Come on.",
-	pageId = 2497,
 	timestamp = "1282457171",
 	flag = {},
 	media = {
@@ -180,4 +179,6 @@ return {
 		2498,
 	},
 	previous = 2496,
+	page_id = 2497,
+	long_title = true,
 }

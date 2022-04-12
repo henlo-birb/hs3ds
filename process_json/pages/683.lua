@@ -1,6 +1,5 @@
 return {
 	title = "WV: Locate a nearby sharp object.",
-	pageId = 683,
 	timestamp = "1253764893",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		684,
 	},
 	previous = 682,
+	page_id = 683,
+	long_title = true,
 }

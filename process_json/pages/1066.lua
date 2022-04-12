@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Dad's hat and Problem Sleuth game.",
-	pageId = 1066,
 	timestamp = "1261526276",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1067,
 	},
 	previous = 1065,
+	page_id = 1066,
+	long_title = true,
 }

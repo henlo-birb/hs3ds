@@ -1,6 +1,5 @@
 return {
 	title = "[o] Nor had he tasted notoriety,",
-	pageId = 3793,
 	timestamp = "1306370243",
 	flag = {},
 	media = {
@@ -21,4 +20,6 @@ return {
 	},
 	previous = 3792,
 	theme = "scratch",
+	page_id = 3793,
+	long_title = false,
 }

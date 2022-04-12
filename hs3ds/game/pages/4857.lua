@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4857,
 	timestamp = "1335241796",
 	flag = {},
 	media = {
@@ -12,136 +11,433 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Oh theres not much more to it. I had to deal with grandmas body.",
+		"GT: Oh theres not much more to it. I\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"had to deal with grandmas body.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I would have loved to give her a proper and dignified memorial like janes granddad got.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: I would have loved to give her a\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"proper and dignified memorial like\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"janes granddad got.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: God jane is so lucky every day in her household must be like weekend at bernies! What a riot it must be im so jealous.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: God jane is so lucky every day in\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"her household must be like weekend at\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"bernies! What a riot it must be im so\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"jealous.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Yeah, what a fucking treat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Yeah, what a fucking treat.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: A living room corpse party every goddamn day.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I know right!!!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Alas i had to dispose of the body with haste so the monsters wouldnt eat her.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: So i just made a little camp fire and burned it. I keep the ashes deep in the ruins which is where i think she liked it best.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Hopefully there isnt an earthquake or something that would knock the urn over in a predictable and hilarious fashion.",
+		"TT: A living room corpse party every\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"goddamn day.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: No way man.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I know right!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Alas i had to dispose of the body\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"with haste so the monsters wouldnt eat\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So i just made a little camp fire\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"and burned it. I keep the ashes deep\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"in the ruins which is where i think\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"she liked it best.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Hopefully there isnt an earthquake\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"or something that would knock the urn\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"over in a predictable and hilarious\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"fashion.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: No way man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I'd bet my bottom boonbuck that shit's eternally safe.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: That urn's like the Fort Knox of standing upright forever because of no accidents.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Heheh yeah.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: So then after camping out the next day i went exploring and found my room globe mostly intact sitting in the jungle so thats where i lived since.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: And thats pretty much it!",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I sure miss my grandma though she was the best.",
+		"TT: I'd bet my bottom boonbuck that\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"shit's eternally safe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: She was definitely very brave, if the stories are true. Downright audacious, I'd say.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: That urn's like the Fort Knox of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"standing upright forever because of no\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"accidents.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Heheh yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: What did you hear?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So then after camping out the next\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"day i went exploring and found my room\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"globe mostly intact sitting in the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"jungle so thats where i lived since.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: And thats pretty much it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I sure miss my grandma though she\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"was the best.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: She was definitely very brave, if\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"the stories are true. Downright\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"audacious, I'd say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What did you hear?\
+",
 	},
 	next = {
 		4858,
 	},
 	previous = 4856,
+	page_id = 4857,
+	long_title = false,
 }

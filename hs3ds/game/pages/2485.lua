@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2485,
 	timestamp = "1282425280",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Goddamn troll kids. Every time you turn around they're smoochin' each other. Makes a man want to stab his own gut and puke blood.",
+		"Goddamn troll kids. Every time you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"turn around they're smoochin' each\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"other. Makes a man want to stab his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"own gut and puke blood.\
+",
 	},
 	next = {
 		2486,
 	},
 	previous = 2484,
+	page_id = 2485,
+	long_title = false,
 }

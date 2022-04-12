@@ -1,6 +1,5 @@
 return {
 	title = "HOW DID I DO SUCH A SENSATIONAL FEAT? YOU ASK.",
-	pageId = 6856,
 	timestamp = "1413619989",
 	flag = {},
 	media = {
@@ -155,4 +154,6 @@ return {
 	},
 	previous = 6855,
 	theme = "A6A6",
+	page_id = 6856,
+	long_title = true,
 }

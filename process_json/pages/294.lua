@@ -1,6 +1,5 @@
 return {
 	title = "THE GREEN TEXT WAS ATTRACTIVE. NOW VIEW THE RED TEXT AGAIN.",
-	pageId = 294,
 	timestamp = "1245802165",
 	flag = {},
 	media = {
@@ -740,4 +739,6 @@ return {
 		295,
 	},
 	previous = 293,
+	page_id = 294,
+	long_title = true,
 }

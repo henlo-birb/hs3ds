@@ -1,6 +1,5 @@
 return {
 	title = "John: Set Pesterchum status to \"bully\".",
-	pageId = 34,
 	timestamp = "1239918753",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		35,
 	},
 	previous = 33,
+	page_id = 34,
+	long_title = true,
 }

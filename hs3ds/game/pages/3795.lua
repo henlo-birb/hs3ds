@@ -1,6 +1,5 @@
 return {
 	title = "[o] But not for lack of a devoted mentor.",
-	pageId = 3795,
 	timestamp = "1306393661",
 	flag = {},
 	media = {
@@ -12,11 +11,49 @@ return {
 			0,
 			0,
 		},
-		"If I had served as his mentor directly, rather than as his mentor's mentor's mentor, he may have stood a fair chance of perpetrating something underhanded. At the very least, his jokes might have been better.",
+		"If I had served as his mentor\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"directly, rather than as his mentor's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mentor's mentor, he may have stood a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fair chance of perpetrating something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"underhanded. At the very least, his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jokes might have been better.\
+",
 	},
 	next = {
 		3796,
 	},
 	previous = 3794,
 	theme = "scratch",
+	page_id = 3795,
+	long_title = true,
 }

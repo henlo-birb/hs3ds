@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7197,
 	timestamp = "1418792632",
 	flag = {},
 	media = {
@@ -12,31 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oops.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oops.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: sorry. u_u\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: sorry. u_u",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: i'm not terribly experienced with the practice of in-person expressions of friendship.",
+		"CALLIOPE: i'm not terribly experienced\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"with the practice of in-person\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"expressions of friendship.\
+",
 	},
 	next = {
 		7198,
 	},
 	previous = 7196,
+	page_id = 7197,
+	long_title = false,
 }

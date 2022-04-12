@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Survey casualties.",
-	pageId = 2659,
 	timestamp = "1285388803",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2660,
 	},
 	previous = 2658,
+	page_id = 2659,
+	long_title = false,
 }

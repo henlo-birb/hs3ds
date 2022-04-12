@@ -1,6 +1,5 @@
 return {
 	title = "John: Get cruxite.",
-	pageId = 180,
 	timestamp = "1242784960",
 	flag = {},
 	media = {
@@ -12,38 +11,90 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I feel like we should be hurrying. That countdown is making me nervous.",
+		"TT: I feel like we should be hurrying.\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"That countdown is making me nervous.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: John?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: John?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Oh. Your PDA is trapped under the cruxite now, isn't it.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Oh. Your PDA is trapped under the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cruxite now, isn't it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Anyway, it looks like you are going to need this card too.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Anyway, it looks like you are\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"going to need this card too.\
+",
 	},
 	next = {
 		181,
 	},
 	previous = 179,
+	page_id = 180,
+	long_title = false,
 }

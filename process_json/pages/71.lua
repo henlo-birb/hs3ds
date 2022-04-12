@@ -1,6 +1,5 @@
 return {
 	title = "John: Go in the study.",
-	pageId = 71,
 	timestamp = "1240288981",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		72,
 	},
 	previous = 70,
+	page_id = 71,
+	long_title = false,
 }

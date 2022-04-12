@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Gaze over balcony at horizon.",
-	pageId = 6113,
 	timestamp = "1365309166",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		6114,
 	},
 	previous = 6112,
+	page_id = 6113,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1127,
 	timestamp = "1262666785",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Liberty. Reason. Justice. Civility. Edification. Perfection.",
+		"Liberty. Reason. Justice. Civility.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Edification. Perfection.\
+",
 	},
 	next = {
 		1128,
 	},
 	previous = 1126,
+	page_id = 1127,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3078,
 	timestamp = "1292297768",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"The clouds have returned. The fireflies are still trapped. The spell remains unbroken.",
+		"The clouds have returned. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fireflies are still trapped. The spell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remains unbroken.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is commotion behind you. A nearby village, perhaps?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is commotion behind you. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nearby village, perhaps?\
+",
 	},
 	next = {
 		3079,
 	},
 	previous = 3077,
+	page_id = 3078,
+	long_title = false,
 }

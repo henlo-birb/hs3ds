@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4685,
 	timestamp = "1331511542",
 	flag = {},
 	media = {
@@ -13,59 +12,188 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-CURRENT carcinoGeneticist [CCG]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" RIGHT NOW opened memo on board FRUITY RUMPUS ASSHOLE FACTORY, BORING ROAD TRIP THROUGH THE FUCKING AFTERLIFE EDITION.",
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CURRENT carcinoGeneticist [CCG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RIGHT NOW opened memo on board FRUITY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"RUMPUS ASSHOLE FACTORY, BORING ROAD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TRIP THROUGH THE FUCKING AFTERLIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"EDITION.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-CCG: I CAN'T BELIEVE I'M ACTUALLY DOING THIS MEMO BULLSHIT AGAIN.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CCG: I GUESS I DON'T KNOW WHAT ELSE TO DO.",
+		"CCG: I CAN'T BELIEVE I'M ACTUALLY\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"DOING THIS MEMO BULLSHIT AGAIN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: I JUST NEED TO AIR OUT SOME SHIT WITH SOMEBODY, AND EVERYONE HERE HAS THEIR HEADS SO FAR UP THEIR NOOKS I WANT TO SCREAM LOUDER THAN I USUALLY DO.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CCG: THEIR TROLL NOOKS *AND* HUMAN NOOKS, WHATEVER THE HELL A HUMAN NOOK EVEN *IS*.",
+		"CCG: I GUESS I DON'T KNOW WHAT ELSE TO\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"DO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: YOU KNOW?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CCG: I JUST NEED TO AIR OUT SOME SHIT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WITH SOMEBODY, AND EVERYONE HERE HAS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THEIR HEADS SO FAR UP THEIR NOOKS I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WANT TO SCREAM LOUDER THAN I USUALLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"DO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CCG: THEIR TROLL NOOKS *AND* HUMAN\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"NOOKS, WHATEVER THE HELL A HUMAN NOOK\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVEN *IS*.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CCG: YOU KNOW?\
+",
 	},
 	next = {
 		4686,
 	},
 	previous = 4684,
+	page_id = 4685,
+	long_title = false,
 }

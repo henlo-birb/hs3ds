@@ -1,6 +1,5 @@
 return {
 	title = "John: Get grist.",
-	pageId = 482,
 	timestamp = "1250382075",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		483,
 	},
 	previous = 481,
+	page_id = 482,
+	long_title = false,
 }

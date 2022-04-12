@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine wheel on the Cruxtruder.",
-	pageId = 172,
 	timestamp = "1242626907",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		173,
 	},
 	previous = 171,
+	page_id = 172,
+	long_title = true,
 }

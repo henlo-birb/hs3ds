@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine magnetic W and bottle of vodka.",
-	pageId = 1808,
 	timestamp = "1273189683",
 	flag = {},
 	media = {
@@ -13,26 +12,76 @@ return {
 			0,
 			0,
 		},
-		"You make a bottle of MAGNETIC WODKA. In addition to having high alcohol content, the liquid inside appears to have magnetic properties.",
+		"You make a bottle of MAGNETIC WODKA.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In addition to having high alcohol\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"content, the liquid inside appears to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have magnetic properties.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You GUESS this could be useful?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You GUESS this could be useful?\
+",
 	},
 	next = {
 		1809,
 	},
 	previous = 1807,
+	page_id = 1808,
+	long_title = true,
 }

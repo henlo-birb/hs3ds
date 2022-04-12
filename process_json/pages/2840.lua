@@ -1,6 +1,5 @@
 return {
 	title = "Davesprite: Defend.",
-	pageId = 2840,
 	timestamp = "1288938214",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2841,
 	},
 	previous = 2839,
+	page_id = 2840,
+	long_title = false,
 }

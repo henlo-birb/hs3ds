@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Have a flashback.",
-	pageId = 935,
 	timestamp = "1259545398",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"There is no need for a flashback. Conveniently, you can watch what happened right here on the monitor. ",
+		"There is no need for a flashback.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Conveniently, you can watch what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happened right here on the monitor.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You roll the clock forward a few seconds. Jaspers reveals his stunning SECRET to you in strict confidence.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You roll the clock forward a few\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seconds. Jaspers reveals his stunning\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SECRET to you in strict confidence.\
+",
 	},
 	next = {
 		936,
 	},
 	previous = 934,
+	page_id = 935,
+	long_title = false,
 }

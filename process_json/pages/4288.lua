@@ -1,6 +1,5 @@
 return {
 	title = "So, uh... what about all those other kids?",
-	pageId = 4288,
 	timestamp = "1323414671",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4289,
 	},
 	previous = 4287,
+	page_id = 4288,
+	long_title = true,
 }

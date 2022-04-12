@@ -1,6 +1,5 @@
 return {
 	title = "MALE: HIDE INSIDE CHEST.",
-	pageId = 6254,
 	timestamp = "1371079730",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 	},
 	previous = 6253,
 	theme = "A6A6",
+	page_id = 6254,
+	long_title = false,
 }

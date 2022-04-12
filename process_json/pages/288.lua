@@ -1,6 +1,5 @@
 return {
 	title = "ENOUGH STRANGE POETRY FROM THE RED TEXT.",
-	pageId = 288,
 	timestamp = "1245710099",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		289,
 	},
 	previous = 287,
+	page_id = 288,
+	long_title = true,
 }

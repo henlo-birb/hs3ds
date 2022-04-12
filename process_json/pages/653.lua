@@ -1,6 +1,5 @@
 return {
 	title = "John: Quickly grab the pogo hammer.",
-	pageId = 653,
 	timestamp = "1253297819",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		654,
 	},
 	previous = 652,
+	page_id = 653,
+	long_title = true,
 }

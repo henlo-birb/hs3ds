@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Mouse over the orange stripe containing PlushRump.",
-	pageId = 460,
 	timestamp = "1250052488",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		461,
 	},
 	previous = 459,
+	page_id = 460,
+	long_title = true,
 }

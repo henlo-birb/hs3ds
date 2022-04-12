@@ -1,6 +1,5 @@
 return {
 	title = "Homestuck",
-	pageId = 4115,
 	timestamp = "1321001969",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		4116,
 	},
 	previous = 4114,
+	page_id = 4115,
+	long_title = false,
 }

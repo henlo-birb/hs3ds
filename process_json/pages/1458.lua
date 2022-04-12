@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Write the owner of this vehicle a ticket.",
-	pageId = 1458,
 	timestamp = "1266878780",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		1459,
 	},
 	previous = 1457,
+	page_id = 1458,
+	long_title = true,
 }

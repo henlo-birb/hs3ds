@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Give it to Sawbuck.",
-	pageId = 1270,
 	timestamp = "1264805886",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		1271,
 	},
 	previous = 1269,
+	page_id = 1270,
+	long_title = false,
 }

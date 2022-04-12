@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3374,
 	timestamp = "1296150374",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"The inspector's bottom has become dreadfully bloody though...",
+		"The inspector's bottom has become\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dreadfully bloody though...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You believe you will dismiss the inspector.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You believe you will dismiss the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inspector.\
+",
 	},
 	next = {
 		3375,
 	},
 	previous = 3373,
+	page_id = 3374,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Pester Davesprite.",
-	pageId = 1740,
 	timestamp = "1272046452",
 	flag = {},
 	media = {
@@ -285,4 +284,6 @@ return {
 		1741,
 	},
 	previous = 1739,
+	page_id = 1740,
+	long_title = false,
 }

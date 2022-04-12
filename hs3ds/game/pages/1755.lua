@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Be the puppet.",
-	pageId = 1755,
 	timestamp = "1272216534",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You have no idea what the hell that means.",
+		"You have no idea what the hell that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"means.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But yeah, you can kiss that obnoxious puppet goodbye. Maybe now you can get a decent night's sleep.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But yeah, you can kiss that obnoxious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"puppet goodbye. Maybe now you can get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a decent night's sleep.\
+",
 	},
 	next = {
 		1756,
 	},
 	previous = 1754,
+	page_id = 1755,
+	long_title = false,
 }

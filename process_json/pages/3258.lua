@@ -1,6 +1,5 @@
 return {
 	title = "WV: Build a fort.",
-	pageId = 3258,
 	timestamp = "1294381260",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		3259,
 	},
 	previous = 3257,
+	page_id = 3258,
+	long_title = false,
 }

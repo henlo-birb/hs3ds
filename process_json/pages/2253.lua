@@ -1,6 +1,5 @@
 return {
 	title = "Be the white text guy.",
-	pageId = 2253,
 	timestamp = "1279316008",
 	flag = {},
 	media = {
@@ -383,4 +382,6 @@ return {
 		2254,
 	},
 	previous = 2252,
+	page_id = 2253,
+	long_title = false,
 }

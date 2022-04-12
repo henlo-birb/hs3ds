@@ -1,6 +1,5 @@
 return {
 	title = "John: Attempt to leave the house.",
-	pageId = 79,
 	timestamp = "1240443260",
 	flag = {
 		"R4",
@@ -15,18 +14,76 @@ return {
 			0,
 			0,
 		},
-		"You go back into the LIVING ROOM and contemplate checking the mailbox outside. You think perhaps you should exhaust all possibilities before plunging headlong into a DAD encounter.",
+		"You go back into the LIVING ROOM and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contemplate checking the mailbox\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"outside. You think perhaps you should\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exhaust all possibilities before\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plunging headlong into a DAD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"encounter.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your TELEVISION is currently airing a COMMERCIAL.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your TELEVISION is currently airing a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COMMERCIAL.\
+",
 	},
 	next = {
 		80,
 	},
 	previous = 78,
+	page_id = 79,
+	long_title = true,
 }

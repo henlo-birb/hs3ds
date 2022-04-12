@@ -1,6 +1,5 @@
 return {
 	title = "AT THIS POINT.",
-	pageId = 7444,
 	timestamp = "1429068231",
 	flag = {
 		"F",
@@ -14,11 +13,84 @@ return {
 			0,
 			0,
 		},
-		"HIS BELOVED JUJU IS NO LONGER A HOLLOW VESSEL. IT IS VERY MUCH CROWDED IN THERE, CHOCK FULL OF SOULS, BELONGING TO HARDCORE BRAWLING BRUTES. AND HE KNOWS IT. HIS PUPPET IS NOW A PROBLEM TO DO AWAY WITH, JUST LIKE MY JUJU WAS. SO THEY DO THE SAME BASIC THING. THEY GET THEIR DRUNKARD SORCERESS OF VOID TO BANISH THE PUPPET ONCE AND FOR ALL, INTO THE DARKNESS. NEVER TO BE FOUND AGAIN BY PROBING HANDS OF MEAT.",
+		"HIS BELOVED JUJU IS NO LONGER A HOLLOW\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VESSEL. IT IS VERY MUCH CROWDED IN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THERE, CHOCK FULL OF SOULS, BELONGING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TO HARDCORE BRAWLING BRUTES. AND HE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"KNOWS IT. HIS PUPPET IS NOW A PROBLEM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TO DO AWAY WITH, JUST LIKE MY JUJU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WAS. SO THEY DO THE SAME BASIC THING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THEY GET THEIR DRUNKARD SORCERESS OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VOID TO BANISH THE PUPPET ONCE AND FOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALL, INTO THE DARKNESS. NEVER TO BE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOUND AGAIN BY PROBING HANDS OF MEAT.\
+",
 	},
 	next = {
 		7445,
 	},
 	previous = 7443,
 	theme = "A6A6",
+	page_id = 7444,
+	long_title = false,
 }

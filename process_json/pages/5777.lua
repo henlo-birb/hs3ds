@@ -1,6 +1,5 @@
 return {
 	title = "[S] HA HA HA! HE HE HE! HO HO HO!",
-	pageId = 5777,
 	timestamp = "1359173683",
 	flag = {
 		"F",
@@ -71,4 +70,6 @@ return {
 	},
 	previous = 5776,
 	theme = "trickster",
+	page_id = 5777,
+	long_title = true,
 }

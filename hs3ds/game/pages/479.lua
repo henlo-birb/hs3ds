@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Use pogo ride to fling grist through window.",
-	pageId = 479,
 	timestamp = "1250370222",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Doesn't look like that GRIST is going anywhere.",
+		"Doesn't look like that GRIST is going\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anywhere.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just never know with these gaming abstractions.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just never know with these gaming\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abstractions.\
+",
 	},
 	next = {
 		480,
 	},
 	previous = 478,
+	page_id = 479,
+	long_title = true,
 }

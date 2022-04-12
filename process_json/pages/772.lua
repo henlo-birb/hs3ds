@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Set modus.",
-	pageId = 772,
 	timestamp = "1255677427",
 	flag = {
 		"F",
@@ -105,4 +104,6 @@ return {
 		773,
 	},
 	previous = 771,
+	page_id = 772,
+	long_title = false,
 }

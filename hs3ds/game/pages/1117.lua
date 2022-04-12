@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1117,
 	timestamp = "1262582002",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"But you guess it's straightforward enough, even if the drawing is somewhat inaccurate...",
+		"But you guess it's straightforward\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough, even if the drawing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhat inaccurate...\
+",
 	},
 	next = {
 		1118,
 	},
 	previous = 1116,
+	page_id = 1117,
+	long_title = false,
 }

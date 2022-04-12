@@ -1,6 +1,5 @@
 return {
 	title = "WQ: Advise Prospitian Monarch.",
-	pageId = 3260,
 	timestamp = "1294420795",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3261,
 	},
 	previous = 3259,
+	page_id = 3260,
+	long_title = false,
 }

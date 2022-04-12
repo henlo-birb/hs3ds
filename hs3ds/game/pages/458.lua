@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Open Complete Bullshit.",
-	pageId = 458,
 	timestamp = "1249951138",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"This is COMPLETE BULLSHIT.",
+		"This is COMPLETE BULLSHIT.\
+",
 	},
 	next = {
 		459,
 	},
 	previous = 457,
+	page_id = 458,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "MSPA: Quick, become more meta while AH is brooding.",
-	pageId = 2489,
 	timestamp = "1282443078",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2490,
 	},
 	previous = 2488,
+	page_id = 2489,
+	long_title = true,
 }

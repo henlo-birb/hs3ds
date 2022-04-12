@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue captchalogue card.",
-	pageId = 76,
 	timestamp = "1240349763",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"ARGH!!!",
+		"ARGH!!!\
+",
 	},
 	next = {
 		77,
 	},
 	previous = 75,
+	page_id = 76,
+	long_title = true,
 }

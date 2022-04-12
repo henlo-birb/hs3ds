@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3513,
 	timestamp = "1297754146",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		3514,
 	},
 	previous = 3512,
+	page_id = 3513,
+	long_title = false,
 }

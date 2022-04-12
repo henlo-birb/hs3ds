@@ -1,6 +1,5 @@
 return {
 	title = "YES, NEVER TO BE FOUND.",
-	pageId = 7445,
 	timestamp = "1429068328",
 	flag = {
 		"F",
@@ -190,4 +189,6 @@ return {
 	},
 	previous = 7444,
 	theme = "A6A6",
+	page_id = 7445,
+	long_title = false,
 }

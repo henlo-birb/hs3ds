@@ -1,6 +1,5 @@
 return {
 	title = "John: Ride pogo ride.",
-	pageId = 489,
 	timestamp = "1250457851",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		490,
 	},
 	previous = 488,
+	page_id = 489,
+	long_title = false,
 }

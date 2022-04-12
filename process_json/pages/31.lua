@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine games on CD rack.",
-	pageId = 31,
 	timestamp = "1239856123",
 	flag = {
 		"F",
@@ -28,4 +27,6 @@ return {
 		32,
 	},
 	previous = 30,
+	page_id = 31,
+	long_title = false,
 }

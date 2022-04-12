@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6739,
 	timestamp = "1380080263",
 	flag = {},
 	media = {
@@ -12,31 +11,55 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: DAVE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: DAVE?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT THE FUCK\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHAT THE FUCK",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: cant talk chasing dogs",
+		"DAVE: cant talk chasing dogs\
+",
 	},
 	next = {
 		6740,
 	},
 	previous = 6738,
+	page_id = 6739,
+	long_title = false,
 }

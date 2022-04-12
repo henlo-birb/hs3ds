@@ -1,6 +1,5 @@
 return {
 	title = "why are you on a small rock? are you in peril, sir?",
-	pageId = 2960,
 	timestamp = "1291168858",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2961,
 	},
 	previous = 2959,
+	page_id = 2960,
+	long_title = true,
 }

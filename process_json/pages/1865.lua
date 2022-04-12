@@ -1,6 +1,5 @@
 return {
 	title = "John: Press a button on the control panel.",
-	pageId = 1865,
 	timestamp = "1274307423",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1866,
 	},
 	previous = 1864,
+	page_id = 1865,
+	long_title = true,
 }

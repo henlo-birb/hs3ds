@@ -1,6 +1,5 @@
 return {
 	title = "BIG MAN: HOLLER FOR YOUR WOMAN.",
-	pageId = 6884,
 	timestamp = "1413621928",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 	},
 	previous = 6883,
 	theme = "A6A6",
+	page_id = 6884,
+	long_title = false,
 }

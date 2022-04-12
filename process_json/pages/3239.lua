@@ -1,6 +1,5 @@
 return {
 	title = "Highlighting all that white text crashed my browser.",
-	pageId = 3239,
 	timestamp = "1294030025",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		3240,
 	},
 	previous = 3238,
+	page_id = 3239,
+	long_title = true,
 }

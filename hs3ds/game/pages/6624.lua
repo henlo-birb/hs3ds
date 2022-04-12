@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6624,
 	timestamp = "1378885502",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: I SAID WE MAY HAVE A REALLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BIG FUCKING PROBLEM OVER HERE!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I SAID WE MAY HAVE A REALLY BIG FUCKING PROBLEM OVER HERE!!!!!!",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: im on my way",
+		"DAVE: im on my way\
+",
 	},
 	next = {
 		6625,
 	},
 	previous = 6623,
+	page_id = 6624,
+	long_title = false,
 }

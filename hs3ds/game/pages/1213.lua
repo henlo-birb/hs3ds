@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Make friends with Die.",
-	pageId = 1213,
 	timestamp = "1264108914",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You introduce your CAST IRON HORSE HITCHER to your new friend.",
+		"You introduce your CAST IRON HORSE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HITCHER to your new friend.\
+",
 	},
 	next = {
 		1214,
 	},
 	previous = 1212,
+	page_id = 1213,
+	long_title = false,
 }

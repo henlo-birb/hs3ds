@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Get watch.",
-	pageId = 4400,
 	timestamp = "1325321922",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Get this shit outta the way. You're a busy bureaucrat. The clock is ticking, and time is dead kids.",
+		"Get this shit outta the way. You're a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"busy bureaucrat. The clock is ticking,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and time is dead kids.\
+",
 	},
 	next = {
 		4401,
 	},
 	previous = 4399,
+	page_id = 4400,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine one of grandpa's beauties and outfit.",
-	pageId = 3152,
 	timestamp = "1293242309",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		3153,
 	},
 	previous = 3151,
+	page_id = 3152,
+	long_title = true,
 }

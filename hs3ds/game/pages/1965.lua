@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1965,
 	timestamp = "1276145983",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"A nearby laboratory is also revisited. Its satellites, dispatched.",
+		"A nearby laboratory is also revisited.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Its satellites, dispatched.\
+",
 	},
 	next = {
 		1966,
 	},
 	previous = 1964,
+	page_id = 1965,
+	long_title = false,
 }

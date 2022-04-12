@@ -1,6 +1,5 @@
 return {
 	title = "Dream Dirk: Dream.",
-	pageId = 5204,
 	timestamp = "1340853603",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		5205,
 	},
 	previous = 5203,
+	page_id = 5204,
+	long_title = false,
 }

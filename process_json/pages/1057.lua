@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine sledgehammer, telescope, and Sassacre text.",
-	pageId = 1057,
 	timestamp = "1261458448",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1058,
 	},
 	previous = 1056,
+	page_id = 1057,
+	long_title = true,
 }

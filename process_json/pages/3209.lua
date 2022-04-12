@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Summon dog.",
-	pageId = 3209,
 	timestamp = "1293781187",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		3210,
 	},
 	previous = 3208,
+	page_id = 3209,
+	long_title = false,
 }

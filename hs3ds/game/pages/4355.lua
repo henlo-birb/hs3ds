@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4355,
 	timestamp = "1324420677",
 	flag = {},
 	media = {
@@ -12,515 +11,1714 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Nothing yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Nothing yet.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: But reasonably soon, within a certain window, it will be time to leave.",
+		"ROSE: But reasonably soon, within a\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"certain window, it will be time to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"leave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: We will then pilot this meteor as fast as we can make it go in that exact direction.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: We will then pilot this meteor\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"as fast as we can make it go in that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"exact direction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
+		"SOLLUX: what's that way?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-SOLLUX: what's that way?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Nothing whatsoever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Nothing whatsoever.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: As of now, that way lies\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"darkness and uncertainty beyond\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"description.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: As of now, that way lies darkness and uncertainty beyond description.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: I See\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I See",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Then Perhaps We Should Reserve The Infinite Darkness Plan For The Maybe Column For Now",
+		"KANAYA: Then Perhaps We Should Reserve\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: I Think Im Even Willing To Let Dave Take A Crack At The Logistics Before We Commit To That Particular Maneuver Daring Though It Sounds",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: aw yeah",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i got sicknasty logistics up my sleeve",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: i just call them stics fyi which is how you know im way savvy about them",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: most of the stics im fine tuning atm involve rap though i should warn you",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: but dave what if that dope as hell plan falls through i can hear you ask",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: plan b",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: involves drawing some shitty cartoons",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: and not giving a fuck about stuff",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-TEREZI: >8D",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-TEREZI: 1 H3R3BY S3COND TH1S COOL DUD3S R4D1C4L MOT1ON ON GROUNDS OF R1D1CULOUSLY D3C4D3NT 4TT1R3",
+		"The Infinite Darkness Plan For The\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Maybe Column For Now\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Yes Im Willing To Humor Elaboration On This Rap Centric Plan And Its Apathy Based Contingencies",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Even If Its Excessively Stupid",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Trust me, it is.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Just as you should trust me that by the time we leave, if we leave exactly within the designated window and are able to travel at nearly the speed of light, the meteor will trace a route through the Furthest Ring which will topologically resolve as a straight line.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: It will lead us directly to the new session.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: For a brief moment, the sun will be visible from that session.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: And we will be riding the chartreuse coattails of its photons.",
-		{
-			0.6313725490196078,
-			0.0,
-			0.0,
-		},
-		"\
-ARADIA: this is why you all needed an advanced seer!",
-		{
-			0.6313725490196078,
-			0.0,
-			0.0,
-		},
-		"\
-ARADIA: i have become familiar with the ways of the fabric out here but even i couldnt chart a journey that long or complex",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: That's because it's almost impossible to do so voluntarily.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: If we were to head right now in the session's true physical direction, it wouldn't be long before we found ourselves traveling in just the opposite direction.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: This is not even to speak of the chronological peculiarities. After traveling some distance, we could discover we were suddenly tailgating our own meteor from several days ago.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: If we are particularly unfortunate, we might even collide in an intersection of spacetime with a meteor piloted by our future selves.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: And if we looked closely at that meteor before impact, we might notice a very large dent in it, which it originally suffered during the very collision we were about to experience.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: It takes precision and timing to reach your destination out here, and most importantly, the grace of the gods themselves.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-\
-ROSE: Hm?",
-		{
-			0.6313725490196078,
-			0.6313725490196078,
-			0.0,
-		},
-		"\
-SOLLUX: kk, what the fuck?",
-		{
-			0.6313725490196078,
-			0.6313725490196078,
-			0.0,
-		},
-		"\
-SOLLUX: were you h0lding your breath that wh0le time?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: YEAH",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: SO?",
+		"KANAYA: I Think Im Even Willing To Let\
+",
 		{
 			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
+			0.5058823529411764,
+			0.2549019607843137,
 		},
-		"\
-TEREZI: OH GOD, YOU DUMMY",
+		"Dave Take A Crack At The Logistics\
+",
 		{
 			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
+			0.5058823529411764,
+			0.2549019607843137,
 		},
-		"\
-TEREZI: YOU DONT 4CTU4LLY H4V3 TO HOLD YOUR BR34TH WH3N YOUR3 B31NG QU13T!",
+		"Before We Commit To That Particular\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
 		},
-		"\
-KARKAT: OK YEAH",
+		"Maneuver Daring Though It Sounds\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: I MEAN, OF COURSE IT SOUNDS OBVIOUS WHEN YOU PUT IT LIKE THAT",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: aw yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: hahahahahahahahahahahahahahahaha",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: rose i told you this dude is fucking incredible",
+		"DAVE: i got sicknasty logistics up my\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"sleeve\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: STFU.",
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i just call them stics fyi which\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"is how you know im way savvy about\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"them\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: LOOK I'M JUST A LITTLE OUT OF PRACTICE AT STAYING QUIET FOR EXTENDED PERIODS OF TIME, OK?",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: most of the stics im fine tuning\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"atm involve rap though i should warn\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but dave what if that dope as\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"hell plan falls through i can hear you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ask\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: plan b\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: involves drawing some shitty\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"cartoons\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: and not giving a fuck about\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: H3 R34LLY 1S >:|",
+		"TEREZI: >8D\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: ANYWAY, WHATEVER, SO WHAT YOU'RE SAYING LALONDE IS",
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: 1 H3R3BY S3COND TH1S COOL\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"DUD3S R4D1C4L MOT1ON ON GROUNDS OF\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"R1D1CULOUSLY D3C4D3NT 4TT1R3\
+",
+		{
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: WE'RE GOING TO BE ON THIS HORRIBLE ROCK A GOOD WHILE LONGER TO GET TO THIS PARADISE SESSION OR WHATEVER IT IS?",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Yes Im Willing To Humor\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Elaboration On This Rap Centric Plan\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"And Its Apathy Based Contingencies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Even If Its Excessively Stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Yes.",
+		"ROSE: Trust me, it is.\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: AND SINCE WE PROBABLY AREN'T GOING TO FORCE SOLLUX'S BULLSHIT \"HALF GHOST\" OR WHATEVER TO POP HIMSELF AGAIN LIKE A PACKET OF NASTY FETID MUSTARD SO HE CAN SHOOT THIS THING INTO HYPERSPACE...",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Just as you should trust me that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"by the time we leave, if we leave\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"exactly within the designated window\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"and are able to travel at nearly the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"speed of light, the meteor will trace\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"a route through the Furthest Ring\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"which will topologically resolve as a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"straight line.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It will lead us directly to the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"new session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: For a brief moment, the sun will\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"be visible from that session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: And we will be riding the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"chartreuse coattails of its photons.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: this is why you all needed an\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"advanced seer!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"ARADIA: i have become familiar with\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"the ways of the fabric out here but\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"even i couldnt chart a journey that\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"long or complex\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: That's because it's almost\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"impossible to do so voluntarily.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: If we were to head right now in\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the session's true physical direction,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"it wouldn't be long before we found\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ourselves traveling in just the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"opposite direction.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: This is not even to speak of the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"chronological peculiarities. After\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"traveling some distance, we could\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"discover we were suddenly tailgating\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"our own meteor from several days ago.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: If we are particularly\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"unfortunate, we might even collide in\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"an intersection of spacetime with a\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"meteor piloted by our future selves.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: And if we looked closely at that\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"meteor before impact, we might notice\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"a very large dent in it, which it\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"originally suffered during the very\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"collision we were about to experience.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It takes precision and timing to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"reach your destination out here, and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"most importantly, the grace of the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"gods themselves.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Hm?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.6313725490196078,
 			0.0,
 		},
+		"SOLLUX: kk, what the fuck?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-SOLLUX: hey man, come 0n. not c0ol.",
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"SOLLUX: were you h0lding your breath\
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"that wh0le time?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: YEAH\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: I'M GUESSING THAT MEANS IT'LL TAKE CONSIDERABLY LONGER TO GET THERE THAN IT DID TO GET HERE?",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: SO?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: OH GOD, YOU DUMMY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: YOU DONT 4CTU4LLY H4V3 TO HOLD\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"YOUR BR34TH WH3N YOUR3 B31NG QU13T!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OK YEAH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I MEAN, OF COURSE IT SOUNDS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"OBVIOUS WHEN YOU PUT IT LIKE THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: hahahahahahahahahahahahahahahaha\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: rose i told you this dude is\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"fucking incredible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: STFU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: LOOK I'M JUST A LITTLE OUT OF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PRACTICE AT STAYING QUIET FOR EXTENDED\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PERIODS OF TIME, OK?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TEREZI: H3 R34LLY 1S >:|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: ANYWAY, WHATEVER, SO WHAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOU'RE SAYING LALONDE IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE'RE GOING TO BE ON THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HORRIBLE ROCK A GOOD WHILE LONGER TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"GET TO THIS PARADISE SESSION OR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WHATEVER IT IS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Yes.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I JUST KNEW IT",
+		"KARKAT: AND SINCE WE PROBABLY AREN'T\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THIS IS MY WORST NIGHTMARE REALIZED",
+		"GOING TO FORCE SOLLUX'S BULLSHIT \"HALF\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WHEN WE FIRST FLED TO THIS METEOR I HAD THIS WEIRD FEELING WE'D WIND UP SPENDING FOREVER AT THIS MISERABLE PLACE, ASSUMING WE ACTUALLY SURVIVED.",
+		"GHOST\" OR WHATEVER TO POP HIMSELF\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I'M ALMOST AFRAID TO ASK, HOW LONG IS THIS TRIP GOING TO TAKE?",
+		"AGAIN LIKE A PACKET OF NASTY FETID\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: PROBABLY SOME ABSOLUTELY PREPOSTEROUS AMOUNT OF TIME, LIKE THREE LONG MADDENING SWEEPS, RIGHT???",
+		"MUSTARD SO HE CAN SHOOT THIS THING\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"INTO HYPERSPACE...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WOULDN'T THAT JUST BE SO COSMICALLY CONVENIENT AND PERFECT FOR EVERYBODY! ESPECIALLY FOR THE MOST IMPORTANT PURPOSE OF ALL, MY UNINTERRUPTED CONTINUUM OF PERSONAL AGONY!!!",
+",
+		{
+			0.6313725490196078,
+			0.6313725490196078,
+			0.0,
+		},
+		"SOLLUX: hey man, come 0n. not c0ol.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: THANK YOU, DARK GODS! THANK YOU SO FUCKING MUCH!!! YOU WIN THIS ROUND! YOU WIN ALL THE ROUNDS APPARENTLY!!!!! THERE ARE NO ROUNDS EVEN. THERE'S JUST YOUR SLIMY TENDRILS, OUR NAKED BODIES, AND EPOCHS OF MOLESTATION.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Don't be ridiculous. It won't take nearly that long.",
+		"KARKAT: I'M GUESSING THAT MEANS IT'LL\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OH",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: It'll only take about three years.",
+		"TAKE CONSIDERABLY LONGER TO GET THERE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: OK",
+		"THAN IT DID TO GET HERE?\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: THAT'S NOT SO BAD I GUESS.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WAIT, HOW LONG ARE YEARS SUPPOSED TO BE AGAIN?",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WAS IT LIKE TWO WEEKS OR SOMETHING?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: Yes, two.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: And then fifty more.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: I JUST KNEW IT\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THIS IS MY WORST NIGHTMARE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"REALIZED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WHEN WE FIRST FLED TO THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"METEOR I HAD THIS WEIRD FEELING WE'D\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WIND UP SPENDING FOREVER AT THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MISERABLE PLACE, ASSUMING WE ACTUALLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SURVIVED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I'M ALMOST AFRAID TO ASK, HOW\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"LONG IS THIS TRIP GOING TO TAKE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: PROBABLY SOME ABSOLUTELY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PREPOSTEROUS AMOUNT OF TIME, LIKE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THREE LONG MADDENING SWEEPS, RIGHT???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WOULDN'T THAT JUST BE SO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"COSMICALLY CONVENIENT AND PERFECT FOR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVERYBODY! ESPECIALLY FOR THE MOST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IMPORTANT PURPOSE OF ALL, MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"UNINTERRUPTED CONTINUUM OF PERSONAL\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"AGONY!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THANK YOU, DARK GODS! THANK\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOU SO FUCKING MUCH!!! YOU WIN THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ROUND! YOU WIN ALL THE ROUNDS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"APPARENTLY!!!!! THERE ARE NO ROUNDS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"EVEN. THERE'S JUST YOUR SLIMY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TENDRILS, OUR NAKED BODIES, AND EPOCHS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"OF MOLESTATION.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Don't be ridiculous. It won't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"take nearly that long.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It'll only take about three\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"years.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OK\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THAT'S NOT SO BAD I GUESS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WAIT, HOW LONG ARE YEARS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SUPPOSED TO BE AGAIN?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WAS IT LIKE TWO WEEKS OR\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SOMETHING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Yes, two.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: And then fifty more.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT:\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK.\
+",
 	},
 	next = {
 		4356,
 	},
 	previous = 4354,
+	page_id = 4355,
+	long_title = false,
 }

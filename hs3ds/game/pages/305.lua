@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 305,
 	timestamp = "1245969194",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"And then there's this strange page containing some rather mysterious notes on summoning procedures. You've never been quite sure what these diagrams are getting at.",
+		"And then there's this strange page\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"containing some rather mysterious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"notes on summoning procedures. You've\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never been quite sure what these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"diagrams are getting at.\
+",
 	},
 	next = {
 		306,
 	},
 	previous = 304,
+	page_id = 305,
+	long_title = false,
 }

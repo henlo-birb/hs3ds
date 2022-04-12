@@ -1,6 +1,5 @@
 return {
 	title = "PM: Appoint royal advisor.",
-	pageId = 3018,
 	timestamp = "1291773868",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You make your first decision as the new Prospitian Monarch.",
+		"You make your first decision as the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new Prospitian Monarch.\
+",
 	},
 	next = {
 		3019,
 	},
 	previous = 3017,
+	page_id = 3018,
+	long_title = false,
 }

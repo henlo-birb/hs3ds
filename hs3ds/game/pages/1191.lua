@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1191,
 	timestamp = "1263941331",
 	flag = {},
 	media = {
@@ -13,16 +12,27 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Die",
+		"Die\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" makes his usual sort of entrance. The nonplussed, vaguely bewildered sort.",
+		"makes his usual sort of entrance. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonplussed, vaguely bewildered sort.\
+",
 	},
 	next = {
 		1192,
 	},
 	previous = 1190,
+	page_id = 1191,
+	long_title = false,
 }

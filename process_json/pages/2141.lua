@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Check on Sollux.",
-	pageId = 2141,
 	timestamp = "1278093238",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		2142,
 	},
 	previous = 2140,
+	page_id = 2141,
+	long_title = false,
 }

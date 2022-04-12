@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Take a juggling club.",
-	pageId = 2018,
 	timestamp = "1276642676",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		2019,
 	},
 	previous = 2017,
+	page_id = 2018,
+	long_title = false,
 }

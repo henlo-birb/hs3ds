@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Set blender to \"Crush Ice\".",
-	pageId = 573,
 	timestamp = "1251932170",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		574,
 	},
 	previous = 572,
+	page_id = 573,
+	long_title = true,
 }

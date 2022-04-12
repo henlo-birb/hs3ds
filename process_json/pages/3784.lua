@@ -1,6 +1,5 @@
 return {
 	title = "[o] Compelling, but not particularly challenging.",
-	pageId = 3784,
 	timestamp = "1306004679",
 	flag = {
 		"R1",
@@ -64,4 +63,6 @@ return {
 	},
 	previous = 3783,
 	theme = "scratch",
+	page_id = 3784,
+	long_title = true,
 }

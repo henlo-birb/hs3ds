@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7885,
 	timestamp = "1437432903",
 	flag = {},
 	media = {
@@ -12,45 +11,104 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: there yoU are.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: there yoU are.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: she looks so peacefUl.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: she looks so peacefUl.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: how odd it is to think she is still in the dream bUbble with my other self's ghost.",
+		"CALLIOPE: how odd it is to think she\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: what coUld they be talking aboUt?",
+		"is still in the dream bUbble with my\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"other self's ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: the cUriosity is maddening!",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: what coUld they be talking\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"aboUt?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: the cUriosity is maddening!\
+",
 	},
 	next = {
 		7886,
 	},
 	previous = 7884,
+	page_id = 7885,
+	long_title = false,
 }

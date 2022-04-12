@@ -1,6 +1,5 @@
 return {
 	title = "Enter name.",
-	pageId = 761,
 	timestamp = "1255498123",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Uh...",
+		"Uh...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I guess...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I guess her name is Farmstink.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I guess...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I guess her name is Farmstink.\
+",
 	},
 	next = {
 		762,
 	},
 	previous = 760,
+	page_id = 761,
+	long_title = false,
 }

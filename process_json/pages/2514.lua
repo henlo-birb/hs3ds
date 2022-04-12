@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Get back to adventurin'.",
-	pageId = 2514,
 	timestamp = "1282686106",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2515,
 	},
 	previous = 2513,
+	page_id = 2514,
+	long_title = false,
 }

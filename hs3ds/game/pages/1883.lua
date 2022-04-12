@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1883,
 	timestamp = "1274308199",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"An old mother lost today, but a new son gained.",
+		"An old mother lost today, but a new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"son gained.\
+",
 	},
 	next = {
 		1884,
 	},
 	previous = 1882,
+	page_id = 1883,
+	long_title = false,
 }

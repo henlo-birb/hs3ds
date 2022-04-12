@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Build fort with clocks.",
-	pageId = 1158,
 	timestamp = "1263671663",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1159,
 	},
 	previous = 1157,
+	page_id = 1158,
+	long_title = false,
 }

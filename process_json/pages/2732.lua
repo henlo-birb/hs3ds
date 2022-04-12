@@ -1,6 +1,5 @@
 return {
 	title = "John: Empty sylladex.",
-	pageId = 2732,
 	timestamp = "1286229064",
 	flag = {},
 	media = {
@@ -600,4 +599,6 @@ return {
 		2733,
 	},
 	previous = 2731,
+	page_id = 2732,
+	long_title = false,
 }

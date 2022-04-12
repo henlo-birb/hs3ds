@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Cut to the chase and play card games immediately.",
-	pageId = 2102,
 	timestamp = "1277677161",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		2103,
 	},
 	previous = 2101,
+	page_id = 2102,
+	long_title = true,
 }

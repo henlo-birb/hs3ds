@@ -1,6 +1,5 @@
 return {
 	title = "WV: Sacrifice your MAYORAL SASH for more CABLES.",
-	pageId = 1007,
 	timestamp = "1260666976",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1008,
 	},
 	previous = 1006,
+	page_id = 1007,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Press EJECT button.",
-	pageId = 584,
 	timestamp = "1252104114",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Oh hell no. Not after all that trouble you went through to get that stuff situated.",
+		"Oh hell no. Not after all that trouble\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you went through to get that stuff\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"situated.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is potentially a very dangerous button.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is potentially a very dangerous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"button.\
+",
 	},
 	next = {
 		585,
 	},
 	previous = 583,
+	page_id = 584,
+	long_title = false,
 }

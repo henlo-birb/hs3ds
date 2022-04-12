@@ -1,6 +1,5 @@
 return {
 	title = "John: Allocate hammer to strife specibus.",
-	pageId = 37,
 	timestamp = "1239918920",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"You check the back of your STRIFE SPECIBUS for the KIND ABSTRATUS you have in mind for it.",
+		"You check the back of your STRIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECIBUS for the KIND ABSTRATUS you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have in mind for it.\
+",
 	},
 	next = {
 		38,
 	},
 	previous = 36,
+	page_id = 37,
+	long_title = true,
 }

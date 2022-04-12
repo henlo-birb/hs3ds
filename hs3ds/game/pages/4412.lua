@@ -1,6 +1,5 @@
 return {
 	title = "Ball: Drop.",
-	pageId = 4412,
 	timestamp = "1325394255",
 	flag = {
 		"R1",
@@ -13,4 +12,6 @@ return {
 		4413,
 	},
 	previous = 4411,
+	page_id = 4412,
+	long_title = false,
 }

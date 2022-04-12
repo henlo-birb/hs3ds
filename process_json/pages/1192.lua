@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Be Diamonds Droog.",
-	pageId = 1192,
 	timestamp = "1263956190",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		1193,
 	},
 	previous = 1191,
+	page_id = 1192,
+	long_title = false,
 }

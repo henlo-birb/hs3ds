@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6000,
 	timestamp = "1363401122",
 	flag = {},
 	media = {
@@ -12,38 +11,132 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: The resulting explosion is known as the First 8r8k.",
+		"ARANEA: The resulting explosion is\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"known as the First 8r8k.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: From the primordial 8last would emerge fifteen planets for the player to conquer.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: They would scatter and ricochet at high velocity 8efore settling into or8it in the medium.",
+		"ARANEA: From the primordial 8last\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"would emerge fifteen planets for the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"player to conquer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: The 8r8k is a very violent phenomenon though. Not all planets will necessarily clear the 8last 8efore the Skaian de8ris settles into its final st8.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: They would scatter and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ricochet at high velocity 8efore\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"settling into or8it in the medium.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: The 8r8k is a very violent\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"phenomenon though. Not all planets\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"will necessarily clear the 8last\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8efore the Skaian de8ris settles into\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"its final st8.\
+",
 	},
 	next = {
 		6001,
 	},
 	previous = 5999,
+	page_id = 6000,
+	long_title = false,
 }

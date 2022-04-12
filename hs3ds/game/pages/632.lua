@@ -1,6 +1,5 @@
 return {
 	title = "John: Put both cards in totem lathe.",
-	pageId = 632,
 	timestamp = "1252722006",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You carve another TOTEM using the new combined hole pattern.",
+		"You carve another TOTEM using the new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"combined hole pattern.\
+",
 	},
 	next = {
 		633,
 	},
 	previous = 631,
+	page_id = 632,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Hours in the future...",
-	pageId = 1948,
 	timestamp = "1275972589",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"A mistress becomes a mendicant.",
+		"A mistress becomes a mendicant.\
+",
 	},
 	next = {
 		1949,
 	},
 	previous = 1947,
+	page_id = 1948,
+	long_title = false,
 }

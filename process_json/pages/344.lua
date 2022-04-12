@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Get a towel or something!",
-	pageId = 344,
 	timestamp = "1246933513",
 	flag = {
 		"R4",
@@ -91,4 +90,6 @@ return {
 		345,
 	},
 	previous = 343,
+	page_id = 344,
+	long_title = false,
 }

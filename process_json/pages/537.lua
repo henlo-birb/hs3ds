@@ -1,6 +1,5 @@
 return {
 	title = "John: Answer your chums.",
-	pageId = 537,
 	timestamp = "1251170847",
 	flag = {
 		"R4",
@@ -161,4 +160,6 @@ return {
 		538,
 	},
 	previous = 536,
+	page_id = 537,
+	long_title = false,
 }

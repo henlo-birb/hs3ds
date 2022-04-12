@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Search the bathroom for something slightly less damp.",
-	pageId = 347,
 	timestamp = "1247014541",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		348,
 	},
 	previous = 346,
+	page_id = 347,
+	long_title = true,
 }

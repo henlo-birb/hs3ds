@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Go downstairs.",
-	pageId = 2332,
 	timestamp = "1280728032",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"She brought you this far. Now to live up to your end of the bargain.",
+		"She brought you this far. Now to live\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up to your end of the bargain.\
+",
 	},
 	next = {
 		2333,
 	},
 	previous = 2331,
+	page_id = 2332,
+	long_title = false,
 }

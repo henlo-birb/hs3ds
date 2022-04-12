@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go into the kitchen.",
-	pageId = 567,
 	timestamp = "1251855567",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"No sign of BRO in here either.",
+		"No sign of BRO in here either.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Well, aside from the absurd quantity of awesome dangerous stuff he leaves lying around.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Well, aside from the absurd quantity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of awesome dangerous stuff he leaves\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lying around.\
+",
 	},
 	next = {
 		568,
 	},
 	previous = 566,
+	page_id = 567,
+	long_title = false,
 }

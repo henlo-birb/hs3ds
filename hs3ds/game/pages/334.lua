@@ -1,6 +1,5 @@
 return {
 	title = "JOHN WHAT ARE YOU DOING. STOP DOING NOTHING.",
-	pageId = 334,
 	timestamp = "1246679408",
 	flag = {},
 	media = {
@@ -12,26 +11,90 @@ return {
 			0,
 			0,
 		},
-		"Meanwhile in the present, in a place where the present may be a concept of dubious merit, John is spacing out.",
+		"Meanwhile in the present, in a place\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"where the present may be a concept of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dubious merit, John is spacing out.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But a vague and forceful thought jolts him to attention.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Or maybe it is that bumping sound coming from the other side of the door. What is that?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But a vague and forceful thought jolts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"him to attention.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Or maybe it is that bumping sound\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coming from the other side of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"door. What is that?\
+",
 	},
 	next = {
 		335,
 	},
 	previous = 333,
+	page_id = 334,
+	long_title = true,
 }

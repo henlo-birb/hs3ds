@@ -1,6 +1,5 @@
 return {
 	title = "John: Find dad and retrieve mail.",
-	pageId = 70,
 	timestamp = "1240271342",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		71,
 	},
 	previous = 69,
+	page_id = 70,
+	long_title = true,
 }

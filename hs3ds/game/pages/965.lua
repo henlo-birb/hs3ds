@@ -1,6 +1,5 @@
 return {
 	title = "John: Obtain SW33TL00T.",
-	pageId = 965,
 	timestamp = "1259975733",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You tear into this thing and put a mean peep on the sw33tloot.",
+		"You tear into this thing and put a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mean peep on the sw33tloot.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In addition to the MODUS CONTROL DECK, you got a bonus ARRAY FETCH MODUS. Plus another 12 cards, which are practically worthless by this point, but hey you'll take 'em.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In addition to the MODUS CONTROL DECK,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you got a bonus ARRAY FETCH MODUS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Plus another 12 cards, which are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"practically worthless by this point,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but hey you'll take 'em.\
+",
 	},
 	next = {
 		966,
 	},
 	previous = 964,
+	page_id = 965,
+	long_title = false,
 }

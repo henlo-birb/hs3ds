@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue glass shards.",
-	pageId = 129,
 	timestamp = "1241672000",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		130,
 	},
 	previous = 128,
+	page_id = 129,
+	long_title = false,
 }

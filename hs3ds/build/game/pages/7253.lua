@@ -1,0 +1,14 @@
+return {
+	title = "[A6A6I4] ====>",
+	timestamp = "1419569166",
+	flag = {},
+	media = {
+		"07250",
+	},
+	content = {},
+	next = {
+		7254,
+	},
+	previous = 7252,
+	page_id = 7253,
+}

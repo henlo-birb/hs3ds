@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Clone frog.",
-	pageId = 3317,
 	timestamp = "1295425374",
 	flag = {},
 	media = {
@@ -139,4 +138,6 @@ return {
 		3318,
 	},
 	previous = 3316,
+	page_id = 3317,
+	long_title = false,
 }

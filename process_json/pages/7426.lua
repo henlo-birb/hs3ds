@@ -1,6 +1,5 @@
 return {
 	title = "I SHOULD ALSO RELEVANTLY MENTION.",
-	pageId = 7426,
 	timestamp = "1428979473",
 	flag = {
 		"F",
@@ -99,4 +98,6 @@ return {
 	},
 	previous = 7425,
 	theme = "A6A6",
+	page_id = 7426,
+	long_title = true,
 }

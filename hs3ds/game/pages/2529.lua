@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Inquire.",
-	pageId = 2529,
 	timestamp = "1282785681",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2530,
 	},
 	previous = 2528,
+	page_id = 2529,
+	long_title = false,
 }

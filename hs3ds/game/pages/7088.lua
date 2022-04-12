@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7088,
 	timestamp = "1416977847",
 	flag = {},
 	media = {
@@ -12,45 +11,111 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: there was no way out\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: there was no way out",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: he could not transform into wind because he was completely submerged!",
+		"JADE: he could not transform into wind\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"because he was completely submerged!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: so he was faced with two possibilities",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: either he could figure out how to make himself disappear completely, using the ability he hoped to master",
+		"JADE: so he was faced with two\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"possibilities\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: or he could drown in the oil",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: either he could figure out how\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"to make himself disappear completely,\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"using the ability he hoped to master\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: or he could drown in the oil\
+",
 	},
 	next = {
 		7089,
 	},
 	previous = 7087,
+	page_id = 7088,
+	long_title = false,
 }

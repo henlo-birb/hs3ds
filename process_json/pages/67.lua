@@ -1,6 +1,5 @@
 return {
 	title = "John: Throw present wrap in fire.",
-	pageId = 67,
 	timestamp = "1240271159",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		68,
 	},
 	previous = 66,
+	page_id = 67,
+	long_title = true,
 }

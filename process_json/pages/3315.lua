@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Appearify frog.",
-	pageId = 3315,
 	timestamp = "1295405083",
 	flag = {},
 	media = {
@@ -523,4 +522,6 @@ return {
 		3316,
 	},
 	previous = 3314,
+	page_id = 3315,
+	long_title = false,
 }

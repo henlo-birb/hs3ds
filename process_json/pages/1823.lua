@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine puppet tux + smuppet.",
-	pageId = 1823,
 	timestamp = "1273708679",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 		1824,
 	},
 	previous = 1822,
+	page_id = 1823,
+	long_title = true,
 }

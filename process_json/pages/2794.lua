@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy... huh?",
-	pageId = 2794,
 	timestamp = "1288019412",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2795,
 	},
 	previous = 2793,
+	page_id = 2794,
+	long_title = false,
 }

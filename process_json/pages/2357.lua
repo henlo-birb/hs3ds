@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Scurry downstairs.",
-	pageId = 2357,
 	timestamp = "1281074655",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2358,
 	},
 	previous = 2356,
+	page_id = 2357,
+	long_title = false,
 }

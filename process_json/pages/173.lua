@@ -1,6 +1,5 @@
 return {
 	title = "TT: Put bathtub in driveway.",
-	pageId = 173,
 	timestamp = "1242626945",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		174,
 	},
 	previous = 172,
+	page_id = 173,
+	long_title = false,
 }

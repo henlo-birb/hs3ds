@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine body.",
-	pageId = 3435,
 	timestamp = "1296849123",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		3436,
 	},
 	previous = 3434,
+	page_id = 3435,
+	long_title = false,
 }

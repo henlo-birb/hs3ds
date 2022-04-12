@@ -1,6 +1,5 @@
 return {
 	title = "CD?: Approach locals.",
-	pageId = 3668,
 	timestamp = "1300753331",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3669,
 	},
 	previous = 3667,
+	page_id = 3668,
+	long_title = false,
 }

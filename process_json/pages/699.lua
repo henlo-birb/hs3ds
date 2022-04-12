@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use motor oil to designate commercial zones.",
-	pageId = 699,
 	timestamp = "1253945523",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		700,
 	},
 	previous = 698,
+	page_id = 699,
+	long_title = true,
 }

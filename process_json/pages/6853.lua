@@ -1,6 +1,5 @@
 return {
 	title = "ACT 6 ACT 6 ACT 3",
-	pageId = 6853,
 	timestamp = "1413585560",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 	},
 	previous = 6852,
 	theme = "A6A6",
+	page_id = 6853,
+	long_title = false,
 }

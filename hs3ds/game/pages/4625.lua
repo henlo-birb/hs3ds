@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4625,
 	timestamp = "1330394971",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"God dammit, GCat.",
+		"God dammit, GCat.\
+",
 	},
 	next = {
 		4626,
 	},
 	previous = 4624,
+	page_id = 4625,
+	long_title = false,
 }

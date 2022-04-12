@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7848,
 	timestamp = "1436308978",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Got anything yet?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Got anything yet?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: nope\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: nope",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Me neither.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Me neither.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: well fuck",
+		"MEENAH: well fuck\
+",
 	},
 	next = {
 		7849,
 	},
 	previous = 7847,
+	page_id = 7848,
+	long_title = false,
 }

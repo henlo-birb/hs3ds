@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Proceed to transmaterializer.",
-	pageId = 4603,
 	timestamp = "1330140106",
 	flag = {
 		"R1",
@@ -63,4 +62,6 @@ return {
 		4604,
 	},
 	previous = 4602,
+	page_id = 4603,
+	long_title = true,
 }

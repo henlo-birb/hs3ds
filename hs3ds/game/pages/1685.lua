@@ -1,6 +1,5 @@
 return {
 	title = "John: Open map.",
-	pageId = 1685,
 	timestamp = "1271468949",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		1686,
 	},
 	previous = 1684,
+	page_id = 1685,
+	long_title = false,
 }

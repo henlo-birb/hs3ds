@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 490,
 	timestamp = "1250457875",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"The TOWEL floats back down to the rack.",
+		"The TOWEL floats back down to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rack.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The circle of stupidity is complete.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The circle of stupidity is complete.\
+",
 	},
 	next = {
 		491,
 	},
 	previous = 489,
+	page_id = 490,
+	long_title = false,
 }

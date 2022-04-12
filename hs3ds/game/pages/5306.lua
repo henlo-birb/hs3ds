@@ -1,6 +1,5 @@
 return {
 	title = "[A6I3] ==>",
-	pageId = 5306,
 	timestamp = "1348265989",
 	flag = {},
 	media = {
@@ -12,73 +11,167 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: who cares about mules, or pastures, or dave sprite's stupid ephemeral sky visage.",
+		"JOHN: who cares about mules, or\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: who cares about anything!!!",
+		"pastures, or dave sprite's stupid\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"ephemeral sky visage.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: who cares about my birthday, or nic cage, or this boat full of idiots.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: who cares about anything!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: JUST.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: WHO.",
+		"JOHN: who cares about my birthday, or\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"nic cage, or this boat full of idiots.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: CARES.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: JUST.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: WHO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: CARES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: john i think youre officially throwing a tantrum here",
+		"JADE: john i think youre officially\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"throwing a tantrum here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: ...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: john?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: john?\
+",
 	},
 	next = {
 		5307,
 	},
 	previous = 5305,
+	page_id = 5306,
+	long_title = false,
 }

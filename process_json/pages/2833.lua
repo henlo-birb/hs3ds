@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Answer Terezi.",
-	pageId = 2833,
 	timestamp = "1288847355",
 	flag = {},
 	media = {
@@ -2175,4 +2174,6 @@ return {
 		2834,
 	},
 	previous = 2832,
+	page_id = 2833,
+	long_title = false,
 }

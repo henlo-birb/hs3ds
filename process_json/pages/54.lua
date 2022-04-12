@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine father's pipe with clever disguise.",
-	pageId = 54,
 	timestamp = "1240094060",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		55,
 	},
 	previous = 53,
+	page_id = 54,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Surrender to overwhelming emotions.",
-	pageId = 1602,
 	timestamp = "1269186476",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1603,
 	},
 	previous = 1601,
+	page_id = 1602,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "LIKE I SAID. I HAVE A SUPERIOR WEAPON.",
-	pageId = 7421,
 	timestamp = "1428979122",
 	flag = {
 		"F",
@@ -85,4 +84,6 @@ return {
 	},
 	previous = 7420,
 	theme = "A6A6",
+	page_id = 7421,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7541,
 	timestamp = "1431650778",
 	flag = {},
 	media = {
@@ -12,73 +11,251 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Those are the important things to remem8er.",
+		"VRISKA: Those are the important things\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"to remem8er.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: 8ut don't forget the 8asics.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: 8ut don't forget the 8asics.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Remem8er to finish 8uilding up your hives as far as they'll go.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Then deploy the grist rigs which will disperse your planets' hoards into Skaia, giving it the nutrients it needs to mature the frog.",
+		"VRISKA: Remem8er to finish 8uilding up\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"your hives as far as they'll go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This is Sgru8 101 stuff, 8ut I guess it 8ears repeating since most of you have never actually made it this far.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: When the hoards are empty and Skaia is ready, then all you have to do is make sure someone's in position to ignite the forge.",
+		"VRISKA: Then deploy the grist rigs\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Then everyone rendezvous right 8ack here on the lily pad to claim the Ultim8 Reward.",
+		"which will disperse your planets'\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Which is represented 8y the hive shape thingy with a door on it that leads to the new universe.",
+		"hoards into Skaia, giving it the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"nutrients it needs to mature the frog.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Any questions 8efore we kick this into action?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: This is Sgru8 101 stuff, 8ut I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"guess it 8ears repeating since most of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you have never actually made it this\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"far.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: When the hoards are empty and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Skaia is ready, then all you have to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"do is make sure someone's in position\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to ignite the forge.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Then everyone rendezvous right\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ack here on the lily pad to claim the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Ultim8 Reward.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Which is represented 8y the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"hive shape thingy with a door on it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that leads to the new universe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Any questions 8efore we kick\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this into action?\
+",
 	},
 	next = {
 		7542,
 	},
 	previous = 7540,
+	page_id = 7541,
+	long_title = false,
 }

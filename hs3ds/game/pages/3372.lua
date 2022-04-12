@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3372,
 	timestamp = "1296150297",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"There are no prints on the victim's face either.",
+		"There are no prints on the victim's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face either.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THIS WAS SURELY THE WORK OF A MASTER CRIMINAL.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THIS WAS SURELY THE WORK OF A MASTER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CRIMINAL.\
+",
 	},
 	next = {
 		3373,
 	},
 	previous = 3371,
+	page_id = 3372,
+	long_title = false,
 }

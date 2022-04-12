@@ -1,6 +1,5 @@
 return {
 	title = "JOHN WHAT ARE YOU DOING. STOP DOING NOTHING.",
-	pageId = 334,
 	timestamp = "1246679408",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		335,
 	},
 	previous = 333,
+	page_id = 334,
+	long_title = true,
 }

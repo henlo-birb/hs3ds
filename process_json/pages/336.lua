@@ -1,6 +1,5 @@
 return {
 	title = "TROUBLING. INVESTIGATE THIS.",
-	pageId = 336,
 	timestamp = "1246679478",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		337,
 	},
 	previous = 335,
+	page_id = 336,
+	long_title = false,
 }

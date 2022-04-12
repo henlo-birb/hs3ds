@@ -1,6 +1,5 @@
 return {
 	title = "Refrigerator: Level up for slaying the imp.",
-	pageId = 503,
 	timestamp = "1250717738",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		504,
 	},
 	previous = 502,
+	page_id = 503,
+	long_title = true,
 }

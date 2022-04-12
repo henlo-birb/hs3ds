@@ -1,6 +1,5 @@
 return {
 	title = "WV: Captchalogue can of gravy.",
-	pageId = 670,
 	timestamp = "1253594918",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Captchalogue? You have no idea what that means. It is total nonsense and you do not know what to make of it. You will not give the foolish notion a second thought.",
+		"Captchalogue? You have no idea what\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that means. It is total nonsense and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you do not know what to make of it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will not give the foolish notion a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second thought.\
+",
 	},
 	next = {
 		671,
 	},
 	previous = 669,
+	page_id = 670,
+	long_title = false,
 }

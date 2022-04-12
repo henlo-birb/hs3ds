@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Go downstairs.",
-	pageId = 3031,
 	timestamp = "1291847473",
 	flag = {},
 	media = {
@@ -12,80 +11,209 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: im just going to cut right to the chase and upgrade your alchemiter so you can avoid a lot of bullshit",
+		"TG: im just going to cut right to the\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: ill give you some codes and you can punch cards and slip em into jumper blocks",
+		"chase and upgrade your alchemiter so\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"you can avoid a lot of bullshit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: which are really the exact same codes you first gave me when we upgraded my alchemiter",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: ill give you some codes and you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"can punch cards and slip em into\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"jumper blocks\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: which seems like a hella long time ago",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: which are really the exact same\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"codes you first gave me when we\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"upgraded my alchemiter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: which seems like a hella long time\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"ago\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: it does doesnt it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: it does doesnt it",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: yeah but it kind of literally is\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"for me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: yeah but it kind of literally is for me",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: how long?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: how long?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: few days i guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: few days i guess",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: ok thats not THAT long :p\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: ok thats not THAT long :p",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: whatever",
+		"TG: whatever\
+",
 	},
 	next = {
 		3032,
 	},
 	previous = 3030,
+	page_id = 3031,
+	long_title = false,
 }

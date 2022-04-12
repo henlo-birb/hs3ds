@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Be the other asshole.",
-	pageId = 2179,
 	timestamp = "1278552365",
 	flag = {
 		"R4",
@@ -105,4 +104,6 @@ return {
 		2180,
 	},
 	previous = 2178,
+	page_id = 2179,
+	long_title = false,
 }

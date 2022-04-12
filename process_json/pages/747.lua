@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use trusty knife to carve spook schema in pumpkin.",
-	pageId = 747,
 	timestamp = "1254764471",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		748,
 	},
 	previous = 746,
+	page_id = 747,
+	long_title = true,
 }

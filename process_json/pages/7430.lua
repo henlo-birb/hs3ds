@@ -1,6 +1,5 @@
 return {
 	title = "I'M RUINING THEM, REALLY.",
-	pageId = 7430,
 	timestamp = "1428980398",
 	flag = {
 		"F",
@@ -99,4 +98,6 @@ return {
 	},
 	previous = 7429,
 	theme = "A6A6",
+	page_id = 7430,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Access Pesterchum and pester John.",
-	pageId = 322,
 	timestamp = "1246520039",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		323,
 	},
 	previous = 321,
+	page_id = 322,
+	long_title = true,
 }

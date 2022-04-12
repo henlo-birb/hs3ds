@@ -1,6 +1,5 @@
 return {
 	title = "[o] And now knowing her position,",
-	pageId = 3812,
 	timestamp = "1306919842",
 	flag = {},
 	media = {
@@ -12,11 +11,21 @@ return {
 			0,
 			0,
 		},
-		"He would soon return for the duel she wanted.",
+		"He would soon return for the duel she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wanted.\
+",
 	},
 	next = {
 		3813,
 	},
 	previous = 3811,
 	theme = "scratch",
+	page_id = 3812,
+	long_title = true,
 }

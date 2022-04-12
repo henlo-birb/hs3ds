@@ -1,10 +1,9 @@
 return {
 	title = "Be Roxy.",
-	pageId = "007076",
 	timestamp = "1340700195",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/05173.gif",
+		"05173",
 	},
 	content = {
 		{
@@ -102,4 +101,6 @@ return {
 	next = {
 		5177,
 	},
+	page_id = 5176,
+	long_title = false,
 }

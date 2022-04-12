@@ -1,6 +1,5 @@
 return {
 	title = "[A6I4] ==>",
-	pageId = 5479,
 	timestamp = "1353454343",
 	flag = {},
 	media = {
@@ -12,227 +11,580 @@ return {
 			0,
 			0,
 		},
-		"|AUTHORLOG|",
+		"|AUTHORLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"No way!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-No way!",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Then who would describe what you're thinking and feeling?",
-		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
-		},
-		"\
-NOBODY.",
-		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
-		},
-		"\
-I CAN THINK MY OWN THOUGHTS JUST FINE.",
-		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
-		},
-		"\
-THEY ARE LESS STUPID AND CONDESCENDING. THAN THE THOUGHTS YOU TELL MY BRAIN TO HAVE.",
+		"Then who would describe what you're\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-But your thoughts are shitty!",
+		"thinking and feeling?\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-You should be grateful to have someone to spice them up for you.",
-		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
-		},
-		"\
-NO. WHAT'S SHITTY. IS YOU.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-AND WHAT'S ALSO SHITTY IS THIS SHITTY PIECE OF SHIT MACHINE YOU LIVE INSIDE.",
+		"NOBODY.\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-I don't live inside this thing, you idiot.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-This is just sort of like a radio tower. It receives and transmits signals.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-That's kind of obvious?",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"I CAN THINK MY OWN THOUGHTS JUST FINE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-IT'S NOT OBVIOUS. IT'S DUMB AND CONFUSING.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-I DEMAND TO KNOW WHAT'S GOING ON.",
+		"THEY ARE LESS STUPID AND\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-TELL ME.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Gamzee could have told you a lot of stuff.",
+		"CONDESCENDING. THAN THE THOUGHTS YOU\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"TELL MY BRAIN TO HAVE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-WHO??",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"But your thoughts are shitty!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I can't believe you shot him like that. What's the matter with you?",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-He was literally the first living being you ever met in your whole life, and you gun him down without a single word?",
+		"You should be grateful to have someone\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"to spice them up for you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-You've got some problems.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"NO. WHAT'S SHITTY. IS YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-OH. THE CLOWN.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-HE WAS DREADFUL AND PURPLE AND NEEDED TO BE EXTERMINATED QUICKLY.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-He was a huge fan of yours and was really looking forward to meeting you.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-He wanted to help you with your quest.",
+		"AND WHAT'S ALSO SHITTY IS THIS SHITTY\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"PIECE OF SHIT MACHINE YOU LIVE INSIDE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-THIS IS MY PLANET. NO ONE ELSE CAN LIVE HERE. I DON'T NEED HELP.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Yet you want me to tell you what's going on?",
-		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
-		},
-		"\
-YES. TELL ME IMMEDIATELY.",
+		"I don't live inside this thing, you\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Nah.",
+		"idiot.\
+",
 		{
-			0.19607843137254902,
-			0.19607843137254902,
-			0.19607843137254902,
+			0,
+			0,
+			0,
 		},
 		"\
-AUGH.",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"This is just sort of like a radio\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"tower. It receives and transmits\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"signals.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-What?",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"That's kind of obvious?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"IT'S NOT OBVIOUS. IT'S DUMB AND\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"CONFUSING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I'M GETTING FRUSTRATED. BOTH BY YOU. AND THIS FUCKING KEYBOARD.",
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"I DEMAND TO KNOW WHAT'S GOING ON.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"TELL ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Gamzee could have told you a lot of\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"stuff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"WHO??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"I can't believe you shot him like\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"that. What's the matter with you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He was literally the first living\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"being you ever met in your whole life,\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"and you gun him down without a single\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"word?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You've got some problems.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"OH. THE CLOWN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"HE WAS DREADFUL AND PURPLE AND NEEDED\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"TO BE EXTERMINATED QUICKLY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He was a huge fan of yours and was\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"really looking forward to meeting you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"He wanted to help you with your quest.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"THIS IS MY PLANET. NO ONE ELSE CAN\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"LIVE HERE. I DON'T NEED HELP.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Yet you want me to tell you what's\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"going on?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"YES. TELL ME IMMEDIATELY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Nah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"AUGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"I'M GETTING FRUSTRATED. BOTH BY YOU.\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"AND THIS FUCKING KEYBOARD.\
+",
 	},
 	next = {
 		5480,
 	},
 	previous = 5478,
+	page_id = 5479,
+	long_title = false,
 }

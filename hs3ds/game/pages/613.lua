@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Burst out of the puppet pile like \"the one\".",
-	pageId = 613,
 	timestamp = "1252447357",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		614,
 	},
 	previous = 612,
+	page_id = 613,
+	long_title = true,
 }

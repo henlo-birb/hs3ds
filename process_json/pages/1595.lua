@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Answer troll.",
-	pageId = 1595,
 	timestamp = "1269058968",
 	flag = {},
 	media = {
@@ -1146,4 +1145,6 @@ return {
 		1596,
 	},
 	previous = 1594,
+	page_id = 1595,
+	long_title = false,
 }

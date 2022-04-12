@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4038,
 	timestamp = "1312836224",
 	flag = {},
 	media = {
@@ -13,19 +12,35 @@ return {
 			0,
 			0,
 		},
-		"He is a far less gracious host than I.",
+		"He is a far less gracious host than I.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait, what are you doing?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait, what are you doing?\
+",
 	},
 	next = {
 		4039,
 	},
 	previous = 4037,
 	theme = "scratch",
+	page_id = 4038,
+	long_title = false,
 }

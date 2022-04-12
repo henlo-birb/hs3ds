@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1472,
 	timestamp = "1266952531",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You could have sworn that strange man was holding your copy of Colonel Sassacre's.",
+		"You could have sworn that strange man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was holding your copy of Colonel\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sassacre's.\
+",
 	},
 	next = {
 		1473,
 	},
 	previous = 1471,
+	page_id = 1472,
+	long_title = false,
 }

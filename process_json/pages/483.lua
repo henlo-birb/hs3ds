@@ -1,6 +1,5 @@
 return {
 	title = "Piano: Level up for slaying the imp.",
-	pageId = 483,
 	timestamp = "1250395127",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		484,
 	},
 	previous = 482,
+	page_id = 483,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Get bugged by AG.",
-	pageId = 2144,
 	timestamp = "1278113545",
 	flag = {},
 	media = {
@@ -1286,4 +1285,6 @@ return {
 		2145,
 	},
 	previous = 2143,
+	page_id = 2144,
+	long_title = false,
 }

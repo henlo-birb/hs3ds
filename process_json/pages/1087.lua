@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pester Rose.",
-	pageId = 1087,
 	timestamp = "1262302471",
 	flag = {
 		"R1",
@@ -175,4 +174,6 @@ return {
 		1088,
 	},
 	previous = 1086,
+	page_id = 1087,
+	long_title = false,
 }

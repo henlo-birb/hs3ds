@@ -1,6 +1,5 @@
 return {
 	title = "Try again.",
-	pageId = 1994,
 	timestamp = "1276399264",
 	flag = {},
 	media = {
@@ -398,4 +397,6 @@ return {
 		1995,
 	},
 	previous = 1993,
+	page_id = 1994,
+	long_title = false,
 }

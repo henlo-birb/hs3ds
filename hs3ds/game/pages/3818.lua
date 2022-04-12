@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3818,
 	timestamp = "1307005472",
 	flag = {},
 	media = {
@@ -12,19 +11,56 @@ return {
 			0,
 			0,
 		},
-		"And if I'm going speculate on this duel, I might as well make use of earlier clippings. ",
+		"And if I'm going speculate on this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"duel, I might as well make use of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"earlier clippings.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-For the Slayer, this was round one against the Hero of Light.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"For the Slayer, this was round one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"against the Hero of Light.\
+",
 	},
 	next = {
 		3819,
 	},
 	previous = 3817,
 	theme = "scratch",
+	page_id = 3818,
+	long_title = false,
 }

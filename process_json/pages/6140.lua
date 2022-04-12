@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Everybody in.",
-	pageId = 6140,
 	timestamp = "1365458087",
 	flag = {
 		"F",
@@ -252,4 +251,6 @@ return {
 		6141,
 	},
 	previous = 6139,
+	page_id = 6140,
+	long_title = false,
 }

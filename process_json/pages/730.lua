@@ -1,6 +1,5 @@
 return {
 	title = "WV: Select the triangley fractal.",
-	pageId = 730,
 	timestamp = "1254620184",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		731,
 	},
 	previous = 729,
+	page_id = 730,
+	long_title = true,
 }

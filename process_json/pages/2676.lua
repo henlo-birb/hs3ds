@@ -1,6 +1,5 @@
 return {
 	title = "John: Exit to balcony.",
-	pageId = 2676,
 	timestamp = "1285558163",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2677,
 	},
 	previous = 2675,
+	page_id = 2676,
+	long_title = false,
 }

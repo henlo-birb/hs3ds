@@ -1,6 +1,5 @@
 return {
 	title = "AH: Revive.",
-	pageId = 3389,
 	timestamp = "1296245583",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		3390,
 	},
 	previous = 3388,
+	page_id = 3389,
+	long_title = false,
 }

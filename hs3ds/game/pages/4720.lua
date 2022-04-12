@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4720,
 	timestamp = "1332120818",
 	flag = {},
 	media = {
@@ -12,45 +11,104 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: man if you want to look at this that way then thats your business",
+		"DAVE: man if you want to look at this\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: this is just an old fashioned beatdown where im from deal with it",
+		"that way then thats your business\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: WHY DON'T YOU OLD FASHIONED GO FUCK YOURSELF?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: this is just an old fashioned\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"beatdown where im from deal with it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: stop biting my cape",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHY DON'T YOU OLD FASHIONED GO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FUCK YOURSELF?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: FUFCK NYOUF.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: stop biting my cape\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: FUFCK NYOUF.\
+",
 	},
 	next = {
 		4721,
 	},
 	previous = 4719,
+	page_id = 4720,
+	long_title = false,
 }

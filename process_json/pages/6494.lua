@@ -1,6 +1,5 @@
 return {
 	title = "I DON'T RECALL WHAT HIS LAND WAS THOUGH.",
-	pageId = 6494,
 	timestamp = "1377892125",
 	flag = {},
 	media = {
@@ -251,4 +250,6 @@ return {
 	},
 	previous = 6493,
 	theme = "A6A6",
+	page_id = 6494,
+	long_title = true,
 }

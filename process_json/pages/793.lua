@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Wonder why the design on your shirt changed.",
-	pageId = 793,
 	timestamp = "1256182599",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		794,
 	},
 	previous = 792,
+	page_id = 793,
+	long_title = true,
 }

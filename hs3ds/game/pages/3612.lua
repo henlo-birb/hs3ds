@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3612,
 	timestamp = "1299127937",
 	flag = {},
 	media = {
@@ -12,17 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-AA: and in the veil their codes were merged with the ghost imprints of other mysterious artifacts",
+		"AA: and in the veil their codes were\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"merged with the ghost imprints of\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"other mysterious artifacts\
+",
 	},
 	next = {
 		3613,
 	},
 	previous = 3611,
+	page_id = 3612,
+	long_title = false,
 }

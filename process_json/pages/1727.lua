@@ -1,6 +1,5 @@
 return {
 	title = "Maplehoof: Proceed.",
-	pageId = 1727,
 	timestamp = "1271973318",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1728,
 	},
 	previous = 1726,
+	page_id = 1727,
+	long_title = false,
 }

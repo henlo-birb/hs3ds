@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Pop a fucking wheelie.",
-	pageId = 1778,
 	timestamp = "1272412267",
 	flag = {
 		"R1",
@@ -56,4 +55,6 @@ return {
 		1779,
 	},
 	previous = 1777,
+	page_id = 1778,
+	long_title = false,
 }

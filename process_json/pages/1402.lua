@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy the cruxtruder in its place.",
-	pageId = 1402,
 	timestamp = "1266298726",
 	flag = {},
 	media = {
@@ -376,4 +375,6 @@ return {
 		1403,
 	},
 	previous = 1401,
+	page_id = 1402,
+	long_title = true,
 }

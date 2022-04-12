@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Open the Package.",
-	pageId = 997,
 	timestamp = "1260596052",
 	flag = {
 		"R4",
@@ -36,4 +35,6 @@ return {
 		998,
 	},
 	previous = 996,
+	page_id = 997,
+	long_title = false,
 }

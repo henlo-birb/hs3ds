@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Lightly irradiate steak.",
-	pageId = 818,
 	timestamp = "1256447085",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		819,
 	},
 	previous = 817,
+	page_id = 818,
+	long_title = false,
 }

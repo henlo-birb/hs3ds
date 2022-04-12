@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Remove cruxtruder from doorway.",
-	pageId = 283,
 	timestamp = "1245553467",
 	flag = {},
 	media = {
@@ -355,4 +354,6 @@ return {
 		284,
 	},
 	previous = 282,
+	page_id = 283,
+	long_title = true,
 }

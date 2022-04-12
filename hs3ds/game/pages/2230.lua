@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2230,
 	timestamp = "1279089499",
 	flag = {},
 	media = {
@@ -13,22 +12,27 @@ return {
 			0,
 			0,
 		},
-		"The ",
+		"The\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"CATENATIVE DOOMSDAY DICE CASCADER",
+		"CATENATIVE DOOMSDAY DICE CASCADER\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" is unfortuitously activated.",
+		"is unfortuitously activated.\
+",
 	},
 	next = {
 		2231,
 	},
 	previous = 2229,
+	page_id = 2230,
+	long_title = false,
 }

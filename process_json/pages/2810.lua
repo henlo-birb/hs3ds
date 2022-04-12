@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Randomly explode.",
-	pageId = 2810,
 	timestamp = "1288319928",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		2811,
 	},
 	previous = 2809,
+	page_id = 2810,
+	long_title = false,
 }

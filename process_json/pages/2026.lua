@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Check out one of his files.",
-	pageId = 2026,
 	timestamp = "1276707082",
 	flag = {},
 	media = {
@@ -180,4 +179,6 @@ return {
 		2027,
 	},
 	previous = 2025,
+	page_id = 2026,
+	long_title = true,
 }

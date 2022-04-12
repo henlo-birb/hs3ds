@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Answer fairy god troll.",
-	pageId = 3045,
 	timestamp = "1292021911",
 	flag = {},
 	media = {
@@ -1062,4 +1061,6 @@ return {
 		3046,
 	},
 	previous = 3044,
+	page_id = 3045,
+	long_title = false,
 }

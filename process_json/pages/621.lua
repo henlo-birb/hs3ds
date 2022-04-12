@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Produce captchalogue card.",
-	pageId = 621,
 	timestamp = "1252615528",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		622,
 	},
 	previous = 620,
+	page_id = 621,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: BEGIN GAME.",
-	pageId = 6481,
 	timestamp = "1377750589",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 6480,
 	theme = "A6A6",
+	page_id = 6481,
+	long_title = false,
 }

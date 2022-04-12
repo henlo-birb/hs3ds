@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Accept transfer.",
-	pageId = 2756,
 	timestamp = "1286943930",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2757,
 	},
 	previous = 2755,
+	page_id = 2756,
+	long_title = false,
 }

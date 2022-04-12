@@ -1,6 +1,5 @@
 return {
 	title = "John: Take shortcut.",
-	pageId = 1597,
 	timestamp = "1269132811",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1598,
 	},
 	previous = 1596,
+	page_id = 1597,
+	long_title = false,
 }

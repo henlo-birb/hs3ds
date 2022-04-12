@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Go get a beverage.",
-	pageId = 2452,
 	timestamp = "1282066393",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		2453,
 	},
 	previous = 2451,
+	page_id = 2452,
+	long_title = false,
 }

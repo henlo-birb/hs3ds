@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Consult source.",
-	pageId = 2345,
 	timestamp = "1280867422",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2346,
 	},
 	previous = 2344,
+	page_id = 2345,
+	long_title = false,
 }

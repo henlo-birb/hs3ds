@@ -1,6 +1,5 @@
 return {
 	title = "John: Read book. Be the wise guy.",
-	pageId = 629,
 	timestamp = "1252721882",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		630,
 	},
 	previous = 628,
+	page_id = 629,
+	long_title = true,
 }

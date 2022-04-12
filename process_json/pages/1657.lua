@@ -1,6 +1,5 @@
 return {
 	title = "Davesprite: Troll GC.",
-	pageId = 1657,
 	timestamp = "1270344308",
 	flag = {},
 	media = {
@@ -1797,4 +1796,6 @@ return {
 		1658,
 	},
 	previous = 1656,
+	page_id = 1657,
+	long_title = false,
 }

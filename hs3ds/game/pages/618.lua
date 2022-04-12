@@ -1,6 +1,5 @@
 return {
 	title = "John: Repeat process with other cards and dowels.",
-	pageId = 618,
 	timestamp = "1252560759",
 	flag = {},
 	media = {
@@ -13,10 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You use the card containing the code for the HAMMER, as well as the one with the random code you punched over the SHAVING CREAM card for the hell of it. You carve the respective TOTEMS for the cards.",
+		"You use the card containing the code\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the HAMMER, as well as the one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with the random code you punched over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the SHAVING CREAM card for the hell of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it. You carve the respective TOTEMS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the cards.\
+",
 	},
 	next = {
 		619,
 	},
 	previous = 617,
+	page_id = 618,
+	long_title = true,
 }

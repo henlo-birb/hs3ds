@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2254,
 	timestamp = "1279326402",
 	flag = {},
 	media = {
@@ -12,26 +11,153 @@ return {
 			0,
 			0,
 		},
-		"What's he up to now? Hard to say since we're not telling him what to do. Guardians can never be told what to do. Neither the omnipotent kind, nor the ordinary kind who raise kids in houses. It's a universal law of reality.",
+		"What's he up to now? Hard to say since\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"we're not telling him what to do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Guardians can never be told what to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do. Neither the omnipotent kind, nor\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the ordinary kind who raise kids in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"houses. It's a universal law of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reality.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like he's pondering over his next move in a game he is playing with some wicked troll girl down on the planet. Usually these matches are no contest, but she has been getting closer to beating him lately, and he has no idea how this is possible. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Uncertainty, though rare, is quite a troubling sensation for the omniscient.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like he's pondering over his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"next move in a game he is playing with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some wicked troll girl down on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"planet. Usually these matches are no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contest, but she has been getting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"closer to beating him lately, and he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has no idea how this is possible.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Uncertainty, though rare, is quite a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troubling sensation for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"omniscient.\
+",
 	},
 	next = {
 		2255,
 	},
 	previous = 2253,
+	page_id = 2254,
+	long_title = false,
 }

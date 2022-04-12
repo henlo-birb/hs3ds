@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3302,
 	timestamp = "1295219108",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"And then darkness.",
+		"And then darkness.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have one lead in your investigation. But she hasn't been very helpful so far.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have one lead in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"investigation. But she hasn't been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"very helpful so far.\
+",
 	},
 	next = {
 		3303,
 	},
 	previous = 3301,
+	page_id = 3302,
+	long_title = false,
 }

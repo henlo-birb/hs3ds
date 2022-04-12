@@ -1,6 +1,5 @@
 return {
 	title = "the recent past is recalled...",
-	pageId = 1944,
 	timestamp = "1275950569",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"An ACCURSED MASCOT is located among fallen brethren. Its visage, reviled.",
+		"An ACCURSED MASCOT is located among\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fallen brethren. Its visage, reviled.\
+",
 	},
 	next = {
 		1945,
 	},
 	previous = 1943,
+	page_id = 1944,
+	long_title = false,
 }

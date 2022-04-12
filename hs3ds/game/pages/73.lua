@@ -1,6 +1,5 @@
 return {
 	title = "John: Upgrade costume with hat from hat rack.",
-	pageId = 73,
 	timestamp = "1240349638",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You swap the MAGICIAN'S HAT with the BOWLER HAT.",
+		"You swap the MAGICIAN'S HAT with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BOWLER HAT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This disguise is somewhat less funny, but A LOT more distinguished looking.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This disguise is somewhat less funny,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but A LOT more distinguished looking.\
+",
 	},
 	next = {
 		74,
 	},
 	previous = 72,
+	page_id = 73,
+	long_title = true,
 }

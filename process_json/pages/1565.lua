@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw the holopad.",
-	pageId = 1565,
 	timestamp = "1267998551",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		1566,
 	},
 	previous = 1564,
+	page_id = 1565,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Plug in your laptop.",
-	pageId = 415,
 	timestamp = "1248923933",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		416,
 	},
 	previous = 414,
+	page_id = 415,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Tell Liv Tyler you love her before impact.",
-	pageId = 223,
 	timestamp = "1243727807",
 	flag = {
 		"R4",
@@ -98,4 +97,6 @@ return {
 		224,
 	},
 	previous = 222,
+	page_id = 223,
+	long_title = true,
 }

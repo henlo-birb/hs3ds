@@ -1,6 +1,5 @@
 return {
 	title = "THIS CHUM WILL KNOW WHAT TO DO.",
-	pageId = 386,
 	timestamp = "1247796644",
 	flag = {},
 	media = {
@@ -1167,4 +1166,6 @@ return {
 		387,
 	},
 	previous = 385,
+	page_id = 386,
+	long_title = false,
 }

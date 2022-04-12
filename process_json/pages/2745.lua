@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Deploy smelloscope.",
-	pageId = 2745,
 	timestamp = "1286846195",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2746,
 	},
 	previous = 2744,
+	page_id = 2745,
+	long_title = false,
 }

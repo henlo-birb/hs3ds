@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Check unknown objects.",
-	pageId = 1510,
 	timestamp = "1267342126",
 	flag = {},
 	media = {
@@ -628,4 +627,6 @@ return {
 		1511,
 	},
 	previous = 1509,
+	page_id = 1510,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[o] Instead, he got her.",
-	pageId = 3796,
 	timestamp = "1306393766",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 	},
 	previous = 3795,
 	theme = "scratch",
+	page_id = 3796,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Examine fetch modus.",
-	pageId = 864,
 	timestamp = "1258062391",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		865,
 	},
 	previous = 863,
+	page_id = 864,
+	long_title = false,
 }

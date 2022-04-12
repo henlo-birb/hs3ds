@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Move punched cards to John's room.",
-	pageId = 540,
 	timestamp = "1251257975",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		541,
 	},
 	previous = 539,
+	page_id = 540,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Get sledgehammer and card.",
-	pageId = 167,
 	timestamp = "1242540900",
 	flag = {},
 	media = {
@@ -13,18 +12,69 @@ return {
 			0,
 			0,
 		},
-		"You take the SLEDGEHAMMER and the CAPTCHALOGUE CARD, combine the two, and quickly apply it to your STRIFE SPECIBUS.",
+		"You take the SLEDGEHAMMER and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CAPTCHALOGUE CARD, combine the two,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and quickly apply it to your STRIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECIBUS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You think it's cool that things don't always have to be a federal fucking issue.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think it's cool that things don't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"always have to be a federal fucking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"issue.\
+",
 	},
 	next = {
 		168,
 	},
 	previous = 166,
+	page_id = 167,
+	long_title = false,
 }

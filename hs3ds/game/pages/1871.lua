@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1871,
 	timestamp = "1274307600",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You create a PARADOX GHOST IMPRINT of the woman you recognize to be your grandmother.",
+		"You create a PARADOX GHOST IMPRINT of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the woman you recognize to be your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grandmother.\
+",
 	},
 	next = {
 		1872,
 	},
 	previous = 1870,
+	page_id = 1871,
+	long_title = false,
 }

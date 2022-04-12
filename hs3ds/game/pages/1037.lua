@@ -1,6 +1,5 @@
 return {
 	title = "WV: Look behind you!",
-	pageId = 1037,
 	timestamp = "1261280923",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"See? Over there.",
+		"See? Over there.\
+",
 	},
 	next = {
 		1038,
 	},
 	previous = 1036,
+	page_id = 1037,
+	long_title = false,
 }

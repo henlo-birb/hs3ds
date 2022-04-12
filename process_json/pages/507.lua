@@ -1,6 +1,5 @@
 return {
 	title = "john might i bother you for a can opener?",
-	pageId = 507,
 	timestamp = "1250717927",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		508,
 	},
 	previous = 506,
+	page_id = 507,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AND NOW, IF YOU WILL EXCUSE ME.",
-	pageId = 7447,
 	timestamp = "1429068516",
 	flag = {},
 	media = {
@@ -195,4 +194,6 @@ return {
 	},
 	previous = 7446,
 	theme = "A6A6",
+	page_id = 7447,
+	long_title = false,
 }

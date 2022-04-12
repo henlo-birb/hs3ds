@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 8006,
 	timestamp = "1459368926",
 	flag = {},
 	media = {
@@ -12,361 +11,944 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but you werent actually deprived of important experiences ",
+		"but you werent actually deprived of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"important experiences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"stuff like us dating and johns stupid birthday parties and playing shitty ghostbuster mmos ",
+		"stuff like us dating and johns stupid\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"birthday parties and playing shitty\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ghostbuster mmos\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"that stuff all happened to you, its just you dont have access to the memories ",
+		"that stuff all happened to you, its\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"just you dont have access to the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"memories\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"they didnt happen to shape this particular version of yourself ",
+		"they didnt happen to shape this\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"particular version of yourself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but they all played a role in helping like \"greater jade\" grow if that makes sense ",
+		"but they all played a role in helping\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like \"greater jade\" grow if that makes\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"sense\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"everything that ever happens to every version of you is an important part of your ultimate self... like a superceding bodyless and timeless persona that crosses the boundaries of paradox space and unlike god tiers or bubble ghosts or whatever, it really IS immortal ",
+		"everything that ever happens to every\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"version of you is an important part of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your ultimate self... like a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"superceding bodyless and timeless\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"persona that crosses the boundaries of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"paradox space and unlike god tiers or\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"bubble ghosts or whatever, it really\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"IS immortal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but in your physical form there are all these partitions in your mind that prevent you from remembering any of that which makes your existence f33l totally linear ",
+		"but in your physical form there are\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"all these partitions in your mind that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"prevent you from remembering any of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that which makes your existence f33l\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"totally linear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"which is probably for the best! ",
+		"which is probably for the best!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"in a regular body s33ing all that would be too overwhelming ",
+		"in a regular body s33ing all that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"would be too overwhelming\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"in an advanced sprite form like mine tho its fine ",
+		"in an advanced sprite form like mine\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"tho its fine\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"i guess the same spritey magic that makes it possible to suddenly understand so much is also what makes it possible to make it bearable all at once ",
+		"i guess the same spritey magic that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"makes it possible to suddenly\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"understand so much is also what makes\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"it possible to make it bearable all at\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"once\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"not even just bearable actually sorta liberating and cool ",
+		"not even just bearable actually sorta\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"liberating and cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"and after it sinks in for a while you start coming to this understanding of a greater self ",
+		"and after it sinks in for a while you\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"start coming to this understanding of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"a greater self\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"maybe i \"got it\" quicker though because of the two people i was and their aspects ",
+		"maybe i \"got it\" quicker though\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"because of the two people i was and\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"their aspects\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"understanding heart is all about the nuances of a distributed self ",
+		"understanding heart is all about the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"nuances of a distributed self\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"nepeta never got to make much headway with her aspect but shes finally gettin the chance ",
+		"nepeta never got to make much headway\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"with her aspect but shes finally\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"gettin the chance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"the time aspect is all about running into different versions of yourself so you kinda get confronted with it in a really literal way that can be disturbing ",
+		"the time aspect is all about running\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"into different versions of yourself so\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you kinda get confronted with it in a\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"really literal way that can be\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"disturbing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"obviously davesprite stuggled with that too, but now its fine ",
+		"obviously davesprite stuggled with\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that too, but now its fine\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"hes fr33 from worrying about it all and what it means for his place in reality ",
+		"hes fr33 from worrying about it all\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"and what it means for his place in\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"reality\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"because he can s33 now all his selves have relevance in painting the full picture of who he truly is ",
+		"because he can s33 now all his selves\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"have relevance in painting the full\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"picture of who he truly is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"im not COMPLETELY sure because im not like some sort of ASPECT MASTER but ",
+		"im not COMPLETELY sure because im not\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like some sort of ASPECT MASTER but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"my avian slash feline intuition tells me that all roads will lead you here eventually",
+		"my avian slash feline intuition tells\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"me that all roads will lead you here\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"eventually\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"gaining the d33pest possible understanding of any aspect will bring you to the same final conclusion about your ultimate self ",
+		"gaining the d33pest possible\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"understanding of any aspect will bring\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you to the same final conclusion about\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"your ultimate self\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"so maybe thats starting to happen for you too ",
+		"so maybe thats starting to happen for\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"the space aspect sounds like a hard and lonely road to travel... i think they probably all are ",
+		"the space aspect sounds like a hard\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"and lonely road to travel... i think\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"they probably all are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"but youre gettin there jade ",
+		"but youre gettin there jade\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-DAVEPETASPRITE^2: B33 < ",
+		"DAVEPETASPRITE^2: B33 <\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"you are doing great and im so proud of you! ",
+		"you are doing great and im so proud of\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"you!\
+",
 	},
 	next = {
 		8007,
 	},
 	previous = 8005,
+	page_id = 8006,
+	long_title = false,
 }

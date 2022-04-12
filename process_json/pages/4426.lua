@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Call GCat down from the tree.",
-	pageId = 4426,
 	timestamp = "1325558682",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4427,
 	},
 	previous = 4425,
+	page_id = 4426,
+	long_title = true,
 }

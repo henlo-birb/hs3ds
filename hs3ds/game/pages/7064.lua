@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7064,
 	timestamp = "1416546251",
 	flag = {},
 	media = {
@@ -12,45 +11,111 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: i couldnt believe it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: i couldnt believe it",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: it was totally inexplicable\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: it was totally inexplicable",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: there was no trace of them at all... they were both dead",
+		"JADE: there was no trace of them at\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"all... they were both dead\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: i supposed it must have meant johns death was heroic... but i couldnt for the life of me imagine how",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: i supposed it must have meant\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"johns death was heroic... but i\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"couldnt for the life of me imagine how\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: to me it was as pointless and arbitrary as a death could be",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: to me it was as pointless and\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"arbitrary as a death could be\
+",
 	},
 	next = {
 		7065,
 	},
 	previous = 7063,
+	page_id = 7064,
+	long_title = false,
 }

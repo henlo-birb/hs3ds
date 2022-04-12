@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Make air conditioner unit.",
-	pageId = 1576,
 	timestamp = "1268194948",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1577,
 	},
 	previous = 1575,
+	page_id = 1576,
+	long_title = false,
 }

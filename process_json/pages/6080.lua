@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] VBVS: Summon undead army.",
-	pageId = 6080,
 	timestamp = "1364972373",
 	flag = {},
 	media = {
@@ -418,4 +417,6 @@ return {
 		6081,
 	},
 	previous = 6079,
+	page_id = 6080,
+	long_title = false,
 }

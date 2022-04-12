@@ -1,6 +1,5 @@
 return {
 	title = "DD: Use Red Miles.",
-	pageId = 4949,
 	timestamp = "1337320710",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		4950,
 	},
 	previous = 4948,
+	page_id = 4949,
+	long_title = false,
 }

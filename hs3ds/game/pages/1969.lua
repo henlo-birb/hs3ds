@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1969,
 	timestamp = "1276150577",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"A tyrant is retreating. A battleship, landing.",
+		"A tyrant is retreating. A battleship,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"landing.\
+",
 	},
 	next = {
 		1970,
 	},
 	previous = 1968,
+	page_id = 1969,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Bring 2 cans of shaving cream.",
-	pageId = 488,
 	timestamp = "1250457790",
 	flag = {},
 	media = {
@@ -13,18 +12,69 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue two cans of SHAVING CREAM just in case. You never know when you'll need to bust out a hilarious SHAVING CREAM SANTA BEARD to ratchet up your PRANKSTER'S GAMBIT.",
+		"You captchalogue two cans of SHAVING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CREAM just in case. You never know\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when you'll need to bust out a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hilarious SHAVING CREAM SANTA BEARD to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ratchet up your PRANKSTER'S GAMBIT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your TELESCOPE goes flying out the window.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your TELESCOPE goes flying out the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"window.\
+",
 	},
 	next = {
 		489,
 	},
 	previous = 487,
+	page_id = 488,
+	long_title = true,
 }

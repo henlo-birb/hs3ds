@@ -1,6 +1,5 @@
 return {
 	title = "John: Install the Sburb beta.",
-	pageId = 113,
 	timestamp = "1241497715",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You decide it's time for less meta, and more beta.",
+		"You decide it's time for less meta,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and more beta.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You insert the CD and install the SBURB BETA.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You insert the CD and install the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SBURB BETA.\
+",
 	},
 	next = {
 		114,
 	},
 	previous = 112,
+	page_id = 113,
+	long_title = false,
 }

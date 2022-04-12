@@ -1,6 +1,5 @@
 return {
 	title = "Examine placronym.",
-	pageId = 4466,
 	timestamp = "1326668682",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Hey, clear out that stupid pony! What is this, some sort of miniature paddock?",
+		"Hey, clear out that stupid pony! What\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is this, some sort of miniature\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paddock?\
+",
 	},
 	next = {
 		4467,
 	},
 	previous = 4465,
+	page_id = 4466,
+	long_title = false,
 }

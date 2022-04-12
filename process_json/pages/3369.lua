@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Deploy forensics crew.",
-	pageId = 3369,
 	timestamp = "1296102362",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3370,
 	},
 	previous = 3368,
+	page_id = 3369,
+	long_title = false,
 }

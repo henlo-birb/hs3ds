@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2398,
 	timestamp = "1281564609",
 	flag = {},
 	media = {
@@ -12,26 +11,195 @@ return {
 			0,
 			0,
 		},
-		"The relationships each quadrant describes tend to be malleable, if not volatile, especially on the concupiscent half where more torrid emotions reside. It doesn't take much to flip a switch and transmute blackrom feelings to redrom, and vice versa. ",
+		"The relationships each quadrant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"describes tend to be malleable, if not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"volatile, especially on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concupiscent half where more torrid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"emotions reside. It doesn't take much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to flip a switch and transmute\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blackrom feelings to redrom, and vice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"versa.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In many cases, one party will have red feelings while the other has black. But it will often be the case that one party's feelings will swap to match the other's, since there is no quadrant which naturally accommodates such a disparity. But thereafter, it's not uncommon for the two to toggle between red and black in unison now and then. These scenarios naturally result in both red and black infidelities. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This sort of relationship volatility is why conciliatory relationships are an important part of troll romance.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In many cases, one party will have red\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feelings while the other has black.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it will often be the case that one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"party's feelings will swap to match\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the other's, since there is no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quadrant which naturally accommodates\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such a disparity. But thereafter, it's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not uncommon for the two to toggle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"between red and black in unison now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and then. These scenarios naturally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"result in both red and black\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"infidelities.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This sort of relationship volatility\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is why conciliatory relationships are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an important part of troll romance.\
+",
 	},
 	next = {
 		2400,
 	},
 	previous = 2397,
+	page_id = 2398,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Deploy cloning apparatus.",
-	pageId = 3310,
 	timestamp = "1295331563",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3311,
 	},
 	previous = 3309,
+	page_id = 3310,
+	long_title = false,
 }

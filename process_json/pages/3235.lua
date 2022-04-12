@@ -1,6 +1,5 @@
 return {
 	title = "AH: Bust out shitty self portrait.",
-	pageId = 3235,
 	timestamp = "1294014504",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		3236,
 	},
 	previous = 3234,
+	page_id = 3235,
+	long_title = true,
 }

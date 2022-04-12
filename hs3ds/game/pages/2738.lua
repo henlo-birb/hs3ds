@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Make a goddamn killing in the LOHACSE.",
-	pageId = 2738,
 	timestamp = "1286341960",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2739,
 	},
 	previous = 2737,
+	page_id = 2738,
+	long_title = true,
 }

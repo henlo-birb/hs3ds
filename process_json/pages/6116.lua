@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Investigate.",
-	pageId = 6116,
 	timestamp = "1365316442",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		6117,
 	},
 	previous = 6115,
+	page_id = 6116,
+	long_title = false,
 }

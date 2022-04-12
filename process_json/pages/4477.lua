@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Take journals.",
-	pageId = 4477,
 	timestamp = "1326861768",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		4478,
 	},
 	previous = 4476,
+	page_id = 4477,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Bathtub: Level up for slaying the imp.",
-	pageId = 557,
 	timestamp = "1251521169",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		558,
 	},
 	previous = 556,
+	page_id = 557,
+	long_title = true,
 }

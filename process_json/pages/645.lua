@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Check Alchemy Excursus.",
-	pageId = 645,
 	timestamp = "1253062900",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		646,
 	},
 	previous = 644,
+	page_id = 645,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Point cherry vehicle toward X on map.",
-	pageId = 2371,
 	timestamp = "1281224059",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2372,
 	},
 	previous = 2370,
+	page_id = 2371,
+	long_title = true,
 }

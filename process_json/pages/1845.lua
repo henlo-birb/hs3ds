@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine brain and SBaHJ drawing and captcharoid camera",
-	pageId = 1845,
 	timestamp = "1273812955",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1846,
 	},
 	previous = 1844,
+	page_id = 1845,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4300,
 	timestamp = "1323593105",
 	flag = {},
 	media = {
@@ -12,31 +11,62 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: :|\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: :|",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: i have no idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: i have no idea",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: extra dimensional shenanigan based phenomena perhaps?????",
+		"JADE: extra dimensional shenanigan\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"based phenomena perhaps?????\
+",
 	},
 	next = {
 		4301,
 	},
 	previous = 4299,
+	page_id = 4300,
+	long_title = false,
 }

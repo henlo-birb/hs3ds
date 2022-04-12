@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7195,
 	timestamp = "1418792533",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: JANE! :U",
+		"CALLIOPE: JANE! :U\
+",
 	},
 	next = {
 		7196,
 	},
 	previous = 7194,
+	page_id = 7195,
+	long_title = false,
 }

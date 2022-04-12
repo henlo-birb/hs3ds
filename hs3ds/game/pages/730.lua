@@ -1,6 +1,5 @@
 return {
 	title = "WV: Select the triangley fractal.",
-	pageId = 730,
 	timestamp = "1254620184",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"The triangley fractal room does not appear to be locked.",
+		"The triangley fractal room does not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appear to be locked.\
+",
 	},
 	next = {
 		731,
 	},
 	previous = 729,
+	page_id = 730,
+	long_title = true,
 }

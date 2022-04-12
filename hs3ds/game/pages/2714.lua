@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2714,
 	timestamp = "1285886770",
 	flag = {},
 	media = {
@@ -13,38 +12,118 @@ return {
 			0,
 			0,
 		},
-		"Your ",
+		"Your\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"FOURTH, FIFTH, AND SIXTH CONVERSATIONS",
+		"FOURTH, FIFTH, AND SIXTH CONVERSATIONS\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" don't fare much better. This friendship is stalling fast. What are you doing wrong?",
+		"don't fare much better. This\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friendship is stalling fast. What are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you doing wrong?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are now getting your ass handed to you on a silver nutrition plateau. You are in serious need of a ploy to turn the tables in this duel of snarky one-upsmanship. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Some advice couldn't hurt, you suppose.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are now getting your ass handed to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you on a silver nutrition plateau. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are in serious need of a ploy to turn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the tables in this duel of snarky\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one-upsmanship.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Some advice couldn't hurt, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"suppose.\
+",
 	},
 	next = {
 		2715,
 	},
 	previous = 2713,
+	page_id = 2714,
+	long_title = false,
 }

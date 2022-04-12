@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue the unplugged powercord.",
-	pageId = 590,
 	timestamp = "1252177389",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		591,
 	},
 	previous = 589,
+	page_id = 590,
+	long_title = true,
 }

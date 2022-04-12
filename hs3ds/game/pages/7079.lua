@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7079,
 	timestamp = "1416806131",
 	flag = {},
 	media = {
@@ -12,52 +11,167 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: as you know, we all have personal quests that are unique to our planets",
+		"JADE: as you know, we all have\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: the nature of the quest is never easy to understand at first",
+		"personal quests that are unique to our\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"planets\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: they are presented to us through enigmatic riddles conveyed through the lore of the land",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: for john it was to journey to the place where \"constellations danced beneath the clouds\"",
+		"JADE: the nature of the quest is never\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"easy to understand at first\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: it was said the heir of breath was to free the stars from the shade and release them into heaven",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: they are presented to us through\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"enigmatic riddles conveyed through the\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"lore of the land\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: this was just a mysterious way of saying what he REALLY had to do",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: for john it was to journey to\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"the place where \"constellations danced\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"beneath the clouds\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: it was said the heir of breath\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"was to free the stars from the shade\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"and release them into heaven\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: this was just a mysterious way\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"of saying what he REALLY had to do\
+",
 	},
 	next = {
 		7080,
 	},
 	previous = 7078,
+	page_id = 7079,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Pick up all of the cards and throw them at Doze.",
-	pageId = 1195,
 	timestamp = "1263960690",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1196,
 	},
 	previous = 1194,
+	page_id = 1195,
+	long_title = true,
 }

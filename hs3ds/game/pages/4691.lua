@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4691,
 	timestamp = "1331689436",
 	flag = {},
 	media = {
@@ -12,157 +11,503 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: OH GET OVER YOURSELF, OUR TEN MINUTES IS ALMOST UP.",
+		"CCG: OH GET OVER YOURSELF, OUR TEN\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"MINUTES IS ALMOST UP.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: I WOULD JUST LIKE TO KNOW.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CCG: I WOULD JUST LIKE TO KNOW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: IS SHE PUNISHING ME FOR SOMETHING?",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CCG: IS SHE PUNISHING ME FOR\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"SOMETHING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: I DON'T NEED TO REMIND YOU HOW MUCH TIME SHE SPENDS GALLIVANTING AROUND THE METEOR WITH YOU KNOW WHO.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: I DON'T NEED TO REMIND YOU HOW\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"MUCH TIME SHE SPENDS GALLIVANTING\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"AROUND THE METEOR WITH YOU KNOW WHO.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"FCG: NO YOU SURE AS FUCK DO NOT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FCG: NO YOU SURE AS FUCK DO NOT.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: AFTER ALL THIS TIME I *STILL* CAN'T TELL IF SHE'S SERIOUS ABOUT THAT, OR DOING IT TO FUCK WITH ME.",
+		"CCG: AFTER ALL THIS TIME I *STILL*\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: WHAT DO YOU THINK? IS THERE SOMETHING LEGITIMATELY RED GOING ON THERE?",
+		"CAN'T TELL IF SHE'S SERIOUS ABOUT\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"THAT, OR DOING IT TO FUCK WITH ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: HOW CAN I COMMAND SUCH ABSOLUTE MASTERY OVER THE ROMANTIC SCIENCES YET REMAIN PERPLEXED BY THIS???",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: MAYBE I CAN'T GET A READ BECAUSE HE'S NOT A TROLL, AND THEREFORE HAS NO IDEA WHAT THE FUCK HE'S DOING?",
+		"CCG: WHAT DO YOU THINK? IS THERE\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CCG: IT'S LIKE TRYING TO DECIPHER AN INTRICATE COURTSHIP PROCESS BETWEEN AN ATTRACTIVE POTENTIAL MATESPRIT, AND SOME SORT OF VEGETABLE.",
+		"SOMETHING LEGITIMATELY RED GOING ON\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"THERE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CCG: LIKE IT DOESN'T COMPUTE.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: HOW CAN I COMMAND SUCH ABSOLUTE\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"MASTERY OVER THE ROMANTIC SCIENCES YET\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"REMAIN PERPLEXED BY THIS???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: MAYBE I CAN'T GET A READ BECAUSE\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"HE'S NOT A TROLL, AND THEREFORE HAS NO\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"IDEA WHAT THE FUCK HE'S DOING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: IT'S LIKE TRYING TO DECIPHER AN\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"INTRICATE COURTSHIP PROCESS BETWEEN AN\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"ATTRACTIVE POTENTIAL MATESPRIT, AND\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"SOME SORT OF VEGETABLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: LIKE IT DOESN'T COMPUTE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-FCG: FUCK, THIS IS SO EMBARRASSING LISTENING TO THIS, MAKE IT STOP.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: QUIET, I'M TALKING.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: I JUST FEEL LIKE MAYBE I'M PAST THE POINT OF NO RETURN WITH HER.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: WHERE BEFORE THERE WAS MARGIN FOR ERROR, PROBABLY WAY MORE THAN I EVER DESERVED.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: AND NOW THAT'S IT. SHE'S TOTALLY HAD IT, AND THERE'S A NEW DUDE WITH CANDYBLOOD IN TOWN.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: HE'S JUST GOT IT ALL, DOESN'T HE? HE'S A MUCH BETTER ARTIST THAN I AM, FOR ONE THING.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: AND HIS HORNS ARE SO NUBBY, THEY DON'T EVEN EXIST! TALK ABOUT HITTING THE JACKPOT.",
-		{
-			1.0,
-			0.0,
-			0.0,
-		},
-		"\
-CCG: AM I OFF BASE??",
+		"FCG: FUCK, THIS IS SO EMBARRASSING\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"LISTENING TO THIS, MAKE IT STOP.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FCG: WE JUST WENT OVER THIS.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: QUIET, I'M TALKING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: I JUST FEEL LIKE MAYBE I'M PAST\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"THE POINT OF NO RETURN WITH HER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: WHERE BEFORE THERE WAS MARGIN FOR\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"ERROR, PROBABLY WAY MORE THAN I EVER\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"DESERVED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: AND NOW THAT'S IT. SHE'S TOTALLY\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"HAD IT, AND THERE'S A NEW DUDE WITH\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CANDYBLOOD IN TOWN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: HE'S JUST GOT IT ALL, DOESN'T HE?\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"HE'S A MUCH BETTER ARTIST THAN I AM,\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"FOR ONE THING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: AND HIS HORNS ARE SO NUBBY, THEY\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"DON'T EVEN EXIST! TALK ABOUT HITTING\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"THE JACKPOT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CCG: AM I OFF BASE??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"FCG: WE JUST WENT OVER THIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FCG: I DIDN'T GET IT THEN BECAUSE I WAS TOO BUSY WHINING AND FEELING SORRY FOR MYSELF LIKE YOU'RE DOING NOW SO PIPE DOWN AND LISTEN.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FCG: I DIDN'T GET IT THEN BECAUSE I\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WAS TOO BUSY WHINING AND FEELING SORRY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FOR MYSELF LIKE YOU'RE DOING NOW SO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PIPE DOWN AND LISTEN.\
+",
 	},
 	next = {
 		4692,
 	},
 	previous = 4690,
+	page_id = 4691,
+	long_title = false,
 }

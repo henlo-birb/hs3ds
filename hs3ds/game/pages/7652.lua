@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7652,
 	timestamp = "1434406580",
 	flag = {},
 	media = {
@@ -12,49 +11,97 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Hello Kanaya!",
+		"Hello Kanaya!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Funny meeting you down here in this cave.",
+		"Funny meeting you down here in this\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cave.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" That is to say the place I knew you went to, and skittered here to visit in order to find you!",
+		"That is to say the place I knew you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"went to, and skittered here to visit\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"in order to find you!\
+",
 	},
 	next = {
 		7653,
 	},
 	previous = 7651,
+	page_id = 7652,
+	long_title = false,
 }

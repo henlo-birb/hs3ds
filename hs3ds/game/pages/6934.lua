@@ -1,6 +1,5 @@
 return {
 	title = "OF A POET.",
-	pageId = 6934,
 	timestamp = "1414892615",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6933,
 	theme = "A6A6",
+	page_id = 6934,
+	long_title = false,
 }

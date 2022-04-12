@@ -1,6 +1,5 @@
 return {
 	title = "BEHOLD, MY EXCLUSIVE PRIVATE GALLERY.",
-	pageId = 6863,
 	timestamp = "1413620446",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 	},
 	previous = 6862,
 	theme = "A6A6",
+	page_id = 6863,
+	long_title = true,
 }

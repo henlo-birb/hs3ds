@@ -1,6 +1,5 @@
 return {
 	title = "CG: Troll John.",
-	pageId = 1903,
 	timestamp = "1274490007",
 	flag = {},
 	media = {
@@ -2924,4 +2923,6 @@ return {
 		1904,
 	},
 	previous = 1902,
+	page_id = 1903,
+	long_title = false,
 }

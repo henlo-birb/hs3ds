@@ -1,6 +1,5 @@
 return {
 	title = "John: Pester someone's server player.",
-	pageId = 2682,
 	timestamp = "1285626021",
 	flag = {},
 	media = {
@@ -2301,4 +2300,6 @@ return {
 		2683,
 	},
 	previous = 2681,
+	page_id = 2682,
+	long_title = true,
 }

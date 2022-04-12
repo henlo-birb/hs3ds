@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw air conditioner on roof.",
-	pageId = 1575,
 	timestamp = "1268194905",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You ghost-captcha the huge air conditioner and give Dave the code to mess around with.",
+		"You ghost-captcha the huge air\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conditioner and give Dave the code to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mess around with.\
+",
 	},
 	next = {
 		1576,
 	},
 	previous = 1574,
+	page_id = 1575,
+	long_title = true,
 }

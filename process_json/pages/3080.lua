@@ -1,6 +1,5 @@
 return {
 	title = "John: Proceed to Quest Bed.",
-	pageId = 3080,
 	timestamp = "1292454734",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3081,
 	},
 	previous = 3079,
+	page_id = 3080,
+	long_title = false,
 }

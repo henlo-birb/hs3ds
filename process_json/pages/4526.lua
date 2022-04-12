@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: What the hell is that on your arm...",
-	pageId = 4526,
 	timestamp = "1328048054",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4527,
 	},
 	previous = 4525,
+	page_id = 4526,
+	long_title = true,
 }

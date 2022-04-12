@@ -1,6 +1,5 @@
 return {
 	title = "AR: Quickly retrieve side arms.",
-	pageId = 1104,
 	timestamp = "1262481024",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1105,
 	},
 	previous = 1103,
+	page_id = 1104,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Check out cool drawing on wall.",
-	pageId = 2196,
 	timestamp = "1278738966",
 	flag = {},
 	media = {
@@ -160,4 +159,6 @@ return {
 		2197,
 	},
 	previous = 2195,
+	page_id = 2196,
+	long_title = true,
 }

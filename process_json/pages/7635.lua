@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6A6I5] ====>",
-	pageId = 7635,
 	timestamp = "1433372018",
 	flag = {
 		"ECHIDNA",
@@ -13,4 +12,6 @@ return {
 		7636,
 	},
 	previous = 7634,
+	page_id = 7635,
+	long_title = false,
 }

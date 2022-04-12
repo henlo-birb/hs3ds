@@ -1,6 +1,5 @@
 return {
 	title = "AR: Cautiously drink TAB.",
-	pageId = 1408,
 	timestamp = "1266518231",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1409,
 	},
 	previous = 1407,
+	page_id = 1408,
+	long_title = false,
 }

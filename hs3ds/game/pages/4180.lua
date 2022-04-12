@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4180,
 	timestamp = "1321831838",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Well, as long as one of your preposterously numerous computers has spilled out of your sylladex, you might as well stop procrastinating and contact Strider to... hang on.",
+		"Well, as long as one of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"preposterously numerous computers has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spilled out of your sylladex, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"might as well stop procrastinating and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"contact Strider to... hang on.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe later.\
+",
 	},
 	next = {
 		4181,
 	},
 	previous = 4179,
+	page_id = 4180,
+	long_title = false,
 }

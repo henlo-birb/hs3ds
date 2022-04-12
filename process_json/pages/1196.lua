@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Pick a card, any card.",
-	pageId = 1196,
 	timestamp = "1263969741",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1197,
 	},
 	previous = 1195,
+	page_id = 1196,
+	long_title = false,
 }

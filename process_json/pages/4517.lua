@@ -1,10 +1,9 @@
 return {
 	title = "Be Dirk.",
-	pageId = "006417",
 	timestamp = "1327970898",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/04514.gif",
+		"04514",
 	},
 	content = {
 		{
@@ -109,4 +108,6 @@ return {
 	next = {
 		4518,
 	},
+	page_id = 4517,
+	long_title = false,
 }

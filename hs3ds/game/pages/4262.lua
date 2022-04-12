@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Read note.",
-	pageId = 4262,
 	timestamp = "1323059648",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Fat chance, dad.",
+		"Fat chance, dad.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This bird's gotta fly!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This bird's gotta fly!!!\
+",
 	},
 	next = {
 		4263,
 	},
 	previous = 4261,
+	page_id = 4262,
+	long_title = false,
 }

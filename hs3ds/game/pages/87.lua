@@ -1,6 +1,5 @@
 return {
 	title = "John: Go back into the kitchen.",
-	pageId = 87,
 	timestamp = "1240615225",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You have no other choice. You are going in. ",
+		"You have no other choice. You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"going in.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-CLEVER DISGUISE, it's time to work your magic.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CLEVER DISGUISE, it's time to work\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your magic.\
+",
 	},
 	next = {
 		88,
 	},
 	previous = 86,
+	page_id = 87,
+	long_title = false,
 }

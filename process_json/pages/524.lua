@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine reverse side of hammer card in strife specibus",
-	pageId = 524,
 	timestamp = "1250998181",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		525,
 	},
 	previous = 523,
+	page_id = 524,
+	long_title = true,
 }

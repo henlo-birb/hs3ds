@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Observe coolkid.",
-	pageId = 2765,
 	timestamp = "1287074365",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You learn much of this young creature's civilization and its customs.",
+		"You learn much of this young\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"creature's civilization and its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"customs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The adult's puppet assistant commences the standard feeding ritual.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The adult's puppet assistant commences\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the standard feeding ritual.\
+",
 	},
 	next = {
 		2766,
 	},
 	previous = 2764,
+	page_id = 2765,
+	long_title = false,
 }

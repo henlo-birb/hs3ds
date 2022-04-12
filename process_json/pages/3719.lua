@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Wake up.",
-	pageId = 3719,
 	timestamp = "1303164421",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3720,
 	},
 	previous = 3718,
+	page_id = 3719,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "sir john, i have politely returned.",
-	pageId = 2956,
 	timestamp = "1291168612",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2957,
 	},
 	previous = 2955,
+	page_id = 2956,
+	long_title = true,
 }

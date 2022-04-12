@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Construct loft above John's room.",
-	pageId = 511,
 	timestamp = "1250839557",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		512,
 	},
 	previous = 510,
+	page_id = 511,
+	long_title = true,
 }

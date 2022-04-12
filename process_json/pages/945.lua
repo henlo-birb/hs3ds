@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Retrieve the package you expected to arrive.",
-	pageId = 945,
 	timestamp = "1259714211",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		946,
 	},
 	previous = 944,
+	page_id = 945,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Check contents of wallet.",
-	pageId = 3398,
 	timestamp = "1296416829",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		3399,
 	},
 	previous = 3397,
+	page_id = 3398,
+	long_title = false,
 }

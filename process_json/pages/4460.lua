@@ -1,6 +1,5 @@
 return {
 	title = "DS: Deploy.",
-	pageId = 4460,
 	timestamp = "1326654058",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		4461,
 	},
 	previous = 4459,
+	page_id = 4460,
+	long_title = false,
 }

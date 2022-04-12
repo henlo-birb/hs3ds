@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1950,
 	timestamp = "1276023363",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"The slayer is summoned. The collateral, presented.",
+		"The slayer is summoned. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collateral, presented.\
+",
 	},
 	next = {
 		1951,
 	},
 	previous = 1949,
+	page_id = 1950,
+	long_title = false,
 }

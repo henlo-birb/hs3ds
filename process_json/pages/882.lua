@@ -1,6 +1,5 @@
 return {
 	title = "John: Collect phat lewtz.",
-	pageId = 882,
 	timestamp = "1258846166",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		883,
 	},
 	previous = 881,
+	page_id = 882,
+	long_title = false,
 }

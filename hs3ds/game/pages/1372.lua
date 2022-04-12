@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Switch to Pictionary modus.",
-	pageId = 1372,
 	timestamp = "1265934317",
 	flag = {},
 	media = {
@@ -12,30 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Yeah, that one's obviously not going to work.",
+		"Yeah, that one's obviously not going\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to work.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You switch to PICTIONARY, a choice based on a strong whim from the ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"mysterious ethers of democracy",
+		"\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		".",
+		"You switch to PICTIONARY, a choice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"based on a strong whim from the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mysterious ethers of democracy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		".\
+",
 	},
 	next = {
 		1373,
 	},
 	previous = 1371,
+	page_id = 1372,
+	long_title = true,
 }

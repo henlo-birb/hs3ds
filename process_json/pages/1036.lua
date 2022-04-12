@@ -1,6 +1,5 @@
 return {
 	title = "WV: Eat letter and envelope.",
-	pageId = 1036,
 	timestamp = "1261280890",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1037,
 	},
 	previous = 1035,
+	page_id = 1036,
+	long_title = false,
 }

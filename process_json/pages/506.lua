@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Drop something heavy on one of those imps.",
-	pageId = 506,
 	timestamp = "1250717851",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		507,
 	},
 	previous = 505,
+	page_id = 506,
+	long_title = true,
 }

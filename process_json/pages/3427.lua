@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Answer Terezi.",
-	pageId = 3427,
 	timestamp = "1296760586",
 	flag = {},
 	media = {
@@ -642,4 +641,6 @@ return {
 		3428,
 	},
 	previous = 3426,
+	page_id = 3427,
+	long_title = false,
 }

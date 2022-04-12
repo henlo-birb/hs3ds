@@ -1,6 +1,5 @@
 return {
 	title = "well done, john. polite congratulations.",
-	pageId = 504,
 	timestamp = "1250717770",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		505,
 	},
 	previous = 503,
+	page_id = 504,
+	long_title = true,
 }

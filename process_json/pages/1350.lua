@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Scan the barcode.",
-	pageId = 1350,
 	timestamp = "1265745074",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1351,
 	},
 	previous = 1349,
+	page_id = 1350,
+	long_title = false,
 }

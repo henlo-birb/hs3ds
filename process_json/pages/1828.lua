@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine Snoop Dogg photo and mini A/C and Caledscratch",
-	pageId = 1828,
 	timestamp = "1273722358",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1829,
 	},
 	previous = 1827,
+	page_id = 1828,
+	long_title = true,
 }

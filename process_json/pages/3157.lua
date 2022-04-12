@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine crystal ball and glasses.",
-	pageId = 3157,
 	timestamp = "1293251840",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		3158,
 	},
 	previous = 3156,
+	page_id = 3157,
+	long_title = true,
 }

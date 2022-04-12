@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6446,
 	timestamp = "1376947780",
 	flag = {},
 	media = {
@@ -12,29 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JANE:\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		" You're lucky you're so hot.",
+		"You're lucky you're so hot.\
+",
 	},
 	next = {
 		6447,
 	},
 	previous = 6445,
+	page_id = 6446,
+	long_title = false,
 }

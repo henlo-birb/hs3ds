@@ -1,6 +1,5 @@
 return {
 	title = "TT: Select John.",
-	pageId = 145,
 	timestamp = "1242181207",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You cannot select a PLAYER!",
+		"You cannot select a PLAYER!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-JOHN abjures the meddlesome cursor.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JOHN abjures the meddlesome cursor.\
+",
 	},
 	next = {
 		146,
 	},
 	previous = 144,
+	page_id = 145,
+	long_title = false,
 }

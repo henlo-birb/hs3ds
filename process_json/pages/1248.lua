@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Follow the red-blood road.",
-	pageId = 1248,
 	timestamp = "1264365409",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1249,
 	},
 	previous = 1247,
+	page_id = 1248,
+	long_title = true,
 }

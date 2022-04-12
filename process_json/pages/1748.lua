@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go find John.",
-	pageId = 1748,
 	timestamp = "1272078189",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		1749,
 	},
 	previous = 1747,
+	page_id = 1748,
+	long_title = false,
 }

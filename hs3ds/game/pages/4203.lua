@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4203,
 	timestamp = "1322102477",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"What's that, poppop? It seems he's concerned that you may not be properly equipped. ",
+		"What's that, poppop? It seems he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concerned that you may not be properly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"equipped.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You prove to him that you indeed had no intention of leaving the house without your trusty joke book.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You prove to him that you indeed had\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no intention of leaving the house\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without your trusty joke book.\
+",
 	},
 	next = {
 		4204,
 	},
 	previous = 4202,
+	page_id = 4203,
+	long_title = false,
 }

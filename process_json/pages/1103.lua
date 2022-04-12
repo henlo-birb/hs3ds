@@ -1,6 +1,5 @@
 return {
 	title = "AR: Go search for more ammo.",
-	pageId = 1103,
 	timestamp = "1262480942",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1104,
 	},
 	previous = 1102,
+	page_id = 1103,
+	long_title = false,
 }

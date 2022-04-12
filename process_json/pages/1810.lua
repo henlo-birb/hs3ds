@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine wizard statue and knitting needles.",
-	pageId = 1810,
 	timestamp = "1273189824",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1811,
 	},
 	previous = 1809,
+	page_id = 1810,
+	long_title = true,
 }

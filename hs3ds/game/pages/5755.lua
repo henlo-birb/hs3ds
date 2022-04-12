@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5755,
 	timestamp = "1358747479",
 	flag = {},
 	media = {
@@ -12,17 +11,35 @@ return {
 			0,
 			0,
 		},
-		"|TRKSTRLOG|",
+		"|TRKSTRLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickroxytxt_9.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickroxytxt_9.gif\"/>\
+",
 	},
 	next = {
 		5756,
 	},
 	previous = 5754,
 	theme = "trickster",
+	page_id = 5755,
+	long_title = false,
 }

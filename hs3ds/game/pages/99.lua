@@ -1,6 +1,5 @@
 return {
 	title = "John: Take package.",
-	pageId = 99,
 	timestamp = "1241135198",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"This RED PACKAGE is addressed to you.",
+		"This RED PACKAGE is addressed to you.\
+",
 	},
 	next = {
 		100,
 	},
 	previous = 98,
+	page_id = 99,
+	long_title = false,
 }

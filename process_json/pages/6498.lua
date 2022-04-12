@@ -1,6 +1,5 @@
 return {
 	title = "MOUNT STEEDS.",
-	pageId = 6498,
 	timestamp = "1377910238",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 	},
 	previous = 6497,
 	theme = "A6A6",
+	page_id = 6498,
+	long_title = false,
 }

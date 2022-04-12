@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Let's have a look inside.",
-	pageId = 5116,
 	timestamp = "1340235850",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		5117,
 	},
 	previous = 5115,
+	page_id = 5116,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Descend.",
-	pageId = 840,
 	timestamp = "1257561591",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		841,
 	},
 	previous = 839,
+	page_id = 840,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Grab those fireworks.",
-	pageId = 575,
 	timestamp = "1251954283",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		576,
 	},
 	previous = 574,
+	page_id = 575,
+	long_title = false,
 }

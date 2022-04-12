@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 566,
 	timestamp = "1251701757",
 	flag = {},
 	media = {
@@ -12,26 +11,160 @@ return {
 			0,
 			0,
 		},
-		"Ok, some of this stuff you KNOW he's just leaving around to get under your skin. This is obviously another ploy in his relentless siege of one-upsmanship to get your goat (the same goat you've been meaning to bleat like ironically, but that will still have to wait for a more appropriate time).",
+		"Ok, some of this stuff you KNOW he's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just leaving around to get under your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"skin. This is obviously another ploy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in his relentless siege of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one-upsmanship to get your goat (the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"same goat you've been meaning to bleat\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like ironically, but that will still\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have to wait for a more appropriate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time).\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You think he knows that deep down you feel like you're still not ironic enough to get stuff like this, and this is probably some weird gauntlet he's throwing down to see if you will \"GET IT\". ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But honestly you think this material is just a little TOO ironic. You just don't need to see this shit right now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think he knows that deep down you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feel like you're still not ironic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enough to get stuff like this, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this is probably some weird gauntlet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he's throwing down to see if you will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"GET IT\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But honestly you think this material\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is just a little TOO ironic. You just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"don't need to see this shit right now.\
+",
 	},
 	next = {
 		567,
 	},
 	previous = 565,
+	page_id = 566,
+	long_title = false,
 }

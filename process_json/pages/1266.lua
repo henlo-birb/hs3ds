@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Insert and quickly remove Snowman's pin.",
-	pageId = 1266,
 	timestamp = "1264725271",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1267,
 	},
 	previous = 1265,
+	page_id = 1266,
+	long_title = true,
 }

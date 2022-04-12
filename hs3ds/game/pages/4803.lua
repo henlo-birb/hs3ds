@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4803,
 	timestamp = "1333271188",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"WHILE YOU DIE SHIT SHIT SHIT, OH SHIT. FUCK. SHIT SHIT FUCK, I FORGOT.",
+		"WHILE YOU DIE SHIT SHIT SHIT, OH SHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FUCK. SHIT SHIT FUCK, I FORGOT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What kind of fucking idiot keeps his deudly white magnum loaded with only one tiny cueball??? God damn you, Scratch.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What kind of fucking idiot keeps his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deudly white magnum loaded with only\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"one tiny cueball??? God damn you,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Scratch.\
+",
 	},
 	next = {
 		4804,
 	},
 	previous = 4802,
+	page_id = 4803,
+	long_title = false,
 }

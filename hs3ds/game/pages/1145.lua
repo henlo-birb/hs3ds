@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Play guitar to summon giant lily pads.",
-	pageId = 1145,
 	timestamp = "1262906622",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1146,
 	},
 	previous = 1144,
+	page_id = 1145,
+	long_title = true,
 }

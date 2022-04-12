@@ -1,6 +1,5 @@
 return {
 	title = "AH: Close tome.",
-	pageId = 4097,
 	timestamp = "1314060096",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"And it was good.",
+		"And it was good.\
+",
 	},
 	next = {
 		4098,
 	},
 	previous = 4096,
+	page_id = 4097,
+	long_title = false,
 }

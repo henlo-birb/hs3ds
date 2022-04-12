@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Stuff down mr. purple guy into the garbage disposal.",
-	pageId = 603,
 	timestamp = "1252286152",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		604,
 	},
 	previous = 602,
+	page_id = 603,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3507,
 	timestamp = "1297652357",
 	flag = {
 		"R4",
@@ -14,10 +13,20 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		3508,
 	},
 	previous = 3506,
+	page_id = 3507,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Appearify the temple.",
-	pageId = 1008,
 	timestamp = "1260667038",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1009,
 	},
 	previous = 1007,
+	page_id = 1008,
+	long_title = false,
 }

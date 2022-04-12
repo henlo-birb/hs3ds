@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Exit this weird little girl's room.",
-	pageId = 6130,
 	timestamp = "1365413491",
 	flag = {},
 	media = {
@@ -383,4 +382,6 @@ return {
 		6131,
 	},
 	previous = 6129,
+	page_id = 6130,
+	long_title = true,
 }

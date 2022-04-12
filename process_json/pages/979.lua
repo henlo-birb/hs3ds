@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Mental breakdown.",
-	pageId = 979,
 	timestamp = "1260075651",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		980,
 	},
 	previous = 978,
+	page_id = 979,
+	long_title = false,
 }

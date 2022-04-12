@@ -1,6 +1,5 @@
 return {
 	title = "Colonel Sassacre: Level up for slaying the imp.",
-	pageId = 556,
 	timestamp = "1251521043",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		557,
 	},
 	previous = 555,
+	page_id = 556,
+	long_title = true,
 }

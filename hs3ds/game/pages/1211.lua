@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1211,
 	timestamp = "1264056233",
 	flag = {},
 	media = {
@@ -14,24 +13,55 @@ return {
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Itchy",
+		"Itchy\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" always cheats. But he's always cheated for the last time.",
+		"always cheats. But he's always cheated\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the last time.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're gonna jump to a timeline where he's dead.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're gonna jump to a timeline where\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he's dead.\
+",
 	},
 	next = {
 		1212,
 	},
 	previous = 1210,
+	page_id = 1211,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Proceed.",
-	pageId = 852,
 	timestamp = "1257903904",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You hop down a level.",
+		"You hop down a level.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Granddad also likes to accumulate VALIANT KNIGHTS from his travels. These are pretty cool, you guess.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Granddad also likes to accumulate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VALIANT KNIGHTS from his travels.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These are pretty cool, you guess.\
+",
 	},
 	next = {
 		853,
 	},
 	previous = 851,
+	page_id = 852,
+	long_title = false,
 }

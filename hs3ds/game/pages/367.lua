@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 367,
 	timestamp = "1247431582",
 	flag = {},
 	media = {
@@ -12,10 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Using the colorful MAGNET LETTERS, you recently left a succinct message, which may or may not have been directed toward anyone in particular. But you couldn't find the letter W, so you just stuck two V's together.",
+		"Using the colorful MAGNET LETTERS, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recently left a succinct message,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which may or may not have been\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"directed toward anyone in particular.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you couldn't find the letter W, so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you just stuck two V's together.\
+",
 	},
 	next = {
 		368,
 	},
 	previous = 366,
+	page_id = 367,
+	long_title = false,
 }

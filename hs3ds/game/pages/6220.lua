@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6220,
 	timestamp = "1365669995",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You chance upon the SLAB OF THE JADED FOOL'S ENNUI. You don't know the slab is called that, but that's what the slab is called.",
+		"You chance upon the SLAB OF THE JADED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOOL'S ENNUI. You don't know the slab\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is called that, but that's what the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slab is called.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like a good spot to decompress after your strange ordeal through canonspace.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like a good spot to decompress\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"after your strange ordeal through\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"canonspace.\
+",
 	},
 	next = {
 		6221,
 	},
 	previous = 6219,
+	page_id = 6220,
+	long_title = false,
 }

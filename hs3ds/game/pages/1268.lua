@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1268,
 	timestamp = "1264725406",
 	flag = {},
 	media = {
@@ -12,42 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Everyone always ceases gunplay when ",
+		"Everyone always ceases gunplay when\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Sn",
+		"Sn\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"o",
+		"o\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"wman",
+		"wman\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"'s around.",
+		"'s around.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If you kill her you destroy the universe.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If you kill her you destroy the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"universe.\
+",
 	},
 	next = {
 		1269,
 	},
 	previous = 1267,
+	page_id = 1268,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Refuse to acknowledge the absurd kitten.",
-	pageId = 926,
 	timestamp = "1259476469",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You fail miserably.",
+		"You fail miserably.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh look, there's some more mad science crap over here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh look, there's some more mad science\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"crap over here.\
+",
 	},
 	next = {
 		927,
 	},
 	previous = 925,
+	page_id = 926,
+	long_title = true,
 }

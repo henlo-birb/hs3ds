@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine oversized gift.",
-	pageId = 55,
 	timestamp = "1240094095",
 	flag = {},
 	media = {
@@ -13,10 +12,34 @@ return {
 			0,
 			0,
 		},
-		"Contemplating what could be inside this package is sort of exciting, but it makes you a little nervous at the same time.",
+		"Contemplating what could be inside\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this package is sort of exciting, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it makes you a little nervous at the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"same time.\
+",
 	},
 	next = {
 		56,
 	},
 	previous = 54,
+	page_id = 55,
+	long_title = false,
 }

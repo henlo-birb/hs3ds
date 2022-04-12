@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Inspect windy boy's treasure.",
-	pageId = 3399,
 	timestamp = "1296423858",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3400,
 	},
 	previous = 3398,
+	page_id = 3399,
+	long_title = true,
 }

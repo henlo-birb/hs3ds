@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go get a god damn new sword.",
-	pageId = 1083,
 	timestamp = "1262244463",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Perhaps you will. But if you do, it looks like you'll have to break it first.",
+		"Perhaps you will. But if you do, it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks like you'll have to break it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Perfectly good STRIFE SPECIBUS, down the toilet. Thanks BRO.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Perfectly good STRIFE SPECIBUS, down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the toilet. Thanks BRO.\
+",
 	},
 	next = {
 		1084,
 	},
 	previous = 1082,
+	page_id = 1083,
+	long_title = true,
 }

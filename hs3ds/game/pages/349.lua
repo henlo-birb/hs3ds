@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Clean up the juice.",
-	pageId = 349,
 	timestamp = "1247014616",
 	flag = {},
 	media = {
@@ -13,34 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You ",
+		"You\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"CL",
+		"CL\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"EA",
+		"EA\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (2+2+1+1+2 = 8) up the juice with the TOWEL and hang the damp BETA ENVELOPES on your line to dry off.",
+		"(2+2+1+1+2 = 8) up the juice with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TOWEL and hang the damp BETA ENVELOPES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on your line to dry off.\
+",
 	},
 	next = {
 		350,
 	},
 	previous = 348,
+	page_id = 349,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2939,
 	timestamp = "1291063173",
 	flag = {},
 	media = {
@@ -12,129 +11,314 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: who?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: who?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: JACK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: JACK.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I DIDN'T RECOGNIZE HIM WHEN HE FIRST APPEARED.",
+		"CG: I DIDN'T RECOGNIZE HIM WHEN HE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"FIRST APPEARED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: BUT ON PROSPIT, I SAW HIM UP CLOSE, WITHOUT ALL THAT RIDICULOUS GREEN SHIT OBSCURING HIM.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: I COULD HARDLY BELIEVE IT WAS REALLY HIM BY THE WAY HE LOOKED, BUT I JUST KNEW.",
+		"CG: BUT ON PROSPIT, I SAW HIM UP\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: HE WAS WEARING A RING I DIDN'T RECOGNIZE, CERTAINLY NOT ONE BELONGING TO OUR QUEENS.",
+		"CLOSE, WITHOUT ALL THAT RIDICULOUS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"GREEN SHIT OBSCURING HIM.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: WE DESTROYED THOSE.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: HE WORE IT ON HIS ONE HAND, WHICH WAS COVERED IN OUR MUTANT BLOOD.",
+		"CG: I COULD HARDLY BELIEVE IT WAS\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: AND THEN",
+		"REALLY HIM BY THE WAY HE LOOKED, BUT I\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"JUST KNEW.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: JUST LIKE THAT",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: HE KILLED ME",
+		"CG: HE WAS WEARING A RING I DIDN'T\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-CG: AND I GUESS",
+		"RECOGNIZE, CERTAINLY NOT ONE BELONGING\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"TO OUR QUEENS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: EVEN THOUGH IT WAS PROBABLY JUST HIS WAY OF SAYING HI",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: WE DESTROYED THOSE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: I STILL FELT KIND OF BETRAYED.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: HE WORE IT ON HIS ONE HAND, WHICH\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"WAS COVERED IN OUR MUTANT BLOOD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND THEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: JUST LIKE THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: HE KILLED ME\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: AND I GUESS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: EVEN THOUGH IT WAS PROBABLY JUST\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HIS WAY OF SAYING HI\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"CG: I STILL FELT KIND OF BETRAYED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: betrayed?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: betrayed?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"CG: YES JOHN. BETRAYED.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CG: YES JOHN. BETRAYED.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-EB: um, ok.",
+		"EB: um, ok.\
+",
 	},
 	next = {
 		2940,
 	},
 	previous = 2938,
+	page_id = 2939,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Ok, try out infinitesimalizer.",
-	pageId = 5020,
 	timestamp = "1338778179",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		5021,
 	},
 	previous = 5019,
+	page_id = 5020,
+	long_title = true,
 }

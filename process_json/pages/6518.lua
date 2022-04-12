@@ -1,6 +1,5 @@
 return {
 	title = "YOUR NOBLE MOUNT ABSORBS MOST OF THE DAMAGE THOUGH.",
-	pageId = 6518,
 	timestamp = "1378014526",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6517,
 	theme = "A6A6",
+	page_id = 6518,
+	long_title = true,
 }

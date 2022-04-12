@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Give guy a proper funeral.",
-	pageId = 4914,
 	timestamp = "1336032526",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4915,
 	},
 	previous = 4913,
+	page_id = 4914,
+	long_title = false,
 }

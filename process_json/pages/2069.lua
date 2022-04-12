@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Deal with crabby customer.",
-	pageId = 2069,
 	timestamp = "1277156646",
 	flag = {},
 	media = {
@@ -383,4 +382,6 @@ return {
 		2070,
 	},
 	previous = 2068,
+	page_id = 2069,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Tend to little pink monkeys.",
-	pageId = 1904,
 	timestamp = "1274563672",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1905,
 	},
 	previous = 1903,
+	page_id = 1904,
+	long_title = true,
 }

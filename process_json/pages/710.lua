@@ -1,6 +1,5 @@
 return {
 	title = "WV: Consume several cans.",
-	pageId = 710,
 	timestamp = "1254245199",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		711,
 	},
 	previous = 709,
+	page_id = 710,
+	long_title = false,
 }

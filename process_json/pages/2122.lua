@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Deal with AG.",
-	pageId = 2122,
 	timestamp = "1277854829",
 	flag = {},
 	media = {
@@ -1069,4 +1068,6 @@ return {
 		2123,
 	},
 	previous = 2121,
+	page_id = 2122,
+	long_title = false,
 }

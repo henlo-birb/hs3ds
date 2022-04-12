@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine ashes with urn.",
-	pageId = 58,
 	timestamp = "1240121526",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		59,
 	},
 	previous = 57,
+	page_id = 58,
+	long_title = false,
 }

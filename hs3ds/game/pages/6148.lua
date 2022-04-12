@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6148,
 	timestamp = "1365489932",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You don't need a fancy robotic eye to tell you what that is.",
+		"You don't need a fancy robotic eye to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tell you what that is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You know EXACTLY what that is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You know EXACTLY what that is.\
+",
 	},
 	next = {
 		6149,
 	},
 	previous = 6147,
+	page_id = 6148,
+	long_title = false,
 }

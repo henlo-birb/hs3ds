@@ -1,6 +1,5 @@
 return {
 	title = "TIME TRAVEL KEEPS HAPPENING!",
-	pageId = 6527,
 	timestamp = "1378096406",
 	flag = {},
 	media = {
@@ -12,11 +11,21 @@ return {
 			0,
 			0,
 		},
-		"THE MALE IS BEING VERY RECKLESS WITH HIS LOOPS. WHAT A MESS!",
+		"THE MALE IS BEING VERY RECKLESS WITH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HIS LOOPS. WHAT A MESS!\
+",
 	},
 	next = {
 		6528,
 	},
 	previous = 6526,
 	theme = "A6A6",
+	page_id = 6527,
+	long_title = false,
 }

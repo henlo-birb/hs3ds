@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take swords.",
-	pageId = 596,
 	timestamp = "1252210620",
 	flag = {},
 	media = {
@@ -376,4 +375,6 @@ return {
 		597,
 	},
 	previous = 595,
+	page_id = 596,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take towel.",
-	pageId = 348,
 	timestamp = "1247014568",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		349,
 	},
 	previous = 347,
+	page_id = 348,
+	long_title = false,
 }

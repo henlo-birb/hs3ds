@@ -1,6 +1,5 @@
 return {
 	title = "drat. please continue to solicit her graciously, good john.",
-	pageId = 2959,
 	timestamp = "1291168759",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		2960,
 	},
 	previous = 2958,
+	page_id = 2959,
+	long_title = true,
 }

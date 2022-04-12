@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Examine block.",
-	pageId = 2438,
 	timestamp = "1281927740",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2439,
 	},
 	previous = 2437,
+	page_id = 2438,
+	long_title = false,
 }

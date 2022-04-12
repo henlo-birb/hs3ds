@@ -1,6 +1,5 @@
 return {
 	title = "the recent past is recalled...",
-	pageId = 1949,
 	timestamp = "1275972635",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1950,
 	},
 	previous = 1948,
+	page_id = 1949,
+	long_title = false,
 }

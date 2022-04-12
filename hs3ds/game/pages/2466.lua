@@ -1,6 +1,5 @@
 return {
 	title = "Some time later...",
-	pageId = 2466,
 	timestamp = "1282205579",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"The WITCH OF LIFE takes her place in the LAND OF DEW AND GLASS.",
+		"The WITCH OF LIFE takes her place in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the LAND OF DEW AND GLASS.\
+",
 	},
 	next = {
 		2467,
 	},
 	previous = 2465,
+	page_id = 2466,
+	long_title = false,
 }

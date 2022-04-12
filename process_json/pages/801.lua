@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Look out window.",
-	pageId = 801,
 	timestamp = "1256342629",
 	flag = {},
 	media = {
@@ -167,4 +166,6 @@ return {
 		802,
 	},
 	previous = 800,
+	page_id = 801,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Retrieve shades.",
-	pageId = 3035,
 	timestamp = "1291927419",
 	flag = {},
 	media = {
@@ -12,26 +11,62 @@ return {
 			0,
 			0,
 		},
-		"STEP OFF.",
+		"STEP OFF.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You decide he can keep the SORD..... though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You decide he can keep the SORD.....\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"though.\
+",
 	},
 	next = {
 		3036,
 	},
 	previous = 3034,
+	page_id = 3035,
+	long_title = false,
 }

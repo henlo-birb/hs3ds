@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Insert disc into computer.",
-	pageId = 1518,
 	timestamp = "1267409832",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1519,
 	},
 	previous = 1517,
+	page_id = 1518,
+	long_title = false,
 }

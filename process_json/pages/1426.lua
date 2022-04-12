@@ -1,6 +1,5 @@
 return {
 	title = "Open it! Open it!!!",
-	pageId = 1426,
 	timestamp = "1266539479",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1427,
 	},
 	previous = 1425,
+	page_id = 1426,
+	long_title = false,
 }

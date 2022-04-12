@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Peek inside keyhole.",
-	pageId = 1340,
 	timestamp = "1265669706",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1341,
 	},
 	previous = 1339,
+	page_id = 1340,
+	long_title = false,
 }

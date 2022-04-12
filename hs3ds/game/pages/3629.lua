@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3629,
 	timestamp = "1299649065",
 	flag = {},
 	media = {
@@ -12,444 +11,1406 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Fine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Fine.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Then please at least try to sound more sarcastic when you do it.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Oh sure, I am really going to do that. Yes, very likely.",
+		"TT: Then please at least try to sound\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"more sarcastic when you do it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: ...",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Oh sure, I am really going to do that.\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes, very likely.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Then the Scratch will be implemented later, by either John or Dave I presume?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: You used a male pronoun.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+		"TT: Then the Scratch will be\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I guess it makes sense that it would happen later. My understanding is that Jack will not be banished from this session until near the end of the reckoning.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes, Jack will exit your session later, but this has nothing to do with the Scratch.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Not directly, as you imply.",
+		"implemented later, by either John or\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"Dave I presume?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I don't understand.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: You used a male pronoun.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I thought that was the point of the Scratch, to open a rift in spacetime as it were, and banish him into the trolls' session.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-No.",
+		"Yes.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-That is not the purpose of the Scratch at all. The Scratch does not open a rift in spacetime.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Hmm.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Then why have you directed me to cause it?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Does it have something to do with enabling you to die?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-No. Not directly.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-The Scratch has nothing more to do with my death than any other single event ultimately contributing to my demise.",
+		"TT: I guess it makes sense that it\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I think it's disingenuous for you to behave as if I have not been misled.",
+		"would happen later. My understanding\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: You say you don't lie, but what about lies of omission?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Lies of omission do not exist.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-The concept is a very human one. It is the product of your story writing again. You have written a story about the truth, making emotional demands of it, and in particular, of those in possession of it.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Your demands are based on a feeling of entitlement to the facts, which is very childish. You can never know all of the facts. Only I can.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-And since it's impossible for me to reveal all facts to you, it is my discretion alone that decides which facts will be revealed in the finite time we have.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-If I do not volunteer information you deem critical to your fate, it possibly means that I am a scoundrel, but it does not mean that I am a liar. And it certainly means you did not ask the right questions.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-One can make either true statements or false statements about reality. All of the statements I make are true.",
+		"is that Jack will not be banished from\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Unless you're joking.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+		"this session until near the end of the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"reckoning.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Haa haa, hee hee, hoo hoo?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Exactly.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Then I guess I'll start asking better questions.",
+		"Yes, Jack will exit your session\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Good.",
+		"later, but this has nothing to do with\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I will make a Seer of you yet.",
+		"the Scratch.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Will you?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-You can start by shoring up the reliability of your sources. You proceeded to question me believing you understood the purpose of the Scratch. You received your information about it from trolls. I assure you that in most ways, the trolls are as confused about everything as you are.",
+		"Not directly, as you imply.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Ok. Noted.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: What exactly does the Scratch do, then?",
+		"TT: I don't understand.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-It resets the game.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Oh.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That's it?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+		"TT: I thought that was the point of\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Then,",
+		"the Scratch, to open a rift in\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: We all start from the beginning again? When John entered?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-No.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-The release of temporal energy will be quite massive.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-This is a hard reset. It will reboot the conditions in your universe well before you began playing the game.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-You will have lived different lives after the reset. The different initial conditions will ideally lead to a more favorable scenario in the new session.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Unfortunately, you will have no memory of anything that has happened in the session you are in now.",
+		"spacetime as it were, and banish him\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"into the trolls' session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: What will happen to us? Everyone in this session now?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-You will all cease to exist completely if you remain here during the Scratch.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"That is not the purpose of the Scratch\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"at all. The Scratch does not open a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"rift in spacetime.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Hmm.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: This seems familiar.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: It reminds me of when Dave and I were trapped in the doomed timeline, and he left to change the past.",
+		"TT: Then why have you directed me to\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"cause it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: The timeline ceased to exist, along with my dream self, who in a way became merged with my dream self of this timeline. I kept some of her memories.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Does it have something to do with\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"enabling you to die?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Is the situation similar?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"No. Not directly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Similar, but more severe.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Since this timeline will undergo such a violent upheaval, such a merger of memory cannot happen.",
+		"The Scratch has nothing more to do\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-You will be resigned to absolute oblivion.",
+		"with my death than any other single\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Unless you can discover a way to preserve yourselves.",
+		"event ultimately contributing to my\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"demise.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-But it's not really my place to advise you on that.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I think it's disingenuous for you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"to behave as if I have not been\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"misled.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: You say you don't lie, but what\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"about lies of omission?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Lies of omission do not exist.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-After you have dealt with the Scratch and the sun, what happens to you is not any of my business.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"The concept is a very human one. It is\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the product of your story writing\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"again. You have written a story about\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the truth, making emotional demands of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"it, and in particular, of those in\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"possession of it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Your demands are based on a feeling of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"entitlement to the facts, which is\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"very childish. You can never know all\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of the facts. Only I can.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"And since it's impossible for me to\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reveal all facts to you, it is my\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"discretion alone that decides which\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"facts will be revealed in the finite\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"time we have.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"If I do not volunteer information you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"deem critical to your fate, it\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"possibly means that I am a scoundrel,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"but it does not mean that I am a liar.\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"And it certainly means you did not ask\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the right questions.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"One can make either true statements or\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"false statements about reality. All of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the statements I make are true.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Unless you're joking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Haa haa, hee hee, hoo hoo?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Exactly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then I guess I'll start asking\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"better questions.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Good.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I will make a Seer of you yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Will you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You can start by shoring up the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reliability of your sources. You\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"proceeded to question me believing you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"understood the purpose of the Scratch.\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You received your information about it\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"from trolls. I assure you that in most\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"ways, the trolls are as confused about\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"everything as you are.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Ok. Noted.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What exactly does the Scratch do,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"then?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It resets the game.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That's it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: We all start from the beginning\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"again? When John entered?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"The release of temporal energy will be\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"quite massive.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"This is a hard reset. It will reboot\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the conditions in your universe well\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"before you began playing the game.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You will have lived different lives\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"after the reset. The different initial\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"conditions will ideally lead to a more\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"favorable scenario in the new session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Unfortunately, you will have no memory\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"of anything that has happened in the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"session you are in now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: What will happen to us? Everyone\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"in this session now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You will all cease to exist completely\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"if you remain here during the Scratch.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: This seems familiar.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: It reminds me of when Dave and I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"were trapped in the doomed timeline,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"and he left to change the past.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: The timeline ceased to exist,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"along with my dream self, who in a way\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"became merged with my dream self of\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"this timeline. I kept some of her\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"memories.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is the situation similar?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Similar, but more severe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Since this timeline will undergo such\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a violent upheaval, such a merger of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"memory cannot happen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You will be resigned to absolute\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"oblivion.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Unless you can discover a way to\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"preserve yourselves.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But it's not really my place to advise\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you on that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"After you have dealt with the Scratch\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"and the sun, what happens to you is\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"not any of my business.\
+",
 	},
 	next = {
 		3630,
 	},
 	previous = 3628,
+	page_id = 3629,
+	long_title = false,
 }

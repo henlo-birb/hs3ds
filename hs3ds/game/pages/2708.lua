@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2708,
 	timestamp = "1285825873",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"And yet...",
+		"And yet...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your curiosity. It remains piqued.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How maddening.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your curiosity. It remains piqued.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How maddening.\
+",
 	},
 	next = {
 		2709,
 	},
 	previous = 2707,
+	page_id = 2708,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Navigating the veil nearby...",
-	pageId = 1895,
 	timestamp = "1274420524",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1896,
 	},
 	previous = 1894,
+	page_id = 1895,
+	long_title = false,
 }

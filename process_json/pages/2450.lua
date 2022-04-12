@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Check fridge.",
-	pageId = 2450,
 	timestamp = "1282029936",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2451,
 	},
 	previous = 2449,
+	page_id = 2450,
+	long_title = false,
 }

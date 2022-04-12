@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5938,
 	timestamp = "1361298300",
 	flag = {},
 	media = {
@@ -12,24 +11,55 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WAKE UP SLEEPY HEAD!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WAKE UP SLEEPY HEAD!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HONK HONK HONK, YEAH THAT'S RIGHT! IT'S TIME TO FACE THE FUCKING MUSIC.",
+		"KARKAT: HONK HONK HONK, YEAH THAT'S\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"RIGHT! IT'S TIME TO FACE THE FUCKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MUSIC.\
+",
 	},
 	next = {
 		5939,
 	},
 	previous = 5937,
+	page_id = 5938,
+	long_title = false,
 }

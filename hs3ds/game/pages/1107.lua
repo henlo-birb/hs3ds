@@ -1,6 +1,5 @@
 return {
 	title = "AR: Befriend the unwelcome rogues.",
-	pageId = 1107,
 	timestamp = "1262559361",
 	flag = {},
 	media = {
@@ -13,18 +12,76 @@ return {
 			0,
 			0,
 		},
-		"You wonder if you should reconsider your grievance with the offenders. Perhaps you should let it slide? They seem friendly enough, and it's been so long since you've had company. It would also be quite a pity to blow up that tall attractive female.",
+		"You wonder if you should reconsider\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your grievance with the offenders.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Perhaps you should let it slide? They\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seem friendly enough, and it's been so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"long since you've had company. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would also be quite a pity to blow up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that tall attractive female.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But then again...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But then again...\
+",
 	},
 	next = {
 		1108,
 	},
 	previous = 1106,
+	page_id = 1107,
+	long_title = true,
 }

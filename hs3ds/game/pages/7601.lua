@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7601,
 	timestamp = "1433112735",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: jade, could you wait over here?",
+		"CALLIOPE: jade, could you wait over\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i will return in a moment.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: i will return in a moment.\
+",
 	},
 	next = {
 		7602,
 	},
 	previous = 7600,
+	page_id = 7601,
+	long_title = false,
 }

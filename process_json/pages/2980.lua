@@ -1,6 +1,5 @@
 return {
 	title = "BOY, YOU'RE BEING VERY STUPID.",
-	pageId = 2980,
 	timestamp = "1291325791",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2981,
 	},
 	previous = 2979,
+	page_id = 2980,
+	long_title = false,
 }

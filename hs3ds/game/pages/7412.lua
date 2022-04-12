@@ -1,6 +1,5 @@
 return {
 	title = "LET US BEGIN.",
-	pageId = 7412,
 	timestamp = "1428897590",
 	flag = {
 		"F",
@@ -14,19 +13,119 @@ return {
 			0,
 			0,
 		},
-		"THE TALE MY MASTERPIECE DESCRIBES, IS BASICALLY A SPOILER TO THE ENDING OF THINGS. IT TAKES PLACE IN A FUTURE MOMENT. LONG BEYOND WHEN WE, YOU, OR I HAVE ANY BUSINESS SEEING WHAT HAPPENS. ",
+		"THE TALE MY MASTERPIECE DESCRIBES, IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BASICALLY A SPOILER TO THE ENDING OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THINGS. IT TAKES PLACE IN A FUTURE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MOMENT. LONG BEYOND WHEN WE, YOU, OR I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAVE ANY BUSINESS SEEING WHAT HAPPENS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BUT I FOUND OUT AND LEARNED OF THIS SPOILER. I SAW IT ONCE, ON ONE OF MY PLANET'S MANY SCREENS. THE LAND OF \"COLOURS\". AND THE LAND OF \"MAYHEM\". IT KNOWS ALL. AND IT WILL SHOW ANYTHING TO ANY MAN. WHO IS WILLING TO FIND THE RIGHT KEY. AND IT TURNS OUT THAT JUST SUCH A MAN. IS THE MAN THAT IS ME!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUT I FOUND OUT AND LEARNED OF THIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPOILER. I SAW IT ONCE, ON ONE OF MY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PLANET'S MANY SCREENS. THE LAND OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"COLOURS\". AND THE LAND OF \"MAYHEM\".\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT KNOWS ALL. AND IT WILL SHOW\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ANYTHING TO ANY MAN. WHO IS WILLING TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FIND THE RIGHT KEY. AND IT TURNS OUT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THAT JUST SUCH A MAN. IS THE MAN THAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IS ME!\
+",
 	},
 	next = {
 		7413,
 	},
 	previous = 7411,
 	theme = "A6A6",
+	page_id = 7412,
+	long_title = false,
 }

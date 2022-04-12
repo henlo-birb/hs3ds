@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine chests.",
-	pageId = 3733,
 	timestamp = "1303364590",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		3734,
 	},
 	previous = 3732,
+	page_id = 3733,
+	long_title = false,
 }

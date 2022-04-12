@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue Shurikens.",
-	pageId = 576,
 	timestamp = "1251954345",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		577,
 	},
 	previous = 575,
+	page_id = 576,
+	long_title = false,
 }

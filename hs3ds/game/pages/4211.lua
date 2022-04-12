@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4211,
 	timestamp = "1322273352",
 	flag = {
 		"R4",
@@ -15,38 +14,97 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: More and more Prospitians were filing out of the buildings every moment.",
+		"GG: More and more Prospitians were\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: They all began to form a single, major procession.",
+		"filing out of the buildings every\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: When I got closer, I could see that some were in tears.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: They all began to form a single,\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"major procession.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I realized this was a funeral.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: When I got closer, I could see\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"that some were in tears.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I realized this was a funeral.\
+",
 	},
 	next = {
 		4212,
 	},
 	previous = 4210,
+	page_id = 4211,
+	long_title = false,
 }

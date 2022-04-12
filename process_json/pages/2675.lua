@@ -1,6 +1,5 @@
 return {
 	title = "John: Discard sordid receptacle.",
-	pageId = 2675,
 	timestamp = "1285541195",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2676,
 	},
 	previous = 2674,
+	page_id = 2675,
+	long_title = false,
 }

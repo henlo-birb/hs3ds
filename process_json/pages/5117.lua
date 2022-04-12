@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Holster magnum.",
-	pageId = 5117,
 	timestamp = "1340239809",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		5118,
 	},
 	previous = 5116,
+	page_id = 5117,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tock.",
-	pageId = 3775,
 	timestamp = "1305748432",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 	},
 	previous = 3774,
 	theme = "scratch",
+	page_id = 3775,
+	long_title = false,
 }

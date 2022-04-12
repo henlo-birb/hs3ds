@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue doll.",
-	pageId = 68,
 	timestamp = "1240271229",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You can carry hefty items, but that thing is just way too big. Get real!",
+		"You can carry hefty items, but that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing is just way too big. Get real!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Besides, you don't even want it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Besides, you don't even want it.\
+",
 	},
 	next = {
 		69,
 	},
 	previous = 67,
+	page_id = 68,
+	long_title = false,
 }

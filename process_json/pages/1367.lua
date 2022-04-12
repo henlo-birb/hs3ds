@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Take the discs.",
-	pageId = 1367,
 	timestamp = "1265923156",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1368,
 	},
 	previous = 1366,
+	page_id = 1367,
+	long_title = false,
 }

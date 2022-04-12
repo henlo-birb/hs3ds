@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Inspect torso.",
-	pageId = 4408,
 	timestamp = "1325386158",
 	flag = {
 		"R4",
@@ -77,4 +76,6 @@ return {
 		4409,
 	},
 	previous = 4407,
+	page_id = 4408,
+	long_title = false,
 }

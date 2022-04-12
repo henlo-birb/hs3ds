@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Ok, back to the chest.",
-	pageId = 4145,
 	timestamp = "1321404859",
 	flag = {},
 	media = {
@@ -13,26 +12,223 @@ return {
 			0,
 			0,
 		},
-		"You return to your BAKING CHEST which you use mainly for storing QUALITY PRANKING APPARATUS and a few other odds and ends.",
+		"You return to your BAKING CHEST which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you use mainly for storing QUALITY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PRANKING APPARATUS and a few other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"odds and ends.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh hello, poppop. His friendly face is there to greet you every time you open your chest. You would have loved to meet him. Unfortunately his life was cut short at the tender age of 86 in a tragic accident, coincidentally on the same day you were born, or so your dad tells you. Poppop Crocker was a LEGENDARY COMEDIAN, following in the footsteps of his grandfather who of course was the greatest southern pranking legend of all time. One day, you hope to follow in poppop's too. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But then, if the whoppers you have been told recently have any truth to them, maybe you will get to meet him after all? It seems too good to be true. The only relationship you have ever had with him are through video footage of his VAUDEVILLIAN ANTICS on stage. Or through his role as Judge Johnny Stone on one of your favorite old sitcoms, NIGHT COURT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh hello, poppop. His friendly face is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there to greet you every time you open\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your chest. You would have loved to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meet him. Unfortunately his life was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cut short at the tender age of 86 in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tragic accident, coincidentally on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"same day you were born, or so your dad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tells you. Poppop Crocker was a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LEGENDARY COMEDIAN, following in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"footsteps of his grandfather who of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"course was the greatest southern\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pranking legend of all time. One day,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you hope to follow in poppop's too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But then, if the whoppers you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been told recently have any truth to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"them, maybe you will get to meet him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"after all? It seems too good to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"true. The only relationship you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ever had with him are through video\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"footage of his VAUDEVILLIAN ANTICS on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stage. Or through his role as Judge\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Johnny Stone on one of your favorite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"old sitcoms, NIGHT COURT.\
+",
 	},
 	next = {
 		4146,
 	},
 	previous = 4144,
+	page_id = 4145,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Type => SWITCH 2.",
-	pageId = 715,
 	timestamp = "1254264285",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		716,
 	},
 	previous = 714,
+	page_id = 715,
+	long_title = false,
 }

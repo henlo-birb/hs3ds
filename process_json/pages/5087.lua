@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Put out fires.",
-	pageId = 5087,
 	timestamp = "1339806397",
 	flag = {
 		"R1",
@@ -155,4 +154,6 @@ return {
 		5088,
 	},
 	previous = 5086,
+	page_id = 5087,
+	long_title = false,
 }

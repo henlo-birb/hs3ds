@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Press the steak button.",
-	pageId = 816,
 	timestamp = "1256433937",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		817,
 	},
 	previous = 815,
+	page_id = 816,
+	long_title = false,
 }

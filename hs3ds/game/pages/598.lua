@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 598,
 	timestamp = "1252210981",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Wait...",
+		"Wait...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Who's that looking at you in the reflection?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Who's that looking at you in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reflection?\
+",
 	},
 	next = {
 		599,
 	},
 	previous = 597,
+	page_id = 598,
+	long_title = false,
 }

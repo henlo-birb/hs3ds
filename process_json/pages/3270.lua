@@ -1,6 +1,5 @@
 return {
 	title = "AR: Prepare to tidy up.",
-	pageId = 3270,
 	timestamp = "1294453834",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		3271,
 	},
 	previous = 3269,
+	page_id = 3270,
+	long_title = false,
 }

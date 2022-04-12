@@ -1,6 +1,5 @@
 return {
 	title = "John: Make rocket pack.",
-	pageId = 1636,
 	timestamp = "1270007989",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1637,
 	},
 	previous = 1635,
+	page_id = 1636,
+	long_title = false,
 }

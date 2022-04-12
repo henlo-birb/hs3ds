@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Recaptchalogue your items!",
-	pageId = 298,
 	timestamp = "1245885843",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		299,
 	},
 	previous = 297,
+	page_id = 298,
+	long_title = false,
 }

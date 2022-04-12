@@ -1,6 +1,5 @@
 return {
 	title = "John: Yank monster off of thing.",
-	pageId = 2888,
 	timestamp = "1290025072",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2889,
 	},
 	previous = 2887,
+	page_id = 2888,
+	long_title = false,
 }

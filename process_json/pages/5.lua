@@ -1,6 +1,5 @@
 return {
 	title = "John: Quickly retrieve arms from drawer.",
-	pageId = 5,
 	timestamp = "1239607433",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		6,
 	},
 	previous = 4,
+	page_id = 5,
+	long_title = true,
 }

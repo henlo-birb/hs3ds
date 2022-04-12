@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Enter name.",
-	pageId = 2770,
 	timestamp = "1287093624",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2771,
 	},
 	previous = 2769,
+	page_id = 2770,
+	long_title = false,
 }

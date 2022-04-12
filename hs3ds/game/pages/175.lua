@@ -1,6 +1,5 @@
 return {
 	title = "John: Hit Cruxtruder with sledgehammer.",
-	pageId = 175,
 	timestamp = "1242627285",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Need some help?",
+		"TT: Need some help?\
+",
 	},
 	next = {
 		176,
 	},
 	previous = 174,
+	page_id = 175,
+	long_title = true,
 }

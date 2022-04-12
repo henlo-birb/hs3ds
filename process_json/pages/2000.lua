@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Take card vault.",
-	pageId = 2000,
 	timestamp = "1276408938",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2001,
 	},
 	previous = 1999,
+	page_id = 2000,
+	long_title = false,
 }

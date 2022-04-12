@@ -1,6 +1,5 @@
 return {
 	title = "John: Make totems.",
-	pageId = 1001,
 	timestamp = "1260596438",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		1002,
 	},
 	previous = 1000,
+	page_id = 1001,
+	long_title = false,
 }

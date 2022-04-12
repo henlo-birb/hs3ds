@@ -1,6 +1,5 @@
 return {
 	title = "[!!!][A6I4] ==>",
-	pageId = 5495,
 	timestamp = "1353825316",
 	flag = {
 		"F",
@@ -15,122 +14,258 @@ return {
 			0,
 			0,
 		},
-		"|AUTHORLOG|",
+		"|AUTHORLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-Cut that out!",
+		"Cut that out!\
+",
 		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
+			0,
+			0,
+			0,
 		},
 		"\
-MAKE ME.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-You're going to cause huge problems for everybody if you keep that up.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-Mostly for yourself!",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"MAKE ME.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-THEN SHUT OFF THAT MUSIC.",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You're going to cause huge problems\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"for everybody if you keep that up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"Mostly for yourself!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"\
-AND BE USEFUL TO ME AGAIN.",
+		"THEN SHUT OFF THAT MUSIC.\
+",
 		{
-			0.0,
-			0.0,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-How?",
-		{
-			0.1803921568627451,
-			0.8431372549019608,
-			0.22745098039215686,
-		},
-		"\
-TELL ME ABOUT MY QUEST.",
-		{
-			0.0,
-			0.0,
-			0.0,
-		},
-		"\
-You brat. I'm not telling you shit!",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"AND BE USEFUL TO ME AGAIN.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I COULD DO THIS ALL DAY.",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"How?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"TELL ME ABOUT MY QUEST.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-WOW. THIS IS JUST. THE MOST FUN THING.",
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"You brat. I'm not telling you shit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"I COULD DO THIS ALL DAY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I LOVE THIS MAGIC PRESENT. YOU KNOW WHAT. THAT CLOWN?",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"WOW. THIS IS JUST. THE MOST FUN THING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MAYBE HE'S NOT SO BAD.",
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
+		"I LOVE THIS MAGIC PRESENT. YOU KNOW\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"WHAT. THAT CLOWN?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I MEAN. ONCE I BROKE HIM IN A LITTLE.",
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"MAYBE HE'S NOT SO BAD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"I MEAN. ONCE I BROKE HIM IN A LITTLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
+		"Ok fine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Ok fine!",
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"\
-I'll tell you some stuff. Just quit it.",
+		"I'll tell you some stuff. Just quit\
+",
+		{
+			0.0,
+			0.0,
+			0.0,
+		},
+		"it.\
+",
 	},
 	next = {
 		5496,
 	},
 	previous = 5494,
+	page_id = 5495,
+	long_title = false,
 }

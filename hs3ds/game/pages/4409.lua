@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Hit road, blow joint.",
-	pageId = 4409,
 	timestamp = "1325386185",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4410,
 	},
 	previous = 4408,
+	page_id = 4409,
+	long_title = false,
 }

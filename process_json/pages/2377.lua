@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Apply special stardust.",
-	pageId = 2377,
 	timestamp = "1281249049",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		2378,
 	},
 	previous = 2376,
+	page_id = 2377,
+	long_title = false,
 }

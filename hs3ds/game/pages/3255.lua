@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Turn it off.",
-	pageId = 3255,
 	timestamp = "1294377643",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3256,
 	},
 	previous = 3254,
+	page_id = 3255,
+	long_title = false,
 }

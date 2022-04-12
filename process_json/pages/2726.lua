@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Have sixteenth conversation.",
-	pageId = 2726,
 	timestamp = "1286167825",
 	flag = {},
 	media = {
@@ -278,4 +277,6 @@ return {
 		2727,
 	},
 	previous = 2725,
+	page_id = 2726,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "DD: Check on prisoner.",
-	pageId = 5564,
 	timestamp = "1355193266",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		5565,
 	},
 	previous = 5563,
+	page_id = 5564,
+	long_title = false,
 }

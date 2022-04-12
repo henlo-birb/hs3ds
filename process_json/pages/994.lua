@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Obliquely foreshadow future through interpretive dance",
-	pageId = 994,
 	timestamp = "1260562311",
 	flag = {
 		"R1",
@@ -50,4 +49,6 @@ return {
 		995,
 	},
 	previous = 993,
+	page_id = 994,
+	long_title = true,
 }

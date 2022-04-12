@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1212,
 	timestamp = "1264056261",
 	flag = {},
 	media = {
@@ -12,26 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Looks like he got what he deserved.",
+		"Looks like he got what he deserved.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But, uh...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As usual, you find yourself in a bit of a predicament.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But, uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As usual, you find yourself in a bit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of a predicament.\
+",
 	},
 	next = {
 		1213,
 	},
 	previous = 1211,
+	page_id = 1212,
+	long_title = false,
 }

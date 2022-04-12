@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Admire fancy santa.",
-	pageId = 4522,
 	timestamp = "1327997496",
 	flag = {},
 	media = {
@@ -13,26 +12,97 @@ return {
 			0,
 			0,
 		},
-		"Look at this pompous little asshole. What a godawful piece of shit this thing is.",
+		"Look at this pompous little asshole.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What a godawful piece of shit this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing is.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You aren't even sure why you keep these things around. The miasma of tackiness that surrounds them is almost enough to outstrip their irony value.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Almost.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You aren't even sure why you keep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"these things around. The miasma of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tackiness that surrounds them is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"almost enough to outstrip their irony\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"value.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Almost.\
+",
 	},
 	next = {
 		4523,
 	},
 	previous = 4521,
+	page_id = 4522,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Search premises.",
-	pageId = 1913,
 	timestamp = "1274648778",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1914,
 	},
 	previous = 1912,
+	page_id = 1913,
+	long_title = false,
 }

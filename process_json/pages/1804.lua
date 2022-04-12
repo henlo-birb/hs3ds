@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine bronzed vacuum and umbrella.",
-	pageId = 1804,
 	timestamp = "1273121560",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1805,
 	},
 	previous = 1803,
+	page_id = 1804,
+	long_title = true,
 }

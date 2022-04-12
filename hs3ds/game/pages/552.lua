@@ -1,6 +1,5 @@
 return {
 	title = "John: Throw hat down in disgust.",
-	pageId = 552,
 	timestamp = "1251410016",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		553,
 	},
 	previous = 551,
+	page_id = 552,
+	long_title = false,
 }

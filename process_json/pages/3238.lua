@@ -1,6 +1,5 @@
 return {
 	title = "Recap 3.",
-	pageId = 3238,
 	timestamp = "1294016919",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		3239,
 	},
 	previous = 3237,
+	page_id = 3238,
+	long_title = false,
 }

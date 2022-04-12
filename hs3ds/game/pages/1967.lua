@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1967,
 	timestamp = "1276146123",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"The lab is in flight. Its exits, inoperative.",
+		"The lab is in flight. Its exits,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inoperative.\
+",
 	},
 	next = {
 		1968,
 	},
 	previous = 1966,
+	page_id = 1967,
+	long_title = false,
 }

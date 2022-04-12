@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Check capsule clock.",
-	pageId = 5023,
 	timestamp = "1338782207",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		5024,
 	},
 	previous = 5022,
+	page_id = 5023,
+	long_title = false,
 }

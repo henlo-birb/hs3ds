@@ -1,6 +1,5 @@
 return {
 	title = "UH OH. HERE HE COMES.",
-	pageId = 6880,
 	timestamp = "1413621562",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6879,
 	theme = "A6A6",
+	page_id = 6880,
+	long_title = false,
 }

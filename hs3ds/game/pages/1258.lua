@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Burst in thrusting bull penis cane.",
-	pageId = 1258,
 	timestamp = "1264539958",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Everybody out of the god damn way. You got a hat full of bomb, a fist full of penis, and a head full of empty.",
+		"Everybody out of the god damn way. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got a hat full of bomb, a fist full of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"penis, and a head full of empty.\
+",
 	},
 	next = {
 		1259,
 	},
 	previous = 1257,
+	page_id = 1258,
+	long_title = true,
 }

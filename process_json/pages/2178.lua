@@ -1,6 +1,5 @@
 return {
 	title = "Back in the present...",
-	pageId = 2178,
 	timestamp = "1278531854",
 	flag = {},
 	media = {
@@ -1874,4 +1873,6 @@ return {
 		2179,
 	},
 	previous = 2177,
+	page_id = 2178,
+	long_title = false,
 }

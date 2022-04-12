@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Give Lil Cal a nervous fist bump.",
-	pageId = 4520,
 	timestamp = "1327987718",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		4521,
 	},
 	previous = 4519,
+	page_id = 4520,
+	long_title = true,
 }

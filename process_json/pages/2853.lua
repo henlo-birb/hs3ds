@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Consult reminders.",
-	pageId = 2853,
 	timestamp = "1289587399",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		2854,
 	},
 	previous = 2852,
+	page_id = 2853,
+	long_title = false,
 }

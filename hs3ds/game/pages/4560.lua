@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Deploy cruxtruder.",
-	pageId = 4560,
 	timestamp = "1328674289",
 	flag = {},
 	media = {
@@ -12,24 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I was going to stick the cruxtruder in the kitchen.",
+		"TT: I was going to stick the\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"cruxtruder in the kitchen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Distract him with that.",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"TT: Distract him with that.\
+",
 	},
 	next = {
 		4561,
 	},
 	previous = 4559,
+	page_id = 4560,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Steal his will.",
-	pageId = 3121,
 	timestamp = "1292993348",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3122,
 	},
 	previous = 3120,
+	page_id = 3121,
+	long_title = false,
 }

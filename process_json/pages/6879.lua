@@ -1,6 +1,5 @@
 return {
 	title = "IT THINK WE'VE WASTED ENOUGH TIME ON THESE NOBODIES.",
-	pageId = 6879,
 	timestamp = "1413621515",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 	},
 	previous = 6878,
 	theme = "A6A6",
+	page_id = 6879,
+	long_title = true,
 }

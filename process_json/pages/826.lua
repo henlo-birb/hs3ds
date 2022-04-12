@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Activate Pesterchum.",
-	pageId = 826,
 	timestamp = "1256873387",
 	flag = {
 		"F",
@@ -56,4 +55,6 @@ return {
 		827,
 	},
 	previous = 825,
+	page_id = 826,
+	long_title = false,
 }

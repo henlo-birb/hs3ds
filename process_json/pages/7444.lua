@@ -1,6 +1,5 @@
 return {
 	title = "AT THIS POINT.",
-	pageId = 7444,
 	timestamp = "1429068231",
 	flag = {
 		"F",
@@ -92,4 +91,6 @@ return {
 	},
 	previous = 7443,
 	theme = "A6A6",
+	page_id = 7444,
+	long_title = false,
 }

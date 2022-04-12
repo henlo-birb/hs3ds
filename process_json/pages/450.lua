@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Play a game on the Xbox.",
-	pageId = 450,
 	timestamp = "1249797926",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		451,
 	},
 	previous = 449,
+	page_id = 450,
+	long_title = false,
 }

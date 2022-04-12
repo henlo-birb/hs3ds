@@ -1,6 +1,5 @@
 return {
 	title = "Rise up, Thief.",
-	pageId = 3130,
 	timestamp = "1293073001",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3131,
 	},
 	previous = 3129,
+	page_id = 3130,
+	long_title = false,
 }

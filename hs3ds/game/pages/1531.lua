@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Follow the agent.",
-	pageId = 1531,
 	timestamp = "1267660005",
 	flag = {},
 	media = {
@@ -12,18 +11,90 @@ return {
 			0,
 			0,
 		},
-		"You have followed the AUTHORITY REGULATOR into enemy territory. It is a risky move and this dark palace makes you very uncomfortable. But it is imperative you press on and recover that parcel.",
+		"You have followed the AUTHORITY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"REGULATOR into enemy territory. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a risky move and this dark palace\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"makes you very uncomfortable. But it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is imperative you press on and recover\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that parcel.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have brought along a PARKING CITATION. If confronted, you will say you are only here to deliver payment and leave.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have brought along a PARKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CITATION. If confronted, you will say\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you are only here to deliver payment\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and leave.\
+",
 	},
 	next = {
 		1532,
 	},
 	previous = 1530,
+	page_id = 1531,
+	long_title = false,
 }

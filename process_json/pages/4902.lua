@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Now.",
-	pageId = 4902,
 	timestamp = "1335930995",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4903,
 	},
 	previous = 4901,
+	page_id = 4902,
+	long_title = false,
 }

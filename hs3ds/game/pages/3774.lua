@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3774,
 	timestamp = "1305748355",
 	flag = {},
 	media = {
@@ -12,27 +11,140 @@ return {
 			0,
 			0,
 		},
-		"Naturally, the Thief knew this was her intent all along. She knew the Seer would have understood the outcome to be rigged, and that she likely intended to kill her as a consequence of the fixed result. This was to be seen as an implicit dare to the Thief to allow the flip to fall fairly, something which the Seer knew the Thief's ego wouldn't allow.",
+		"Naturally, the Thief knew this was her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"intent all along. She knew the Seer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would have understood the outcome to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be rigged, and that she likely\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"intended to kill her as a consequence\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the fixed result. This was to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"seen as an implicit dare to the Thief\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to allow the flip to fall fairly,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something which the Seer knew the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thief's ego wouldn't allow.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And the Seer knew the Thief knew all this as well. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Just another pair of cheaters attempting to play with their cards face up. Amateurs.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And the Seer knew the Thief knew all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Just another pair of cheaters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"attempting to play with their cards\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face up. Amateurs.\
+",
 	},
 	next = {
 		3775,
 	},
 	previous = 3773,
 	theme = "scratch",
+	page_id = 3774,
+	long_title = false,
 }

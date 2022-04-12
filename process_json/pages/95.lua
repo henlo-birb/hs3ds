@@ -1,6 +1,5 @@
 return {
 	title = "John: Take the cake!",
-	pageId = 95,
 	timestamp = "1241047974",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		96,
 	},
 	previous = 94,
+	page_id = 95,
+	long_title = false,
 }

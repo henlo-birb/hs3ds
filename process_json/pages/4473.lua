@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Captchalogue one.",
-	pageId = 4473,
 	timestamp = "1326855879",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		4474,
 	},
 	previous = 4472,
+	page_id = 4473,
+	long_title = false,
 }

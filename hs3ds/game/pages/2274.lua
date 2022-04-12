@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2274,
 	timestamp = "1279425534",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"Your mercy killing triggers another avalanche. More rotten luck!",
+		"Your mercy killing triggers another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"avalanche. More rotten luck!\
+",
 	},
 	next = {
 		2275,
 	},
 	previous = 2273,
+	page_id = 2274,
+	long_title = false,
 }

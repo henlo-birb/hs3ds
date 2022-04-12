@@ -1,6 +1,5 @@
 return {
 	title = "[o] The Thief would probably roll her dice.",
-	pageId = 3821,
 	timestamp = "1307057228",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 	},
 	previous = 3820,
 	theme = "scratch",
+	page_id = 3821,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Answer patron troll.",
-	pageId = 3250,
 	timestamp = "1294268211",
 	flag = {},
 	media = {
@@ -663,4 +662,6 @@ return {
 		3251,
 	},
 	previous = 3249,
+	page_id = 3250,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "JOHN, PURSUE ADVERSARY INTO THAT ROOM.",
-	pageId = 385,
 	timestamp = "1247796603",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		386,
 	},
 	previous = 384,
+	page_id = 385,
+	long_title = true,
 }

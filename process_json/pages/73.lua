@@ -1,6 +1,5 @@
 return {
 	title = "John: Upgrade costume with hat from hat rack.",
-	pageId = 73,
 	timestamp = "1240349638",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		74,
 	},
 	previous = 72,
+	page_id = 73,
+	long_title = true,
 }

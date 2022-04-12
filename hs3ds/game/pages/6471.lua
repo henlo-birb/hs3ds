@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6471,
 	timestamp = "1377639232",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"John Egbert's ring has gone missing.",
+		"John Egbert's ring has gone missing.\
+",
 	},
 	next = {
 		6472,
 	},
 	previous = 6470,
+	page_id = 6471,
+	long_title = false,
 }

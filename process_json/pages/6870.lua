@@ -1,6 +1,5 @@
 return {
 	title = "MAGICAL IN ITS FORBIDDENALITY.",
-	pageId = 6870,
 	timestamp = "1413620980",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6869,
 	theme = "A6A6",
+	page_id = 6870,
+	long_title = false,
 }

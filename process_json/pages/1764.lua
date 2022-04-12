@@ -1,6 +1,5 @@
 return {
 	title = "John: Aggress.",
-	pageId = 1764,
 	timestamp = "1272251789",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		1765,
 	},
 	previous = 1763,
+	page_id = 1764,
+	long_title = false,
 }

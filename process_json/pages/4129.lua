@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine bunnies.",
-	pageId = 4129,
 	timestamp = "1321155630",
 	flag = {},
 	media = {
@@ -243,4 +242,6 @@ return {
 		4130,
 	},
 	previous = 4128,
+	page_id = 4129,
+	long_title = false,
 }

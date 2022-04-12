@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Reset.",
-	pageId = 3480,
 	timestamp = "1297453749",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Someone is bothering you.",
+		"Someone is bothering you.\
+",
 	},
 	next = {
 		3481,
 	},
 	previous = 3479,
+	page_id = 3480,
+	long_title = false,
 }

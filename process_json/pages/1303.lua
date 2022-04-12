@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Ride around on horse hitcher pretending to joust.",
-	pageId = 1303,
 	timestamp = "1265238699",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1304,
 	},
 	previous = 1302,
+	page_id = 1303,
+	long_title = true,
 }

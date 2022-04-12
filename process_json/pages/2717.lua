@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Hop to 8=8.",
-	pageId = 2717,
 	timestamp = "1285908354",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2718,
 	},
 	previous = 2716,
+	page_id = 2717,
+	long_title = false,
 }

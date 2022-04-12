@@ -1,6 +1,5 @@
 return {
 	title = "IT SEEMS THAT HOPE POWER IS OVERWHELMING.",
-	pageId = 7436,
 	timestamp = "1429067412",
 	flag = {
 		"F",
@@ -127,4 +126,6 @@ return {
 	},
 	previous = 7435,
 	theme = "A6A6",
+	page_id = 7436,
+	long_title = true,
 }

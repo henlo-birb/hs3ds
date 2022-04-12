@@ -1,6 +1,5 @@
 return {
 	title = "PM: Rule.",
-	pageId = 3014,
 	timestamp = "1291765298",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3015,
 	},
 	previous = 3013,
+	page_id = 3014,
+	long_title = false,
 }

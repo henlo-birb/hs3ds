@@ -1,6 +1,5 @@
 return {
 	title = "WV: Attach your trusty knife to the meter stick.",
-	pageId = 734,
 	timestamp = "1254626743",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		735,
 	},
 	previous = 733,
+	page_id = 734,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Do what you're about to do.",
-	pageId = 3205,
 	timestamp = "1293780891",
 	flag = {},
 	media = {
@@ -12,26 +11,160 @@ return {
 			0,
 			0,
 		},
-		"You don't know what you're about to do!",
+		"You don't know what you're about to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you've got to do something. You can't stand by and let that monster teleport-murder people all day, and frankly, the suicide plan Dave mentioned sounds just plain stupid. There must be a better way. Think, imagination!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You suddenly remember the idea your awkward fairy god troll proposed. Maybe you were too hard on him. He was just trying to be nice, and it was an honest mistake when he slaughtered your grandfather ghost dad with his own childhood flintlock pistol. Maybe you should give his plan another chance.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you've got to do something. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't stand by and let that monster\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"teleport-murder people all day, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frankly, the suicide plan Dave\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mentioned sounds just plain stupid.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There must be a better way. Think,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"imagination!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You suddenly remember the idea your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"awkward fairy god troll proposed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe you were too hard on him. He was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just trying to be nice, and it was an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"honest mistake when he slaughtered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your grandfather ghost dad with his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"own childhood flintlock pistol. Maybe\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you should give his plan another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chance.\
+",
 	},
 	next = {
 		3206,
 	},
 	previous = 3204,
+	page_id = 3205,
+	long_title = true,
 }

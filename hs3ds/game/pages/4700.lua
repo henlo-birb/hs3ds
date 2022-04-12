@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4700,
 	timestamp = "1331857820",
 	flag = {},
 	media = {
@@ -12,206 +11,510 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: oh ok there it goes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: oh ok there it goes",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: two hot revitalizing cups of shitty coffee",
+		"DAVE: two hot revitalizing cups of\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"shitty coffee\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: fresh out of the weird pod",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: fresh out of the weird pod\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: why do we even drink this shit",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: why do we even drink this shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i guess just cause this thing is here",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: like somehow the temptation is even stronger because the coffee sucks?",
+		"DAVE: i guess just cause this thing is\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: dunno how the fuck that works",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: wish there was such a thing as apple juice on troll world",
+		"DAVE: like somehow the temptation is\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: could go for a bottle of aj",
+		"even stronger because the coffee\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"sucks?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i wonder if theres any booze squirreled away on this meteor",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: dunno how the fuck that works\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: kinda feels like we should be drinking our asses off here",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: no adults nothing to do",
+		"DAVE: wish there was such a thing as\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"apple juice on troll world\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: thats what you do without adults right",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: could go for a bottle of aj\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: get wasted all the time?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: wait what the fuck am i saying trolls dont even have adults",
+		"DAVE: i wonder if theres any booze\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"squirreled away on this meteor\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: well they do",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: but theyre all in outer space being insane badasses",
+		"DAVE: kinda feels like we should be\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"drinking our asses off here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: i guess they do have the stupid nanny monsters",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: no adults nothing to do\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: do the monsters give a shit if they get wasted",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: thats what you do without adults\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"right\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: get wasted all the time?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: wait what the fuck am i saying\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"trolls dont even have adults\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: well they do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: but theyre all in outer space\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"being insane badasses\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: i guess they do have the stupid\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"nanny monsters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: do the monsters give a shit if\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"they get wasted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Are you talking to us?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Are you talking to us?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: what\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: what",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: We can't even hear you mumbling over there.",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: oh",
+		"ROSE: We can't even hear you mumbling\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"over there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: How's that coffee coming?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: off the shit is how",
+		"DAVE: oh\
+",
 		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
+			0,
+			0,
+			0,
 		},
 		"\
-DAVE: all being like",
-		{
-			0.8784313725490196,
-			0.027450980392156862,
-			0.027450980392156862,
-		},
-		"\
-DAVE: in cups and everything",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: How's that coffee coming?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Be sure it makes it to the table before it accumulates that strange unctuous film on the surface.",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: off the shit is how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: all being like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: in cups and everything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Be sure it makes it to the table\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"before it accumulates that strange\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"unctuous film on the surface.\
+",
 	},
 	next = {
 		4701,
 	},
 	previous = 4699,
+	page_id = 4700,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: CALL FOR BACKUP.",
-	pageId = 6478,
 	timestamp = "1377739530",
 	flag = {},
 	media = {
@@ -168,4 +167,6 @@ return {
 	},
 	previous = 6477,
 	theme = "A6A6",
+	page_id = 6478,
+	long_title = false,
 }

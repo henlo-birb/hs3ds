@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3385,
 	timestamp = "1296235436",
 	flag = {},
 	media = {
@@ -13,18 +12,34 @@ return {
 			0,
 			0,
 		},
-		"Alas, they cannot be revived.",
+		"Alas, they cannot be revived.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Their dream selves have been slain.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Their dream selves have been slain.\
+",
 	},
 	next = {
 		3386,
 	},
 	previous = 3384,
+	page_id = 3385,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "A good place to keep lookout?",
-	pageId = 1429,
 	timestamp = "1266539653",
 	flag = {},
 	media = {
@@ -272,4 +271,6 @@ return {
 		1430,
 	},
 	previous = 1428,
+	page_id = 1429,
+	long_title = false,
 }

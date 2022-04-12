@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Use build grist to construct observation tower on roof",
-	pageId = 486,
 	timestamp = "1250395413",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Ok, you obviously don't have enough grist yet for something that ambitious. But you can get started with something of a foundation for upward construction, at least.",
+		"Ok, you obviously don't have enough\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grist yet for something that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ambitious. But you can get started\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with something of a foundation for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"upward construction, at least.\
+",
 	},
 	next = {
 		487,
 	},
 	previous = 485,
+	page_id = 486,
+	long_title = true,
 }

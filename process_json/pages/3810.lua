@@ -1,6 +1,5 @@
 return {
 	title = "[o] Of course.",
-	pageId = 3810,
 	timestamp = "1306898520",
 	flag = {},
 	media = {
@@ -202,4 +201,6 @@ return {
 	},
 	previous = 3809,
 	theme = "scratch",
+	page_id = 3810,
+	long_title = false,
 }

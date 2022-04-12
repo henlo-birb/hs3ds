@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Look out window.",
-	pageId = 2147,
 	timestamp = "1278132124",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Ok, looking out this lousy stupid goddamn window. ",
+		"Ok, looking out this lousy stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"goddamn window.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Lousy stupid goddamn psychics.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lousy stupid goddamn psychics.\
+",
 	},
 	next = {
 		2148,
 	},
 	previous = 2146,
+	page_id = 2147,
+	long_title = false,
 }

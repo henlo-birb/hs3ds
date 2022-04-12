@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pester John to ease your nerves.",
-	pageId = 466,
 	timestamp = "1250139374",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You get Egbert on the line again to give him the lowdown on your progress. You feel it's important to keep the wires hot.",
+		"You get Egbert on the line again to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"give him the lowdown on your progress.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You feel it's important to keep the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wires hot.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But he's not answering. You wonder what that guy is up to.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But he's not answering. You wonder\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what that guy is up to.\
+",
 	},
 	next = {
 		467,
 	},
 	previous = 465,
+	page_id = 466,
+	long_title = true,
 }

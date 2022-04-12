@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3437,
 	timestamp = "1296849316",
 	flag = {},
 	media = {
@@ -12,42 +11,314 @@ return {
 			0,
 			0,
 		},
-		"Has the killer really developed a taste for blood? She is completely out of control.",
+		"Has the killer really developed a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"taste for blood? She is completely out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of control.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-According to your expert analysis, she barged in here with a lance, her new weapon of choice. This startled everyone in the room so much, it triggered a dreadful grub sauce spill, and/or chainsaw accident, causing the missing victim to lose a large volume of blood, and/or grub sauce. Horrified by the sight, everyone fled the room, except for the present victim who was napping on the horn pile. The perpetrator in her deranged state of mind then sampled the spilt green blood/sauce from the floor. Her thirst piqued, she became tempted by the buffet of rich royal blood on the horn pile, dragged a trail of green from the puddle to the horns, and helped herself to the victim's neck. The victim undoubtedly woke up midway through the gruesome feast, fought back, and got a lance through the chest for her trouble. The perp then fled into the lab, thirsty for more.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Yes, you are quite sure that...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"According to your expert analysis, she\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"barged in here with a lance, her new\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon of choice. This startled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everyone in the room so much, it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"triggered a dreadful grub sauce spill,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and/or chainsaw accident, causing the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"missing victim to lose a large volume\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of blood, and/or grub sauce. Horrified\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by the sight, everyone fled the room,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"except for the present victim who was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"napping on the horn pile. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perpetrator in her deranged state of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mind then sampled the spilt green\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blood/sauce from the floor. Her thirst\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"piqued, she became tempted by the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"buffet of rich royal blood on the horn\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pile, dragged a trail of green from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the puddle to the horns, and helped\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"herself to the victim's neck. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"victim undoubtedly woke up midway\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the gruesome feast, fought\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back, and got a lance through the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chest for her trouble. The perp then\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fled into the lab, thirsty for more.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-That your theory doesn't make a lick of sense!!! You wish you had your crack team of experts to advise you. If only you hadn't kicked them all into the bottomless pit, along with probably your glasses, accidentally. Damn their insubordination!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Yes, you are quite sure that...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That your theory doesn't make a lick\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of sense!!! You wish you had your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"crack team of experts to advise you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If only you hadn't kicked them all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into the bottomless pit, along with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably your glasses, accidentally.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Damn their insubordination!\
+",
 	},
 	next = {
 		3438,
 	},
 	previous = 3436,
+	page_id = 3437,
+	long_title = false,
 }

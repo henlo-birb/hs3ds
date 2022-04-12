@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1786,
 	timestamp = "1272509861",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You pilfer the WHITE QUEEN'S RING.",
+		"You pilfer the WHITE QUEEN'S RING.\
+",
 	},
 	next = {
 		1787,
 	},
 	previous = 1785,
+	page_id = 1786,
+	long_title = false,
 }

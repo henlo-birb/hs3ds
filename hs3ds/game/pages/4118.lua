@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Quickly retrieve arms from chest.",
-	pageId = 4118,
 	timestamp = "1321040997",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Jane is not empowered to rehash this tired running gag because all of a sudden she is too busy being the other guy.",
+		"Jane is not empowered to rehash this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tired running gag because all of a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sudden she is too busy being the other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We need to figure out what this fella's name is, pronto!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We need to figure out what this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fella's name is, pronto!\
+",
 	},
 	next = {
 		4119,
 	},
 	previous = 4117,
+	page_id = 4118,
+	long_title = true,
 }

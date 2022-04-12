@@ -1,6 +1,5 @@
 return {
 	title = "DD: Seek help.",
-	pageId = 4935,
 	timestamp = "1336953527",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		4936,
 	},
 	previous = 4934,
+	page_id = 4935,
+	long_title = false,
 }

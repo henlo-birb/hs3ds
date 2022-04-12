@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Contact past Jade.",
-	pageId = 3304,
 	timestamp = "1295291611",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3305,
 	},
 	previous = 3303,
+	page_id = 3304,
+	long_title = false,
 }

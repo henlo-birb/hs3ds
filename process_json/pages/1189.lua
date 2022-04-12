@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Wear CD's hat on top of your current one.",
-	pageId = 1189,
 	timestamp = "1263941183",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1190,
 	},
 	previous = 1188,
+	page_id = 1189,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "VILLAINOUS LAUGHTER: HAPPEN.",
-	pageId = 6267,
 	timestamp = "1371080968",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 	},
 	previous = 6266,
 	theme = "A6A6",
+	page_id = 6267,
+	long_title = false,
 }

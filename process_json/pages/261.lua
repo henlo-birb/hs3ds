@@ -1,6 +1,5 @@
 return {
 	title = "I SEE. ==>?",
-	pageId = 261,
 	timestamp = "1245127258",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		262,
 	},
 	previous = 260,
+	page_id = 261,
+	long_title = false,
 }

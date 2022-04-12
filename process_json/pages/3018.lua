@@ -1,6 +1,5 @@
 return {
 	title = "PM: Appoint royal advisor.",
-	pageId = 3018,
 	timestamp = "1291773868",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		3019,
 	},
 	previous = 3017,
+	page_id = 3018,
+	long_title = false,
 }

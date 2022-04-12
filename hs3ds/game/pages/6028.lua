@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6028,
 	timestamp = "1363995489",
 	flag = {},
 	media = {
@@ -12,17 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-ARADIA: i think i mostly want to see what happens when this whole place breaks apart",
+		"ARADIA: i think i mostly want to see\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"what happens when this whole place\
+",
+		{
+			0.6313725490196078,
+			0.0,
+			0.0,
+		},
+		"breaks apart\
+",
 	},
 	next = {
 		6029,
 	},
 	previous = 6027,
+	page_id = 6028,
+	long_title = false,
 }

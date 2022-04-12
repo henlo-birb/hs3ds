@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Say hi to cat.",
-	pageId = 4476,
 	timestamp = "1326861670",
 	flag = {},
 	media = {
@@ -215,4 +214,6 @@ return {
 		4477,
 	},
 	previous = 4475,
+	page_id = 4476,
+	long_title = false,
 }

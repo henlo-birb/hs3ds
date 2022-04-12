@@ -1,6 +1,5 @@
 return {
 	title = "WV: Settle this dispute in a rational, diplomatic manner.",
-	pageId = 1396,
 	timestamp = "1266195954",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		1397,
 	},
 	previous = 1395,
+	page_id = 1396,
+	long_title = true,
 }

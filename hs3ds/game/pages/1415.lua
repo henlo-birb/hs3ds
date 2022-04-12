@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1415,
 	timestamp = "1266530173",
 	flag = {
 		"R4",
@@ -15,10 +14,34 @@ return {
 			0,
 			0,
 		},
-		"Suddenly a powerful aroma hits your nonexistent nostrils. Someone is cooking something delicious. It demands investigation.",
+		"Suddenly a powerful aroma hits your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nonexistent nostrils. Someone is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cooking something delicious. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"demands investigation.\
+",
 	},
 	next = {
 		1416,
 	},
 	previous = 1414,
+	page_id = 1415,
+	long_title = false,
 }

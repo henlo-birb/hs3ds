@@ -1,6 +1,5 @@
 return {
 	title = "Seconds in the future, but not many...",
-	pageId = 470,
 	timestamp = "1250212804",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		471,
 	},
 	previous = 469,
+	page_id = 470,
+	long_title = true,
 }

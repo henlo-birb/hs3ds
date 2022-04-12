@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Take a peek into living room.",
-	pageId = 4197,
 	timestamp = "1322022357",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		4198,
 	},
 	previous = 4196,
+	page_id = 4197,
+	long_title = true,
 }

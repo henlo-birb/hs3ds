@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Deal with your own crisis.",
-	pageId = 2386,
 	timestamp = "1281330393",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		2387,
 	},
 	previous = 2385,
+	page_id = 2386,
+	long_title = true,
 }

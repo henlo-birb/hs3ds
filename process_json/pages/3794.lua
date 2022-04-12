@@ -1,6 +1,5 @@
 return {
 	title = "[o] And while I can't give you my assurance,",
-	pageId = 3794,
 	timestamp = "1306393381",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 	},
 	previous = 3793,
 	theme = "scratch",
+	page_id = 3794,
+	long_title = true,
 }

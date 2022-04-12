@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Find Lil' Cal and give fistbumps.",
-	pageId = 449,
 	timestamp = "1249797862",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		450,
 	},
 	previous = 448,
+	page_id = 449,
+	long_title = true,
 }

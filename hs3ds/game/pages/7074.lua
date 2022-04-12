@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7074,
 	timestamp = "1416547024",
 	flag = {},
 	media = {
@@ -12,73 +11,160 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: one of the things i did to pass the time on the ship was give them funny names",
+		"JADE: one of the things i did to pass\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"the time on the ship was give them\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"funny names\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: lets meet our cast of characters for this intermission shall we?",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: lets meet our cast of characters\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"for this intermission shall we?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: ...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: lets see, there waaaas\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: lets see, there waaaas",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: bubbleupagus\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: bubbleupagus",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: thips ahoy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: thips ahoy",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: nak be nimble\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: nak be nimble",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: slowpoke malone\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: slowpoke malone",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: jade.",
+		"CALLIOPE: jade.\
+",
 	},
 	next = {
 		7075,
 	},
 	previous = 7073,
+	page_id = 7074,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Tricksters: Alchemize.",
-	pageId = 5763,
 	timestamp = "1359020508",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 	},
 	previous = 5762,
 	theme = "trickster",
+	page_id = 5763,
+	long_title = false,
 }

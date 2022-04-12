@@ -1,6 +1,5 @@
 return {
 	title = "Elsewhere...",
-	pageId = 3218,
 	timestamp = "1293841604",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"While a timer counts down with no particular clock stepping forward to claim it...",
+		"While a timer counts down with no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"particular clock stepping forward to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"claim it...\
+",
 	},
 	next = {
 		3219,
 	},
 	previous = 3217,
+	page_id = 3218,
+	long_title = false,
 }

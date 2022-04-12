@@ -1,6 +1,5 @@
 return {
 	title = "John and WV?: Ascend.",
-	pageId = 3413,
 	timestamp = "1296508959",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3414,
 	},
 	previous = 3412,
+	page_id = 3413,
+	long_title = false,
 }

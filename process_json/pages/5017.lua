@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Deploy Terry Kiser.",
-	pageId = 5017,
 	timestamp = "1338773103",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		5018,
 	},
 	previous = 5016,
+	page_id = 5017,
+	long_title = false,
 }

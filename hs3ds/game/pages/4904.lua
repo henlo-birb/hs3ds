@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Use knife to snag one of the keys on the floor.",
-	pageId = 4904,
 	timestamp = "1335940127",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You see if a knife can adequately lengthen your reach. But it's no use! They're still just outside of your modest slashing radius.",
+		"You see if a knife can adequately\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"lengthen your reach. But it's no use!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They're still just outside of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"modest slashing radius.\
+",
 	},
 	next = {
 		4905,
 	},
 	previous = 4903,
+	page_id = 4904,
+	long_title = true,
 }

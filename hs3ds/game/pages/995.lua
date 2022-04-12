@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quick! Get into bed!",
-	pageId = 995,
 	timestamp = "1260562356",
 	flag = {},
 	media = {
@@ -13,18 +12,76 @@ return {
 			0,
 			0,
 		},
-		"You climb into bed and try to get comfortable. But some sort of invisible force is pressing down on you, a strange feeling of cold heavy metal.",
+		"You climb into bed and try to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"comfortable. But some sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"invisible force is pressing down on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you, a strange feeling of cold heavy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"metal.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This happens every time you try to get into bed! No wonder you can never get any sleep.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This happens every time you try to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into bed! No wonder you can never get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any sleep.\
+",
 	},
 	next = {
 		996,
 	},
 	previous = 994,
+	page_id = 995,
+	long_title = false,
 }

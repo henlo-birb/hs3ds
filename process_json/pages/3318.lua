@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Give him a home.",
-	pageId = 3318,
 	timestamp = "1295425601",
 	flag = {},
 	media = {
@@ -495,4 +494,6 @@ return {
 		3319,
 	},
 	previous = 3317,
+	page_id = 3318,
+	long_title = false,
 }

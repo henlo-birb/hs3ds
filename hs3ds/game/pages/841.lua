@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Stop being the other girl and pester John again.",
-	pageId = 841,
 	timestamp = "1257561676",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You've spent enough time for now concerning yourself with the future of your friends.",
+		"You've spent enough time for now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"concerning yourself with the future of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your friends.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-John will not be available until later. By then he will have his hands full, as will you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"John will not be available until\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"later. By then he will have his hands\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full, as will you.\
+",
 	},
 	next = {
 		842,
 	},
 	previous = 840,
+	page_id = 841,
+	long_title = true,
 }

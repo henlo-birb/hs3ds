@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Kick that puppet out of the shower.",
-	pageId = 1444,
 	timestamp = "1266705590",
 	flag = {},
 	media = {
@@ -397,4 +396,6 @@ return {
 		1445,
 	},
 	previous = 1443,
+	page_id = 1444,
+	long_title = true,
 }

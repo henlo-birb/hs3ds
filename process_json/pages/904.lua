@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Refuse to acknowledge the absurd tea set.",
-	pageId = 904,
 	timestamp = "1259011080",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		905,
 	},
 	previous = 903,
+	page_id = 904,
+	long_title = true,
 }

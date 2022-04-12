@@ -1,6 +1,5 @@
 return {
 	title = "John: Acquire hammer and nails. They will come in handy.",
-	pageId = 14,
 	timestamp = "1239679093",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		15,
 	},
 	previous = 13,
+	page_id = 14,
+	long_title = true,
 }

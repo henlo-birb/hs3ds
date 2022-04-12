@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 396,
 	timestamp = "1248385898",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You regather your items and begin the soggy trek mausoleum-ward.",
+		"You regather your items and begin the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"soggy trek mausoleum-ward.\
+",
 	},
 	next = {
 		397,
 	},
 	previous = 395,
+	page_id = 396,
+	long_title = false,
 }

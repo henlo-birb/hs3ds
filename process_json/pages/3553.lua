@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Sniff out new prey.",
-	pageId = 3553,
 	timestamp = "1298313838",
 	flag = {},
 	media = {
@@ -181,4 +180,6 @@ return {
 		3554,
 	},
 	previous = 3552,
+	page_id = 3553,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "MEANWHILE, STRIDER REGROUPS FROM HIS TROUNCING.",
-	pageId = 7438,
 	timestamp = "1429067692",
 	flag = {
 		"F",
@@ -99,4 +98,6 @@ return {
 	},
 	previous = 7437,
 	theme = "A6A6",
+	page_id = 7438,
+	long_title = true,
 }

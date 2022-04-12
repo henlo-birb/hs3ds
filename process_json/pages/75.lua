@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine captchalogue card.",
-	pageId = 75,
 	timestamp = "1240349743",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		76,
 	},
 	previous = 74,
+	page_id = 75,
+	long_title = false,
 }

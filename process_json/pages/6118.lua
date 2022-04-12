@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Search for English.",
-	pageId = 6118,
 	timestamp = "1365324105",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		6119,
 	},
 	previous = 6117,
+	page_id = 6118,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Check on lusus.",
-	pageId = 2205,
 	timestamp = "1278880419",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2206,
 	},
 	previous = 2204,
+	page_id = 2205,
+	long_title = false,
 }

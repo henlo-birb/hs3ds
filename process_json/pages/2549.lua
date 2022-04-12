@@ -1,6 +1,5 @@
 return {
 	title = "I SAID GET YER ASS UP AND GO KISS THE GIRL YOU PIPSQUEAK",
-	pageId = 2549,
 	timestamp = "1283063471",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		2550,
 	},
 	previous = 2548,
+	page_id = 2549,
+	long_title = true,
 }

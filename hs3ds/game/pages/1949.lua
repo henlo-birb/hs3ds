@@ -1,6 +1,5 @@
 return {
 	title = "the recent past is recalled...",
-	pageId = 1949,
 	timestamp = "1275972635",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"A communication device is borrowed. A rendezvous, arranged.",
+		"A communication device is borrowed. A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rendezvous, arranged.\
+",
 	},
 	next = {
 		1950,
 	},
 	previous = 1948,
+	page_id = 1949,
+	long_title = false,
 }

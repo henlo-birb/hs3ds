@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Answer white text guy.",
-	pageId = 2244,
 	timestamp = "1279237887",
 	flag = {},
 	media = {
@@ -1223,4 +1222,6 @@ return {
 		2245,
 	},
 	previous = 2243,
+	page_id = 2244,
+	long_title = false,
 }

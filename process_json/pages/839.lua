@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Be the other girl.",
-	pageId = 839,
 	timestamp = "1257561556",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		840,
 	},
 	previous = 838,
+	page_id = 839,
+	long_title = false,
 }

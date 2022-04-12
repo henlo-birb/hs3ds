@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Remove blocks.",
-	pageId = 244,
 	timestamp = "1244247432",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		245,
 	},
 	previous = 243,
+	page_id = 244,
+	long_title = false,
 }

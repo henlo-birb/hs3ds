@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2968,
 	timestamp = "1291179356",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You see what happens when you forget your manners?",
+		"You see what happens when you forget\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your manners?\
+",
 	},
 	next = {
 		2969,
 	},
 	previous = 2967,
+	page_id = 2968,
+	long_title = false,
 }

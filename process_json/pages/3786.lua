@@ -1,6 +1,5 @@
 return {
 	title = "[o] I warned her.",
-	pageId = 3786,
 	timestamp = "1306004964",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 3785,
 	theme = "scratch",
+	page_id = 3786,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Read letter.",
-	pageId = 1038,
 	timestamp = "1261280958",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1039,
 	},
 	previous = 1037,
+	page_id = 1038,
+	long_title = false,
 }

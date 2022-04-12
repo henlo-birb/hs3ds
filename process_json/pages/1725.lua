@@ -1,6 +1,5 @@
 return {
 	title = "Maplehoof: Follow scent.",
-	pageId = 1725,
 	timestamp = "1271965754",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1726,
 	},
 	previous = 1724,
+	page_id = 1725,
+	long_title = false,
 }

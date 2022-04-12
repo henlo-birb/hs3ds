@@ -1,6 +1,5 @@
 return {
 	title = "WV: Take the can labeled BEANS.",
-	pageId = 674,
 	timestamp = "1253648868",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		675,
 	},
 	previous = 673,
+	page_id = 674,
+	long_title = false,
 }

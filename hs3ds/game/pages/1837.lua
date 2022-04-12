@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine dead things in amber && smuppet.",
-	pageId = 1837,
 	timestamp = "1273798311",
 	flag = {},
 	media = {
@@ -13,18 +12,41 @@ return {
 			0,
 			0,
 		},
-		"You make a FOAM MUTANT SMUPPET ENCASED IN AMBER.",
+		"You make a FOAM MUTANT SMUPPET ENCASED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN AMBER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now we're getting somewhere.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now we're getting somewhere.\
+",
 	},
 	next = {
 		1838,
 	},
 	previous = 1836,
+	page_id = 1837,
+	long_title = true,
 }

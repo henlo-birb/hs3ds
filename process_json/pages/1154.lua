@@ -1,6 +1,5 @@
 return {
 	title = "INTERMISSION",
-	pageId = 1154,
 	timestamp = "1263607204",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		1155,
 	},
 	previous = 1153,
+	page_id = 1154,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take nunchaku.",
-	pageId = 578,
 	timestamp = "1251954560",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		579,
 	},
 	previous = 577,
+	page_id = 578,
+	long_title = false,
 }

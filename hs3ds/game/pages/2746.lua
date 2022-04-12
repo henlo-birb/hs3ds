@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Take a whiff.",
-	pageId = 2746,
 	timestamp = "1286854766",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Your keen nose penetrates deep into the Insniffisphere I mean Incipisphere and zeroes in on the familiar honey-sweet smell of Prospit. ",
+		"Your keen nose penetrates deep into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the Insniffisphere I mean Incipisphere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and zeroes in on the familiar\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"honey-sweet smell of Prospit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Thank goodness it is still safe. It would be terrible if the demon were to...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Thank goodness it is still safe. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would be terrible if the demon were\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to...\
+",
 	},
 	next = {
 		2747,
 	},
 	previous = 2745,
+	page_id = 2746,
+	long_title = false,
 }

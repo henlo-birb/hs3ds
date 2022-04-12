@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Examine wardrobe.",
-	pageId = 4524,
 	timestamp = "1328047921",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		4525,
 	},
 	previous = 4523,
+	page_id = 4524,
+	long_title = false,
 }

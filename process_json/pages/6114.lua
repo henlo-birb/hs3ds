@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Inspect green torso.",
-	pageId = 6114,
 	timestamp = "1365316291",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		6115,
 	},
 	previous = 6113,
+	page_id = 6114,
+	long_title = false,
 }

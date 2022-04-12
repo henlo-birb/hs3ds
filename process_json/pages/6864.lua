@@ -1,6 +1,5 @@
 return {
 	title = "OK, THAT'S ENOUGH ADMIRATION. BACK TO OUR STORY.",
-	pageId = 6864,
 	timestamp = "1413620504",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 	},
 	previous = 6863,
 	theme = "A6A6",
+	page_id = 6864,
+	long_title = true,
 }

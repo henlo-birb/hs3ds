@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip goggles.",
-	pageId = 2920,
 	timestamp = "1290384071",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2921,
 	},
 	previous = 2919,
+	page_id = 2920,
+	long_title = false,
 }

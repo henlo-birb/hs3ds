@@ -1,6 +1,5 @@
 return {
 	title = "Hat: Level up.",
-	pageId = 4270,
 	timestamp = "1323162257",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4271,
 	},
 	previous = 4269,
+	page_id = 4270,
+	long_title = false,
 }

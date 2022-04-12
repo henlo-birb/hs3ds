@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2861,
 	timestamp = "1289676845",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Jade's family sure is weird.",
+		"Jade's family sure is weird.\
+",
 	},
 	next = {
 		2862,
 	},
 	previous = 2860,
+	page_id = 2861,
+	long_title = false,
 }

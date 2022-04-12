@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6842,
 	timestamp = "1381908504",
 	flag = {},
 	media = {
@@ -12,31 +11,76 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: LET HER GO THIS *INSTANT* YOU HEINOUS COD PACKING SHIT MIME!",
+		"KARKAT: LET HER GO THIS *INSTANT* YOU\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"HEINOUS COD PACKING SHIT MIME!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WE AREN'T GONNA HUG IT OUT *THIS* TIME BRO, I'LL TELL YOU THAT MUCH RIGHT FUCKING NOW!!!",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE AREN'T GONNA HUG IT OUT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"*THIS* TIME BRO, I'LL TELL YOU THAT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MUCH RIGHT FUCKING NOW!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-GAMZEE: honk.",
+		"GAMZEE: honk.\
+",
 	},
 	next = {
 		6843,
 	},
 	previous = 6841,
+	page_id = 6842,
+	long_title = false,
 }

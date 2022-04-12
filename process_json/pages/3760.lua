@@ -1,6 +1,5 @@
 return {
 	title = "[S] Flip.",
-	pageId = 3760,
 	timestamp = "1305424844",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		3761,
 	},
 	previous = 3759,
+	page_id = 3760,
+	long_title = false,
 }

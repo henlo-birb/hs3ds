@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3356,
 	timestamp = "1295919818",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"What is that supposed to mean? That is the dumbest advice you ever heard.",
+		"What is that supposed to mean? That is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the dumbest advice you ever heard.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You type some more curse words into the chat window, but there is no response.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Body? Which body? What was he talking about?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You type some more curse words into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the chat window, but there is no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"response.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Body? Which body? What was he talking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about?\
+",
 	},
 	next = {
 		3357,
 	},
 	previous = 3355,
+	page_id = 3356,
+	long_title = false,
 }

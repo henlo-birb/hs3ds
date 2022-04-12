@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Go home.",
-	pageId = 2437,
 	timestamp = "1281911175",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"That should keep her happy for a while.",
+		"That should keep her happy for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And make a freshly orphaned troll somewhere pretty sad.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And make a freshly orphaned troll\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"somewhere pretty sad.\
+",
 	},
 	next = {
 		2438,
 	},
 	previous = 2436,
+	page_id = 2437,
+	long_title = false,
 }

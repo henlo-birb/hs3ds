@@ -1,6 +1,5 @@
 return {
 	title = "John: Prepare for flight.",
-	pageId = 2661,
 	timestamp = "1285450371",
 	flag = {},
 	media = {
@@ -1069,4 +1068,6 @@ return {
 		2662,
 	},
 	previous = 2660,
+	page_id = 2661,
+	long_title = false,
 }

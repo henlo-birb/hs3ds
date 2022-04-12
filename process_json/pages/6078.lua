@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] VBVS: Do a silly dance.",
-	pageId = 6078,
 	timestamp = "1364961741",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		6079,
 	},
 	previous = 6077,
+	page_id = 6078,
+	long_title = false,
 }

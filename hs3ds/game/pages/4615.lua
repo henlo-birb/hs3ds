@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4615,
 	timestamp = "1330225944",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Others gather around to bid farewell to their common ancestor. This is probably the closest he will ever come to receiving a proper funeral.",
+		"Others gather around to bid farewell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to their common ancestor. This is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably the closest he will ever come\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to receiving a proper funeral.\
+",
 	},
 	next = {
 		4616,
 	},
 	previous = 4614,
+	page_id = 4615,
+	long_title = false,
 }

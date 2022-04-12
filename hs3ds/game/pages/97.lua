@@ -1,6 +1,5 @@
 return {
 	title = "John: Abscond.",
-	pageId = 97,
 	timestamp = "1241135086",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Now that DAD is busy placating the SMOKE DETECTOR, you can safely sneak away.",
+		"Now that DAD is busy placating the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SMOKE DETECTOR, you can safely sneak\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"away.\
+",
 	},
 	next = {
 		98,
 	},
 	previous = 96,
+	page_id = 97,
+	long_title = false,
 }

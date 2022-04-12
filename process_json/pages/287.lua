@@ -1,6 +1,5 @@
 return {
 	title = "INDULGE THE DEVICE. BUT BE CURT WITH IT.",
-	pageId = 287,
 	timestamp = "1245652367",
 	flag = {},
 	media = {
@@ -733,4 +732,6 @@ return {
 		288,
 	},
 	previous = 286,
+	page_id = 287,
+	long_title = true,
 }

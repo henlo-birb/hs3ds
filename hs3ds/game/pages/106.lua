@@ -1,6 +1,5 @@
 return {
 	title = "John: Remove PDA, envelope and package from cake.",
-	pageId = 106,
 	timestamp = "1241246512",
 	flag = {},
 	media = {
@@ -14,18 +13,48 @@ return {
 			0,
 			0,
 		},
-		"You take the RAZOR and use it to perform surgery on the CAKE.",
+		"You take the RAZOR and use it to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"perform surgery on the CAKE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You take the TOWEL and clean off the extracted goods.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You take the TOWEL and clean off the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extracted goods.\
+",
 	},
 	next = {
 		107,
 	},
 	previous = 105,
+	page_id = 106,
+	long_title = true,
 }

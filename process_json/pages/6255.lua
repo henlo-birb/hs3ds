@@ -1,6 +1,5 @@
 return {
 	title = "MALE: GO OVER THERE.",
-	pageId = 6255,
 	timestamp = "1371079787",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 6254,
 	theme = "A6A6",
+	page_id = 6255,
+	long_title = false,
 }

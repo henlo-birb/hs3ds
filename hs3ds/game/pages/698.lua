@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use your own pee for the commercial zones.",
-	pageId = 698,
 	timestamp = "1253945280",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You cannot urinate because you have not had anything to drink in quite some time. You are very thirsty.",
+		"You cannot urinate because you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not had anything to drink in quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"some time. You are very thirsty.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Also that is a really terrible idea and you would not consider befouling your wonderful city in that way for even a moment.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Also that is a really terrible idea\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and you would not consider befouling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your wonderful city in that way for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even a moment.\
+",
 	},
 	next = {
 		699,
 	},
 	previous = 697,
+	page_id = 698,
+	long_title = true,
 }

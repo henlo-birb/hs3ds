@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Remove cover.",
-	pageId = 5120,
 	timestamp = "1340247903",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		5121,
 	},
 	previous = 5119,
+	page_id = 5120,
+	long_title = false,
 }

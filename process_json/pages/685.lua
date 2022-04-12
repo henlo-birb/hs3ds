@@ -1,6 +1,5 @@
 return {
 	title = "WV: Become the mayor of Can Town.",
-	pageId = 685,
 	timestamp = "1253764984",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		686,
 	},
 	previous = 684,
+	page_id = 685,
+	long_title = true,
 }

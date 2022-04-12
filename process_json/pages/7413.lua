@@ -1,6 +1,5 @@
 return {
 	title = "SO I WILL SHOW YOU WHAT I SAW.",
-	pageId = 7413,
 	timestamp = "1428897641",
 	flag = {
 		"F",
@@ -85,4 +84,6 @@ return {
 	},
 	previous = 7412,
 	theme = "A6A6",
+	page_id = 7413,
+	long_title = false,
 }

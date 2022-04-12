@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Proceed to stairwell.",
-	pageId = 2887,
 	timestamp = "1289976096",
 	flag = {},
 	media = {
@@ -838,4 +837,6 @@ return {
 		2888,
 	},
 	previous = 2886,
+	page_id = 2887,
+	long_title = false,
 }

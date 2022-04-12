@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Equip throwing stars to strife specibus.",
-	pageId = 2077,
 	timestamp = "1277263600",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2078,
 	},
 	previous = 2076,
+	page_id = 2077,
+	long_title = true,
 }

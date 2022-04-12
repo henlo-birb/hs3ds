@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Make another one.",
-	pageId = 1831,
 	timestamp = "1273767012",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You just make another one.",
+		"You just make another one.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You quickly stash it in a card so it can't escape from above.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You quickly stash it in a card so it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't escape from above.\
+",
 	},
 	next = {
 		1832,
 	},
 	previous = 1830,
+	page_id = 1831,
+	long_title = false,
 }

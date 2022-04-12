@@ -1,6 +1,5 @@
 return {
 	title = "PM: Examine keyboard and screen.",
-	pageId = 897,
 	timestamp = "1258945667",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		898,
 	},
 	previous = 896,
+	page_id = 897,
+	long_title = false,
 }

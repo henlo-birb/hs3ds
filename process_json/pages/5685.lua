@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Solicit profound wisdom from hallway Cera.",
-	pageId = 5685,
 	timestamp = "1357332881",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		5686,
 	},
 	previous = 5684,
+	page_id = 5685,
+	long_title = true,
 }

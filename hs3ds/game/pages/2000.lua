@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Take card vault.",
-	pageId = 2000,
 	timestamp = "1276408938",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"GOD.",
+		"GOD.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-DAMMIT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You hear some unhappy grumbling through the hole below. This was not the coolest thing you could have done just now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAMMIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You hear some unhappy grumbling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the hole below. This was not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the coolest thing you could have done\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just now.\
+",
 	},
 	next = {
 		2001,
 	},
 	previous = 1999,
+	page_id = 2000,
+	long_title = false,
 }

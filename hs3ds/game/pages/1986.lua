@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1986,
 	timestamp = "1276312388",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"And inside, a dark laboratory, unused for years.",
+		"And inside, a dark laboratory, unused\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for years.\
+",
 	},
 	next = {
 		1987,
 	},
 	previous = 1985,
+	page_id = 1986,
+	long_title = false,
 }

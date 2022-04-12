@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Solicit profound wisdom from your friendly guide.",
-	pageId = 5516,
 	timestamp = "1354233121",
 	flag = {},
 	media = {
@@ -1538,4 +1537,6 @@ return {
 		5517,
 	},
 	previous = 5515,
+	page_id = 5516,
+	long_title = true,
 }

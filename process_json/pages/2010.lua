@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Answer troll.",
-	pageId = 2010,
 	timestamp = "1276560558",
 	flag = {},
 	media = {
@@ -1608,4 +1607,6 @@ return {
 		2011,
 	},
 	previous = 2009,
+	page_id = 2010,
+	long_title = false,
 }

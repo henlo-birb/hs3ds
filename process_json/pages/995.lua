@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quick! Get into bed!",
-	pageId = 995,
 	timestamp = "1260562356",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		996,
 	},
 	previous = 994,
+	page_id = 995,
+	long_title = false,
 }

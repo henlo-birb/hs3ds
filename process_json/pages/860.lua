@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Look at that kiosk.",
-	pageId = 860,
 	timestamp = "1257982838",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		861,
 	},
 	previous = 859,
+	page_id = 860,
+	long_title = false,
 }

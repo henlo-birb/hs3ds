@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go back in time and stop the thief.",
-	pageId = 1863,
 	timestamp = "1274047386",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1864,
 	},
 	previous = 1862,
+	page_id = 1863,
+	long_title = true,
 }

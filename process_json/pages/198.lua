@@ -1,6 +1,5 @@
 return {
 	title = "John: High-five Kernelsprite.",
-	pageId = 198,
 	timestamp = "1243041300",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		199,
 	},
 	previous = 197,
+	page_id = 198,
+	long_title = false,
 }

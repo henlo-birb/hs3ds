@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tock.",
-	pageId = 3850,
 	timestamp = "1307923639",
 	flag = {},
 	media = {
@@ -13,81 +12,238 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: ........\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: ........",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: ........x8\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: ........x8",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: ........x8x8x8x8x8x8x8!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: ........x8x8x8x8x8x8x8!!!!!!!!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: All of the dots, John. All 16.777216 million of them.",
+		"AG: All of the dots, John. All\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"16.777216 million of them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Still dead, huh?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Still dead, huh?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Or are you too 8usy weeping over her corpse to pick up that headset and answer me????????",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: You can't fool me, John. I know you are not staying dead for long.",
+		"AG: Or are you too 8usy weeping over\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: And it is not just 8ecause I can clearly see you're alive in the future! ::::P",
+		"her corpse to pick up that headset and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"answer me????????\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: You see, we are 8oth the 8est there is, and therefore we have special privileges when it comes to mortality.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: You can't fool me, John. I know\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you are not staying dead for long.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: It's hard to keep a god dead for good. We can only die under very specific circumstances. Didn't I mention?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: And it is not just 8ecause I can\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"clearly see you're alive in the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"future! ::::P\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: You see, we are 8oth the 8est\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there is, and therefore we have\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"special privileges when it comes to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mortality.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: It's hard to keep a god dead for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"good. We can only die under very\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"specific circumstances. Didn't I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"mention?\
+",
 	},
 	next = {
 		3851,
 	},
 	previous = 3849,
 	theme = "scratch",
+	page_id = 3850,
+	long_title = false,
 }

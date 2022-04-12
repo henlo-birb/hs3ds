@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Take book.",
-	pageId = 4501,
 	timestamp = "1327540933",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"Yep, he's dead. Totally Sassacrushed.",
+		"Yep, he's dead. Totally Sassacrushed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You just know that julep guzzling bastard is scrambling up his echeladder as we speak, chuckling to himself while he fills his pockets with ill-gotten boondollars. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Go ahead, old man. Laugh it up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You just know that julep guzzling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bastard is scrambling up his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"echeladder as we speak, chuckling to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"himself while he fills his pockets\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with ill-gotten boondollars.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Go ahead, old man. Laugh it up.\
+",
 	},
 	next = {
 		4502,
 	},
 	previous = 4500,
+	page_id = 4501,
+	long_title = false,
 }

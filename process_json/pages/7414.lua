@@ -1,6 +1,5 @@
 return {
 	title = "AH YES. MOVIE MAGIC AT ITS BEST.",
-	pageId = 7414,
 	timestamp = "1428897710",
 	flag = {
 		"F",
@@ -141,4 +140,6 @@ return {
 	},
 	previous = 7413,
 	theme = "A6A6",
+	page_id = 7414,
+	long_title = false,
 }

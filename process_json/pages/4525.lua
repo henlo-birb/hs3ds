@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Change shirt.",
-	pageId = 4525,
 	timestamp = "1328048003",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4526,
 	},
 	previous = 4524,
+	page_id = 4525,
+	long_title = false,
 }

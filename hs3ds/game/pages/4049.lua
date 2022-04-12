@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4049,
 	timestamp = "1312944139",
 	flag = {},
 	media = {
@@ -12,11 +11,21 @@ return {
 			0,
 			0,
 		},
-		"And there go the electricity privileges.",
+		"And there go the electricity\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"privileges.\
+",
 	},
 	next = {
 		4050,
 	},
 	previous = 4048,
 	theme = "scratch",
+	page_id = 4049,
+	long_title = false,
 }

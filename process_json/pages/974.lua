@@ -1,6 +1,5 @@
 return {
 	title = "John: Fill up an entire queuestack with shoes.",
-	pageId = 974,
 	timestamp = "1260056695",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		975,
 	},
 	previous = 973,
+	page_id = 974,
+	long_title = true,
 }

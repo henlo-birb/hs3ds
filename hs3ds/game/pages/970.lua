@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 970,
 	timestamp = "1259982637",
 	flag = {},
 	media = {
@@ -13,26 +12,104 @@ return {
 			0,
 			0,
 		},
-		"You see no reason at all not to jam the ARRAY CARTRIDGE in there too. You make sure to blow the dust out first of course.",
+		"You see no reason at all not to jam\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the ARRAY CARTRIDGE in there too. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"make sure to blow the dust out first\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of course.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The sylladex reconfigures itself into an ARRAY of distinct QUEUESTACKS.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now we're talking. This is just the sort of needless complexity you have come to expect from your INVENTORY MANAGEMENT SYSTEM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The sylladex reconfigures itself into\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"an ARRAY of distinct QUEUESTACKS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now we're talking. This is just the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sort of needless complexity you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come to expect from your INVENTORY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MANAGEMENT SYSTEM.\
+",
 	},
 	next = {
 		971,
 	},
 	previous = 969,
+	page_id = 970,
+	long_title = false,
 }

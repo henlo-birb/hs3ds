@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Use knife to snag one of the keys on the floor.",
-	pageId = 4904,
 	timestamp = "1335940127",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4905,
 	},
 	previous = 4903,
+	page_id = 4904,
+	long_title = true,
 }

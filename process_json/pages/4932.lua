@@ -1,6 +1,5 @@
 return {
 	title = "Archagent: Report.",
-	pageId = 4932,
 	timestamp = "1336943014",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		4933,
 	},
 	previous = 4931,
+	page_id = 4932,
+	long_title = false,
 }

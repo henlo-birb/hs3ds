@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 780,
 	timestamp = "1255830625",
 	flag = {
 		"R4",
@@ -14,18 +13,55 @@ return {
 			0,
 			0,
 		},
-		"You make your way to the middle of the GARDEN ATRIUM, where a stairwell joins the four ATRIUM WINGS.",
+		"You make your way to the middle of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GARDEN ATRIUM, where a stairwell joins\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the four ATRIUM WINGS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Upstairs is your grandfather's LABORATORY as well as your BEDROOM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Upstairs is your grandfather's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LABORATORY as well as your BEDROOM.\
+",
 	},
 	next = {
 		781,
 	},
 	previous = 779,
+	page_id = 780,
+	long_title = false,
 }

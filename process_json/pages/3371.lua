@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Dust for prints.",
-	pageId = 3371,
 	timestamp = "1296105682",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		3372,
 	},
 	previous = 3370,
+	page_id = 3371,
+	long_title = false,
 }

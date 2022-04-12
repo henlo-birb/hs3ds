@@ -1,6 +1,5 @@
 return {
 	title = "You must eliminate the archagent.",
-	pageId = 2531,
 	timestamp = "1282785732",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2532,
 	},
 	previous = 2530,
+	page_id = 2531,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Equius: Seek the highb100d.",
-	pageId = 3438,
 	timestamp = "1296971191",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3439,
 	},
 	previous = 3437,
+	page_id = 3438,
+	long_title = false,
 }

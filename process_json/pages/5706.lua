@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine jujus.",
-	pageId = 5706,
 	timestamp = "1357689846",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		5707,
 	},
 	previous = 5705,
+	page_id = 5706,
+	long_title = false,
 }

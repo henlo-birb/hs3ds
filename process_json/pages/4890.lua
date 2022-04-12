@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Carve pumpkin.",
-	pageId = 4890,
 	timestamp = "1335861492",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		4891,
 	},
 	previous = 4889,
+	page_id = 4890,
+	long_title = false,
 }

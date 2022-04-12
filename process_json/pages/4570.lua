@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Pester shades.",
-	pageId = 4570,
 	timestamp = "1329211377",
 	flag = {},
 	media = {
@@ -201,4 +200,6 @@ return {
 		4571,
 	},
 	previous = 4569,
+	page_id = 4570,
+	long_title = false,
 }

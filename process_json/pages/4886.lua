@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Inspect pumpkin.",
-	pageId = 4886,
 	timestamp = "1335844619",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4887,
 	},
 	previous = 4885,
+	page_id = 4886,
+	long_title = false,
 }

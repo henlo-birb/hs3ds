@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Check on Sollux.",
-	pageId = 2141,
 	timestamp = "1278093238",
 	flag = {},
 	media = {
@@ -12,61 +11,125 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-You then had ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"a conversation we already read",
+		"You then had\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		", which began like this:",
+		"a conversation we already read\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		", which began like this:\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-\
-AA: did y0u set up the teams",
+		"AA: did y0u set up the teams\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And ended like this:",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And ended like this:\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"\
-\
-AA: im c0ming up",
+		"AA: im c0ming up\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And then you went up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And then you went up.\
+",
 	},
 	next = {
 		2142,
 	},
 	previous = 2140,
+	page_id = 2141,
+	long_title = false,
 }

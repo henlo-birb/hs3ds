@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4080,
 	timestamp = "1313742494",
 	flag = {},
 	media = {
@@ -12,11 +11,35 @@ return {
 			0,
 			0,
 		},
-		"What the hell? Looks like he's had the disc repaired for a while already, but didn't tell us. Motherfucker just loves the sound of his own voice.",
+		"What the hell? Looks like he's had the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disc repaired for a while already, but\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"didn't tell us. Motherfucker just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"loves the sound of his own voice.\
+",
 	},
 	next = {
 		4081,
 	},
 	previous = 4079,
 	theme = "scratch",
+	page_id = 4080,
+	long_title = false,
 }

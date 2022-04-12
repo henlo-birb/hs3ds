@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6060,
 	timestamp = "1364693944",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: THE BUBBLES VON SALAMANCER MEMOIRIAL LIBRARAY!!!",
+		"ROSE: THE BUBBLES VON SALAMANCER\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"MEMOIRIAL LIBRARAY!!!\
+",
 	},
 	next = {
 		6061,
 	},
 	previous = 6059,
+	page_id = 6060,
+	long_title = false,
 }

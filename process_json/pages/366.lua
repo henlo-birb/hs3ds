@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Investigate richly colored object in middle of screen.",
-	pageId = 366,
 	timestamp = "1247431502",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		367,
 	},
 	previous = 365,
+	page_id = 366,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Examine Kanaya's computer.",
-	pageId = 3353,
 	timestamp = "1295908307",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		3354,
 	},
 	previous = 3352,
+	page_id = 3353,
+	long_title = true,
 }

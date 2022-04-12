@@ -1,6 +1,5 @@
 return {
 	title = "Hooray! This one contains a prize!",
-	pageId = 1425,
 	timestamp = "1266539422",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"You got an UNCARVED MINITABLET!",
+		"You got an UNCARVED MINITABLET!\
+",
 	},
 	next = {
 		1426,
 	},
 	previous = 1424,
+	page_id = 1425,
+	long_title = true,
 }

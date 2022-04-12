@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Report to Eridan.",
-	pageId = 2467,
 	timestamp = "1282265488",
 	flag = {},
 	media = {
@@ -2497,4 +2496,6 @@ return {
 		2468,
 	},
 	previous = 2466,
+	page_id = 2467,
+	long_title = false,
 }

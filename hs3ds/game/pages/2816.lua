@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2816,
 	timestamp = "1288418810",
 	flag = {},
 	media = {
@@ -12,255 +11,790 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Hi Jaspers.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Hi Jaspers.",
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
+		"JASPERSPRITE: Hi rose!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JASPERSPRITE: Hi rose!",
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
+		"JASPERSPRITE: Purr purr purr.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JASPERSPRITE: Purr purr purr.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Jaspers, I am releasing you now.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Jaspers, I am releasing you now.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: You are free to go do as you please.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Really rose ok if thats what you want i will go do that.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Oh rose!",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Rose did you get to do any of the things that are important to your quest that i said?",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Did you learn to play the rain rose?",
+		"ROSE: You are free to go do as you\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"please.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Not yet, Jaspers.",
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Really rose ok if thats\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"what you want i will go do that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Oh rose!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Rose did you get to do\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"any of the things that are important\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"to your quest that i said?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Did you learn to play\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"the rain rose?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: It's a little complicated, but I believe I've embarked on another quest, one which surpasses the scope of the objectives local to this planet.",
+		"ROSE: Not yet, Jaspers.\
+",
 		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
+			0,
+			0,
+			0,
 		},
 		"\
-JASPERSPRITE: Meow what :3",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-ROSE: I'm saying there's something more important to accomplish now. Something more important than creating a universe.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Oh thats ok rose i wouldnt want you to feel obligated to do that.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: I think that winning this game and getting the prize is up to you and your friends.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: You get to decide whether or not you feel its right to do that and what kind of prize you want to make!",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Its part of becoming who youre supposed to become i think.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: But i really think you should consider going on the quest i said anyway!",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Why?",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Because its not just an important thing to do to win the game.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: I dont know i hope im not being too pushy rose its not my place to be im just your cat!",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: But the thing that made me how i am now seems to really want me to say this to you.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Your quest is really important for you to do.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Not really because thats how to get the prize.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: But because its what you need to do for yourself!",
+		"ROSE: It's a little complicated, but I\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: I see. I promise I will consider it seriously then.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Oh good!",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: I love you rose! I always have even when you were a little girl and i was an alive cat.",
+		"believe I've embarked on another\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Thanks, Jaspers, that's nice to hear.",
+		"quest, one which surpasses the scope\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: It's hard to remember, but I'm pretty sure I felt the same way back then.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: It was fun getting to be your cat again rose even if it was just for a little while and also while being a princess ghost.",
-		{
-			0.9450980392156862,
-			0.2549019607843137,
-			0.9372549019607843,
-		},
-		"\
-JASPERSPRITE: Bye rose!",
+		"of the objectives local to this\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: See you, Jaspers!",
+		"planet.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-ROSE: If you see my mother in the course of your travels, tell her I said hello.",
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
+		"JASPERSPRITE: Meow what :3\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JASPERSPRITE: Ok I will do that! :3",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I'm saying there's something\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"more important to accomplish now.\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Something more important than creating\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"a universe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Oh thats ok rose i\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"wouldnt want you to feel obligated to\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"do that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: I think that winning\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"this game and getting the prize is up\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"to you and your friends.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: You get to decide\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"whether or not you feel its right to\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"do that and what kind of prize you\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"want to make!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Its part of becoming who\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"youre supposed to become i think.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: But i really think you\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"should consider going on the quest i\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"said anyway!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Why?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Because its not just an\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"important thing to do to win the game.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: I dont know i hope im\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"not being too pushy rose its not my\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"place to be im just your cat!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: But the thing that made\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"me how i am now seems to really want\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"me to say this to you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Your quest is really\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"important for you to do.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Not really because thats\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"how to get the prize.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: But because its what you\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"need to do for yourself!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I see. I promise I will consider\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"it seriously then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Oh good!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: I love you rose! I\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"always have even when you were a\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"little girl and i was an alive cat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Thanks, Jaspers, that's nice to\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"hear.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: It's hard to remember, but I'm\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"pretty sure I felt the same way back\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: It was fun getting to be\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"your cat again rose even if it was\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"just for a little while and also while\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"being a princess ghost.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Bye rose!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: See you, Jaspers!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: If you see my mother in the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"course of your travels, tell her I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"said hello.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9450980392156862,
+			0.2549019607843137,
+			0.9372549019607843,
+		},
+		"JASPERSPRITE: Ok I will do that! :3\
+",
 	},
 	next = {
 		2817,
 	},
 	previous = 2815,
+	page_id = 2816,
+	long_title = false,
 }

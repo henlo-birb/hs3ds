@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2060,
 	timestamp = "1277067600",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You quickly crafted a new weapon, HOMES SMELL YA LATER. Plus some other cool stuff.",
+		"You quickly crafted a new weapon,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOMES SMELL YA LATER. Plus some other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cool stuff.\
+",
 	},
 	next = {
 		2061,
 	},
 	previous = 2059,
+	page_id = 2060,
+	long_title = false,
 }

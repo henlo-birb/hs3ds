@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Put bathtub back.",
-	pageId = 242,
 	timestamp = "1244247279",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		243,
 	},
 	previous = 241,
+	page_id = 242,
+	long_title = false,
 }

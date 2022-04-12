@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Dump the contents of your war chest over him.",
-	pageId = 1182,
 	timestamp = "1263870233",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1183,
 	},
 	previous = 1181,
+	page_id = 1182,
+	long_title = true,
 }

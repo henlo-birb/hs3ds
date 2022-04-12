@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7120,
 	timestamp = "1417755759",
 	flag = {
 		"FIREFLY",
@@ -14,17 +13,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: anyway...",
+		"JOHN: anyway...\
+",
 	},
 	next = {
 		7121,
 	},
 	previous = 7119,
+	page_id = 7120,
+	long_title = false,
 }

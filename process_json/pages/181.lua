@@ -1,6 +1,5 @@
 return {
 	title = "TT: Deploy Pre-punched Card.",
-	pageId = 181,
 	timestamp = "1242785006",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		182,
 	},
 	previous = 180,
+	page_id = 181,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Leave your room.",
-	pageId = 2003,
 	timestamp = "1276482930",
 	flag = {},
 	media = {
@@ -223,4 +222,6 @@ return {
 		2004,
 	},
 	previous = 2002,
+	page_id = 2003,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "BM: Request ruler.",
-	pageId = 3650,
 	timestamp = "1300328679",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		3651,
 	},
 	previous = 3649,
+	page_id = 3650,
+	long_title = false,
 }

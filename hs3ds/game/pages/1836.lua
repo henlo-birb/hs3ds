@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine smuppet and Felt poster.",
-	pageId = 1836,
 	timestamp = "1273798275",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You make a JUTTING OUT AND IMPUDENT FELT PLUSH.",
+		"You make a JUTTING OUT AND IMPUDENT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FELT PLUSH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You do an acrobatic fucking pirouette off the handle and into his heart. And he, into yours.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You do an acrobatic fucking pirouette\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off the handle and into his heart. And\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he, into yours.\
+",
 	},
 	next = {
 		1837,
 	},
 	previous = 1835,
+	page_id = 1836,
+	long_title = true,
 }

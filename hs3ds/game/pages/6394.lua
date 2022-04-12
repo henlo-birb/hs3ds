@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6394,
 	timestamp = "1375656461",
 	flag = {},
 	media = {
@@ -12,29 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JADE:\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"why is being a bad guy SO HARD?",
+		"why is being a bad guy SO HARD?\
+",
 	},
 	next = {
 		6395,
 	},
 	previous = 6393,
+	page_id = 6394,
+	long_title = false,
 }

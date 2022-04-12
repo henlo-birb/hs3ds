@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Check out Dave's computer.",
-	pageId = 1741,
 	timestamp = "1272054165",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"It seems you have a visitor.",
+		"It seems you have a visitor.\
+",
 	},
 	next = {
 		1742,
 	},
 	previous = 1740,
+	page_id = 1741,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Type => HOME.",
-	pageId = 717,
 	timestamp = "1254279802",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		718,
 	},
 	previous = 716,
+	page_id = 717,
+	long_title = false,
 }

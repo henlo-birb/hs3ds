@@ -1,6 +1,5 @@
 return {
 	title = "John: Switch modus and use telescope to inspect sky.",
-	pageId = 194,
 	timestamp = "1243041189",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		195,
 	},
 	previous = 193,
+	page_id = 194,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Might as well check out the Cruxtruder.",
-	pageId = 170,
 	timestamp = "1242600026",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		171,
 	},
 	previous = 169,
+	page_id = 170,
+	long_title = true,
 }

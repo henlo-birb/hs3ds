@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Look at map.",
-	pageId = 2370,
 	timestamp = "1281209336",
 	flag = {},
 	media = {
@@ -915,4 +914,6 @@ return {
 		2371,
 	},
 	previous = 2369,
+	page_id = 2370,
+	long_title = false,
 }

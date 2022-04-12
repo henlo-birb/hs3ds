@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captcharoid the hologram of your own brain.",
-	pageId = 1844,
 	timestamp = "1273812882",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1845,
 	},
 	previous = 1843,
+	page_id = 1844,
+	long_title = true,
 }

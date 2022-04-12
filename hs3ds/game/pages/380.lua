@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 380,
 	timestamp = "1247633159",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Lousy goddamn stupid wizards.",
+		"Lousy goddamn stupid wizards.\
+",
 	},
 	next = {
 		381,
 	},
 	previous = 379,
+	page_id = 380,
+	long_title = false,
 }

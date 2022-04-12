@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Check out magazine.",
-	pageId = 2007,
 	timestamp = "1276553324",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"It's the latest issue of GAME GRUB.",
+		"It's the latest issue of GAME GRUB.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This one appears to boast about \"exclusive leaks\". They all boast about that. You're not even really sure what it means.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This one appears to boast about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"exclusive leaks\". They all boast\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about that. You're not even really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sure what it means.\
+",
 	},
 	next = {
 		2008,
 	},
 	previous = 2006,
+	page_id = 2007,
+	long_title = false,
 }

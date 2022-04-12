@@ -1,6 +1,5 @@
 return {
 	title = "HERE I AM LORDING IT OVER MY MINIONS.",
-	pageId = 7417,
 	timestamp = "1428897883",
 	flag = {
 		"F",
@@ -43,4 +42,6 @@ return {
 	},
 	previous = 7416,
 	theme = "A6A6",
+	page_id = 7417,
+	long_title = true,
 }

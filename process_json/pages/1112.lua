@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Place present on monument.",
-	pageId = 1112,
 	timestamp = "1262575800",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1113,
 	},
 	previous = 1111,
+	page_id = 1112,
+	long_title = false,
 }

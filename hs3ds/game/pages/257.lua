@@ -1,6 +1,5 @@
 return {
 	title = "FIRST, TAKE THE FABRIC ITEM ON THE FLOOR THERE.",
-	pageId = 257,
 	timestamp = "1245127087",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"The TOWEL? Why?",
+		"The TOWEL? Why?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh well, you're the boss. You captchalogue the TOWEL. What now?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh well, you're the boss. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"captchalogue the TOWEL. What now?\
+",
 	},
 	next = {
 		258,
 	},
 	previous = 256,
+	page_id = 257,
+	long_title = true,
 }

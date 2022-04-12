@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Examine heist map.",
-	pageId = 1172,
 	timestamp = "1263786487",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1173,
 	},
 	previous = 1171,
+	page_id = 1172,
+	long_title = false,
 }

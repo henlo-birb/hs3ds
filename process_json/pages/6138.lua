@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Punch clock.",
-	pageId = 6138,
 	timestamp = "1365457920",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		6139,
 	},
 	previous = 6137,
+	page_id = 6138,
+	long_title = false,
 }

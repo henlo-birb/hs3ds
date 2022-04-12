@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4286,
 	timestamp = "1323406053",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"No, not kids! I mean these curtain dealies.",
+		"No, not kids! I mean these curtain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dealies.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I still need to set up, what, like another five of these rigs? God dammit.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I still need to set up, what, like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"another five of these rigs? God\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dammit.\
+",
 	},
 	next = {
 		4287,
 	},
 	previous = 4285,
+	page_id = 4286,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Battlefield: Quake.",
-	pageId = 3499,
 	timestamp = "1297582757",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3500,
 	},
 	previous = 3498,
+	page_id = 3499,
+	long_title = false,
 }

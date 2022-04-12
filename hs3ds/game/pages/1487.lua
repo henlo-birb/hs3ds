@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1487,
 	timestamp = "1267072108",
 	flag = {},
 	media = {
@@ -13,18 +12,41 @@ return {
 			0,
 			0,
 		},
-		"A big gust of wind conveniently comes along and blows out all the fire. ",
+		"A big gust of wind conveniently comes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"along and blows out all the fire.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is really convenient.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is really convenient.\
+",
 	},
 	next = {
 		1488,
 	},
 	previous = 1486,
+	page_id = 1487,
+	long_title = false,
 }

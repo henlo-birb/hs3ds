@@ -1,6 +1,5 @@
 return {
 	title = "INTERROGATE THIS MADWOMAN.",
-	pageId = 420,
 	timestamp = "1249015307",
 	flag = {},
 	media = {
@@ -194,4 +193,6 @@ return {
 		421,
 	},
 	previous = 419,
+	page_id = 420,
+	long_title = false,
 }

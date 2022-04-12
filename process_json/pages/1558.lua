@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Put a punched card in a shunt.",
-	pageId = 1558,
 	timestamp = "1267928886",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1559,
 	},
 	previous = 1557,
+	page_id = 1558,
+	long_title = true,
 }

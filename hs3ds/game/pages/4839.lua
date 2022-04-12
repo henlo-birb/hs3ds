@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4839,
 	timestamp = "1334886883",
 	flag = {},
 	media = {
@@ -12,409 +11,1161 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Tavros, this fucking sucks.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Tavros, this fucking sucks.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: wHAT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: wHAT,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: What do you mean, \"wHAT,\"?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: What do you mean, \"wHAT,\"?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: For starters, that completely horri8le shared 8ody resurrection 8ullshit that just happened.",
+		"VRISKA: For starters, that completely\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: You were there, remem8er? That's kind of the point!",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: oH, yEAH,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: i DON'T KNOW, iT WASN'T SO BAD,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: i THINK MAYBE WE WERE OVERREACTING, aBOUT BEING ONE PERSON?",
+		"horri8le shared 8ody resurrection\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"8ullshit that just happened.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Overreacting my ass!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: What a nightmare. It's still making my ghostly skin crawl just thinking a8out it.",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: nO, i THINK i'VE DECIDED, yOU'RE BEING UNREASONABLE,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: iT WAS COOL BEING ALIVE AGAIN FOR A WHILE, aS A STRANGE UNSETTLING MUTANT,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: iF WE DIDN'T EXPLODE OURSELF SO FAST, iT COULD HAVE BEEN AN ADVENTURE, mAYBE,",
+		"VRISKA: You were there, remem8er?\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"That's kind of the point!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Oh, sure. That's easy for you to say.",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: oH, yEAH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i DON'T KNOW, iT WASN'T SO\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"BAD,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i THINK MAYBE WE WERE\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"OVERREACTING, aBOUT BEING ONE PERSON?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Overreacting my ass!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You weren't the one getting the short end of the shared personality stick!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: May8e if your personality was as much an upgrade to mine as mine was to yours, I would have 8een cool with it too.",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: yOU MIGHT BE RIGHT,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: aCTUALLY IT WAS PRETTY NEAT,",
+		"VRISKA: What a nightmare. It's still\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: What?",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: gETTING TO FEEL ALL THE AMAZING SELF ESTEEM YOU GET TO FEEL,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: i DIDN'T REALLY KNOW WHAT IT FELT LIKE, i MOSTLY ONLY KNEW WHAT THE PRETEND KIND WAS LIKE,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: sO,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: tHANK YOU FOR LETTING ME FEEL THAT, i GUESS,",
+		"making my ghostly skin crawl just\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"thinking a8out it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Hahahaha. You're welcome!",
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO, i THINK i'VE DECIDED,\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"yOU'RE BEING UNREASONABLE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: iT WAS COOL BEING ALIVE AGAIN\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"FOR A WHILE, aS A STRANGE UNSETTLING\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"MUTANT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: iF WE DIDN'T EXPLODE OURSELF\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"SO FAST, iT COULD HAVE BEEN AN\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"ADVENTURE, mAYBE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Now that you mention it, may8e there was a silver lining to that freak show.",
+		"VRISKA: Oh, sure. That's easy for you\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Someone else finally got a chance to feel first hand how gr8 it is 8eing me!",
+		"to say.\
+",
 		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROS: yEAH,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: iT MUST BE PRETTY GREAT OVERALL,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: sO,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: aSIDE FROM BEING PARTIALLY ME, bRIEFLY,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: hOW HAVE YOU BEEN?",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: You weren't the one getting\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the short end of the shared\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"personality stick!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Ok. Dead mostly.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: May8e if your personality was\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"as much an upgrade to mine as mine was\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to yours, I would have 8een cool with\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it too.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: yES, mE TOO,",
+		"TAVROS: yOU MIGHT BE RIGHT,\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Yeah.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Hey, sorry a8out that 8y the way.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: aCTUALLY IT WAS PRETTY NEAT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: aBOUT WHAT,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: A8out killing you! It wasn't very cool of me.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: oH, rIGHT,",
+		"TAVROS: gETTING TO FEEL ALL THE\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i ALMOST FORGOT THAT EVEN HAPPENED,",
+		"AMAZING SELF ESTEEM YOU GET TO FEEL,\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: How could you forget? Haven't you 8een pissed off at me a8out it?",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: nO, i MEAN, iT WAS PRETTY MUCH MY FAULT, i THINK,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i ATTACKED YOU WITH MY BOGUS SELF ESTEEM, aND i PAID THE ULTIMATE PRICE,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: No, you idiot! That's not what happened at all. I sta88ed you through the chest 8ecause I was 8eing a huge 8itch!",
+		"TAVROS: i DIDN'T REALLY KNOW WHAT IT\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i MEAN, iT WAS A LONG TIME AGO, bUT THAT'S NOT REALLY HOW i REMEMBER IT,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Ugh, stop 8eing so stupid. That's so stupid!",
+		"FELT LIKE, i MOSTLY ONLY KNEW WHAT THE\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: nO, yOU'RE STUPID,",
+		"PRETEND KIND WAS LIKE,\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: You are such a pain in the ass when you're dead. Let's just agree it was my fault and drop it.",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: nO, bUT OKAY,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Man, 8eing dead is such a drag.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: I don't know if I can deal with this shit anymore!",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i THINK IT'S ALRIGHT,",
+		"TAVROS: sO,\
+",
 		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
+			0,
+			0,
+			0,
 		},
 		"\
-VRISKA: Oh come on. It's so 8oring!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: What a completely pointless and hollow existence this is.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: And if the existential malaise wasn't 8ad enough, now I have to 8e constantly watching out for that fucking orange guy.",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: oRANGE GUY?",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: The orange guy! Haven't you seen him?",
+		"TAVROS: tHANK YOU FOR LETTING ME FEEL\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"THAT, i GUESS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: nO,",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Hahahaha. You're welcome!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Now that you mention it, may8e\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there was a silver lining to that\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"freak show.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Someone else finally got a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"chance to feel first hand how gr8 it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is 8eing me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: yEAH,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: iT MUST BE PRETTY GREAT\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"OVERALL,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: sO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: aSIDE FROM BEING PARTIALLY ME,\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"bRIEFLY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: hOW HAVE YOU BEEN?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Ok. Dead mostly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: yES, mE TOO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Hey, sorry a8out that 8y the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: aBOUT WHAT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: A8out killing you! It wasn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"very cool of me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: oH, rIGHT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i ALMOST FORGOT THAT EVEN\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"HAPPENED,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: How could you forget? Haven't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you 8een pissed off at me a8out it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO, i MEAN, iT WAS PRETTY MUCH\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"MY FAULT, i THINK,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i ATTACKED YOU WITH MY BOGUS\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"SELF ESTEEM, aND i PAID THE ULTIMATE\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"PRICE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: No, you idiot! That's not what\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"happened at all. I sta88ed you through\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the chest 8ecause I was 8eing a huge\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8itch!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i MEAN, iT WAS A LONG TIME\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"AGO, bUT THAT'S NOT REALLY HOW i\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"REMEMBER IT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Ugh, stop 8eing so stupid.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"That's so stupid!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO, yOU'RE STUPID,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You are such a pain in the ass\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"when you're dead. Let's just agree it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was my fault and drop it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO, bUT OKAY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Man, 8eing dead is such a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"drag.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: I don't know if I can deal\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"with this shit anymore!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i THINK IT'S ALRIGHT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Oh come on. It's so 8oring!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: What a completely pointless\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and hollow existence this is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: And if the existential malaise\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"wasn't 8ad enough, now I have to 8e\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"constantly watching out for that\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"fucking orange guy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: oRANGE GUY?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: The orange guy! Haven't you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"seen him?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO,\
+",
 	},
 	next = {
 		4840,
 	},
 	previous = 4838,
+	page_id = 4839,
+	long_title = false,
 }

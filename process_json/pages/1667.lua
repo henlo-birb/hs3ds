@@ -1,6 +1,5 @@
 return {
 	title = "John: Get trolled by CG.",
-	pageId = 1667,
 	timestamp = "1270506337",
 	flag = {},
 	media = {
@@ -3421,4 +3420,6 @@ return {
 		1668,
 	},
 	previous = 1666,
+	page_id = 1667,
+	long_title = false,
 }

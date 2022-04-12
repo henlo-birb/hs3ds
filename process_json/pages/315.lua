@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Bleat like a goat and piss on your turntable.",
-	pageId = 315,
 	timestamp = "1246401029",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		316,
 	},
 	previous = 314,
+	page_id = 315,
+	long_title = true,
 }

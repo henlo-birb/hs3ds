@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 96,
 	timestamp = "1241048018",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Sassacre you beautiful bastard. ",
+		"Sassacre you beautiful bastard.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now's your chance!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now's your chance!!!\
+",
 	},
 	next = {
 		97,
 	},
 	previous = 95,
+	page_id = 96,
+	long_title = false,
 }

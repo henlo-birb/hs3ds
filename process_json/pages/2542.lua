@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Answer Karkat.",
-	pageId = 2542,
 	timestamp = "1282967594",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2543,
 	},
 	previous = 2541,
+	page_id = 2542,
+	long_title = false,
 }

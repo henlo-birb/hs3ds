@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Squeal like a piglet and fertilize some plants.",
-	pageId = 774,
 	timestamp = "1255742642",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"It is an awfully silly idea and is basically a waste of everyone's time. You will predictably disregard this thought and focus on more sensible objectives at once.",
+		"It is an awfully silly idea and is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"basically a waste of everyone's time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will predictably disregard this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thought and focus on more sensible\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"objectives at once.\
+",
 	},
 	next = {
 		775,
 	},
 	previous = 773,
+	page_id = 774,
+	long_title = true,
 }

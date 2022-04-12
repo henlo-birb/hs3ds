@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Be Viceroy Bubbles Von Salamancer.",
-	pageId = 6077,
 	timestamp = "1364941815",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You are now Viceroy Bubbles Von Salamancer.",
+		"You are now Viceroy Bubbles Von\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Salamancer.\
+",
 	},
 	next = {
 		6078,
 	},
 	previous = 6076,
+	page_id = 6077,
+	long_title = true,
 }

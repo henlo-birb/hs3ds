@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Get out of bed.",
-	pageId = 2997,
 	timestamp = "1291574179",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You de-bed.",
+		"You de-bed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The snow is quite deep.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The snow is quite deep.\
+",
 	},
 	next = {
 		2998,
 	},
 	previous = 2996,
+	page_id = 2997,
+	long_title = false,
 }

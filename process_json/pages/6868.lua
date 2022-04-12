@@ -1,6 +1,5 @@
 return {
 	title = "BUT HEAR ME OUT!",
-	pageId = 6868,
 	timestamp = "1413620822",
 	flag = {},
 	media = {
@@ -230,4 +229,6 @@ return {
 	},
 	previous = 6867,
 	theme = "A6A6",
+	page_id = 6868,
+	long_title = false,
 }

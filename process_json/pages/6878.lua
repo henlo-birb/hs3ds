@@ -1,6 +1,5 @@
 return {
 	title = "AS FOLLOWS:",
-	pageId = 6878,
 	timestamp = "1413621467",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6877,
 	theme = "A6A6",
+	page_id = 6878,
+	long_title = false,
 }

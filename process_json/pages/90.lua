@@ -1,6 +1,5 @@
 return {
 	title = "[S] STRIFE!",
-	pageId = 90,
 	timestamp = "1240897865",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		91,
 	},
 	previous = 89,
+	page_id = 90,
+	long_title = false,
 }

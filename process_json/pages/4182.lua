@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Unearth more computers.",
-	pageId = 4182,
 	timestamp = "1321845883",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		4183,
 	},
 	previous = 4181,
+	page_id = 4182,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Frigglish: Fast forward to Jaspersprite.",
-	pageId = 4617,
 	timestamp = "1330256453",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 		4618,
 	},
 	previous = 4616,
+	page_id = 4617,
+	long_title = true,
 }

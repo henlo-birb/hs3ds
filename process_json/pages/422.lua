@@ -1,6 +1,5 @@
 return {
 	title = "[S] GO ON. ==>",
-	pageId = 422,
 	timestamp = "1249103381",
 	flag = {
 		"F",
@@ -106,4 +105,6 @@ return {
 		423,
 	},
 	previous = 421,
+	page_id = 422,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine fetus in a jar and Mr. T puppet.",
-	pageId = 1839,
 	timestamp = "1273798473",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You make the FOAM FETAL MR. T IN A JAR.",
+		"You make the FOAM FETAL MR. T IN A\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"JAR.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Another backbreaking victory for science.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Another backbreaking victory for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"science.\
+",
 	},
 	next = {
 		1840,
 	},
 	previous = 1838,
+	page_id = 1839,
+	long_title = true,
 }

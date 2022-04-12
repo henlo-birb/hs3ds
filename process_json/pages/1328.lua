@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Check personal ads of periodical.",
-	pageId = 1328,
 	timestamp = "1265529154",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1329,
 	},
 	previous = 1327,
+	page_id = 1328,
+	long_title = true,
 }

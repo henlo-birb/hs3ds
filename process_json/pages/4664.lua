@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine pre-punched card.",
-	pageId = 4664,
 	timestamp = "1330847444",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4665,
 	},
 	previous = 4663,
+	page_id = 4664,
+	long_title = false,
 }

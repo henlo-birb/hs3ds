@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine timetables and computer.",
-	pageId = 1822,
 	timestamp = "1273708535",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		1823,
 	},
 	previous = 1821,
+	page_id = 1822,
+	long_title = true,
 }

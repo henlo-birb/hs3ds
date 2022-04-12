@@ -1,6 +1,5 @@
 return {
 	title = "DD?: Contact CD?.",
-	pageId = 3560,
 	timestamp = "1298340898",
 	flag = {},
 	media = {
@@ -180,4 +179,6 @@ return {
 		3561,
 	},
 	previous = 3559,
+	page_id = 3560,
+	long_title = false,
 }

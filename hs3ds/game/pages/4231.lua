@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4231,
 	timestamp = "1322600863",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Another triumph for adventure. Time to blow the smoke off your berettas and saunter off into the... whoa not so fast! Behind you, Jake!!!",
+		"Another triumph for adventure. Time to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blow the smoke off your berettas and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"saunter off into the... whoa not so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fast! Behind you, Jake!!!\
+",
 	},
 	next = {
 		4232,
 	},
 	previous = 4230,
+	page_id = 4231,
+	long_title = false,
 }

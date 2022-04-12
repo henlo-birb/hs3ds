@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Take a juggling club.",
-	pageId = 2018,
 	timestamp = "1276642676",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"You grab a JUGGLING CLUB. You'll need it if you are going to go out. It is dangerous to leave unarmed.",
+		"You grab a JUGGLING CLUB. You'll need\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it if you are going to go out. It is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous to leave unarmed.\
+",
 	},
 	next = {
 		2019,
 	},
 	previous = 2017,
+	page_id = 2018,
+	long_title = false,
 }

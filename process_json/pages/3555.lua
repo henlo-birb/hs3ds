@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Suppress thoughts of unfathomable Snausages.",
-	pageId = 3555,
 	timestamp = "1298322527",
 	flag = {},
 	media = {
@@ -201,4 +200,6 @@ return {
 		3556,
 	},
 	previous = 3554,
+	page_id = 3555,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Retrieve arms from floor, post-haste!",
-	pageId = 4121,
 	timestamp = "1321065020",
 	flag = {
 		"F",
@@ -152,4 +151,6 @@ return {
 	},
 	next = {},
 	previous = 4120,
+	page_id = 4121,
+	long_title = true,
 }

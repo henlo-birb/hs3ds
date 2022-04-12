@@ -1,6 +1,5 @@
 return {
 	title = "John: Enter captcha code as seen on back of pogo ride card.",
-	pageId = 525,
 	timestamp = "1251002785",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		526,
 	},
 	previous = 524,
+	page_id = 525,
+	long_title = true,
 }

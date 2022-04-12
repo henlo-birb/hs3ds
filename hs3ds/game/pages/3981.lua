@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 3981,
 	timestamp = "1311391387",
 	flag = {},
 	media = {
@@ -12,39 +11,84 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"?GG: i was about to walk home\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: i was about to walk home",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-?GG: when i saw something appear on a lily pad",
+		"?GG: when i saw something appear on a\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"lily pad\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: it was a frog!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"?GG: it was a frog!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-?GG: an amazing shiny frog, not like any other ive seen in the lagoon",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"?GG: an amazing shiny frog, not like\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"any other ive seen in the lagoon\
+",
 	},
 	next = {
 		3982,
 	},
 	previous = 3980,
 	theme = "scratch",
+	page_id = 3981,
+	long_title = false,
 }

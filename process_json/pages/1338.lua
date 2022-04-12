@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Enter the vault.",
-	pageId = 1338,
 	timestamp = "1265667452",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1339,
 	},
 	previous = 1337,
+	page_id = 1338,
+	long_title = false,
 }

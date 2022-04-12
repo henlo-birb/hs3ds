@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3828,
 	timestamp = "1307511675",
 	flag = {},
 	media = {
@@ -12,19 +11,56 @@ return {
 			0,
 			0,
 		},
-		"But not outmatched. ",
+		"But not outmatched.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As one who shares the Slayer's source of power, my projection must give him the unambiguous advantage. But even so...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As one who shares the Slayer's source\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of power, my projection must give him\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the unambiguous advantage. But even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so...\
+",
 	},
 	next = {
 		3829,
 	},
 	previous = 3827,
 	theme = "scratch",
+	page_id = 3828,
+	long_title = false,
 }

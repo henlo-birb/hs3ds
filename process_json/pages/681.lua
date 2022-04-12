@@ -1,6 +1,5 @@
 return {
 	title = "WV: Clear out all the cans inside the purple machine.",
-	pageId = 681,
 	timestamp = "1253764806",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		682,
 	},
 	previous = 680,
+	page_id = 681,
+	long_title = true,
 }

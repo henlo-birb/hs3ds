@@ -1,6 +1,5 @@
 return {
 	title = "WHAT ABOUT THAT CARD.",
-	pageId = 407,
 	timestamp = "1248748774",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"It seems the SHALE IMP had allocated the BUNNY to its STRIFE SPECIBUS.",
+		"It seems the SHALE IMP had allocated\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the BUNNY to its STRIFE SPECIBUS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sort of a stupid thing to use for a weapon, but you might as well grab it, and stick the BUNNY in your STRIFE DECK while you're at it. It will at the very least be safer there.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sort of a stupid thing to use for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon, but you might as well grab it,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and stick the BUNNY in your STRIFE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DECK while you're at it. It will at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the very least be safer there.\
+",
 	},
 	next = {
 		408,
 	},
 	previous = 406,
+	page_id = 407,
+	long_title = false,
 }

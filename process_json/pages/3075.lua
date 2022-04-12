@@ -1,6 +1,5 @@
 return {
 	title = "Heir: Level up.",
-	pageId = 3075,
 	timestamp = "1292293652",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3076,
 	},
 	previous = 3074,
+	page_id = 3075,
+	long_title = false,
 }

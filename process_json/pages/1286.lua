@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Stab first, utter puns later.",
-	pageId = 1286,
 	timestamp = "1265051798",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1287,
 	},
 	previous = 1285,
+	page_id = 1286,
+	long_title = true,
 }

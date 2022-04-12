@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4190,
 	timestamp = "1321938239",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Yeah, just like you thought. Empty. The thing is out there somewhere. Waiting for you. Oh god.",
+		"Yeah, just like you thought. Empty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The thing is out there somewhere.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Waiting for you. Oh god.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Speak of the devil fucking dickens.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Speak of the devil fucking dickens.\
+",
 	},
 	next = {
 		4191,
 	},
 	previous = 4189,
+	page_id = 4190,
+	long_title = false,
 }

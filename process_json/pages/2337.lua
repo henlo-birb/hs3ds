@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Captchalogue that thing.",
-	pageId = 2337,
 	timestamp = "1280768814",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2338,
 	},
 	previous = 2336,
+	page_id = 2337,
+	long_title = false,
 }

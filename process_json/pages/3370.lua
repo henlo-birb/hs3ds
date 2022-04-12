@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Draw outline.",
-	pageId = 3370,
 	timestamp = "1296105590",
 	flag = {
 		"R6",
@@ -93,4 +92,6 @@ return {
 		3371,
 	},
 	previous = 3369,
+	page_id = 3370,
+	long_title = false,
 }

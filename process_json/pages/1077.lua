@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Grab your harpoon gun.",
-	pageId = 1077,
 	timestamp = "1262143340",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1078,
 	},
 	previous = 1076,
+	page_id = 1077,
+	long_title = false,
 }

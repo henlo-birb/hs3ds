@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Upgrade alchemiter with holopad.",
-	pageId = 1567,
 	timestamp = "1267998728",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		1568,
 	},
 	previous = 1566,
+	page_id = 1567,
+	long_title = true,
 }

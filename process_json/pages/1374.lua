@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw Lunchtop.",
-	pageId = 1374,
 	timestamp = "1265958121",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1375,
 	},
 	previous = 1373,
+	page_id = 1374,
+	long_title = false,
 }

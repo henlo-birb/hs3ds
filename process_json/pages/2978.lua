@@ -1,6 +1,5 @@
 return {
 	title = "BUT I MUST URGE YOU TO ADDRESS THIS DANGER.",
-	pageId = 2978,
 	timestamp = "1291312314",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2979,
 	},
 	previous = 2977,
+	page_id = 2978,
+	long_title = true,
 }

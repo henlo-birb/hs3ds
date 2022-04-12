@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 750,
 	timestamp = "1254764566",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You release your blinky new friend. You will give her a name when something suitably whimsical occurs to you.",
+		"You release your blinky new friend.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will give her a name when\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something suitably whimsical occurs to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you.\
+",
 	},
 	next = {
 		751,
 	},
 	previous = 749,
+	page_id = 750,
+	long_title = false,
 }

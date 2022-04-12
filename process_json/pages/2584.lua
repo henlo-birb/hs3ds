@@ -1,6 +1,5 @@
 return {
 	title = "DD: Move this along.",
-	pageId = 2584,
 	timestamp = "1284086287",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2585,
 	},
 	previous = 2583,
+	page_id = 2584,
+	long_title = false,
 }

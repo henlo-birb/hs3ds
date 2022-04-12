@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Deploy smelloscope.",
-	pageId = 2745,
 	timestamp = "1286846195",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You make use of your trusty SMELLOSCOPE, an item you crafted during your adventure. It came in handy so many times.",
+		"You make use of your trusty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SMELLOSCOPE, an item you crafted\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"during your adventure. It came in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handy so many times.\
+",
 	},
 	next = {
 		2746,
 	},
 	previous = 2744,
+	page_id = 2745,
+	long_title = false,
 }

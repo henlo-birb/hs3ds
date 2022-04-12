@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5708,
 	timestamp = "1357689947",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"It looks so delicious. You are presumably being compelled to lick the sucker by some powerful juju enchantment. But it's making you nervous. You must resist!",
+		"It looks so delicious. You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"presumably being compelled to lick the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sucker by some powerful juju\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enchantment. But it's making you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nervous. You must resist!\
+",
 	},
 	next = {
 		5709,
 	},
 	previous = 5707,
+	page_id = 5708,
+	long_title = false,
 }

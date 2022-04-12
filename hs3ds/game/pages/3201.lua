@@ -1,6 +1,5 @@
 return {
 	title = "Jade: View Davesprite.",
-	pageId = 3201,
 	timestamp = "1293743371",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"The goggles zero in on a pendant. Which is... covered in blood?",
+		"The goggles zero in on a pendant.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Which is... covered in blood?\
+",
 	},
 	next = {
 		3202,
 	},
 	previous = 3200,
+	page_id = 3201,
+	long_title = false,
 }

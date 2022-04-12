@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Be the troll girl.",
-	pageId = 2693,
 	timestamp = "1285797719",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2694,
 	},
 	previous = 2692,
+	page_id = 2693,
+	long_title = false,
 }

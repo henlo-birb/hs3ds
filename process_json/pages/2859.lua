@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy cruxtruder.",
-	pageId = 2859,
 	timestamp = "1289676739",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2860,
 	},
 	previous = 2858,
+	page_id = 2859,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Put the bunny back in the box.",
-	pageId = 1711,
 	timestamp = "1271738378",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1712,
 	},
 	previous = 1710,
+	page_id = 1711,
+	long_title = true,
 }

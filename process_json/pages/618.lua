@@ -1,6 +1,5 @@
 return {
 	title = "John: Repeat process with other cards and dowels.",
-	pageId = 618,
 	timestamp = "1252560759",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		619,
 	},
 	previous = 617,
+	page_id = 618,
+	long_title = true,
 }

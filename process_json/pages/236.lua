@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Try to connect!",
-	pageId = 236,
 	timestamp = "1244010347",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		237,
 	},
 	previous = 235,
+	page_id = 236,
+	long_title = false,
 }

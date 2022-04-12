@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7882,
 	timestamp = "1437432744",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: jade?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: jade?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: anybody??",
+		"CALLIOPE: anybody??\
+",
 	},
 	next = {
 		7883,
 	},
 	previous = 7881,
+	page_id = 7882,
+	long_title = false,
 }

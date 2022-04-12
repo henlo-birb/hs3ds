@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Enter name.",
-	pageId = 2770,
 	timestamp = "1287093624",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You cannot name him yet, no matter how inthufferable you find this coolkid to be! You will need to wait until his wriggling day, when he turns six solar sweeps.",
+		"You cannot name him yet, no matter how\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inthufferable you find this coolkid to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be! You will need to wait until his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wriggling day, when he turns six solar\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sweeps.\
+",
 	},
 	next = {
 		2771,
 	},
 	previous = 2769,
+	page_id = 2770,
+	long_title = false,
 }

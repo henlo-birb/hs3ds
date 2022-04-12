@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine plush puppet tux + Midnight Crew poster.",
-	pageId = 1834,
 	timestamp = "1273787056",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		1835,
 	},
 	previous = 1833,
+	page_id = 1834,
+	long_title = true,
 }

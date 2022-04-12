@@ -1,6 +1,5 @@
 return {
 	title = "John: Turn on \"detect collisions\".",
-	pageId = 628,
 	timestamp = "1252699010",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You flip your FETCH MODI but find no such option.",
+		"You flip your FETCH MODI but find no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"such option.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This is idiotic.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This is idiotic.\
+",
 	},
 	next = {
 		629,
 	},
 	previous = 627,
+	page_id = 628,
+	long_title = true,
 }

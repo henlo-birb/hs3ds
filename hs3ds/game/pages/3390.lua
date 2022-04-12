@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3390,
 	timestamp = "1296245606",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/IS.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/IS.gif\"/>\
+",
 	},
 	next = {
 		3391,
 	},
 	previous = 3389,
+	page_id = 3390,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Proceed through door uneventfully.",
-	pageId = 1749,
 	timestamp = "1272078277",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1750,
 	},
 	previous = 1748,
+	page_id = 1749,
+	long_title = true,
 }

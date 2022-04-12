@@ -1,6 +1,5 @@
 return {
 	title = "THEN HE STARTED CLIMBING THE GOD TIERS.",
-	pageId = 6246,
 	timestamp = "1371078917",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 6245,
 	theme = "A6A6",
+	page_id = 6246,
+	long_title = true,
 }

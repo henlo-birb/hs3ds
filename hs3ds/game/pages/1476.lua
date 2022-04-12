@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Retrieve package.",
-	pageId = 1476,
 	timestamp = "1266978988",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You conclude you have no choice. You will march right up to him and ask politely for the package.",
+		"You conclude you have no choice. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"will march right up to him and ask\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"politely for the package.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait a minute...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's this?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait a minute...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's this?\
+",
 	},
 	next = {
 		1477,
 	},
 	previous = 1475,
+	page_id = 1476,
+	long_title = false,
 }

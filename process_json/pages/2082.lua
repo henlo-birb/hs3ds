@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Recruit team leader.",
-	pageId = 2082,
 	timestamp = "1277336079",
 	flag = {},
 	media = {
@@ -1832,4 +1831,6 @@ return {
 		2083,
 	},
 	previous = 2081,
+	page_id = 2082,
+	long_title = false,
 }

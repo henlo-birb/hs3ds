@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, in the past again.",
-	pageId = 381,
 	timestamp = "1247719550",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		382,
 	},
 	previous = 380,
+	page_id = 381,
+	long_title = false,
 }

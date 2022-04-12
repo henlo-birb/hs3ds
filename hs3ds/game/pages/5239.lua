@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5239,
 	timestamp = "1341857150",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		5240,
 	},
 	previous = 5238,
+	page_id = 5239,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Now.",
-	pageId = 4902,
 	timestamp = "1335930995",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Your clumsy fist accidentally flies through the bars, knocking out a passer-by. Keys from his key ring jangle on the floor.",
+		"Your clumsy fist accidentally flies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the bars, knocking out a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"passer-by. Keys from his key ring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jangle on the floor.\
+",
 	},
 	next = {
 		4903,
 	},
 	previous = 4901,
+	page_id = 4902,
+	long_title = false,
 }

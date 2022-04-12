@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy beloved daughter.",
-	pageId = 1713,
 	timestamp = "1271801783",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		1714,
 	},
 	previous = 1712,
+	page_id = 1713,
+	long_title = false,
 }

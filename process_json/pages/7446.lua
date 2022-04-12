@@ -1,6 +1,5 @@
 return {
 	title = "IT WILL BE TIME, INDEED, FOR ME TO GET...",
-	pageId = 7446,
 	timestamp = "1429068390",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 7445,
 	theme = "A6A6",
+	page_id = 7446,
+	long_title = true,
 }

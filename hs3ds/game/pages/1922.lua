@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Fast forward.",
-	pageId = 1922,
 	timestamp = "1274671037",
 	flag = {},
 	media = {
@@ -13,10 +12,55 @@ return {
 			0,
 			0,
 		},
-		"Thirteen years later, the boy develops a taste for adventure. He and his guardian bid farewell. His sister is sad. She will be left all alone with the wicked pastry baroness. She can handle it, he tells her. He believes in her.",
+		"Thirteen years later, the boy develops\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a taste for adventure. He and his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guardian bid farewell. His sister is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sad. She will be left all alone with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the wicked pastry baroness. She can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"handle it, he tells her. He believes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in her.\
+",
 	},
 	next = {
 		1923,
 	},
 	previous = 1921,
+	page_id = 1922,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Use the razor on the red package.",
-	pageId = 131,
 	timestamp = "1241769558",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		132,
 	},
 	previous = 130,
+	page_id = 131,
+	long_title = true,
 }

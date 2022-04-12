@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Just a taste.",
-	pageId = 2339,
 	timestamp = "1280768896",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2340,
 	},
 	previous = 2338,
+	page_id = 2339,
+	long_title = false,
 }

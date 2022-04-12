@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Just go stab Sawbuck until the time shenanigans stop",
-	pageId = 1277,
 	timestamp = "1264860926",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1278,
 	},
 	previous = 1276,
+	page_id = 1277,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5839,
 	timestamp = "1360194351",
 	flag = {
 		"X2COMBO",
@@ -16,24 +15,41 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: That's weird.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: That's weird.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: I can feel it too this time.",
+		"TT: I can feel it too this time.\
+",
 	},
 	next = {
 		5840,
 	},
 	previous = 5838,
+	page_id = 5839,
+	long_title = false,
 }

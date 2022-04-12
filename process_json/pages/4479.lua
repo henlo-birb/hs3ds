@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Get little ray gun.",
-	pageId = 4479,
 	timestamp = "1326869017",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		4480,
 	},
 	previous = 4478,
+	page_id = 4479,
+	long_title = false,
 }

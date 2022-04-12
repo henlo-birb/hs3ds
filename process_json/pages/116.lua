@@ -1,6 +1,5 @@
 return {
 	title = "John: Read Data Structures book.",
-	pageId = 116,
 	timestamp = "1241497812",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		117,
 	},
 	previous = 115,
+	page_id = 116,
+	long_title = false,
 }

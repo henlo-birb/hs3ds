@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Grab the Eldritch Princess.",
-	pageId = 363,
 	timestamp = "1247340242",
 	flag = {},
 	media = {
@@ -12,26 +11,139 @@ return {
 			0,
 			0,
 		},
-		"It's too big to captchalogue!",
+		"It's too big to captchalogue!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Not that you would want to move it anyway. The PRETTY PRINCESS DOLL has been sitting there for months, ever since your mother got this abomination for your birthday as a totally PASSIVE-AGGRESSIVE gesture.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You decided to make it much less abominable by knitting Her Majesty a new head and new arms. Now it brings a mischievous smile to your face whenever you walk by. Your mother hasn't removed the doll yet, and probably never will. She would never be the one to blink first.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Not that you would want to move it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anyway. The PRETTY PRINCESS DOLL has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been sitting there for months, ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"since your mother got this abomination\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for your birthday as a totally\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PASSIVE-AGGRESSIVE gesture.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You decided to make it much less\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abominable by knitting Her Majesty a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new head and new arms. Now it brings a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mischievous smile to your face\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whenever you walk by. Your mother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hasn't removed the doll yet, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"probably never will. She would never\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"be the one to blink first.\
+",
 	},
 	next = {
 		364,
 	},
 	previous = 362,
+	page_id = 363,
+	long_title = true,
 }

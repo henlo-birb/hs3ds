@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5790,
 	timestamp = "1359365326",
 	flag = {
 		"X2COMBO",
@@ -14,43 +13,69 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-timaeusTestified [TT]",
+		"timaeusTestified [TT]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ",
+		"began pestering\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"gutsyGumshoe [GG]",
+		"gutsyGumshoe [GG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Jane.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Jane.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: What.",
+		"GG: What.\
+",
 	},
 	next = {
 		5791,
 	},
 	previous = 5789,
+	page_id = 5790,
+	long_title = false,
 }

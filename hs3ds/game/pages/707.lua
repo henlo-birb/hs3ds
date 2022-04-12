@@ -1,6 +1,5 @@
 return {
 	title = "WV: Press Tab.",
-	pageId = 707,
 	timestamp = "1254115428",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		708,
 	},
 	previous = 706,
+	page_id = 707,
+	long_title = false,
 }

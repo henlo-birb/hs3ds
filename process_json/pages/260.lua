@@ -1,6 +1,5 @@
 return {
 	title = "JOHN. RECYCLE THE GRIST AS WAS DICTATED BY YOUR COHORT.",
-	pageId = 260,
 	timestamp = "1245127220",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		261,
 	},
 	previous = 259,
+	page_id = 260,
+	long_title = true,
 }

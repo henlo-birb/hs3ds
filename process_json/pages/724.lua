@@ -1,6 +1,5 @@
 return {
 	title = "WV: Go outside and get some sun.",
-	pageId = 724,
 	timestamp = "1254540712",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		725,
 	},
 	previous = 723,
+	page_id = 724,
+	long_title = false,
 }

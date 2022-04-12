@@ -1,6 +1,5 @@
 return {
 	title = "[o] Even atrocious candy bowl etiquette.",
-	pageId = 3863,
 	timestamp = "1308276517",
 	flag = {},
 	media = {
@@ -56,4 +55,6 @@ return {
 	},
 	previous = 3862,
 	theme = "scratch",
+	page_id = 3863,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6566,
 	timestamp = "1378351986",
 	flag = {},
 	media = {
@@ -12,45 +11,83 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: nubs mcshouty\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: nubs mcshouty",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: come in shouty\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: come in shouty",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: do you read me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: do you read me",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHAT?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WHO'S THERE.",
+		"KARKAT: WHO'S THERE.\
+",
 	},
 	next = {
 		6567,
 	},
 	previous = 6565,
+	page_id = 6566,
+	long_title = false,
 }

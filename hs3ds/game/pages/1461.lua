@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1461,
 	timestamp = "1266878929",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You stop in your tracks. It is a dangerous AGENT from the enemy kingdom. Perhaps you should avoid him.",
+		"You stop in your tracks. It is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dangerous AGENT from the enemy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kingdom. Perhaps you should avoid him.\
+",
 	},
 	next = {
 		1462,
 	},
 	previous = 1460,
+	page_id = 1461,
+	long_title = false,
 }

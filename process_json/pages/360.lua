@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Psychoanalyze mother's love of wizards.",
-	pageId = 360,
 	timestamp = "1247301553",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		361,
 	},
 	previous = 359,
+	page_id = 360,
+	long_title = true,
 }

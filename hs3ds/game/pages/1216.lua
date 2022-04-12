@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Stop being SS.",
-	pageId = 1216,
 	timestamp = "1264123208",
 	flag = {},
 	media = {
@@ -12,18 +11,83 @@ return {
 			0,
 			0,
 		},
-		"You stop not being Hearts Boxcars.",
+		"You stop not being Hearts Boxcars.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have made your way to the Felt's SECRET VAULT. It's bigger than you were expecting. You doubt you will be able to rely on your usual safe-cracking method, which is prying it from the wall with your bare hands. You'll have to think of something else.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have made your way to the Felt's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SECRET VAULT. It's bigger than you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were expecting. You doubt you will be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"able to rely on your usual\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"safe-cracking method, which is prying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it from the wall with your bare hands.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll have to think of something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"else.\
+",
 	},
 	next = {
 		1217,
 	},
 	previous = 1215,
+	page_id = 1216,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw conksuck boot.",
-	pageId = 3142,
 	timestamp = "1293234138",
 	flag = {},
 	media = {
@@ -147,4 +146,6 @@ return {
 		3143,
 	},
 	previous = 3141,
+	page_id = 3142,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Appearify the grate over the entrance to the facility.",
-	pageId = 753,
 	timestamp = "1254778787",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		754,
 	},
 	previous = 752,
+	page_id = 753,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Make her pay.",
-	pageId = 2245,
 	timestamp = "1279247617",
 	flag = {},
 	media = {
@@ -174,4 +173,6 @@ return {
 		2246,
 	},
 	previous = 2244,
+	page_id = 2245,
+	long_title = false,
 }

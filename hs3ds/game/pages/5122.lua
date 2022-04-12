@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Exit.",
-	pageId = 5122,
 	timestamp = "1340259737",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You step into the sunlight. ",
+		"You step into the sunlight.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sunlight, on this planet, is sort of hard to avoid.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sunlight, on this planet, is sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hard to avoid.\
+",
 	},
 	next = {
 		5123,
 	},
 	previous = 5121,
+	page_id = 5122,
+	long_title = false,
 }

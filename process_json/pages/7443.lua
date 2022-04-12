@@ -1,6 +1,5 @@
 return {
 	title = "I THINK HE THOUGHT HE COULD DESTROY MY SOUL.",
-	pageId = 7443,
 	timestamp = "1429068159",
 	flag = {
 		"F",
@@ -169,4 +168,6 @@ return {
 	},
 	previous = 7442,
 	theme = "A6A6",
+	page_id = 7443,
+	long_title = true,
 }

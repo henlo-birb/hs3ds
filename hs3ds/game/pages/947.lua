@@ -1,6 +1,5 @@
 return {
 	title = "John: Snoop.",
-	pageId = 947,
 	timestamp = "1259800823",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Aw yeah, here come the secrets. Get ready for some MAJOR revela...",
+		"Aw yeah, here come the secrets. Get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ready for some MAJOR revela...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait a minute. These are just boring business documents and spreadsheets.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What the hell is going on here???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait a minute. These are just boring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"business documents and spreadsheets.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What the hell is going on here???\
+",
 	},
 	next = {
 		948,
 	},
 	previous = 946,
+	page_id = 947,
+	long_title = false,
 }

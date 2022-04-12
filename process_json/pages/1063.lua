@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Ghost Dad poster with...",
-	pageId = 1063,
 	timestamp = "1261468697",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1064,
 	},
 	previous = 1062,
+	page_id = 1063,
+	long_title = true,
 }

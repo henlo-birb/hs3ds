@@ -1,6 +1,5 @@
 return {
 	title = "mister john, respectfully ask that you please stand up.",
-	pageId = 500,
 	timestamp = "1250640872",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		501,
 	},
 	previous = 499,
+	page_id = 500,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Crowbar. Biscuits' oven. Make it hapen.",
-	pageId = 1318,
 	timestamp = "1265412578",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1319,
 	},
 	previous = 1317,
+	page_id = 1318,
+	long_title = true,
 }

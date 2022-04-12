@@ -1,6 +1,5 @@
 return {
 	title = "Enter name.",
-	pageId = 215,
 	timestamp = "1243491415",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"No, that wasn't it!",
+		"No, that wasn't it!\
+",
 	},
 	next = {
 		216,
 	},
 	previous = 214,
+	page_id = 215,
+	long_title = false,
 }

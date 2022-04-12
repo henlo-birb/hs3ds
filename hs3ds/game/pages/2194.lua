@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Be the huge bitch.",
-	pageId = 2194,
 	timestamp = "1278725385",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Bluh bluh.",
+		"Bluh bluh.\
+",
 	},
 	next = {
 		2195,
 	},
 	previous = 2193,
+	page_id = 2194,
+	long_title = false,
 }

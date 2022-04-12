@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2271,
 	timestamp = "1279421064",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Seven of the FLUORITE OCTET land, narrowing the field down from the full 8^8. ",
+		"Seven of the FLUORITE OCTET land,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"narrowing the field down from the full\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"8^8.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-One tumbles through the air. It will decide among the eight remaining techniques.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"One tumbles through the air. It will\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decide among the eight remaining\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"techniques.\
+",
 	},
 	next = {
 		2272,
 	},
 	previous = 2270,
+	page_id = 2271,
+	long_title = false,
 }

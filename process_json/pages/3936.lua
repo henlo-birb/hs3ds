@@ -1,6 +1,5 @@
 return {
 	title = "[o] Oh, wonderful. Another interruption.",
-	pageId = 3936,
 	timestamp = "1310675175",
 	flag = {
 		"F",
@@ -113,4 +112,6 @@ return {
 	},
 	previous = 3895,
 	theme = "scratch",
+	page_id = 3936,
+	long_title = true,
 }

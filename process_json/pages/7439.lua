@@ -1,6 +1,5 @@
 return {
 	title = "SO I GET UP. AND...",
-	pageId = 7439,
 	timestamp = "1429067781",
 	flag = {
 		"F",
@@ -218,4 +217,6 @@ return {
 	},
 	previous = 7438,
 	theme = "A6A6",
+	page_id = 7439,
+	long_title = false,
 }

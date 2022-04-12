@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Stop being the other girl and pester John again.",
-	pageId = 841,
 	timestamp = "1257561676",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		842,
 	},
 	previous = 840,
+	page_id = 841,
+	long_title = true,
 }

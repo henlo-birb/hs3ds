@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3217,
 	timestamp = "1293830402",
 	flag = {},
 	media = {
@@ -12,23 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JADESPRITE:",
+		"JADESPRITE:\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/whatdidyoudo.gif\"/>\
+",
 	},
 	next = {
 		3218,
 	},
 	previous = 3216,
+	page_id = 3217,
+	long_title = false,
 }

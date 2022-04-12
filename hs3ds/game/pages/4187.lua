@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Wear skulltop.",
-	pageId = 4187,
 	timestamp = "1321911526",
 	flag = {},
 	media = {
@@ -12,18 +11,97 @@ return {
 			0,
 			0,
 		},
-		"Much better. You look like you mean business.",
+		"Much better. You look like you mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"business.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hmm, no sign of Lalonde online. No surprise there. You wonder if Jane knows where your bro's at? You should try to cool your jets before talking to her. Today is a special day she's been looking forward to for a long time, and she's probably on cloud nine. You wouldn't want to ruin it for her.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hmm, no sign of Lalonde online. No\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surprise there. You wonder if Jane\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"knows where your bro's at? You should\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"try to cool your jets before talking\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to her. Today is a special day she's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been looking forward to for a long\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time, and she's probably on cloud\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nine. You wouldn't want to ruin it for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her.\
+",
 	},
 	next = {
 		4188,
 	},
 	previous = 4186,
+	page_id = 4187,
+	long_title = false,
 }

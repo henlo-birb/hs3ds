@@ -1,6 +1,5 @@
 return {
 	title = "YOU MAY RECOLLECT. THAT THIS BLUSHING BISHONEN DREAM BOAT.",
-	pageId = 6865,
 	timestamp = "1413620578",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 	},
 	previous = 6864,
 	theme = "A6A6",
+	page_id = 6865,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "STUPID STUPID DUMB",
-	pageId = 437,
 	timestamp = "1249358757",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		438,
 	},
 	previous = 436,
+	page_id = 437,
+	long_title = false,
 }

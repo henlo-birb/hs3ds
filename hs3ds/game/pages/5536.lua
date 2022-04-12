@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Abscond.",
-	pageId = 5536,
 	timestamp = "1354604570",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: HOME!!!",
+		"JANE: HOME!!!\
+",
 	},
 	next = {
 		5537,
 	},
 	previous = 5535,
+	page_id = 5536,
+	long_title = false,
 }

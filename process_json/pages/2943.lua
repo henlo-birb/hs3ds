@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine fourth station.",
-	pageId = 2943,
 	timestamp = "1291088699",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		2944,
 	},
 	previous = 2942,
+	page_id = 2943,
+	long_title = false,
 }

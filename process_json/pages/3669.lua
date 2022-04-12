@@ -1,6 +1,5 @@
 return {
 	title = "John: Reunite with Liv Tyler.",
-	pageId = 3669,
 	timestamp = "1300768152",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		3670,
 	},
 	previous = 3668,
+	page_id = 3669,
+	long_title = false,
 }

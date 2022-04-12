@@ -1,6 +1,5 @@
 return {
 	title = "PM: Miraculously survive.",
-	pageId = 921,
 	timestamp = "1259448310",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		922,
 	},
 	previous = 920,
+	page_id = 921,
+	long_title = false,
 }

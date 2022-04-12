@@ -1,6 +1,5 @@
 return {
 	title = "John: Put cruxite on weird pattern on alchemiter.",
-	pageId = 191,
 	timestamp = "1242955097",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		192,
 	},
 	previous = 190,
+	page_id = 191,
+	long_title = true,
 }

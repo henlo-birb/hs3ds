@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Get hassled.",
-	pageId = 2804,
 	timestamp = "1288226922",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2805,
 	},
 	previous = 2803,
+	page_id = 2804,
+	long_title = false,
 }

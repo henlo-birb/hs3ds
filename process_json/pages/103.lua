@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine the cakes to make a double decker cake.",
-	pageId = 103,
 	timestamp = "1241212026",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		104,
 	},
 	previous = 102,
+	page_id = 103,
+	long_title = true,
 }

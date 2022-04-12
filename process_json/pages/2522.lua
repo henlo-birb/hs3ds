@@ -1,6 +1,5 @@
 return {
 	title = "8th exile: Type \"=> SWITCH 2\".",
-	pageId = 2522,
 	timestamp = "1282713657",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		2523,
 	},
 	previous = 2521,
+	page_id = 2522,
+	long_title = false,
 }

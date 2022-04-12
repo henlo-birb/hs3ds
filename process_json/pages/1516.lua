@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Attempt to deploy catchalogue disk drive.",
-	pageId = 1516,
 	timestamp = "1267400205",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1517,
 	},
 	previous = 1515,
+	page_id = 1516,
+	long_title = true,
 }

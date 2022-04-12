@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Change wardrobifier to cycle thru STAR HEART HORSESHOE",
-	pageId = 1027,
 	timestamp = "1261178296",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Ok, good idea.",
+		"Ok, good idea.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You leave the MOON in the cycle though cause you like it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You leave the MOON in the cycle though\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cause you like it.\
+",
 	},
 	next = {
 		1028,
 	},
 	previous = 1026,
+	page_id = 1027,
+	long_title = true,
 }

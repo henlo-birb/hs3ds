@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Give Jaspersprite laptop.",
-	pageId = 2815,
 	timestamp = "1288418510",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2816,
 	},
 	previous = 2814,
+	page_id = 2815,
+	long_title = false,
 }

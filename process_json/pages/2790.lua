@@ -1,6 +1,5 @@
 return {
 	title = "John and Dave: Respond to memo.",
-	pageId = 2790,
 	timestamp = "1287556755",
 	flag = {},
 	media = {
@@ -5073,4 +5072,6 @@ return {
 		2791,
 	},
 	previous = 2789,
+	page_id = 2790,
+	long_title = false,
 }

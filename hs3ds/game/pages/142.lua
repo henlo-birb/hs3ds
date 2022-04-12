@@ -1,6 +1,5 @@
 return {
 	title = "John: Get the card.",
-	pageId = 142,
 	timestamp = "1242180948",
 	flag = {},
 	media = {
@@ -13,18 +12,62 @@ return {
 			0,
 			0,
 		},
-		"You find your missing STACK FETCH MODUS, and quickly reapply it to your SYLLADEX. You can now opt for either the STACK or QUEUE modus any time.",
+		"You find your missing STACK FETCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MODUS, and quickly reapply it to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SYLLADEX. You can now opt for either\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the STACK or QUEUE modus any time.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You toggle between your FETCH MODI with gleeful abandon.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You toggle between your FETCH MODI\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with gleeful abandon.\
+",
 	},
 	next = {
 		143,
 	},
 	previous = 141,
+	page_id = 142,
+	long_title = false,
 }

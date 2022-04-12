@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Examine chest.",
-	pageId = 5115,
 	timestamp = "1340235614",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"This is your JUJU CHEST.",
+		"This is your JUJU CHEST.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You keep your JUJU inside it, surprisingly enough.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You keep your JUJU inside it,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surprisingly enough.\
+",
 	},
 	next = {
 		5116,
 	},
 	previous = 5114,
+	page_id = 5115,
+	long_title = false,
 }

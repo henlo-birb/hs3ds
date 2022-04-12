@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine portrait.",
-	pageId = 4196,
 	timestamp = "1322022193",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		4197,
 	},
 	previous = 4195,
+	page_id = 4196,
+	long_title = false,
 }

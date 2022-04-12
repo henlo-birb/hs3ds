@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1326,
 	timestamp = "1265508287",
 	flag = {},
 	media = {
@@ -12,22 +11,48 @@ return {
 			0,
 			0,
 		},
-		"What's this? Hee hee! You think you can shoot ",
+		"What's this? Hee hee! You think you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can shoot\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"? He is so lucky the gun will probably jam or something predictable like that. Nice try though!",
+		"? He is so lucky the gun will probably\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"jam or something predictable like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that. Nice try though!\
+",
 	},
 	next = {
 		1327,
 	},
 	previous = 1325,
+	page_id = 1326,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "THE PURPLE TEXT IS LESS IRRATIONAL THAN THE RED TEXT.",
-	pageId = 289,
 	timestamp = "1245710226",
 	flag = {},
 	media = {
@@ -180,4 +179,6 @@ return {
 		290,
 	},
 	previous = 288,
+	page_id = 289,
+	long_title = true,
 }

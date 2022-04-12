@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Equip chainsaw.",
-	pageId = 2324,
 	timestamp = "1280616591",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2325,
 	},
 	previous = 2323,
+	page_id = 2324,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Fiddle with the dials.",
-	pageId = 743,
 	timestamp = "1254706583",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		744,
 	},
 	previous = 742,
+	page_id = 743,
+	long_title = false,
 }

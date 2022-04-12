@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Finish building.",
-	pageId = 1081,
 	timestamp = "1262226198",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Architectural perfection.",
+		"Architectural perfection.\
+",
 	},
 	next = {
 		1082,
 	},
 	previous = 1080,
+	page_id = 1081,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Attempt to ingest a unit of build grist.",
-	pageId = 199,
 	timestamp = "1243129453",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		200,
 	},
 	previous = 198,
+	page_id = 199,
+	long_title = true,
 }

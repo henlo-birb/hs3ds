@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 6973,
 	timestamp = "1415340003",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: what happened to rose?",
+		"JOHN: what happened to rose?\
+",
 	},
 	next = {
 		6974,
 	},
 	previous = 6972,
+	page_id = 6973,
+	long_title = false,
 }

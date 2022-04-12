@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Check clock.",
-	pageId = 4137,
 	timestamp = "1321253392",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		4138,
 	},
 	previous = 4136,
+	page_id = 4137,
+	long_title = false,
 }

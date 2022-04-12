@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Behold zoological splendor.",
-	pageId = 4247,
 	timestamp = "1322715383",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		4248,
 	},
 	previous = 4246,
+	page_id = 4247,
+	long_title = true,
 }

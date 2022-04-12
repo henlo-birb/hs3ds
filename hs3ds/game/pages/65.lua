@@ -1,6 +1,5 @@
 return {
 	title = "John: Attach arms to doll.",
-	pageId = 65,
 	timestamp = "1240192624",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Hehehehehehehehe.",
+		"Hehehehehehehehe.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't care what COLONEL SASSACRE says, that makes it AT LEAST a million percent funnier.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't care what COLONEL SASSACRE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"says, that makes it AT LEAST a million\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"percent funnier.\
+",
 	},
 	next = {
 		66,
 	},
 	previous = 64,
+	page_id = 65,
+	long_title = false,
 }

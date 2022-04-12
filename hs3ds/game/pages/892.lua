@@ -1,6 +1,5 @@
 return {
 	title = "You are now...",
-	pageId = 892,
 	timestamp = "1258915276",
 	flag = {},
 	media = {
@@ -12,26 +11,90 @@ return {
 			0,
 			0,
 		},
-		"The Peregrine Mendicant.",
+		"The Peregrine Mendicant.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are flying westward in your peculiar mobile station. You have no sense of your bearings presently. The door is blocked by a metal column which extended through the entry shaft before liftoff.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What will you do?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are flying westward in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"peculiar mobile station. You have no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sense of your bearings presently. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"door is blocked by a metal column\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which extended through the entry shaft\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"before liftoff.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What will you do?\
+",
 	},
 	next = {
 		893,
 	},
 	previous = 891,
+	page_id = 892,
+	long_title = false,
 }

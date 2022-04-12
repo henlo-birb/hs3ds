@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Back to the window!",
-	pageId = 4142,
 	timestamp = "1321353452",
 	flag = {},
 	media = {
@@ -12,10 +11,76 @@ return {
 			0,
 			0,
 		},
-		"Nope, still nothing. You surely would have heard the truck pull up. You guess the empire wasn't able to coordinate the mail with its rebranding. Maybe the U.S. Postal Service is the one thing it doesn't have its gnarled claws in yet? (Another mental note: sink gnarled claws into post office when you take over.)",
+		"Nope, still nothing. You surely would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have heard the truck pull up. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guess the empire wasn't able to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coordinate the mail with its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rebranding. Maybe the U.S. Postal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Service is the one thing it doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have its gnarled claws in yet?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(Another mental note: sink gnarled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"claws into post office when you take\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"over.)\
+",
 	},
 	next = {
 		4143,
 	},
 	previous = 4141,
+	page_id = 4142,
+	long_title = false,
 }

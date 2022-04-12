@@ -1,6 +1,5 @@
 return {
 	title = "END OF ACT 1",
-	pageId = 247,
 	timestamp = "1244349923",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		248,
 	},
 	previous = 246,
+	page_id = 247,
+	long_title = false,
 }

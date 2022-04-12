@@ -1,6 +1,5 @@
 return {
 	title = "NOW REPAIR THE HAMMER.",
-	pageId = 410,
 	timestamp = "1248838791",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		411,
 	},
 	previous = 409,
+	page_id = 410,
+	long_title = false,
 }

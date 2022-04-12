@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Captchalogue nearest Squiddles doll and hug it.",
-	pageId = 795,
 	timestamp = "1256189110",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		796,
 	},
 	previous = 794,
+	page_id = 795,
+	long_title = true,
 }

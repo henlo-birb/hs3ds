@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3021,
 	timestamp = "1291776772",
 	flag = {},
 	media = {
@@ -12,66 +11,139 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: what happened in here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: what happened in here?",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: where is everything? all the globes and houseguests...",
+		"JADE: where is everything? all the\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"globes and houseguests...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: and the cruxtruder???",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: and the cruxtruder???\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: and grandpa???????????",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: and grandpa???????????\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: bec, what did you do!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: bec, what did you do!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: has someone been a bad dog??",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: has someone been a bad dog??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: wait never mind, please dont answer that!!!!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: wait never mind, please dont\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"answer that!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: @_@",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: @_@\
+",
 	},
 	next = {
 		3022,
 	},
 	previous = 3020,
+	page_id = 3021,
+	long_title = false,
 }

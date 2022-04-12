@@ -1,6 +1,5 @@
 return {
 	title = "John: Be the someone who is Jade's server player.",
-	pageId = 2858,
 	timestamp = "1289617540",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		2859,
 	},
 	previous = 2857,
+	page_id = 2858,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Type in nZ7Un6BI",
-	pageId = 527,
 	timestamp = "1251011059",
 	flag = {},
 	media = {
@@ -14,18 +13,55 @@ return {
 			0,
 			0,
 		},
-		"In the interest of due diligence, you enter the other code and repeat the process with that card too.",
+		"In the interest of due diligence, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enter the other code and repeat the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"process with that card too.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Both cards are now punched with different hole patterns.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Both cards are now punched with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"different hole patterns.\
+",
 	},
 	next = {
 		528,
 	},
 	previous = 526,
+	page_id = 527,
+	long_title = false,
 }

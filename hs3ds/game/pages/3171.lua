@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Dutton and sooth specs.",
-	pageId = 3171,
 	timestamp = "1293261711",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"You make the DUTTON BUBBLE GOGGLES!",
+		"You make the DUTTON BUBBLE GOGGLES!\
+",
 	},
 	next = {
 		3172,
 	},
 	previous = 3170,
+	page_id = 3171,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4767,
 	timestamp = "1332721348",
 	flag = {},
 	media = {
@@ -12,128 +11,398 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-arachnidsGrip [AG]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began trolling ",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"gallowsCalibrator [GC]",
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"arachnidsGrip [AG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"began trolling\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"gallowsCalibrator [GC]\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-AG: Hahahahahahahaha!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Hahahahahahahaha!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Aaaaaaaa haaaaaaaa haaaaaaaa haaaaaaaa haaa........ man, fuck this.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: It's a real pain in the ass typing out long victorious laughs with only one hand, you know?",
+		"AG: Aaaaaaaa haaaaaaaa haaaaaaaa\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"haaaaaaaa haaa........ man, fuck this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Gonna have to patch this thing up somehow. May8e I'll pay a visit to my neigh8or a little l8er.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Getting my arm fixed nearly ought to 8e worth enduring the stench. Aw yeah. Sick 8urn from outta nowhere. Take that, Zahhak.",
+		"AG: It's a real pain in the ass typing\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Haha! NEIGH8or. I can't 8elieve I only thought of that now! I 8et he'll get kick out of that.",
+		"out long victorious laughs with only\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"one hand, you know?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I 8et you even more he won't laugh though. What a 8oring piece of shit.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I know YOU would think it's funny though. Right Terezi?",
+		"AG: Gonna have to patch this thing up\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Man, I sure am glad this little feud of ours is 8asically over. We're totally even!",
+		"somehow. May8e I'll pay a visit to my\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"neigh8or a little l8er.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Now we can just go 8ack to 8eing friends, and things will 8e gr8.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Hmmmmmmmm........",
+		"AG: Getting my arm fixed nearly ought\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Hahahaha! You won't 8elieve this, 8ut it only occurred to me now that you won't even 8e a8le to read this!",
+		"to 8e worth enduring the stench. Aw\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Even if you do somehow manage to stum8le 8ack to your hive........ you're 8lind now! Whoooooooops.",
+		"yeah. Sick 8urn from outta nowhere.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"Take that, Zahhak.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: It would 8e a real shame if we couldn't 8ury the hatchet and 8e gr8 friends again 8ecause of a stupid 8ullshit reason like that.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Haha! NEIGH8or. I can't 8elieve I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"only thought of that now! I 8et he'll\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"get kick out of that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I 8et you even more he won't laugh\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"though. What a 8oring piece of shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I know YOU would think it's funny\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"though. Right Terezi?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Man, I sure am glad this little\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"feud of ours is 8asically over. We're\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"totally even!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Now we can just go 8ack to 8eing\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"friends, and things will 8e gr8.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Hmmmmmmmm........\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Hahahaha! You won't 8elieve this,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ut it only occurred to me now that\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you won't even 8e a8le to read this!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Even if you do somehow manage to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"stum8le 8ack to your hive........\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you're 8lind now! Whoooooooops.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: It would 8e a real shame if we\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"couldn't 8ury the hatchet and 8e gr8\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"friends again 8ecause of a stupid\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ullshit reason like that.\
+",
 	},
 	next = {
 		4768,
 	},
 	previous = 4766,
+	page_id = 4767,
+	long_title = false,
 }

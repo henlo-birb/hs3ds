@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Answer Eridan.",
-	pageId = 2805,
 	timestamp = "1288238726",
 	flag = {},
 	media = {
@@ -1244,4 +1243,6 @@ return {
 		2806,
 	},
 	previous = 2804,
+	page_id = 2805,
+	long_title = false,
 }

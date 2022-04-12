@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Throw down hat in disgust.",
-	pageId = 960,
 	timestamp = "1259958064",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You fully intend to once your superior stops breathing down your neck for a second.",
+		"You fully intend to once your superior\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stops breathing down your neck for a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"second.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait... ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What now?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What now?\
+",
 	},
 	next = {
 		961,
 	},
 	previous = 959,
+	page_id = 960,
+	long_title = false,
 }

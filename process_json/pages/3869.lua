@@ -1,6 +1,5 @@
 return {
 	title = "[o] To do what it is you do best.",
-	pageId = 3869,
 	timestamp = "1308540660",
 	flag = {},
 	media = {
@@ -645,4 +644,6 @@ return {
 	},
 	previous = 3868,
 	theme = "scratch",
+	page_id = 3869,
+	long_title = true,
 }

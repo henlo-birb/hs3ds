@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4008,
 	timestamp = "1312309168",
 	flag = {},
 	media = {
@@ -13,18 +12,42 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: ESPECIALLY WHEN YOU'RE BUILDING THE GENETIC CODE FOR AN ENTIRE UNIVERSE.",
+		"PCG: ESPECIALLY WHEN YOU'RE BUILDING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THE GENETIC CODE FOR AN ENTIRE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"UNIVERSE.\
+",
 	},
 	next = {
 		4009,
 	},
 	previous = 4007,
 	theme = "scratch",
+	page_id = 4008,
+	long_title = false,
 }

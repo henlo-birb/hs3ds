@@ -1,6 +1,5 @@
 return {
 	title = "DO AS THE PURPLE TEXT SAYS. TO THE BALCONY.",
-	pageId = 258,
 	timestamp = "1245127124",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		259,
 	},
 	previous = 257,
+	page_id = 258,
+	long_title = true,
 }

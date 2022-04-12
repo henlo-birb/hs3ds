@@ -1,6 +1,5 @@
 return {
 	title = "WV, PM, AR: Stargaze.",
-	pageId = 1473,
 	timestamp = "1266978882",
 	flag = {},
 	media = {
@@ -84,4 +83,6 @@ return {
 		1474,
 	},
 	previous = 1472,
+	page_id = 1473,
+	long_title = false,
 }

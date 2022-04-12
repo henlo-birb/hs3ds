@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine rifle, iron lass suit and particle accelerator",
-	pageId = 3164,
 	timestamp = "1293255015",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		3165,
 	},
 	previous = 3163,
+	page_id = 3164,
+	long_title = true,
 }

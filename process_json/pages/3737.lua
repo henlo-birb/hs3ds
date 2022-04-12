@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Hug Pyralspite.",
-	pageId = 3737,
 	timestamp = "1303428324",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		3738,
 	},
 	previous = 3736,
+	page_id = 3737,
+	long_title = false,
 }

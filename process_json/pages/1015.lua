@@ -1,6 +1,5 @@
 return {
 	title = "WV: Try to appearify the cable again.",
-	pageId = 1015,
 	timestamp = "1260820345",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1016,
 	},
 	previous = 1014,
+	page_id = 1015,
+	long_title = true,
 }

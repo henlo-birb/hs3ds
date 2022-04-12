@@ -1,6 +1,5 @@
 return {
 	title = "DD: Proceed to solitary confinement suite.",
-	pageId = 5566,
 	timestamp = "1355193439",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Going up.",
+		"Going up.\
+",
 	},
 	next = {
 		5567,
 	},
 	previous = 5565,
+	page_id = 5566,
+	long_title = true,
 }

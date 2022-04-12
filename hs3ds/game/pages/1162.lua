@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Open war chest.",
-	pageId = 1162,
 	timestamp = "1263719105",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1163,
 	},
 	previous = 1161,
+	page_id = 1162,
+	long_title = false,
 }

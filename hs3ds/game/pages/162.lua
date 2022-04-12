@@ -1,6 +1,5 @@
 return {
 	title = "John: Look through telescope.",
-	pageId = 162,
 	timestamp = "1242521258",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"It is a clear, sunny day. Nothing out of the ordinary to report. At least, not beyond the walls of your own home.",
+		"It is a clear, sunny day. Nothing out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the ordinary to report. At least,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not beyond the walls of your own home.\
+",
 	},
 	next = {
 		163,
 	},
 	previous = 161,
+	page_id = 162,
+	long_title = false,
 }

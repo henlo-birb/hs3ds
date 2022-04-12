@@ -1,6 +1,5 @@
 return {
 	title = "John: Open browser and go to mspaintadventures.com",
-	pageId = 111,
 	timestamp = "1241418584",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		112,
 	},
 	previous = 110,
+	page_id = 111,
+	long_title = true,
 }

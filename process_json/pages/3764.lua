@@ -1,6 +1,5 @@
 return {
 	title = "[o] Please come in.",
-	pageId = 3764,
 	timestamp = "1305518442",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 	},
 	previous = 3763,
 	theme = "scratch",
+	page_id = 3764,
+	long_title = false,
 }

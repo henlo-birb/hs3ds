@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3835,
 	timestamp = "1307512507",
 	flag = {},
 	media = {
@@ -13,11 +12,28 @@ return {
 			0,
 			0,
 		},
-		"And she would know victory doesn't matter in a reality where all else is doomed to fail.",
+		"And she would know victory doesn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter in a reality where all else is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doomed to fail.\
+",
 	},
 	next = {
 		3836,
 	},
 	previous = 3834,
 	theme = "scratch",
+	page_id = 3835,
+	long_title = false,
 }

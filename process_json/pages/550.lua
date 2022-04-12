@@ -1,6 +1,5 @@
 return {
 	title = "John: Enter code on back of card into designix.",
-	pageId = 550,
 	timestamp = "1251409901",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		551,
 	},
 	previous = 549,
+	page_id = 550,
+	long_title = true,
 }

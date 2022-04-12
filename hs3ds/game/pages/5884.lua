@@ -1,6 +1,5 @@
 return {
 	title = ")(IC: Spring trap x2 combo.",
-	pageId = 5884,
 	timestamp = "1360991195",
 	flag = {
 		"X2COMBO",
@@ -14,4 +13,6 @@ return {
 		5885,
 	},
 	previous = 5883,
+	page_id = 5884,
+	long_title = false,
 }

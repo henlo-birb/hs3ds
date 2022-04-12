@@ -1,6 +1,5 @@
 return {
 	title = "CD?: Pick PM?'s pocket.",
-	pageId = 1785,
 	timestamp = "1272509836",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1786,
 	},
 	previous = 1784,
+	page_id = 1785,
+	long_title = false,
 }

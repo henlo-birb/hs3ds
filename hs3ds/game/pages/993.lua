@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 993,
 	timestamp = "1260490617",
 	flag = {},
 	media = {
@@ -13,18 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You are now dreaming.",
+		"You are now dreaming.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your DREAMBOT is awake and active.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your DREAMBOT is awake and active.\
+",
 	},
 	next = {
 		994,
 	},
 	previous = 992,
+	page_id = 993,
+	long_title = false,
 }

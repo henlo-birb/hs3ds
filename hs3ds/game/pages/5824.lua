@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5824,
 	timestamp = "1360192470",
 	flag = {
 		"X2COMBO",
@@ -14,52 +13,97 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Have you and Roxy been talking?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Have you and Roxy been talking?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Yes.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: Is she pissed at me or something?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Is she pissed at me or something?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"TT: She won't talk to me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: She won't talk to me.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: No, not at all.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: No, not at all.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-TT: Then what gives.",
+		"TT: Then what gives.\
+",
 	},
 	next = {
 		5825,
 	},
 	previous = 5823,
+	page_id = 5824,
+	long_title = false,
 }

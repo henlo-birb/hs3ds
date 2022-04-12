@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Roll.",
-	pageId = 2270,
 	timestamp = "1279420941",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2271,
 	},
 	previous = 2269,
+	page_id = 2270,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Terezi: Play records.",
-	pageId = 3725,
 	timestamp = "1303240003",
 	flag = {
 		"F",
@@ -50,4 +49,6 @@ return {
 		3726,
 	},
 	previous = 3724,
+	page_id = 3725,
+	long_title = false,
 }

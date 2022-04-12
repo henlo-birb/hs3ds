@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue smoke pellets.",
-	pageId = 9,
 	timestamp = "1239678933",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		10,
 	},
 	previous = 8,
+	page_id = 9,
+	long_title = true,
 }

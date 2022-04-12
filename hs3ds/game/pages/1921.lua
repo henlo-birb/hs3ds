@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1921,
 	timestamp = "1274670991",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Ah ha! There's HALLEY. The youngsters adore their new guardian. Good dog. Best friend.",
+		"Ah ha! There's HALLEY. The youngsters\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adore their new guardian. Good dog.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Best friend.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The young boy has difficulty pronouncing the name though. Sounds more like \"Harley\" when he says it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The young boy has difficulty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pronouncing the name though. Sounds\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more like \"Harley\" when he says it.\
+",
 	},
 	next = {
 		1922,
 	},
 	previous = 1920,
+	page_id = 1921,
+	long_title = false,
 }

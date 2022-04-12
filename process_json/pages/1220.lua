@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Retrieve two of hearts from backup hat.",
-	pageId = 1220,
 	timestamp = "1264141956",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1221,
 	},
 	previous = 1219,
+	page_id = 1220,
+	long_title = true,
 }

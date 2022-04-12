@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1961,
 	timestamp = "1276065696",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"The toy has taken a new master. The tactician, a misstep.",
+		"The toy has taken a new master. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tactician, a misstep.\
+",
 	},
 	next = {
 		1962,
 	},
 	previous = 1960,
+	page_id = 1961,
+	long_title = false,
 }

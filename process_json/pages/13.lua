@@ -1,6 +1,5 @@
 return {
 	title = "John: Take poster.",
-	pageId = 13,
 	timestamp = "1239679050",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		14,
 	},
 	previous = 12,
+	page_id = 13,
+	long_title = false,
 }

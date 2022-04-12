@@ -1,6 +1,5 @@
 return {
 	title = "Highlighting all that white text crashed my browser.",
-	pageId = 3239,
 	timestamp = "1294030025",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"Sorry.",
+		"Sorry.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Why don't we get back to what's happening on the other side of the coat.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-These poor girls are very upset and emotional, and we kind of left them hanging.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Why don't we get back to what's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"happening on the other side of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"coat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"These poor girls are very upset and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"emotional, and we kind of left them\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hanging.\
+",
 	},
 	next = {
 		3240,
 	},
 	previous = 3238,
+	page_id = 3239,
+	long_title = true,
 }

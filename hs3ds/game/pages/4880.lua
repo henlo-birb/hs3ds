@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Get key.",
-	pageId = 4880,
 	timestamp = "1335826360",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"What did you not understand about the statement, \"There is nothing at all in your cell, useful or otherwise.\"",
+		"What did you not understand about the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"statement, \"There is nothing at all in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your cell, useful or otherwise.\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is no key.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is no key.\
+",
 	},
 	next = {
 		4881,
 	},
 	previous = 4879,
+	page_id = 4880,
+	long_title = false,
 }

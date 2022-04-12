@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Visit paradox sister.",
-	pageId = 2909,
 	timestamp = "1290299695",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2910,
 	},
 	previous = 2908,
+	page_id = 2909,
+	long_title = false,
 }

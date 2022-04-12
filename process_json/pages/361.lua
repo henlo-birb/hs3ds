@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go downstairs to the kitchen back door.",
-	pageId = 361,
 	timestamp = "1247301589",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		362,
 	},
 	previous = 360,
+	page_id = 361,
+	long_title = true,
 }

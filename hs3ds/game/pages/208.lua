@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 208,
 	timestamp = "1243298185",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"You retrieved the CRUXITE DOWEL.",
+		"You retrieved the CRUXITE DOWEL.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-DAD just shrugs and heads back downstairs, presumably to do some more baking.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If only he knew you were hard at work saving his ass.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAD just shrugs and heads back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"downstairs, presumably to do some more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"baking.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If only he knew you were hard at work\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"saving his ass.\
+",
 	},
 	next = {
 		209,
 	},
 	previous = 207,
+	page_id = 208,
+	long_title = false,
 }

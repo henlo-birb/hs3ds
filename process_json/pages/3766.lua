@@ -1,6 +1,5 @@
 return {
 	title = "[o] But yes, I can fix it.",
-	pageId = 3766,
 	timestamp = "1305519539",
 	flag = {},
 	media = {
@@ -238,4 +237,6 @@ return {
 	},
 	previous = 3765,
 	theme = "scratch",
+	page_id = 3766,
+	long_title = false,
 }

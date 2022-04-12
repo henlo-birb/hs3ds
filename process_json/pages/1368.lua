@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Switch to Jenga modus.",
-	pageId = 1368,
 	timestamp = "1265934115",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1369,
 	},
 	previous = 1367,
+	page_id = 1368,
+	long_title = false,
 }

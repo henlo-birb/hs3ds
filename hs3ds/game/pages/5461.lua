@@ -1,6 +1,5 @@
 return {
 	title = "[A6I4] ==>",
-	pageId = 5461,
 	timestamp = "1353098951",
 	flag = {},
 	media = {
@@ -12,34 +11,181 @@ return {
 			0,
 			0,
 		},
-		"You take a look at the message. Yes, just as you thought. That plastered floozy is spouting her nonsense again. It looks like your sister told the human her name? That is a clear and egregious violation of the rules. She must have been getting really desperate. ",
+		"You take a look at the message. Yes,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just as you thought. That plastered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"floozy is spouting her nonsense again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like your sister told the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"human her name? That is a clear and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"egregious violation of the rules. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must have been getting really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"desperate.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The joke is on the human though. She's trying to wake up a dead girl.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It seems their session is still completely blacked out. What a bummer. Where's the fun in harassing these losers when you can't see them?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The joke is on the human though. She's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trying to wake up a dead girl.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Maybe it's time you left them all behind anyway. You don't have the patience for games with idiots anymore. There are much bigger things on the horizon for you.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It seems their session is still\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"completely blacked out. What a bummer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Where's the fun in harassing these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"losers when you can't see them?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Maybe it's time you left them all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"behind anyway. You don't have the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"patience for games with idiots\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anymore. There are much bigger things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on the horizon for you.\
+",
 	},
 	next = {
 		5462,
 	},
 	previous = 5460,
+	page_id = 5461,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6093,
 	timestamp = "1365193136",
 	flag = {},
 	media = {
@@ -12,94 +11,251 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i'm not too worried.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm not too worried.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: this is just my dream hologram self, or some nonsense.",
+		"JOHN: this is just my dream hologram\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"self, or some nonsense.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: how many times has meenah stabbed me with her fork?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: how many times has meenah\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"stabbed me with her fork?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: (not enough blue stooge)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: (not enough blue stooge)",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: (not enough by a nautical\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"mile)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: (not enough by a nautical mile)",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: and i always wake up fine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: and i always wake up fine!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: It's not just a8out you, John.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: It's not just a8out you, John.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: This is a very powerful juju.\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"You'd 8e messing with some forces we\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"don't fully understand.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: This is a very powerful juju. You'd 8e messing with some forces we don't fully understand.",
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
+		"ARADIA: sounds like a dare to me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARADIA: sounds like a dare to me",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Oh my god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Oh my god.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Alright, whatever. I'll 8e fucked if suddenly I'm gonna 8e the lone voice of prudence and sound judgment in our 8adass pir8 clu8.",
+		"VRISKA: Alright, whatever. I'll 8e\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"fucked if suddenly I'm gonna 8e the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"lone voice of prudence and sound\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"judgment in our 8adass pir8 clu8.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: If you really wanna plunge your fist through some sort of hole in reality, then 8e my guest!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: If you really wanna plunge\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"your fist through some sort of hole in\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"reality, then 8e my guest!\
+",
 	},
 	next = {
 		6094,
 	},
 	previous = 6092,
+	page_id = 6093,
+	long_title = false,
 }

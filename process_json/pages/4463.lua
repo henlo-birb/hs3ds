@@ -1,6 +1,5 @@
 return {
 	title = "Cat: Move tail.",
-	pageId = 4463,
 	timestamp = "1326657780",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4464,
 	},
 	previous = 4462,
+	page_id = 4463,
+	long_title = false,
 }

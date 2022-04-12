@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5080,
 	timestamp = "1339661946",
 	flag = {},
 	media = {
@@ -12,10 +11,83 @@ return {
 			0,
 			0,
 		},
-		"It seems while you were running away from missiles and trying not to get blown up, messages from friends have been piling up. These chumps need to calm down. Don't they realize how hung over you are starting to feel? Everybody needs to chill the fuck out. Those chess guys behind you need to chill out too. The whole world needs to chill out and stop being so noisy and bright and on fire.",
+		"It seems while you were running away\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from missiles and trying not to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blown up, messages from friends have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"been piling up. These chumps need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"calm down. Don't they realize how hung\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"over you are starting to feel?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Everybody needs to chill the fuck out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Those chess guys behind you need to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chill out too. The whole world needs\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to chill out and stop being so noisy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and bright and on fire.\
+",
 	},
 	next = {
 		5081,
 	},
 	previous = 5079,
+	page_id = 5080,
+	long_title = false,
 }

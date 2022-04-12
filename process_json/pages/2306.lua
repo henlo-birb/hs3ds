@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Be in cahoots with Jack.",
-	pageId = 2306,
 	timestamp = "1280427720",
 	flag = {
 		"R4",
@@ -147,4 +146,6 @@ return {
 		2307,
 	},
 	previous = 2305,
+	page_id = 2306,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Examine compromising material.",
-	pageId = 4896,
 	timestamp = "1335909271",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		4897,
 	},
 	previous = 4895,
+	page_id = 4896,
+	long_title = true,
 }

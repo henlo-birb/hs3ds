@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: You're thirsty.",
-	pageId = 4480,
 	timestamp = "1326869113",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4481,
 	},
 	previous = 4479,
+	page_id = 4480,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "PM: Command John to put the carved tablet into a pyxis.",
-	pageId = 1546,
 	timestamp = "1267762105",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1547,
 	},
 	previous = 1545,
+	page_id = 1546,
+	long_title = true,
 }

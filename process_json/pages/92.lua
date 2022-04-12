@@ -1,6 +1,5 @@
 return {
 	title = "John: Equip disguise for defense.",
-	pageId = 92,
 	timestamp = "1240978599",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		93,
 	},
 	previous = 91,
+	page_id = 92,
+	long_title = true,
 }

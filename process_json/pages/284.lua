@@ -1,6 +1,5 @@
 return {
 	title = "DO AGAIN AS PURPLE WORDS SAY.",
-	pageId = 284,
 	timestamp = "1245553523",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		285,
 	},
 	previous = 283,
+	page_id = 284,
+	long_title = false,
 }

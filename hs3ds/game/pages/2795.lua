@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2795,
 	timestamp = "1288019472",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: HOO HOO HOO HOO HOO!",
+		"NANNASPRITE: HOO HOO HOO HOO HOO!\
+",
 	},
 	next = {
 		2796,
 	},
 	previous = 2794,
+	page_id = 2795,
+	long_title = false,
 }

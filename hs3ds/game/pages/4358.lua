@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4358,
 	timestamp = "1324453970",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Clown Hunting",
+		"KANAYA: Clown Hunting\
+",
 	},
 	next = {
 		4359,
 	},
 	previous = 4357,
+	page_id = 4358,
+	long_title = false,
 }

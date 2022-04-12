@@ -1,6 +1,5 @@
 return {
 	title = "AH. SO NICE OF YOU TO JOIN ME.",
-	pageId = 7410,
 	timestamp = "1428897460",
 	flag = {
 		"F",
@@ -22,4 +21,6 @@ return {
 	},
 	previous = 7409,
 	theme = "A6A6",
+	page_id = 7410,
+	long_title = false,
 }

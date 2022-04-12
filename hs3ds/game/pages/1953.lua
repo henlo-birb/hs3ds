@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1953,
 	timestamp = "1276041795",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"The mail is delivered. An obligation, satisfied.",
+		"The mail is delivered. An obligation,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"satisfied.\
+",
 	},
 	next = {
 		1954,
 	},
 	previous = 1952,
+	page_id = 1953,
+	long_title = false,
 }

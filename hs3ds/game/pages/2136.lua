@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2136,
 	timestamp = "1278029720",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Looks like the spirits are being cooperative today, if a bit cryptic, as usual.",
+		"Looks like the spirits are being\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cooperative today, if a bit cryptic,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as usual.\
+",
 	},
 	next = {
 		2137,
 	},
 	previous = 2135,
+	page_id = 2136,
+	long_title = false,
 }

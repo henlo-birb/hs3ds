@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Resist urge to ride bro's rocket board.",
-	pageId = 1777,
 	timestamp = "1272412212",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1778,
 	},
 	previous = 1776,
+	page_id = 1777,
+	long_title = true,
 }

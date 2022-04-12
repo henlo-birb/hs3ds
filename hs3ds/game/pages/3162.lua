@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3162,
 	timestamp = "1293254925",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You made a DUTTLE!",
+		"You made a DUTTLE!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The duttle is weirding you out a little. You believe you will keep your distance from the duttle.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The duttle is weirding you out a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"little. You believe you will keep your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"distance from the duttle.\
+",
 	},
 	next = {
 		3163,
 	},
 	previous = 3161,
+	page_id = 3162,
+	long_title = false,
 }

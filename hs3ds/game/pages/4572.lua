@@ -1,6 +1,5 @@
 return {
 	title = "[S] Prince of Heart: Rise up.",
-	pageId = 4572,
 	timestamp = "1329436356",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		4573,
 	},
 	previous = 4571,
+	page_id = 4572,
+	long_title = false,
 }

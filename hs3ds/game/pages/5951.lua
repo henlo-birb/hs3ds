@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5951,
 	timestamp = "1361498043",
 	flag = {},
 	media = {
@@ -12,73 +11,160 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: ey its the blue buoy again!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: ey its the blue buoy again!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: sea him there just off the starboard shit",
+		"MEENAH: sea him there just off the\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"starboard shit\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: yo watch how far away i can fork him from",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: yo watch how far away i can\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"fork him from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Meenah, put the trident down.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Meenah, put the trident down.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: Don't make me conchfishscate\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"it again.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Don't make me conchfishscate it again.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: 38D\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: 38D",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: 38D\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: 38D",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: conchfishscate\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: conchfishscate",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: 38D",
+		"MEENAH: 38D\
+",
 	},
 	next = {
 		5952,
 	},
 	previous = 5950,
+	page_id = 5951,
+	long_title = false,
 }

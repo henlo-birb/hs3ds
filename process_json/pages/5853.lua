@@ -1,6 +1,5 @@
 return {
 	title = "==> ==>",
-	pageId = 5853,
 	timestamp = "1360379372",
 	flag = {
 		"X2COMBO",
@@ -14,4 +13,6 @@ return {
 		5854,
 	},
 	previous = 5852,
+	page_id = 5853,
+	long_title = false,
 }

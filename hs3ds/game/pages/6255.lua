@@ -1,6 +1,5 @@
 return {
 	title = "MALE: GO OVER THERE.",
-	pageId = 6255,
 	timestamp = "1371079787",
 	flag = {},
 	media = {
@@ -12,19 +11,42 @@ return {
 			0,
 			0,
 		},
-		"OK, YOU GO OVER THERE. YOU STAND THERE AND NOTHING HAPPENS.",
+		"OK, YOU GO OVER THERE. YOU STAND THERE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND NOTHING HAPPENS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-GOD DAMN I AM GOOD AT THIS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GOD DAMN I AM GOOD AT THIS.\
+",
 	},
 	next = {
 		6256,
 	},
 	previous = 6254,
 	theme = "A6A6",
+	page_id = 6255,
+	long_title = false,
 }

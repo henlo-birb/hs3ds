@@ -1,6 +1,5 @@
 return {
 	title = "[o] In round two, the Slayer would be not merely compelled,",
-	pageId = 3827,
 	timestamp = "1307511609",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 	},
 	previous = 3826,
 	theme = "scratch",
+	page_id = 3827,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "MALE: EXERCISE FREEDOM TO LEAVE ROOM.",
-	pageId = 6259,
 	timestamp = "1371079994",
 	flag = {},
 	media = {
@@ -209,4 +208,6 @@ return {
 	},
 	previous = 6258,
 	theme = "A6A6",
+	page_id = 6259,
+	long_title = true,
 }

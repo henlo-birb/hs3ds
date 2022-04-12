@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine time capsule.",
-	pageId = 5016,
 	timestamp = "1338773063",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		5017,
 	},
 	previous = 5015,
+	page_id = 5016,
+	long_title = false,
 }

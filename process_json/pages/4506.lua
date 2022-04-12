@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Clear some space.",
-	pageId = 4506,
 	timestamp = "1327562390",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		4507,
 	},
 	previous = 4505,
+	page_id = 4506,
+	long_title = false,
 }

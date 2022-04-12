@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Captchalogue bass on card with Dutton ghost image.",
-	pageId = 1384,
 	timestamp = "1266004054",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1385,
 	},
 	previous = 1383,
+	page_id = 1384,
+	long_title = true,
 }

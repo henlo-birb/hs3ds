@@ -1,6 +1,5 @@
 return {
 	title = "DD: Observe Nobles.",
-	pageId = 5562,
 	timestamp = "1355130281",
 	flag = {},
 	media = {
@@ -215,4 +214,6 @@ return {
 		5563,
 	},
 	previous = 5561,
+	page_id = 5562,
+	long_title = false,
 }

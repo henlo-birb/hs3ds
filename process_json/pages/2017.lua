@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Sample delicious pie cooling on the counter.",
-	pageId = 2017,
 	timestamp = "1276642610",
 	flag = {},
 	media = {
@@ -139,4 +138,6 @@ return {
 		2018,
 	},
 	previous = 2016,
+	page_id = 2017,
+	long_title = true,
 }

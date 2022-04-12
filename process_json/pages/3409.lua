@@ -1,6 +1,5 @@
 return {
 	title = "John: Buckle up.",
-	pageId = 3409,
 	timestamp = "1296504836",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		3410,
 	},
 	previous = 3408,
+	page_id = 3409,
+	long_title = false,
 }

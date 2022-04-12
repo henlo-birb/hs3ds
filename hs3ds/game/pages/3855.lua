@@ -1,6 +1,5 @@
 return {
 	title = "[o] Oh my, oh my, oh my. This will not do at all.",
-	pageId = 3855,
 	timestamp = "1308041230",
 	flag = {},
 	media = {
@@ -12,95 +11,245 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Let's just forget I said that. This isn't really how I wanted this convers8tion to go!",
+		"AG: Let's just forget I said that.\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I guess I was assuming you'd 8e talking 8ack 8y now. So now I'm just talking and talking and spinning my wheel device like an idiot.",
+		"This isn't really how I wanted this\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"convers8tion to go!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: May8e I don't actually know how I wanted it to go.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I guess I could just shut up and skip ahead on your timeline a little, talk to you when you're alive.",
+		"AG: I guess I was assuming you'd 8e\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: That would make sense.",
+		"talking 8ack 8y now. So now I'm just\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: So",
+		"talking and talking and spinning my\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"wheel device like an idiot.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I guess",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: I will do that.",
+		"AG: May8e I don't actually know how I\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"wanted it to go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: 8ut then........",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: May8e if I did, I wouldn't actually say what I wanted to say.",
+		"AG: I guess I could just shut up and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: So",
+		"skip ahead on your timeline a little,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"talk to you when you're alive.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I will just say it.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: That would make sense.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: So\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I guess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I will do that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8ut then........\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: May8e if I did, I wouldn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"actually say what I wanted to say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: So\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: I will just say it.\
+",
 	},
 	next = {
 		3856,
 	},
 	previous = 3854,
 	theme = "scratch",
+	page_id = 3855,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1294,
 	timestamp = "1265074050",
 	flag = {},
 	media = {
@@ -12,102 +11,265 @@ return {
 			0,
 			0,
 		},
-		"You've even got an ice-cold one-liner to dish out when the time comes. You've been working pretty hard on it.",
+		"You've even got an ice-cold one-liner\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to dish out when the time comes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You've been working pretty hard on it.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait for it... wait for it... ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hate to cut and...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait for it... wait for it...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait, no. Not yet.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait for it...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hate to cut and...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hate to... ",
-		{
-			0,
-			0,
-			0,
-		},
-		"no.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait, no. Not yet.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hate to cut and ",
-		{
-			0,
-			0,
-			0,
-		},
-		"DAMMIT. Not yet.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Hate to cut and run.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait for it...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SHIT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hate to...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"no.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hate to cut and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAMMIT. Not yet.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Hate to cut and run.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		1295,
 	},
 	previous = 1293,
+	page_id = 1294,
+	long_title = false,
 }

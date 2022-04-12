@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Talk to alien.",
-	pageId = 4564,
 	timestamp = "1328781203",
 	flag = {},
 	media = {
@@ -3058,4 +3057,6 @@ return {
 		4565,
 	},
 	previous = 4563,
+	page_id = 4564,
+	long_title = false,
 }

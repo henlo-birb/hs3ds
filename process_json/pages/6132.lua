@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: After you.",
-	pageId = 6132,
 	timestamp = "1365413671",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		6133,
 	},
 	previous = 6131,
+	page_id = 6132,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Take dowels and sheets from bed and make a tent.",
-	pageId = 615,
 	timestamp = "1252552369",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		616,
 	},
 	previous = 614,
+	page_id = 615,
+	long_title = true,
 }

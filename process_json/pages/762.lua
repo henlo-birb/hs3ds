@@ -1,6 +1,5 @@
 return {
 	title = "Wake up!",
-	pageId = 762,
 	timestamp = "1255498201",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		763,
 	},
 	previous = 761,
+	page_id = 762,
+	long_title = false,
 }

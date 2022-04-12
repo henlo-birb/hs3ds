@@ -1,6 +1,5 @@
 return {
 	title = "WELL, WELL, WELL, WELL. WHAT HAVE WE HERE?",
-	pageId = 6874,
 	timestamp = "1413621189",
 	flag = {},
 	media = {
@@ -12,19 +11,70 @@ return {
 			0,
 			0,
 		},
-		"\"HELLO BOYS\", THIS PLUCKY STRUMPET SEEMS TO SAY WITH HER EYES. SHE IS LOOKING TO HORN THE FUCK IN. ON OUR TWO TOP DOGG'S ILLEGAL PASSION PARADISE. SHE IS NO DOUBT HOPING FOR... *MUCHAS SMOOCHES*",
+		"\"HELLO BOYS\", THIS PLUCKY STRUMPET\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SEEMS TO SAY WITH HER EYES. SHE IS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LOOKING TO HORN THE FUCK IN. ON OUR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TWO TOP DOGG'S ILLEGAL PASSION\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PARADISE. SHE IS NO DOUBT HOPING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR... *MUCHAS SMOOCHES*\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-FAT CHANCE SISTER!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FAT CHANCE SISTER!!!\
+",
 	},
 	next = {
 		6875,
 	},
 	previous = 6873,
 	theme = "A6A6",
+	page_id = 6874,
+	long_title = true,
 }

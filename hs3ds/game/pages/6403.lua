@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6403,
 	timestamp = "1375906656",
 	flag = {
 		"S",
@@ -14,129 +13,328 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: im serious\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: im serious",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: the thing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: the thing is",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: being a time guy\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: being a time guy",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: like actually MASTERING time travel",
+		"DAVE: like actually MASTERING time\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"travel\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: im pretty sure what that involves is",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: learning to never use it",
+		"DAVE: im pretty sure what that\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"involves is\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: see its like karate",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: learning to never use it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: well",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: see its like karate\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: its more like what they SAY about karate",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: that you learn it so you dont use it",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: but i mean we all know the truth about karate is if you know karate then obviously in reality you use it all the time",
+		"DAVE: its more like what they SAY\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"about karate\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: like doing lethal fuckin crane kicks and sweet karate chops while walking down the street just cause you can",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: its a god damn no brainer...",
+		"DAVE: that you learn it so you dont\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"use it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: thats what...",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: you do...",
+		"DAVE: but i mean we all know the truth\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: with...",
+		"about karate is if you know karate\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"then obviously in reality you use it\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"all the time\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: karate. john what the fuck are you doing here",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: like doing lethal fuckin crane\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"kicks and sweet karate chops while\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"walking down the street just cause you\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: its a god damn no brainer...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: thats what...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: you do...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: with...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: karate. john what the fuck are\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"you doing here\
+",
 	},
 	next = {
 		6404,
 	},
 	previous = 6402,
+	page_id = 6403,
+	long_title = false,
 }

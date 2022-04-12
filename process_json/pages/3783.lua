@@ -1,6 +1,5 @@
 return {
 	title = "[o] Here we left our human Hero of Light.",
-	pageId = 3783,
 	timestamp = "1305851585",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 	},
 	previous = 3782,
 	theme = "scratch",
+	page_id = 3783,
+	long_title = true,
 }

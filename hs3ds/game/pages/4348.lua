@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] Rose + Dave: Reap spoils.",
-	pageId = 4348,
 	timestamp = "1324179142",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You both also get one of these. Now you can start flapping your traps with wild abandon at anyone you please.",
+		"You both also get one of these. Now\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you can start flapping your traps with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wild abandon at anyone you please.\
+",
 	},
 	next = {
 		4349,
 	},
 	previous = 4347,
+	page_id = 4348,
+	long_title = false,
 }

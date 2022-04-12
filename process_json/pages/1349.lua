@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Flip your sprite.",
-	pageId = 1349,
 	timestamp = "1265745049",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1350,
 	},
 	previous = 1348,
+	page_id = 1349,
+	long_title = false,
 }

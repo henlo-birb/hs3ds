@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Contact bffsy.",
-	pageId = 4431,
 	timestamp = "1325753467",
 	flag = {},
 	media = {
@@ -12,18 +11,76 @@ return {
 			0,
 			0,
 		},
-		"As long as you just got done paying the piper, you might as well get busy eating all this goddamn crow. Oh so much of the stuff has gathered on your plate.",
+		"As long as you just got done paying\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the piper, you might as well get busy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eating all this goddamn crow. Oh so\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"much of the stuff has gathered on your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plate.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-She appears to be online now. It looks like she sent you the \"hacked\" file while you were away.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She appears to be online now. It looks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like she sent you the \"hacked\" file\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while you were away.\
+",
 	},
 	next = {
 		4432,
 	},
 	previous = 4430,
+	page_id = 4431,
+	long_title = false,
 }

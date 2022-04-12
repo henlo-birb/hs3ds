@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Turn on your laptop and check on John.",
-	pageId = 877,
 	timestamp = "1258758705",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		878,
 	},
 	previous = 876,
+	page_id = 877,
+	long_title = true,
 }

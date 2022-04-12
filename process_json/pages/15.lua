@@ -1,6 +1,5 @@
 return {
 	title = "John: Take nails.",
-	pageId = 15,
 	timestamp = "1239679126",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		16,
 	},
 	previous = 14,
+	page_id = 15,
+	long_title = false,
 }

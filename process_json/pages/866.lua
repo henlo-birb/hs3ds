@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Find the unlocked hub.",
-	pageId = 866,
 	timestamp = "1258062530",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		867,
 	},
 	previous = 865,
+	page_id = 866,
+	long_title = false,
 }

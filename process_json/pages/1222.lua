@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Call Clubs on nearest card.",
-	pageId = 1222,
 	timestamp = "1264146758",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1223,
 	},
 	previous = 1221,
+	page_id = 1222,
+	long_title = true,
 }

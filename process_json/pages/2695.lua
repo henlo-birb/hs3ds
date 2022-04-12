@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Troll the Rose human.",
-	pageId = 2695,
 	timestamp = "1285808559",
 	flag = {},
 	media = {
@@ -201,4 +200,6 @@ return {
 		2696,
 	},
 	previous = 2694,
+	page_id = 2695,
+	long_title = false,
 }

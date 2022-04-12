@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Endure meddling.",
-	pageId = 2204,
 	timestamp = "1278833742",
 	flag = {},
 	media = {
@@ -1944,4 +1943,6 @@ return {
 		2205,
 	},
 	previous = 2203,
+	page_id = 2204,
+	long_title = false,
 }

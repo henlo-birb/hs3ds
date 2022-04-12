@@ -1,6 +1,5 @@
 return {
 	title = "John: => SWITCH 4",
-	pageId = 1873,
 	timestamp = "1274307680",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		1874,
 	},
 	previous = 1872,
+	page_id = 1873,
+	long_title = false,
 }

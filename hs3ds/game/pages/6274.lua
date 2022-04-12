@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 6274,
 	timestamp = "1371081693",
 	flag = {},
 	media = {
@@ -12,11 +11,14 @@ return {
 			0,
 			0,
 		},
-		"OH *HELLLLLLLLLLL* NO.",
+		"OH *HELLLLLLLLLLL* NO.\
+",
 	},
 	next = {
 		6275,
 	},
 	previous = 6273,
 	theme = "A6A6",
+	page_id = 6274,
+	long_title = false,
 }

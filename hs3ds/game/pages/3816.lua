@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3816,
 	timestamp = "1306974765",
 	flag = {},
 	media = {
@@ -13,11 +12,63 @@ return {
 			0,
 			0,
 		},
-		"I have always believed that a good storyteller should keep a comprehensive record of past events on hand. A scrapbook of personal significance, for instance, from which he may piece together current moments from past ones of a similar, if not identical nature. It's more efficient.",
+		"I have always believed that a good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"storyteller should keep a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"comprehensive record of past events on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hand. A scrapbook of personal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"significance, for instance, from which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he may piece together current moments\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from past ones of a similar, if not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"identical nature. It's more efficient.\
+",
 	},
 	next = {
 		3817,
 	},
 	previous = 3815,
 	theme = "scratch",
+	page_id = 3816,
+	long_title = false,
 }

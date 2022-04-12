@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine fake arms with cake.",
-	pageId = 36,
 	timestamp = "1239918879",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You stick the FAKE ARMS in the CAKE on your bed.",
+		"You stick the FAKE ARMS in the CAKE on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bed.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This definitely makes the CAKE at least 300% more hilarious. You're sure COLONEL SASSACRE would know the precise index of elevated hilarity.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This definitely makes the CAKE at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"least 300% more hilarious. You're sure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COLONEL SASSACRE would know the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"precise index of elevated hilarity.\
+",
 	},
 	next = {
 		37,
 	},
 	previous = 35,
+	page_id = 36,
+	long_title = true,
 }

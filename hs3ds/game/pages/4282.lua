@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jane: Get mail.",
-	pageId = 4282,
 	timestamp = "1323390991",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		4283,
 	},
 	previous = 4281,
+	page_id = 4282,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7498,
 	timestamp = "1430782297",
 	flag = {},
 	media = {
@@ -12,353 +11,1105 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: Well...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Well...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Yes i suppose i have SOMETHING like that.",
+		"JAKE: Yes i suppose i have SOMETHING\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"like that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: A brain ghost of my friend dirk who visits me sometimes.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: I GUESS he represents my self esteem but...",
+		"JAKE: A brain ghost of my friend dirk\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: I dunno how helpful he actually is!",
+		"who visits me sometimes.\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROSPRITE: wHY,",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-JAKE: Because of all the consternation that my relationship with REAL dirk has caused me!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: He says all the right things to make me feel better about myself but when he visits my brain i never ACTUALLY feel that comfortable or good about myself.",
+		"JAKE: I GUESS he represents my self\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: I just feel kind of weird and truthfully spend most of the time hoping he just goes away and he probably KNOWS that too because hes my brain and that makes me feel WEIRDER!",
+		"esteem but...\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROSPRITE: i SEE,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: yOUR BRAIN IS COMPLICATED THEN,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: i'M GUESSING IT'S BECAUSE YOU'RE SOME SORT OF GENIUS,",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Really?????",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: yES, aBSOLUTELY,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: i HAVE A SENSE FOR THESE THINGS,",
+		"JAKE: I dunno how helpful he actually\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"is!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Gosh.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-TAVROSPRITE: mAYBE, iNSTEAD OF LISTENING TO THE UPSETTING WORDS OF A COMPLICATED BRAIN GHOST,",
+		"TAVROSPRITE: wHY,\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROSPRITE: wHAT A BRILLIANT MIND LIKE YOU NEEDS, iS SOMETHING SIMPLER,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: lIKE LISTENING TO THE NICE AND FLATTERING WORDS, oF A REAL FRIEND, }:)",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Maybe youre right!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: nOT RELATED TO THAT, hAVE i MENTIONED,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: yOU'RE ACTUALLY QUITE HANDSOME FOR A HUMAN,",
+		"JAKE: Because of all the consternation\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Wow you think??",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: aLSO YOU HAVE A DASHING PERSONALITY, aND YOU SEEM PRETTY STRONG, aND YOUR VERY SMALL PAIR OF CREAMY LOOKING PANTS IS REALLY COOL,",
+		"that my relationship with REAL dirk\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"has caused me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Holy cow.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Youre right tavrosprite.",
+		"JAKE: He says all the right things to\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: These nice observations about me...",
+		"make me feel better about myself but\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Why they really do seem to be making me feel at LEAST infinitesimally better about myself.",
+		"when he visits my brain i never\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: What a chum!",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: tHIS IS ONLY THE BEGINNING, OF THE FEELGOOD FEELINGS YOU CAN FORCE INSIDE YOU,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: tHROUGH THE REPETITIVE MENTIONINGS OF SUCH THINGS ABOUT YOU,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: bUT ALSO THROUGH DEVELOPING YOURSELF AS A BRAVE ALIVE HERO,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: iT'S TOO LATE FOR ME TO DO THAT, sINCE I LIVED A WEAK LIFE, dIED, aND WAS LUCKY ENOUGH TO HAVE A FRIEND WITH A GOOD ENOUGH HEART TO BRING ME BACK,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: bUT ONLY AS A SPRITUAL GUIDE, sUCH AS THE ONE FLOATING BEFORE YOU,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: sO i CAN'T BE THAT HEROICALLY GREAT ANYMORE, bY TRAGIC DEFINITION, bUT YOU CAN,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: yOU'RE LIVING, sTRONG, nICE, aND OF EVEN HIGHER IMPORTANCE, iMMORTAL,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: sO THAT GIVES YOU, bY MY ESTIMATION, lITERALLY FOREVER,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: tO GET BETTER, aND BETTER, aND BETTER, aND FINALLY PROVE YOURSELF,",
-		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
-		},
-		"\
-TAVROSPRITE: tHAT WAY YOU CAN WIN YOUR FRIENDS OVER, aND EVERYONE WILL LIKE YOU AGAIN,",
+		"ACTUALLY feel that comfortable or good\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"about myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Boy shitting howdy! :O",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-JAKE: Just imagine... from hobbledehoy to hero.",
+		"JAKE: I just feel kind of weird and\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"truthfully spend most of the time\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"hoping he just goes away and he\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"probably KNOWS that too because hes my\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"brain and that makes me feel WEIRDER!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: Wouldnt THAT spiffy predicament just razz my berries.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: i SEE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: yOUR BRAIN IS COMPLICATED\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"THEN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: i'M GUESSING IT'S BECAUSE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"YOU'RE SOME SORT OF GENIUS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Really?????\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: yES, aBSOLUTELY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: i HAVE A SENSE FOR THESE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"THINGS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Gosh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: mAYBE, iNSTEAD OF\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"LISTENING TO THE UPSETTING WORDS OF A\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"COMPLICATED BRAIN GHOST,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: wHAT A BRILLIANT MIND\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"LIKE YOU NEEDS, iS SOMETHING SIMPLER,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: lIKE LISTENING TO THE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"NICE AND FLATTERING WORDS, oF A REAL\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"FRIEND, }:)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Maybe youre right!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: nOT RELATED TO THAT, hAVE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"i MENTIONED,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: yOU'RE ACTUALLY QUITE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"HANDSOME FOR A HUMAN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Wow you think??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: aLSO YOU HAVE A DASHING\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"PERSONALITY, aND YOU SEEM PRETTY\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"STRONG, aND YOUR VERY SMALL PAIR OF\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"CREAMY LOOKING PANTS IS REALLY COOL,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Holy cow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Youre right tavrosprite.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: These nice observations about\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"me...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Why they really do seem to be\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"making me feel at LEAST\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"infinitesimally better about myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: What a chum!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: tHIS IS ONLY THE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"BEGINNING, OF THE FEELGOOD FEELINGS\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"YOU CAN FORCE INSIDE YOU,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: tHROUGH THE REPETITIVE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"MENTIONINGS OF SUCH THINGS ABOUT YOU,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: bUT ALSO THROUGH\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"DEVELOPING YOURSELF AS A BRAVE ALIVE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"HERO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: iT'S TOO LATE FOR ME TO\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"DO THAT, sINCE I LIVED A WEAK LIFE,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"dIED, aND WAS LUCKY ENOUGH TO HAVE A\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"FRIEND WITH A GOOD ENOUGH HEART TO\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"BRING ME BACK,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: bUT ONLY AS A SPRITUAL\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"GUIDE, sUCH AS THE ONE FLOATING BEFORE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"YOU,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: sO i CAN'T BE THAT\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"HEROICALLY GREAT ANYMORE, bY TRAGIC\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"DEFINITION, bUT YOU CAN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: yOU'RE LIVING, sTRONG,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"nICE, aND OF EVEN HIGHER IMPORTANCE,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"iMMORTAL,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: sO THAT GIVES YOU, bY MY\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"ESTIMATION, lITERALLY FOREVER,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: tO GET BETTER, aND\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"BETTER, aND BETTER, aND FINALLY PROVE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"YOURSELF,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: tHAT WAY YOU CAN WIN YOUR\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"FRIENDS OVER, aND EVERYONE WILL LIKE\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"YOU AGAIN,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Boy shitting howdy! :O\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Just imagine... from hobbledehoy\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"to hero.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"JAKE: Wouldnt THAT spiffy predicament\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"just razz my berries.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Tavros, would you leave that poor kid alone?",
+		"VRISKA: Tavros, would you leave that\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: What sort of nonsense are you telling him?",
+		"poor kid alone?\
+",
 		{
-			0.027450980392156862,
-			0.08235294117647059,
-			0.803921568627451,
+			0,
+			0,
+			0,
 		},
 		"\
-TAVROSPRITE: nOTHING,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Oh, 8ullshit.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: What sort of nonsense are you\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"telling him?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You're filling his head with lies, aren't you?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: nOTHING,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: nO,",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Oh, 8ullshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You're filling his head with\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"lies, aren't you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"TAVROSPRITE: nO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROSPRITE: iT'S JUST A BASIC CONVERSATION, NOT ABOUT ANY TOPICS, yOU'RE PROBABLY GOING TO SAY, yOU DISAPPROVE OF,",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"TAVROSPRITE: iT'S JUST A BASIC\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"CONVERSATION, NOT ABOUT ANY TOPICS,\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"yOU'RE PROBABLY GOING TO SAY, yOU\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"DISAPPROVE OF,\
+",
 	},
 	next = {
 		7499,
 	},
 	previous = 7497,
+	page_id = 7498,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Iron Man armor and outfit.",
-	pageId = 3150,
 	timestamp = "1293242212",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		3151,
 	},
 	previous = 3149,
+	page_id = 3150,
+	long_title = true,
 }

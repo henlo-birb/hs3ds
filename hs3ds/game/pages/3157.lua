@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine crystal ball and glasses.",
-	pageId = 3157,
 	timestamp = "1293251840",
 	flag = {},
 	media = {
@@ -13,18 +12,41 @@ return {
 			0,
 			0,
 		},
-		"You make the SOOTH SPECS!",
+		"You make the SOOTH SPECS!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now you can see everything, albeit through a dizzying fisheye filter.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now you can see everything, albeit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through a dizzying fisheye filter.\
+",
 	},
 	next = {
 		3158,
 	},
 	previous = 3156,
+	page_id = 3157,
+	long_title = true,
 }

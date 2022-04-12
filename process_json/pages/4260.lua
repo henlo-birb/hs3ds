@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Command Sebastian to lift fridge.",
-	pageId = 4260,
 	timestamp = "1323059597",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4261,
 	},
 	previous = 4259,
+	page_id = 4260,
+	long_title = true,
 }

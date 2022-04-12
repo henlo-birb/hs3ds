@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Wear suit.",
-	pageId = 3735,
 	timestamp = "1303364703",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		3736,
 	},
 	previous = 3734,
+	page_id = 3735,
+	long_title = false,
 }

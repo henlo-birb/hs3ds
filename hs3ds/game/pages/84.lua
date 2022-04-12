@@ -1,6 +1,5 @@
 return {
 	title = "John: Leave a surprise for the mailman.",
-	pageId = 84,
 	timestamp = "1240614968",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"N...",
+		"N...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No!\
+",
 	},
 	next = {
 		85,
 	},
 	previous = 83,
+	page_id = 84,
+	long_title = true,
 }

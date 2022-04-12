@@ -1,6 +1,5 @@
 return {
 	title = "John: Press a button on the control panel.",
-	pageId = 1865,
 	timestamp = "1274307423",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You push one of the nearby buttons. It activates the upper right monitor. The view is locked on to a particular location on Earth at a particular date and time.",
+		"You push one of the nearby buttons. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"activates the upper right monitor. The\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"view is locked on to a particular\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"location on Earth at a particular date\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and time.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whoever was in the lab appears to have recently calibrated this device.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whoever was in the lab appears to have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"recently calibrated this device.\
+",
 	},
 	next = {
 		1866,
 	},
 	previous = 1864,
+	page_id = 1865,
+	long_title = true,
 }

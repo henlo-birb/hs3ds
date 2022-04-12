@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Begin meddling.",
-	pageId = 2200,
 	timestamp = "1278826054",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"Time to get this show on the road. There are SO MANY people to meddle with tonight. ",
+		"Time to get this show on the road.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There are SO MANY people to meddle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with tonight.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-After you ditch an unwelcome solicitor first, that is. Doesn't she realize how rude it is to meddle??",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll fuss with her meddling later.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"After you ditch an unwelcome solicitor\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"first, that is. Doesn't she realize\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"how rude it is to meddle??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll fuss with her meddling later.\
+",
 	},
 	next = {
 		2201,
 	},
 	previous = 2199,
+	page_id = 2200,
+	long_title = false,
 }

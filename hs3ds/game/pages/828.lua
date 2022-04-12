@@ -1,6 +1,5 @@
 return {
 	title = "Jade: See if Dave left you a sweet new rap.",
-	pageId = 828,
 	timestamp = "1256890473",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"It does not appear so, but you just never know with that crazy and cool guy.",
+		"It does not appear so, but you just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never know with that crazy and cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sooooo cooooooool.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sooooo cooooooool.\
+",
 	},
 	next = {
 		829,
 	},
 	previous = 827,
+	page_id = 828,
+	long_title = true,
 }

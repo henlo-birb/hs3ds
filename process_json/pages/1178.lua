@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Rough him up.",
-	pageId = 1178,
 	timestamp = "1263854140",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1179,
 	},
 	previous = 1177,
+	page_id = 1178,
+	long_title = false,
 }

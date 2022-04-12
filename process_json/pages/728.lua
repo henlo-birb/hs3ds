@@ -1,6 +1,5 @@
 return {
 	title = "WV: Curiously prod the funny-looking spirograph.",
-	pageId = 728,
 	timestamp = "1254620119",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		729,
 	},
 	previous = 727,
+	page_id = 728,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Retrieve arms from...",
-	pageId = 763,
 	timestamp = "1255504289",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"THEY'RE RIGHT THERE.",
+		"THEY'RE RIGHT THERE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IN PLAIN SIGHT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-LOOK, THEY ARE FLASHING RED.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN PLAIN SIGHT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"LOOK, THEY ARE FLASHING RED.\
+",
 	},
 	next = {
 		764,
 	},
 	previous = 762,
+	page_id = 763,
+	long_title = false,
 }

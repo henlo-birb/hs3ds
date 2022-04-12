@@ -1,6 +1,5 @@
 return {
 	title = "[o] You are not supposed to kiss her, Mr. Noir.",
-	pageId = 3870,
 	timestamp = "1308540876",
 	flag = {},
 	media = {
@@ -309,4 +308,6 @@ return {
 	},
 	previous = 3869,
 	theme = "scratch",
+	page_id = 3870,
+	long_title = true,
 }

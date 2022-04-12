@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Return to serving client.",
-	pageId = 2387,
 	timestamp = "1281330421",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		2388,
 	},
 	previous = 2386,
+	page_id = 2387,
+	long_title = true,
 }

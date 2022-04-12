@@ -1,6 +1,5 @@
 return {
 	title = "STORY RECTANGLE: ZOOM IN ON RAUNCHY SEDUCTION.",
-	pageId = 6522,
 	timestamp = "1378075339",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6521,
 	theme = "A6A6",
+	page_id = 6522,
+	long_title = true,
 }

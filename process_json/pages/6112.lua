@@ -1,6 +1,5 @@
 return {
 	title = "END OF ACT 6 INTERMISSION 5 INTERMISSION 5",
-	pageId = 6112,
 	timestamp = "1365308953",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		6113,
 	},
 	previous = 6111,
+	page_id = 6112,
+	long_title = true,
 }

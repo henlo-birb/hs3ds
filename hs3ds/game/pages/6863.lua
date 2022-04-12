@@ -1,6 +1,5 @@
 return {
 	title = "BEHOLD, MY EXCLUSIVE PRIVATE GALLERY.",
-	pageId = 6863,
 	timestamp = "1413620446",
 	flag = {},
 	media = {
@@ -12,27 +11,70 @@ return {
 			0,
 			0,
 		},
-		"ABRA CAFUCKING DABRA YOU NASTY SHITNERDS. ",
+		"ABRA CAFUCKING DABRA YOU NASTY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SHITNERDS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-READ IT AND WEEP!!!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(AND TELL ME HOW GOOD YOU THINK IT ALL IS. THANKS.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"READ IT AND WEEP!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(AND TELL ME HOW GOOD YOU THINK IT ALL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IS. THANKS.)\
+",
 	},
 	next = {
 		6864,
 	},
 	previous = 6862,
 	theme = "A6A6",
+	page_id = 6863,
+	long_title = true,
 }

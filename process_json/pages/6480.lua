@@ -1,6 +1,5 @@
 return {
 	title = "ACTUALLY. LET'S INVITE A COUPLE MORE TO THE PARTY.",
-	pageId = 6480,
 	timestamp = "1377739771",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6479,
 	theme = "A6A6",
+	page_id = 6480,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quickly retrieve firearms from wall.",
-	pageId = 792,
 	timestamp = "1256182550",
 	flag = {},
 	media = {
@@ -13,10 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You equip your trusty HUNTING RIFLE. There would be hell to pay if grandad caught you leaving the house without it.",
+		"You equip your trusty HUNTING RIFLE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There would be hell to pay if grandad\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"caught you leaving the house without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		793,
 	},
 	previous = 791,
+	page_id = 792,
+	long_title = true,
 }

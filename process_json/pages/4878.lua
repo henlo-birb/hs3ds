@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Start Jailbreak Adventure.",
-	pageId = 4878,
 	timestamp = "1335825969",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4879,
 	},
 	previous = 4877,
+	page_id = 4878,
+	long_title = false,
 }

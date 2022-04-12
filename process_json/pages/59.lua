@@ -1,6 +1,5 @@
 return {
 	title = "John: Put urn back.",
-	pageId = 59,
 	timestamp = "1240121554",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		60,
 	},
 	previous = 58,
+	page_id = 59,
+	long_title = false,
 }

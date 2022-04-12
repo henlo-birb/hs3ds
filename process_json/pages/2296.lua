@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Recruit Vriska.",
-	pageId = 2296,
 	timestamp = "1280289097",
 	flag = {},
 	media = {
@@ -2700,4 +2699,6 @@ return {
 		2297,
 	},
 	previous = 2295,
+	page_id = 2296,
+	long_title = false,
 }

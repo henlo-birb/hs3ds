@@ -1,6 +1,5 @@
 return {
 	title = "John: Investigate.",
-	pageId = 165,
 	timestamp = "1242521420",
 	flag = {},
 	media = {
@@ -13,52 +12,111 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: augh!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: augh!",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: I think I can patch it up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I think I can patch it up.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Just give me a little space.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Just give me a little space.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Why don't you go have a look at\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"the Cruxtruder?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Why don't you go have a look at the Cruxtruder?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"EB: the what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-EB: the what?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: The thing I put in your living room.",
+		"TT: The thing I put in your living\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"room.\
+",
 	},
 	next = {
 		166,
 	},
 	previous = 164,
+	page_id = 165,
+	long_title = false,
 }

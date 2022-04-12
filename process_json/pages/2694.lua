@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Confer with leader.",
-	pageId = 2694,
 	timestamp = "1285798167",
 	flag = {},
 	media = {
@@ -1944,4 +1943,6 @@ return {
 		2695,
 	},
 	previous = 2693,
+	page_id = 2694,
+	long_title = false,
 }

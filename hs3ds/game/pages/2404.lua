@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2404,
 	timestamp = "1281639122",
 	flag = {
 		"R4",
@@ -14,26 +13,244 @@ return {
 			0,
 			0,
 		},
-		"Later our troll hero would try to explain this to our human hero, attempting to convey all the nuance of troll romance through a nearly verbatim recitation of the preceding excerpts. ",
+		"Later our troll hero would try to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"explain this to our human hero,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"attempting to convey all the nuance of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"troll romance through a nearly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"verbatim recitation of the preceding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"excerpts.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He would try to describe how rich and textured the troll romantic comedies were compared to the one dimensional schlock of our human cinematic counterparts. He would barely scratch the surface of Troll Will Smith's virtuosity with the delicate lattice of troll romance, as he would assist the bumbling fudgeblooded Troll Kevin James through the interwoven minefield-briarpatch of redrom and blackrom entanglements, all the while sifting through his own prickly romantic situation and ultimately learning the true meaning of hate and pity. But would they succeed before the imperial drone came knocking with his thirsty pails at the ready??? Yes, they would.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But John didn't understand any of this because he's a moron, and he wouldn't shut up about his awful bullshit Earth movies. He would just go on and on and on about that garbage.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He would try to describe how rich and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"textured the troll romantic comedies\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were compared to the one dimensional\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"schlock of our human cinematic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"counterparts. He would barely scratch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the surface of Troll Will Smith's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"virtuosity with the delicate lattice\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of troll romance, as he would assist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the bumbling fudgeblooded Troll Kevin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"James through the interwoven\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"minefield-briarpatch of redrom and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"blackrom entanglements, all the while\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sifting through his own prickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"romantic situation and ultimately\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"learning the true meaning of hate and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pity. But would they succeed before\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the imperial drone came knocking with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his thirsty pails at the ready??? Yes,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"they would.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But John didn't understand any of this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because he's a moron, and he wouldn't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shut up about his awful bullshit Earth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"movies. He would just go on and on and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on about that garbage.\
+",
 	},
 	next = {
 		2405,
 	},
 	previous = 2403,
+	page_id = 2404,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "SS: Type '====', then ==>",
-	pageId = 2502,
 	timestamp = "1282504301",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		2503,
 	},
 	previous = 2501,
+	page_id = 2502,
+	long_title = false,
 }

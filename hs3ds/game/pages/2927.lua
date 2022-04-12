@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Enter.",
-	pageId = 2927,
 	timestamp = "1290905114",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		2928,
 	},
 	previous = 2926,
+	page_id = 2927,
+	long_title = false,
 }

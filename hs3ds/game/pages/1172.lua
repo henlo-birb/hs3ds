@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Examine heist map.",
-	pageId = 1172,
 	timestamp = "1263786487",
 	flag = {},
 	media = {
@@ -12,18 +11,76 @@ return {
 			0,
 			0,
 		},
-		"On review, your schemes seem a bit convoluted. But you wouldn't have it any other way.",
+		"On review, your schemes seem a bit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"convoluted. But you wouldn't have it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any other way.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Deuce and Droog split up to neutralize as many Felt as they can find. Your heavy muscle and expert safecracker, Boxcars, is headed straight down to the vault.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Deuce and Droog split up to neutralize\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as many Felt as they can find. Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heavy muscle and expert safecracker,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Boxcars, is headed straight down to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the vault.\
+",
 	},
 	next = {
 		1173,
 	},
 	previous = 1171,
+	page_id = 1172,
+	long_title = false,
 }

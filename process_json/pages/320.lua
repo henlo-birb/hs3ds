@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Examine jar of unknown yellow substance in the closet.",
-	pageId = 320,
 	timestamp = "1246487499",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		321,
 	},
 	previous = 319,
+	page_id = 320,
+	long_title = true,
 }

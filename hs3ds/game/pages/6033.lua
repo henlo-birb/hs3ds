@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6033,
 	timestamp = "1364091789",
 	flag = {},
 	media = {
@@ -12,52 +11,174 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: No, not those rings!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: No, not those rings!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: The rings I am talking a8out are less powerful, and considera8ly more o8scure.",
+		"ARANEA: The rings I am talking a8out\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: 8ut for what they lack in power, they make up for in mystery!",
+		"are less powerful, and considera8ly\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"more o8scure.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Details on the rings are quite hard to come 8y. I have pieced together what little I know from various fa8les and myths.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: They occasionally make appearances in such stories, serving different purposes in each tale, and always called 8y different names.",
+		"ARANEA: 8ut for what they lack in\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"power, they make up for in mystery!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: 8ut in this story, they will 8e known as the Rings of Life and Void.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Details on the rings are quite\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"hard to come 8y. I have pieced\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"together what little I know from\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"various fa8les and myths.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: They occasionally make\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"appearances in such stories, serving\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"different purposes in each tale, and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"always called 8y different names.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut in this story, they will\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8e known as the Rings of Life and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Void.\
+",
 	},
 	next = {
 		6034,
 	},
 	previous = 6032,
+	page_id = 6033,
+	long_title = false,
 }

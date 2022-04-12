@@ -1,6 +1,5 @@
 return {
 	title = "THIS GIVES DIRK JUST THE TIME HE NEEDS.",
-	pageId = 7442,
 	timestamp = "1429068035",
 	flag = {
 		"F",
@@ -14,19 +13,56 @@ return {
 			0,
 			0,
 		},
-		"TO DO HIS FLAMBOYANT PINK SPELL. ",
+		"TO DO HIS FLAMBOYANT PINK SPELL.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IT OWNS ME COMPLETELY. BUT SADLY TO DIRK MAYBE, IT ALSO OWNS THE MUSCLE HERO. BOTH OF OUR SOULS ARE CONSUMED BY THE ENCHANTMENT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IT OWNS ME COMPLETELY. BUT SADLY TO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DIRK MAYBE, IT ALSO OWNS THE MUSCLE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HERO. BOTH OF OUR SOULS ARE CONSUMED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BY THE ENCHANTMENT.\
+",
 	},
 	next = {
 		7443,
 	},
 	previous = 7441,
 	theme = "A6A6",
+	page_id = 7442,
+	long_title = true,
 }

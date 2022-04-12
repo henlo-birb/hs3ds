@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine holster belt.",
-	pageId = 4165,
 	timestamp = "1321662448",
 	flag = {},
 	media = {
@@ -13,10 +12,41 @@ return {
 			0,
 			0,
 		},
-		"It's your authentic TOMB RAIDER SEXY THIGHSTRAP DOUBLE HOLSTER, complete with cool skullbuckle and everything. You like to think you pull it off about as well as Croft herself.",
+		"It's your authentic TOMB RAIDER SEXY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THIGHSTRAP DOUBLE HOLSTER, complete\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with cool skullbuckle and everything.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You like to think you pull it off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about as well as Croft herself.\
+",
 	},
 	next = {
 		4166,
 	},
 	previous = 4164,
+	page_id = 4165,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine hubtop and hair band.",
-	pageId = 1807,
 	timestamp = "1273189642",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You make the HUBTOPBAND, a convenient hands-free computing device.",
+		"You make the HUBTOPBAND, a convenient\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hands-free computing device.\
+",
 	},
 	next = {
 		1808,
 	},
 	previous = 1806,
+	page_id = 1807,
+	long_title = true,
 }

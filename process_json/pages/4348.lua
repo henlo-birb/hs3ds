@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] Rose + Dave: Reap spoils.",
-	pageId = 4348,
 	timestamp = "1324179142",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		4349,
 	},
 	previous = 4347,
+	page_id = 4348,
+	long_title = false,
 }

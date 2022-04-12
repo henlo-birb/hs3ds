@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1620,
 	timestamp = "1269488496",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"The royal duty has been accepted.",
+		"The royal duty has been accepted.\
+",
 	},
 	next = {
 		1621,
 	},
 	previous = 1619,
+	page_id = 1620,
+	long_title = false,
 }

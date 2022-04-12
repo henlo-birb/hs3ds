@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Squeal like a piglet and fertilize some plants.",
-	pageId = 774,
 	timestamp = "1255742642",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		775,
 	},
 	previous = 773,
+	page_id = 774,
+	long_title = true,
 }

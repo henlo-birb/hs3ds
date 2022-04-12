@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Lead fearsome entourage into ruins.",
-	pageId = 2367,
 	timestamp = "1281153166",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2368,
 	},
 	previous = 2366,
+	page_id = 2367,
+	long_title = true,
 }

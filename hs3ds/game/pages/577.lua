@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 577,
 	timestamp = "1251954460",
 	flag = {},
 	media = {
@@ -12,96 +11,132 @@ return {
 			0,
 			0,
 		},
-		"You put the ",
+		"You put the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"B",
+		"B\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"X",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"X\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"F F",
+		"F F\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"I",
+		"I\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"R",
+		"R\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"W",
+		"W\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"RKS",
+		"RKS\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (3) back into card 5 and prepare to start ov...",
+		"(3) back into card 5 and prepare to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"start ov...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Or card 3, apparently. That settles that, you guess.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Or card 3, apparently. That settles\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that, you guess.\
+",
 	},
 	next = {
 		578,
 	},
 	previous = 576,
+	page_id = 577,
+	long_title = false,
 }

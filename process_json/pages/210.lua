@@ -1,6 +1,5 @@
 return {
 	title = "John: Activate lathe.",
-	pageId = 210,
 	timestamp = "1243298292",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		211,
 	},
 	previous = 209,
+	page_id = 210,
+	long_title = false,
 }

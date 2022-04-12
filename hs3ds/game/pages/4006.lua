@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4006,
 	timestamp = "1312309086",
 	flag = {},
 	media = {
@@ -12,53 +11,126 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"PCG: SEE, I WAS THINKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: SEE, I WAS THINKING",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: ABOUT JACK, AND HOW HE CAN'T STAND FROGS.",
+		"PCG: ABOUT JACK, AND HOW HE CAN'T\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"STAND FROGS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: AND I THINK I FINALLY UNDERSTAND WHAT'S GOING ON.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: I THINK I KNOW WHAT'S ABOUT TO HAPPEN AT THE END OF OUR TIMELINES.",
+		"PCG: AND I THINK I FINALLY UNDERSTAND\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"WHAT'S GOING ON.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: I THINK I KNOW WHAT THE CRITICAL MOMENT IS.",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"PCG: I THINK I KNOW WHAT'S ABOUT TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"HAPPEN AT THE END OF OUR TIMELINES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-PCG: AND IT'S COMPLETELY MY FAULT.",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: I THINK I KNOW WHAT THE CRITICAL\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MOMENT IS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"PCG: AND IT'S COMPLETELY MY FAULT.\
+",
 	},
 	next = {
 		4007,
 	},
 	previous = 4005,
 	theme = "scratch",
+	page_id = 4006,
+	long_title = false,
 }

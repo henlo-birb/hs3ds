@@ -1,6 +1,5 @@
 return {
 	title = "AND BY UPSET.",
-	pageId = 7433,
 	timestamp = "1428980655",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 	},
 	previous = 7432,
 	theme = "A6A6",
+	page_id = 7433,
+	long_title = false,
 }

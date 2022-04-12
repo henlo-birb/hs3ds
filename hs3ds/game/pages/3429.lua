@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Put teeth back in.",
-	pageId = 3429,
 	timestamp = "1296762376",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"There. Good as new, best friend! It's like it never happened. No one can ever blame you for dropping him down the stairs now. Stairs? What stairs! Ha ha ha!",
+		"There. Good as new, best friend! It's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like it never happened. No one can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ever blame you for dropping him down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the stairs now. Stairs? What stairs!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ha ha ha!\
+",
 	},
 	next = {
 		3430,
 	},
 	previous = 3428,
+	page_id = 3429,
+	long_title = false,
 }

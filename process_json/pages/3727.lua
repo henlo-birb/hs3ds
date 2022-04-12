@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine cover.",
-	pageId = 3727,
 	timestamp = "1303262653",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		3728,
 	},
 	previous = 3726,
+	page_id = 3727,
+	long_title = false,
 }

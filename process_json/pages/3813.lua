@@ -1,6 +1,5 @@
 return {
 	title = "[o] But not without a pair of trophies.",
-	pageId = 3813,
 	timestamp = "1306919898",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 3812,
 	theme = "scratch",
+	page_id = 3813,
+	long_title = true,
 }

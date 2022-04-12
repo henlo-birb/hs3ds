@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Wonder why the design on your shirt changed.",
-	pageId = 793,
 	timestamp = "1256182599",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"There isn't much to wonder, really. You left the WARDROBIFIER on its randomization setting.",
+		"There isn't much to wonder, really.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You left the WARDROBIFIER on its\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"randomization setting.\
+",
 	},
 	next = {
 		794,
 	},
 	previous = 792,
+	page_id = 793,
+	long_title = true,
 }

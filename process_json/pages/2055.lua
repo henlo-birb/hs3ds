@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Troll AC.",
-	pageId = 2055,
 	timestamp = "1276993026",
 	flag = {},
 	media = {
@@ -1384,4 +1383,6 @@ return {
 		2056,
 	},
 	previous = 2054,
+	page_id = 2055,
+	long_title = false,
 }

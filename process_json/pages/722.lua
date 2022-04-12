@@ -1,6 +1,5 @@
 return {
 	title = "WV: Mourn the loss of citizen tab.",
-	pageId = 722,
 	timestamp = "1254529409",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		723,
 	},
 	previous = 721,
+	page_id = 722,
+	long_title = true,
 }

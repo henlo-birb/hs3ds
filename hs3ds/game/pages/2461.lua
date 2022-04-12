@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2461,
 	timestamp = "1282101834",
 	flag = {
 		"R4",
@@ -14,10 +13,20 @@ return {
 			0,
 			0,
 		},
-		"While you would reap the custodial spoils.",
+		"While you would reap the custodial\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spoils.\
+",
 	},
 	next = {
 		2462,
 	},
 	previous = 2460,
+	page_id = 2461,
+	long_title = false,
 }

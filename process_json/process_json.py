@@ -88,12 +88,16 @@ for k, v in hs_filtered.items():
                 
     v["content"] = new_content
     v["next"] = [conv_key(n) for n in v["next"]]
-    if "previous" in v:
-        v["previous"] = conv_key(v["previous"])
-        v["pageId"] = conv_key(v["pageId"])
-        v["media"] = [
+    v["media"] = [
             m.replace("/storyfiles/hs2/", "").replace(".gif", "") for m in v["media"]
         ]
+    v["page_id"] = conv_key(v["pageId"])
+    v["long_title"] = len(v["title"]) > 32
+    del(v["pageId"])
+    if "previous" in v:
+        v["previous"] = conv_key(v["previous"])
+        
+        
     luadata.write(f"pages/{conv_key(k)}.lua", v, indent="\t")
     bar.value += 1
     bar.update()

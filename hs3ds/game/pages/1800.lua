@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, in a Timeless Expanse...",
-	pageId = 1800,
 	timestamp = "1273028443",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Somewhere, a WARWEARY VILLEIN rues eternal struggle between feuding royalty.",
+		"Somewhere, a WARWEARY VILLEIN rues\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"eternal struggle between feuding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"royalty.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The BATTLEFIELD holds little promise for the peaceful life of a simple farmer.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The BATTLEFIELD holds little promise\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for the peaceful life of a simple\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"farmer.\
+",
 	},
 	next = {
 		1801,
 	},
 	previous = 1799,
+	page_id = 1800,
+	long_title = true,
 }

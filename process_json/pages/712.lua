@@ -1,6 +1,5 @@
 return {
 	title = "WV: Hit escape.",
-	pageId = 712,
 	timestamp = "1254245332",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		713,
 	},
 	previous = 711,
+	page_id = 712,
+	long_title = false,
 }

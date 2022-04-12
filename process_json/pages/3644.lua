@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Resist urge to seek revenge.",
-	pageId = 3644,
 	timestamp = "1300253306",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		3645,
 	},
 	previous = 3643,
+	page_id = 3644,
+	long_title = true,
 }

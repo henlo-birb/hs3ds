@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3684,
 	timestamp = "1300956533",
 	flag = {},
 	media = {
@@ -13,10 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You then in your most leaderly way ask Liv to pilot that enormous battleship! She will now be known as Captain Tyler.",
+		"You then in your most leaderly way ask\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Liv to pilot that enormous battleship!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"She will now be known as Captain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Tyler.\
+",
 	},
 	next = {
 		3685,
 	},
 	previous = 3683,
+	page_id = 3684,
+	long_title = false,
 }

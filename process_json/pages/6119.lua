@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Interrogate Ms. Paint.",
-	pageId = 6119,
 	timestamp = "1365324255",
 	flag = {},
 	media = {
@@ -271,4 +270,6 @@ return {
 		6120,
 	},
 	previous = 6118,
+	page_id = 6119,
+	long_title = true,
 }

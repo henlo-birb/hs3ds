@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Follow.",
-	pageId = 1759,
 	timestamp = "1272216734",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1760,
 	},
 	previous = 1758,
+	page_id = 1759,
+	long_title = false,
 }

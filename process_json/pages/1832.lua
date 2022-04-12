@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine Gamebro Magazine and timetables.",
-	pageId = 1832,
 	timestamp = "1273771488",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1833,
 	},
 	previous = 1831,
+	page_id = 1832,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Retrieve hat from brawlsoleum.",
-	pageId = 1200,
 	timestamp = "1264023707",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		1201,
 	},
 	previous = 1199,
+	page_id = 1200,
+	long_title = true,
 }

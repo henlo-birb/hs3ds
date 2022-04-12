@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Inspect noise.",
-	pageId = 3368,
 	timestamp = "1296092390",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3369,
 	},
 	previous = 3367,
+	page_id = 3368,
+	long_title = false,
 }

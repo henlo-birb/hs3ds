@@ -1,6 +1,5 @@
 return {
 	title = "Centuries ago...",
-	pageId = 2565,
 	timestamp = "1283204443",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"And yet, right now...",
+		"And yet, right now...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The SYLPH OF SPACE was able to vacate the impact site with several features of her buried landscape in tow. She sits atop her session's dormant FORGE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The SYLPH OF SPACE was able to vacate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the impact site with several features\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of her buried landscape in tow. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sits atop her session's dormant FORGE.\
+",
 	},
 	next = {
 		2566,
 	},
 	previous = 2564,
+	page_id = 2565,
+	long_title = false,
 }

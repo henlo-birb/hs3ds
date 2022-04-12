@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Lose interest in fauna and never speak of it again.",
-	pageId = 797,
 	timestamp = "1256248829",
 	flag = {},
 	media = {
@@ -278,4 +277,6 @@ return {
 		798,
 	},
 	previous = 796,
+	page_id = 797,
+	long_title = true,
 }

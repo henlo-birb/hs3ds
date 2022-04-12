@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Dave's Midnight Crew poster and rifle.",
-	pageId = 3160,
 	timestamp = "1293252039",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		3161,
 	},
 	previous = 3159,
+	page_id = 3160,
+	long_title = true,
 }

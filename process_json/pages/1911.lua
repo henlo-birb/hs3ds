@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Go in.",
-	pageId = 1911,
 	timestamp = "1274648617",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1912,
 	},
 	previous = 1910,
+	page_id = 1911,
+	long_title = false,
 }

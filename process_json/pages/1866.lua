@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine monitor.",
-	pageId = 1866,
 	timestamp = "1274307457",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1867,
 	},
 	previous = 1865,
+	page_id = 1866,
+	long_title = false,
 }

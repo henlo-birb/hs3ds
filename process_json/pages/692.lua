@@ -1,6 +1,5 @@
 return {
 	title = "WV: Try to open the storage box.",
-	pageId = 692,
 	timestamp = "1253850481",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		693,
 	},
 	previous = 691,
+	page_id = 692,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Have right eye patched up.",
-	pageId = 1300,
 	timestamp = "1265148733",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		1301,
 	},
 	previous = 1299,
+	page_id = 1300,
+	long_title = true,
 }

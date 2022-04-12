@@ -1,6 +1,5 @@
 return {
 	title = "Midnight Crew.",
-	pageId = 328,
 	timestamp = "1246672963",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"\"You are members of a sinister gang called the Midnight Crew. Your nefarious plots are serpentine in complexity. Your schemes, convoluted. You are planning a heist in your underground hideout.",
+		"\"You are members of a sinister gang\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"called the Midnight Crew. Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nefarious plots are serpentine in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"complexity. Your schemes, convoluted.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are planning a heist in your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"underground hideout.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What will you do?\"",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What will you do?\"\
+",
 	},
 	next = {
 		329,
 	},
 	previous = 327,
+	page_id = 328,
+	long_title = false,
 }

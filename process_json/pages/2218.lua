@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Equiup a bow.",
-	pageId = 2218,
 	timestamp = "1278982877",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2219,
 	},
 	previous = 2217,
+	page_id = 2218,
+	long_title = false,
 }

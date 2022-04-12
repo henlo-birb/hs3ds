@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use sharp teeth to poke a hole in the lid of the can.",
-	pageId = 672,
 	timestamp = "1253648807",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"Your teeth are useless for the task! They are blunt like that of livestock, presumably suitable for mashing up plant matter, and not for puncturing metal.",
+		"Your teeth are useless for the task!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"They are blunt like that of livestock,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"presumably suitable for mashing up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plant matter, and not for puncturing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"metal.\
+",
 	},
 	next = {
 		673,
 	},
 	previous = 671,
+	page_id = 672,
+	long_title = true,
 }

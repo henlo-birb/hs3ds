@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Ditch computers.",
-	pageId = 4186,
 	timestamp = "1321911380",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		4187,
 	},
 	previous = 4185,
+	page_id = 4186,
+	long_title = false,
 }

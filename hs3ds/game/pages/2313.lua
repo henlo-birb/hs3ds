@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2313,
 	timestamp = "1280516276",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You would begin to notice a strange pattern. The blue team's prototypings would affect the mutations of your session's underlings.",
+		"You would begin to notice a strange\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pattern. The blue team's prototypings\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would affect the mutations of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"session's underlings.\
+",
 	},
 	next = {
 		2314,
 	},
 	previous = 2312,
+	page_id = 2313,
+	long_title = false,
 }

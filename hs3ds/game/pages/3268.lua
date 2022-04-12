@@ -1,6 +1,5 @@
 return {
 	title = "Serenity: Blink for help furiously!",
-	pageId = 3268,
 	timestamp = "1294452096",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You interrupt whatever nonsense these silly people are planning with an extremely urgent message!!!",
+		"You interrupt whatever nonsense these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"silly people are planning with an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"extremely urgent message!!!\
+",
 	},
 	next = {
 		3269,
 	},
 	previous = 3267,
+	page_id = 3268,
+	long_title = true,
 }

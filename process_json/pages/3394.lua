@@ -1,6 +1,5 @@
 return {
 	title = "John: Snap out of it.",
-	pageId = 3394,
 	timestamp = "1296409899",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3395,
 	},
 	previous = 3393,
+	page_id = 3394,
+	long_title = false,
 }

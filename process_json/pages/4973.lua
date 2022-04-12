@@ -1,6 +1,5 @@
 return {
 	title = "uu: Jeer future Dirk.",
-	pageId = 4973,
 	timestamp = "1337927674",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4974,
 	},
 	previous = 4972,
+	page_id = 4973,
+	long_title = false,
 }

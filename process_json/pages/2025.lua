@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Get some programming done.",
-	pageId = 2025,
 	timestamp = "1276706970",
 	flag = {},
 	media = {
@@ -363,4 +362,6 @@ return {
 		2026,
 	},
 	previous = 2024,
+	page_id = 2025,
+	long_title = true,
 }

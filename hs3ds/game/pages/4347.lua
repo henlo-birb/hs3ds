@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] Dave: Level up.",
-	pageId = 4347,
 	timestamp = "1324179112",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4348,
 	},
 	previous = 4346,
+	page_id = 4347,
+	long_title = false,
 }

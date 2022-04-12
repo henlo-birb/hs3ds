@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Deal with Terezi.",
-	pageId = 2061,
 	timestamp = "1277074145",
 	flag = {},
 	media = {
@@ -1209,4 +1208,6 @@ return {
 		2062,
 	},
 	previous = 2060,
+	page_id = 2061,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Captchalogue can of gravy.",
-	pageId = 670,
 	timestamp = "1253594918",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		671,
 	},
 	previous = 669,
+	page_id = 670,
+	long_title = false,
 }

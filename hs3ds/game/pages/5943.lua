@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5943,
 	timestamp = "1361343840",
 	flag = {},
 	media = {
@@ -12,290 +11,909 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: i guess she left already?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: i guess she left already?",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: maybe there was an emergency somewhere and her doggy senses led her there",
+		"DAVESPRITE: maybe there was an\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: maybe someone fell down a well",
+		"emergency somewhere and her doggy\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"senses led her there\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: what do you think john do you think our teen parents fell down a well",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: nah i sincerely doubt that any of them would be that pathetic",
+		"DAVESPRITE: maybe someone fell down a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: whatever it was it must have been important enough for jade to ditch us like this",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: either that or",
+		"DAVESPRITE: what do you think john do\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: maybe she was that desperate to finally get away from me",
+		"you think our teen parents fell down a\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"well\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: between you and me john",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i didnt really handle things with her as well as i could have",
+		"DAVESPRITE: nah i sincerely doubt that\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"any of them would be that pathetic\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: oh well maybe real dave will treat her better",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: or not i dont know",
+		"DAVESPRITE: whatever it was it must\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i did her a favor cutting bird dave out of her life",
+		"have been important enough for jade to\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"ditch us like this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: nobody really deserves bird dave as a boyfriend or a friend or anything its like getting one of the janky daves from the bargain bin at the dave depot",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: either that or\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: or one of the marked down daves the day after national dave day",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: its like somebody taxedermized your dave and expected you not to notice",
+		"DAVESPRITE: maybe she was that\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"desperate to finally get away from me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: \"feathers what feathers haha no that dave is totally normal and ok\"",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: between you and me john\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: you should just go back to being bros with real dave when you see him",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: ill be fine ill just flap around and do my thing alone",
+		"DAVESPRITE: i didnt really handle\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: im completely alright with that at this point",
+		"things with her as well as i could\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"have\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: we had our ups and downs john but all in all it was cool to go on this road trip with you",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: there were some times man",
+		"DAVESPRITE: oh well maybe real dave\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"will treat her better\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: the times",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: or not i dont know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: im telling you they were unreal",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i bet you people would pay good money to see every second of the madcap stunts that were going down on this ship basically 24/7",
+		"DAVESPRITE: i did her a favor cutting\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"bird dave out of her life\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: if hulls could talk wow",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: haha just joking it was seriously boring as hell",
+		"DAVESPRITE: nobody really deserves\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: but i mean it was still cool so yeah",
+		"bird dave as a boyfriend or a friend\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: hey",
+		"or anything its like getting one of\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: whats that ring anyway",
+		"the janky daves from the bargain bin\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"at the dave depot\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: ive seen you with that ring before and i guess i was just like",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: ok john has a magic ring for some reason",
+		"DAVESPRITE: or one of the marked down\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"daves the day after national dave day\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: no need to mention that or anything",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: but where did you even get it",
+		"DAVESPRITE: its like somebody\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: you cant even hear me you got your snooze on so hard",
+		"taxedermized your dave and expected\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"you not to notice\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: aint gonna wake you up to hassle you about no ring",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: i probably should have said all this stuff when you were awake anyway",
+		"DAVESPRITE: \"feathers what feathers\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: like the stuff about friendship",
+		"haha no that dave is totally normal\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"and ok\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: fuck it ill just leave another one of my patented magic notes taped to your shoe or your cowlick or something",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DAVESPRITE: you should just go back to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"being bros with real dave when you see\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"him\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVESPRITE: my magic notes rule ill miss leavin em taped on stuff",
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: ill be fine ill just flap\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"around and do my thing alone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: im completely alright with\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"that at this point\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: we had our ups and downs\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"john but all in all it was cool to go\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"on this road trip with you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: there were some times man\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: the times\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: im telling you they were\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"unreal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i bet you people would pay\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"good money to see every second of the\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"madcap stunts that were going down on\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"this ship basically 24/7\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: if hulls could talk wow\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: haha just joking it was\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"seriously boring as hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: but i mean it was still\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"cool so yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: hey\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: whats that ring anyway\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: ive seen you with that\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"ring before and i guess i was just\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: ok john has a magic ring\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"for some reason\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: no need to mention that or\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"anything\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: but where did you even get\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: you cant even hear me you\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"got your snooze on so hard\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: aint gonna wake you up to\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"hassle you about no ring\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: i probably should have\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"said all this stuff when you were\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"awake anyway\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: like the stuff about\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"friendship\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: fuck it ill just leave\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"another one of my patented magic notes\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"taped to your shoe or your cowlick or\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"DAVESPRITE: my magic notes rule ill\
+",
+		{
+			0.9490196078431372,
+			0.6431372549019608,
+			0.0,
+		},
+		"miss leavin em taped on stuff\
+",
 	},
 	next = {
 		5944,
 	},
 	previous = 5942,
+	page_id = 5943,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AR: Befriend the unwelcome rogues.",
-	pageId = 1107,
 	timestamp = "1262559361",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1108,
 	},
 	previous = 1106,
+	page_id = 1107,
+	long_title = true,
 }

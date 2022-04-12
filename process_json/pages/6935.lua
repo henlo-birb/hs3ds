@@ -1,6 +1,5 @@
 return {
 	title = "AND LIKE ANY BEAUTIFUL ART POET.",
-	pageId = 6935,
 	timestamp = "1414892696",
 	flag = {},
 	media = {
@@ -181,4 +180,6 @@ return {
 	},
 	previous = 6934,
 	theme = "A6A6",
+	page_id = 6935,
+	long_title = false,
 }

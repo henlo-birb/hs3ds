@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7552,
 	timestamp = "1431651183",
 	flag = {},
 	media = {
@@ -12,23 +11,48 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: My ghost is 8eing a",
+		"VRISKA: My ghost is 8eing a\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://mspaintadventures.com/scraps2/vris_fuckingloser.gif\"/>",
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://mspaintadventures.com/scraps2/vris_fuckingloser.gif\"/>\
+",
 	},
 	next = {
 		7553,
 	},
 	previous = 7551,
+	page_id = 7552,
+	long_title = false,
 }

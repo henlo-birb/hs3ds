@@ -1,6 +1,5 @@
 return {
 	title = "I SWEAT THE STUFF.",
-	pageId = 6932,
 	timestamp = "1414892560",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 	},
 	previous = 6931,
 	theme = "A6A6",
+	page_id = 6932,
+	long_title = false,
 }

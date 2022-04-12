@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2748,
 	timestamp = "1286854903",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You take the brunt of the stellar smellsplosion like a sour apple punch to the snout!",
+		"You take the brunt of the stellar\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smellsplosion like a sour apple punch\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to the snout!\
+",
 	},
 	next = {
 		2749,
 	},
 	previous = 2747,
+	page_id = 2748,
+	long_title = false,
 }

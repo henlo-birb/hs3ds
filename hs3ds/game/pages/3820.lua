@@ -1,6 +1,5 @@
 return {
 	title = "[o] Round two.",
-	pageId = 3820,
 	timestamp = "1307005620",
 	flag = {},
 	media = {
@@ -12,11 +11,21 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/exclamation.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/exclamation.gif\"/>\
+",
 	},
 	next = {
 		3821,
 	},
 	previous = 3819,
 	theme = "scratch",
+	page_id = 3820,
+	long_title = false,
 }

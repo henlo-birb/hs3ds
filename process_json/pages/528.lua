@@ -1,6 +1,5 @@
 return {
 	title = "John: Attempt to retrieve pogo from card.",
-	pageId = 528,
 	timestamp = "1251011210",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		529,
 	},
 	previous = 527,
+	page_id = 528,
+	long_title = true,
 }

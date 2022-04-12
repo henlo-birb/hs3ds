@@ -1,6 +1,5 @@
 return {
 	title = "John: Dispatch these pests.",
-	pageId = 2667,
 	timestamp = "1285474464",
 	flag = {},
 	media = {
@@ -12,32 +11,62 @@ return {
 			0,
 			0,
 		},
-		"That is IT. ",
+		"That is IT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-EVERYBODY OUT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"DEAD SERIOUS.",
+		"EVERYBODY OUT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DEAD SERIOUS.\
+",
 	},
 	next = {
 		2668,
 	},
 	previous = 2666,
+	page_id = 2667,
+	long_title = false,
 }

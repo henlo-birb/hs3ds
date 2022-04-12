@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine earmuffs and lunchtop.",
-	pageId = 3147,
 	timestamp = "1293242015",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		3148,
 	},
 	previous = 3146,
+	page_id = 3147,
+	long_title = true,
 }

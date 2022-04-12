@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Bring knives to the gunfight.",
-	pageId = 1272,
 	timestamp = "1264824760",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1273,
 	},
 	previous = 1271,
+	page_id = 1272,
+	long_title = true,
 }

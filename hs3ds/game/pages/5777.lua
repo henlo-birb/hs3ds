@@ -1,6 +1,5 @@
 return {
 	title = "[S] HA HA HA! HE HE HE! HO HO HO!",
-	pageId = 5777,
 	timestamp = "1359173683",
 	flag = {
 		"F",
@@ -14,27 +13,63 @@ return {
 			0,
 			0,
 		},
-		"God dammit.",
+		"God dammit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-We're just gonna zoom in forever on that santa nose aren't we.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok we're done here.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"We're just gonna zoom in forever on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that santa nose aren't we.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok we're done here.\
+",
 	},
 	next = {
 		5778,
 	},
 	previous = 5776,
 	theme = "trickster",
+	page_id = 5777,
+	long_title = true,
 }

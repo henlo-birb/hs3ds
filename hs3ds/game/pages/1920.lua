@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1920,
 	timestamp = "1274670939",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"An old colonel lost, but a new brother gained.",
+		"An old colonel lost, but a new brother\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"gained.\
+",
 	},
 	next = {
 		1921,
 	},
 	previous = 1919,
+	page_id = 1920,
+	long_title = false,
 }

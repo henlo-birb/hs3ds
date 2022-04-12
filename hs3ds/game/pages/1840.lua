@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1840,
 	timestamp = "1273798519",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You're looking pretty chill with your new freakshow entourage.",
+		"You're looking pretty chill with your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new freakshow entourage.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The underlings all look kind of put off by it though. You're kind of weirding them out.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The underlings all look kind of put\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"off by it though. You're kind of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weirding them out.\
+",
 	},
 	next = {
 		1841,
 	},
 	previous = 1839,
+	page_id = 1840,
+	long_title = false,
 }

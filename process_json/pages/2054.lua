@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Begin recruiting red team members.",
-	pageId = 2054,
 	timestamp = "1276992579",
 	flag = {},
 	media = {
@@ -139,4 +138,6 @@ return {
 		2055,
 	},
 	previous = 2053,
+	page_id = 2054,
+	long_title = true,
 }

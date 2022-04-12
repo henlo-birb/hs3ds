@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7076,
 	timestamp = "1416547108",
 	flag = {},
 	media = {
@@ -12,66 +11,188 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: I'M SORRY BUT I DON'T CARE ABOUT THIS RIGHT NOW!",
+		"CALLIOPE: I'M SORRY BUT I DON'T CARE\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"ABOUT THIS RIGHT NOW!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: YOUR CONSORT FRIENDS ARE SO VERY CUTE AND THEIR NAMES ARE SILLY AND I LOVE THEM ALL BUT I WANT TO HEAR THE REST OF THE STORY!",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: PLEASE LET'S GO BACK TO ILLUSTRATING HER STORY, I'M SO CURIOUS!!!!!!!!!!!",
+		"CALLIOPE: YOUR CONSORT FRIENDS ARE SO\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"VERY CUTE AND THEIR NAMES ARE SILLY\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"AND I LOVE THEM ALL BUT I WANT TO HEAR\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"THE REST OF THE STORY!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE!",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: PLEASE LET'S GO BACK TO\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"ILLUSTRATING HER STORY, I'M SO\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CURIOUS!!!!!!!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: PLEASE PLEASE PLEASE PLEASE\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"PLEASE PLEASE PLEASE PLEASE PLEASE\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"PLEASE PLEASE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: wow, ok sorry!!!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: wow, ok sorry!!!!!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: yes youre right this is a stupid diversion... lets continue",
+		"JADE: yes youre right this is a stupid\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"diversion... lets continue\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: um callie...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: um callie...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: your hand :o",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: your hand :o\
+",
 	},
 	next = {
 		7077,
 	},
 	previous = 7075,
+	page_id = 7076,
+	long_title = false,
 }

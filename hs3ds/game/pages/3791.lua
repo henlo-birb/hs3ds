@@ -1,6 +1,5 @@
 return {
 	title = "[o] And what sort of spectator would you be...",
-	pageId = 3791,
 	timestamp = "1306370084",
 	flag = {},
 	media = {
@@ -12,11 +11,35 @@ return {
 			0,
 			0,
 		},
-		"If you'd forgotten the terms ruling the conditional immortality he won with his previous, similarly unceremonious impaling?",
+		"If you'd forgotten the terms ruling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the conditional immortality he won\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with his previous, similarly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unceremonious impaling?\
+",
 	},
 	next = {
 		3792,
 	},
 	previous = 3790,
 	theme = "scratch",
+	page_id = 3791,
+	long_title = true,
 }

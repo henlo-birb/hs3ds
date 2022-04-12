@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Employ junior compu-sooth spectagoggles.",
-	pageId = 3196,
 	timestamp = "1293686044",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		3197,
 	},
 	previous = 3195,
+	page_id = 3196,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6754,
 	timestamp = "1380767793",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Gotcha.",
+		"ROSE: Gotcha.\
+",
 	},
 	next = {
 		6755,
 	},
 	previous = 6753,
+	page_id = 6754,
+	long_title = false,
 }

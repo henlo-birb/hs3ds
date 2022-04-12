@@ -1,6 +1,5 @@
 return {
 	title = "Be teenage girl from another universe.",
-	pageId = 3626,
 	timestamp = "1299565553",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		3627,
 	},
 	previous = 3625,
+	page_id = 3626,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Kill something out of rage and frustration.",
-	pageId = 1271,
 	timestamp = "1264824589",
 	flag = {
 		"R1",
@@ -42,4 +41,6 @@ return {
 		1272,
 	},
 	previous = 1270,
+	page_id = 1271,
+	long_title = true,
 }

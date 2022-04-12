@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Pester Jake.",
-	pageId = 5658,
 	timestamp = "1356746662",
 	flag = {},
 	media = {
@@ -12,71 +11,132 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-tipsyGnostalgic [TG]",
+		"tipsyGnostalgic [TG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ",
+		"began pestering\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"golgothasTerror [GT]",
+		"golgothasTerror [GT]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jakester\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jakester",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: guess who\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: guess who",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i cannot say who\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i cannot say who",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: i am totes undercover here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i am totes undercover here",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: on derse\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: on derse",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: up to my see thru butt in wily espionage",
+		"TG: up to my see thru butt in wily\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"espionage\
+",
 	},
 	next = {
 		5659,
 	},
 	previous = 5657,
+	page_id = 5658,
+	long_title = false,
 }

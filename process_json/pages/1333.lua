@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Use Eggs' body as bait for Cans.",
-	pageId = 1333,
 	timestamp = "1265585927",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		1334,
 	},
 	previous = 1332,
+	page_id = 1333,
+	long_title = true,
 }

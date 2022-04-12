@@ -1,12 +1,11 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = "008298",
 	timestamp = "1375772364",
 	flag = {
 		"R4",
 	},
 	media = {
-		"/storyfiles/hs2/06395_retcon.gif",
+		"06395_retcon",
 	},
 	content = {
 		{
@@ -559,4 +558,6 @@ return {
 	next = {
 		6399,
 	},
+	page_id = 6398,
+	long_title = false,
 }

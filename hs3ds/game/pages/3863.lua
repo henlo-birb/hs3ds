@@ -1,6 +1,5 @@
 return {
 	title = "[o] Even atrocious candy bowl etiquette.",
-	pageId = 3863,
 	timestamp = "1308276517",
 	flag = {},
 	media = {
@@ -13,23 +12,49 @@ return {
 			0,
 			0,
 		},
-		"But it is the desecration of a priceless timepiece where I must draw the line. I'm afraid I must now insist that you take your beating ",
+		"But it is the desecration of a\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"quite",
+		"priceless timepiece where I must draw\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" personally.",
+		"the line. I'm afraid I must now insist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that you take your beating\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"personally.\
+",
 	},
 	next = {
 		3864,
 	},
 	previous = 3862,
 	theme = "scratch",
+	page_id = 3863,
+	long_title = true,
 }

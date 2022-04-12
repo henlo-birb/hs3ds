@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Transportalize as far down as you can go.",
-	pageId = 851,
 	timestamp = "1257894473",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 		852,
 	},
 	previous = 850,
+	page_id = 851,
+	long_title = true,
 }

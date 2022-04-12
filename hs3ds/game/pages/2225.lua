@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Remove tarp.",
-	pageId = 2225,
 	timestamp = "1279067862",
 	flag = {},
 	media = {
@@ -12,26 +11,104 @@ return {
 			0,
 			0,
 		},
-		"You reveal her sparkling new chassis. You have paid a great deal of attention to quality and detail in this model. She is perfect.",
+		"You reveal her sparkling new chassis.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have paid a great deal of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"attention to quality and detail in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this model. She is perfect.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't know what to make of the feelings she stirs. For one like you to entertain thoughts of attraction for such genetic filth would be utter depravity.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Exquisite, delectable depravity.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't know what to make of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"feelings she stirs. For one like you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to entertain thoughts of attraction\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for such genetic filth would be utter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"depravity.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Exquisite, delectable depravity.\
+",
 	},
 	next = {
 		2226,
 	},
 	previous = 2224,
+	page_id = 2225,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Sentence the criminal.",
-	pageId = 2042,
 	timestamp = "1276882165",
 	flag = {},
 	media = {
@@ -202,4 +201,6 @@ return {
 		2043,
 	},
 	previous = 2041,
+	page_id = 2042,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Pry open panel with knife.",
-	pageId = 4919,
 	timestamp = "1336036687",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4920,
 	},
 	previous = 4918,
+	page_id = 4919,
+	long_title = false,
 }

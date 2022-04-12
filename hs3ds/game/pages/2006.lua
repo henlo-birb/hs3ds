@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Go back inside.",
-	pageId = 2006,
 	timestamp = "1276553287",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You head back into your block and hit up your computer station. No word from any of your loudmouth pals. No news is good news. Sweet music to your auricular sponge clots.",
+		"You head back into your block and hit\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"up your computer station. No word from\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"any of your loudmouth pals. No news is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"good news. Sweet music to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"auricular sponge clots.\
+",
 	},
 	next = {
 		2007,
 	},
 	previous = 2005,
+	page_id = 2006,
+	long_title = false,
 }

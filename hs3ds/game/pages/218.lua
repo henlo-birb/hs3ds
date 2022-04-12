@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Retrieve arms from the purple box.",
-	pageId = 218,
 	timestamp = "1243567566",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"The PURPLE PACKAGE'S contents are private! No one is allowed to look inside.",
+		"The PURPLE PACKAGE'S contents are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"private! No one is allowed to look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inside.\
+",
 	},
 	next = {
 		219,
 	},
 	previous = 217,
+	page_id = 218,
+	long_title = true,
 }

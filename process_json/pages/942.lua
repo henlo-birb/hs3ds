@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Locate and feed the devilbeast you call a pet.",
-	pageId = 942,
 	timestamp = "1259714132",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		943,
 	},
 	previous = 941,
+	page_id = 942,
+	long_title = true,
 }

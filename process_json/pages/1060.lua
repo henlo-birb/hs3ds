@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine ghost gauntlet and bathroom mirror.",
-	pageId = 1060,
 	timestamp = "1261462834",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1061,
 	},
 	previous = 1059,
+	page_id = 1060,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy Punch Designix.",
-	pageId = 1509,
 	timestamp = "1267341952",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You can't! You'll need some SHALE for that.",
+		"You can't! You'll need some SHALE for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that.\
+",
 	},
 	next = {
 		1510,
 	},
 	previous = 1508,
+	page_id = 1509,
+	long_title = false,
 }

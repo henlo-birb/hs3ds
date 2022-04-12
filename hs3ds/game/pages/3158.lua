@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine sooth specs and lunchtop.",
-	pageId = 3158,
 	timestamp = "1293251885",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You make the JUNIOR COMPU-SOOTH SPECTAGOGGLES!",
+		"You make the JUNIOR COMPU-SOOTH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPECTAGOGGLES!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can never have too many cool computers.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can never have too many cool\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computers.\
+",
 	},
 	next = {
 		3159,
 	},
 	previous = 3157,
+	page_id = 3158,
+	long_title = true,
 }

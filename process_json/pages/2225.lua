@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Remove tarp.",
-	pageId = 2225,
 	timestamp = "1279067862",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		2226,
 	},
 	previous = 2224,
+	page_id = 2225,
+	long_title = false,
 }

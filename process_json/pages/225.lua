@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Look out window.",
-	pageId = 225,
 	timestamp = "1243727975",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 		226,
 	},
 	previous = 224,
+	page_id = 225,
+	long_title = false,
 }

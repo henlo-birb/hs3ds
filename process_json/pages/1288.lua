@@ -1,6 +1,5 @@
 return {
 	title = "[I] PSS: Remove Crowbar's pin.",
-	pageId = 1288,
 	timestamp = "1265051979",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1289,
 	},
 	previous = 1287,
+	page_id = 1288,
+	long_title = false,
 }

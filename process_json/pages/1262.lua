@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Prod idiots with Red Cheeks.",
-	pageId = 1262,
 	timestamp = "1264620697",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1263,
 	},
 	previous = 1261,
+	page_id = 1262,
+	long_title = true,
 }

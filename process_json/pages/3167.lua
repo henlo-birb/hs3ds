@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine green sun bedsheets and girl's best friend.",
-	pageId = 3167,
 	timestamp = "1293258486",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		3168,
 	},
 	previous = 3166,
+	page_id = 3167,
+	long_title = true,
 }

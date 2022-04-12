@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Abort.",
-	pageId = 2086,
 	timestamp = "1277405387",
 	flag = {},
 	media = {
@@ -1559,4 +1558,6 @@ return {
 		2087,
 	},
 	previous = 2085,
+	page_id = 2086,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Rose and Dave: Shut up and jam.",
-	pageId = 1720,
 	timestamp = "1271898902",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 		1721,
 	},
 	previous = 1719,
+	page_id = 1720,
+	long_title = true,
 }

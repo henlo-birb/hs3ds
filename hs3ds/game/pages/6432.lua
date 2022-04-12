@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6432,
 	timestamp = "1376425144",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"And you can't take it anymore.",
+		"And you can't take it anymore.\
+",
 	},
 	next = {
 		6433,
 	},
 	previous = 6431,
+	page_id = 6432,
+	long_title = false,
 }

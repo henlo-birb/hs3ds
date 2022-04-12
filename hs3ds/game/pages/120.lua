@@ -1,6 +1,5 @@
 return {
 	title = "John: Put down razor.",
-	pageId = 120,
 	timestamp = "1241596040",
 	flag = {},
 	media = {
@@ -12,34 +11,76 @@ return {
 			0,
 			0,
 		},
-		"Put it...",
+		"Put it...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Down?",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Down?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're not quite sure you understand.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're not quite sure you understand.\
+",
 	},
 	next = {
 		121,
 	},
 	previous = 119,
+	page_id = 120,
+	long_title = false,
 }

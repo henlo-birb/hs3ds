@@ -1,6 +1,5 @@
 return {
 	title = "Apprentice: Answer thief.",
-	pageId = 2974,
 	timestamp = "1291248304",
 	flag = {},
 	media = {
@@ -1153,4 +1152,6 @@ return {
 		2975,
 	},
 	previous = 2973,
+	page_id = 2974,
+	long_title = false,
 }

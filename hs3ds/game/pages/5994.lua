@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5994,
 	timestamp = "1363258195",
 	flag = {},
 	media = {
@@ -12,45 +11,153 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: He entered what is called a dead session.",
+		"ARANEA: He entered what is called a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"dead session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: This qualifies as 8oth a null and void session, 8ut is even less than either of those. Compared to a typical session, it is almost unrecogniza8le.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: 8efore the game 8egins, Skaia is 8lotted out with a dark layer of clouds. Its light is extinguished for good.",
+		"ARANEA: This qualifies as 8oth a null\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: There is no planet w8ting for the player in the medium.",
+		"and void session, 8ut is even less\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"than either of those. Compared to a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"typical session, it is almost\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"unrecogniza8le.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: So instead, he 8rought it with him.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8efore the game 8egins, Skaia\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is 8lotted out with a dark layer of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"clouds. Its light is extinguished for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"good.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: There is no planet w8ting for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the player in the medium.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: So instead, he 8rought it with\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"him.\
+",
 	},
 	next = {
 		5995,
 	},
 	previous = 5993,
+	page_id = 5994,
+	long_title = false,
 }

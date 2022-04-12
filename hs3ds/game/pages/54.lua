@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine father's pipe with clever disguise.",
-	pageId = 54,
 	timestamp = "1240094060",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You think now would be a good time to beef up your CLEVER DISGUISE.",
+		"You think now would be a good time to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beef up your CLEVER DISGUISE.\
+",
 	},
 	next = {
 		55,
 	},
 	previous = 53,
+	page_id = 54,
+	long_title = true,
 }

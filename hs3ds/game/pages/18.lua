@@ -1,6 +1,5 @@
 return {
 	title = "John: Use hammer/nails on poster.",
-	pageId = 18,
 	timestamp = "1239745890",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You use the HAMMER and NAILS card IN CONJUNCTION with the card beneath it.",
+		"You use the HAMMER and NAILS card IN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONJUNCTION with the card beneath it.\
+",
 	},
 	next = {
 		19,
 	},
 	previous = 17,
+	page_id = 18,
+	long_title = true,
 }

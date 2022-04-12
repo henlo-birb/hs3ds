@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Quickly remove lance from Sawbuck.",
-	pageId = 1291,
 	timestamp = "1265073871",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1292,
 	},
 	previous = 1290,
+	page_id = 1291,
+	long_title = true,
 }

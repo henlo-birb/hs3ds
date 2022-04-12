@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Captchalogue bass.",
-	pageId = 823,
 	timestamp = "1256703107",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		824,
 	},
 	previous = 822,
+	page_id = 823,
+	long_title = false,
 }

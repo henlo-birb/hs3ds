@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Find Lil' Cal and give fistbumps.",
-	pageId = 449,
 	timestamp = "1249797862",
 	flag = {},
 	media = {
@@ -12,34 +11,90 @@ return {
 			0,
 			0,
 		},
-		"CAL's nowhere in sight. All you see is a bunch of your BRO's weird nude puppets strewn around haphazardly.",
+		"CAL's nowhere in sight. All you see is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a bunch of your BRO's weird nude\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"puppets strewn around haphazardly.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You guess these things are kinda cool. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Sort of...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You guess these things are kinda cool.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Sort of...\
+",
 	},
 	next = {
 		450,
 	},
 	previous = 448,
+	page_id = 449,
+	long_title = true,
 }

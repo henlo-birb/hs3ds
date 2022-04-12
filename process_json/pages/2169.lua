@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Hatch campaign.",
-	pageId = 2169,
 	timestamp = "1278439792",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2170,
 	},
 	previous = 2168,
+	page_id = 2169,
+	long_title = false,
 }

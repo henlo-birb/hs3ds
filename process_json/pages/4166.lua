@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Wear it.",
-	pageId = 4166,
 	timestamp = "1321662521",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4167,
 	},
 	previous = 4165,
+	page_id = 4166,
+	long_title = false,
 }

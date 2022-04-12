@@ -1,6 +1,5 @@
 return {
 	title = "John: Turn around...",
-	pageId = 663,
 	timestamp = "1253404371",
 	flag = {},
 	media = {
@@ -174,4 +173,6 @@ return {
 		664,
 	},
 	previous = 662,
+	page_id = 663,
+	long_title = false,
 }

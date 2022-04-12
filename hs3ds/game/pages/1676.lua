@@ -1,6 +1,5 @@
 return {
 	title = "AH: Retrieve arm from background.",
-	pageId = 1676,
 	timestamp = "1271388541",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Huh? Oh.",
+		"Huh? Oh.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Cal, please. Not now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Cal, please. Not now.\
+",
 	},
 	next = {
 		1677,
 	},
 	previous = 1675,
+	page_id = 1676,
+	long_title = true,
 }

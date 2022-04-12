@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Get trolled by GA.",
-	pageId = 1938,
 	timestamp = "1275274712",
 	flag = {},
 	media = {
@@ -740,4 +739,6 @@ return {
 		1939,
 	},
 	previous = 1937,
+	page_id = 1938,
+	long_title = false,
 }

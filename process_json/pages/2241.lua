@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Make her pay.",
-	pageId = 2241,
 	timestamp = "1279230171",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2242,
 	},
 	previous = 2240,
+	page_id = 2241,
+	long_title = false,
 }

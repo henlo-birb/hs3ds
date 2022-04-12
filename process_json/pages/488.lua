@@ -1,6 +1,5 @@
 return {
 	title = "John: Bring 2 cans of shaving cream.",
-	pageId = 488,
 	timestamp = "1250457790",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		489,
 	},
 	previous = 487,
+	page_id = 488,
+	long_title = true,
 }

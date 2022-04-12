@@ -1,6 +1,5 @@
 return {
 	title = "AH: Disrobe.",
-	pageId = 3229,
 	timestamp = "1294003521",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		3230,
 	},
 	previous = 3228,
+	page_id = 3229,
+	long_title = false,
 }

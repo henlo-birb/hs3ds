@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Turn around.",
-	pageId = 3357,
 	timestamp = "1295919866",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		3358,
 	},
 	previous = 3356,
+	page_id = 3357,
+	long_title = false,
 }

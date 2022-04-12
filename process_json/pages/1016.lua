@@ -1,6 +1,5 @@
 return {
 	title = "WV: Take obvious course of action.",
-	pageId = 1016,
 	timestamp = "1260820472",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1017,
 	},
 	previous = 1015,
+	page_id = 1016,
+	long_title = true,
 }

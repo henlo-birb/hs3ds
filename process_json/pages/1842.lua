@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take photo of self.",
-	pageId = 1842,
 	timestamp = "1273812784",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1843,
 	},
 	previous = 1841,
+	page_id = 1842,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quickly retrieve firearms from wall.",
-	pageId = 792,
 	timestamp = "1256182550",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		793,
 	},
 	previous = 791,
+	page_id = 792,
+	long_title = true,
 }

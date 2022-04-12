@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Skip ahead a hundred pages or so.",
-	pageId = 331,
 	timestamp = "1246673164",
 	flag = {
 		"R1",
@@ -91,4 +90,6 @@ return {
 		332,
 	},
 	previous = 330,
+	page_id = 331,
+	long_title = true,
 }

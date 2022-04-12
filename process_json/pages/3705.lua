@@ -1,6 +1,5 @@
 return {
 	title = "this atrocity cannot go unpunished.",
-	pageId = 3705,
 	timestamp = "1302324171",
 	flag = {},
 	media = {
@@ -278,4 +277,6 @@ return {
 		3706,
 	},
 	previous = 3704,
+	page_id = 3705,
+	long_title = true,
 }

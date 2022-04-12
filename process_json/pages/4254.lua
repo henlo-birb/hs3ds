@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Assess damage.",
-	pageId = 4254,
 	timestamp = "1322808441",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4255,
 	},
 	previous = 4253,
+	page_id = 4254,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV?: IMBIBE LIKE THE WIND.",
-	pageId = 3401,
 	timestamp = "1296426635",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3402,
 	},
 	previous = 3400,
+	page_id = 3401,
+	long_title = false,
 }

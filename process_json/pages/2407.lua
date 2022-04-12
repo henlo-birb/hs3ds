@@ -1,6 +1,5 @@
 return {
 	title = "Attempt 2x transition combo.",
-	pageId = 2407,
 	timestamp = "1281655443",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		2408,
 	},
 	previous = 2406,
+	page_id = 2407,
+	long_title = false,
 }

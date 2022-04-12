@@ -1,6 +1,5 @@
 return {
 	title = "John: Install Pesterchum.",
-	pageId = 159,
 	timestamp = "1242433403",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		160,
 	},
 	previous = 158,
+	page_id = 159,
+	long_title = false,
 }

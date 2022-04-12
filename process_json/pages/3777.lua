@@ -1,6 +1,5 @@
 return {
 	title = "[o] So ends a tale of rivalry.",
-	pageId = 3777,
 	timestamp = "1305749008",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 	},
 	previous = 3776,
 	theme = "scratch",
+	page_id = 3777,
+	long_title = false,
 }

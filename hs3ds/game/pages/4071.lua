@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4071,
 	timestamp = "1313565497",
 	flag = {},
 	media = {
@@ -12,11 +11,105 @@ return {
 			0,
 			0,
 		},
-		"The two last trolls alive, blood of rust and royalty, will make each other pay for the crimes against their race. Their payment will be mutually dealt in the currency of punishment and reward at once. The Condesce will be rewarded with the power and immortality her new service entails, and punished by the grueling slavery for which it is synonymous. And you, young lady, are to be punished by death at the hands of your replacement. And so too will this be your reward.",
+		"The two last trolls alive, blood of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rust and royalty, will make each other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pay for the crimes against their race.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Their payment will be mutually dealt\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the currency of punishment and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reward at once. The Condesce will be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rewarded with the power and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"immortality her new service entails,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and punished by the grueling slavery\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for which it is synonymous. And you,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"young lady, are to be punished by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"death at the hands of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"replacement. And so too will this be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your reward.\
+",
 	},
 	next = {
 		4072,
 	},
 	previous = 4070,
 	theme = "scratch",
+	page_id = 4071,
+	long_title = false,
 }

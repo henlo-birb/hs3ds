@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Proceed to crypt.",
-	pageId = 4960,
 	timestamp = "1337483852",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		4961,
 	},
 	previous = 4959,
+	page_id = 4960,
+	long_title = false,
 }

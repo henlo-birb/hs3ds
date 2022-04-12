@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue/punch Heath Ledger Joker figurine.",
-	pageId = 1064,
 	timestamp = "1261468803",
 	flag = {},
 	media = {
@@ -230,4 +229,6 @@ return {
 		1065,
 	},
 	previous = 1063,
+	page_id = 1064,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Writhe like a flagellum and puke on your bed.",
-	pageId = 219,
 	timestamp = "1243567603",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		220,
 	},
 	previous = 218,
+	page_id = 219,
+	long_title = true,
 }

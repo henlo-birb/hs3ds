@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Switch to Jenga modus.",
-	pageId = 1368,
 	timestamp = "1265934115",
 	flag = {},
 	media = {
@@ -12,26 +11,97 @@ return {
 			0,
 			0,
 		},
-		"You swap your modus to JENGA, ejecting your sylladex in the process.",
+		"You swap your modus to JENGA, ejecting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your sylladex in the process.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Looks like the TIME CAPSULE has reset itself. It is sprouting a new bud. Presumably something else will come out when it blooms again in about 400 years.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Too bad you won't be around to find out what it is!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Looks like the TIME CAPSULE has reset\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"itself. It is sprouting a new bud.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Presumably something else will come\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out when it blooms again in about 400\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"years.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Too bad you won't be around to find\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"out what it is!\
+",
 	},
 	next = {
 		1369,
 	},
 	previous = 1367,
+	page_id = 1368,
+	long_title = false,
 }

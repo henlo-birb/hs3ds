@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Go to mspaintadventures.com.",
-	pageId = 1167,
 	timestamp = "1263772133",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1168,
 	},
 	previous = 1166,
+	page_id = 1167,
+	long_title = true,
 }

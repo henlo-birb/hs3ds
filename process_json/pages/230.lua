@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Tiptoe to observatory.",
-	pageId = 230,
 	timestamp = "1243901569",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		231,
 	},
 	previous = 229,
+	page_id = 230,
+	long_title = false,
 }

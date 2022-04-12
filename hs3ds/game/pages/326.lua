@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 326,
 	timestamp = "1246602829",
 	flag = {},
 	media = {
@@ -12,30 +11,97 @@ return {
 			0,
 			0,
 		},
-		"In a new tab you open another one of your sites, a webcomic ironically maintained through a satirical cipher vaguely similar to that of your blog. It's called ",
+		"In a new tab you open another one of\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"SWEET BRO AND HELLA JEFF",
+		"your sites, a webcomic ironically\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		". ",
+		"maintained through a satirical cipher\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"vaguely similar to that of your blog.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's called\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SWEET BRO AND HELLA JEFF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You have legions of devoted fans, most of whom are totally convinced of your creative persona's sincerity. Which is just how you like it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You have legions of devoted fans, most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of whom are totally convinced of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"creative persona's sincerity. Which is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"just how you like it.\
+",
 	},
 	next = {
 		327,
 	},
 	previous = 325,
+	page_id = 326,
+	long_title = false,
 }

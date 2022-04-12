@@ -1,6 +1,5 @@
 return {
 	title = "John: Answer chum.",
-	pageId = 35,
 	timestamp = "1239918836",
 	flag = {},
 	media = {
@@ -649,4 +648,6 @@ return {
 		36,
 	},
 	previous = 34,
+	page_id = 35,
+	long_title = false,
 }

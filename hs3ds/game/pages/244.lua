@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Remove blocks.",
-	pageId = 244,
 	timestamp = "1244247432",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You store the PERFECTLY GENERIC OBJECTS in your PHERNALIA REGISTRY, potentially to be deployed at a later time.",
+		"You store the PERFECTLY GENERIC\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OBJECTS in your PHERNALIA REGISTRY,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"potentially to be deployed at a later\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time.\
+",
 	},
 	next = {
 		245,
 	},
 	previous = 243,
+	page_id = 244,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "TT: Select stuff in yard and move it back into room.",
-	pageId = 144,
 	timestamp = "1242181111",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		145,
 	},
 	previous = 143,
+	page_id = 144,
+	long_title = true,
 }

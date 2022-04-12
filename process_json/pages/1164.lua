@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Scavenge war chest for fancy headwear.",
-	pageId = 1164,
 	timestamp = "1263719255",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		1165,
 	},
 	previous = 1163,
+	page_id = 1164,
+	long_title = true,
 }

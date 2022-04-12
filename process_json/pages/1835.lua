@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine plush puppet tux + Felt poster.",
-	pageId = 1835,
 	timestamp = "1273787086",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		1836,
 	},
 	previous = 1834,
+	page_id = 1835,
+	long_title = true,
 }

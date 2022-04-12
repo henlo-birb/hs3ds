@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7658,
 	timestamp = "1434406806",
 	flag = {},
 	media = {
@@ -12,23 +11,76 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9450980392156862,
 			0.2549019607843137,
 			0.9372549019607843,
 		},
-		"\
-JASPROSESPRITE^2: ",
+		"JASPROSESPRITE^2:\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		" Dave and Dirk!!! :3!! Surely this is where the party's at. Couple of cool cucumbers like you? See, Dirk knows what's up, what with the party pants. I'd call them the cat's pajamas if that phrase didn't literally describe my ensemble!!!! :3 :3 :3",
+		"Dave and Dirk!!! :3!! Surely this is\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"where the party's at. Couple of cool\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"cucumbers like you? See, Dirk knows\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"what's up, what with the party pants.\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"I'd call them the cat's pajamas if\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"that phrase didn't literally describe\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"my ensemble!!!! :3 :3 :3\
+",
 	},
 	next = {
 		7659,
 	},
 	previous = 7657,
+	page_id = 7658,
+	long_title = false,
 }

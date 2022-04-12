@@ -1,6 +1,5 @@
 return {
 	title = "AH: Why don't you keep drawing Homestuck or something.",
-	pageId = 1677,
 	timestamp = "1271388581",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1678,
 	},
 	previous = 1676,
+	page_id = 1677,
+	long_title = true,
 }

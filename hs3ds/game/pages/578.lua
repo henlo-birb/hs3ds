@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take nunchaku.",
-	pageId = 578,
 	timestamp = "1251954560",
 	flag = {},
 	media = {
@@ -12,52 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You take the ",
+		"You take the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"NCH",
+		"NCH\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"A",
+		"A\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"K",
+		"K\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"U",
+		"U\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (3), once again grabbing without thinking ahead.",
+		"(3), once again grabbing without\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thinking ahead.\
+",
 	},
 	next = {
 		579,
 	},
 	previous = 577,
+	page_id = 578,
+	long_title = false,
 }

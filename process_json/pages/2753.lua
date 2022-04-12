@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Report news to partytown subscribers.",
-	pageId = 2753,
 	timestamp = "1286932798",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2754,
 	},
 	previous = 2752,
+	page_id = 2753,
+	long_title = true,
 }

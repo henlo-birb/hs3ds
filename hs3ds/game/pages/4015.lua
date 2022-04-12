@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4015,
 	timestamp = "1312309491",
 	flag = {},
 	media = {
@@ -12,18 +11,28 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: LIKE HE WAS SICK.",
+		"PCG: LIKE HE WAS SICK.\
+",
 	},
 	next = {
 		4016,
 	},
 	previous = 4014,
 	theme = "scratch",
+	page_id = 4015,
+	long_title = false,
 }

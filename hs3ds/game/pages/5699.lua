@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Pester Jane.",
-	pageId = 5699,
 	timestamp = "1357448526",
 	flag = {},
 	media = {
@@ -12,211 +11,475 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-tipsyGnostalgic [TG]",
+		"tipsyGnostalgic [TG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began bothering ",
+		"began bothering\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"gutsyGumshoe [GG]",
+		"gutsyGumshoe [GG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jane\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jane",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jane\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jane",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jane\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jane",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: jane\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: jane",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: janes 4 ev\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: janes 4 ev",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: /take deepest jane yellin breath\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: /take deepest jane yellin breath",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: JAAAAAAAAAAAAAAOmfg yeah right\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: JAAAAAAAAAAAAAAOmfg yeah right",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: like there is any chance u answer me",
+		"TG: like there is any chance u answer\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"me\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: with today being international everybody ignore roxy day",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: LEEEEE sigh",
+		"TG: with today being international\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"everybody ignore roxy day\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: like",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: LEEEEE sigh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: doing literally the frenchest of possible sighs over here",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: its wearing a lopsided beret in the city of goddamn light falling in FUCKING love",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: such is my sigh",
+		"TG: doing literally the frenchest of\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"possible sighs over here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: am packing TOTES ennui janey",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: or shd i say.......",
+		"TG: its wearing a lopsided beret in\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: ennOUI ;)",
+		"the city of goddamn light falling in\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"FUCKING love\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: wait",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: such is my sigh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: ennui is probably already a french word??",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: am packing TOTES ennui janey\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: not sure that one needs anymore frenching up...",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: or shd i say.......\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: i should know this b cause my last name is french sounding",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: ennOUI ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: even tho im p sure my mom did not hail from france",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: idk",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: who even \"LA CARES\"",
+		"TG: ennui is probably already a french\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"word??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: hehehe fuck you, A CERTAIN LANGUAGE",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: not sure that one needs anymore\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"frenching up...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: uum yeah",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: i should know this b cause my last\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"name is french sounding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: even tho im p sure my mom did not\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"hail from france\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: idk\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: who even \"LA CARES\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: hehehe fuck you, A CERTAIN\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"LANGUAGE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"TG: uum yeah\
+",
 	},
 	next = {
 		5700,
 	},
 	previous = 5698,
+	page_id = 5699,
+	long_title = false,
 }

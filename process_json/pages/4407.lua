@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Wrap this up.",
-	pageId = 4407,
 	timestamp = "1325386029",
 	flag = {},
 	media = {
@@ -180,4 +179,6 @@ return {
 		4408,
 	},
 	previous = 4406,
+	page_id = 4407,
+	long_title = false,
 }

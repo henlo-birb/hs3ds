@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Refuse to acknowledge the absurd kitten.",
-	pageId = 926,
 	timestamp = "1259476469",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		927,
 	},
 	previous = 925,
+	page_id = 926,
+	long_title = true,
 }

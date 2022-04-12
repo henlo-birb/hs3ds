@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Go through bedroom door.",
-	pageId = 4567,
 	timestamp = "1328928995",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4568,
 	},
 	previous = 4566,
+	page_id = 4567,
+	long_title = false,
 }

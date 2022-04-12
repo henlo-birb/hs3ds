@@ -1,6 +1,5 @@
 return {
 	title = "This is great! Something is in there. Take a look.",
-	pageId = 1420,
 	timestamp = "1266539206",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"You got a MINITABLET!",
+		"You got a MINITABLET!\
+",
 	},
 	next = {
 		1421,
 	},
 	previous = 1419,
+	page_id = 1420,
+	long_title = true,
 }

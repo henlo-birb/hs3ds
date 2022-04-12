@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Get trolled by AT.",
-	pageId = 1936,
 	timestamp = "1275248779",
 	flag = {},
 	media = {
@@ -1671,4 +1670,6 @@ return {
 		1937,
 	},
 	previous = 1935,
+	page_id = 1936,
+	long_title = false,
 }

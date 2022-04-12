@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Pester John.",
-	pageId = 643,
 	timestamp = "1252984281",
 	flag = {},
 	media = {
@@ -523,4 +522,6 @@ return {
 		644,
 	},
 	previous = 642,
+	page_id = 643,
+	long_title = false,
 }

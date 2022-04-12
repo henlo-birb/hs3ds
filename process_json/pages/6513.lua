@@ -1,6 +1,5 @@
 return {
 	title = "THE ALPHA MALE IS ACCOSTED BY A PACK OF WILD FOES.",
-	pageId = 6513,
 	timestamp = "1377993424",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 	},
 	previous = 6512,
 	theme = "A6A6",
+	page_id = 6513,
+	long_title = true,
 }

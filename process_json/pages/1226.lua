@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Follow path.",
-	pageId = 1226,
 	timestamp = "1264154335",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		1227,
 	},
 	previous = 1225,
+	page_id = 1226,
+	long_title = false,
 }

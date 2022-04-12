@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, in a Timeless Expanse...",
-	pageId = 1800,
 	timestamp = "1273028443",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1801,
 	},
 	previous = 1799,
+	page_id = 1800,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: View the past.",
-	pageId = 2701,
 	timestamp = "1285815007",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2702,
 	},
 	previous = 2700,
+	page_id = 2701,
+	long_title = false,
 }

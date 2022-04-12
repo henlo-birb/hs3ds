@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Message Karkat.",
-	pageId = 3469,
 	timestamp = "1297303224",
 	flag = {},
 	media = {
@@ -509,4 +508,6 @@ return {
 		3470,
 	},
 	previous = 3468,
+	page_id = 3469,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Install software.",
-	pageId = 1519,
 	timestamp = "1267409849",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1520,
 	},
 	previous = 1518,
+	page_id = 1519,
+	long_title = false,
 }

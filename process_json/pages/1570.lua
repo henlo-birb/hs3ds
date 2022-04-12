@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Upgrade.",
-	pageId = 1570,
 	timestamp = "1268003090",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1571,
 	},
 	previous = 1569,
+	page_id = 1570,
+	long_title = false,
 }

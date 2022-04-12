@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tick.",
-	pageId = 3772,
 	timestamp = "1305747558",
 	flag = {},
 	media = {
@@ -12,11 +11,63 @@ return {
 			0,
 			0,
 		},
-		"The Seer relayed her terms through the generally understood argot of an assassin. The result \"go,\" while at face value would suggest the Thief was allowed to leave, was actually the Seer's code word for the threat of death. This was obvious to everyone, including the Thief.",
+		"The Seer relayed her terms through the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"generally understood argot of an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"assassin. The result \"go,\" while at\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"face value would suggest the Thief was\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"allowed to leave, was actually the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Seer's code word for the threat of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"death. This was obvious to everyone,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"including the Thief.\
+",
 	},
 	next = {
 		3773,
 	},
 	previous = 3771,
 	theme = "scratch",
+	page_id = 3772,
+	long_title = false,
 }

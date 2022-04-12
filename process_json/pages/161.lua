@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine Alchemiter in a cautious manner.",
-	pageId = 161,
 	timestamp = "1242440184",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		162,
 	},
 	previous = 160,
+	page_id = 161,
+	long_title = true,
 }

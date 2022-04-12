@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Wear skulltop.",
-	pageId = 4187,
 	timestamp = "1321911526",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		4188,
 	},
 	previous = 4186,
+	page_id = 4187,
+	long_title = false,
 }

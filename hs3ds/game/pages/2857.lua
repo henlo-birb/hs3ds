@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Head home.",
-	pageId = 2857,
 	timestamp = "1289604468",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Someone has connected as your server player.",
+		"Someone has connected as your server\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"player.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are pretty sure you know who it is.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are pretty sure you know who it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is.\
+",
 	},
 	next = {
 		2858,
 	},
 	previous = 2856,
+	page_id = 2857,
+	long_title = false,
 }

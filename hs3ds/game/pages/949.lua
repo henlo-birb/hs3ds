@@ -1,6 +1,5 @@
 return {
 	title = "John: Calm down, it'll be alright.",
-	pageId = 949,
 	timestamp = "1259822524",
 	flag = {},
 	media = {
@@ -12,18 +11,90 @@ return {
 			0,
 			0,
 		},
-		"So all those years, while you believed he was out busking up the corners with hilarious antics, he was working as an ordinary business man all along. He was just a man trying to make a good honest living for his son. Maybe he was too embarrassed to tell you the truth? Or maybe it was just that you'd never bothered to ask?",
+		"So all those years, while you believed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he was out busking up the corners with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hilarious antics, he was working as an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ordinary business man all along. He\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was just a man trying to make a good\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"honest living for his son. Maybe he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was too embarrassed to tell you the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"truth? Or maybe it was just that you'd\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"never bothered to ask?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You guess you always just assumed...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You guess you always just assumed...\
+",
 	},
 	next = {
 		950,
 	},
 	previous = 948,
+	page_id = 949,
+	long_title = true,
 }

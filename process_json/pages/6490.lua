@@ -1,6 +1,5 @@
 return {
 	title = "LET'S CONTINUE.",
-	pageId = 6490,
 	timestamp = "1377823412",
 	flag = {},
 	media = {
@@ -35,4 +34,6 @@ return {
 	},
 	previous = 6489,
 	theme = "A6A6",
+	page_id = 6490,
+	long_title = false,
 }

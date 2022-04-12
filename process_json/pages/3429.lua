@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Put teeth back in.",
-	pageId = 3429,
 	timestamp = "1296762376",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		3430,
 	},
 	previous = 3428,
+	page_id = 3429,
+	long_title = false,
 }

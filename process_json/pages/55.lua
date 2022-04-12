@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine oversized gift.",
-	pageId = 55,
 	timestamp = "1240094095",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		56,
 	},
 	previous = 54,
+	page_id = 55,
+	long_title = false,
 }

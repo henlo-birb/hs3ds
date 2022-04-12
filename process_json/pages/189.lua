@@ -1,6 +1,5 @@
 return {
 	title = "TT: Explore Atheneum.",
-	pageId = 189,
 	timestamp = "1242943802",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		190,
 	},
 	previous = 188,
+	page_id = 189,
+	long_title = false,
 }

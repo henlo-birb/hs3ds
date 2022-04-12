@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Break bottle.",
-	pageId = 4505,
 	timestamp = "1327562315",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4506,
 	},
 	previous = 4504,
+	page_id = 4505,
+	long_title = false,
 }

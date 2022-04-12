@@ -1,6 +1,5 @@
 return {
 	title = "ONE MORE BANNER PIECE OF SWAG IN MY POSSESSION.",
-	pageId = 7416,
 	timestamp = "1428897835",
 	flag = {
 		"F",
@@ -120,4 +119,6 @@ return {
 	},
 	previous = 7415,
 	theme = "A6A6",
+	page_id = 7416,
+	long_title = true,
 }

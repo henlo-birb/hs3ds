@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Go grab that sweet gun.",
-	pageId = 4471,
 	timestamp = "1326840873",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		4472,
 	},
 	previous = 4470,
+	page_id = 4471,
+	long_title = false,
 }

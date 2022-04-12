@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Watch capsule bloom.",
-	pageId = 5022,
 	timestamp = "1338782144",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"There they are! FINALLY! The deadly armaments you have been waiting... ",
+		"There they are! FINALLY! The deadly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"armaments you have been waiting...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Huh. Those are the armaments? It just looks like a big silly pile of shit. Oh well, you guess that alien girl knows what she's talking about.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Huh. Those are the armaments? It just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"looks like a big silly pile of shit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh well, you guess that alien girl\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"knows what she's talking about.\
+",
 	},
 	next = {
 		5023,
 	},
 	previous = 5021,
+	page_id = 5022,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: STRIFE!!!!!!!!!!!!",
-	pageId = 3001,
 	timestamp = "1291623309",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3002,
 	},
 	previous = 3000,
+	page_id = 3001,
+	long_title = false,
 }

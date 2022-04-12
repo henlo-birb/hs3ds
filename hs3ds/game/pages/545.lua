@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 545,
 	timestamp = "1251346269",
 	flag = {
 		"R4",
@@ -14,10 +13,27 @@ return {
 			0,
 			0,
 		},
-		"It seems he has been collecting scraps from the news over the years. These articles go back decades.",
+		"It seems he has been collecting scraps\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from the news over the years. These\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"articles go back decades.\
+",
 	},
 	next = {
 		546,
 	},
 	previous = 544,
+	page_id = 545,
+	long_title = false,
 }

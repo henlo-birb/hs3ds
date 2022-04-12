@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine furry trophy, lunchtop, and shirt/shoes.",
-	pageId = 3159,
 	timestamp = "1293251988",
 	flag = {},
 	media = {
@@ -13,34 +12,146 @@ return {
 			0,
 			0,
 		},
-		"You grab one of your grandpa's softest trophies and use it to make a really stylish WARM FUZZY SQUIDDLEJACKET!",
+		"You grab one of your grandpa's softest\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"trophies and use it to make a really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stylish WARM FUZZY SQUIDDLEJACKET!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You do the exact same thing to your shoes to create a matching pair of SQUIDDLESNEAKS! ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The jacket and the shoes are ALSO computers. You will never be caught without a computer, ever.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You do the exact same thing to your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shoes to create a matching pair of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SQUIDDLESNEAKS!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are suddenly feeling more fashionable than any kid in paradox space. All of the style belongs to you. The only thing left to do is make yourself deadlier.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The jacket and the shoes are ALSO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computers. You will never be caught\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without a computer, ever.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are suddenly feeling more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fashionable than any kid in paradox\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"space. All of the style belongs to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you. The only thing left to do is make\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself deadlier.\
+",
 	},
 	next = {
 		3160,
 	},
 	previous = 3158,
+	page_id = 3159,
+	long_title = true,
 }

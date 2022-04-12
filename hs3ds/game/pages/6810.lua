@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6810,
 	timestamp = "1381480455",
 	flag = {},
 	media = {
@@ -12,31 +11,62 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Or, wait.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Or, wait.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Is this some sort of blackrom thing?",
+		"ROSE: Is this some sort of blackrom\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"thing?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I certainly hope not.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: I certainly hope not.\
+",
 	},
 	next = {
 		6811,
 	},
 	previous = 6809,
+	page_id = 6810,
+	long_title = false,
 }

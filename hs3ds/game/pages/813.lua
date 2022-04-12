@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 813,
 	timestamp = "1256427386",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You just deploy the gadgets yourself.",
+		"You just deploy the gadgets yourself.\
+",
 	},
 	next = {
 		814,
 	},
 	previous = 812,
+	page_id = 813,
+	long_title = false,
 }

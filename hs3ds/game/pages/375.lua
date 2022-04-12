@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 375,
 	timestamp = "1247520961",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"And just like that, the UMBRELLA becomes accessible in the ROOT CARD. That's one of the things you love about the TREE MODUS. The happy surprises.",
+		"And just like that, the UMBRELLA\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"becomes accessible in the ROOT CARD.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That's one of the things you love\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about the TREE MODUS. The happy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"surprises.\
+",
 	},
 	next = {
 		376,
 	},
 	previous = 374,
+	page_id = 375,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue CHERRY BOMBS.",
-	pageId = 600,
 	timestamp = "1252270773",
 	flag = {},
 	media = {
@@ -215,4 +214,6 @@ return {
 		601,
 	},
 	previous = 599,
+	page_id = 600,
+	long_title = false,
 }

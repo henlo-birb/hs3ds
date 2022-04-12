@@ -1,6 +1,5 @@
 return {
 	title = "John: Use pre-punched card on totem lathe.",
-	pageId = 205,
 	timestamp = "1243229179",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You slip the PRE-PUNCHED CARD into a slot on the TOTEM LATHE. Above, the TOOL ARM deploys a configuration of chisels.",
+		"You slip the PRE-PUNCHED CARD into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slot on the TOTEM LATHE. Above, the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TOOL ARM deploys a configuration of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chisels.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Now you just need something to lathe.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now you just need something to lathe.\
+",
 	},
 	next = {
 		206,
 	},
 	previous = 204,
+	page_id = 205,
+	long_title = true,
 }

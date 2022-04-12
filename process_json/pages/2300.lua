@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Look at knife.",
-	pageId = 2300,
 	timestamp = "1280353298",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2301,
 	},
 	previous = 2299,
+	page_id = 2300,
+	long_title = false,
 }

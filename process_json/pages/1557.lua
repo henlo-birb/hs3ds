@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Punch some cards.",
-	pageId = 1557,
 	timestamp = "1267928833",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		1558,
 	},
 	previous = 1556,
+	page_id = 1557,
+	long_title = false,
 }

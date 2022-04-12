@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Quick! Random scribbling!",
-	pageId = 1377,
 	timestamp = "1265958217",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You do a very quick doodle of nothing in particular.",
+		"You do a very quick doodle of nothing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in particular.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The SCRIBBLEPAD appears to be processing the shapes.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The SCRIBBLEPAD appears to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"processing the shapes.\
+",
 	},
 	next = {
 		1378,
 	},
 	previous = 1376,
+	page_id = 1377,
+	long_title = false,
 }

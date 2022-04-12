@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go downstairs to the kitchen back door.",
-	pageId = 361,
 	timestamp = "1247301589",
 	flag = {},
 	media = {
@@ -12,18 +11,111 @@ return {
 			0,
 			0,
 		},
-		"You descend to the living room area of your home's expansive open layout. There is the sound of rushing water beneath the floor. It tends to strike guests as a strange presence in a living space, but it's become hardly audible to you through familiarity.",
+		"You descend to the living room area of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your home's expansive open layout.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is the sound of rushing water\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"beneath the floor. It tends to strike\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guests as a strange presence in a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"living space, but it's become hardly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"audible to you through familiarity.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There's the front door. But hopefully there's no need to make the long trek around the house in the rain. You might as well see if you can slip through the kitchen and out the back unnoticed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There's the front door. But hopefully\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there's no need to make the long trek\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around the house in the rain. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"might as well see if you can slip\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"through the kitchen and out the back\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unnoticed.\
+",
 	},
 	next = {
 		362,
 	},
 	previous = 360,
+	page_id = 361,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Take a closer look.",
-	pageId = 4887,
 	timestamp = "1335844739",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		4888,
 	},
 	previous = 4886,
+	page_id = 4887,
+	long_title = false,
 }

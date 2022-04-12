@@ -1,6 +1,5 @@
 return {
 	title = "John: Triple somersault into room, etc. Stick the landing.",
-	pageId = 946,
 	timestamp = "1259800790",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		947,
 	},
 	previous = 945,
+	page_id = 946,
+	long_title = true,
 }

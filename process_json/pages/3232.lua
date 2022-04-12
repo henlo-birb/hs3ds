@@ -1,6 +1,5 @@
 return {
 	title = "AH: Greet Ms. Paint.",
-	pageId = 3232,
 	timestamp = "1294007979",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3233,
 	},
 	previous = 3231,
+	page_id = 3232,
+	long_title = false,
 }

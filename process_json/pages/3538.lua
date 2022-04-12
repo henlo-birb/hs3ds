@@ -1,6 +1,5 @@
 return {
 	title = "Shades: Descend.",
-	pageId = 3538,
 	timestamp = "1298086677",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3539,
 	},
 	previous = 3537,
+	page_id = 3538,
+	long_title = false,
 }

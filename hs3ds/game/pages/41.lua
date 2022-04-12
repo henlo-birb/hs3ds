@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine GameBro Magazine.",
-	pageId = 41,
 	timestamp = "1239942934",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		42,
 	},
 	previous = 40,
+	page_id = 41,
+	long_title = false,
 }

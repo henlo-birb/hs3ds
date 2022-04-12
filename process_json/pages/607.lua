@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Yank cord.",
-	pageId = 607,
 	timestamp = "1252380978",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		608,
 	},
 	previous = 606,
+	page_id = 607,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Be Scratch.",
-	pageId = 3614,
 	timestamp = "1299144177",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		3615,
 	},
 	previous = 3613,
+	page_id = 3614,
+	long_title = false,
 }

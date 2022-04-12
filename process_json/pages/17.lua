@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine the nails and hammer.",
-	pageId = 17,
 	timestamp = "1239745843",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		18,
 	},
 	previous = 16,
+	page_id = 17,
+	long_title = true,
 }

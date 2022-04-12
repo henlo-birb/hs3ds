@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine painting.",
-	pageId = 5597,
 	timestamp = "1355633982",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"TG: (hello and what have we here)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: (hello and what have we here)",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-TG: (.... omigod)",
+		"TG: (.... omigod)\
+",
 	},
 	next = {
 		5598,
 	},
 	previous = 5596,
+	page_id = 5597,
+	long_title = false,
 }

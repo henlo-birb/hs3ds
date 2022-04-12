@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6228,
 	timestamp = "1365751201",
 	flag = {},
 	media = {
@@ -12,29 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE:",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JADE:\
+",
 		{
 			0.0,
 			0.0,
 			0.0,
 		},
-		"hey guys",
+		"hey guys\
+",
 	},
 	next = {
 		6229,
 	},
 	previous = 6227,
+	page_id = 6228,
+	long_title = false,
 }

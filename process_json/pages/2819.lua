@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Watch.",
-	pageId = 2819,
 	timestamp = "1288497538",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		2820,
 	},
 	previous = 2818,
+	page_id = 2819,
+	long_title = false,
 }

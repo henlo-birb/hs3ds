@@ -1,6 +1,5 @@
 return {
 	title = "[A6I3] ==>",
-	pageId = 5294,
 	timestamp = "1347575853",
 	flag = {},
 	media = {
@@ -600,4 +599,6 @@ return {
 		5295,
 	},
 	previous = 5293,
+	page_id = 5294,
+	long_title = false,
 }

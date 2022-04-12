@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Retrieve contraband from chest of whimsy.",
-	pageId = 4829,
 	timestamp = "1334731517",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4830,
 	},
 	previous = 4828,
+	page_id = 4829,
+	long_title = true,
 }

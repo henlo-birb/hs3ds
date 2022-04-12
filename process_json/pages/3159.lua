@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine furry trophy, lunchtop, and shirt/shoes.",
-	pageId = 3159,
 	timestamp = "1293251988",
 	flag = {},
 	media = {
@@ -153,4 +152,6 @@ return {
 		3160,
 	},
 	previous = 3158,
+	page_id = 3159,
+	long_title = true,
 }

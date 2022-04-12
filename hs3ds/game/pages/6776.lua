@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6776,
 	timestamp = "1381111174",
 	flag = {},
 	media = {
@@ -12,45 +11,83 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"GAMZEE: TeReZi...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GAMZEE: TeReZi...",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"GAMZEE: wHoA.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GAMZEE: wHoA.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"GAMZEE: PlEaSe StOp.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GAMZEE: PlEaSe StOp.",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
+		"GAMZEE: YoU'rE mOtHeRfUcKiN...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GAMZEE: YoU'rE mOtHeRfUcKiN...",
+",
 		{
 			0.16862745098039217,
 			0.0,
 			0.3411764705882353,
 		},
-		"\
-GAMZEE: hUrTiNg Me. :o(",
+		"GAMZEE: hUrTiNg Me. :o(\
+",
 	},
 	next = {
 		6777,
 	},
 	previous = 6775,
+	page_id = 6776,
+	long_title = false,
 }

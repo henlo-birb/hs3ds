@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Inspect timekeeping devices.",
-	pageId = 1156,
 	timestamp = "1263629480",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"Stupid gang and their lousy obsession with clocks. The sooner all these idiots stop being alive the better.",
+		"Stupid gang and their lousy obsession\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"with clocks. The sooner all these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idiots stop being alive the better.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You wonder where they are. It's awfully quiet in the mansion, sans all the dreadful ticking.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You wonder where they are. It's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"awfully quiet in the mansion, sans all\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the dreadful ticking.\
+",
 	},
 	next = {
 		1157,
 	},
 	previous = 1155,
+	page_id = 1156,
+	long_title = true,
 }

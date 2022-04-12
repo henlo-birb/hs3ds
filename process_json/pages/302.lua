@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Consult the grimoire.",
-	pageId = 302,
 	timestamp = "1245969069",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		303,
 	},
 	previous = 301,
+	page_id = 302,
+	long_title = false,
 }

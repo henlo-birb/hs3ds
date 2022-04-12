@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3500,
 	timestamp = "1297582801",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"More wine for the lady?",
+		"More wine for the lady?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This woman sure does seem to like her wine. The gentleman has never met a woman quite so taken with the drink, or one as enchanting and beautiful, for that matter.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oops!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This woman sure does seem to like her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wine. The gentleman has never met a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"woman quite so taken with the drink,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or one as enchanting and beautiful,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for that matter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oops!\
+",
 	},
 	next = {
 		3501,
 	},
 	previous = 3499,
+	page_id = 3500,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pester Terezi.",
-	pageId = 2774,
 	timestamp = "1287192047",
 	flag = {},
 	media = {
@@ -1167,4 +1166,6 @@ return {
 		2775,
 	},
 	previous = 2773,
+	page_id = 2774,
+	long_title = false,
 }

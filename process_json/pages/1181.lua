@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Swap hats with Doze.",
-	pageId = 1181,
 	timestamp = "1263854299",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		1182,
 	},
 	previous = 1180,
+	page_id = 1181,
+	long_title = false,
 }

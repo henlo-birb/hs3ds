@@ -1,6 +1,5 @@
 return {
 	title = "MALE: EXAMINE ROOM.",
-	pageId = 6251,
 	timestamp = "1371079514",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 	},
 	previous = 6250,
 	theme = "A6A6",
+	page_id = 6251,
+	long_title = false,
 }

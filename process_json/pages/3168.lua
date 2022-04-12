@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine dress of eclectica, Felt poster, and 8 ball.",
-	pageId = 3168,
 	timestamp = "1293258552",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		3169,
 	},
 	previous = 3167,
+	page_id = 3168,
+	long_title = true,
 }

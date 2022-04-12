@@ -1,6 +1,5 @@
 return {
 	title = "Doomed Dave: Pester Terezi.",
-	pageId = 3190,
 	timestamp = "1293658061",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		3191,
 	},
 	previous = 3189,
+	page_id = 3190,
+	long_title = false,
 }

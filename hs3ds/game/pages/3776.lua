@@ -1,6 +1,5 @@
 return {
 	title = "[o] It turned out,",
-	pageId = 3776,
 	timestamp = "1305748474",
 	flag = {},
 	media = {
@@ -12,11 +11,14 @@ return {
 			0,
 			0,
 		},
-		"She was right.",
+		"She was right.\
+",
 	},
 	next = {
 		3777,
 	},
 	previous = 3775,
 	theme = "scratch",
+	page_id = 3776,
+	long_title = false,
 }

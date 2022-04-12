@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Deal with apocalypseArisen.",
-	pageId = 2085,
 	timestamp = "1277359687",
 	flag = {},
 	media = {
@@ -1804,4 +1803,6 @@ return {
 		2086,
 	},
 	previous = 2084,
+	page_id = 2085,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Cosby poster with computer.",
-	pageId = 1065,
 	timestamp = "1261515857",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1066,
 	},
 	previous = 1064,
+	page_id = 1065,
+	long_title = true,
 }

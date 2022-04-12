@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Bring casket over to receptacle.",
-	pageId = 4918,
 	timestamp = "1336036556",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4919,
 	},
 	previous = 4917,
+	page_id = 4918,
+	long_title = true,
 }

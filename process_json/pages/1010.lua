@@ -1,6 +1,5 @@
 return {
 	title = "WV: Command Serenity to carry the rope to you.",
-	pageId = 1010,
 	timestamp = "1260677991",
 	flag = {},
 	media = {
@@ -173,4 +172,6 @@ return {
 		1011,
 	},
 	previous = 1009,
+	page_id = 1010,
+	long_title = true,
 }

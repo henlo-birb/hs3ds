@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7799,
 	timestamp = "1435790973",
 	flag = {},
 	media = {
@@ -12,73 +11,160 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): No, Meenah! W8!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): No, Meenah! W8!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): I don't care if you're 8ad!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): I don't care if you're 8ad!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-(VRISKA): I mean, I don't even think that's true!",
+		"(VRISKA): I mean, I don't even think\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"that's true!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): 8ut I don't care if it is!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): 8ut I don't care if it is!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): Please, don't do this!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): Please, don't do this!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): Don't go! At least not right away!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"(VRISKA): Don't go! At least not right\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"away!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(VRISKA): Can you just stay a little longer so we can talk a8out this?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"(VRISKA): Can you just stay a little\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"longer so we can talk a8out this?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: sorry vriska\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: sorry vriska",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: i",
+		"MEENAH: i\
+",
 	},
 	next = {
 		7800,
 	},
 	previous = 7798,
+	page_id = 7799,
+	long_title = false,
 }

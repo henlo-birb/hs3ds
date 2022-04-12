@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7639,
 	timestamp = "1433460175",
 	flag = {},
 	media = {
@@ -12,192 +11,482 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: It Was Part Of The Deal\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: It Was Part Of The Deal",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHAT?",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WHAT DEAL.",
+		"KARKAT: WHAT DEAL.\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-KANAYA: The Choice She Gave Me",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: It Was Straightforward Like I Said",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Seeing Us Was Mostly A Formality",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: She Was Perfectly Willing To Release The Frog",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: But There Was One Small Thing I Had To Agree To First",
+		"KANAYA: The Choice She Gave Me\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: WHAT??",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: To Protect You",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: .........?!",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: In Addition To Living Up To The Things I Supposedly Stand For As Well",
+		"KANAYA: It Was Straightforward Like I\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Said\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: The Resurrection Of Our People",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: But Once I Did That",
+		"KANAYA: Seeing Us Was Mostly A\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Formality\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: She Made It Clear",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Theyd Need Guidance",
+		"KANAYA: She Was Perfectly Willing To\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Release The Frog\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: She Didnt Seem Happy With The Idea Of Her Universe Being Stricken With Another Race Of Lost Trolls",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Maybe She Feels You Are The Best Chance Wed Have At Preventing That",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: ARE YOU FUCKING JOKING?",
+		"KANAYA: But There Was One Small Thing\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"I Had To Agree To First\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Not At The Moment",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HAHAHAHAHA!",
+		"KARKAT: WHAT??\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: THESE DENIZENS ARE FULL OF SURPRISES AREN'T THEY.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: OK, COOL! WHATEVER YOU SAY ECHIDNA!",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: IT'S PROBABLY A LOAD OF SHIT, BUT A DEAL'S A DEAL.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: AT LEAST \"PROTECTING ME\" SHOULD BE A PRETTY EASY PROMISE TO LIVE UP TO, RIGHT?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: To Protect You\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Id Hope So",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: .........?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: In Addition To Living Up To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"The Things I Supposedly Stand For As\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Well\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: The Resurrection Of Our People\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: But Once I Did That\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: She Made It Clear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Theyd Need Guidance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: She Didnt Seem Happy With The\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Idea Of Her Universe Being Stricken\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"With Another Race Of Lost Trolls\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Maybe She Feels You Are The\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Best Chance Wed Have At Preventing\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"That\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: ARE YOU FUCKING JOKING?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Not At The Moment\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: HAHAHAHAHA!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: THESE DENIZENS ARE FULL OF\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SURPRISES AREN'T THEY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OK, COOL! WHATEVER YOU SAY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ECHIDNA!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: IT'S PROBABLY A LOAD OF SHIT,\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BUT A DEAL'S A DEAL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: AT LEAST \"PROTECTING ME\"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SHOULD BE A PRETTY EASY PROMISE TO\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"LIVE UP TO, RIGHT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Id Hope So\
+",
 	},
 	next = {
 		7640,
 	},
 	previous = 7638,
+	page_id = 7639,
+	long_title = false,
 }

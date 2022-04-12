@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2045,
 	timestamp = "1276887376",
 	flag = {},
 	media = {
@@ -14,26 +13,69 @@ return {
 			0,
 			0,
 		},
-		"But, what are you so happy about, Mr. Lemonsnout?",
+		"But, what are you so happy about, Mr.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Lemonsnout?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He looks a bit confused. He quivers his lowly proboscis at the coin. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-See? The coin has exonerated him.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He looks a bit confused. He quivers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his lowly proboscis at the coin.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"See? The coin has exonerated him.\
+",
 	},
 	next = {
 		2046,
 	},
 	previous = 2044,
+	page_id = 2045,
+	long_title = false,
 }

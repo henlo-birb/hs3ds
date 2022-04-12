@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use the chalk to draw some roads.",
-	pageId = 696,
 	timestamp = "1253914920",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		697,
 	},
 	previous = 695,
+	page_id = 696,
+	long_title = true,
 }

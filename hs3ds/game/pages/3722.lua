@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Exit door.",
-	pageId = 3722,
 	timestamp = "1303170403",
 	flag = {
 		"R6",
@@ -14,19 +13,63 @@ return {
 			0,
 			0,
 		},
-		"The door is locked!",
+		"The door is locked!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will either need a key, or to break it down with force. You would need to achieve an especially heightened state of determination to pull that off, though.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will either need a key, or to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"break it down with force. You would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"need to achieve an especially\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"heightened state of determination to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pull that off, though.\
+",
 	},
 	next = {
 		7322,
 		3723,
 	},
 	previous = 3721,
+	page_id = 3722,
+	long_title = false,
 }

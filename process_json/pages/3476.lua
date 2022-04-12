@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Pester Terezi.",
-	pageId = 3476,
 	timestamp = "1297397890",
 	flag = {},
 	media = {
@@ -250,4 +249,6 @@ return {
 		3477,
 	},
 	previous = 3475,
+	page_id = 3476,
+	long_title = false,
 }

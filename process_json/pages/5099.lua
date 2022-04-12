@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Dehorn.",
-	pageId = 5099,
 	timestamp = "1340091483",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		5100,
 	},
 	previous = 5098,
+	page_id = 5099,
+	long_title = false,
 }

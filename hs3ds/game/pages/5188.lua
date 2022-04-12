@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5188,
 	timestamp = "1340701212",
 	flag = {},
 	media = {
@@ -12,59 +11,125 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: GIVE ME A FuCKING BREAK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: GIVE ME A FuCKING BREAK.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: I AM NEW TO THIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: I AM NEW TO THIS.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
-		"\
-uu: GuSHING OVER THIS POINTLESS CLAPTRAP.",
+		"uu: GuSHING OVER THIS POINTLESS\
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"CLAPTRAP.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: I AM REACHING OuT TO YOu CAL.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: I AM REACHING OuT TO YOu CAL.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: WE HAVE TO SAVOR.",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: WE HAVE TO SAVOR.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: THESE PRECIOuS FEW MOMENTS WE HAVE LEFT TOGETHER!",
+",
 		{
 			0.19607843137254902,
 			0.19607843137254902,
 			0.19607843137254902,
 		},
+		"uu: THESE PRECIOuS FEW MOMENTS WE HAVE\
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"LEFT TOGETHER!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-uu: HEE HEE.",
+",
+		{
+			0.19607843137254902,
+			0.19607843137254902,
+			0.19607843137254902,
+		},
+		"uu: HEE HEE.\
+",
 	},
 	next = {
 		5189,
 	},
 	previous = 5187,
+	page_id = 5188,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Activate ghost gloves.",
-	pageId = 1463,
 	timestamp = "1266897195",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1464,
 	},
 	previous = 1462,
+	page_id = 1463,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Answer the one who hates you.",
-	pageId = 2925,
 	timestamp = "1290448232",
 	flag = {},
 	media = {
@@ -1650,4 +1649,6 @@ return {
 		2926,
 	},
 	previous = 2924,
+	page_id = 2925,
+	long_title = true,
 }

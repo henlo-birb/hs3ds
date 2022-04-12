@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6147,
 	timestamp = "1365489887",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Is that... ",
+		"Is that...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Could it really be?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Could it really be?\
+",
 	},
 	next = {
 		6148,
 	},
 	previous = 6146,
+	page_id = 6147,
+	long_title = false,
 }

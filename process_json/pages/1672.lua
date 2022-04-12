@@ -1,6 +1,5 @@
 return {
 	title = "AH: Examine wall.",
-	pageId = 1672,
 	timestamp = "1271312181",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1673,
 	},
 	previous = 1671,
+	page_id = 1672,
+	long_title = false,
 }

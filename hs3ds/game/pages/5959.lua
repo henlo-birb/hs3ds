@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5959,
 	timestamp = "1361943600",
 	flag = {},
 	media = {
@@ -12,59 +11,153 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Actually John, I'm very glad you 8rought this up.",
+		"ARANEA: Actually John, I'm very glad\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you 8rought this up.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: 8ecause I was in the middle of a wonderful story a8out this very su8ject, which you interrupted when you 8oarded our ship.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ecause I was in the middle of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a wonderful story a8out this very\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"su8ject, which you interrupted when\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"you 8oarded our ship.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: oh.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: sorry.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: sorry.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ARANEA: No, that's fine!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: No, that's fine!",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Really, I'm quite pleased that you did.",
+		"ARANEA: Really, I'm quite pleased that\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you did.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: This way I get to start over from the 8eginning!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: This way I get to start over\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"from the 8eginning!\
+",
 	},
 	next = {
 		5960,
 	},
 	previous = 5958,
+	page_id = 5959,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: First, be the pony. Second, trample Mom.",
-	pageId = 390,
 	timestamp = "1248132983",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"You can't be this stupid pony, and frankly you can't imagine why anyone would want to!",
+		"You can't be this stupid pony, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"frankly you can't imagine why anyone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"would want to!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you give the pony a begrudging pat on the snout anyway.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Her name is MAPLEHOOF.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you give the pony a begrudging pat\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on the snout anyway.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Her name is MAPLEHOOF.\
+",
 	},
 	next = {
 		391,
 	},
 	previous = 389,
+	page_id = 390,
+	long_title = true,
 }

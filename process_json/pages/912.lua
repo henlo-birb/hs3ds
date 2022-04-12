@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Scamper into grand foyer with wild abandon.",
-	pageId = 912,
 	timestamp = "1259108923",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		913,
 	},
 	previous = 911,
+	page_id = 912,
+	long_title = true,
 }

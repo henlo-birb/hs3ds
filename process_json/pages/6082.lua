@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] VBVS: Shield young amphibious ears from profanity.",
-	pageId = 6082,
 	timestamp = "1365056087",
 	flag = {},
 	media = {
@@ -348,4 +347,6 @@ return {
 		6083,
 	},
 	previous = 6081,
+	page_id = 6082,
+	long_title = true,
 }

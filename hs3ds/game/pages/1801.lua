@@ -1,6 +1,5 @@
 return {
 	title = "[S] WV?: Rise up.",
-	pageId = 1801,
 	timestamp = "1273028465",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		1802,
 	},
 	previous = 1800,
+	page_id = 1801,
+	long_title = false,
 }

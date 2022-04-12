@@ -1,6 +1,5 @@
 return {
 	title = "WV: Press the triangle pattern.",
-	pageId = 737,
 	timestamp = "1254626956",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		738,
 	},
 	previous = 736,
+	page_id = 737,
+	long_title = false,
 }

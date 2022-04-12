@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6041,
 	timestamp = "1364203271",
 	flag = {},
 	media = {
@@ -12,144 +11,419 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Don't play dum8 with me. That ring you had.",
+		"VRISKA: Don't play dum8 with me. That\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"ring you had.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: You know, the same one the orange guy tried to give me?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You know, the same one the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"orange guy tried to give me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: i STILL DON'T KNOW, aBOUT THIS ORANGE GUY YOU MENTION SOMETIMES,",
+		"TAVROS: i STILL DON'T KNOW, aBOUT THIS\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"ORANGE GUY YOU MENTION SOMETIMES,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yOU TALK ABOUT ORANGE GUY, bUT, iN REALITY, hE SOUNDS PROBABLY FAKE?",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: lIKE HOW YOU THOUGHT RUFIOH USED TO BE, uNTIL FACTS PROVED HE WASN'T,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: You actually think I'm making this up? Why would I make up a story a8out an orange guy?!",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: What kind of juvenile fuckup do you take me for????????",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: The orange guy was real. He was surrounded 8y a 8unch of stupid fucking horses, and he tried to give me a ring so I knocked him out cold.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: And then l8ter YOU found it.",
+		"TAVROS: yOU TALK ABOUT ORANGE GUY,\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
-		"\
-TAVROS: nO i DIDN'T,",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: Yes you did! Don't lie to me.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: You had the ring, and you and John were fighting over it 8ehind your 8acks like a couple of idiots for a while.",
-		{
-			0.0,
-			0.33725490196078434,
-			0.5098039215686274,
-		},
-		"\
-VRISKA: What, you think I didn't notice?!",
+		"bUT, iN REALITY, hE SOUNDS PROBABLY\
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"FAKE?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: yES, nO,",
+",
 		{
 			0.6313725490196078,
 			0.3137254901960784,
 			0.0,
 		},
+		"TAVROS: lIKE HOW YOU THOUGHT RUFIOH\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"USED TO BE, uNTIL FACTS PROVED HE\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"WASN'T,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TAVROS: i DIDN'T THINK YOU DID,",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: Well I did! And I didn't care 8ecause I didn't think the ring did jack shit!",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-\
-TAVROS: i DON'T KNOW WHERE IT IS,",
-		{
-			0.6313725490196078,
-			0.3137254901960784,
-			0.0,
-		},
-		"\
-TAVROS: iT'S GONE,",
+		"VRISKA: You actually think I'm making\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"this up? Why would I make up a story\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8out an orange guy?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: What do you mean it's gone!",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: What kind of juvenile fuckup\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"do you take me for????????\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: The orange guy was real. He\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was surrounded 8y a 8unch of stupid\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"fucking horses, and he tried to give\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"me a ring so I knocked him out cold.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: And then l8ter YOU found it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: nO i DIDN'T,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Yes you did! Don't lie to me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: You had the ring, and you and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"John were fighting over it 8ehind your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8acks like a couple of idiots for a\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"while.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: What, you think I didn't\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"notice?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: yES, nO,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i DIDN'T THINK YOU DID,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Well I did! And I didn't care\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8ecause I didn't think the ring did\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"jack shit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: i DON'T KNOW WHERE IT IS,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.6313725490196078,
+			0.3137254901960784,
+			0.0,
+		},
+		"TAVROS: iT'S GONE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: What do you mean it's gone!\
+",
 	},
 	next = {
 		6042,
 	},
 	previous = 6040,
+	page_id = 6041,
+	long_title = false,
 }

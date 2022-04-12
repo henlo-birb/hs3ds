@@ -1,6 +1,5 @@
 return {
 	title = "o",
-	pageId = 3623,
 	timestamp = "1299384626",
 	flag = {},
 	media = {
@@ -12,22 +11,41 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"Yes, good. Placate yourself with the scottie dogs, Slick. My supply is bottomless. I am an excellent host.",
+		"Yes, good. Placate yourself with the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"scottie dogs, Slick. My supply is\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"bottomless. I am an excellent host.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		3624,
 	},
 	previous = 3622,
+	page_id = 3623,
+	long_title = false,
 }

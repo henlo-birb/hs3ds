@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Leap dramatically across the divide.",
-	pageId = 917,
 	timestamp = "1259364688",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		918,
 	},
 	previous = 916,
+	page_id = 917,
+	long_title = true,
 }

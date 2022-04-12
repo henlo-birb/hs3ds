@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1370,
 	timestamp = "1265934241",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You gather up the rest of your items. Might as well try it out!",
+		"You gather up the rest of your items.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Might as well try it out!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You go for all the blocks containing your TANGLE BUDDIES.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Careful... careful...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You go for all the blocks containing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your TANGLE BUDDIES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Careful... careful...\
+",
 	},
 	next = {
 		1371,
 	},
 	previous = 1369,
+	page_id = 1370,
+	long_title = false,
 }

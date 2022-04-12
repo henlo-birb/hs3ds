@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Set blender to \"Crush Ice\".",
-	pageId = 573,
 	timestamp = "1251932170",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"It's just sort of bouncing around in there. ",
+		"It's just sort of bouncing around in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You're making a bit of a mess now.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You're making a bit of a mess now.\
+",
 	},
 	next = {
 		574,
 	},
 	previous = 572,
+	page_id = 573,
+	long_title = true,
 }

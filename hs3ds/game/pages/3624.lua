@@ -1,6 +1,5 @@
 return {
 	title = "o",
-	pageId = 3624,
 	timestamp = "1299384770",
 	flag = {},
 	media = {
@@ -12,22 +11,62 @@ return {
 			0,
 			0,
 		},
-		"[",
+		"[\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"When I am finished with this minor interruption, we will resume our gentlemanly negotiation. I will proceed to beat you severely until you agree to do what I ask. I trust you won't take it personally.",
+		"When I am finished with this minor\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"interruption, we will resume our\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"gentlemanly negotiation. I will\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"proceed to beat you severely until you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"agree to do what I ask. I trust you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"won't take it personally.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"]",
+		"]\
+",
 	},
 	next = {
 		3625,
 	},
 	previous = 3623,
+	page_id = 3624,
+	long_title = false,
 }

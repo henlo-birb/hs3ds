@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Collect totems.",
-	pageId = 620,
 	timestamp = "1252560891",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		621,
 	},
 	previous = 619,
+	page_id = 620,
+	long_title = false,
 }

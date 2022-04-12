@@ -1,6 +1,5 @@
 return {
 	title = "John: Read instructions for control deck.",
-	pageId = 968,
 	timestamp = "1259982284",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		969,
 	},
 	previous = 967,
+	page_id = 968,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AH: Begin typing.",
-	pageId = 3237,
 	timestamp = "1294016571",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"No no this is not nearly fast enough, or jittery enough. Come on, I can do better than that.",
+		"No no this is not nearly fast enough,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or jittery enough. Come on, I can do\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"better than that.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Let's go, dude. Recap it like you mean it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Let's go, dude. Recap it like you mean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it.\
+",
 	},
 	next = {
 		3238,
 	},
 	previous = 3236,
+	page_id = 3237,
+	long_title = false,
 }

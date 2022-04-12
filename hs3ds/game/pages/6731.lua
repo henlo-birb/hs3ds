@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6731,
 	timestamp = "1379988538",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: thats all i need to know\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: thats all i need to know",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: wait here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: wait here",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: and whatever you do\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: and whatever you do",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: dont die ok",
+		"DAVE: dont die ok\
+",
 	},
 	next = {
 		6732,
 	},
 	previous = 6730,
+	page_id = 6731,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Deploy Frigglish.",
-	pageId = 4613,
 	timestamp = "1330225709",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4614,
 	},
 	previous = 4612,
+	page_id = 4613,
+	long_title = false,
 }

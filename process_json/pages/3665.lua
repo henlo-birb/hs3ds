@@ -1,6 +1,5 @@
 return {
 	title = "John: Take Tumor.",
-	pageId = 3665,
 	timestamp = "1300556532",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3666,
 	},
 	previous = 3664,
+	page_id = 3665,
+	long_title = false,
 }

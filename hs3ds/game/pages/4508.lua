@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4508,
 	timestamp = "1327623241",
 	flag = {},
 	media = {
@@ -12,10 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Your test pilot flew back out, which means the link between planes is working and stable. You can't even remember which one you linked this up to. You guess you'll find out the fast way.",
+		"Your test pilot flew back out, which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"means the link between planes is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"working and stable. You can't even\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"remember which one you linked this up\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to. You guess you'll find out the fast\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"way.\
+",
 	},
 	next = {
 		4509,
 	},
 	previous = 4507,
+	page_id = 4508,
+	long_title = false,
 }

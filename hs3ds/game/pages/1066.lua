@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine Dad's hat and Problem Sleuth game.",
-	pageId = 1066,
 	timestamp = "1261526276",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You make another ordinary FEDORA with FOUR PIECES OF CANDY CORN inside.",
+		"You make another ordinary FEDORA with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOUR PIECES OF CANDY CORN inside.\
+",
 	},
 	next = {
 		1067,
 	},
 	previous = 1065,
+	page_id = 1066,
+	long_title = true,
 }

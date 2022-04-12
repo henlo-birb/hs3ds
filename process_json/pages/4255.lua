@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Put head back.",
-	pageId = 4255,
 	timestamp = "1322808522",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		4256,
 	},
 	previous = 4254,
+	page_id = 4255,
+	long_title = false,
 }

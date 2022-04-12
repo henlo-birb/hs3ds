@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Consult with poppop.",
-	pageId = 4201,
 	timestamp = "1322027921",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		4202,
 	},
 	previous = 4200,
+	page_id = 4201,
+	long_title = false,
 }

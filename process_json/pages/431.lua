@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Hit John in the head with box to get his attention.",
-	pageId = 431,
 	timestamp = "1249342630",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		432,
 	},
 	previous = 430,
+	page_id = 431,
+	long_title = true,
 }

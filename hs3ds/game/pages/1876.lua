@@ -1,6 +1,5 @@
 return {
 	title = "John: Press blue button.",
-	pageId = 1876,
 	timestamp = "1274307855",
 	flag = {},
 	media = {
@@ -13,10 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You create a PARADOX GHOST IMPRINT of the man you spotted in the woods with your book. The ghost sludge is collected.",
+		"You create a PARADOX GHOST IMPRINT of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the man you spotted in the woods with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your book. The ghost sludge is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collected.\
+",
 	},
 	next = {
 		1877,
 	},
 	previous = 1875,
+	page_id = 1876,
+	long_title = false,
 }

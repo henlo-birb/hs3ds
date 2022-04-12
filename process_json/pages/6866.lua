@@ -1,6 +1,5 @@
 return {
 	title = "OH MY. WHAT HAVE WE HERE?",
-	pageId = 6866,
 	timestamp = "1413620667",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 	},
 	previous = 6865,
 	theme = "A6A6",
+	page_id = 6866,
+	long_title = false,
 }

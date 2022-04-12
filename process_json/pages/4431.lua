@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Contact bffsy.",
-	pageId = 4431,
 	timestamp = "1325753467",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		4432,
 	},
 	previous = 4430,
+	page_id = 4431,
+	long_title = false,
 }

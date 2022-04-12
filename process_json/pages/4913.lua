@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Apologize to guard's body.",
-	pageId = 4913,
 	timestamp = "1336032417",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		4914,
 	},
 	previous = 4912,
+	page_id = 4913,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Check for traps under the billiards rug.",
-	pageId = 1159,
 	timestamp = "1263671729",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"What is under the rug is much worse than any trap you can imagine.",
+		"What is under the rug is much worse\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than any trap you can imagine.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It is a member of a species that you do not recognize, with a ghastly furred upper lip.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It is a member of a species that you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do not recognize, with a ghastly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"furred upper lip.\
+",
 	},
 	next = {
 		1160,
 	},
 	previous = 1158,
+	page_id = 1159,
+	long_title = true,
 }

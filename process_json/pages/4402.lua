@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Contact Droll.",
-	pageId = 4402,
 	timestamp = "1325371763",
 	flag = {},
 	media = {
@@ -376,4 +375,6 @@ return {
 		4403,
 	},
 	previous = 4401,
+	page_id = 4402,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1388,
 	timestamp = "1266012620",
 	flag = {},
 	media = {
@@ -12,10 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You are returned to your bedroom without the rest of your loot. You doubt you'll have time to go back and get it. You guess you have inadvertently left your own time capsule there for whatever party may find it in the future. Lucky bastards!",
+		"You are returned to your bedroom\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without the rest of your loot. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"doubt you'll have time to go back and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get it. You guess you have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"inadvertently left your own time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"capsule there for whatever party may\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"find it in the future. Lucky bastards!\
+",
 	},
 	next = {
 		1389,
 	},
 	previous = 1387,
+	page_id = 1388,
+	long_title = false,
 }

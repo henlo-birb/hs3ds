@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1761,
 	timestamp = "1272226855",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You spy a boat on the shore of one of the islands below. You wonder who could be out here rowing in the middle of the ocean.",
+		"You spy a boat on the shore of one of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the islands below. You wonder who\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"could be out here rowing in the middle\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of the ocean.\
+",
 	},
 	next = {
 		1762,
 	},
 	previous = 1760,
+	page_id = 1761,
+	long_title = false,
 }

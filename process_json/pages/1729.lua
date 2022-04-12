@@ -1,6 +1,5 @@
 return {
 	title = "John: First, be the hat. Second, find dad.",
-	pageId = 1729,
 	timestamp = "1271987715",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1730,
 	},
 	previous = 1728,
+	page_id = 1729,
+	long_title = true,
 }

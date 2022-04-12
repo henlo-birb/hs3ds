@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Continue vigilant window gazing.",
-	pageId = 4154,
 	timestamp = "1321488698",
 	flag = {
 		"R1",
@@ -56,4 +55,6 @@ return {
 		4155,
 	},
 	previous = 4153,
+	page_id = 4154,
+	long_title = true,
 }

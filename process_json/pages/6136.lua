@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Crowbar: Proceed.",
-	pageId = 6136,
 	timestamp = "1365445560",
 	flag = {},
 	media = {
@@ -106,4 +105,6 @@ return {
 		6137,
 	},
 	previous = 6135,
+	page_id = 6136,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Answer.",
-	pageId = 5691,
 	timestamp = "1357365233",
 	flag = {},
 	media = {
@@ -12,244 +11,594 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-golgothasTerror [GT]",
+		"golgothasTerror [GT]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began bothering ",
+		"began bothering\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"gutsyGumshoe [GG]",
+		"gutsyGumshoe [GG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Jane are you there?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Jane are you there?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I wouldnt blame you for not answering since i was such a shitty boor to you last time.",
+		"GT: I wouldnt blame you for not\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I just wanted to formally say happy birthday.",
+		"answering since i was such a shitty\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"boor to you last time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: And also to pass along a birthday present.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I doubt it will make up for all the ways ive hurt your feelings but maybe it will be a start?",
+		"GT: I just wanted to formally say\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"happy birthday.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its some fancy juju thingamabob that calliopes bro gave to me.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: He specifically gave it to me to make me better so i could get stronger and punch him in the snout some day or something?",
+		"GT: And also to pass along a birthday\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"present.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I dunno about that. I dont think i care about becoming a great hero and challenging a weird grumpy alien all that much.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Not nearly as much as my friendship with you.",
+		"GT: I doubt it will make up for all\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: So i want you to have it instead.",
+		"the ways ive hurt your feelings but\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"maybe it will be a start?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Just use the code to make it. The code is...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Um...",
+		"GT: Its some fancy juju thingamabob\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"that calliopes bro gave to me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: ORBROBuRBROS?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: No wait.",
+		"GT: He specifically gave it to me to\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Thats way too long...",
+		"make me better so i could get stronger\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: uBORBuBROS?",
+		"and punch him in the snout some day or\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"something?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: How many letters were codes supposed to have?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Fuck.",
+		"GT: I dunno about that. I dont think i\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: BROBuROBuT",
+		"care about becoming a great hero and\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: ORuBuBROBOS",
+		"challenging a weird grumpy alien all\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"that much.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: No. Uh...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: BROBRO... something?",
+		"GT: Not nearly as much as my\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"friendship with you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Wait no there were definitely some little u's in it...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: So i want you to have it instead.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Shit. I really should have copied it down before i closed the chat window.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: OuROBOuRBON",
+		"GT: Just use the code to make it. The\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"code is...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: BuRBORuBROS...",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Um...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Wow those arent even close.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: ORBROBuRBROS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Hang on let me think.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: No wait.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Thats way too long...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: uBORBuBROS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: How many letters were codes\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"supposed to have?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Fuck.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: BROBuROBuT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: ORuBuBROBOS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: No. Uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: BROBRO... something?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Wait no there were definitely some\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"little u's in it...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Shit. I really should have copied\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"it down before i closed the chat\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"window.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: OuROBOuRBON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: BuRBORuBROS...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Wow those arent even close.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Hang on let me think.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-gutsyGumshoe [GG]",
+		"gutsyGumshoe [GG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ceased being bothered by ",
+		"ceased being bothered by\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"golgothasTerror [GT]",
+		"golgothasTerror [GT]\
+",
 	},
 	next = {
 		5692,
 	},
 	previous = 5690,
+	page_id = 5691,
+	long_title = false,
 }

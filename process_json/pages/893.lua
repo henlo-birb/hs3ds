@@ -1,6 +1,5 @@
 return {
 	title = "PM: Check mail.",
-	pageId = 893,
 	timestamp = "1258918226",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		894,
 	},
 	previous = 892,
+	page_id = 893,
+	long_title = false,
 }

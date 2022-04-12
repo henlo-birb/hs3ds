@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Withdraw licorice fish from backup hat.",
-	pageId = 1201,
 	timestamp = "1264023757",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1202,
 	},
 	previous = 1200,
+	page_id = 1201,
+	long_title = true,
 }

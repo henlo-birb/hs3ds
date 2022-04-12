@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine ring.",
-	pageId = 2945,
 	timestamp = "1291088867",
 	flag = {},
 	media = {
@@ -12,26 +11,83 @@ return {
 			0,
 			0,
 		},
-		"You have not inspected your treasure in years. You have spent ages guarding it without understanding its purpose.",
+		"You have not inspected your treasure\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in years. You have spent ages guarding\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it without understanding its purpose.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Its only purpose you have understood has been to remind you of things you have taken care to forget. But now...",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You think it is time to remember.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Its only purpose you have understood\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"has been to remind you of things you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"have taken care to forget. But now...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You think it is time to remember.\
+",
 	},
 	next = {
 		2946,
 	},
 	previous = 2944,
+	page_id = 2945,
+	long_title = false,
 }

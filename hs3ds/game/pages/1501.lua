@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1501,
 	timestamp = "1267232803",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"He thinks it is dumb because any town without a proper militia is as good as conquered.",
+		"He thinks it is dumb because any town\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"without a proper militia is as good as\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conquered.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As such he prepares one begrudgingly. It's a dirty job, but someone must be charged with the defense of the innocent.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As such he prepares one begrudgingly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It's a dirty job, but someone must be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"charged with the defense of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"innocent.\
+",
 	},
 	next = {
 		1502,
 	},
 	previous = 1500,
+	page_id = 1501,
+	long_title = false,
 }

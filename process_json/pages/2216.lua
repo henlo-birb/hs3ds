@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Drink lusus milk.",
-	pageId = 2216,
 	timestamp = "1278976077",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		2217,
 	},
 	previous = 2215,
+	page_id = 2216,
+	long_title = false,
 }

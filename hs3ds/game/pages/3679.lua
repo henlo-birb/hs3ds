@@ -1,6 +1,5 @@
 return {
 	title = "[S] All: Behold glory of Zillyhoo.",
-	pageId = 3679,
 	timestamp = "1300866698",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3680,
 	},
 	previous = 3678,
+	page_id = 3679,
+	long_title = true,
 }

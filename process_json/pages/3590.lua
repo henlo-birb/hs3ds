@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Report discovery.",
-	pageId = 3590,
 	timestamp = "1298581577",
 	flag = {},
 	media = {
@@ -1377,4 +1376,6 @@ return {
 		3591,
 	},
 	previous = 3589,
+	page_id = 3590,
+	long_title = false,
 }

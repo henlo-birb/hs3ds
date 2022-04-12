@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Check out gristwidget.",
-	pageId = 4150,
 	timestamp = "1321430283",
 	flag = {},
 	media = {
@@ -12,10 +11,69 @@ return {
 			0,
 			0,
 		},
-		"This thing's a piece of junk! It just wastes your boondollars and destroys your cool gear to produce these stupid things that look like Gushers! But unlike Gushers which serve many practical purposes like inducing vomiting and simulating the experience of eating plump insects, these things are totally useless!",
+		"This thing's a piece of junk! It just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wastes your boondollars and destroys\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your cool gear to produce these stupid\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"things that look like Gushers! But\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unlike Gushers which serve many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"practical purposes like inducing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"vomiting and simulating the experience\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of eating plump insects, these things\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are totally useless!\
+",
 	},
 	next = {
 		4151,
 	},
 	previous = 4149,
+	page_id = 4150,
+	long_title = false,
 }

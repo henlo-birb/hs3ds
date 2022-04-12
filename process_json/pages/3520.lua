@@ -1,6 +1,5 @@
 return {
 	title = "[S] 3x SHOWDOWN COMBO.",
-	pageId = 3520,
 	timestamp = "1297841923",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3521,
 	},
 	previous = 3519,
+	page_id = 3520,
+	long_title = false,
 }

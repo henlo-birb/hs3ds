@@ -1,6 +1,5 @@
 return {
 	title = "INSPECT HAG ASH INCIDENT.",
-	pageId = 282,
 	timestamp = "1245553356",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		283,
 	},
 	previous = 281,
+	page_id = 282,
+	long_title = false,
 }

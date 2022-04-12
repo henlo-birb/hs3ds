@@ -1,6 +1,5 @@
 return {
 	title = "[o] This outcome was hardly a point of suspense.",
-	pageId = 3789,
 	timestamp = "1306315323",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 	},
 	previous = 3788,
 	theme = "scratch",
+	page_id = 3789,
+	long_title = true,
 }

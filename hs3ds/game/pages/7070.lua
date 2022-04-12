@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7070,
 	timestamp = "1416546706",
 	flag = {},
 	media = {
@@ -12,45 +11,125 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: she told me she was not human, and had no frame of reference for empathizing with my feelings",
+		"JADE: she told me she was not human,\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: but if there was one thing she could relate to, it was the feeling of being alone",
+		"and had no frame of reference for\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"empathizing with my feelings\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: the feeling of waiting for what seems like eternity by yourself, until finally your purpose presents itself",
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: but if there was one thing she\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"could relate to, it was the feeling of\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"being alone\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: the feeling of waiting for what\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"seems like eternity by yourself, until\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"finally your purpose presents itself\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: ...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: ....",
+		"JADE: ....\
+",
 	},
 	next = {
 		7071,
 	},
 	previous = 7069,
+	page_id = 7070,
+	long_title = false,
 }

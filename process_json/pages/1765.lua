@@ -1,6 +1,5 @@
 return {
 	title = "John: Collect spoils.",
-	pageId = 1765,
 	timestamp = "1272251818",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1766,
 	},
 	previous = 1764,
+	page_id = 1765,
+	long_title = false,
 }

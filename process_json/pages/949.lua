@@ -1,6 +1,5 @@
 return {
 	title = "John: Calm down, it'll be alright.",
-	pageId = 949,
 	timestamp = "1259822524",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		950,
 	},
 	previous = 948,
+	page_id = 949,
+	long_title = true,
 }

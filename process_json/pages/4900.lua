@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Examine exit.",
-	pageId = 4900,
 	timestamp = "1335930859",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4901,
 	},
 	previous = 4899,
+	page_id = 4900,
+	long_title = false,
 }

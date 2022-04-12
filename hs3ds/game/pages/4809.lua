@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4809,
 	timestamp = "1333330094",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Aw fuck who am I kidding magic is fake as shit.",
+		"Aw fuck who am I kidding magic is fake\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"as shit.\
+",
 	},
 	next = {
 		4810,
 	},
 	previous = 4808,
+	page_id = 4809,
+	long_title = false,
 }

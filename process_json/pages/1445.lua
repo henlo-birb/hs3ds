@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Retrieve Dave's copy of Sburb and the impaled crow.",
-	pageId = 1445,
 	timestamp = "1266705630",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1446,
 	},
 	previous = 1444,
+	page_id = 1445,
+	long_title = true,
 }

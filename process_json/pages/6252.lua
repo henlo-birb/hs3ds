@@ -1,6 +1,5 @@
 return {
 	title = "MALE: DO SOME STUFF.",
-	pageId = 6252,
 	timestamp = "1371079570",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 	},
 	previous = 6251,
 	theme = "A6A6",
+	page_id = 6252,
+	long_title = false,
 }

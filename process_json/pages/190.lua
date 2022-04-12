@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue telescope.",
-	pageId = 190,
 	timestamp = "1242955053",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		191,
 	},
 	previous = 189,
+	page_id = 190,
+	long_title = false,
 }

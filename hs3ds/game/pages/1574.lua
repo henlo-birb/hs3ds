@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Upgrade.",
-	pageId = 1574,
 	timestamp = "1268194849",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You apply the ENLARGER UPGRADE.",
+		"You apply the ENLARGER UPGRADE.\
+",
 	},
 	next = {
 		1575,
 	},
 	previous = 1573,
+	page_id = 1574,
+	long_title = false,
 }

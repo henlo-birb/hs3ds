@@ -1,6 +1,5 @@
 return {
 	title = "I'M RUINING THEM, REALLY.",
-	pageId = 7430,
 	timestamp = "1428980398",
 	flag = {
 		"F",
@@ -14,11 +13,91 @@ return {
 			0,
 			0,
 		},
-		"IT'S NOT A CONTEST. THEY ARE A BUNCH OF PITIFUL EMOTION CHILDREN, AND I AM A PREMIER, INVINCIBLE TITAN OF ROUGHHOUSE BRUTALITY. IT'S TOO EASY. SPEEDO BOY IS DOWN FOR THE COUNT, BECAUSE I SLAPPED HIM GINGERLY. THE MASKED FLOOZY IS LOOKING A BIT... WOOZY (HA HA.) THE CAKE MAID TOOK ONE DRUB TOO MANY AND HAS TO LIE DOWN FOR AN OVERWEIGHT NAP. THIS LEAVES ME, MANO & MANO, AGAINST THE ANIME PRINCE AND HIS NONSENSE TROUSERS.",
+		"IT'S NOT A CONTEST. THEY ARE A BUNCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OF PITIFUL EMOTION CHILDREN, AND I AM\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A PREMIER, INVINCIBLE TITAN OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ROUGHHOUSE BRUTALITY. IT'S TOO EASY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPEEDO BOY IS DOWN FOR THE COUNT,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BECAUSE I SLAPPED HIM GINGERLY. THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MASKED FLOOZY IS LOOKING A BIT...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WOOZY (HA HA.) THE CAKE MAID TOOK ONE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DRUB TOO MANY AND HAS TO LIE DOWN FOR\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AN OVERWEIGHT NAP. THIS LEAVES ME,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MANO & MANO, AGAINST THE ANIME PRINCE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND HIS NONSENSE TROUSERS.\
+",
 	},
 	next = {
 		7431,
 	},
 	previous = 7429,
 	theme = "A6A6",
+	page_id = 7430,
+	long_title = false,
 }

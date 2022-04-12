@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw air conditioner on roof.",
-	pageId = 1575,
 	timestamp = "1268194905",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1576,
 	},
 	previous = 1574,
+	page_id = 1575,
+	long_title = true,
 }

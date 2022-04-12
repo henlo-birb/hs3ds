@@ -1,6 +1,5 @@
 return {
 	title = "MY OVERCONFIDENCE, WAS MY ACHILLES DOWNFALL THOUGH.",
-	pageId = 7432,
 	timestamp = "1428980611",
 	flag = {
 		"F",
@@ -71,4 +70,6 @@ return {
 	},
 	previous = 7431,
 	theme = "A6A6",
+	page_id = 7432,
+	long_title = true,
 }

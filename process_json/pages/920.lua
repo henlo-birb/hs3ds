@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Abscond!",
-	pageId = 920,
 	timestamp = "1259389933",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		921,
 	},
 	previous = 919,
+	page_id = 920,
+	long_title = false,
 }

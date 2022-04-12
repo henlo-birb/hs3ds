@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Proceed to gate.",
-	pageId = 2469,
 	timestamp = "1282281039",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		2470,
 	},
 	previous = 2468,
+	page_id = 2469,
+	long_title = false,
 }

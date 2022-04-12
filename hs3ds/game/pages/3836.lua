@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tock.",
-	pageId = 3836,
 	timestamp = "1307512561",
 	flag = {
 		"R6",
@@ -16,7 +15,29 @@ return {
 			0,
 			0,
 		},
-		"What sort of story would this be, with our Knight and Seer made to stay cadavers? Certainly not one the alpha timeline would allow.",
+		"What sort of story would this be, with\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"our Knight and Seer made to stay\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cadavers? Certainly not one the alpha\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"timeline would allow.\
+",
 	},
 	next = {
 		7363,
@@ -24,4 +45,6 @@ return {
 	},
 	previous = 3835,
 	theme = "scratch",
+	page_id = 3836,
+	long_title = false,
 }

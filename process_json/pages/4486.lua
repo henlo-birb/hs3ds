@@ -1,6 +1,5 @@
 return {
 	title = "[S] Roxy: Sleepwalk.",
-	pageId = 4486,
 	timestamp = "1327105030",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		4487,
 	},
 	previous = 4485,
+	page_id = 4486,
+	long_title = false,
 }

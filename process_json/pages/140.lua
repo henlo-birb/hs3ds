@@ -1,6 +1,5 @@
 return {
 	title = "TT: Zoom out.",
-	pageId = 140,
 	timestamp = "1242114061",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		141,
 	},
 	previous = 139,
+	page_id = 140,
+	long_title = false,
 }

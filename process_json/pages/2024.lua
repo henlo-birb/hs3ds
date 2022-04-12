@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Answer troll.",
-	pageId = 2024,
 	timestamp = "1276663372",
 	flag = {},
 	media = {
@@ -887,4 +886,6 @@ return {
 		2025,
 	},
 	previous = 2023,
+	page_id = 2024,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Report progress to TG.",
-	pageId = 39,
 	timestamp = "1239918992",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		40,
 	},
 	previous = 38,
+	page_id = 39,
+	long_title = false,
 }

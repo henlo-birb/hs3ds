@@ -1,6 +1,5 @@
 return {
 	title = "THE DUDE PILE. DOESN'T STOP. FROM GETTING TALLER.",
-	pageId = 6528,
 	timestamp = "1378096512",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 	},
 	previous = 6527,
 	theme = "A6A6",
+	page_id = 6528,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Take oven.",
-	pageId = 6141,
 	timestamp = "1365473986",
 	flag = {},
 	media = {
@@ -13,18 +12,62 @@ return {
 			0,
 			0,
 		},
-		"You pick up the 13 OF STARS card. What? Cards don't go up to thirteen. Stars ain't a real suit either. These guys really are a bunch of whackjobs.",
+		"You pick up the 13 OF STARS card.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What? Cards don't go up to thirteen.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Stars ain't a real suit either. These\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guys really are a bunch of whackjobs.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Whatever, you'll just slip it in the deck. Time to go.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Whatever, you'll just slip it in the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"deck. Time to go.\
+",
 	},
 	next = {
 		6142,
 	},
 	previous = 6140,
+	page_id = 6141,
+	long_title = false,
 }

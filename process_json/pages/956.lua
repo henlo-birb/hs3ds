@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Don comical hat.",
-	pageId = 956,
 	timestamp = "1259884220",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		957,
 	},
 	previous = 955,
+	page_id = 956,
+	long_title = false,
 }

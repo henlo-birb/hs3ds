@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Pester Jane.",
-	pageId = 4587,
 	timestamp = "1329796618",
 	flag = {},
 	media = {
@@ -12,491 +11,1238 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-golgothasTerror [GT]",
+		"|PESTERLOG|\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" began pestering ",
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"golgothasTerror [GT]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"began pestering\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"gutsyGumshoe [GG]",
+		"gutsyGumshoe [GG]\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Aloha madame.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Aloha madame.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Jake!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Jake!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Hey there. I was actually about to message you.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Yes i have heard that maybe your correspondence was forthcoming.",
+		"GG: Hey there. I was actually about to\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"message you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: You did?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Yes i have heard that maybe your\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"correspondence was forthcoming.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I just got off the horn with roxy.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: You did?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Wait...",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I just got off the horn with roxy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: What did she tell you?",
+		"GG: Wait...\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Well. Not anything all that specific.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: Did she goad you into writing this message?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Oh you know how it is. What with her ways.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: What did she tell you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: What ways?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: You know... ways!",
+		"GT: Well. Not anything all that\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"specific.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I believe they are not incongruous with those of a feisty and provocative young woman.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Provocative my behind!",
+		"GG: Did she goad you into writing this\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"message?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: She is skirting dangerously close to meddlesome territory.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: No its really not like that!",
+		"GT: Oh you know how it is. What with\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Hold on...",
+		"her ways.\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: God dammit.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: What ways?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: ??",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: You know... ways!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Its just dirks inscrutable wrestlebot acting up over there.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: I believe they are not incongruous\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"with those of a feisty and provocative\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"young woman.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: What the fuck is it doing now?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Has one of his gadgets been causing trouble for you over there as well?",
+		"GG: Provocative my behind!\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: If by causing trouble you mean clobbering the everfriggin tar out of me while still switched to the \"novice\" setting then yes.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: But that is not why i messaged you!!! I will not be deterred here jane.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Deterred from what?",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Jane i think its time we had an honest to goodness dame to fella talk. Like about our...",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Stuff. You know?",
+		"GG: She is skirting dangerously close\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"to meddlesome territory.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Our stuff?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: No its really not like that!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Our feelings.",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Hold on...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Like how we feel about each other.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: God dammit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: ??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Um...",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Its just dirks inscrutable\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"wrestlebot acting up over there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What the fuck is it doing now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Yes.",
+		"GG: Has one of his gadgets been\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Okay.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: I dont think im out of line in suggesting weve been tiptoeing around some things here do you?",
+		"causing trouble for you over there as\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"well?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Have we?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: If by causing trouble you mean\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"clobbering the everfriggin tar out of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"me while still switched to the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"\"novice\" setting then yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I think so. Its just a hunch.",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: But that is not why i messaged\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"you!!! I will not be deterred here\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"jane.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Deterred from what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Is there something you want to say to me, Jake?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Jane i think its time we had an\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"honest to goodness dame to fella talk.\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"Like about our...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Stuff. You know?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Our stuff?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: About how you feel?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Our feelings.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Absolutely!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: I feel that total honesty between us will be the best policy as we begin our journey together.",
+		"GT: Like how we feel about each other.\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: So i say lets put all the facts on the table where we can both see them.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: With that in mind i would like to ask you a question jane and i hope it doesnt strike you as being too forward.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Um...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: ...",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Go on.",
+		"GG: Yes.\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Maybe its just my imagination but ive picked up on certain lets say hints.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: So i have to just come out and ask. Hoo boy this is actually proving to be a serious challenge to my bravery now that im going through with it.",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Im getting a little hot under the collar here!",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Okay.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: No, it's ok...",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I dont think im out of line in\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"suggesting weve been tiptoeing around\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"some things here do you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Have we?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Please continue!",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Ok then.",
+		"GT: I think so. Its just a hunch.\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: What id like to know is...",
-		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
-		},
-		"\
-GT: Do you like me jane?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Uh.",
+		"GG: Is there something you want to say\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"to me, Jake?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: Wait...",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: About how you feel?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: What?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"GT: Absolutely!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: I mean do you like me as more than a friend?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Do you envision us as like...",
+		"GT: I feel that total honesty between\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"us will be the best policy as we begin\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"our journey together.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: An item? A romantic pairing of sorts?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So i say lets put all the facts on\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"the table where we can both see them.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: With that in mind i would like to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"ask you a question jane and i hope it\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"doesnt strike you as being too\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"forward.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-GG: Wow, um.",
+		"GG: ...\
+",
 		{
-			0.12156862745098039,
-			0.5803921568627451,
-			0.0,
+			0,
+			0,
+			0,
 		},
 		"\
-GT: Is that the direction in which you would prefer our relationship to progress?",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-GG: Well,",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: Go on.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: I",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
-		"\
-GT: Please! Be honest with me jane.",
+		"GT: Maybe its just my imagination but\
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"ive picked up on certain lets say\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"hints.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GT: Just come out and say it. Do you fancy me?",
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: So i have to just come out and\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"ask. Hoo boy this is actually proving\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"to be a serious challenge to my\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"bravery now that im going through with\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Im getting a little hot under the\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"collar here!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"GG: No, it's ok...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: No!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Please continue!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Ok then.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: What id like to know is...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Do you like me jane?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Uh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Wait...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: I mean do you like me as more than\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"a friend?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Do you envision us as like...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: An item? A romantic pairing of\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"sorts?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Wow, um.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Is that the direction in which you\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"would prefer our relationship to\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"progress?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: Well,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Please! Be honest with me jane.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"GT: Just come out and say it. Do you\
+",
+		{
+			0.12156862745098039,
+			0.5803921568627451,
+			0.0,
+		},
+		"fancy me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"GG: No!\
+",
 	},
 	next = {
 		4588,
 	},
 	previous = 4586,
+	page_id = 4587,
+	long_title = false,
 }

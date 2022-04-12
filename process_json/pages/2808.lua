@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Answer Aradia.",
-	pageId = 2808,
 	timestamp = "1288319645",
 	flag = {},
 	media = {
@@ -831,4 +830,6 @@ return {
 		2809,
 	},
 	previous = 2807,
+	page_id = 2808,
+	long_title = false,
 }

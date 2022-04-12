@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1819,
 	timestamp = "1273625532",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Speaking of naps, you have been asleep for some time yourself. You suppose you'd better wake up soon. ",
+		"Speaking of naps, you have been asleep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for some time yourself. You suppose\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you'd better wake up soon.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But then, your neighbor in the other tower is supposed to be waking up soon too, and it sure would be a shame if you weren't around to greet him!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But then, your neighbor in the other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tower is supposed to be waking up soon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"too, and it sure would be a shame if\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you weren't around to greet him!\
+",
 	},
 	next = {
 		1820,
 	},
 	previous = 1818,
+	page_id = 1819,
+	long_title = false,
 }

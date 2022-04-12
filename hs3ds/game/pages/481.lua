@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Drop pogo ride in John's bathroom.",
-	pageId = 481,
 	timestamp = "1250382036",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		482,
 	},
 	previous = 480,
+	page_id = 481,
+	long_title = true,
 }

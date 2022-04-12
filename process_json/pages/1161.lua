@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Play 52 pickup.",
-	pageId = 1161,
 	timestamp = "1263671812",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1162,
 	},
 	previous = 1160,
+	page_id = 1161,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Check on lusus.",
-	pageId = 2212,
 	timestamp = "1278959551",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2213,
 	},
 	previous = 2211,
+	page_id = 2212,
+	long_title = false,
 }

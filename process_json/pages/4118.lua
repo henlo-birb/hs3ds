@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Quickly retrieve arms from chest.",
-	pageId = 4118,
 	timestamp = "1321040997",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		4119,
 	},
 	previous = 4117,
+	page_id = 4118,
+	long_title = true,
 }

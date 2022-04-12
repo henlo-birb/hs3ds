@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Retrieve claws from arms.",
-	pageId = 2157,
 	timestamp = "1278274066",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		2158,
 	},
 	previous = 2156,
+	page_id = 2157,
+	long_title = true,
 }

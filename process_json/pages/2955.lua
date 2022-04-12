@@ -1,6 +1,5 @@
 return {
 	title = "WV: Command the thief's apprentice.",
-	pageId = 2955,
 	timestamp = "1291162375",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		2956,
 	},
 	previous = 2954,
+	page_id = 2955,
+	long_title = true,
 }

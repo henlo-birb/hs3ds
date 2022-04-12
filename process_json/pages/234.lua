@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go through door.",
-	pageId = 234,
 	timestamp = "1243999021",
 	flag = {
 		"R1",
@@ -63,4 +62,6 @@ return {
 		235,
 	},
 	previous = 233,
+	page_id = 234,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Install beta.",
-	pageId = 1148,
 	timestamp = "1262982536",
 	flag = {},
 	media = {
@@ -174,4 +173,6 @@ return {
 		1149,
 	},
 	previous = 1147,
+	page_id = 1148,
+	long_title = false,
 }

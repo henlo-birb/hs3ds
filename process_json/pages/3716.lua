@@ -1,6 +1,5 @@
 return {
 	title = "Keep playing anyway.",
-	pageId = 3716,
 	timestamp = "1302896476",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3717,
 	},
 	previous = 3715,
+	page_id = 3716,
+	long_title = false,
 }

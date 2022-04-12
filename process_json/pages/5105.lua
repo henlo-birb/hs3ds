@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: See what you've got captchalogued.",
-	pageId = 5105,
 	timestamp = "1340164889",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		5106,
 	},
 	previous = 5104,
+	page_id = 5105,
+	long_title = true,
 }

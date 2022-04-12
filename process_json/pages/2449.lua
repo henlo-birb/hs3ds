@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Go get a beverage.",
-	pageId = 2449,
 	timestamp = "1282029866",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2450,
 	},
 	previous = 2448,
+	page_id = 2449,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Try again.",
-	pageId = 810,
 	timestamp = "1256419851",
 	flag = {},
 	media = {
@@ -13,18 +12,41 @@ return {
 			0,
 			0,
 		},
-		"HOT. Wait...",
+		"HOT. Wait...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No. Cold. Really cold. FROZEN FUCKING TUNDRA.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No. Cold. Really cold. FROZEN FUCKING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TUNDRA.\
+",
 	},
 	next = {
 		811,
 	},
 	previous = 809,
+	page_id = 810,
+	long_title = false,
 }

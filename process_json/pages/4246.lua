@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Exit forest.",
-	pageId = 4246,
 	timestamp = "1322715187",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4247,
 	},
 	previous = 4245,
+	page_id = 4246,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Beckon other guard over.",
-	pageId = 4906,
 	timestamp = "1335940222",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4907,
 	},
 	previous = 4905,
+	page_id = 4906,
+	long_title = false,
 }

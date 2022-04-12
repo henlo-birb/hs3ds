@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Check out gristwidget.",
-	pageId = 4150,
 	timestamp = "1321430283",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		4151,
 	},
 	previous = 4149,
+	page_id = 4150,
+	long_title = false,
 }

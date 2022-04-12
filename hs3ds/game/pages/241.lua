@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Remove door from hinges.",
-	pageId = 241,
 	timestamp = "1244161631",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"There goes the rest of your BUILD GRIST.",
+		"There goes the rest of your BUILD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GRIST.\
+",
 	},
 	next = {
 		242,
 	},
 	previous = 240,
+	page_id = 241,
+	long_title = false,
 }

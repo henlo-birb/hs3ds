@@ -1,6 +1,5 @@
 return {
 	title = "GODDESS OF MANGA: BOW DOWN.",
-	pageId = 6885,
 	timestamp = "1413622059",
 	flag = {},
 	media = {
@@ -216,4 +215,6 @@ return {
 	},
 	previous = 6884,
 	theme = "A6A6",
+	page_id = 6885,
+	long_title = false,
 }

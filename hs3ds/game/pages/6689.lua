@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6689,
 	timestamp = "1379469849",
 	flag = {},
 	media = {
@@ -12,45 +11,104 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: gamzee what happened here\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: gamzee what happened here",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: did you see what happened\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: did you see what happened",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: not gonna answer me huh\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: not gonna answer me huh",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: youre just gonna keep manhandling johns evil mom and not tell me what jades doing under this house",
+		"DAVE: youre just gonna keep\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"manhandling johns evil mom and not\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"tell me what jades doing under this\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"house\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: sweet jesus youre an awful dude",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: sweet jesus youre an awful dude\
+",
 	},
 	next = {
 		6690,
 	},
 	previous = 6688,
+	page_id = 6689,
+	long_title = false,
 }

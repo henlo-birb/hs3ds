@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine plush puppet tux + Felt poster.",
-	pageId = 1835,
 	timestamp = "1273787086",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"This would make the FELT DUDS, if you had some of whatever that green grist is.",
+		"This would make the FELT DUDS, if you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"had some of whatever that green grist\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is.\
+",
 	},
 	next = {
 		1836,
 	},
 	previous = 1834,
+	page_id = 1835,
+	long_title = true,
 }

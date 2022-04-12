@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Turn off the fan.",
-	pageId = 351,
 	timestamp = "1247110412",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		352,
 	},
 	previous = 350,
+	page_id = 351,
+	long_title = false,
 }

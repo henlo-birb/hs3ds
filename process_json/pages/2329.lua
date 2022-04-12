@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Check on lusus.",
-	pageId = 2329,
 	timestamp = "1280707823",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		2330,
 	},
 	previous = 2328,
+	page_id = 2329,
+	long_title = false,
 }

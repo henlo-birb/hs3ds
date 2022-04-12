@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Follow the agent.",
-	pageId = 1531,
 	timestamp = "1267660005",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		1532,
 	},
 	previous = 1530,
+	page_id = 1531,
+	long_title = false,
 }

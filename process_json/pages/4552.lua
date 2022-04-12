@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Take actual responsibilities seriously.",
-	pageId = 4552,
 	timestamp = "1328520803",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		4553,
 	},
 	previous = 4551,
+	page_id = 4552,
+	long_title = true,
 }

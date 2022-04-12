@@ -1,6 +1,5 @@
 return {
 	title = "AR: Use gunpowder and empty crates to make a campfire.",
-	pageId = 1450,
 	timestamp = "1266787033",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1451,
 	},
 	previous = 1449,
+	page_id = 1450,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5216,
 	timestamp = "1340934831",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: So, yeah.",
+		"DIRK: So, yeah.\
+",
 	},
 	next = {
 		5217,
 	},
 	previous = 5215,
+	page_id = 5216,
+	long_title = false,
 }

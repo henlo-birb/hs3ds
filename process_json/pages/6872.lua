@@ -1,6 +1,5 @@
 return {
 	title = "IT'S NONE OTHER. THAN WHAT'S HER FACE.",
-	pageId = 6872,
 	timestamp = "1413621096",
 	flag = {},
 	media = {
@@ -209,4 +208,6 @@ return {
 	},
 	previous = 6871,
 	theme = "A6A6",
+	page_id = 6872,
+	long_title = true,
 }

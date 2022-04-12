@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Reunite with your loving wife and daughter.",
-	pageId = 1931,
 	timestamp = "1274911303",
 	flag = {
 		"F",
@@ -15,4 +14,6 @@ return {
 		1932,
 	},
 	previous = 1930,
+	page_id = 1931,
+	long_title = true,
 }

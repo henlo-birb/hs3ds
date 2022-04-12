@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Interrogate.",
-	pageId = 2033,
 	timestamp = "1276806021",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2034,
 	},
 	previous = 2032,
+	page_id = 2033,
+	long_title = false,
 }

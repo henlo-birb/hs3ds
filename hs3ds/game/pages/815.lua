@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 815,
 	timestamp = "1256427560",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You take a look at the REFRIGERATOR'S rotary interface. You wonder what he is in the mood for today?",
+		"You take a look at the REFRIGERATOR'S\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rotary interface. You wonder what he\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is in the mood for today?\
+",
 	},
 	next = {
 		816,
 	},
 	previous = 814,
+	page_id = 815,
+	long_title = false,
 }

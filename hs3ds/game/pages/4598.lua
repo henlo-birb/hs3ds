@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Finish job.",
-	pageId = 4598,
 	timestamp = "1329975405",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"Hang on. It's this guy. Gotta answer this. He better be bearing news of murdered youngsters.",
+		"Hang on. It's this guy. Gotta answer\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"this. He better be bearing news of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"murdered youngsters.\
+",
 	},
 	next = {
 		4599,
 	},
 	previous = 4597,
+	page_id = 4598,
+	long_title = false,
 }

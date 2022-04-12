@@ -1,6 +1,5 @@
 return {
 	title = "John: Observe back of the first visible captchalogue card.",
-	pageId = 523,
 	timestamp = "1250998142",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		524,
 	},
 	previous = 522,
+	page_id = 523,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Try harder.",
-	pageId = 2645,
 	timestamp = "1285287436",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2646,
 	},
 	previous = 2644,
+	page_id = 2645,
+	long_title = false,
 }

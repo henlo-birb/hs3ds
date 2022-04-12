@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7614,
 	timestamp = "1433199110",
 	flag = {},
 	media = {
@@ -12,80 +11,230 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: oh.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: i'd want to listen to as mUch as possible!",
+		"CALLIOPE: i'd want to listen to as\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"mUch as possible!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: in whatever amoUnt of time i have, if yoU please.",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: in whatever amoUnt of time i\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"have, if yoU please.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: from the true beginning, then, and moving swiftly.",
+		"CALLIOPE: from the true beginning,\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"then, and moving swiftly.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i began the same as you.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: i began the same as you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: vulnerable, weak, but without the comfort of others, to whom those flaws would endear me.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: so i became strong, and killed my brother.",
+		"CALLIOPE: vulnerable, weak, but\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
-		"\
-CALLIOPE: i wore him down. i ate his soul. i dressed my words in his blood to hear victory every time i spoke.",
+		"without the comfort of others, to whom\
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"those flaws would endear me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i consumed his strength, too. it was always in me, just as yours was in him.",
+",
 		{
 			1.0,
 			0.0,
 			0.0,
 		},
+		"CALLIOPE: so i became strong, and\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"killed my brother.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: but being strong was not enough.",
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: i wore him down. i ate his\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"soul. i dressed my words in his blood\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"to hear victory every time i spoke.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: i consumed his strength,\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"too. it was always in me, just as\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"yours was in him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"CALLIOPE: but being strong was not\
+",
+		{
+			1.0,
+			0.0,
+			0.0,
+		},
+		"enough.\
+",
 	},
 	next = {
 		7615,
 	},
 	previous = 7613,
+	page_id = 7614,
+	long_title = false,
 }

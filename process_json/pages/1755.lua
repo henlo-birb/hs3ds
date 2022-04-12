@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Be the puppet.",
-	pageId = 1755,
 	timestamp = "1272216534",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1756,
 	},
 	previous = 1754,
+	page_id = 1755,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Examine puppet/hat pile.",
-	pageId = 4528,
 	timestamp = "1328056239",
 	flag = {},
 	media = {
@@ -243,4 +242,6 @@ return {
 		4529,
 	},
 	previous = 4527,
+	page_id = 4528,
+	long_title = false,
 }

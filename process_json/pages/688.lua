@@ -1,6 +1,5 @@
 return {
 	title = "WV: Explore west of Can Town.",
-	pageId = 688,
 	timestamp = "1253836158",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		689,
 	},
 	previous = 687,
+	page_id = 688,
+	long_title = false,
 }

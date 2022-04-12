@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7118,
 	timestamp = "1417755707",
 	flag = {
 		"FIREFLY",
@@ -13,4 +12,6 @@ return {
 		7119,
 	},
 	previous = 7117,
+	page_id = 7118,
+	long_title = false,
 }

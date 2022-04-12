@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Consult little advantage.",
-	pageId = 2259,
 	timestamp = "1279360366",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2260,
 	},
 	previous = 2258,
+	page_id = 2259,
+	long_title = true,
 }

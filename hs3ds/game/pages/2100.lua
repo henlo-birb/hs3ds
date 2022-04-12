@@ -1,6 +1,5 @@
 return {
 	title = "Stop being the other girl.",
-	pageId = 2100,
 	timestamp = "1277613768",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You are now no longer the other girl, or any of the other five for that matter.",
+		"You are now no longer the other girl,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"or any of the other five for that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matter.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What's the name of this dude sitting in his FOUR WHEEL DEVICE?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What's the name of this dude sitting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in his FOUR WHEEL DEVICE?\
+",
 	},
 	next = {
 		2101,
 	},
 	previous = 2099,
+	page_id = 2100,
+	long_title = false,
 }

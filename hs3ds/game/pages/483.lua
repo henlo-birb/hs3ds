@@ -1,6 +1,5 @@
 return {
 	title = "Piano: Level up for slaying the imp.",
-	pageId = 483,
 	timestamp = "1250395127",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"The piano in its valiant effort has unfortunately been slain.",
+		"The piano in its valiant effort has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unfortunately been slain.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But if it hadn't, it would have raked in so many BOONDOLLARS, you have no idea.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-SO MANY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But if it hadn't, it would have raked\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in so many BOONDOLLARS, you have no\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"idea.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SO MANY.\
+",
 	},
 	next = {
 		484,
 	},
 	previous = 482,
+	page_id = 483,
+	long_title = true,
 }

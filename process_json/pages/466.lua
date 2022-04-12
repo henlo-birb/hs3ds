@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Pester John to ease your nerves.",
-	pageId = 466,
 	timestamp = "1250139374",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		467,
 	},
 	previous = 465,
+	page_id = 466,
+	long_title = true,
 }

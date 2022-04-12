@@ -1,6 +1,5 @@
 return {
 	title = "i shall take my leave now john. until next time",
-	pageId = 519,
 	timestamp = "1250910742",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Wait, where did all this sweet loot come from?",
+		"Wait, where did all this sweet loot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"come from?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And why is there suddenly a crumpled hat on your head?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And why is there suddenly a crumpled\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hat on your head?\
+",
 	},
 	next = {
 		520,
 	},
 	previous = 518,
+	page_id = 519,
+	long_title = true,
 }

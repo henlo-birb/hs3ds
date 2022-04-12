@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Mediate.",
-	pageId = 2356,
 	timestamp = "1281053708",
 	flag = {},
 	media = {
@@ -432,4 +431,6 @@ return {
 		2357,
 	},
 	previous = 2355,
+	page_id = 2356,
+	long_title = false,
 }

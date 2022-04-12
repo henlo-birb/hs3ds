@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2993,
 	timestamp = "1291537301",
 	flag = {},
 	media = {
@@ -12,149 +11,230 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: It's great!",
+		"CC: It's great!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: Wish I could make something like this. Never had the gills for technology.",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"CC: Wish I could make something like\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: Hard to work with under water!",
+		"this. Never had the gills for\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"technology.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"CC: Hard to work with under water!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: why are you here!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: why are you here!",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: are you asleep too?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: are you asleep too?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: Nope!",
+		"CC: Nope!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: I woke up from my nap a while ago.",
+		"CC: I woke up from my nap a while ago.\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: Remember how I woke up and then messaged you? You had just had a bad dream!",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"CC: Remember how I woke up and then\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: And I told you there was nothing to be scared of.",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"messaged you? You had just had a bad\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-CC: Which there isn't!",
+		"dream!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"CC: And I told you there was nothing\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"to be scared of.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"CC: Which there isn't!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: oh yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: oh yeah",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: i do remember that\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: i do remember that",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: then why are you here now?",
+		"GG: then why are you here now?\
+",
 	},
 	next = {
 		2994,
 	},
 	previous = 2992,
+	page_id = 2993,
+	long_title = false,
 }

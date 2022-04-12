@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine umbrella and straight razor.",
-	pageId = 1061,
 	timestamp = "1261464999",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		1062,
 	},
 	previous = 1060,
+	page_id = 1061,
+	long_title = true,
 }

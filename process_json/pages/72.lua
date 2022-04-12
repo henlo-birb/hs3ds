@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine father's desk.",
-	pageId = 72,
 	timestamp = "1240349612",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		73,
 	},
 	previous = 71,
+	page_id = 72,
+	long_title = false,
 }

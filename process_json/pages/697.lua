@@ -1,6 +1,5 @@
 return {
 	title = "WV: Lay a chalk foundation for Can Town's civic growth.",
-	pageId = 697,
 	timestamp = "1253914974",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		698,
 	},
 	previous = 696,
+	page_id = 697,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Your deceased pet.",
-	pageId = 1492,
 	timestamp = "1267140713",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1493,
 	},
 	previous = 1491,
+	page_id = 1492,
+	long_title = false,
 }

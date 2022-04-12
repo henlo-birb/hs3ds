@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Hurry up to that observatory.",
-	pageId = 235,
 	timestamp = "1243999073",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		236,
 	},
 	previous = 234,
+	page_id = 235,
+	long_title = true,
 }

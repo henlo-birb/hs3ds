@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Open viewport.",
-	pageId = 2696,
 	timestamp = "1285808640",
 	flag = {},
 	media = {
@@ -105,4 +104,6 @@ return {
 		2697,
 	},
 	previous = 2695,
+	page_id = 2696,
+	long_title = false,
 }

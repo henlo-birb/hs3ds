@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine fake arm, blue ectoplasm, and PDA.",
-	pageId = 1059,
 	timestamp = "1261462047",
 	flag = {},
 	media = {
@@ -91,4 +90,6 @@ return {
 		1060,
 	},
 	previous = 1058,
+	page_id = 1059,
+	long_title = true,
 }

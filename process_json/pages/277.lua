@@ -1,6 +1,5 @@
 return {
 	title = "DO THE POTTED VEGETABLE INSTEAD. IT LOOKS DELICIOUS.",
-	pageId = 277,
 	timestamp = "1245479460",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		278,
 	},
 	previous = 276,
+	page_id = 277,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Wake up and jam.",
-	pageId = 1820,
 	timestamp = "1273708435",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1821,
 	},
 	previous = 1819,
+	page_id = 1820,
+	long_title = false,
 }

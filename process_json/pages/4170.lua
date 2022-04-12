@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Scope out those blue chicks.",
-	pageId = 4170,
 	timestamp = "1321678461",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		4171,
 	},
 	previous = 4169,
+	page_id = 4170,
+	long_title = true,
 }

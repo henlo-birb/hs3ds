@@ -1,6 +1,5 @@
 return {
 	title = "WV, AR: Prepare gift for the WQ.",
-	pageId = 1608,
 	timestamp = "1269393966",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1609,
 	},
 	previous = 1607,
+	page_id = 1608,
+	long_title = false,
 }

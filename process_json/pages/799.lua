@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Organize all your dolls.",
-	pageId = 799,
 	timestamp = "1256248918",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		800,
 	},
 	previous = 798,
+	page_id = 799,
+	long_title = false,
 }

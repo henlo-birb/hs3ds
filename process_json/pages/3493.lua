@@ -1,6 +1,5 @@
 return {
 	title = "John: Prepare to leave castle.",
-	pageId = 3493,
 	timestamp = "1297563191",
 	flag = {},
 	media = {
@@ -887,4 +886,6 @@ return {
 		3494,
 	},
 	previous = 3492,
+	page_id = 3493,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2555,
 	timestamp = "1283125500",
 	flag = {},
 	media = {
@@ -12,18 +11,132 @@ return {
 			0,
 			0,
 		},
-		"To bring every circle closed, her partner and rival would have to be guided in tandem. The Thief and the Seer were to serve as twin lashes of the scourge cracked by a quasiroyal against her own former kingdom to settle a score. To make him pay. Scourge's black inches would rip red miles through Derse, and the bright rivers gushing from its wounds would wash her mutineers down the drains of exile. In time they would have to answer for their treason. ",
+		"To bring every circle closed, her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"partner and rival would have to be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guided in tandem. The Thief and the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Seer were to serve as twin lashes of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the scourge cracked by a quasiroyal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"against her own former kingdom to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"settle a score. To make him pay.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Scourge's black inches would rip red\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"miles through Derse, and the bright\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rivers gushing from its wounds would\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wash her mutineers down the drains of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exile. In time they would have to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"answer for their treason.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Patience would be necessary. But then, she'd recently come into all the time in the universe.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Patience would be necessary. But then,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"she'd recently come into all the time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in the universe.\
+",
 	},
 	next = {
 		2556,
 	},
 	previous = 2554,
+	page_id = 2555,
+	long_title = false,
 }

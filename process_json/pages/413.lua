@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Hurry and activate the generator!",
-	pageId = 413,
 	timestamp = "1248838945",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		414,
 	},
 	previous = 412,
+	page_id = 413,
+	long_title = true,
 }

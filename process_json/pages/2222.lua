@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Be in cahoots with Equius. Cahoooooooots.",
-	pageId = 2222,
 	timestamp = "1279054152",
 	flag = {},
 	media = {
@@ -1244,4 +1243,6 @@ return {
 		2223,
 	},
 	previous = 2221,
+	page_id = 2222,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine calendar.",
-	pageId = 22,
 	timestamp = "1239746085",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		23,
 	},
 	previous = 21,
+	page_id = 22,
+	long_title = false,
 }

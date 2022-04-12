@@ -1,6 +1,5 @@
 return {
 	title = "[S] Dave: Ascend to the highest point of the building.",
-	pageId = 665,
 	timestamp = "1253545720",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		666,
 	},
 	previous = 664,
+	page_id = 665,
+	long_title = true,
 }

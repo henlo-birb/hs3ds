@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine mecha, streetsweeper, and iron suit.",
-	pageId = 3169,
 	timestamp = "1293261565",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		3170,
 	},
 	previous = 3168,
+	page_id = 3169,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Call a witness.",
-	pageId = 2039,
 	timestamp = "1276820875",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		2040,
 	},
 	previous = 2038,
+	page_id = 2039,
+	long_title = false,
 }

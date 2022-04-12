@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Examine sleazy Dersite rag.",
-	pageId = 4539,
 	timestamp = "1328227836",
 	flag = {},
 	media = {
@@ -118,4 +117,6 @@ return {
 		4540,
 	},
 	previous = 4538,
+	page_id = 4539,
+	long_title = true,
 }

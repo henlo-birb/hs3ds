@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Illegally pirate some of John's shale.",
-	pageId = 1521,
 	timestamp = "1267475974",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1522,
 	},
 	previous = 1520,
+	page_id = 1521,
+	long_title = true,
 }

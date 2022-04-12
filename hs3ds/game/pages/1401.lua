@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Move Dave's bed to the roof.",
-	pageId = 1401,
 	timestamp = "1266298469",
 	flag = {},
 	media = {
@@ -12,129 +11,356 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Jade is connected with you?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Jade is connected with you?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Where did she get the discs?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Where did she get the discs?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: i dont know how does she do any of the loopy batshit nonsense she does",
+		"TG: i dont know how does she do any of\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: maybe she pulled them out of the volcano over there on bloodmonkey mountain",
+		"the loopy batshit nonsense she does\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Wait.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: So you mean to tell me she was able to connect with you in a timely fashion, without waiting until you were on the brink of annihilation?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: we went over this",
+		"TG: maybe she pulled them out of the\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: i was a little bogged down",
+		"volcano over there on bloodmonkey\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"mountain\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: in the epic swaddle of legendary puppet taint",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Wait.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I've done nothing but wait for boys to play this game with me all day.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: First John lollygagging with the client, and then you with the server, downright filibustering my existence with unending fraternal melee.",
+		"TT: So you mean to tell me she was\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"able to connect with you in a timely\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"fashion, without waiting until you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"were on the brink of annihilation?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And yet a girl, one who didn't even own the game, was able to connect with you minutes after you connected with me.",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: we went over this\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: whoa wait",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: i was a little bogged down\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: what the hell is she doing",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: in the epic swaddle of legendary\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"puppet taint\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: shes taking my bed what the hell",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: And there she goes.",
+		"TT: I've done nothing but wait for\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"boys to play this game with me all\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"day.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: She HAS the karma.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: First John lollygagging with the\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"client, and then you with the server,\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"downright filibustering my existence\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"with unending fraternal melee.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And yet a girl, one who didn't\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"even own the game, was able to connect\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"with you minutes after you connected\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"with me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: whoa wait\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: what the hell is she doing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: shes taking my bed what the hell\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: And there she goes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: She HAS the karma.\
+",
 	},
 	next = {
 		1402,
 	},
 	previous = 1400,
+	page_id = 1401,
+	long_title = true,
 }

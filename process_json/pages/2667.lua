@@ -1,6 +1,5 @@
 return {
 	title = "John: Dispatch these pests.",
-	pageId = 2667,
 	timestamp = "1285474464",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2668,
 	},
 	previous = 2666,
+	page_id = 2667,
+	long_title = false,
 }

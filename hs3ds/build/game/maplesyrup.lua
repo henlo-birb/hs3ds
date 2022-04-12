@@ -7,7 +7,7 @@ initApp = function(params)
         model = params.model and merge(newModel(), params.model) or newModel(),
         topview = params.topview or newView("top"),
         bottomview = params.bottomview or newView("bottom"),
-        rendered = false,
+        rendered = {},
         push = function(this, msg, ...)
             for _, func in pairs(this.updater[msg]) do
                 func(this.model, ...)
@@ -24,7 +24,7 @@ initApp = function(params)
 
         render = function(this, screen)
             local function recurse(elem, parent)
-                if not this.rendered then -- do per-element related initializations on first render since we're looping through em all for free
+                if not this.rendered[screen] then -- do per-element related initializations on first render since we're looping through em all for free
                     elem[1].parent = parent
                     if elem[1].type == "animation" then
                         table.insert(this.model.animations, elem[1])
@@ -40,7 +40,7 @@ initApp = function(params)
                 end
             end
             recurse(screen == "bottom" and this.bottomview or this.topview) -- if drawing bottom screen use bottom view otherwise use top view
-            this.rendered = true
+            this.rendered[screen] = true
         end
     }
 end
@@ -94,7 +94,9 @@ newUpdater = function()
         ["playsound"] = {
             function(model, sound)
                 if not model.sounds[sound] then
-                    model.sounds[sound] = love.audio.newSource("audio/"..sound..".mp3", "stream")
+                    model.sounds[sound] =
+                        love.audio.newSource(
+                            "audio/" .. sound .. ".mp3", "stream")
                 end
                 love.audio.play(model.sounds[sound])
             end
@@ -109,18 +111,20 @@ newUpdater = function()
                 love.audio.stop(model.sounds[sound])
             end
         },
-        ["update"] = {
+        ["updateanimations"] = {
             function(model, dt)
                 model.t = model.t + dt
                 model.dt = dt
                 for _, anim in pairs(model.animations) do
-                    anim.dt = anim.dt + dt
-                    if anim.dt > anim.durations[anim.currentFrame] / 1000 then
-                        anim.dt = 0
-                        if anim.currentFrame == anim.nFrames then
-                            anim.currentFrame = 1
-                        else
-                            anim.currentFrame = anim.currentFrame + 1
+                    if anim.name ~= "" then
+                        anim.dt = anim.dt + dt
+                        if anim.dt > anim.durations[anim.current_frame] / 1000 then
+                            anim.dt = 0
+                            if anim.current_frame == anim.n_frames then
+                                anim.current_frame = 1
+                            else
+                                anim.current_frame = anim.current_frame + 1
+                            end
                         end
                     end
                 end

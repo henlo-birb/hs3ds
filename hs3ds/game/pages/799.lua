@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Organize all your dolls.",
-	pageId = 799,
 	timestamp = "1256248918",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You gather all your dolls into a rather cozy looking pile.",
+		"You gather all your dolls into a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather cozy looking pile.\
+",
 	},
 	next = {
 		800,
 	},
 	previous = 798,
+	page_id = 799,
+	long_title = false,
 }

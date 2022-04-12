@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Go through 5th wall.",
-	pageId = 6129,
 	timestamp = "1365404839",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		6130,
 	},
 	previous = 6128,
+	page_id = 6129,
+	long_title = false,
 }

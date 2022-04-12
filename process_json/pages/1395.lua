@@ -1,6 +1,5 @@
 return {
 	title = "John: Search for your father's car.",
-	pageId = 1395,
 	timestamp = "1266135954",
 	flag = {
 		"R2",
@@ -49,4 +48,6 @@ return {
 		1396,
 	},
 	previous = 1394,
+	page_id = 1395,
+	long_title = true,
 }

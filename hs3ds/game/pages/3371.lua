@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Dust for prints.",
-	pageId = 3371,
 	timestamp = "1296105682",
 	flag = {},
 	media = {
@@ -13,18 +12,62 @@ return {
 			0,
 			0,
 		},
-		"You grind up a piece of chalk and dab Inspector Berrybreath's ample plush rump into the powder.",
+		"You grind up a piece of chalk and dab\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Inspector Berrybreath's ample plush\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rump into the powder.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You dust the victim's robotic apparatus, revealing nothing. Quite the slippery one you're dealing with.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You dust the victim's robotic\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"apparatus, revealing nothing. Quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the slippery one you're dealing with.\
+",
 	},
 	next = {
 		3372,
 	},
 	previous = 3370,
+	page_id = 3371,
+	long_title = false,
 }

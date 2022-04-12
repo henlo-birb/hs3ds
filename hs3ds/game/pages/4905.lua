@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4905,
 	timestamp = "1335940170",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"No dice. Need a different approach. ",
+		"No dice. Need a different approach.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Wait a minute. Another guard notices your unauthorized tomfoolery and radios for backup.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Wait a minute. Another guard notices\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your unauthorized tomfoolery and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"radios for backup.\
+",
 	},
 	next = {
 		4906,
 	},
 	previous = 4904,
+	page_id = 4905,
+	long_title = false,
 }

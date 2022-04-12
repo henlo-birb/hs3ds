@@ -1,6 +1,5 @@
 return {
 	title = "Hours in the future...",
-	pageId = 1943,
 	timestamp = "1275950511",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1944,
 	},
 	previous = 1942,
+	page_id = 1943,
+	long_title = false,
 }

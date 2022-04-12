@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Exit.",
-	pageId = 5122,
 	timestamp = "1340259737",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		5123,
 	},
 	previous = 5121,
+	page_id = 5122,
+	long_title = false,
 }

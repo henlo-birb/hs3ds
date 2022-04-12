@@ -1,6 +1,5 @@
 return {
 	title = "MY TRUE PASSION. IS TELLING STORIES.",
-	pageId = 6930,
 	timestamp = "1414892485",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6929,
 	theme = "A6A6",
+	page_id = 6930,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Take book.",
-	pageId = 228,
 	timestamp = "1243748653",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You take the GRIMOIRE.",
+		"You take the GRIMOIRE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-G < L, G < K.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"G < L, G < K.\
+",
 	},
 	next = {
 		229,
 	},
 	previous = 227,
+	page_id = 228,
+	long_title = false,
 }

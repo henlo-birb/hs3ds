@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Implement plan of last resort.",
-	pageId = 4237,
 	timestamp = "1322628171",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		4238,
 	},
 	previous = 4236,
+	page_id = 4237,
+	long_title = true,
 }

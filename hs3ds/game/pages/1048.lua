@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Inspect neighbor's tower.",
-	pageId = 1048,
 	timestamp = "1261368034",
 	flag = {},
 	media = {
@@ -13,18 +12,55 @@ return {
 			0,
 			0,
 		},
-		"It is very much the same as your own! The only difference is that this one is home to a young boy instead of a young girl.",
+		"It is very much the same as your own!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The only difference is that this one\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"is home to a young boy instead of a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"young girl.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You peer through the window.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You peer through the window.\
+",
 	},
 	next = {
 		1049,
 	},
 	previous = 1047,
+	page_id = 1048,
+	long_title = false,
 }

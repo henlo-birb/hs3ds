@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Quickly retrieve arms from cinderblocks.",
-	pageId = 313,
 	timestamp = "1246400825",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		314,
 	},
 	previous = 312,
+	page_id = 313,
+	long_title = true,
 }

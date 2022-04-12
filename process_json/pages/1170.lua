@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Examine vendetta itinerary.",
-	pageId = 1170,
 	timestamp = "1263773005",
 	flag = {},
 	media = {
@@ -642,4 +641,6 @@ return {
 		1171,
 	},
 	previous = 1169,
+	page_id = 1170,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue the unplugged powercord.",
-	pageId = 590,
 	timestamp = "1252177389",
 	flag = {},
 	media = {
@@ -12,58 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You take the ",
+		"You take the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"P",
+		"P\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"W",
+		"W\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"R C",
+		"R C\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"RD",
+		"RD\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (5)... wait, no. Not going to work.",
+		"(5)... wait, no. Not going to work.\
+",
 	},
 	next = {
 		591,
 	},
 	previous = 589,
+	page_id = 590,
+	long_title = true,
 }

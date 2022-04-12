@@ -1,6 +1,5 @@
 return {
 	title = "THE BOX!!!!!!",
-	pageId = 404,
 	timestamp = "1248656721",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		405,
 	},
 	previous = 403,
+	page_id = 404,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Captchalogue and send John code for his present.",
-	pageId = 1089,
 	timestamp = "1262331734",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		1090,
 	},
 	previous = 1088,
+	page_id = 1089,
+	long_title = true,
 }

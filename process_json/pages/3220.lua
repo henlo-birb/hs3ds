@@ -1,6 +1,5 @@
 return {
 	title = "Lab: Drop.",
-	pageId = 3220,
 	timestamp = "1293845618",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3221,
 	},
 	previous = 3219,
+	page_id = 3220,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WHAT COLOR ARE THE WORDS THAT THIS CHUM SAYS?",
-	pageId = 293,
 	timestamp = "1245801978",
 	flag = {},
 	media = {
@@ -831,4 +830,6 @@ return {
 		294,
 	},
 	previous = 292,
+	page_id = 293,
+	long_title = true,
 }

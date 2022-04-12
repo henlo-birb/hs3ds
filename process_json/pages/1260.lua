@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Sneak into Stitch's boutique.",
-	pageId = 1260,
 	timestamp = "1264540064",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1261,
 	},
 	previous = 1259,
+	page_id = 1260,
+	long_title = true,
 }

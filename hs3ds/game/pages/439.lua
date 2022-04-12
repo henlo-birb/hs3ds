@@ -1,6 +1,5 @@
 return {
 	title = "Years in the future...",
-	pageId = 439,
 	timestamp = "1249358888",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"But really not enough to write home about.",
+		"But really not enough to write home\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-An agitated finger slips mid-keystroke.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"An agitated finger slips\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mid-keystroke.\
+",
 	},
 	next = {
 		440,
 	},
 	previous = 438,
+	page_id = 439,
+	long_title = false,
 }

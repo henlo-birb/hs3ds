@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Ask Clover for the ultimate riddle.",
-	pageId = 1325,
 	timestamp = "1265508201",
 	flag = {},
 	media = {
@@ -12,22 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You ask ",
+		"You ask\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Clover",
+		"Clover\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" to open the safe.",
+		"to open the safe.\
+",
 	},
 	next = {
 		1326,
 	},
 	previous = 1324,
+	page_id = 1325,
+	long_title = true,
 }

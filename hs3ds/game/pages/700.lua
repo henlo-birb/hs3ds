@@ -1,6 +1,5 @@
 return {
 	title = "WV: Peel label from can of MAYO and affix to sash.",
-	pageId = 700,
 	timestamp = "1253945592",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		701,
 	},
 	previous = 699,
+	page_id = 700,
+	long_title = true,
 }

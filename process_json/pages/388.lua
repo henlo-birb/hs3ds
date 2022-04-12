@@ -1,6 +1,5 @@
 return {
 	title = "[S] Rose: Youth roll right out the front door.",
-	pageId = 388,
 	timestamp = "1247993240",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		389,
 	},
 	previous = 387,
+	page_id = 388,
+	long_title = true,
 }

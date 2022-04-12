@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Return to room.",
-	pageId = 2344,
 	timestamp = "1280867399",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		2345,
 	},
 	previous = 2343,
+	page_id = 2344,
+	long_title = false,
 }

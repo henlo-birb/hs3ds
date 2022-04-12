@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Get the damn beta and save your friend's life!",
-	pageId = 314,
 	timestamp = "1246400890",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		315,
 	},
 	previous = 313,
+	page_id = 314,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Captchalogue obelisk.",
-	pageId = 4957,
 	timestamp = "1337483582",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		4958,
 	},
 	previous = 4956,
+	page_id = 4957,
+	long_title = false,
 }

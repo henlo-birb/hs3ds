@@ -1,6 +1,5 @@
 return {
 	title = "Jane: \"Transportalize.\"",
-	pageId = 5044,
 	timestamp = "1339299805",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		5045,
 	},
 	previous = 5043,
+	page_id = 5044,
+	long_title = false,
 }

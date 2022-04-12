@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Thank best friend.",
-	pageId = 3006,
 	timestamp = "1291687097",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3007,
 	},
 	previous = 3005,
+	page_id = 3006,
+	long_title = false,
 }

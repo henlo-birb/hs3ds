@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue magician's hat.",
-	pageId = 44,
 	timestamp = "1240031134",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		45,
 	},
 	previous = 43,
+	page_id = 44,
+	long_title = true,
 }

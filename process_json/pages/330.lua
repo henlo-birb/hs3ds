@@ -1,6 +1,5 @@
 return {
 	title = "SS: Climb ladder and exit hideout. Implement nefarious plots",
-	pageId = 330,
 	timestamp = "1246673072",
 	flag = {},
 	media = {
@@ -112,4 +111,6 @@ return {
 		331,
 	},
 	previous = 329,
+	page_id = 330,
+	long_title = true,
 }

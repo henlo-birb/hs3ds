@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Convince second guard to pick up keys for you.",
-	pageId = 4907,
 	timestamp = "1335940278",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		4908,
 	},
 	previous = 4906,
+	page_id = 4907,
+	long_title = true,
 }

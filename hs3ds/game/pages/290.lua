@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Pick up car.",
-	pageId = 290,
 	timestamp = "1245710255",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		291,
 	},
 	previous = 289,
+	page_id = 290,
+	long_title = false,
 }

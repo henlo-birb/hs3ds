@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] VBVS: Retrieve arms from robe.",
-	pageId = 6079,
 	timestamp = "1364972186",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		6080,
 	},
 	previous = 6078,
+	page_id = 6079,
+	long_title = true,
 }

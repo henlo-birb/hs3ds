@@ -1,6 +1,5 @@
 return {
 	title = "Hell yes.",
-	pageId = 3071,
 	timestamp = "1292258237",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3072,
 	},
 	previous = 3070,
+	page_id = 3071,
+	long_title = false,
 }

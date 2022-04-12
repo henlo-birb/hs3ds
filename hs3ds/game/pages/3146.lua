@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Just draw some earmuffs.",
-	pageId = 3146,
 	timestamp = "1293241932",
 	flag = {},
 	media = {
@@ -14,10 +13,20 @@ return {
 			0,
 			0,
 		},
-		"You simply draw a pair of earmuffs, and make them. Yay!",
+		"You simply draw a pair of earmuffs,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and make them. Yay!\
+",
 	},
 	next = {
 		3147,
 	},
 	previous = 3145,
+	page_id = 3146,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Squarewave: Enter.",
-	pageId = 5259,
 	timestamp = "1342578191",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		5260,
 	},
 	previous = 5258,
+	page_id = 5259,
+	long_title = false,
 }

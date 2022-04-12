@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Captchalogue velvet pillow.",
-	pageId = 374,
 	timestamp = "1247520930",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		375,
 	},
 	previous = 373,
+	page_id = 374,
+	long_title = true,
 }

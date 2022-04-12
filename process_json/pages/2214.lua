@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Thank Aurthour.",
-	pageId = 2214,
 	timestamp = "1278965549",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2215,
 	},
 	previous = 2213,
+	page_id = 2214,
+	long_title = false,
 }

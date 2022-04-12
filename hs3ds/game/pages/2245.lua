@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Make her pay.",
-	pageId = 2245,
 	timestamp = "1279247617",
 	flag = {},
 	media = {
@@ -13,42 +12,167 @@ return {
 			0,
 			0,
 		},
-		"Of course he's right. Not much point in living with all these moaning spooks just to spite some guy you don't give a shit about.",
+		"Of course he's right. Not much point\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"in living with all these moaning\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spooks just to spite some guy you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"don't give a shit about.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But how to go about it? Can't control her. It can be difficult to manipulate the mind of the psychically gifted.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Let's see, who else is there. Terezi? Forget about it! What about that guy? Nah. Her? Nope. Not him either. ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But how to go about it? Can't control\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her. It can be difficult to manipulate\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the mind of the psychically gifted.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-How about this guy? Unfortunately, you can only control him about half the time.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Then again, that should be all the time you need.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Let's see, who else is there. Terezi?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Forget about it! What about that guy?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nah. Her? Nope. Not him either.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"How about this guy? Unfortunately, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can only control him about half the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Then again, that should be all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"time you need.\
+",
 	},
 	next = {
 		2246,
 	},
 	previous = 2244,
+	page_id = 2245,
+	long_title = false,
 }

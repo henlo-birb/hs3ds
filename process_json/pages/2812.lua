@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Answer Nepeta.",
-	pageId = 2812,
 	timestamp = "1288402963",
 	flag = {},
 	media = {
@@ -446,4 +445,6 @@ return {
 		2813,
 	},
 	previous = 2811,
+	page_id = 2812,
+	long_title = false,
 }

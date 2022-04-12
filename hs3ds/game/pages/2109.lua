@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Command faithful steed.",
-	pageId = 2109,
 	timestamp = "1277754565",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"With a brooding whinny, Horsaroni shuffles his mighty hooves and makes short work of the fidusucker, boosting his vitals!",
+		"With a brooding whinny, Horsaroni\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"shuffles his mighty hooves and makes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"short work of the fidusucker, boosting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"his vitals!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Horsaroni is now primed and raring for battle. Look out Tinkerbull!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Horsaroni is now primed and raring for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"battle. Look out Tinkerbull!!!\
+",
 	},
 	next = {
 		2110,
 	},
 	previous = 2108,
+	page_id = 2109,
+	long_title = false,
 }

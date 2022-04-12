@@ -1,6 +1,5 @@
 return {
 	title = "CD?: Listen to DD?.",
-	pageId = 3561,
 	timestamp = "1298341167",
 	flag = {},
 	media = {
@@ -278,4 +277,6 @@ return {
 		3562,
 	},
 	previous = 3560,
+	page_id = 3561,
+	long_title = false,
 }

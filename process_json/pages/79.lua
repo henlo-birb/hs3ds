@@ -1,6 +1,5 @@
 return {
 	title = "John: Attempt to leave the house.",
-	pageId = 79,
 	timestamp = "1240443260",
 	flag = {
 		"R4",
@@ -85,4 +84,6 @@ return {
 		80,
 	},
 	previous = 78,
+	page_id = 79,
+	long_title = true,
 }

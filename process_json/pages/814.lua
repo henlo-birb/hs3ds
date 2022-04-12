@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Stick fruits in the refrigerator to keep them fresh.",
-	pageId = 814,
 	timestamp = "1256427481",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		815,
 	},
 	previous = 813,
+	page_id = 814,
+	long_title = true,
 }

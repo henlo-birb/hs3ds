@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue Colonel's big book.",
-	pageId = 40,
 	timestamp = "1239942913",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		41,
 	},
 	previous = 39,
+	page_id = 40,
+	long_title = true,
 }

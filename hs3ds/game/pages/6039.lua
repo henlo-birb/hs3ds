@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6039,
 	timestamp = "1364118583",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: RAAAAAAAARARRAAUUUUUUUUAAAAUUAGGGGGGGGHHHHHHHH!",
+		"VRISKA:\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"RAAAAAAAARARRAAUUUUUUUUAAAAUUAGGGGGGGGHHHHHHHH!\
+",
 	},
 	next = {
 		6040,
 	},
 	previous = 6038,
+	page_id = 6039,
+	long_title = false,
 }

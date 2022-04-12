@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Go upstairs to bedroom.",
-	pageId = 786,
 	timestamp = "1255933785",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You almost never use the stairs.",
+		"You almost never use the stairs.\
+",
 	},
 	next = {
 		787,
 	},
 	previous = 785,
+	page_id = 786,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "READ YOUR BOOK. STAY WARY OF THESE FOES.",
-	pageId = 387,
 	timestamp = "1247796718",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		388,
 	},
 	previous = 386,
+	page_id = 387,
+	long_title = true,
 }

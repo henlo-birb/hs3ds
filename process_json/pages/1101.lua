@@ -1,6 +1,5 @@
 return {
 	title = "AR: Realize that your weapon is magazine-fed, not clip-fed.",
-	pageId = 1101,
 	timestamp = "1262480769",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1102,
 	},
 	previous = 1100,
+	page_id = 1101,
+	long_title = true,
 }

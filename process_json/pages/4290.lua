@@ -1,6 +1,5 @@
 return {
 	title = "Hussiebot: Check time.",
-	pageId = 4290,
 	timestamp = "1323419106",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		4291,
 	},
 	previous = 4289,
+	page_id = 4290,
+	long_title = false,
 }

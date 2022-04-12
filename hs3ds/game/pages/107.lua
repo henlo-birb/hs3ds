@@ -1,6 +1,5 @@
 return {
 	title = "John: Retrieve your items.",
-	pageId = 107,
 	timestamp = "1241246564",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"The items force the MANHANDLED CAKE into the TOILET.",
+		"The items force the MANHANDLED CAKE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"into the TOILET.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And just like that, your SYLLADEX is full again. God this thing is annoying.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And just like that, your SYLLADEX is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full again. God this thing is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"annoying.\
+",
 	},
 	next = {
 		108,
 	},
 	previous = 106,
+	page_id = 107,
+	long_title = false,
 }

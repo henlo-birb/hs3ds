@@ -1,6 +1,5 @@
 return {
 	title = "John: Climb that echeladder.",
-	pageId = 881,
 	timestamp = "1258846094",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		882,
 	},
 	previous = 880,
+	page_id = 881,
+	long_title = false,
 }

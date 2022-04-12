@@ -1,6 +1,5 @@
 return {
 	title = "DD: Use Red Miles.",
-	pageId = 4949,
 	timestamp = "1337320710",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"The kid can't escape the miles.",
+		"The kid can't escape the miles.\
+",
 	},
 	next = {
 		4950,
 	},
 	previous = 4948,
+	page_id = 4949,
+	long_title = false,
 }

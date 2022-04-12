@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4668,
 	timestamp = "1331340016",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"God dammit. Will you quit fidgeting and drink your milk?",
+		"God dammit. Will you quit fidgeting\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and drink your milk?\
+",
 	},
 	next = {
 		4669,
 	},
 	previous = 4667,
+	page_id = 4668,
+	long_title = false,
 }

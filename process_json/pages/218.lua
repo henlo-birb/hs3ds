@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Retrieve arms from the purple box.",
-	pageId = 218,
 	timestamp = "1243567566",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		219,
 	},
 	previous = 217,
+	page_id = 218,
+	long_title = true,
 }

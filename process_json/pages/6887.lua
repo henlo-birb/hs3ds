@@ -1,6 +1,5 @@
 return {
 	title = "HIS EYES ARE SUPPOSED TO FLICKER ABOUT.",
-	pageId = 6887,
 	timestamp = "1413697191",
 	flag = {},
 	media = {
@@ -167,4 +166,6 @@ return {
 	},
 	previous = 6886,
 	theme = "A6A6",
+	page_id = 6887,
+	long_title = true,
 }

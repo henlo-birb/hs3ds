@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Jut your ass and twitch like a proboscis.",
-	pageId = 4469,
 	timestamp = "1326834073",
 	flag = {
 		"F",
@@ -138,4 +137,6 @@ return {
 	},
 	next = {},
 	previous = 4468,
+	page_id = 4469,
+	long_title = true,
 }

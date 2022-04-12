@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Confer with network administrator.",
-	pageId = 2759,
 	timestamp = "1287002383",
 	flag = {},
 	media = {
@@ -1013,4 +1012,6 @@ return {
 		2760,
 	},
 	previous = 2758,
+	page_id = 2759,
+	long_title = true,
 }

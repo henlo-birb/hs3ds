@@ -1,6 +1,5 @@
 return {
 	title = "John: Give dear sweet Casey the bunny.",
-	pageId = 1601,
 	timestamp = "1269149877",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1602,
 	},
 	previous = 1600,
+	page_id = 1601,
+	long_title = true,
 }

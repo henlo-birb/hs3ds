@@ -1,6 +1,5 @@
 return {
 	title = "John: Read COLONEL SASSACRE'S DAUNTING TEXT.",
-	pageId = 32,
 	timestamp = "1239918678",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		33,
 	},
 	previous = 31,
+	page_id = 32,
+	long_title = true,
 }

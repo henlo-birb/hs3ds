@@ -1,6 +1,5 @@
 return {
 	title = "John: Open cruxtruder.",
-	pageId = 2877,
 	timestamp = "1289847979",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2878,
 	},
 	previous = 2876,
+	page_id = 2877,
+	long_title = false,
 }

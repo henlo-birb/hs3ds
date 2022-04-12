@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Retrieve package.",
-	pageId = 980,
 	timestamp = "1260259150",
 	flag = {
 		"F",
@@ -16,4 +15,6 @@ return {
 		981,
 	},
 	previous = 979,
+	page_id = 980,
+	long_title = false,
 }

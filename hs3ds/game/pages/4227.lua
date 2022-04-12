@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Commence robroquest.",
-	pageId = 4227,
 	timestamp = "1322542802",
 	flag = {},
 	media = {
@@ -13,26 +12,104 @@ return {
 			0,
 			0,
 		},
-		"It is time to get DEAD SERIOUS about hunting down a robot that looks exactly like your best friend, destroy it with your guns somehow, and steal its uranimum. (* uranium)",
+		"It is time to get DEAD SERIOUS about\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hunting down a robot that looks\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"exactly like your best friend, destroy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it with your guns somehow, and steal\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"its uranimum. (* uranium)\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But then the thing behind you that you were oblivious to starts grumbling. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You totally forgot about the FRIGHTENING FAUNA on this island, and its regrettable REALNESS ATTRIBUTE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But then the thing behind you that you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were oblivious to starts grumbling.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You totally forgot about the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FRIGHTENING FAUNA on this island, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"its regrettable REALNESS ATTRIBUTE.\
+",
 	},
 	next = {
 		4228,
 	},
 	previous = 4226,
+	page_id = 4227,
+	long_title = false,
 }

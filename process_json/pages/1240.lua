@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Clocks. Destroy them.",
-	pageId = 1240,
 	timestamp = "1264280670",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1241,
 	},
 	previous = 1239,
+	page_id = 1240,
+	long_title = false,
 }

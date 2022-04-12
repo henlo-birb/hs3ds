@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7356,
 	timestamp = "1421037813",
 	flag = {},
 	media = {
@@ -12,101 +11,293 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"JADE: so getting back to the story\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JADE: so getting back to the story",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: i take it from what you said about letting your guard down...",
+		"JADE: i take it from what you said\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: you believe this was how you died?",
+		"about letting your guard down...\
+",
 		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
+			0,
+			0,
+			0,
 		},
 		"\
-JANE: I'm almost certain of it.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: I can remember nothing beyond that moment.",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-JANE: And if one of your friends managed to get the better of me, I have no doubt my death would have been just, considering the trouble I caused.",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: yeah...",
+		"JADE: you believe this was how you\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: likewise :\\",
+		"died?\
+",
 		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
+			0,
+			0,
+			0,
 		},
 		"\
-CALLIOPE: do yoU remember who it was that killed yoU?",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-CALLIOPE: not to hoUnd yoU for details, bUt trivia like this tends to be historically important.",
-		{
-			0.5725490196078431,
-			0.5725490196078431,
-			0.5725490196078431,
-		},
-		"\
-CALLIOPE: plUs, i woUld like to draw this scene. :u",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: I'm almost certain of it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: I'm sorry. My memory of the incident overall is quite vague.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: I can remember nothing beyond\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"that moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: But it wouldn't surprise me if the one who dealt my fatal blow was the leader of the raid.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: And if one of your friends\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"managed to get the better of me, I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"have no doubt my death would have been\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"just, considering the trouble I\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"caused.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: yeah...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: likewise :\\\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: do yoU remember who it was\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"that killed yoU?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: not to hoUnd yoU for\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"details, bUt trivia like this tends to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"be historically important.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: plUs, i woUld like to draw\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"this scene. :u\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: I'm sorry. My memory of the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"incident overall is quite vague.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: But it wouldn't surprise me if\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"the one who dealt my fatal blow was\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"the leader of the raid.\
+",
 	},
 	next = {
 		7357,
 	},
 	previous = 7355,
+	page_id = 7356,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Welcome the rest into the city.",
-	pageId = 711,
 	timestamp = "1254245273",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		712,
 	},
 	previous = 710,
+	page_id = 711,
+	long_title = true,
 }

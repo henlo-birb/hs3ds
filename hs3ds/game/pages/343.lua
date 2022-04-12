@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Captchalogue sword.",
-	pageId = 343,
 	timestamp = "1246842855",
 	flag = {},
 	media = {
@@ -12,140 +11,202 @@ return {
 			0,
 			0,
 		},
-		"The ",
+		"The\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"N",
+		"N\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"I",
+		"I\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"NJ",
+		"NJ\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"A",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"A\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"SW",
+		"SW\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"O",
+		"O\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"RD",
+		"RD\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (2+1+2+2+1 + 2+2+1+2+2 = 17 % 10 = 7) occupies the same card as the ",
-		{
-			0,
-			0,
-			1,
-		},
-		"J",
-		{
-			1,
-			0,
-			0,
-		},
-		"UI",
-		{
-			0,
-			0,
-			1,
-		},
-		"C",
-		{
-			1,
-			0,
-			0,
-		},
-		"E",
+		"(2+1+2+2+1 + 2+2+1+2+2 = 17 % 10 = 7)\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" (2+1+1+2+1 = 7 % 10 = 7), expelling the ",
+		"occupies the same card as the\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"J",
+		"J\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"UI",
+		"UI\
+",
 		{
 			0,
 			0,
 			1,
 		},
-		"C",
+		"C\
+",
 		{
 			1,
 			0,
 			0,
 		},
-		"E",
+		"E\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" from your SYLLADEX.",
+		"(2+1+1+2+1 = 7 % 10 = 7), expelling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"J\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"UI\
+",
+		{
+			0,
+			0,
+			1,
+		},
+		"C\
+",
+		{
+			1,
+			0,
+			0,
+		},
+		"E\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"from your SYLLADEX.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It splashes all over your TURNTABLES and your copies of the BETA. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Argh!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It splashes all over your TURNTABLES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and your copies of the BETA.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Argh!\
+",
 	},
 	next = {
 		344,
 	},
 	previous = 342,
+	page_id = 343,
+	long_title = false,
 }

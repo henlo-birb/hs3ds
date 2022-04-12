@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Take a whiff.",
-	pageId = 2746,
 	timestamp = "1286854766",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		2747,
 	},
 	previous = 2745,
+	page_id = 2746,
+	long_title = false,
 }

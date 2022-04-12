@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Alchemize.",
-	pageId = 2364,
 	timestamp = "1281120656",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2365,
 	},
 	previous = 2363,
+	page_id = 2364,
+	long_title = false,
 }

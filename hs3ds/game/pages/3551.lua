@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3551,
 	timestamp = "1298223698",
 	flag = {},
 	media = {
@@ -13,34 +12,90 @@ return {
 			0,
 			0,
 		},
-		"Ok. ",
+		"Ok.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will keep one trophy.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-BUT ONLY ONE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will keep one trophy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You can never stay mad at Cal. He is a true friend. The only you have ever known.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"BUT ONLY ONE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You can never stay mad at Cal. He is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"true friend. The only you have ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"known.\
+",
 	},
 	next = {
 		3552,
 	},
 	previous = 3550,
+	page_id = 3551,
+	long_title = false,
 }

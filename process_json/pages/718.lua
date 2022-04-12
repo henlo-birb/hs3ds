@@ -1,6 +1,5 @@
 return {
 	title = "WV: Type => REBOOT.",
-	pageId = 718,
 	timestamp = "1254288710",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		719,
 	},
 	previous = 717,
+	page_id = 718,
+	long_title = false,
 }

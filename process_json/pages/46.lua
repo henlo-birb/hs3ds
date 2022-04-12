@@ -1,6 +1,5 @@
 return {
 	title = "John: Wear disguise to fool dad.",
-	pageId = 46,
 	timestamp = "1240031281",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		47,
 	},
 	previous = 45,
+	page_id = 46,
+	long_title = false,
 }

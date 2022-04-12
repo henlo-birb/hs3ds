@@ -1,6 +1,5 @@
 return {
 	title = "I MUST SAY. THE ARTISTIC PLOY. IS INGENIOUS.",
-	pageId = 6869,
 	timestamp = "1413620952",
 	flag = {},
 	media = {
@@ -300,4 +299,6 @@ return {
 	},
 	previous = 6868,
 	theme = "A6A6",
+	page_id = 6869,
+	long_title = true,
 }

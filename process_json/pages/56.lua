@@ -1,6 +1,5 @@
 return {
 	title = "John: Open large present.",
-	pageId = 56,
 	timestamp = "1240094114",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		57,
 	},
 	previous = 55,
+	page_id = 56,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw a pumpkin.",
-	pageId = 1380,
 	timestamp = "1265958368",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1381,
 	},
 	previous = 1379,
+	page_id = 1380,
+	long_title = false,
 }

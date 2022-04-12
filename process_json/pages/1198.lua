@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Forget you are CD. Believe you are Hearts Boxcars.",
-	pageId = 1198,
 	timestamp = "1263975706",
 	flag = {
 		"R1",
@@ -77,4 +76,6 @@ return {
 		1199,
 	},
 	previous = 1197,
+	page_id = 1198,
+	long_title = true,
 }

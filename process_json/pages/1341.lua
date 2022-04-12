@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Use rules card for blackjack.",
-	pageId = 1341,
 	timestamp = "1265669767",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1342,
 	},
 	previous = 1340,
+	page_id = 1341,
+	long_title = true,
 }

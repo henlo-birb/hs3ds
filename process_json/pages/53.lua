@@ -1,6 +1,5 @@
 return {
 	title = "John: Topple urn.",
-	pageId = 53,
 	timestamp = "1240094031",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		54,
 	},
 	previous = 52,
+	page_id = 53,
+	long_title = false,
 }

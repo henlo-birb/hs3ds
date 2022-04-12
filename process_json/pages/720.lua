@@ -1,6 +1,5 @@
 return {
 	title = "WV: Create employment opportunities for the citizen cans.",
-	pageId = 720,
 	timestamp = "1254288787",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		721,
 	},
 	previous = 719,
+	page_id = 720,
+	long_title = true,
 }

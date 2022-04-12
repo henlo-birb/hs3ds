@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Explore this human emotion called friendship.",
-	pageId = 2713,
 	timestamp = "1285886696",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2714,
 	},
 	previous = 2712,
+	page_id = 2713,
+	long_title = true,
 }

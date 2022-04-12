@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Head out the back door.",
-	pageId = 376,
 	timestamp = "1247520990",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Ok, enough's enough. Time to get goiAUGH",
+		"Ok, enough's enough. Time to get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"goiAUGH\
+",
 	},
 	next = {
 		377,
 	},
 	previous = 375,
+	page_id = 376,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2251,
 	timestamp = "1279247946",
 	flag = {},
 	media = {
@@ -12,37 +11,62 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: Arrivederci, Megido.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Arrivederci, Megido.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-\
-arachnidsGrip [AG]",
+		"arachnidsGrip [AG]\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ceased trolling ",
+		"ceased trolling\
+",
 		{
 			0.6313725490196078,
 			0.0,
 			0.0,
 		},
-		"apocalypseArisen [AA]",
+		"apocalypseArisen [AA]\
+",
 	},
 	next = {
 		2252,
 	},
 	previous = 2250,
+	page_id = 2251,
+	long_title = false,
 }

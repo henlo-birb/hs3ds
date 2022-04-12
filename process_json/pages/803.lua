@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Open chest.",
-	pageId = 803,
 	timestamp = "1256342856",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 		804,
 	},
 	previous = 802,
+	page_id = 803,
+	long_title = false,
 }

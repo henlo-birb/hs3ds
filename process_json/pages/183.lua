@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue fanciful harlequins.",
-	pageId = 183,
 	timestamp = "1242785116",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		184,
 	},
 	previous = 182,
+	page_id = 183,
+	long_title = true,
 }

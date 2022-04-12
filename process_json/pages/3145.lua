@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Make earmuffs.",
-	pageId = 3145,
 	timestamp = "1293241894",
 	flag = {},
 	media = {
@@ -63,4 +62,6 @@ return {
 		3146,
 	},
 	previous = 3144,
+	page_id = 3145,
+	long_title = false,
 }

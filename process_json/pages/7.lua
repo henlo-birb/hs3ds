@@ -1,6 +1,5 @@
 return {
 	title = "John: Quickly retrieve arms from MAGIC CHEST.",
-	pageId = 7,
 	timestamp = "1239607518",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		8,
 	},
 	previous = 6,
+	page_id = 7,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Allocate sword to strife specibus.",
-	pageId = 342,
 	timestamp = "1246842660",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		343,
 	},
 	previous = 341,
+	page_id = 342,
+	long_title = true,
 }

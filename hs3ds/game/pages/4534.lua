@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Captchalogue Sweet Bro plush.",
-	pageId = 4534,
 	timestamp = "1328154067",
 	flag = {},
 	media = {
@@ -13,10 +12,41 @@ return {
 			0,
 			0,
 		},
-		"Might as well complete the plush collection. You grab the SWEET BRO off your bed. It intersects quite conveniently with the PLUSH GROOVE and the FAYGO SHADE. Nice one.",
+		"Might as well complete the plush\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"collection. You grab the SWEET BRO off\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bed. It intersects quite\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"conveniently with the PLUSH GROOVE and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the FAYGO SHADE. Nice one.\
+",
 	},
 	next = {
 		4535,
 	},
 	previous = 4533,
+	page_id = 4534,
+	long_title = true,
 }

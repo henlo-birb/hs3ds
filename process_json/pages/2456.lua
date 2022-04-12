@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Disarm.",
-	pageId = 2456,
 	timestamp = "1282075571",
 	flag = {},
 	media = {
@@ -174,4 +173,6 @@ return {
 		2457,
 	},
 	previous = 2455,
+	page_id = 2456,
+	long_title = false,
 }

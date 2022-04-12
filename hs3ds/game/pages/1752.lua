@@ -1,6 +1,5 @@
 return {
 	title = "John: Blast off.",
-	pageId = 1752,
 	timestamp = "1272141813",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1753,
 	},
 	previous = 1751,
+	page_id = 1752,
+	long_title = false,
 }

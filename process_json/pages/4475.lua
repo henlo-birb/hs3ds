@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine CotL poster.",
-	pageId = 4475,
 	timestamp = "1326856372",
 	flag = {},
 	media = {
@@ -251,4 +250,6 @@ return {
 		4476,
 	},
 	previous = 4474,
+	page_id = 4475,
+	long_title = false,
 }

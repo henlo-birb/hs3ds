@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 5934,
 	timestamp = "1361089296",
 	flag = {
 		"R4",
@@ -14,24 +13,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHERE ARE YOUR FUCKING PANTS?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHERE ARE YOUR FUCKING PANTS?",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: ZZZZZZZ",
+		"TEREZI: ZZZZZZZ\
+",
 	},
 	next = {
 		5935,
 	},
 	previous = 5933,
+	page_id = 5934,
+	long_title = false,
 }

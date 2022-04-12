@@ -1,6 +1,5 @@
 return {
 	title = "AH: Recap first year of Homestuck.",
-	pageId = 1674,
 	timestamp = "1271312439",
 	flag = {},
 	media = {
@@ -10491,4 +10490,6 @@ return {
 		1675,
 	},
 	previous = 1673,
+	page_id = 1674,
+	long_title = true,
 }

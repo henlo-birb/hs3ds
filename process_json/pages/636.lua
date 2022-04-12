@@ -1,6 +1,5 @@
 return {
 	title = "John: Practice with new weapon.",
-	pageId = 636,
 	timestamp = "1252823269",
 	flag = {},
 	media = {
@@ -244,4 +243,6 @@ return {
 		637,
 	},
 	previous = 635,
+	page_id = 636,
+	long_title = false,
 }

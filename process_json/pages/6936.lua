@@ -1,6 +1,5 @@
 return {
 	title = "ADDITIONAL ANGLES.",
-	pageId = 6936,
 	timestamp = "1414892734",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 	},
 	previous = 6935,
 	theme = "A6A6",
+	page_id = 6936,
+	long_title = false,
 }

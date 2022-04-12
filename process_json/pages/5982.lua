@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] END OF INTERFISHIN",
-	pageId = 5982,
 	timestamp = "1363130025",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		5983,
 	},
 	previous = 5981,
+	page_id = 5982,
+	long_title = false,
 }

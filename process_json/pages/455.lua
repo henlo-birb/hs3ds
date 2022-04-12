@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Check out your BRO's sweet gear.",
-	pageId = 455,
 	timestamp = "1249875692",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		456,
 	},
 	previous = 454,
+	page_id = 455,
+	long_title = true,
 }

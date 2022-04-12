@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy laserstation.",
-	pageId = 3026,
 	timestamp = "1291831006",
 	flag = {},
 	media = {
@@ -299,4 +298,6 @@ return {
 		3027,
 	},
 	previous = 3025,
+	page_id = 3026,
+	long_title = false,
 }

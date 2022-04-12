@@ -1,6 +1,5 @@
 return {
 	title = "John: Answer GC.",
-	pageId = 1684,
 	timestamp = "1271468914",
 	flag = {},
 	media = {
@@ -691,4 +690,6 @@ return {
 		1685,
 	},
 	previous = 1683,
+	page_id = 1684,
+	long_title = false,
 }

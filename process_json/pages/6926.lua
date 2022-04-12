@@ -1,6 +1,5 @@
 return {
 	title = "I BUST MY CHERUB HUMP FOR YOU \"PEOPLE\".",
-	pageId = 6926,
 	timestamp = "1414892317",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 	},
 	previous = 6925,
 	theme = "A6A6",
+	page_id = 6926,
+	long_title = true,
 }

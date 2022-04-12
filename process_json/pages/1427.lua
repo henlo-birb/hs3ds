@@ -1,6 +1,5 @@
 return {
 	title = "How exciting! A parcel for you. Retrieve it!",
-	pageId = 1427,
 	timestamp = "1266539524",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1428,
 	},
 	previous = 1426,
+	page_id = 1427,
+	long_title = true,
 }

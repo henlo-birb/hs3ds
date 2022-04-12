@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Get back to adventurin'.",
-	pageId = 2516,
 	timestamp = "1282702919",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2517,
 	},
 	previous = 2515,
+	page_id = 2516,
+	long_title = false,
 }

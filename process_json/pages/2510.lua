@@ -1,6 +1,5 @@
 return {
 	title = "TROLL ETIQUETTE SURE IS CONFUSING.",
-	pageId = 2510,
 	timestamp = "1282616666",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2511,
 	},
 	previous = 2509,
+	page_id = 2510,
+	long_title = true,
 }

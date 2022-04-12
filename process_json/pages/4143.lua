@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Open chest.",
-	pageId = 4143,
 	timestamp = "1321353542",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		4144,
 	},
 	previous = 4142,
+	page_id = 4143,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Insert coin.",
-	pageId = 927,
 	timestamp = "1259528926",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		928,
 	},
 	previous = 926,
+	page_id = 927,
+	long_title = false,
 }

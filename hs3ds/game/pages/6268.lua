@@ -1,6 +1,5 @@
 return {
 	title = "what was that.",
-	pageId = 6268,
 	timestamp = "1371081024",
 	flag = {},
 	media = {
@@ -12,19 +11,35 @@ return {
 			0,
 			0,
 		},
-		"hold on. brb.",
+		"hold on. brb.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-I MEAN BRB.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"I MEAN BRB.\
+",
 	},
 	next = {
 		6269,
 	},
 	previous = 6267,
 	theme = "A6A6",
+	page_id = 6268,
+	long_title = false,
 }

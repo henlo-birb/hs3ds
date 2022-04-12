@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Retrieve mutant kitten.",
-	pageId = 4504,
 	timestamp = "1327562292",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		4505,
 	},
 	previous = 4503,
+	page_id = 4504,
+	long_title = false,
 }

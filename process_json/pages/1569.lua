@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Draw the jumper block.",
-	pageId = 1569,
 	timestamp = "1268003027",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1570,
 	},
 	previous = 1568,
+	page_id = 1569,
+	long_title = false,
 }

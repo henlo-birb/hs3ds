@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7144,
 	timestamp = "1418014717",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: (what the hell??)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: (what the hell??)",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: (gotcha!!!)",
+		"JOHN: (gotcha!!!)\
+",
 	},
 	next = {
 		7145,
 	},
 	previous = 7143,
+	page_id = 7144,
+	long_title = false,
 }

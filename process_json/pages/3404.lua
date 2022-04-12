@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine photographs.",
-	pageId = 3404,
 	timestamp = "1296446552",
 	flag = {},
 	media = {
@@ -160,4 +159,6 @@ return {
 		3405,
 	},
 	previous = 3403,
+	page_id = 3404,
+	long_title = false,
 }

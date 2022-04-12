@@ -1,6 +1,5 @@
 return {
 	title = "John: Exit kitchen.",
-	pageId = 101,
 	timestamp = "1241135258",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		102,
 	},
 	previous = 100,
+	page_id = 101,
+	long_title = false,
 }

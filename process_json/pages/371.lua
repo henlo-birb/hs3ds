@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Captchalogue W.",
-	pageId = 371,
 	timestamp = "1247520729",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		372,
 	},
 	previous = 370,
+	page_id = 371,
+	long_title = false,
 }

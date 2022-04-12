@@ -1,6 +1,5 @@
 return {
 	title = "John: Get free Fetch Modus.",
-	pageId = 117,
 	timestamp = "1241497862",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		118,
 	},
 	previous = 116,
+	page_id = 117,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Enter name.",
-	pageId = 953,
 	timestamp = "1259870496",
 	flag = {},
 	media = {
@@ -13,26 +12,62 @@ return {
 			0,
 			0,
 		},
-		"Spades Slick?",
+		"Spades Slick?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Got a nice ring to it.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you know your own name. And that damn well ain't your name.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Got a nice ring to it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you know your own name. And that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"damn well ain't your name.\
+",
 	},
 	next = {
 		954,
 	},
 	previous = 952,
+	page_id = 953,
+	long_title = false,
 }

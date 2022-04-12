@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Level up.",
-	pageId = 4269,
 	timestamp = "1323162139",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4270,
 	},
 	previous = 4268,
+	page_id = 4269,
+	long_title = false,
 }

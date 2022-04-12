@@ -1,6 +1,5 @@
 return {
 	title = "[o] Moving on.",
-	pageId = 3832,
 	timestamp = "1307512077",
 	flag = {},
 	media = {
@@ -210,4 +209,6 @@ return {
 	},
 	previous = 3831,
 	theme = "scratch",
+	page_id = 3832,
+	long_title = false,
 }

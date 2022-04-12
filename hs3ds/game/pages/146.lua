@@ -1,6 +1,5 @@
 return {
 	title = "TT: Select bunny.",
-	pageId = 146,
 	timestamp = "1242181228",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		147,
 	},
 	previous = 145,
+	page_id = 146,
+	long_title = false,
 }

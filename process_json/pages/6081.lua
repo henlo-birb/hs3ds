@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] VBVS: Bonebone! Bonebone!!!",
-	pageId = 6081,
 	timestamp = "1365055934",
 	flag = {},
 	media = {
@@ -593,4 +592,6 @@ return {
 		6082,
 	},
 	previous = 6080,
+	page_id = 6081,
+	long_title = true,
 }

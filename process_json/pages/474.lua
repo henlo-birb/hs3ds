@@ -1,6 +1,5 @@
 return {
 	title = "John: Rebuild the claw hammer and return it to specibus.",
-	pageId = 474,
 	timestamp = "1250308743",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		475,
 	},
 	previous = 473,
+	page_id = 474,
+	long_title = true,
 }

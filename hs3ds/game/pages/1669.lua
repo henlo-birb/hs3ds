@@ -1,6 +1,5 @@
 return {
 	title = "Locate fourth wall.",
-	pageId = 1669,
 	timestamp = "1271312061",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1670,
 	},
 	previous = 1668,
+	page_id = 1669,
+	long_title = false,
 }

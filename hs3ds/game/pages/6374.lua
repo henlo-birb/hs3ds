@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6374,
 	timestamp = "1373870454",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Where did my velvet pillow go?",
+		"ROSE: Where did my velvet pillow go?\
+",
 	},
 	next = {
 		6375,
 	},
 	previous = 6373,
+	page_id = 6374,
+	long_title = false,
 }

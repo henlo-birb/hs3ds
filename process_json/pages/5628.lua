@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Inspect briefing.",
-	pageId = 5628,
 	timestamp = "1356139056",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		5629,
 	},
 	previous = 5627,
+	page_id = 5628,
+	long_title = false,
 }

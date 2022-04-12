@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Throw down your hat in disgust.",
-	pageId = 4267,
 	timestamp = "1323141406",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		4268,
 	},
 	previous = 4266,
+	page_id = 4267,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rufio: Make him pay.",
-	pageId = 3386,
 	timestamp = "1296245424",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		3387,
 	},
 	previous = 3385,
+	page_id = 3386,
+	long_title = false,
 }

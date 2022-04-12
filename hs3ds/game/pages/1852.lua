@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Read Complacency of the Learned.",
-	pageId = 1852,
 	timestamp = "1273879939",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		1853,
 	},
 	previous = 1851,
+	page_id = 1852,
+	long_title = true,
 }

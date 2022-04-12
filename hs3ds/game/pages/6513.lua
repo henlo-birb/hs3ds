@@ -1,6 +1,5 @@
 return {
 	title = "THE ALPHA MALE IS ACCOSTED BY A PACK OF WILD FOES.",
-	pageId = 6513,
 	timestamp = "1377993424",
 	flag = {},
 	media = {
@@ -12,27 +11,70 @@ return {
 			0,
 			0,
 		},
-		"RAUCOUS MELEE IS IMMINENT.",
+		"RAUCOUS MELEE IS IMMINENT.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THE MALE REACHES FOR HIS BLADE. BUT DISCOVERS. HE DOESN'T HAVE ONE!",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-IN HIS HASTE TO BEGIN HIS JOURNEY. HE FORGOT TO TAKE IT.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE MALE REACHES FOR HIS BLADE. BUT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DISCOVERS. HE DOESN'T HAVE ONE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN HIS HASTE TO BEGIN HIS JOURNEY. HE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FORGOT TO TAKE IT.\
+",
 	},
 	next = {
 		6514,
 	},
 	previous = 6512,
 	theme = "A6A6",
+	page_id = 6513,
+	long_title = true,
 }

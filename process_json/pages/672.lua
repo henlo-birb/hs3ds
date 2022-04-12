@@ -1,6 +1,5 @@
 return {
 	title = "WV: Use sharp teeth to poke a hole in the lid of the can.",
-	pageId = 672,
 	timestamp = "1253648807",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		673,
 	},
 	previous = 671,
+	page_id = 672,
+	long_title = true,
 }

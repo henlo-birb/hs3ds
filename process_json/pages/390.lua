@@ -1,6 +1,5 @@
 return {
 	title = "Rose: First, be the pony. Second, trample Mom.",
-	pageId = 390,
 	timestamp = "1248132983",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		391,
 	},
 	previous = 389,
+	page_id = 390,
+	long_title = true,
 }

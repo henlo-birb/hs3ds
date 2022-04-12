@@ -1,6 +1,5 @@
 return {
 	title = "Eridan and Feferi: Do something ridiculous.",
-	pageId = 2443,
 	timestamp = "1281996576",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		2444,
 	},
 	previous = 2442,
+	page_id = 2443,
+	long_title = true,
 }

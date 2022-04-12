@@ -1,6 +1,5 @@
 return {
 	title = "OK. I KNOW WHAT YOU'RE THINKING.",
-	pageId = 6867,
 	timestamp = "1413620722",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 	},
 	previous = 6866,
 	theme = "A6A6",
+	page_id = 6867,
+	long_title = false,
 }

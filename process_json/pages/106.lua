@@ -1,6 +1,5 @@
 return {
 	title = "John: Remove PDA, envelope and package from cake.",
-	pageId = 106,
 	timestamp = "1241246512",
 	flag = {},
 	media = {
@@ -56,4 +55,6 @@ return {
 		107,
 	},
 	previous = 105,
+	page_id = 106,
+	long_title = true,
 }

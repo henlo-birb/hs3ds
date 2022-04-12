@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Sip martini more thoughtfully than that.",
-	pageId = 4482,
 	timestamp = "1326869239",
 	flag = {},
 	media = {
@@ -12,26 +11,97 @@ return {
 			0,
 			0,
 		},
-		"That's much better. ",
+		"That's much better.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-As much as you enjoy an afternoon cocktail, you have to remember to pace yourself with these things. They're crazy strong, and tend to make you kinda sleepy.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh my. How inviting does that soft plush pile look about now? Quite, you think.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"As much as you enjoy an afternoon\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cocktail, you have to remember to pace\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"yourself with these things. They're\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"crazy strong, and tend to make you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"kinda sleepy.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh my. How inviting does that soft\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"plush pile look about now? Quite, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"think.\
+",
 	},
 	next = {
 		4483,
 	},
 	previous = 4481,
+	page_id = 4482,
+	long_title = true,
 }

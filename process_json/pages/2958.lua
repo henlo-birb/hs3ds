@@ -1,6 +1,5 @@
 return {
 	title = "what about the green text human, that one was nicer.",
-	pageId = 2958,
 	timestamp = "1291168687",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		2959,
 	},
 	previous = 2957,
+	page_id = 2958,
+	long_title = true,
 }

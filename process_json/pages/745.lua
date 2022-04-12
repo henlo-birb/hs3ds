@@ -1,6 +1,5 @@
 return {
 	title = "WV: Appearify Can Town.",
-	pageId = 745,
 	timestamp = "1254706715",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		746,
 	},
 	previous = 744,
+	page_id = 745,
+	long_title = false,
 }

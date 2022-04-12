@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: What's his deal????????",
-	pageId = 2672,
 	timestamp = "1285537693",
 	flag = {},
 	media = {
@@ -950,4 +949,6 @@ return {
 		2673,
 	},
 	previous = 2671,
+	page_id = 2672,
+	long_title = false,
 }

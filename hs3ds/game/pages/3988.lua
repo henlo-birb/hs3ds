@@ -1,14 +1,15 @@
 return {
 	title = "[o]",
-	pageId = "005888",
 	timestamp = "1311562669",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/03985.gif",
+		"03985",
 	},
 	content = {},
 	next = {
 		3989,
 	},
 	theme = "scratch",
+	page_id = 3988,
+	long_title = false,
 }

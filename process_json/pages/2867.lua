@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy alchemiter.",
-	pageId = 2867,
 	timestamp = "1289697102",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		2868,
 	},
 	previous = 2866,
+	page_id = 2867,
+	long_title = false,
 }

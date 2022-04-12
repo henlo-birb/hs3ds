@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Command faithful steed.",
-	pageId = 2109,
 	timestamp = "1277754565",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		2110,
 	},
 	previous = 2108,
+	page_id = 2109,
+	long_title = false,
 }

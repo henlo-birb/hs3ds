@@ -1,6 +1,5 @@
 return {
 	title = "[S] BYE FOREVER, ALMOST.",
-	pageId = 6943,
 	timestamp = "1414893191",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 	},
 	previous = 6942,
 	theme = "A6A6",
+	page_id = 6943,
+	long_title = false,
 }

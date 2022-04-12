@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Manipul8 this worthless human.",
-	pageId = 2634,
 	timestamp = "1285188494",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2635,
 	},
 	previous = 2633,
+	page_id = 2634,
+	long_title = true,
 }

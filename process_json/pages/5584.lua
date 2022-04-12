@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Look out window.",
-	pageId = 5584,
 	timestamp = "1355551043",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		5585,
 	},
 	previous = 5583,
+	page_id = 5584,
+	long_title = false,
 }

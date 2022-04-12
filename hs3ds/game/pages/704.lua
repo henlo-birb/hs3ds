@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 704,
 	timestamp = "1254029885",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"And on the southern wall, beyond an impenetrable veil of darkness, occupying the furthest orbit yet, there is an OMINOUS PLANET. A MOON circles this one too.",
+		"And on the southern wall, beyond an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"impenetrable veil of darkness,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"occupying the furthest orbit yet,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"there is an OMINOUS PLANET. A MOON\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"circles this one too.\
+",
 	},
 	next = {
 		705,
 	},
 	previous = 703,
+	page_id = 704,
+	long_title = false,
 }

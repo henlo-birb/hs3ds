@@ -1,6 +1,5 @@
 return {
 	title = "[S][A6I5] BEGIN INTERFISHIN",
-	pageId = 5981,
 	timestamp = "1362951799",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		5982,
 	},
 	previous = 5980,
+	page_id = 5981,
+	long_title = false,
 }

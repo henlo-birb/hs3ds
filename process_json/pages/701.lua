@@ -1,6 +1,5 @@
 return {
 	title = "WV: Survey surroundings in search of more terrain for city.",
-	pageId = 701,
 	timestamp = "1254029720",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		702,
 	},
 	previous = 700,
+	page_id = 701,
+	long_title = true,
 }

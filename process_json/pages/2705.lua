@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Troll the John human.",
-	pageId = 2705,
 	timestamp = "1285821110",
 	flag = {
 		"R4",
@@ -2058,4 +2057,6 @@ return {
 		2706,
 	},
 	previous = 2704,
+	page_id = 2705,
+	long_title = false,
 }

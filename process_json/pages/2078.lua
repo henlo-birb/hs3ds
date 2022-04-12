@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Fling stars specibus-ward.",
-	pageId = 2078,
 	timestamp = "1277263672",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		2079,
 	},
 	previous = 2077,
+	page_id = 2078,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[o] Both the Seer and the Thief knew this.",
-	pageId = 3771,
 	timestamp = "1305604217",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 	},
 	previous = 3770,
 	theme = "scratch",
+	page_id = 3771,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[o] Now leave, and never darken my door again.",
-	pageId = 3871,
 	timestamp = "1309055403",
 	flag = {},
 	media = {
@@ -2191,4 +2190,6 @@ return {
 	},
 	previous = 3870,
 	theme = "scratch",
+	page_id = 3871,
+	long_title = true,
 }

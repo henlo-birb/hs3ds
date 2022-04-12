@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4992,
 	timestamp = "1338432266",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: ok so we all lost cause everybody sucked but me",
+		"MEENAH: ok so we all lost cause\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"everybody sucked but me\
+",
 	},
 	next = {
 		4993,
 	},
 	previous = 4991,
+	page_id = 4992,
+	long_title = false,
 }

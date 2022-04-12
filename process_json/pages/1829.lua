@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine skateboard and Hella Jeff drawing.",
-	pageId = 1829,
 	timestamp = "1273766903",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		1830,
 	},
 	previous = 1828,
+	page_id = 1829,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I1] ====>",
-	pageId = 6409,
 	timestamp = "1376097629",
 	flag = {
 		"S",
@@ -14,122 +13,293 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Why did she group the two seers together?",
+		"ROSE: Why did she group the two seers\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"together?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Was there a point to that?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Was there a point to that?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: What is her goal with these divide and conquer tactics?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Everything is so unclear.",
+		"ROSE: What is her goal with these\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"divide and conquer tactics?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Threads leading to the most fortuitous outcomes have gotten so badly tangled.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Everything is so unclear.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: I can't tell if it's the hangover, or if something else is happening.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Something out there...",
+		"ROSE: Threads leading to the most\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Unaccounted for.",
+		"fortuitous outcomes have gotten so\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"badly tangled.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Why can't I see it?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Why have I become so blind again?",
+		"ROSE: I can't tell if it's the\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"hangover, or if something else is\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"happening.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: No offense, Terezi.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Something out there...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Unaccounted for.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Why can't I see it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: Why have I become so blind\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"again?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ROSE: No offense, Terezi.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: 4R3 YOU T4LK1NG TO M3?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: 4R3 YOU T4LK1NG TO M3?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: NO, I'M TALKING TO MYSELF!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: NO, I'M TALKING TO MYSELF!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: WHY?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: WHY?",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: STOP MAKING ME YELL! I STILL\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"HAVE A HEADACHE, AND SO DO YOU!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: STOP MAKING ME YELL! I STILL HAVE A HEADACHE, AND SO DO YOU!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: 4LR1GHT, SORRY!",
+		"TEREZI: 4LR1GHT, SORRY!\
+",
 	},
 	next = {
 		6410,
 	},
 	previous = 6408,
+	page_id = 6409,
+	long_title = false,
 }

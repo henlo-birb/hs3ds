@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Resist great urge to play Bro's Xbox.",
-	pageId = 3479,
 	timestamp = "1297453714",
 	flag = {
 		"R1",
@@ -14,26 +13,97 @@ return {
 			0,
 			0,
 		},
-		"As usual, you fail to resist the urge. ",
+		"As usual, you fail to resist the urge.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You start thrashing up stunts something uncannybrutal on your quest forOH GOD DAMMIT.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You were making a play for that sicknasty pack of deliriously mouthwatering Doritos and this idiot got stuck in a pole again. Time to reset for the third time this hour.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You start thrashing up stunts\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"something uncannybrutal on your quest\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"forOH GOD DAMMIT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You were making a play for that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sicknasty pack of deliriously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mouthwatering Doritos and this idiot\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got stuck in a pole again. Time to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reset for the third time this hour.\
+",
 	},
 	next = {
 		3480,
 	},
 	previous = 3478,
+	page_id = 3479,
+	long_title = true,
 }

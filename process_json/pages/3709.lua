@@ -1,6 +1,5 @@
 return {
 	title = "i must explode this ridiculously illegal edifice.",
-	pageId = 3709,
 	timestamp = "1302486651",
 	flag = {},
 	media = {
@@ -489,4 +488,6 @@ return {
 		3710,
 	},
 	previous = 3708,
+	page_id = 3709,
+	long_title = true,
 }

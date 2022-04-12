@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Consult with Calsprite.",
-	pageId = 1642,
 	timestamp = "1270242766",
 	flag = {},
 	media = {
@@ -397,4 +396,6 @@ return {
 		1643,
 	},
 	previous = 1641,
+	page_id = 1642,
+	long_title = false,
 }

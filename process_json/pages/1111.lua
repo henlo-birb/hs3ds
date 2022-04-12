@@ -1,6 +1,5 @@
 return {
 	title = "AR: Examine moving platform.",
-	pageId = 1111,
 	timestamp = "1262575741",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1112,
 	},
 	previous = 1110,
+	page_id = 1111,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Turn page.",
-	pageId = 4441,
 	timestamp = "1326260265",
 	flag = {},
 	media = {
@@ -12,18 +11,104 @@ return {
 			0,
 			0,
 		},
-		"Later, about halfway through the book, rather than see the gag through to the bitter end, Strider began pasting over entire pages of original text with his own completely rewritten version of the story, while keeping all the chapter titles. His revision is a tough, emotionally draining read. But it's cathartic, in all the worst ways possible.",
+		"Later, about halfway through the book,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"rather than see the gag through to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bitter end, Strider began pasting over\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"entire pages of original text with his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"own completely rewritten version of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the story, while keeping all the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chapter titles. His revision is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tough, emotionally draining read. But\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it's cathartic, in all the worst ways\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"possible.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He tends to get carried away with his projects.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He tends to get carried away with his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"projects.\
+",
 	},
 	next = {
 		4442,
 	},
 	previous = 4440,
+	page_id = 4441,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7181,
 	timestamp = "1418619788",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: H3R3",
+		"TEREZI: H3R3\
+",
 	},
 	next = {
 		7182,
 	},
 	previous = 7180,
+	page_id = 7181,
+	long_title = false,
 }

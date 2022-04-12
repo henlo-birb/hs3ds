@@ -1,6 +1,5 @@
 return {
 	title = "AH: Why don't you keep drawing Homestuck or something.",
-	pageId = 1677,
 	timestamp = "1271388581",
 	flag = {},
 	media = {
@@ -12,30 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Oh, but I don't merely ",
+		"Oh, but I don't merely\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"draw",
+		"draw\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" Homestuck...",
+		"Homestuck...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-(Type \"==>\", I am about to make a joke.)",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"(Type \"==>\", I am about to make a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"joke.)\
+",
 	},
 	next = {
 		1678,
 	},
 	previous = 1676,
+	page_id = 1677,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Bring knives to the gunfight.",
-	pageId = 1272,
 	timestamp = "1264824760",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Where do you think you're going, fatty?",
+		"Where do you think you're going,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"fatty?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll deal with him in a minute. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You whip out your DOUBLE EDGED SWORD and OCCAM'S RAZOR.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll deal with him in a minute.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You whip out your DOUBLE EDGED SWORD\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and OCCAM'S RAZOR.\
+",
 	},
 	next = {
 		1273,
 	},
 	previous = 1271,
+	page_id = 1272,
+	long_title = true,
 }

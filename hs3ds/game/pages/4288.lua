@@ -1,6 +1,5 @@
 return {
 	title = "So, uh... what about all those other kids?",
-	pageId = 4288,
 	timestamp = "1323414671",
 	flag = {},
 	media = {
@@ -12,38 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Huh? Who?",
+		"Huh? Who?\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Oh, yeah. ",
-		{
-			0,
-			0,
-			0,
-		},
-		"Those",
-		{
-			0,
-			0,
-			0,
-		},
-		" people.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Aren't they all dead?",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Oh, yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Those\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"people.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Aren't they all dead?\
+",
 	},
 	next = {
 		4289,
 	},
 	previous = 4287,
+	page_id = 4288,
+	long_title = true,
 }

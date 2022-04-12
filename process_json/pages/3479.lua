@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Resist great urge to play Bro's Xbox.",
-	pageId = 3479,
 	timestamp = "1297453714",
 	flag = {
 		"R1",
@@ -105,4 +104,6 @@ return {
 		3480,
 	},
 	previous = 3478,
+	page_id = 3479,
+	long_title = true,
 }

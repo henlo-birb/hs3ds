@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Go check on Aradia's present.",
-	pageId = 2224,
 	timestamp = "1279067725",
 	flag = {},
 	media = {
@@ -194,4 +193,6 @@ return {
 		2225,
 	},
 	previous = 2223,
+	page_id = 2224,
+	long_title = true,
 }

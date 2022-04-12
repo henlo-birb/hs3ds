@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jade: Pester John.",
-	pageId = 1073,
 	timestamp = "1262045581",
 	flag = {
 		"F",
@@ -1380,4 +1379,6 @@ return {
 		1074,
 	},
 	previous = 1072,
+	page_id = 1073,
+	long_title = false,
 }

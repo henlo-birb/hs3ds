@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine ink bottle and Gushers.",
-	pageId = 1806,
 	timestamp = "1273121711",
 	flag = {
 		"R4",
@@ -71,4 +70,6 @@ return {
 		1807,
 	},
 	previous = 1805,
+	page_id = 1806,
+	long_title = true,
 }

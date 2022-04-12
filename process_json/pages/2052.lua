@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Go get cane.",
-	pageId = 2052,
 	timestamp = "1276974910",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2053,
 	},
 	previous = 2051,
+	page_id = 2052,
+	long_title = false,
 }

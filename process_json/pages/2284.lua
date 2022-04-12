@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Enter.",
-	pageId = 2284,
 	timestamp = "1279600724",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2285,
 	},
 	previous = 2283,
+	page_id = 2284,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 691,
 	timestamp = "1253850447",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Inside the box, there are 12 pieces of CHALK in every color of the... ",
+		"Inside the box, there are 12 pieces of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CHALK in every color of the...\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-10 pieces of chalk. In most colors of the rainbow.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are excited by this.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"10 pieces of chalk. In most colors of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the rainbow.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are excited by this.\
+",
 	},
 	next = {
 		692,
 	},
 	previous = 690,
+	page_id = 691,
+	long_title = false,
 }

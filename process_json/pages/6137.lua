@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Crowbar: Show Slick exit.",
-	pageId = 6137,
 	timestamp = "1365457852",
 	flag = {},
 	media = {
@@ -390,4 +389,6 @@ return {
 		6138,
 	},
 	previous = 6136,
+	page_id = 6137,
+	long_title = false,
 }

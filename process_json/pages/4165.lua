@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine holster belt.",
-	pageId = 4165,
 	timestamp = "1321662448",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		4166,
 	},
 	previous = 4164,
+	page_id = 4165,
+	long_title = false,
 }

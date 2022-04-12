@@ -1,6 +1,5 @@
 return {
 	title = "BOY, QUIT ALL THIS SCURRYING AROUND.",
-	pageId = 254,
 	timestamp = "1245095574",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		255,
 	},
 	previous = 253,
+	page_id = 254,
+	long_title = true,
 }

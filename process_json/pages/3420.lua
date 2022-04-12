@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Contact John.",
-	pageId = 3420,
 	timestamp = "1296685151",
 	flag = {},
 	media = {
@@ -523,4 +522,6 @@ return {
 		3421,
 	},
 	previous = 3419,
+	page_id = 3420,
+	long_title = false,
 }

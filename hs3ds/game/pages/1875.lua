@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1875,
 	timestamp = "1274307806",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"A meteor overhead streaks unnoticed, headed toward an unseasonably warm city in the central United States.",
+		"A meteor overhead streaks unnoticed,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"headed toward an unseasonably warm\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"city in the central United States.\
+",
 	},
 	next = {
 		1876,
 	},
 	previous = 1874,
+	page_id = 1875,
+	long_title = false,
 }

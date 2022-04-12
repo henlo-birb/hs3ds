@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Begin recruiting red team members.",
-	pageId = 2054,
 	timestamp = "1276992579",
 	flag = {},
 	media = {
@@ -13,26 +12,132 @@ return {
 			0,
 			0,
 		},
-		"Your nose begins scouring your chumproll through the saliva smears on your monitor for potential teammates so you can start playing. Hmm, no not her. Nope, not her either. DEFINITELY not that guy.",
+		"Your nose begins scouring your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"chumproll through the saliva smears on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your monitor for potential teammates\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"so you can start playing. Hmm, no not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"her. Nope, not her either. DEFINITELY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"not that guy.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok how about this girl. You like to roleplay with her sometimes via chat. You pretend you are a member of the mysterious and noble DRAGONYY'YD RACE, while she does her own goofy thing. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You don't have it in your heart to tell her that your chat RPing is meant f4c3t1ously I mean facetiously.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok how about this girl. You like to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"roleplay with her sometimes via chat.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You pretend you are a member of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mysterious and noble DRAGONYY'YD RACE,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"while she does her own goofy thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You don't have it in your heart to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tell her that your chat RPing is meant\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"f4c3t1ously I mean facetiously.\
+",
 	},
 	next = {
 		2055,
 	},
 	previous = 2053,
+	page_id = 2054,
+	long_title = true,
 }

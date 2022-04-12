@@ -1,6 +1,5 @@
 return {
 	title = "This is ridiculous.",
-	pageId = 2494,
 	timestamp = "1282457013",
 	flag = {},
 	media = {
@@ -264,4 +263,6 @@ return {
 		2495,
 	},
 	previous = 2493,
+	page_id = 2494,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "PM?: Locate the Archagent.",
-	pageId = 1548,
 	timestamp = "1267825404",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1549,
 	},
 	previous = 1547,
+	page_id = 1548,
+	long_title = false,
 }

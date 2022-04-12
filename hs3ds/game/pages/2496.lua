@@ -1,6 +1,5 @@
 return {
 	title = "Wow.",
-	pageId = 2496,
 	timestamp = "1282457120",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"THAT'S WHAT JUST HAPPENED BITCH.",
+		"THAT'S WHAT JUST HAPPENED BITCH.\
+",
 	},
 	next = {
 		2497,
 	},
 	previous = 2495,
+	page_id = 2496,
+	long_title = false,
 }

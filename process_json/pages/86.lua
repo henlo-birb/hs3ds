@@ -1,6 +1,5 @@
 return {
 	title = "John: Spy in the kitchen.",
-	pageId = 86,
 	timestamp = "1240615175",
 	flag = {},
 	media = {
@@ -152,4 +151,6 @@ return {
 		87,
 	},
 	previous = 85,
+	page_id = 86,
+	long_title = false,
 }

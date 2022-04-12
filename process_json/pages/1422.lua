@@ -1,6 +1,5 @@
 return {
 	title = "This one's empty. Perhaps a delivery is in order?",
-	pageId = 1422,
 	timestamp = "1266539299",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1423,
 	},
 	previous = 1421,
+	page_id = 1422,
+	long_title = true,
 }

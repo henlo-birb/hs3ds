@@ -1,6 +1,5 @@
 return {
 	title = "[S] Jane: Cautiously approach.",
-	pageId = 4827,
 	timestamp = "1334644201",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		4828,
 	},
 	previous = 4825,
+	page_id = 4827,
+	long_title = false,
 }

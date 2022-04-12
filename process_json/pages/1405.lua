@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Tidy up Strider's apartment a little.",
-	pageId = 1405,
 	timestamp = "1266305342",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		1406,
 	},
 	previous = 1404,
+	page_id = 1405,
+	long_title = true,
 }

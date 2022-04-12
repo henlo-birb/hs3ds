@@ -1,6 +1,5 @@
 return {
 	title = "TT: Deploy Cruxtruder.",
-	pageId = 156,
 	timestamp = "1242365760",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		157,
 	},
 	previous = 155,
+	page_id = 156,
+	long_title = false,
 }

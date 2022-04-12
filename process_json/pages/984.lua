@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Check self for any mixed atoms with cat.",
-	pageId = 984,
 	timestamp = "1260394913",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		985,
 	},
 	previous = 983,
+	page_id = 984,
+	long_title = true,
 }

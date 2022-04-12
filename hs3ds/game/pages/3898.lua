@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 3898,
 	timestamp = "1310165471",
 	flag = {},
 	media = {
@@ -12,46 +11,105 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: but the chain was huge\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: but the chain was huge",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: couldnt think of how to break it\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: couldnt think of how to break it",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-TG: then out of nowhere this sword appears in the thing",
+		"TG: then out of nowhere this sword\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"appears in the thing\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: so im thinking obviously i have to break the sword somehow",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"TG: so im thinking obviously i have to\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"break the sword somehow\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TG: because thats all i fucking do is break swords",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"TG: because thats all i fucking do is\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"break swords\
+",
 	},
 	next = {
 		3899,
 	},
 	previous = 3897,
 	theme = "scratch",
+	page_id = 3898,
+	long_title = false,
 }

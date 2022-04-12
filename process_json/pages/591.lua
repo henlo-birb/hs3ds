@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Think of a new word for powercord.",
-	pageId = 591,
 	timestamp = "1252177476",
 	flag = {},
 	media = {
@@ -229,4 +228,6 @@ return {
 		592,
 	},
 	previous = 590,
+	page_id = 591,
+	long_title = true,
 }

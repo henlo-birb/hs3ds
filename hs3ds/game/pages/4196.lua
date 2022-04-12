@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Examine portrait.",
-	pageId = 4196,
 	timestamp = "1322022193",
 	flag = {},
 	media = {
@@ -12,18 +11,181 @@ return {
 			0,
 			0,
 		},
-		"Just one of your dad's bland HALLWAY DOUCHEBAGS. Another example of his cornball dad tastes, which make you roll your eyes and shrug. Still, it's preferable to how it used to be. ",
+		"Just one of your dad's bland HALLWAY\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOUCHEBAGS. Another example of his\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cornball dad tastes, which make you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"roll your eyes and shrug. Still, it's\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"preferable to how it used to be.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Years ago he would work really hard to mimic your interests throughout the household. Gaudy paintings of sitcom legends covering the walls, hideous detective figurines littered everywhere. You think it's better that he embrace his own interests rather than try to pander to yours. It felt a bit forced, and your early teen years were filled with daily rounds of familial STRIFE. Not so much anymore. Now whenever there is a father-daughter disagreement, you settle things in an adult fashion by being honest about your feelings and talking it through, and also by sneaking around the house in silly disguises.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Years ago he would work really hard to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"mimic your interests throughout the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"household. Gaudy paintings of sitcom\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"legends covering the walls, hideous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"detective figurines littered\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"everywhere. You think it's better that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"he embrace his own interests rather\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than try to pander to yours. It felt a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"bit forced, and your early teen years\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"were filled with daily rounds of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"familial STRIFE. Not so much anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Now whenever there is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"father-daughter disagreement, you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"settle things in an adult fashion by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"being honest about your feelings and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"talking it through, and also by\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sneaking around the house in silly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"disguises.\
+",
 	},
 	next = {
 		4197,
 	},
 	previous = 4195,
+	page_id = 4196,
+	long_title = false,
 }

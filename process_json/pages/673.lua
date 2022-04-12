@@ -1,6 +1,5 @@
 return {
 	title = "WV: Attempt to open can with your weak pathetic digits.",
-	pageId = 673,
 	timestamp = "1253648846",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		674,
 	},
 	previous = 672,
+	page_id = 673,
+	long_title = true,
 }

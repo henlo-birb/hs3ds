@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Consult with Jaspersprite.",
-	pageId = 1624,
 	timestamp = "1269655447",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		1625,
 	},
 	previous = 1623,
+	page_id = 1624,
+	long_title = false,
 }

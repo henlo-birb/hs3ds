@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Sketch particle accelerator.",
-	pageId = 3163,
 	timestamp = "1293254965",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		3164,
 	},
 	previous = 3162,
+	page_id = 3163,
+	long_title = true,
 }

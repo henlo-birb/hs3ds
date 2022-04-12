@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine shitty sword and Hella Jeff drawing.",
-	pageId = 1827,
 	timestamp = "1273722255",
 	flag = {},
 	media = {
@@ -105,4 +104,6 @@ return {
 		1828,
 	},
 	previous = 1826,
+	page_id = 1827,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Carry Sawbuck like Titan Atlas would carry the world",
-	pageId = 1278,
 	timestamp = "1264861044",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1279,
 	},
 	previous = 1277,
+	page_id = 1278,
+	long_title = true,
 }

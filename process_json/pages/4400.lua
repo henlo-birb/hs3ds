@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Get watch.",
-	pageId = 4400,
 	timestamp = "1325321922",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		4401,
 	},
 	previous = 4399,
+	page_id = 4400,
+	long_title = false,
 }

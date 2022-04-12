@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine hubtop and hair band.",
-	pageId = 1807,
 	timestamp = "1273189642",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1808,
 	},
 	previous = 1806,
+	page_id = 1807,
+	long_title = true,
 }

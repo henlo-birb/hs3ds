@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine glasses and PDA.",
-	pageId = 1056,
 	timestamp = "1261458398",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		1057,
 	},
 	previous = 1055,
+	page_id = 1056,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Hit Crowbar in the head.",
-	pageId = 1275,
 	timestamp = "1264829423",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1276,
 	},
 	previous = 1274,
+	page_id = 1275,
+	long_title = false,
 }

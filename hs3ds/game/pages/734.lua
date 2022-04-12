@@ -1,6 +1,5 @@
 return {
 	title = "WV: Attach your trusty knife to the meter stick.",
-	pageId = 734,
 	timestamp = "1254626743",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You immediately craft a MEASURING SPEAR through possibly the most advanced form of alchemy employed thusfar. This is obviously the most important thing to do first.",
+		"You immediately craft a MEASURING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPEAR through possibly the most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"advanced form of alchemy employed\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thusfar. This is obviously the most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"important thing to do first.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-OBVIOUSLY.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OBVIOUSLY.\
+",
 	},
 	next = {
 		735,
 	},
 	previous = 733,
+	page_id = 734,
+	long_title = true,
 }

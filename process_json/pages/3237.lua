@@ -1,6 +1,5 @@
 return {
 	title = "AH: Begin typing.",
-	pageId = 3237,
 	timestamp = "1294016571",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		3238,
 	},
 	previous = 3236,
+	page_id = 3237,
+	long_title = false,
 }

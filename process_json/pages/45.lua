@@ -1,6 +1,5 @@
 return {
 	title = "John: Get funny glasses too.",
-	pageId = 45,
 	timestamp = "1240031214",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		46,
 	},
 	previous = 44,
+	page_id = 45,
+	long_title = false,
 }

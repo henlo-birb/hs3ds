@@ -1,6 +1,5 @@
 return {
 	title = "WOW, YES. SO GOOD.",
-	pageId = 6495,
 	timestamp = "1377892155",
 	flag = {},
 	media = {
@@ -13,4 +12,6 @@ return {
 	},
 	previous = 6494,
 	theme = "A6A6",
+	page_id = 6495,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "NOW TAKE IT.",
-	pageId = 266,
 	timestamp = "1245127449",
 	flag = {},
 	media = {
@@ -48,4 +47,6 @@ return {
 		267,
 	},
 	previous = 265,
+	page_id = 266,
+	long_title = false,
 }

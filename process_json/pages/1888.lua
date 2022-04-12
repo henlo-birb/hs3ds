@@ -1,6 +1,5 @@
 return {
 	title = "John: There's one more button to push.",
-	pageId = 1888,
 	timestamp = "1274308388",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1889,
 	},
 	previous = 1887,
+	page_id = 1888,
+	long_title = true,
 }

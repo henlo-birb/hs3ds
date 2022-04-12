@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tock.",
-	pageId = 3834,
 	timestamp = "1307512447",
 	flag = {},
 	media = {
@@ -13,11 +12,35 @@ return {
 			0,
 			0,
 		},
-		"A true Seer would know where luck is a given, where it is absent, and most importantly, where it doesn't matter at all.",
+		"A true Seer would know where luck is a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"given, where it is absent, and most\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"importantly, where it doesn't matter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at all.\
+",
 	},
 	next = {
 		3835,
 	},
 	previous = 3833,
 	theme = "scratch",
+	page_id = 3834,
+	long_title = false,
 }

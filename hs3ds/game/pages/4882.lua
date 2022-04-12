@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Get pumpkin.",
-	pageId = 4882,
 	timestamp = "1335826686",
 	flag = {},
 	media = {
@@ -12,18 +11,90 @@ return {
 			0,
 			0,
 		},
-		"WHAT FUCKING PUMPKIN. THERE IS NO PUMPKIN. ONCE AGAIN, THERE IS NOTHING AT ALL IN YOUR CELL, USEFUL OR oh god dammit.",
+		"WHAT FUCKING PUMPKIN. THERE IS NO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PUMPKIN. ONCE AGAIN, THERE IS NOTHING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AT ALL IN YOUR CELL, USEFUL OR oh god\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dammit.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok, a pumpkin appears. You guess it must be feeding time for the prisoners. These Prospitian jails are like luxury suites compared to the penal system on Derse. Should be the softest time you ever did.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok, a pumpkin appears. You guess it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must be feeding time for the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"prisoners. These Prospitian jails are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like luxury suites compared to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"penal system on Derse. Should be the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"softest time you ever did.\
+",
 	},
 	next = {
 		4883,
 	},
 	previous = 4881,
+	page_id = 4882,
+	long_title = false,
 }

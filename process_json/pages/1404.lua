@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Organize Dave's puppets.",
-	pageId = 1404,
 	timestamp = "1266305293",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1405,
 	},
 	previous = 1403,
+	page_id = 1404,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] ==>",
-	pageId = 6149,
 	timestamp = "1365490006",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"It's the fucking JACKPOT.",
+		"It's the fucking JACKPOT.\
+",
 	},
 	next = {
 		6150,
 	},
 	previous = 6148,
+	page_id = 6149,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Preview item with holopad.",
-	pageId = 1825,
 	timestamp = "1273722125",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1826,
 	},
 	previous = 1824,
+	page_id = 1825,
+	long_title = false,
 }

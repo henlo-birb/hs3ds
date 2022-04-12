@@ -1,6 +1,5 @@
 return {
 	title = "Future Karkat: Retreat into lab.",
-	pageId = 3423,
 	timestamp = "1296702261",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3424,
 	},
 	previous = 3422,
+	page_id = 3423,
+	long_title = false,
 }

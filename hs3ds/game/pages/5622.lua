@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5622,
 	timestamp = "1356056987",
 	flag = {},
 	media = {
@@ -12,32 +11,97 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: NO NO NO NO NO! THIS WON'T DO AT ALL!",
+		"CALLIOPE: NO NO NO NO NO! THIS WON'T\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"DO AT ALL!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-CALLIOPE: HAVE YOU GONE MENTAL? WHY DON'T WE JUST BURN A BLOODY BONFIRE IN HERE!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: HAVE YOU GONE MENTAL? WHY\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"DON'T WE JUST BURN A BLOODY BONFIRE IN\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"HERE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: HE'LL SPOT US ANY MINUTE! ASSUMING HE ISN'T ALREADY ON HIS WAY TO BLOW US ALL TO KINGDOM COME!!!",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: HE'LL SPOT US ANY MINUTE!\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"ASSUMING HE ISN'T ALREADY ON HIS WAY\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"TO BLOW US ALL TO KINGDOM COME!!!\
+",
 	},
 	next = {
 		5623,
 	},
 	previous = 5621,
+	page_id = 5622,
+	long_title = false,
 }

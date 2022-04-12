@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Get medical report.",
-	pageId = 3376,
 	timestamp = "1296153002",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		3377,
 	},
 	previous = 3375,
+	page_id = 3376,
+	long_title = false,
 }

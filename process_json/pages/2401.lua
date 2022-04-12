@@ -1,6 +1,5 @@
 return {
 	title = "Examine pale quadrant.",
-	pageId = 2401,
 	timestamp = "1281580280",
 	flag = {},
 	media = {
@@ -299,4 +298,6 @@ return {
 		2402,
 	},
 	previous = 2400,
+	page_id = 2401,
+	long_title = false,
 }

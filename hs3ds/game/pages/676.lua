@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine marking on wrist.",
-	pageId = 676,
 	timestamp = "1253649002",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You drop all the cans and take a look at your wrist.",
+		"You drop all the cans and take a look\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"at your wrist.\
+",
 	},
 	next = {
 		677,
 	},
 	previous = 675,
+	page_id = 676,
+	long_title = false,
 }

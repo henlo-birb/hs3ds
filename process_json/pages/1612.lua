@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, in a long discarded memory...",
-	pageId = 1612,
 	timestamp = "1269407174",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1613,
 	},
 	previous = 1611,
+	page_id = 1612,
+	long_title = true,
 }

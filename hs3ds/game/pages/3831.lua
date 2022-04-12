@@ -1,6 +1,5 @@
 return {
 	title = "[o] I wouldn't bet against her.",
-	pageId = 3831,
 	timestamp = "1307511761",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 3830,
 	theme = "scratch",
+	page_id = 3831,
+	long_title = false,
 }

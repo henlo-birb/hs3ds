@@ -1,6 +1,5 @@
 return {
 	title = "In the mystic ruins of an era pre-desecration...",
-	pageId = 1366,
 	timestamp = "1265919597",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1367,
 	},
 	previous = 1365,
+	page_id = 1366,
+	long_title = true,
 }

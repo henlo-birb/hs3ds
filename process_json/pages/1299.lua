@@ -1,6 +1,5 @@
 return {
 	title = "[I] DD: Have Stitch patch up SS's effigy.",
-	pageId = 1299,
 	timestamp = "1265148609",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1300,
 	},
 	previous = 1298,
+	page_id = 1299,
+	long_title = true,
 }

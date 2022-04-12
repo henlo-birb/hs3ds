@@ -1,6 +1,5 @@
 return {
 	title = "Sawtooth: Enter.",
-	pageId = 5258,
 	timestamp = "1342578168",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		5259,
 	},
 	previous = 5257,
+	page_id = 5258,
+	long_title = false,
 }

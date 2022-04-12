@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Take expensive ninja sword.",
-	pageId = 563,
 	timestamp = "1251701530",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"What sword?",
+		"What sword?\
+",
 	},
 	next = {
 		564,
 	},
 	previous = 562,
+	page_id = 563,
+	long_title = true,
 }

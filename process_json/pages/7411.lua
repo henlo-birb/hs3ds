@@ -1,6 +1,5 @@
 return {
 	title = "MY MASTERPIECE!",
-	pageId = 7411,
 	timestamp = "1428897531",
 	flag = {
 		"F",
@@ -162,4 +161,6 @@ return {
 	},
 	previous = 7410,
 	theme = "A6A6",
+	page_id = 7411,
+	long_title = false,
 }

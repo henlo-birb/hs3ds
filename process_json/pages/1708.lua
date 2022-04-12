@@ -1,6 +1,5 @@
 return {
 	title = "John: Oh, just open the package already.",
-	pageId = 1708,
 	timestamp = "1271710194",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1709,
 	},
 	previous = 1707,
+	page_id = 1708,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Inspect personals.",
-	pageId = 6123,
 	timestamp = "1365390849",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		6124,
 	},
 	previous = 6122,
+	page_id = 6123,
+	long_title = false,
 }

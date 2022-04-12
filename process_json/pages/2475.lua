@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Indulge emotional theatrics.",
-	pageId = 2475,
 	timestamp = "1282351053",
 	flag = {},
 	media = {
@@ -978,4 +977,6 @@ return {
 		2476,
 	},
 	previous = 2474,
+	page_id = 2475,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John, the uncarved tablet you retrieved.",
-	pageId = 1489,
 	timestamp = "1267133026",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		1490,
 	},
 	previous = 1488,
+	page_id = 1489,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Switch wall's view to show us what's going on with John.",
-	pageId = 1682,
 	timestamp = "1271389106",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1683,
 	},
 	previous = 1681,
+	page_id = 1682,
+	long_title = true,
 }

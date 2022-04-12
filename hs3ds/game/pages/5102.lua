@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Examine mess.",
-	pageId = 5102,
 	timestamp = "1340161328",
 	flag = {},
 	media = {
@@ -12,10 +11,83 @@ return {
 			0,
 			0,
 		},
-		"He's always been a pain to live with, but now that he seems to be on the verge of victory, he is completely out of control. During one of your recent naps, he apparently threw a full blown tantrum and dumped a whole bunch of meat and candy on your side of the room. He also broke your lovely chess board in half and scattered the pieces about, most of which are now missing. Talk about a shitty roommate.",
+		"He's always been a pain to live with,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"but now that he seems to be on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"verge of victory, he is completely out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of control. During one of your recent\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"naps, he apparently threw a full blown\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"tantrum and dumped a whole bunch of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"meat and candy on your side of the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"room. He also broke your lovely chess\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"board in half and scattered the pieces\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about, most of which are now missing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Talk about a shitty roommate.\
+",
 	},
 	next = {
 		5103,
 	},
 	previous = 5101,
+	page_id = 5102,
+	long_title = false,
 }

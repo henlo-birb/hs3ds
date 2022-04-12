@@ -1,6 +1,5 @@
 return {
 	title = "[o] Tock.",
-	pageId = 3817,
 	timestamp = "1306974864",
 	flag = {},
 	media = {
@@ -13,11 +12,56 @@ return {
 			0,
 			0,
 		},
-		"It's also logical, since there is essentially nothing new in paradox space. Everything that can happen is either a visual or substantive reproduction of something which has already transpired on a timeline, offshoot or otherwise.",
+		"It's also logical, since there is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"essentially nothing new in paradox\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"space. Everything that can happen is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"either a visual or substantive\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reproduction of something which has\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already transpired on a timeline,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"offshoot or otherwise.\
+",
 	},
 	next = {
 		3818,
 	},
 	previous = 3816,
 	theme = "scratch",
+	page_id = 3817,
+	long_title = false,
 }

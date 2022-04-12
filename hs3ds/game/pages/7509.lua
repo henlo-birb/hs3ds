@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7509,
 	timestamp = "1431035684",
 	flag = {},
 	media = {
@@ -12,311 +11,895 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: BYE! MAYBE TRY ACTING A LITTLE MORE GRACIOUS IN DEFEAT NEXT TIME.",
+		"KARKAT: BYE! MAYBE TRY ACTING A LITTLE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: JUST A LITTLE ADVICE FROM ONE LEADER TO ANOTHER!",
+		"MORE GRACIOUS IN DEFEAT NEXT TIME.\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-KANAYA: Shes Gone I Think You Needed To Come Up With That Comeback A Little Faster",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: YEAH",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: DAMN",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: I Think As A Friend It Would Behoove Me To Um",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: Confide Somewhat",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-KANAYA: About The Realities Of Pursuing Anything With Her",
+		"KARKAT: JUST A LITTLE ADVICE FROM ONE\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WAIT",
+		"LEADER TO ANOTHER!\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: WHAT??",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: KANAYA, YOU WEREN'T TAKING THAT PATHETIC JOKEY UNREQUITED BLACKROM STUFF SERIOUSLY, WERE YOU???",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Lets Imagine That My Attitude Toward The Joking Or Non Joking Status Of That Is Perfectly Neutral",
+		"KANAYA: Shes Gone I Think You Needed\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: While I Just Say These Things",
+		"To Come Up With That Comeback A Little\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Faster\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Aside From The Fact That She Literally Just Got Finished Telling Me She Wasnt Interested In Any Non Pale Relationships",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YEAH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: DAMN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: I Think That Would Be A Blind Alley Regardless",
+		"KANAYA: I Think As A Friend It Would\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Behoove Me To Um\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Admit This From Experience",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Confide Somewhat\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: And Not Without Chagrined Hesitation",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: But Only Frustration And Heartbreak Are Down That Road",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: OH??",
+		"KANAYA: About The Realities Of\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Pursuing Anything With Her\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Shes Turned Out To Be A Tremendous Partner In Pale Relationships",
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WAIT\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WHAT??\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: KANAYA, YOU WEREN'T TAKING\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"THAT PATHETIC JOKEY UNREQUITED\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"BLACKROM STUFF SERIOUSLY, WERE YOU???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Maybe Even Um",
+		"KANAYA: Lets Imagine That My Attitude\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: A Bit Freakishly So?",
+		"Toward The Joking Or Non Joking Status\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Of That Is Perfectly Neutral\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: But Anything Stronger Than That I Think Would Probably Be Disastrous",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: While I Just Say These Things\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: She Is Way Too Focused And Self Absorbed To Maintain Such Strong Feelings For Long",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: She Would Need To Learn To Let Go Of Some Of Her Ambition And Figure Out How To Prioritize The Feelings Of Other People",
+		"KANAYA: Aside From The Fact That She\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: She Might Even Figure Out How To Be",
+		"Literally Just Got Finished Telling Me\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Happy",
+		"She Wasnt Interested In Any Non Pale\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: *Shudder*",
+		"Relationships\
+",
 		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
+			0,
+			0,
+			0,
 		},
 		"\
-KARKAT: YEAH, WOW",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: A CHILL JUST RAN UP MY POSTURE POLE, TRYING TO IMAGINE THAT.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: YOU KNOW...",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: I DON'T KNOW IF I'VE EVER TOLD YOU.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: BUT YOU HAVE A REALLY IMPRESSIVE GRASP OVER ROMANTIC ANALYSIS.",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Well I Have Read A Lot Of Novels Too",
+		"KANAYA: I Think That Would Be A Blind\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Alley Regardless\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: I Just Dont Brag Much About It",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: I Admit This From Experience\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Because It Would...",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-KANAYA: Literally Be Preposterous To Do So",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WE SHOULD BE JAMMING ON THIS SUBJECT MORE. MAYBE EXPLORE SOME OF MY MORE ADVANCED THEORIES.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WE'RE SURROUNDED BY AMATEURS IN THIS FIELD, SO IT GETS A BIT FRUSTRATING.",
-		{
-			0.3843137254901961,
-			0.3843137254901961,
-			0.3843137254901961,
-		},
-		"\
-KARKAT: WELL, THE MAYOR'S A GOOD SOUNDING BOARD AT LEAST. WHEN I WANT TO BOUNCE SOME OF MY MORE \"OUT THERE\" IDEAS OFF SOMEONE.",
+		"KANAYA: And Not Without Chagrined\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Hesitation\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Why Dont We Schedule An Academic Conference Some Time",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: But Only Frustration And\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Heartbreak Are Down That Road\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Just You Me And The Mayor",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: OH??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: OH FUCK YES!!!!!!!!!!!!!!",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Shes Turned Out To Be A\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Tremendous Partner In Pale\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Relationships\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Maybe Even Um\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: A Bit Freakishly So?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: But Anything Stronger Than\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"That I Think Would Probably Be\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Disastrous\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: She Is Way Too Focused And\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Self Absorbed To Maintain Such Strong\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Feelings For Long\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: She Would Need To Learn To Let\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Go Of Some Of Her Ambition And Figure\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Out How To Prioritize The Feelings Of\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Other People\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: She Might Even Figure Out How\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"To Be\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Happy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: *Shudder*\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YEAH, WOW\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: A CHILL JUST RAN UP MY POSTURE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"POLE, TRYING TO IMAGINE THAT.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: YOU KNOW...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: I DON'T KNOW IF I'VE EVER TOLD\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: BUT YOU HAVE A REALLY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IMPRESSIVE GRASP OVER ROMANTIC\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"ANALYSIS.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Well I Have Read A Lot Of\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Novels Too\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: I Just Dont Brag Much About It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Because It Would...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Literally Be Preposterous To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Do So\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE SHOULD BE JAMMING ON THIS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SUBJECT MORE. MAYBE EXPLORE SOME OF MY\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"MORE ADVANCED THEORIES.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WE'RE SURROUNDED BY AMATEURS\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IN THIS FIELD, SO IT GETS A BIT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FRUSTRATING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: WELL, THE MAYOR'S A GOOD\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"SOUNDING BOARD AT LEAST. WHEN I WANT\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"TO BOUNCE SOME OF MY MORE \"OUT THERE\"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IDEAS OFF SOMEONE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Why Dont We Schedule An\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Academic Conference Some Time\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"KANAYA: Just You Me And The Mayor\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"KARKAT: OH FUCK YES!!!!!!!!!!!!!!\
+",
 	},
 	next = {
 		7486,
 	},
 	previous = 7508,
+	page_id = 7509,
+	long_title = false,
 }

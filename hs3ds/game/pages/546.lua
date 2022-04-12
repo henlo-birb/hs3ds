@@ -1,6 +1,5 @@
 return {
 	title = "John: Look at the piece of paper taped to the wall.",
-	pageId = 546,
 	timestamp = "1251356748",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		547,
 	},
 	previous = 545,
+	page_id = 546,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Go get cane.",
-	pageId = 2052,
 	timestamp = "1276974910",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You take your WALKING CANE, which you use as a weapon kind of like Earth Daredevil who you've never heard of. You will use it to wallop enemies when you enter the Medium.",
+		"You take your WALKING CANE, which you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"use as a weapon kind of like Earth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Daredevil who you've never heard of.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will use it to wallop enemies when\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you enter the Medium.\
+",
 	},
 	next = {
 		2053,
 	},
 	previous = 2051,
+	page_id = 2052,
+	long_title = false,
 }

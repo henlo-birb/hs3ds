@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Command minions.",
-	pageId = 6126,
 	timestamp = "1365391198",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		6127,
 	},
 	previous = 6125,
+	page_id = 6126,
+	long_title = false,
 }

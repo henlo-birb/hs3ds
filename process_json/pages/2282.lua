@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Proceed to second gate.",
-	pageId = 2282,
 	timestamp = "1279572590",
 	flag = {},
 	media = {
@@ -14,4 +13,6 @@ return {
 		2283,
 	},
 	previous = 2281,
+	page_id = 2282,
+	long_title = false,
 }

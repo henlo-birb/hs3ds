@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Regain consciousness.",
-	pageId = 4842,
 	timestamp = "1335042393",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You fail to regain consciousness.",
+		"You fail to regain consciousness.\
+",
 	},
 	next = {
 		4843,
 	},
 	previous = 4841,
+	page_id = 4842,
+	long_title = false,
 }

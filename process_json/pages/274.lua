@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Check status of battery.",
-	pageId = 274,
 	timestamp = "1245454297",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		275,
 	},
 	previous = 273,
+	page_id = 274,
+	long_title = false,
 }

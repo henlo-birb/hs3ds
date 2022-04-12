@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Open memo.",
-	pageId = 3360,
 	timestamp = "1296008635",
 	flag = {},
 	media = {
@@ -1650,4 +1649,6 @@ return {
 		3361,
 	},
 	previous = 3359,
+	page_id = 3360,
+	long_title = false,
 }

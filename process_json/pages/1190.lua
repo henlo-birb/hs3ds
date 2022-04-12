@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Wear backup hat.",
-	pageId = 1190,
 	timestamp = "1263941264",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		1191,
 	},
 	previous = 1189,
+	page_id = 1190,
+	long_title = false,
 }

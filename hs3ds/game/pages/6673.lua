@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6673,
 	timestamp = "1379391026",
 	flag = {},
 	media = {
@@ -12,94 +11,265 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: have they all forgotten aboUt me?",
+		"CALLIOPE: have they all forgotten\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"aboUt me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i gUess i coUld not blame them for getting on with their lives.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: after all, what Use am i?",
+		"CALLIOPE: i gUess i coUld not blame\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"them for getting on with their lives.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: the only remotely important thing there is for me to do is to go looking for a more important version of myself.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: after all, what Use am i?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: and i can't even bloody well do that mUch!",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: i was a fool to expect anything more from my life.",
+		"CALLIOPE: the only remotely important\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: my kind was never meant to have friends.",
+		"thing there is for me to do is to go\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: still.",
+		"looking for a more important version\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"of myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: i wish i had not been so hasty in tossing roxy and her sUnny mUm from my hideoUt.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: even if they woUld have attracted attention... so what?",
+		"CALLIOPE: and i can't even bloody well\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"do that mUch!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: jUst a little longer.",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: i was a fool to expect\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"anything more from my life.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: a little longer woUld have been nice.",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: my kind was never meant to\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"have friends.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: still.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: i wish i had not been so\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"hasty in tossing roxy and her sUnny\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"mUm from my hideoUt.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: even if they woUld have\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"attracted attention... so what?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: jUst a little longer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: a little longer woUld have\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"been nice.\
+",
 	},
 	next = {
 		6674,
 	},
 	previous = 6672,
+	page_id = 6673,
+	long_title = false,
 }

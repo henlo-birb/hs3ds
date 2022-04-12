@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine plush pile.",
-	pageId = 4483,
 	timestamp = "1326869358",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You like to ensconce yourself in this friendly heap when you play games. ",
+		"You like to ensconce yourself in this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"friendly heap when you play games.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Gosh it looks soft. Your eyelids are getting heavy...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Gosh it looks soft. Your eyelids are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"getting heavy...\
+",
 	},
 	next = {
 		4484,
 	},
 	previous = 4482,
+	page_id = 4483,
+	long_title = false,
 }

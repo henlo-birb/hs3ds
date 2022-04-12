@@ -1,6 +1,5 @@
 return {
 	title = "John: Wear the hood. Be the leader.",
-	pageId = 3682,
 	timestamp = "1300949802",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3683,
 	},
 	previous = 3681,
+	page_id = 3682,
+	long_title = true,
 }

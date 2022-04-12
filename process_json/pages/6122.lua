@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Ms. Paint: Retrieve personals.",
-	pageId = 6122,
 	timestamp = "1365390751",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		6123,
 	},
 	previous = 6121,
+	page_id = 6122,
+	long_title = true,
 }

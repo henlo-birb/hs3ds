@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Screw around with the appearifier.",
-	pageId = 929,
 	timestamp = "1259529079",
 	flag = {},
 	media = {
@@ -131,4 +130,6 @@ return {
 		930,
 	},
 	previous = 928,
+	page_id = 929,
+	long_title = true,
 }

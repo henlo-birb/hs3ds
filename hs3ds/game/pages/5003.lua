@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5003,
 	timestamp = "1338526115",
 	flag = {},
 	media = {
@@ -12,178 +11,615 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Instead of storming off to the moon in a huff, Peixes em8raced her role as an heiress.",
+		"ARANEA: Instead of storming off to the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Once she reached the age to challenge the empress, she killed her predecessor easily.",
+		"moon in a huff, Peixes em8raced her\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"role as an heiress.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: She did more to sink our race into perpetual darkness and violence than any empress before her, and her rule lasted the longest 8y far.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: She conquered thousands of planets and star systems, many of them personally. She was responsi8le for the death of trillions.",
+		"ARANEA: Once she reached the age to\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: Her reign was interrupted only 8y the extinction of our race, which was orchestrated 8y the omniscient creep I mentioned previously.",
+		"challenge the empress, she killed her\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"predecessor easily.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: She flew back to her homeworld, killed Megido, and assumed control of her demonic powers.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: In doing so, she also assumed her role as the servant to an indestructi8le demon, whose existence was a8out to result in the annihilation of our universe.",
+		"ARANEA: She did more to sink our race\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: 8ut 8efore that, he had a new assignment for her.",
+		"into perpetual darkness and violence\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"than any empress before her, and her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"rule lasted the longest 8y far.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: Is this 8rief enough? Am I addressing all the \"cool stuff\" to your satisfaction?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: She conquered thousands of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"planets and star systems, many of them\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"personally. She was responsi8le for\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the death of trillions.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Her reign was interrupted only\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"8y the extinction of our race, which\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was orchestrated 8y the omniscient\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"creep I mentioned previously.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: She flew back to her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"homeworld, killed Megido, and assumed\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"control of her demonic powers.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: In doing so, she also assumed\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"her role as the servant to an\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"indestructi8le demon, whose existence\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was a8out to result in the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"annihilation of our universe.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: 8ut 8efore that, he had a new\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"assignment for her.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: Is this 8rief enough? Am I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"addressing all the \"cool stuff\" to\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"your satisfaction?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: 38o\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: 38o",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: That's the first half of her story.",
+		"ARANEA: That's the first half of her\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"story.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: In the second half, she escaped to a fresh universe to wreak more havoc.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: She infiltrated a planet called Earth, which is home to a race called humans. These guys here.",
+		"ARANEA: In the second half, she\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: On the post-scratch version of Earth (long story), she gained a8solute power, flooded the planet, and completely wiped out the human population, while expanding her a8ilities even further.",
+		"escaped to a fresh universe to wreak\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"more havoc.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: She then somehow entered the humans' game session, and took control there as well.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-ARANEA: She did all this at the 8ehest of her employer, and has shown no signs of slowing her rampage, or ever dying, for that matter.",
+		"ARANEA: She infiltrated a planet\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"called Earth, which is home to a race\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"called humans. These guys here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ARANEA: So, Meenah. How was that story? Are you 8ored yet?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: On the post-scratch version of\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"Earth (long story), she gained\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8solute power, flooded the planet,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and completely wiped out the human\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"population, while expanding her\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"a8ilities even further.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: She then somehow entered the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"humans' game session, and took control\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"there as well.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: She did all this at the 8ehest\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"of her employer, and has shown no\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"signs of slowing her rampage, or ever\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"dying, for that matter.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"ARANEA: So, Meenah. How was that\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"story? Are you 8ored yet?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: 38o\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: 38o",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: (Dirk...)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: (Dirk...)",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: What?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: What?",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: (I think...)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: (I think...)",
+",
 		{
 			0.12156862745098039,
 			0.5803921568627451,
 			0.0,
 		},
+		"JAKE: (I think thats the batterwitch!)\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JAKE: (I think thats the batterwitch!)",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
+		"DIRK: Uh, yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DIRK: Uh, yeah.",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DIRK: You're just getting that now?",
+		"DIRK: You're just getting that now?\
+",
 	},
 	next = {
 		5004,
 	},
 	previous = 5002,
+	page_id = 5003,
+	long_title = false,
 }

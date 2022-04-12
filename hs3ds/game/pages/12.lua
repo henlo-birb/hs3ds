@@ -1,6 +1,5 @@
 return {
 	title = "John: Read note on drawer.",
-	pageId = 12,
 	timestamp = "1239679025",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"This note is rich with the aromas of FATHERLY AFTERSHAVES AND COLOGNES.",
+		"This note is rich with the aromas of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FATHERLY AFTERSHAVES AND COLOGNES.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Beside the note is a ROLLED UP POSTER.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Beside the note is a ROLLED UP POSTER.\
+",
 	},
 	next = {
 		13,
 	},
 	previous = 11,
+	page_id = 12,
+	long_title = false,
 }

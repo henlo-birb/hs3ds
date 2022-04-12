@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3630,
 	timestamp = "1299753103",
 	flag = {},
 	media = {
@@ -12,580 +11,1588 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Then can you at least tell me if we will be successful in preserving ourselves after the reset?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I don't particularly enjoy spoiling things for people when unnecessary.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I find speaking in a discreet color helps avoid this.",
+		"TT: Then can you at least tell me if\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: So if the Scratch isn't specifically meant to banish Jack from the session,",
+		"we will be successful in preserving\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ourselves after the reset?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: And our quest to destroy the sun is meant to kill him,",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I don't particularly enjoy spoiling\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"things for people when unnecessary.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I find speaking in a discreet color\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"helps avoid this.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Why is the reset necessary at all, especially if it means oblivion for us?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Because you cannot achieve the ultimate reward in this session.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Your battlefield is cancerous, and the reckoning will destroy it prematurely regardless.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-By resetting, you will create a session which can bear the fruit of a new universe, even if you will not be the ones to claim the reward.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Don't you want to fulfill your purpose?",
+		"TT: So if the Scratch isn't\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I guess.",
+		"specifically meant to banish Jack from\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"the session,\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: But it's a little disheartening to learn I'm now faced with not one, but two suicide missions at once.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: One to destroy Jack's power source and defend all of existence, and another to ensure our cosmic progeny at the price of oblivion.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-That frames the dual objectives accurately.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But if you are inventive, you may find a way to survive the reset and participate in the renewed session.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-It's up to you.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Just as it's up to you to face the decision to claim immortality before you enter your creation.",
+		"TT: And our quest to destroy the sun\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Immortality?",
+		"is meant to kill him,\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Do you mean ascending to the god tier?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: I have reason to believe that I won't.",
+		"TT: Why is the reset necessary at all,\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: The trolls have not indicated I will die on my Quest Bed, or that any of us will aside from John. Instead I've been given a more troubling and ambiguous forecast.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What have I said about confirming the reliability of your sources?",
+		"especially if it means oblivion for\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"us?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Are you saying I will?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-No.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Oh.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Well, will I?",
+		"Because you cannot achieve the\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-It seems you'd like me to do some more fortune telling.",
+		"ultimate reward in this session.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: Fine.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Maybe this question will suit you better.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Is it probable?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-That's a strange question to ask someone who is omniscient and therefore knows outcomes with one hundred percent certainty.",
+		"Your battlefield is cancerous, and the\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-I like it.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Then what's your answer?",
+		"reckoning will destroy it prematurely\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-You have exactly a fifty percent chance of ascending to the god tier.",
+		"regardless.\
+",
 		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-TT: That's a strange answer.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I know.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Why such a precise probability?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-Because, much like the decisions you must face to complete your dual suicide missions, you have two ways of achieving godhood to choose from.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Two ways?",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: By dying on the Quest Bed on my planet, and some other way?",
+		"By resetting, you will create a\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"session which can bear the fruit of a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"new universe, even if you will not be\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"the ones to claim the reward.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-Yes.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Don't you want to fulfill your\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"purpose?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Is there another Quest Bed somewhere?",
+		"TT: I guess.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Yes. Good guess, Seer.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: Where?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-What difference does it make? You already know where the first one is. You have the choice to go there right now and take your own life.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: That's true.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Of course it is.",
+		"TT: But it's a little disheartening to\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: You mentioned immortality.",
+		"learn I'm now faced with not one, but\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Godhood makes one immortal?",
+		"two suicide missions at once.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Yes.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: A god tier will live forever, with no caveats?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-No.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-One will live forever, unless killed.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-The death must be either heroic or just.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: How are those terms defined?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Broadly, mysteriously, and according to the case of the individual.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-One may be killed by opposing a corrupt adversary and die for a just cause, as through martyrdom, for instance. This would be heroic.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Or one may be subject to corruption, and slain by a hero. This would be just.",
+		"TT: One to destroy Jack's power source\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Which sort of death will you have when I destroy the sun?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Neither. I'm not a god.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I'm a guardian, a servant, and a weapon.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-I have power and knowledge far surpassing a god.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-But I am not one.",
+		"and defend all of existence, and\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-TT: Is this when you are going to tell me why you want to die?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Yes.",
+		"another to ensure our cosmic progeny\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"at the price of oblivion.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: I sense it's not just because you're getting bored with immortality.",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"That frames the dual objectives\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"accurately.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-That's good. Your vision is becoming clearer.",
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But if you are inventive, you may find\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"a way to survive the reset and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"participate in the renewed session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It's up to you.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Just as it's up to you to face the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"decision to claim immortality before\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"you enter your creation.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Immortality?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Then why?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		"\
-My master can't enter this universe until I am killed.",
+		"Yes.\
+",
 		{
-			1.0,
-			1.0,
-			1.0,
+			0,
+			0,
+			0,
 		},
 		"\
-Such is the nature of the break.",
-		{
-			0.7098039215686275,
-			0.21176470588235294,
-			0.8549019607843137,
-		},
-		"\
-TT: That almost sounds like martyrdom. Are you sure it won't be a hero's death?",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-Quite sure.",
-		{
-			1.0,
-			1.0,
-			1.0,
-		},
-		"\
-My master is a very evil man.",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"TT: Do you mean ascending to the god\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"tier?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TT: Who is he?",
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-I won't tell you his name.",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I have reason to believe that I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"won't.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: The trolls have not indicated I\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"will die on my Quest Bed, or that any\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"of us will aside from John. Instead\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"I've been given a more troubling and\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"ambiguous forecast.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
+		"What have I said about confirming the\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"reliability of your sources?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-But he goes by the title, ",
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Are you saying I will?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Oh.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Well, will I?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"It seems you'd like me to do some more\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"fortune telling.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Fine.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Maybe this question will suit you\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"better.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is it probable?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"That's a strange question to ask\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"someone who is omniscient and\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"therefore knows outcomes with one\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"hundred percent certainty.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I like it.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then what's your answer?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You have exactly a fifty percent\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"chance of ascending to the god tier.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That's a strange answer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I know.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Why such a precise probability?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Because, much like the decisions you\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"must face to complete your dual\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"suicide missions, you have two ways of\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"achieving godhood to choose from.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Two ways?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: By dying on the Quest Bed on my\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"planet, and some other way?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is there another Quest Bed\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"somewhere?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes. Good guess, Seer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Where?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"What difference does it make? You\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"already know where the first one is.\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"You have the choice to go there right\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"now and take your own life.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That's true.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Of course it is.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: You mentioned immortality.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Godhood makes one immortal?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: A god tier will live forever, with\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"no caveats?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"No.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"One will live forever, unless killed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"The death must be either heroic or\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"just.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: How are those terms defined?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Broadly, mysteriously, and according\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"to the case of the individual.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"One may be killed by opposing a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"corrupt adversary and die for a just\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"cause, as through martyrdom, for\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"instance. This would be heroic.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Or one may be subject to corruption,\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"and slain by a hero. This would be\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"just.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Which sort of death will you have\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"when I destroy the sun?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Neither. I'm not a god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I'm a guardian, a servant, and a\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"weapon.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I have power and knowledge far\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"surpassing a god.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But I am not one.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Is this when you are going to tell\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"me why you want to die?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Yes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: I sense it's not just because\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"you're getting bored with immortality.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"That's good. Your vision is becoming\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"clearer.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Then why?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"My master can't enter this universe\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"until I am killed.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Such is the nature of the break.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: That almost sounds like martyrdom.\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"Are you sure it won't be a hero's\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"death?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"Quite sure.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"My master is a very evil man.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.7098039215686275,
+			0.21176470588235294,
+			0.8549019607843137,
+		},
+		"TT: Who is he?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"I won't tell you his name.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			1.0,
+			1.0,
+		},
+		"But he goes by the title,\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"L",
+		"L\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/o.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/o.gif\"/>\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"rd English",
+		"rd English\
+",
 		{
 			1.0,
 			1.0,
 			1.0,
 		},
-		".",
+		".\
+",
 	},
 	next = {
 		3631,
 	},
 	previous = 3629,
+	page_id = 3630,
+	long_title = false,
 }

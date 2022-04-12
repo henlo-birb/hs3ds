@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2037,
 	timestamp = "1276810777",
 	flag = {},
 	media = {
@@ -12,10 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You don't want to slap too hard. Enough to sting, but not to bruise. It must be methodical, business-like. And persistent. You only stop when you smell tears.",
+		"You don't want to slap too hard.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Enough to sting, but not to bruise. It\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"must be methodical, business-like. And\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"persistent. You only stop when you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"smell tears.\
+",
 	},
 	next = {
 		2038,
 	},
 	previous = 2036,
+	page_id = 2037,
+	long_title = false,
 }

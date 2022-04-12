@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5623,
 	timestamp = "1356073913",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: NOT THAT IT HASN'T BEEN DELIGHTFUL! BUT EVERYBODY OUT!",
+		"CALLIOPE: NOT THAT IT HASN'T BEEN\
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"DELIGHTFUL! BUT EVERYBODY OUT!\
+",
 	},
 	next = {
 		5624,
 	},
 	previous = 5622,
+	page_id = 5623,
+	long_title = false,
 }

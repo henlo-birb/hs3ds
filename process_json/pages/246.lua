@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Take bite of apple.",
-	pageId = 246,
 	timestamp = "1244349878",
 	flag = {
 		"F",
@@ -15,4 +14,6 @@ return {
 		247,
 	},
 	previous = 245,
+	page_id = 246,
+	long_title = false,
 }

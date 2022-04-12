@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 787,
 	timestamp = "1255933870",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You TRANSPORTALIZE upstairs. Just above is your room.",
+		"You TRANSPORTALIZE upstairs. Just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"above is your room.\
+",
 	},
 	next = {
 		788,
 	},
 	previous = 786,
+	page_id = 787,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Install Beta.",
-	pageId = 1389,
 	timestamp = "1266093727",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1390,
 	},
 	previous = 1388,
+	page_id = 1389,
+	long_title = false,
 }

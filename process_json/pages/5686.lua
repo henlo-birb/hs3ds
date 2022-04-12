@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Give Cera beagle puss.",
-	pageId = 5686,
 	timestamp = "1357333124",
 	flag = {},
 	media = {
@@ -194,4 +193,6 @@ return {
 		5687,
 	},
 	previous = 5685,
+	page_id = 5686,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AS A RESULT OF ALL THAT. THE ROBOT GOES CRAZY.",
-	pageId = 6520,
 	timestamp = "1378014682",
 	flag = {},
 	media = {
@@ -12,19 +11,56 @@ return {
 			0,
 			0,
 		},
-		"ALL YOUR FOES HAVE BEEN DEFEATED. YOU WIN THE FRACAS!",
+		"ALL YOUR FOES HAVE BEEN DEFEATED. YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WIN THE FRACAS!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AS THE BEST BOY HERO. WHO ACCOMPLISHED A SUCCESS. YOU ARE NOW ENTITLED TO THE SPOILS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS THE BEST BOY HERO. WHO ACCOMPLISHED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A SUCCESS. YOU ARE NOW ENTITLED TO THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SPOILS.\
+",
 	},
 	next = {
 		6521,
 	},
 	previous = 6519,
 	theme = "A6A6",
+	page_id = 6520,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Ride.",
-	pageId = 3411,
 	timestamp = "1296508892",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		3412,
 	},
 	previous = 3410,
+	page_id = 3411,
+	long_title = false,
 }

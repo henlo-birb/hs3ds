@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Exit door.",
-	pageId = 3722,
 	timestamp = "1303170403",
 	flag = {
 		"R6",
@@ -71,4 +70,6 @@ return {
 		3723,
 	},
 	previous = 3721,
+	page_id = 3722,
+	long_title = false,
 }

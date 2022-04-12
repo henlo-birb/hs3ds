@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 794,
 	timestamp = "1256182625",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You may contemplate which shirt design you favor the most and commit to that setting in the near future.",
+		"You may contemplate which shirt design\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you favor the most and commit to that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"setting in the near future.\
+",
 	},
 	next = {
 		795,
 	},
 	previous = 793,
+	page_id = 794,
+	long_title = false,
 }

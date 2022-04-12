@@ -1,6 +1,5 @@
 return {
 	title = "John: Retreat upstairs!",
-	pageId = 104,
 	timestamp = "1241246410",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		105,
 	},
 	previous = 103,
+	page_id = 104,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AH: Retire to study.",
-	pageId = 3231,
 	timestamp = "1294007926",
 	flag = {
 		"R4",
@@ -42,4 +41,6 @@ return {
 		3232,
 	},
 	previous = 3230,
+	page_id = 3231,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Be the other other girl.",
-	pageId = 2132,
 	timestamp = "1278014145",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		2133,
 	},
 	previous = 2131,
+	page_id = 2132,
+	long_title = false,
 }

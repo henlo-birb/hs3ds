@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Examine punched card.",
-	pageId = 2905,
 	timestamp = "1290273163",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"What the heck is this?",
+		"What the heck is this?\
+",
 	},
 	next = {
 		2906,
 	},
 	previous = 2904,
+	page_id = 2905,
+	long_title = false,
 }

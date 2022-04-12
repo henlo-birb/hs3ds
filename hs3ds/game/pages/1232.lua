@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1232,
 	timestamp = "1264200912",
 	flag = {},
 	media = {
@@ -13,10 +12,27 @@ return {
 			0,
 			0,
 		},
-		"Predestined bullet holes are convenient. Gives you something to aim for.",
+		"Predestined bullet holes are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"convenient. Gives you something to aim\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for.\
+",
 	},
 	next = {
 		1233,
 	},
 	previous = 1231,
+	page_id = 1232,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6655,
 	timestamp = "1379195718",
 	flag = {},
 	media = {
@@ -12,45 +11,97 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: rose come in rose do you read me\
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"over\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: rose come in rose do you read me over",
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"ROSE: Yes?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROSE: Yes?",
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
-		"\
-DAVE: you might want to get your ass in gear",
+		"DAVE: you might want to get your ass\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"in gear\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: shits going down on lofaf",
+",
+		{
+			0.8784313725490196,
+			0.027450980392156862,
+			0.027450980392156862,
+		},
+		"DAVE: shits going down on lofaf\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
-		"\
-ROSE: Could you elaborate?",
+		"ROSE: Could you elaborate?\
+",
 	},
 	next = {
 		6656,
 	},
 	previous = 6654,
+	page_id = 6655,
+	long_title = false,
 }

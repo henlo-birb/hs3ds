@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue rocket pack.",
-	pageId = 1634,
 	timestamp = "1269921537",
 	flag = {},
 	media = {
@@ -201,4 +200,6 @@ return {
 		1635,
 	},
 	previous = 1633,
+	page_id = 1634,
+	long_title = false,
 }

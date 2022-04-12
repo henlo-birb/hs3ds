@@ -1,6 +1,5 @@
 return {
 	title = "[I] ==>",
-	pageId = 1188,
 	timestamp = "1263888356",
 	flag = {},
 	media = {
@@ -13,10 +12,13 @@ return {
 			0,
 			0,
 		},
-		"4/15 GREEN TORSOS DEAD",
+		"4/15 GREEN TORSOS DEAD\
+",
 	},
 	next = {
 		1189,
 	},
 	previous = 1187,
+	page_id = 1188,
+	long_title = false,
 }

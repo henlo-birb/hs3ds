@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Eject your modus and set it to Scrabble values.",
-	pageId = 1085,
 	timestamp = "1262302360",
 	flag = {},
 	media = {
@@ -111,4 +110,6 @@ return {
 		1086,
 	},
 	previous = 1084,
+	page_id = 1085,
+	long_title = true,
 }

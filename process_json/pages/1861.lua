@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Chill with Davesprite.",
-	pageId = 1861,
 	timestamp = "1274043238",
 	flag = {},
 	media = {
@@ -397,4 +396,6 @@ return {
 		1862,
 	},
 	previous = 1860,
+	page_id = 1861,
+	long_title = false,
 }

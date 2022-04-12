@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Dry off.",
-	pageId = 2831,
 	timestamp = "1288806881",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2832,
 	},
 	previous = 2830,
+	page_id = 2831,
+	long_title = false,
 }

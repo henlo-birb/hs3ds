@@ -1,6 +1,5 @@
 return {
 	title = "WELL, WELL, WELL, WELL. WHAT HAVE WE HERE?",
-	pageId = 6874,
 	timestamp = "1413621189",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 	},
 	previous = 6873,
 	theme = "A6A6",
+	page_id = 6874,
+	long_title = true,
 }

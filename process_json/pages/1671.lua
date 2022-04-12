@@ -1,6 +1,5 @@
 return {
 	title = "AH: Engage in highly indulgent self-insertion into story.",
-	pageId = 1671,
 	timestamp = "1271312147",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		1672,
 	},
 	previous = 1670,
+	page_id = 1671,
+	long_title = true,
 }

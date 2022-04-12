@@ -1,6 +1,5 @@
 return {
 	title = "AR: Quickly retrieve side arms.",
-	pageId = 1104,
 	timestamp = "1262481024",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You retrieve a pair of deadly SIDE ARMS.",
+		"You retrieve a pair of deadly SIDE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ARMS.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you will need a longer-ranged weapon if you are to continue your enforcement.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you will need a longer-ranged\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"weapon if you are to continue your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"enforcement.\
+",
 	},
 	next = {
 		1105,
 	},
 	previous = 1103,
+	page_id = 1104,
+	long_title = false,
 }

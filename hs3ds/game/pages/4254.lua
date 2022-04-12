@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Assess damage.",
-	pageId = 4254,
 	timestamp = "1322808441",
 	flag = {},
 	media = {
@@ -12,10 +11,55 @@ return {
 			0,
 			0,
 		},
-		"Poor poppop's severed head got nicked by the FIREPLACE POKER. He's going to need a lot of work this time. Over the years, your dad has spent thousands of dollars on repairs. Oh well, how much more grounded can you get than you already are?",
+		"Poor poppop's severed head got nicked\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"by the FIREPLACE POKER. He's going to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"need a lot of work this time. Over the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"years, your dad has spent thousands of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dollars on repairs. Oh well, how much\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"more grounded can you get than you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"already are?\
+",
 	},
 	next = {
 		4255,
 	},
 	previous = 4253,
+	page_id = 4254,
+	long_title = false,
 }

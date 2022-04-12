@@ -1,6 +1,5 @@
 return {
 	title = "John: Clean up this mess.",
-	pageId = 3406,
 	timestamp = "1296453558",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You recaptchalogue the stuff and put it away neatly in your dad's sweet wallet.",
+		"You recaptchalogue the stuff and put\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"it away neatly in your dad's sweet\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wallet.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are almost done. Just one more thing to...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are almost done. Just one more\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"thing to...\
+",
 	},
 	next = {
 		3407,
 	},
 	previous = 3405,
+	page_id = 3406,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Examine equipment.",
-	pageId = 1914,
 	timestamp = "1274648858",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		1915,
 	},
 	previous = 1913,
+	page_id = 1914,
+	long_title = false,
 }

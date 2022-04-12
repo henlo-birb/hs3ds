@@ -1,6 +1,5 @@
 return {
 	title = "I want to know. Tell me, and please be smug about it.",
-	pageId = 3658,
 	timestamp = "1300352375",
 	flag = {},
 	media = {
@@ -20,4 +19,6 @@ return {
 		3659,
 	},
 	previous = 3657,
+	page_id = 3658,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "SERIOUSLY. CAN I GET A GOD DAMN?",
-	pageId = 6882,
 	timestamp = "1413621766",
 	flag = {},
 	media = {
@@ -160,4 +159,6 @@ return {
 	},
 	previous = 6881,
 	theme = "A6A6",
+	page_id = 6882,
+	long_title = false,
 }

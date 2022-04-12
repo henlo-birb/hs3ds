@@ -1,6 +1,5 @@
 return {
 	title = "Take another crack at this.",
-	pageId = 811,
 	timestamp = "1256419912",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		812,
 	},
 	previous = 810,
+	page_id = 811,
+	long_title = false,
 }

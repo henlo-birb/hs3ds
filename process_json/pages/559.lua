@@ -1,6 +1,5 @@
 return {
 	title = "John: Make your way up those stairs, posthaste.",
-	pageId = 559,
 	timestamp = "1251601498",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		560,
 	},
 	previous = 558,
+	page_id = 559,
+	long_title = true,
 }

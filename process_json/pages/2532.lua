@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Surely you must be adventurin' by now.",
-	pageId = 2532,
 	timestamp = "1282859193",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		2533,
 	},
 	previous = 2531,
+	page_id = 2532,
+	long_title = true,
 }

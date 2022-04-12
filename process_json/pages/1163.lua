@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Shuffle contents of war chest.",
-	pageId = 1163,
 	timestamp = "1263719163",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		1164,
 	},
 	previous = 1162,
+	page_id = 1163,
+	long_title = true,
 }

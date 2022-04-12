@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine Rose's crystal ball and magic 8 ball.",
-	pageId = 3156,
 	timestamp = "1293251788",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		3157,
 	},
 	previous = 3155,
+	page_id = 3156,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Captchalogue carriage clock.",
-	pageId = 1157,
 	timestamp = "1263629544",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You obviously have no idea what that means.",
+		"You obviously have no idea what that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"means.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-If it's some smartass way of saying to pick it up, forget it. You are already carrying an item. It is your trusty DECK OF CARDS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"If it's some smartass way of saying to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pick it up, forget it. You are already\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"carrying an item. It is your trusty\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DECK OF CARDS.\
+",
 	},
 	next = {
 		1158,
 	},
 	previous = 1156,
+	page_id = 1157,
+	long_title = true,
 }

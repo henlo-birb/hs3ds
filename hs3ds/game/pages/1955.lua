@@ -1,6 +1,5 @@
 return {
 	title = "John!",
-	pageId = 1955,
 	timestamp = "1276065277",
 	flag = {},
 	media = {
@@ -13,11 +12,33 @@ return {
 			0,
 		},
 		"\
-\
-There is another page to this letter...",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is another page to this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"letter...\
+",
 	},
 	next = {
 		1956,
 	},
 	previous = 1954,
+	page_id = 1955,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "TT: Grab the soiled toilet.",
-	pageId = 163,
 	timestamp = "1242521303",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		164,
 	},
 	previous = 162,
+	page_id = 163,
+	long_title = false,
 }

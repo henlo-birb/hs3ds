@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Pester Karkat.",
-	pageId = 2851,
 	timestamp = "1289532068",
 	flag = {},
 	media = {
@@ -1391,4 +1390,6 @@ return {
 		2852,
 	},
 	previous = 2850,
+	page_id = 2851,
+	long_title = false,
 }

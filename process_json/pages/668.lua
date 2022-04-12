@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine rotten pumpkin.",
-	pageId = 668,
 	timestamp = "1253568345",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		669,
 	},
 	previous = 667,
+	page_id = 668,
+	long_title = false,
 }

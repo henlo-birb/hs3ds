@@ -1,6 +1,5 @@
 return {
 	title = "John: Open browser and go to mspaintadventures.com",
-	pageId = 111,
 	timestamp = "1241418584",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You decide to space out on the computer for a while before doing anything important.",
+		"You decide to space out on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"computer for a while before doing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anything important.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You open the TYPHEUS web browser and direct it to what is indisputably the most amazing website ever created.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You open the TYPHEUS web browser and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"direct it to what is indisputably the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"most amazing website ever created.\
+",
 	},
 	next = {
 		112,
 	},
 	previous = 110,
+	page_id = 111,
+	long_title = true,
 }

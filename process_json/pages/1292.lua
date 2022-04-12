@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Knock Sawbuck unconscious.",
-	pageId = 1292,
 	timestamp = "1265073924",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		1293,
 	},
 	previous = 1291,
+	page_id = 1292,
+	long_title = true,
 }

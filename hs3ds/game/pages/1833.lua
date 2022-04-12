@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine batarang + Midnight Crew poster.",
-	pageId = 1833,
 	timestamp = "1273786994",
 	flag = {},
 	media = {
@@ -14,10 +13,27 @@ return {
 			0,
 			0,
 		},
-		"You make a whole pile of SUITARANGS because they are really cool and pretty cheap.",
+		"You make a whole pile of SUITARANGS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"because they are really cool and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pretty cheap.\
+",
 	},
 	next = {
 		1834,
 	},
 	previous = 1832,
+	page_id = 1833,
+	long_title = true,
 }

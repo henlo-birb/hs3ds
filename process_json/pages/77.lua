@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Play haunting piano refrain.",
-	pageId = 77,
 	timestamp = "1240356767",
 	flag = {
 		"F",
@@ -29,4 +28,6 @@ return {
 		78,
 	},
 	previous = 76,
+	page_id = 77,
+	long_title = true,
 }

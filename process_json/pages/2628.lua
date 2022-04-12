@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Troll this worthless human.",
-	pageId = 2628,
 	timestamp = "1285023398",
 	flag = {},
 	media = {
@@ -4093,4 +4092,6 @@ return {
 		2629,
 	},
 	previous = 2627,
+	page_id = 2628,
+	long_title = true,
 }

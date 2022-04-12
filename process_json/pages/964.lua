@@ -1,6 +1,5 @@
 return {
 	title = "John: Present time! Open a present see what's inside!",
-	pageId = 964,
 	timestamp = "1259975680",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		965,
 	},
 	previous = 963,
+	page_id = 964,
+	long_title = true,
 }

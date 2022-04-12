@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Enter name.",
-	pageId = 2703,
 	timestamp = "1285815085",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		2704,
 	},
 	previous = 2702,
+	page_id = 2703,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "AND SO I WILL NEED YOU TO PLUNGE YOUR GRUBBY FISTS.",
-	pageId = 6940,
 	timestamp = "1414893023",
 	flag = {},
 	media = {
@@ -12,27 +11,91 @@ return {
 			0,
 			0,
 		},
-		"FAR DOWN YOUR MONEY POCKETS. AND DONATE GENEROUSLY TO THE NEXT AND GREATEST ACT OF HOMOSUCK. YOU WON'T BE DISAPPOINTED.",
+		"FAR DOWN YOUR MONEY POCKETS. AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DONATE GENEROUSLY TO THE NEXT AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GREATEST ACT OF HOMOSUCK. YOU WON'T BE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DISAPPOINTED.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AS WE SPEAK. MY CLOSEST FRIENDS AND ALLIES. ARE DIGGING DEEP, AND CHIPPING IN. TOTALLY OPTIONALLY.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-OR ELSE!!!!!!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AS WE SPEAK. MY CLOSEST FRIENDS AND\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALLIES. ARE DIGGING DEEP, AND CHIPPING\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IN. TOTALLY OPTIONALLY.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"OR ELSE!!!!!!!!!!!\
+",
 	},
 	next = {
 		6941,
 	},
 	previous = 6939,
 	theme = "A6A6",
+	page_id = 6940,
+	long_title = true,
 }

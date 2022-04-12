@@ -1,6 +1,5 @@
 return {
 	title = "John: Turn on \"detect collisions\".",
-	pageId = 628,
 	timestamp = "1252699010",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		629,
 	},
 	previous = 627,
+	page_id = 628,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "DD: Locate prince.",
-	pageId = 4934,
 	timestamp = "1336943283",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		4935,
 	},
 	previous = 4933,
+	page_id = 4934,
+	long_title = false,
 }

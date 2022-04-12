@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 932,
 	timestamp = "1259539298",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"The PARADOX GHOST IMPRINT of Jaspers appearifies instead, and quickly settles into a mound of sludge.",
+		"The PARADOX GHOST IMPRINT of Jaspers\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"appearifies instead, and quickly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"settles into a mound of sludge.\
+",
 	},
 	next = {
 		933,
 	},
 	previous = 931,
+	page_id = 932,
+	long_title = false,
 }

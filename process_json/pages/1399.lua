@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy cruxtruder in Dave's room.",
-	pageId = 1399,
 	timestamp = "1266291546",
 	flag = {},
 	media = {
@@ -222,4 +221,6 @@ return {
 		1400,
 	},
 	previous = 1398,
+	page_id = 1399,
+	long_title = true,
 }

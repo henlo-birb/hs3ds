@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7287,
 	timestamp = "1420173411",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"DRAGONSPRITE: bye!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DRAGONSPRITE: bye!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-DRAGONSPRITE: heeheeheeheehee!",
+		"DRAGONSPRITE: heeheeheeheehee!\
+",
 	},
 	next = {
 		3370,
 	},
 	previous = 7286,
+	page_id = 7287,
+	long_title = false,
 }

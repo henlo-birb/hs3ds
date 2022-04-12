@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2388,
 	timestamp = "1281378507",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"So THAT'S why she had you make this dress for her???",
+		"So THAT'S why she had you make this\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dress for her???\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-And you just went along with it like a sucker.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Argh, you are such an IDIOT!!!!!!!!!!!!!!!!!!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"And you just went along with it like a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sucker.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Argh, you are such an\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IDIOT!!!!!!!!!!!!!!!!!!\
+",
 	},
 	next = {
 		2389,
 	},
 	previous = 2387,
+	page_id = 2388,
+	long_title = false,
 }

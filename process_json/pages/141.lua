@@ -1,6 +1,5 @@
 return {
 	title = "TT: Drop chest.",
-	pageId = 141,
 	timestamp = "1242114119",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		142,
 	},
 	previous = 140,
+	page_id = 141,
+	long_title = false,
 }

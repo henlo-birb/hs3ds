@@ -1,10 +1,9 @@
 return {
 	title = "Homestuck",
-	pageId = "001901",
 	timestamp = "1239607316",
 	flag = {},
 	media = {
-		"/storyfiles/hs2/00001.gif",
+		"00001",
 	},
 	content = {
 		{
@@ -81,4 +80,6 @@ return {
 	next = {
 		2,
 	},
+	page_id = 1,
+	long_title = false,
 }

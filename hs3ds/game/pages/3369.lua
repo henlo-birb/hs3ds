@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Deploy forensics crew.",
-	pageId = 3369,
 	timestamp = "1296102362",
 	flag = {},
 	media = {
@@ -12,26 +11,97 @@ return {
 			0,
 			0,
 		},
-		"But first you must complete your investigation.",
+		"But first you must complete your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"investigation.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Professor Pucefoot, Inspector Berrybreath, and Doctor Honeytongue reporting.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your team of forensic scientists is the best there is. There is no bit of evidence which will escape their eager and busy snouts.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Professor Pucefoot, Inspector\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Berrybreath, and Doctor Honeytongue\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"reporting.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your team of forensic scientists is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the best there is. There is no bit of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"evidence which will escape their eager\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and busy snouts.\
+",
 	},
 	next = {
 		3370,
 	},
 	previous = 3368,
+	page_id = 3369,
+	long_title = false,
 }

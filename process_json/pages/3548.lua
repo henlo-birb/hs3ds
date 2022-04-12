@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Take a prize from the lady.",
-	pageId = 3548,
 	timestamp = "1298161422",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		3549,
 	},
 	previous = 3547,
+	page_id = 3548,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "======>",
-	pageId = 2389,
 	timestamp = "1281378551",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-MOTHERSPRITE: There there, sweetheart.",
+		"MOTHERSPRITE: There there, sweetheart.\
+",
 	},
 	next = {
 		2390,
 	},
 	previous = 2388,
+	page_id = 2389,
+	long_title = false,
 }

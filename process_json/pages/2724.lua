@@ -1,6 +1,5 @@
 return {
 	title = "John: Reunite with loving fatherly comedian themed laptop.",
-	pageId = 2724,
 	timestamp = "1286063972",
 	flag = {},
 	media = {
@@ -355,4 +354,6 @@ return {
 		2725,
 	},
 	previous = 2723,
+	page_id = 2724,
+	long_title = true,
 }

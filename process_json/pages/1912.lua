@@ -1,6 +1,5 @@
 return {
 	title = "AR?: Go down.",
-	pageId = 1912,
 	timestamp = "1274648722",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1913,
 	},
 	previous = 1911,
+	page_id = 1912,
+	long_title = false,
 }

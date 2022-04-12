@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Horsaroni: Spawntech -> Slumberbuddies.",
-	pageId = 2110,
 	timestamp = "1277760262",
 	flag = {},
 	media = {
@@ -13,10 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You use your awesome bestial communion abilities and bend the ferocious stallion to your whim. Tinkerbull can't stand the suspense!",
+		"You use your awesome bestial communion\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"abilities and bend the ferocious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stallion to your whim. Tinkerbull\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"can't stand the suspense!\
+",
 	},
 	next = {
 		2111,
 	},
 	previous = 2109,
+	page_id = 2110,
+	long_title = true,
 }

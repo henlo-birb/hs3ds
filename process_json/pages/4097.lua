@@ -1,6 +1,5 @@
 return {
 	title = "AH: Close tome.",
-	pageId = 4097,
 	timestamp = "1314060096",
 	flag = {},
 	media = {
@@ -19,4 +18,6 @@ return {
 		4098,
 	},
 	previous = 4096,
+	page_id = 4097,
+	long_title = false,
 }

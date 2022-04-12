@@ -1,6 +1,5 @@
 return {
 	title = "[S] Tricksters: Alchemize.",
-	pageId = 5763,
 	timestamp = "1359020508",
 	flag = {
 		"F",
@@ -14,11 +13,21 @@ return {
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/OHBOY.gif\"/>",
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/OHBOY.gif\"/>\
+",
 	},
 	next = {
 		5764,
 	},
 	previous = 5762,
 	theme = "trickster",
+	page_id = 5763,
+	long_title = false,
 }

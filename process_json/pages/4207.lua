@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Read inscription again.",
-	pageId = 4207,
 	timestamp = "1322110801",
 	flag = {},
 	media = {
@@ -365,4 +364,6 @@ return {
 		4208,
 	},
 	previous = 4206,
+	page_id = 4207,
+	long_title = false,
 }

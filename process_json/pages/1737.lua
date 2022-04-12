@@ -1,6 +1,5 @@
 return {
 	title = "John: Visit Rose's alchemiter.",
-	pageId = 1737,
 	timestamp = "1272046178",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 		1738,
 	},
 	previous = 1736,
+	page_id = 1737,
+	long_title = false,
 }

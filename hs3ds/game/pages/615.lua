@@ -1,6 +1,5 @@
 return {
 	title = "John: Take dowels and sheets from bed and make a tent.",
-	pageId = 615,
 	timestamp = "1252552369",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"This is so much fun.",
+		"This is so much fun.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A huge waste of time, yes. BUT SO MUCH FUN.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A huge waste of time, yes. BUT SO MUCH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FUN.\
+",
 	},
 	next = {
 		616,
 	},
 	previous = 614,
+	page_id = 615,
+	long_title = true,
 }

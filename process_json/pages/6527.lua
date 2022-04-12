@@ -1,6 +1,5 @@
 return {
 	title = "TIME TRAVEL KEEPS HAPPENING!",
-	pageId = 6527,
 	timestamp = "1378096406",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6526,
 	theme = "A6A6",
+	page_id = 6527,
+	long_title = false,
 }

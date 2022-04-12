@@ -1,6 +1,5 @@
 return {
 	title = "HERE IS WHAT REALLY MATTERS.",
-	pageId = 6245,
 	timestamp = "1371078804",
 	flag = {
 		"R4",
@@ -120,4 +119,6 @@ return {
 	},
 	previous = 6244,
 	theme = "A6A6",
+	page_id = 6245,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Look around one last time.",
-	pageId = 5125,
 	timestamp = "1340324780",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		5126,
 	},
 	previous = 5124,
+	page_id = 5125,
+	long_title = true,
 }

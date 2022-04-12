@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Wheeeeeeee!",
-	pageId = 2354,
 	timestamp = "1281053569",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2355,
 	},
 	previous = 2353,
+	page_id = 2354,
+	long_title = false,
 }

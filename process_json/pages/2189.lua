@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Enter.",
-	pageId = 2189,
 	timestamp = "1278635129",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		2190,
 	},
 	previous = 2188,
+	page_id = 2189,
+	long_title = false,
 }

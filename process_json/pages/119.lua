@@ -1,6 +1,5 @@
 return {
 	title = "John: Switch back to Stack Modus.",
-	pageId = 119,
 	timestamp = "1241596003",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		120,
 	},
 	previous = 118,
+	page_id = 119,
+	long_title = true,
 }

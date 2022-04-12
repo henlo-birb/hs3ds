@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Remove reminders.",
-	pageId = 2854,
 	timestamp = "1289587447",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		2855,
 	},
 	previous = 2853,
+	page_id = 2854,
+	long_title = false,
 }

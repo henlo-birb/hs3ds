@@ -1,6 +1,5 @@
 return {
 	title = "i shall take my leave now john. until next time",
-	pageId = 519,
 	timestamp = "1250910742",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		520,
 	},
 	previous = 518,
+	page_id = 519,
+	long_title = true,
 }

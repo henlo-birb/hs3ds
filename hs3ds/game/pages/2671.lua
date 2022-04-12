@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2671,
 	timestamp = "1285479207",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Just look at that face.",
+		"Just look at that face.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-A sad face. A forlorn face.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"A sad face. A forlorn face.\
+",
 	},
 	next = {
 		2672,
 	},
 	previous = 2670,
+	page_id = 2671,
+	long_title = false,
 }

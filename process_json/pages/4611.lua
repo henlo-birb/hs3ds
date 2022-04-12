@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Wear the scarf. Be the Rider.",
-	pageId = 4611,
 	timestamp = "1330162902",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		4612,
 	},
 	previous = 4610,
+	page_id = 4611,
+	long_title = true,
 }

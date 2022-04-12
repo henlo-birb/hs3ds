@@ -17,5 +17,6 @@
         "redundant-parameter",
         "lowercase-global",
         "redefined-local"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

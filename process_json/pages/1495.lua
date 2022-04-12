@@ -1,6 +1,5 @@
 return {
 	title = "Examine your pet's tomb.",
-	pageId = 1495,
 	timestamp = "1267149564",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1496,
 	},
 	previous = 1494,
+	page_id = 1495,
+	long_title = false,
 }

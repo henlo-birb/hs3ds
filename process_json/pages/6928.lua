@@ -1,6 +1,5 @@
 return {
 	title = "I KNOW WHAT THE CRUX TO THIS HORRIBLE PROBLEM IS.",
-	pageId = 6928,
 	timestamp = "1414892392",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 	},
 	previous = 6927,
 	theme = "A6A6",
+	page_id = 6928,
+	long_title = true,
 }

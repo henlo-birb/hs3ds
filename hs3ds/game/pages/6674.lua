@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6674,
 	timestamp = "1379391113",
 	flag = {},
 	media = {
@@ -12,45 +11,90 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: :u\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: :u",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: what's this now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: what's this now?",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
-		"\
-CALLIOPE: that doesn't look like one of my memories.",
+		"CALLIOPE: that doesn't look like one\
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"of my memories.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: is...",
+",
 		{
 			0.5725490196078431,
 			0.5725490196078431,
 			0.5725490196078431,
 		},
+		"CALLIOPE: is...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-CALLIOPE: is someone here?",
+",
+		{
+			0.5725490196078431,
+			0.5725490196078431,
+			0.5725490196078431,
+		},
+		"CALLIOPE: is someone here?\
+",
 	},
 	next = {
 		6675,
 	},
 	previous = 6673,
+	page_id = 6674,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 809,
 	timestamp = "1256419816",
 	flag = {},
 	media = {
@@ -13,18 +12,34 @@ return {
 			0,
 			0,
 		},
-		"You have selected the KEY LIME.",
+		"You have selected the KEY LIME.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Way to go.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Way to go.\
+",
 	},
 	next = {
 		810,
 	},
 	previous = 808,
+	page_id = 809,
+	long_title = false,
 }

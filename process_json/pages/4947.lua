@@ -1,6 +1,5 @@
 return {
 	title = "DD: Unleash awesome powers of ring.",
-	pageId = 4947,
 	timestamp = "1337320489",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		4948,
 	},
 	previous = 4946,
+	page_id = 4947,
+	long_title = true,
 }

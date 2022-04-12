@@ -1,6 +1,5 @@
 return {
 	title = "John: Look through telescope.",
-	pageId = 162,
 	timestamp = "1242521258",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		163,
 	},
 	previous = 161,
+	page_id = 162,
+	long_title = false,
 }

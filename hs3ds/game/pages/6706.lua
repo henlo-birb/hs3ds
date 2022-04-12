@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6706,
 	timestamp = "1379656396",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"TEREZI: Y4!!!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-TEREZI: Y4!!!",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: F1GHT M3 YOU GUTL3SS POLTROON!",
+		"TEREZI: F1GHT M3 YOU GUTL3SS POLTROON!\
+",
 	},
 	next = {
 		6707,
 	},
 	previous = 6705,
+	page_id = 6706,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV: Dream.",
-	pageId = 3272,
 	timestamp = "1294550744",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		3273,
 	},
 	previous = 3271,
+	page_id = 3272,
+	long_title = false,
 }

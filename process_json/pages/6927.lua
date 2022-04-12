@@ -1,6 +1,5 @@
 return {
 	title = "UNGRATEFULTUDE.",
-	pageId = 6927,
 	timestamp = "1414892343",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6926,
 	theme = "A6A6",
+	page_id = 6927,
+	long_title = false,
 }

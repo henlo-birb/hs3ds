@@ -1,6 +1,5 @@
 return {
 	title = "John and Jade: Reap spoils.",
-	pageId = 4294,
 	timestamp = "1323562928",
 	flag = {},
 	media = {
@@ -187,4 +186,6 @@ return {
 		4295,
 	},
 	previous = 4293,
+	page_id = 4294,
+	long_title = false,
 }

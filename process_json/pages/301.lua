@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Knit plush cuddle-cthulhu to soothe nerves.",
-	pageId = 301,
 	timestamp = "1245969018",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		302,
 	},
 	previous = 300,
+	page_id = 301,
+	long_title = true,
 }

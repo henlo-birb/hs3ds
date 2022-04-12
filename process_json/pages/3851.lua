@@ -1,6 +1,5 @@
 return {
 	title = "[S][o] Tick. Tock.",
-	pageId = 3851,
 	timestamp = "1307923908",
 	flag = {
 		"F",
@@ -211,4 +210,6 @@ return {
 	},
 	previous = 3850,
 	theme = "scratch",
+	page_id = 3851,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Delete.",
-	pageId = 2091,
 	timestamp = "1277436416",
 	flag = {},
 	media = {
@@ -222,4 +221,6 @@ return {
 		2092,
 	},
 	previous = 2090,
+	page_id = 2091,
+	long_title = false,
 }

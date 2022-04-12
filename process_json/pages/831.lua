@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Open Echidna and go to mspaintadventures.com",
-	pageId = 831,
 	timestamp = "1257152576",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		832,
 	},
 	previous = 830,
+	page_id = 831,
+	long_title = true,
 }

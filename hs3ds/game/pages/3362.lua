@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine Tavros.",
-	pageId = 3362,
 	timestamp = "1296074349",
 	flag = {},
 	media = {
@@ -12,18 +11,34 @@ return {
 			0,
 			0,
 		},
-		"Oh my!",
+		"Oh my!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-What have we here???",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"What have we here???\
+",
 	},
 	next = {
 		3363,
 	},
 	previous = 3361,
+	page_id = 3362,
+	long_title = false,
 }

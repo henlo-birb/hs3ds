@@ -1,6 +1,5 @@
 return {
 	title = "WELL, MY SECOND MAYBE.",
-	pageId = 7435,
 	timestamp = "1429067334",
 	flag = {
 		"F",
@@ -64,4 +63,6 @@ return {
 	},
 	previous = 7434,
 	theme = "A6A6",
+	page_id = 7435,
+	long_title = false,
 }

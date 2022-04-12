@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Troll TC.",
-	pageId = 2056,
 	timestamp = "1276998505",
 	flag = {
 		"R4",
@@ -196,4 +195,6 @@ return {
 		2057,
 	},
 	previous = 2055,
+	page_id = 2056,
+	long_title = false,
 }

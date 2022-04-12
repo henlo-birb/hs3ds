@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Confer with teammate.",
-	pageId = 2369,
 	timestamp = "1281209145",
 	flag = {},
 	media = {
@@ -1279,4 +1278,6 @@ return {
 		2370,
 	},
 	previous = 2368,
+	page_id = 2369,
+	long_title = false,
 }

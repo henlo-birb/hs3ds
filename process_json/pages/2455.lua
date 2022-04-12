@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Disarm.",
-	pageId = 2455,
 	timestamp = "1282075445",
 	flag = {},
 	media = {
@@ -125,4 +124,6 @@ return {
 		2456,
 	},
 	previous = 2454,
+	page_id = 2455,
+	long_title = false,
 }

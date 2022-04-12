@@ -1,6 +1,5 @@
 return {
 	title = "TT: Open Phernalia Registry.",
-	pageId = 150,
 	timestamp = "1242290836",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		151,
 	},
 	previous = 149,
+	page_id = 150,
+	long_title = false,
 }

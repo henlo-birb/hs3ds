@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Change to Scrabble Points Hash Modus.",
-	pageId = 585,
 	timestamp = "1252104335",
 	flag = {},
 	media = {
@@ -454,4 +453,6 @@ return {
 		586,
 	},
 	previous = 584,
+	page_id = 585,
+	long_title = true,
 }

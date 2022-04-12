@@ -1,6 +1,5 @@
 return {
 	title = "[o] While I continue to not be a gambling man,",
-	pageId = 3829,
 	timestamp = "1307511711",
 	flag = {},
 	media = {
@@ -12,11 +11,21 @@ return {
 			0,
 			0,
 		},
-		"(That didn't stop being a thing that was true or anything.)",
+		"(That didn't stop being a thing that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"was true or anything.)\
+",
 	},
 	next = {
 		3830,
 	},
 	previous = 3828,
 	theme = "scratch",
+	page_id = 3829,
+	long_title = true,
 }

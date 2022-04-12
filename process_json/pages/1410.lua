@@ -1,6 +1,5 @@
 return {
 	title = "WV: Introduce new friends to John.",
-	pageId = 1410,
 	timestamp = "1266529808",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1411,
 	},
 	previous = 1409,
+	page_id = 1410,
+	long_title = true,
 }

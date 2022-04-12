@@ -1,6 +1,5 @@
 return {
 	title = "Kanaya: Captchalogue that thing.",
-	pageId = 2337,
 	timestamp = "1280768814",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You secure the MATRIORB through your CHASTITY MODUS. Safe and sound!",
+		"You secure the MATRIORB through your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CHASTITY MODUS. Safe and sound!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You will serendipitously discover the key to unlock this card when and only when you are ready to use this item, and not a moment before!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You will serendipitously discover the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"key to unlock this card when and only\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"when you are ready to use this item,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"and not a moment before!\
+",
 	},
 	next = {
 		2338,
 	},
 	previous = 2336,
+	page_id = 2337,
+	long_title = false,
 }

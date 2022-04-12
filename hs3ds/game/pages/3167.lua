@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Combine green sun bedsheets and girl's best friend.",
-	pageId = 3167,
 	timestamp = "1293258486",
 	flag = {},
 	media = {
@@ -13,18 +12,48 @@ return {
 			0,
 			0,
 		},
-		"You make the GREEN SUN STREETSWEEPER! Aw yeah.",
+		"You make the GREEN SUN STREETSWEEPER!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Aw yeah.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok how about one more outfit. Outfits are the best, you think.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok how about one more outfit. Outfits\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"are the best, you think.\
+",
 	},
 	next = {
 		3168,
 	},
 	previous = 3166,
+	page_id = 3167,
+	long_title = true,
 }

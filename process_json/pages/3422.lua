@@ -1,6 +1,5 @@
 return {
 	title = "John: Pester Karkat.",
-	pageId = 3422,
 	timestamp = "1296685646",
 	flag = {},
 	media = {
@@ -845,4 +844,6 @@ return {
 		3423,
 	},
 	previous = 3421,
+	page_id = 3422,
+	long_title = false,
 }

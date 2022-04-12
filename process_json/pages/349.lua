@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Clean up the juice.",
-	pageId = 349,
 	timestamp = "1247014616",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 		350,
 	},
 	previous = 348,
+	page_id = 349,
+	long_title = false,
 }

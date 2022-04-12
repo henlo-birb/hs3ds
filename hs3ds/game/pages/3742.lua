@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine journal entry.",
-	pageId = 3742,
 	timestamp = "1303589499",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"|JOURNALOG|",
+		"|JOURNALOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		3743,
 	},
 	previous = 3741,
+	page_id = 3742,
+	long_title = false,
 }

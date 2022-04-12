@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1651,
 	timestamp = "1270274440",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: hey\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: hey",
+",
 		{
 			0.9490196078431372,
 			0.6431372549019608,
 			0.0,
 		},
-		"\
-DAVESPRITE: sup",
+		"DAVESPRITE: sup\
+",
 	},
 	next = {
 		1652,
 	},
 	previous = 1650,
+	page_id = 1651,
+	long_title = false,
 }

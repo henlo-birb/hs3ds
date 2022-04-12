@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Attempt to eat Eggs.",
-	pageId = 1315,
 	timestamp = "1265403956",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1316,
 	},
 	previous = 1314,
+	page_id = 1315,
+	long_title = false,
 }

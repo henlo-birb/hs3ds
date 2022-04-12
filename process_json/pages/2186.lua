@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Connect to server player.",
-	pageId = 2186,
 	timestamp = "1278634667",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		2187,
 	},
 	previous = 2185,
+	page_id = 2186,
+	long_title = true,
 }

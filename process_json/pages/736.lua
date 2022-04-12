@@ -1,6 +1,5 @@
 return {
 	title = "WV: Look at the other wall.",
-	pageId = 736,
 	timestamp = "1254626905",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		737,
 	},
 	previous = 735,
+	page_id = 736,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I2] ====>",
-	pageId = 6843,
 	timestamp = "1381908533",
 	flag = {},
 	media = {
@@ -12,17 +11,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: WHAT THE",
+		"KARKAT: WHAT THE\
+",
 	},
 	next = {
 		6844,
 	},
 	previous = 6842,
+	page_id = 6843,
+	long_title = false,
 }

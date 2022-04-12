@@ -1,6 +1,5 @@
 return {
 	title = "John: Attach arms to doll.",
-	pageId = 65,
 	timestamp = "1240192624",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		66,
 	},
 	previous = 64,
+	page_id = 65,
+	long_title = false,
 }

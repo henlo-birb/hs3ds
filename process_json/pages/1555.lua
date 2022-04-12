@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Examine package.",
-	pageId = 1555,
 	timestamp = "1267903298",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1556,
 	},
 	previous = 1554,
+	page_id = 1555,
+	long_title = false,
 }

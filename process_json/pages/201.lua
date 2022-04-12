@@ -1,6 +1,5 @@
 return {
 	title = "TT: Revise bathroom.",
-	pageId = 201,
 	timestamp = "1243129521",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		202,
 	},
 	previous = 200,
+	page_id = 201,
+	long_title = false,
 }

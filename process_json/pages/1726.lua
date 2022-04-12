@@ -1,6 +1,5 @@
 return {
 	title = "Maplehoof: Collect grist.",
-	pageId = 1726,
 	timestamp = "1271965867",
 	flag = {},
 	media = {
@@ -119,4 +118,6 @@ return {
 		1727,
 	},
 	previous = 1725,
+	page_id = 1726,
+	long_title = false,
 }

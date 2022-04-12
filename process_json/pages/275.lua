@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Prototype sprite with Betty Crocker box.",
-	pageId = 275,
 	timestamp = "1245479346",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		276,
 	},
 	previous = 274,
+	page_id = 275,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Render the girl in a more symbolic manner.",
-	pageId = 2133,
 	timestamp = "1278014230",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2134,
 	},
 	previous = 2132,
+	page_id = 2133,
+	long_title = true,
 }

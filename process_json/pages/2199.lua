@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Take dice.",
-	pageId = 2199,
 	timestamp = "1278795200",
 	flag = {},
 	media = {
@@ -237,4 +236,6 @@ return {
 		2200,
 	},
 	previous = 2198,
+	page_id = 2199,
+	long_title = false,
 }

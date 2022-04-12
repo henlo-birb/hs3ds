@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Search for some MAD SNACKS YO.",
-	pageId = 594,
 	timestamp = "1252210542",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		595,
 	},
 	previous = 593,
+	page_id = 594,
+	long_title = true,
 }

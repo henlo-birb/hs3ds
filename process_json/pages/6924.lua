@@ -1,6 +1,5 @@
 return {
 	title = "AS SUCH, I MUST ADMIT.",
-	pageId = 6924,
 	timestamp = "1414891896",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 	},
 	previous = 6923,
 	theme = "A6A6",
+	page_id = 6924,
+	long_title = false,
 }

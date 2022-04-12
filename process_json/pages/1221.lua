@@ -1,6 +1,5 @@
 return {
 	title = "[I] HB: Peruse Red Cheeks magazine.",
-	pageId = 1221,
 	timestamp = "1264142024",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1222,
 	},
 	previous = 1220,
+	page_id = 1221,
+	long_title = true,
 }

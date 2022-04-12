@@ -1,6 +1,5 @@
 return {
 	title = "Gamzee: Draw Deuce Clubs from strife deck.",
-	pageId = 3452,
 	timestamp = "1297117528",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		3453,
 	},
 	previous = 3451,
+	page_id = 3452,
+	long_title = true,
 }

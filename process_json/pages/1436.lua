@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Drop the toilet in Dave's room.",
-	pageId = 1436,
 	timestamp = "1266642773",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1437,
 	},
 	previous = 1435,
+	page_id = 1436,
+	long_title = true,
 }

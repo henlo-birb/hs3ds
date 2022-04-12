@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Change into Four Aces Suited.",
-	pageId = 2775,
 	timestamp = "1287203810",
 	flag = {},
 	media = {
@@ -1244,4 +1243,6 @@ return {
 		2776,
 	},
 	previous = 2774,
+	page_id = 2775,
+	long_title = true,
 }

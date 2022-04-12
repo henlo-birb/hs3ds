@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Bother Vriska.",
-	pageId = 2457,
 	timestamp = "1282085180",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		2458,
 	},
 	previous = 2456,
+	page_id = 2457,
+	long_title = false,
 }

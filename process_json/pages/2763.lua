@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Examine douthchebag.",
-	pageId = 2763,
 	timestamp = "1287029563",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		2764,
 	},
 	previous = 2762,
+	page_id = 2763,
+	long_title = false,
 }

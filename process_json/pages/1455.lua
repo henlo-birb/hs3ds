@@ -1,6 +1,5 @@
 return {
 	title = "So many years ago, entrenched in the temporally oblique...",
-	pageId = 1455,
 	timestamp = "1266817247",
 	flag = {
 		"R1",
@@ -13,4 +12,6 @@ return {
 		1456,
 	},
 	previous = 1454,
+	page_id = 1455,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Jump down and get that globe.",
-	pageId = 5055,
 	timestamp = "1339379748",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		5056,
 	},
 	previous = 5054,
+	page_id = 5055,
+	long_title = true,
 }

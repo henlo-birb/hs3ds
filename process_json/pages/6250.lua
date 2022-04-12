@@ -1,6 +1,5 @@
 return {
 	title = "I DOUBT IT.",
-	pageId = 6250,
 	timestamp = "1371079466",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 	},
 	previous = 6249,
 	theme = "A6A6",
+	page_id = 6250,
+	long_title = false,
 }

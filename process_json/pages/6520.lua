@@ -1,6 +1,5 @@
 return {
 	title = "AS A RESULT OF ALL THAT. THE ROBOT GOES CRAZY.",
-	pageId = 6520,
 	timestamp = "1378014682",
 	flag = {},
 	media = {
@@ -62,4 +61,6 @@ return {
 	},
 	previous = 6519,
 	theme = "A6A6",
+	page_id = 6520,
+	long_title = true,
 }

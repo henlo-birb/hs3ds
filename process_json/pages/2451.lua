@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Open it.",
-	pageId = 2451,
 	timestamp = "1282029973",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2452,
 	},
 	previous = 2450,
+	page_id = 2451,
+	long_title = false,
 }

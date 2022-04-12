@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Deal with this guy.",
-	pageId = 2202,
 	timestamp = "1278826388",
 	flag = {},
 	media = {
@@ -1027,4 +1026,6 @@ return {
 		2203,
 	},
 	previous = 2201,
+	page_id = 2202,
+	long_title = false,
 }

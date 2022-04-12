@@ -1,6 +1,5 @@
 return {
 	title = "John: Alchemize in a 1980's time-lapse montage.",
-	pageId = 1052,
 	timestamp = "1261449279",
 	flag = {},
 	media = {
@@ -124,4 +123,6 @@ return {
 		1053,
 	},
 	previous = 1051,
+	page_id = 1052,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Flee room.",
-	pageId = 1002,
 	timestamp = "1260596484",
 	flag = {},
 	media = {
@@ -12,26 +11,76 @@ return {
 			0,
 			0,
 		},
-		"At long last, you have returned to your bedroom with a stable power supply and internet connection.",
+		"At long last, you have returned to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your bedroom with a stable power\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"supply and internet connection.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-VODKA MUTINI purrs at your side.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You SUPPOSE you will call it Mutie for short.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"VODKA MUTINI purrs at your side.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You SUPPOSE you will call it Mutie for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"short.\
+",
 	},
 	next = {
 		1003,
 	},
 	previous = 1001,
+	page_id = 1002,
+	long_title = false,
 }

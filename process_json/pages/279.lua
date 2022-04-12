@@ -1,6 +1,5 @@
 return {
 	title = "JOHN FLAIL ABOUT IN A DISTRACTING MANNER.",
-	pageId = 279,
 	timestamp = "1245553220",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		280,
 	},
 	previous = 278,
+	page_id = 279,
+	long_title = true,
 }

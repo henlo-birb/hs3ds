@@ -1,6 +1,5 @@
 return {
 	title = "[A6I2] ==>",
-	pageId = 4770,
 	timestamp = "1332816910",
 	flag = {
 		"R4",
@@ -14,227 +13,783 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: That's ok. There is plenty of time to sort it all out.",
+		"AG: That's ok. There is plenty of time\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"to sort it all out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: I've 8een keeping an eye on you all for quite a while. Your whole planet, actually. It was very interesting this time around, to say the least.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: It even had a different name! \"Alternia.\" Haha. How heavy handed can you get?",
+		"AG: I've 8een keeping an eye on you\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: The man responsi8le was a 8it of a wise guy. He rewrote everything. He had a knack for overzealous storytelling, which is a harmless enough ha8it usually. I'm guilty of it myself sometimes.",
+		"all for quite a while. Your whole\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: 8ut it is not so harmless when the perpetrator is omniscient and omnipotent.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: OMN1SC13NT?",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: YOU M34N",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: MR M1LKSH4K3???",
+		"planet, actually. It was very\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: That's right.",
+		"interesting this time around, to say\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"the least.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: 8ut he's dead now, and his story is over. The 8ook on our universe is closed, 8oth for my instance and yours.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: This 8eing the case, I thought it was the right time to introduce myself. The com8ined work of my group and yours is unfinished, and the outcome has not 8een assured.",
+		"AG: It even had a different name!\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: The true ultimate reward has yet to 8e achieved. No safe haven has 8een created that is free from the devastation caused 8y Mr. Milkshake's grand deception.",
+		"\"Alternia.\" Haha. How heavy handed can\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"you get?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Our race still teeters on extinction. The mem8ers of your party, and one noteworthy fugitive, are the sole survivors.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: We must work together to create that haven and restore our race, so that the sacrifices we all made will not 8e in vain.",
+		"AG: The man responsi8le was a 8it of a\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: 8ut in order to repair the unthinka8le damage that has 8een done, we need to allow ourselves the chance to heal first.",
+		"wise guy. He rewrote everything. He\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Old wounds, old regrets. They will serve no purpose on the rest of your journey.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: R3GR3TS",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: 4R3 YOU T4LK1NG 4BOUT M3 4ND VR1SK4?",
+		"had a knack for overzealous\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Sure. You have to start somewhere.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: DO YOU KNOW WH3R3 SH3 1S?",
+		"storytelling, which is a harmless\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Not at the moment.",
+		"enough ha8it usually. I'm guilty of it\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"myself sometimes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: 8ut the more time you spend here, the more likely it is you will find whomever you are looking for.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: On the other hand, if it is the unknowa8le will of the gods, you may dance around each other indefinitely as you pass through this space. It is hard to say.",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: OH",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: OK TH3N",
-		{
-			0.0,
-			0.5098039215686274,
-			0.5098039215686274,
-		},
-		"\
-GC: 1M NOT SUR3 WH3TH3R TO B3 R3L13V3D OR FRUSTR4T3D BY TH4T",
+		"AG: 8ut it is not so harmless when the\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-AG: Well, if she had 8een dwelling in this 8u88le like you thought, what would you want to say to her?",
+		"perpetrator is omniscient and\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"omnipotent.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Surely you would not have just argued a8out the past.",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"GC: OMN1SC13NT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GC: NO",
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
+		"GC: YOU M34N\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GC: 1 ST1LL DONT KNOW WH4T 1 WOULD S4Y TO H3R",
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: MR M1LKSH4K3???\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"AG: That's right.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-AG: Then what would you say to me?",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8ut he's dead now, and his story\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is over. The 8ook on our universe is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"closed, 8oth for my instance and\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"yours.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: This 8eing the case, I thought it\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"was the right time to introduce\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"myself. The com8ined work of my group\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and yours is unfinished, and the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"outcome has not 8een assured.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: The true ultimate reward has yet\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to 8e achieved. No safe haven has 8een\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"created that is free from the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"devastation caused 8y Mr. Milkshake's\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"grand deception.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Our race still teeters on\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"extinction. The mem8ers of your party,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"and one noteworthy fugitive, are the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"sole survivors.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: We must work together to create\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that haven and restore our race, so\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"that the sacrifices we all made will\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"not 8e in vain.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8ut in order to repair the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"unthinka8le damage that has 8een done,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"we need to allow ourselves the chance\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"to heal first.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Old wounds, old regrets. They will\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"serve no purpose on the rest of your\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"journey.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: R3GR3TS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: 4R3 YOU T4LK1NG 4BOUT M3 4ND\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"VR1SK4?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Sure. You have to start somewhere.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: DO YOU KNOW WH3R3 SH3 1S?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Not at the moment.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: 8ut the more time you spend here,\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"the more likely it is you will find\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"whomever you are looking for.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: On the other hand, if it is the\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"unknowa8le will of the gods, you may\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"dance around each other indefinitely\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"as you pass through this space. It is\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"hard to say.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: OH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: OK TH3N\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: 1M NOT SUR3 WH3TH3R TO B3 R3L13V3D\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"OR FRUSTR4T3D BY TH4T\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Well, if she had 8een dwelling in\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"this 8u88le like you thought, what\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"would you want to say to her?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Surely you would not have just\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"argued a8out the past.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: NO\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"GC: 1 ST1LL DONT KNOW WH4T 1 WOULD S4Y\
+",
+		{
+			0.0,
+			0.5098039215686274,
+			0.5098039215686274,
+		},
+		"TO H3R\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"AG: Then what would you say to me?\
+",
 	},
 	next = {
 		4771,
 	},
 	previous = 4769,
+	page_id = 4770,
+	long_title = false,
 }

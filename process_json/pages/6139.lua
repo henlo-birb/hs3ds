@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Wasn't there a guy with an oven?",
-	pageId = 6139,
 	timestamp = "1365458001",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		6140,
 	},
 	previous = 6138,
+	page_id = 6139,
+	long_title = true,
 }

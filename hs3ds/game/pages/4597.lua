@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 4597,
 	timestamp = "1329894574",
 	flag = {},
 	media = {
@@ -12,30 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You just ",
+		"You just\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"knew",
+		"knew\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" you hadn't finished the job. ",
+		"you hadn't finished the job.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-When it comes to children who ain't quite been offed yet, you've got sixth sense.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"When it comes to children who ain't\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"quite been offed yet, you've got sixth\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"sense.\
+",
 	},
 	next = {
 		4598,
 	},
 	previous = 4596,
+	page_id = 4597,
+	long_title = false,
 }

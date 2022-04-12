@@ -1,6 +1,5 @@
 return {
 	title = "Aradia: Begin session.",
-	pageId = 2185,
 	timestamp = "1278634557",
 	flag = {},
 	media = {
@@ -146,4 +145,6 @@ return {
 		2186,
 	},
 	previous = 2184,
+	page_id = 2185,
+	long_title = false,
 }

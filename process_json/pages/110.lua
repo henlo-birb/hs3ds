@@ -1,6 +1,5 @@
 return {
 	title = "[S] John: Check Pesterchum.",
-	pageId = 110,
 	timestamp = "1241338740",
 	flag = {
 		"F",
@@ -1232,4 +1231,6 @@ return {
 		111,
 	},
 	previous = 109,
+	page_id = 110,
+	long_title = false,
 }

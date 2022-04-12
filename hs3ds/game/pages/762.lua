@@ -1,6 +1,5 @@
 return {
 	title = "Wake up!",
-	pageId = 762,
 	timestamp = "1255498201",
 	flag = {},
 	media = {
@@ -12,18 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You try to roust Farmstink from her slumber, but she is really down for the count!",
+		"You try to roust Farmstink from her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"slumber, but she is really down for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the count!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-It looks like she is holding some sort of NOTE.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"It looks like she is holding some sort\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of NOTE.\
+",
 	},
 	next = {
 		763,
 	},
 	previous = 761,
+	page_id = 762,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "John: Mash keys heedlessly.",
-	pageId = 529,
 	timestamp = "1251011311",
 	flag = {},
 	media = {
@@ -12,18 +11,76 @@ return {
 			0,
 			0,
 		},
-		"Not quite through with your cowboy empiricism just yet, you mash at the KEYBOARD to generate a random code.",
+		"Not quite through with your cowboy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"empiricism just yet, you mash at the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"KEYBOARD to generate a random code.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You enter \"dskjhsdk\". The DESIGNIX stops you after eight characters, which appears to be the maximum length for a code. The green light goes on, signaling its readiness for a card.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You enter \"dskjhsdk\". The DESIGNIX\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"stops you after eight characters,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"which appears to be the maximum length\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"for a code. The green light goes on,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"signaling its readiness for a card.\
+",
 	},
 	next = {
 		530,
 	},
 	previous = 528,
+	page_id = 529,
+	long_title = false,
 }

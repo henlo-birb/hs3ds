@@ -1,6 +1,5 @@
 return {
 	title = "Karkat: Captchalogue sickle.",
-	pageId = 1999,
 	timestamp = "1276408896",
 	flag = {},
 	media = {
@@ -159,4 +158,6 @@ return {
 		2000,
 	},
 	previous = 1998,
+	page_id = 1999,
+	long_title = false,
 }

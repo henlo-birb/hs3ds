@@ -1,6 +1,5 @@
 return {
 	title = "WV: Descend.",
-	pageId = 1006,
 	timestamp = "1260663087",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1007,
 	},
 	previous = 1005,
+	page_id = 1006,
+	long_title = false,
 }

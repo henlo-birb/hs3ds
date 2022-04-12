@@ -1,6 +1,5 @@
 return {
 	title = "Examine flushed quadrant.",
-	pageId = 2394,
 	timestamp = "1281484793",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		2395,
 	},
 	previous = 2393,
+	page_id = 2394,
+	long_title = false,
 }

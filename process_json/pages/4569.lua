@@ -1,6 +1,5 @@
 return {
 	title = "Ok, I already picked both of those characters.",
-	pageId = 4569,
 	timestamp = "1328929494",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		4570,
 	},
 	previous = 4516,
+	page_id = 4569,
+	long_title = true,
 }

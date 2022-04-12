@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Interrogate frog girl.",
-	pageId = 2193,
 	timestamp = "1278648358",
 	flag = {},
 	media = {
@@ -544,4 +543,6 @@ return {
 		2194,
 	},
 	previous = 2192,
+	page_id = 2193,
+	long_title = false,
 }

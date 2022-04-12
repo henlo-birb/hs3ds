@@ -1,6 +1,5 @@
 return {
 	title = "[o] Feel free to examine the clippings while I tidy.",
-	pageId = 3874,
 	timestamp = "1309644813",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 	},
 	previous = 3873,
 	theme = "scratch",
+	page_id = 3874,
+	long_title = true,
 }

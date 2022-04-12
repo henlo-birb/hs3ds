@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Remove knife from eye.",
-	pageId = 1269,
 	timestamp = "1264805708",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1270,
 	},
 	previous = 1268,
+	page_id = 1269,
+	long_title = false,
 }

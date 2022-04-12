@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine fetus in a jar and self portrait photo.",
-	pageId = 1843,
 	timestamp = "1273812843",
 	flag = {},
 	media = {
@@ -90,4 +89,6 @@ return {
 		1844,
 	},
 	previous = 1842,
+	page_id = 1843,
+	long_title = true,
 }

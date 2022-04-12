@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine painting.",
-	pageId = 5597,
 	timestamp = "1355633982",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		5598,
 	},
 	previous = 5596,
+	page_id = 5597,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Send the code to Dave.",
-	pageId = 1563,
 	timestamp = "1267936011",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1564,
 	},
 	previous = 1562,
+	page_id = 1563,
+	long_title = false,
 }

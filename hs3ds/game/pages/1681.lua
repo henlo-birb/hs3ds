@@ -1,6 +1,5 @@
 return {
 	title = "AH: That sounds like a good idea.",
-	pageId = 1681,
 	timestamp = "1271389049",
 	flag = {},
 	media = {
@@ -13,26 +12,76 @@ return {
 			0,
 			0,
 		},
-		"Oh! And then you can type something like \"Switch wall's view to show us what's going on with John.\"",
+		"Oh! And then you can type something\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"like \"Switch wall's view to show us\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what's going on with John.\"\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Here, I'll prepare the GIF file for that. It'll just take a few seconds.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Go ahead. Say that.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Here, I'll prepare the GIF file for\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that. It'll just take a few seconds.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Go ahead. Say that.\
+",
 	},
 	next = {
 		1682,
 	},
 	previous = 1680,
+	page_id = 1681,
+	long_title = true,
 }

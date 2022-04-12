@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 623,
 	timestamp = "1252615609",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You create a HAMMER at the expense of 2 units of BUILD GRIST.",
+		"You create a HAMMER at the expense of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"2 units of BUILD GRIST.\
+",
 	},
 	next = {
 		624,
 	},
 	previous = 622,
+	page_id = 623,
+	long_title = false,
 }

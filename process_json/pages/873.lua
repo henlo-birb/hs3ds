@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Look around for anything else of importance.",
-	pageId = 873,
 	timestamp = "1258601453",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		874,
 	},
 	previous = 872,
+	page_id = 873,
+	long_title = true,
 }

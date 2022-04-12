@@ -1,6 +1,5 @@
 return {
 	title = "SNOP",
-	pageId = 4082,
 	timestamp = "1313742636",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 	},
 	previous = 4081,
 	theme = "sbahj",
+	page_id = 4082,
+	long_title = false,
 }

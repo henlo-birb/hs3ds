@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Realize you can fly!",
-	pageId = 996,
 	timestamp = "1260568234",
 	flag = {},
 	media = {
@@ -41,4 +40,6 @@ return {
 		997,
 	},
 	previous = 995,
+	page_id = 996,
+	long_title = false,
 }

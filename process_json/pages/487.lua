@@ -1,6 +1,5 @@
 return {
 	title = "John: Check cabinets for imps or useful items.",
-	pageId = 487,
 	timestamp = "1250451188",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		488,
 	},
 	previous = 486,
+	page_id = 487,
+	long_title = true,
 }

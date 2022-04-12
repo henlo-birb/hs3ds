@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7989,
 	timestamp = "1459278853",
 	flag = {},
 	media = {
@@ -12,59 +11,132 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG| ",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: ey! you there!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: ey! you there!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: get back in the mob fore i\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"fork ya!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: get back in the mob fore i fork ya!",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
+		"KARKAT: WHAT?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KARKAT: WHAT?",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: you heard me!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: you heard me!",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: dont make me come over there\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: dont make me come over there",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
-		"\
-MEENAH: cod damn it you gonna make me come over there arent ya",
+		"MEENAH: cod damn it you gonna make me\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"come over there arent ya\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: runnin a ghost armys like hearding catfish i swear to glub",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: runnin a ghost armys like\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"hearding catfish i swear to glub\
+",
 	},
 	next = {
 		7990,
 	},
 	previous = 7988,
+	page_id = 7989,
+	long_title = false,
 }

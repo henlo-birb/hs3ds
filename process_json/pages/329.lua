@@ -1,6 +1,5 @@
 return {
 	title = "Use Occam's Razor on plans and schemes.",
-	pageId = 329,
 	timestamp = "1246673004",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		330,
 	},
 	previous = 328,
+	page_id = 329,
+	long_title = true,
 }

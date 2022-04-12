@@ -1,6 +1,5 @@
 return {
 	title = "John: Confront Pogo Ride to prepare yourself for Nanna.",
-	pageId = 475,
 	timestamp = "1250308792",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		476,
 	},
 	previous = 474,
+	page_id = 475,
+	long_title = true,
 }

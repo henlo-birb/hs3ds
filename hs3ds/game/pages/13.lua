@@ -1,6 +1,5 @@
 return {
 	title = "John: Take poster.",
-	pageId = 13,
 	timestamp = "1239679050",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"Another BIRTHDAY ARTIFACT. You wonder what is printed on the poster.",
+		"Another BIRTHDAY ARTIFACT. You wonder\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"what is printed on the poster.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You'll need some way to hang it on your wall.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You'll need some way to hang it on\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your wall.\
+",
 	},
 	next = {
 		14,
 	},
 	previous = 12,
+	page_id = 13,
+	long_title = false,
 }

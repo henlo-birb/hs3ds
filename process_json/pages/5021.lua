@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Shrink it.",
-	pageId = 5021,
 	timestamp = "1338778239",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		5022,
 	},
 	previous = 5020,
+	page_id = 5021,
+	long_title = false,
 }

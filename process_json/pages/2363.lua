@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Send code.",
-	pageId = 2363,
 	timestamp = "1281120640",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2364,
 	},
 	previous = 2362,
+	page_id = 2363,
+	long_title = false,
 }

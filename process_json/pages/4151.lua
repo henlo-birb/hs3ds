@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Insert hat card.",
-	pageId = 4151,
 	timestamp = "1321430470",
 	flag = {},
 	media = {
@@ -188,4 +187,6 @@ return {
 		4152,
 	},
 	previous = 4150,
+	page_id = 4151,
+	long_title = false,
 }

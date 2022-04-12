@@ -1,6 +1,5 @@
 return {
 	title = "John: Become overwhelmed with responsibility.",
-	pageId = 3397,
 	timestamp = "1296416704",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		3398,
 	},
 	previous = 3396,
+	page_id = 3397,
+	long_title = true,
 }

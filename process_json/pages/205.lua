@@ -1,6 +1,5 @@
 return {
 	title = "John: Use pre-punched card on totem lathe.",
-	pageId = 205,
 	timestamp = "1243229179",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		206,
 	},
 	previous = 204,
+	page_id = 205,
+	long_title = true,
 }

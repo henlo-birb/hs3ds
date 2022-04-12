@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Go get your sword.",
-	pageId = 4518,
 	timestamp = "1327976942",
 	flag = {},
 	media = {
@@ -103,4 +102,6 @@ return {
 		4519,
 	},
 	previous = 4517,
+	page_id = 4518,
+	long_title = false,
 }

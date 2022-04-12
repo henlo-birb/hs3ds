@@ -1,6 +1,5 @@
 return {
 	title = "Tavros: Go outside and begin adventure.",
-	pageId = 2171,
 	timestamp = "1278440002",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		2172,
 	},
 	previous = 2170,
+	page_id = 2171,
+	long_title = true,
 }

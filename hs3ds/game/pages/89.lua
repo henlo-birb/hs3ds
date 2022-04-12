@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 89,
 	timestamp = "1240812148",
 	flag = {},
 	media = {
@@ -13,26 +12,97 @@ return {
 			0,
 			0,
 		},
-		"Your DAD sees right through your costume! You don't know what you were even thinking with this foolish ruse!!!",
+		"Your DAD sees right through your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"costume! You don't know what you were\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"even thinking with this foolish\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ruse!!!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You unequip the CLEVER DISGUISE. Your DAD wields a dreaded ARTIFACT OF CONFECTION. He stands between you and the mail.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There is only one way to settle this.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You unequip the CLEVER DISGUISE. Your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DAD wields a dreaded ARTIFACT OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONFECTION. He stands between you and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the mail.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There is only one way to settle this.\
+",
 	},
 	next = {
 		90,
 	},
 	previous = 88,
+	page_id = 89,
+	long_title = false,
 }

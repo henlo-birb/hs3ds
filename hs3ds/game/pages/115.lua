@@ -1,6 +1,5 @@
 return {
 	title = "John: Bone up on data structures.",
-	pageId = 115,
 	timestamp = "1241497776",
 	flag = {
 		"R4",
@@ -15,10 +14,27 @@ return {
 			0,
 			0,
 		},
-		"You go to your CLOSET, where you keep a lot of clothes and an array of handy COMPUTER PROGRAMMING GUIDES.",
+		"You go to your CLOSET, where you keep\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a lot of clothes and an array of handy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"COMPUTER PROGRAMMING GUIDES.\
+",
 	},
 	next = {
 		116,
 	},
 	previous = 114,
+	page_id = 115,
+	long_title = true,
 }

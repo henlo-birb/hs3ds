@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 666,
 	timestamp = "1253545767",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You are now the Wayward Vagabond.",
+		"You are now the Wayward Vagabond.\
+",
 	},
 	next = {
 		667,
 	},
 	previous = 665,
+	page_id = 666,
+	long_title = false,
 }

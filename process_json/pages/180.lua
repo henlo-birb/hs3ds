@@ -1,6 +1,5 @@
 return {
 	title = "John: Get cruxite.",
-	pageId = 180,
 	timestamp = "1242784960",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		181,
 	},
 	previous = 179,
+	page_id = 180,
+	long_title = false,
 }

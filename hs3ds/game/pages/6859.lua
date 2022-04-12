@@ -1,6 +1,5 @@
 return {
 	title = "SMELLY HORSE MAN. OTHER GUY. BULL HORN WIMP.",
-	pageId = 6859,
 	timestamp = "1413620185",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6858,
 	theme = "A6A6",
+	page_id = 6859,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Combine whole Caledscratch and ruby contraband.",
-	pageId = 1826,
 	timestamp = "1273722195",
 	flag = {},
 	media = {
@@ -160,4 +159,6 @@ return {
 		1827,
 	},
 	previous = 1825,
+	page_id = 1826,
+	long_title = true,
 }

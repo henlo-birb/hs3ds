@@ -1,6 +1,5 @@
 return {
 	title = "[S] WV: Hasten to the exit post-haste!",
-	pageId = 755,
 	timestamp = "1255068642",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		756,
 	},
 	previous = 754,
+	page_id = 755,
+	long_title = true,
 }

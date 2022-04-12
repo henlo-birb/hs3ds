@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Help Pupa find shadow.",
-	pageId = 2375,
 	timestamp = "1281248855",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		2376,
 	},
 	previous = 2374,
+	page_id = 2375,
+	long_title = false,
 }

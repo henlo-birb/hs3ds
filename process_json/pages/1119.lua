@@ -1,6 +1,5 @@
 return {
 	title = "AR: Berate self for unauthorized demolition.",
-	pageId = 1119,
 	timestamp = "1262641486",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1120,
 	},
 	previous = 1118,
+	page_id = 1119,
+	long_title = true,
 }

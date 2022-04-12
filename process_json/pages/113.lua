@@ -1,6 +1,5 @@
 return {
 	title = "John: Install the Sburb beta.",
-	pageId = 113,
 	timestamp = "1241497715",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		114,
 	},
 	previous = 112,
+	page_id = 113,
+	long_title = false,
 }

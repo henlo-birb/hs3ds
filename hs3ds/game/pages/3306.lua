@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3306,
 	timestamp = "1295314394",
 	flag = {},
 	media = {
@@ -12,297 +11,741 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: Yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Yeah",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: uhhhhhhhhh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: uhhhhhhhhh...",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: please tell me that doesnt involve what it sounds like!",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: What Does It Sound Like",
+		"GG: please tell me that doesnt involve\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"what it sounds like!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: it sounds like",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: What Does It Sound Like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: it sounds like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: it involves",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: a lot of breeding :\\",
+		"GG: it involves\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: Well It Does",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: But Not Breeding Through Means Typical Of Most Species",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: a lot of breeding :\\\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: oh",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Well It Does\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: But Not Breeding Through Means\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Typical Of Most Species\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: does the equipment we are deploying have anything to do with it?",
+		"GG: oh\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: It Has A Lot To Do With It",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: It Is Cloning Equipment Much Like What Is Scattered All Over The Veil",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: The Same Kind Responsible For Creating All Of Us",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: ok then, thats pretty neat",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: I Didnt Mean To Alarm You By Implying You Were Required To Wage A Great Deal Of Personal Procreation Over A Span Of Several Weeks",
+		"GG: does the equipment we are\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"deploying have anything to do with it?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: yeah, whew <_<;",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: It Has A Lot To Do With It\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Though It Should Be Clear That Repopulation Is Among Our Duties As Well In The Long Term",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: And Ive Gathered That The Cloning Apparatus In The Veil Is Probably Meant To Permit An Initial Boost On The World We Select For Settlement",
+		"GA: It Is Cloning Equipment Much Like\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"What Is Scattered All Over The Veil\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: But Beyond That It Is Up To The Descendants To Perpetuate The Race",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: The Same Kind Responsible For\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Creating All Of Us\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: And Your Species Has Quite An Advantage In This Respect",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: ok then, thats pretty neat\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: how so?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: Your Procreation May Be Carried Out By Paired Individuals Autonomously",
+		"GA: I Didnt Mean To Alarm You By\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: Whereas Ours May Not",
+		"Implying You Were Required To Wage A\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Great Deal Of Personal Procreation\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Over A Span Of Several Weeks\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Which Is What Makes My Role Particularly Important",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: yeah, whew <_<;\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: what is your role?",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: Im The Keeper Of The Matriorb",
+		"GA: Though It Should Be Clear That\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: It Is An Egg That Will Hatch A New Mother Grub",
+		"Repopulation Is Among Our Duties As\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Well In The Long Term\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: She Alone Will Be Responsible For Bearing Our Young",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And Ive Gathered That The Cloning\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Apparatus In The Veil Is Probably\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Meant To Permit An Initial Boost On\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"The World We Select For Settlement\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: But Beyond That It Is Up To The\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Descendants To Perpetuate The Race\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And Your Species Has Quite An\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Advantage In This Respect\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: how so?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: whoa, cool!",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Your Procreation May Be Carried\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Out By Paired Individuals Autonomously\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Whereas Ours May Not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Which Is What Makes My Role\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Particularly Important\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"GG: what is your role?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: so you are like bugs, like bees or ants or such, but with horns",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: Im The Keeper Of The Matriorb\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: I Guess So",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
-		"\
-GA: And You Are Like Erect Livestock",
+		"GA: It Is An Egg That Will Hatch A New\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"Mother Grub\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Without The Muscle Definition",
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"GA: She Alone Will Be Responsible For\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Bearing Our Young\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GA: Or The Hermaphroditic Physiology For That Matter",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: :o",
+		"GG: whoa, cool!\
+",
 		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
+			0,
+			0,
+			0,
 		},
 		"\
-GA: But Milk Producers Nonetheless",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: That Rare Kind Of Organism To Nurture Hatchless Young Within",
-		{
-			0.0,
-			0.5058823529411764,
-			0.2549019607843137,
-		},
-		"\
-GA: Are You Not",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-GG: errr.......",
+		"GG: so you are like bugs, like bees or\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
+		"ants or such, but with horns\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-GG: yes 8|",
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: I Guess So\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: And You Are Like Erect Livestock\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Without The Muscle Definition\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Or The Hermaphroditic Physiology\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"For That Matter\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: :o\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: But Milk Producers Nonetheless\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: That Rare Kind Of Organism To\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"Nurture Hatchless Young Within\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.5058823529411764,
+			0.2549019607843137,
+		},
+		"GA: Are You Not\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: errr.......\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"GG: yes 8|\
+",
 	},
 	next = {
 		3307,
 	},
 	previous = 3305,
+	page_id = 3306,
+	long_title = false,
 }

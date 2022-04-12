@@ -1,6 +1,5 @@
 return {
 	title = "HOW DID I DO SUCH A SENSATIONAL FEAT? YOU ASK.",
-	pageId = 6856,
 	timestamp = "1413619989",
 	flag = {},
 	media = {
@@ -14,35 +13,147 @@ return {
 			0,
 			0,
 		},
-		"THE MYSTERY TO SUCCESS. LAY HIDDEN AMIDST THE BYZANTINE MANGAS. ALL ALONG.",
+		"THE MYSTERY TO SUCCESS. LAY HIDDEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AMIDST THE BYZANTINE MANGAS. ALL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"ALONG.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-THESE OCCULT WIZARDRIES OF THE BRUSH. PURLOINED FROM COOL SCROLLS OF WISE MEN FROM THE EARTHLING EAST. HAVE BEEN GATHERED FOR MY STUDIOUS PERUSAL INSIDE A SEDUCTIVE TOME. EMBLAZONED WITH A FRIVOLOUS TART.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-HOWEVER, MASTERING EACH SLY GAMBIT OF THE TRADE. IS NO EASY TASK.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THESE OCCULT WIZARDRIES OF THE BRUSH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"PURLOINED FROM COOL SCROLLS OF WISE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MEN FROM THE EARTHLING EAST. HAVE BEEN\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GATHERED FOR MY STUDIOUS PERUSAL\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"INSIDE A SEDUCTIVE TOME. EMBLAZONED\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"WITH A FRIVOLOUS TART.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-AND YET EASILY MASTERING THEM. WITH GREAT DIFFICULTY. IS EXACTLY WHAT I DID!",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HOWEVER, MASTERING EACH SLY GAMBIT OF\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"THE TRADE. IS NO EASY TASK.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"AND YET EASILY MASTERING THEM. WITH\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GREAT DIFFICULTY. IS EXACTLY WHAT I\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DID!\
+",
 	},
 	next = {
 		6857,
 	},
 	previous = 6855,
 	theme = "A6A6",
+	page_id = 6856,
+	long_title = true,
 }

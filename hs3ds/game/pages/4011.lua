@@ -1,6 +1,5 @@
 return {
 	title = "[o] ==>",
-	pageId = 4011,
 	timestamp = "1312309286",
 	flag = {},
 	media = {
@@ -12,18 +11,35 @@ return {
 			0,
 			0,
 		},
-		"|PESTERLOG|",
+		"|PESTERLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-PCG: HE'S MISSING A CRITICAL SEQUENCE IN HIS DNA.",
+		"PCG: HE'S MISSING A CRITICAL SEQUENCE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"IN HIS DNA.\
+",
 	},
 	next = {
 		4012,
 	},
 	previous = 4010,
 	theme = "scratch",
+	page_id = 4011,
+	long_title = false,
 }

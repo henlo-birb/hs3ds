@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Stuff him in your deck of cards.",
-	pageId = 1276,
 	timestamp = "1264829470",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		1277,
 	},
 	previous = 1275,
+	page_id = 1276,
+	long_title = true,
 }

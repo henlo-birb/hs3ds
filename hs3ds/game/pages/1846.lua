@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Try it out.",
-	pageId = 1846,
 	timestamp = "1273813015",
 	flag = {},
 	media = {
@@ -14,18 +13,69 @@ return {
 			0,
 			0,
 		},
-		"Looks like it automatically prints out a SBaHJ comic in some way related to whatever you take a picture of.",
+		"Looks like it automatically prints out\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"a SBaHJ comic in some way related to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"whatever you take a picture of.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This should save you a lot of time. Specifically the five minutes it takes you to draw a comic. You're a busy guy.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This should save you a lot of time.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Specifically the five minutes it takes\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"you to draw a comic. You're a busy\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"guy.\
+",
 	},
 	next = {
 		1847,
 	},
 	previous = 1845,
+	page_id = 1846,
+	long_title = false,
 }

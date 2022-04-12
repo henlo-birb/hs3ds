@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Move Dave's bed to the roof.",
-	pageId = 1401,
 	timestamp = "1266298469",
 	flag = {},
 	media = {
@@ -362,4 +361,6 @@ return {
 		1402,
 	},
 	previous = 1400,
+	page_id = 1401,
+	long_title = true,
 }

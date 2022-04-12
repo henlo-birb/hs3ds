@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 3136,
 	timestamp = "1293124179",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Oh, right. The station is out of power. You forgot about that!",
+		"Oh, right. The station is out of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"power. You forgot about that!\
+",
 	},
 	next = {
 		3137,
 	},
 	previous = 3135,
+	page_id = 3136,
+	long_title = false,
 }

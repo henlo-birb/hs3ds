@@ -1,6 +1,5 @@
 return {
 	title = "Sollux: Get back to Aradia.",
-	pageId = 2146,
 	timestamp = "1278132078",
 	flag = {},
 	media = {
@@ -705,4 +704,6 @@ return {
 		2147,
 	},
 	previous = 2145,
+	page_id = 2146,
+	long_title = false,
 }

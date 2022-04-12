@@ -1,6 +1,5 @@
 return {
 	title = "WV: Examine marking on wrist.",
-	pageId = 676,
 	timestamp = "1253649002",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		677,
 	},
 	previous = 675,
+	page_id = 676,
+	long_title = false,
 }

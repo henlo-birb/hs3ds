@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1851,
 	timestamp = "1273879562",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"To no surprise at all, this book is full of more MEOW letters. Looks like Rose is totally nuts. What else is new.",
+		"To no surprise at all, this book is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"full of more MEOW letters. Looks like\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Rose is totally nuts. What else is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"new.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You guess you'll try out the other book. Looks like it's some sort of creative writing project.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You guess you'll try out the other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"book. Looks like it's some sort of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"creative writing project.\
+",
 	},
 	next = {
 		1852,
 	},
 	previous = 1850,
+	page_id = 1851,
+	long_title = false,
 }

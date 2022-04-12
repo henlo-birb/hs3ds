@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Hide inside your war chest.",
-	pageId = 1165,
 	timestamp = "1263719302",
 	flag = {},
 	media = {
@@ -117,4 +116,6 @@ return {
 		1166,
 	},
 	previous = 1164,
+	page_id = 1165,
+	long_title = true,
 }

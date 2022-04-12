@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue fake arms again.",
-	pageId = 33,
 	timestamp = "1239918716",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		34,
 	},
 	previous = 32,
+	page_id = 33,
+	long_title = true,
 }

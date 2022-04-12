@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Peek inside kitchen.",
-	pageId = 365,
 	timestamp = "1247429248",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		366,
 	},
 	previous = 364,
+	page_id = 365,
+	long_title = false,
 }

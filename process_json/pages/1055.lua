@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine ghost suit and Wise Guy book.",
-	pageId = 1055,
 	timestamp = "1261449514",
 	flag = {},
 	media = {
@@ -63,4 +62,6 @@ return {
 		1056,
 	},
 	previous = 1054,
+	page_id = 1055,
+	long_title = true,
 }

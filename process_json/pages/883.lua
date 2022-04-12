@@ -1,6 +1,5 @@
 return {
 	title = "John: Pick up as much grist as you can hold.",
-	pageId = 883,
 	timestamp = "1258846255",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		884,
 	},
 	previous = 882,
+	page_id = 883,
+	long_title = true,
 }

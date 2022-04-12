@@ -1,6 +1,5 @@
 return {
 	title = "Feferi: Proceed to gate.",
-	pageId = 2469,
 	timestamp = "1282281039",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"YOU'R-E FR-E-E-E-E-E-E---------------E!",
+		"YOU'R-E\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FR-E-E-E-E-E-E---------------E!\
+",
 	},
 	next = {
 		2470,
 	},
 	previous = 2468,
+	page_id = 2469,
+	long_title = false,
 }

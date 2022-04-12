@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Throw the hat down and stomp it mercilessly.",
-	pageId = 1184,
 	timestamp = "1263880158",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		1185,
 	},
 	previous = 1183,
+	page_id = 1184,
+	long_title = true,
 }

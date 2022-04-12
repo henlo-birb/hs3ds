@@ -1,6 +1,5 @@
 return {
 	title = "END INTERMISSION.",
-	pageId = 832,
 	timestamp = "1257152596",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		833,
 	},
 	previous = 831,
+	page_id = 832,
+	long_title = false,
 }

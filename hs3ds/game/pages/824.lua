@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Open lunchtop.",
-	pageId = 824,
 	timestamp = "1256703135",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You like to make yourself comfy in your plushy pile before getting down to business with your computer.",
+		"You like to make yourself comfy in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"your plushy pile before getting down\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to business with your computer.\
+",
 	},
 	next = {
 		825,
 	},
 	previous = 823,
+	page_id = 824,
+	long_title = false,
 }

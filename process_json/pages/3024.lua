@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Answer Dave.",
-	pageId = 3024,
 	timestamp = "1291825860",
 	flag = {},
 	media = {
@@ -2588,4 +2587,6 @@ return {
 		3025,
 	},
 	previous = 3023,
+	page_id = 3024,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Open to random page.",
-	pageId = 5577,
 	timestamp = "1355461474",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		5578,
 	},
 	previous = 5576,
+	page_id = 5577,
+	long_title = false,
 }

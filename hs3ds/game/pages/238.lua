@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Stack laptop on Grimoire to maximize elevation.",
-	pageId = 238,
 	timestamp = "1244096460",
 	flag = {},
 	media = {
@@ -13,10 +12,20 @@ return {
 			0,
 			0,
 		},
-		"You'll need every advantage you can get.",
+		"You'll need every advantage you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"get.\
+",
 	},
 	next = {
 		239,
 	},
 	previous = 237,
+	page_id = 238,
+	long_title = true,
 }

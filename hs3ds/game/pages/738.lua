@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 738,
 	timestamp = "1254626981",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You appearify a PUMPKIN.",
+		"You appearify a PUMPKIN.\
+",
 	},
 	next = {
 		739,
 	},
 	previous = 737,
+	page_id = 738,
+	long_title = false,
 }

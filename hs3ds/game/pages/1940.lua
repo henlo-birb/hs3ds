@@ -1,6 +1,5 @@
 return {
 	title = "[S] Descend.",
-	pageId = 1940,
 	timestamp = "1275320670",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		1941,
 	},
 	previous = 1939,
+	page_id = 1940,
+	long_title = false,
 }

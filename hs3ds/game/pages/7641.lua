@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 7641,
 	timestamp = "1433460347",
 	flag = {},
 	media = {
@@ -12,24 +11,41 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5058823529411764,
 			0.2549019607843137,
 		},
+		"KANAYA: Once Its All Over\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-KANAYA: Once Its All Over",
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: HUH?",
+		"KARKAT: HUH?\
+",
 	},
 	next = {
 		7642,
 	},
 	previous = 7640,
+	page_id = 7641,
+	long_title = false,
 }

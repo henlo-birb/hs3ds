@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Show him your stabs.",
-	pageId = 3095,
 	timestamp = "1292874103",
 	flag = {},
 	media = {
@@ -796,4 +795,6 @@ return {
 		3096,
 	},
 	previous = 3094,
+	page_id = 3095,
+	long_title = false,
 }

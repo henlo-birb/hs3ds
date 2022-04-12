@@ -1,6 +1,5 @@
 return {
 	title = "but it has been a pleasure nonetheless.",
-	pageId = 516,
 	timestamp = "1250910619",
 	flag = {},
 	media = {
@@ -47,4 +46,6 @@ return {
 		517,
 	},
 	previous = 515,
+	page_id = 516,
+	long_title = true,
 }

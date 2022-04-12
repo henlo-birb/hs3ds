@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 885,
 	timestamp = "1258846401",
 	flag = {},
 	media = {
@@ -12,143 +11,454 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-NANNASPRITE: John, don't forget your book!",
+		"NANNASPRITE: John, don't forget your\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"book!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: It is your birthright! You ought to give it a read when you have a moment. Particularly the first several pages!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: It is your birthright!\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"You ought to give it a read when you\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"have a moment. Particularly the first\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"several pages!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: ok nanna, i will.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ok nanna, i will.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: hey, nanna?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: hey, nanna?",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Yes, dear?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: Yes, dear?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: since i am trying to get up to that gate, and since you can sort of conjure floating beds and throw me around and all...",
+		"JOHN: since i am trying to get up to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: couldn't you just throw me up to the gate?",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: Yes, of course, John!",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: But that would not serve your purpose well!",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: There is a very good reason why you should build up to it. And then keep building!",
+		"that gate, and since you can sort of\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: oh, ok, i guess that's what i figured.",
+		"conjure floating beds and throw me\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"around and all...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: so just one more thing...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: do you think that instead of telling me exactly why that is with a clear explanation, you can give me a series of really coy riddles about it and then sort of giggle?",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: John, you are a very fresh young man!",
-		{
-			0.0,
-			0.8352941176470589,
-			0.9490196078431372,
-		},
-		"\
-NANNASPRITE: Your father has done such a wonderful job raising you. I am so proud of you both.",
+		"JOHN: couldn't you just throw me up to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"the gate?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: ha ha, i guess.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: Yes, of course, John!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: When you pass through the first gate, everything will change. You will find the place where the constellations dance beneath the clouds. And then your true work may begin.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"NANNASPRITE: But that would not serve\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"your purpose well!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-NANNASPRITE: Hoo hoo hoo!",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: There is a very good\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"reason why you should build up to it.\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"And then keep building!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: oh, ok, i guess that's what i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"figured.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i suddenly understand everything!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: so just one more thing...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: do you think that instead of\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"telling me exactly why that is with a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"clear explanation, you can give me a\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"series of really coy riddles about it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"and then sort of giggle?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: John, you are a very\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"fresh young man!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: Your father has done such\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"a wonderful job raising you. I am so\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"proud of you both.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ha ha, i guess.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: When you pass through the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"first gate, everything will change.\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"You will find the place where the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"constellations dance beneath the\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"clouds. And then your true work may\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"begin.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"NANNASPRITE: Hoo hoo hoo!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i suddenly understand\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"everything!\
+",
 	},
 	next = {
 		886,
 	},
 	previous = 884,
+	page_id = 885,
+	long_title = false,
 }

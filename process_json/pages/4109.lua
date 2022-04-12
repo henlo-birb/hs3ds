@@ -1,6 +1,5 @@
 return {
 	title = "[S] Cascade.",
-	pageId = 4109,
 	timestamp = "1319518728",
 	flag = {
 		"S",
@@ -15,4 +14,6 @@ return {
 	},
 	previous = 4108,
 	theme = "cascade",
+	page_id = 4109,
+	long_title = false,
 }

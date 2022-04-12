@@ -1,6 +1,5 @@
 return {
 	title = "Eridan: Slam a Faygo.",
-	pageId = 2476,
 	timestamp = "1282356442",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		2477,
 	},
 	previous = 2475,
+	page_id = 2476,
+	long_title = false,
 }

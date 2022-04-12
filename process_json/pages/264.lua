@@ -1,6 +1,5 @@
 return {
 	title = "BOY I SAID MAKE HASTE ON THE NARROW CATWALK!",
-	pageId = 264,
 	timestamp = "1245127369",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		265,
 	},
 	previous = 263,
+	page_id = 264,
+	long_title = true,
 }

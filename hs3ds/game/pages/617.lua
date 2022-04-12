@@ -1,6 +1,5 @@
 return {
 	title = "John: Carve a totem of the punched pogo card.",
-	pageId = 617,
 	timestamp = "1252560671",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"You put the punched card containing the POGO RIDE in the slot, and carve a TOTEM from one of the CRUXITE DOWELS.",
+		"You put the punched card containing\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the POGO RIDE in the slot, and carve a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TOTEM from one of the CRUXITE DOWELS.\
+",
 	},
 	next = {
 		618,
 	},
 	previous = 616,
+	page_id = 617,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Wait, before you go...",
-	pageId = 6142,
 	timestamp = "1365474034",
 	flag = {},
 	media = {
@@ -14,10 +13,13 @@ return {
 			0,
 			0,
 		},
-		"Perfect.",
+		"Perfect.\
+",
 	},
 	next = {
 		6143,
 	},
 	previous = 6141,
+	page_id = 6142,
+	long_title = true,
 }

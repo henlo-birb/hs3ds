@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1520,
 	timestamp = "1267409892",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"GRISTTORRENT is now running.",
+		"GRISTTORRENT is now running.\
+",
 	},
 	next = {
 		1521,
 	},
 	previous = 1519,
+	page_id = 1520,
+	long_title = false,
 }

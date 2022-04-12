@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] Crowbar: Keep leading the way.",
-	pageId = 6131,
 	timestamp = "1365413630",
 	flag = {},
 	media = {
@@ -145,4 +144,6 @@ return {
 		6132,
 	},
 	previous = 6130,
+	page_id = 6131,
+	long_title = true,
 }

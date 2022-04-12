@@ -1,6 +1,5 @@
 return {
 	title = "[o] Nor had he tasted notoriety,",
-	pageId = 3793,
 	timestamp = "1306370243",
 	flag = {},
 	media = {
@@ -13,11 +12,14 @@ return {
 			0,
 			0,
 		},
-		"To secure a death one may parse just.",
+		"To secure a death one may parse just.\
+",
 	},
 	next = {
 		3794,
 	},
 	previous = 3792,
 	theme = "scratch",
+	page_id = 3793,
+	long_title = false,
 }

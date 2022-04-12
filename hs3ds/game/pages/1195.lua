@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Pick up all of the cards and throw them at Doze.",
-	pageId = 1195,
 	timestamp = "1263960690",
 	flag = {},
 	media = {
@@ -13,30 +12,76 @@ return {
 			0,
 			0,
 		},
-		"You pick up a bunch of cards and fling them ",
+		"You pick up a bunch of cards and fling\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"them\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Doze",
+		"Doze\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"-ward.",
+		"-ward.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Didn't accomplish a whole lot, other than put some of your private reading material on embarrassing public display.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Didn't accomplish a whole lot, other\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"than put some of your private reading\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"material on embarrassing public\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"display.\
+",
 	},
 	next = {
 		1196,
 	},
 	previous = 1194,
+	page_id = 1195,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I5] ====>",
-	pageId = 8033,
 	timestamp = "1459441591",
 	flag = {},
 	media = {
@@ -12,89 +11,118 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: see you guys ",
+		"JADE: see you guys\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: apparently ive got a couple of dogs to deal with ",
-		{
-			0,
-			0,
-			0,
-		},
-		" ",
+		"JADE: apparently ive got a couple of\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: oh yeah by the way dave... ",
+		"dogs to deal with\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: youre a pretty good kisser! ",
+		"JADE: oh yeah by the way dave...\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: even when youve got cat lips ;) ",
+		"JADE: youre a pretty good kisser!\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" ",
+		"\
+",
+		{
+			0.2901960784313726,
+			0.788235294117647,
+			0.1450980392156863,
+		},
+		"JADE: even when youve got cat lips ;)\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.8784313725490196,
 			0.027450980392156862,
 			0.027450980392156862,
 		},
+		"DAVE: WHAT\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-DAVE: WHAT",
+",
 		{
 			0.2901960784313726,
 			0.788235294117647,
 			0.1450980392156863,
 		},
-		"\
-JADE: see ya!!!!!!!!!! ",
+		"JADE: see ya!!!!!!!!!!\
+",
 	},
 	next = {
 		8034,
 	},
 	previous = 8032,
+	page_id = 8033,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Captchalogue it!",
-	pageId = 4124,
 	timestamp = "1321128243",
 	flag = {},
 	media = {
@@ -231,4 +230,6 @@ return {
 		4125,
 	},
 	previous = 4123,
+	page_id = 4124,
+	long_title = false,
 }

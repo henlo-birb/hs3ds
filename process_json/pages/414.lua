@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Defile tomb.",
-	pageId = 414,
 	timestamp = "1248839173",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		415,
 	},
 	previous = 413,
+	page_id = 414,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "In a future settled askance of the present...",
-	pageId = 1359,
 	timestamp = "1265865480",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1360,
 	},
 	previous = 1358,
+	page_id = 1359,
+	long_title = true,
 }

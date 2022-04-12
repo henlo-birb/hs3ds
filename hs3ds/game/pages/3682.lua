@@ -1,6 +1,5 @@
 return {
 	title = "John: Wear the hood. Be the leader.",
-	pageId = 3682,
 	timestamp = "1300949802",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"You are not their leader, you are their FRIEND, there is a BIG difference!",
+		"You are not their leader, you are\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"their FRIEND, there is a BIG\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"difference!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You prepare to issue your party a highly authoritative series of FRIENDLY REQUESTS.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You prepare to issue your party a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"highly authoritative series of\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FRIENDLY REQUESTS.\
+",
 	},
 	next = {
 		3683,
 	},
 	previous = 3681,
+	page_id = 3682,
+	long_title = true,
 }

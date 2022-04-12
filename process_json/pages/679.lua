@@ -1,6 +1,5 @@
 return {
 	title = "WV: Check book on Human Etiquette.",
-	pageId = 679,
 	timestamp = "1253733862",
 	flag = {},
 	media = {
@@ -40,4 +39,6 @@ return {
 		680,
 	},
 	previous = 678,
+	page_id = 679,
+	long_title = true,
 }

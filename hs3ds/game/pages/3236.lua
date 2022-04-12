@@ -1,6 +1,5 @@
 return {
 	title = "AH: Apply duds.",
-	pageId = 3236,
 	timestamp = "1294014574",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Awesome, works for me.",
+		"Awesome, works for me.\
+",
 	},
 	next = {
 		3237,
 	},
 	previous = 3235,
+	page_id = 3236,
+	long_title = false,
 }

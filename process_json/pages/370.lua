@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Attach a W to face as a fake moustache.",
-	pageId = 370,
 	timestamp = "1247520650",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		371,
 	},
 	previous = 369,
+	page_id = 370,
+	long_title = true,
 }

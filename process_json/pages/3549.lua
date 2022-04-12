@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Trophy binge.",
-	pageId = 3549,
 	timestamp = "1298172281",
 	flag = {},
 	media = {
@@ -110,4 +109,6 @@ return {
 		3550,
 	},
 	previous = 3548,
+	page_id = 3549,
+	long_title = false,
 }

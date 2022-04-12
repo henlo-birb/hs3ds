@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Attempt to pry open window.",
-	pageId = 4879,
 	timestamp = "1335826301",
 	flag = {},
 	media = {
@@ -12,46 +11,167 @@ return {
 			0,
 			0,
 		},
-		"There are no objects around with which to \"pry open window\". ",
+		"There are no objects around with which\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to \"pry open window\".\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Look at that. This frame is precisely identical to the previous frame. You advanced nothing whatsoever with that dumb idea.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Do you realize this adventure is nearing 5000 panels? And now we have to watch you flounder around in a jail cell for god knows how long? Exactly how many panels do you want this to go on for? Over 9000? Nobody wants that. Nobody even wants to hear ",
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"the phrase",
+		"Look at that. This frame is precisely\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" \"over 9000.\"",
+		"identical to the previous frame. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"advanced nothing whatsoever with that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dumb idea.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You need to begin making better decisions if you want to escape.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Do you realize this adventure is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"nearing 5000 panels? And now we have\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"to watch you flounder around in a jail\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cell for god knows how long? Exactly\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"how many panels do you want this to go\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"on for? Over 9000? Nobody wants that.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Nobody even wants to hear\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"the phrase\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\"over 9000.\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You need to begin making better\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decisions if you want to escape.\
+",
 	},
 	next = {
 		4880,
 	},
 	previous = 4878,
+	page_id = 4879,
+	long_title = true,
 }

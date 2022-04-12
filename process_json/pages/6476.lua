@@ -1,6 +1,5 @@
 return {
 	title = "BE A DIFFERENT MALE.",
-	pageId = 6476,
 	timestamp = "1377739361",
 	flag = {},
 	media = {
@@ -209,4 +208,6 @@ return {
 	},
 	previous = 6475,
 	theme = "A6A6",
+	page_id = 6476,
+	long_title = false,
 }

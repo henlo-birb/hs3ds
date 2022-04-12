@@ -1,6 +1,5 @@
 return {
 	title = "[A6I1] ==>",
-	pageId = 4352,
 	timestamp = "1324275325",
 	flag = {},
 	media = {
@@ -12,17 +11,34 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: I WAS JOKING, GET THOSE FUCKING THINGS AWAY FROM ME",
+		"KARKAT: I WAS JOKING, GET THOSE\
+",
+		{
+			0.3843137254901961,
+			0.3843137254901961,
+			0.3843137254901961,
+		},
+		"FUCKING THINGS AWAY FROM ME\
+",
 	},
 	next = {
 		4353,
 	},
 	previous = 4351,
+	page_id = 4352,
+	long_title = false,
 }

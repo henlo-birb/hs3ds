@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7300,
 	timestamp = "1420173884",
 	flag = {},
 	media = {
@@ -12,45 +11,132 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: uh, mission accomplished i guess??",
+		"JOHN: uh, mission accomplished i\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"guess??\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: well, scarf item number four, at least.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: there you go, terezi. your stupid plush dragon can help with your weird \"investigation\", or whatever fucked up thing you're doing there.",
+		"JOHN: well, scarf item number four, at\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"least.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: thank god i changed that! we sure are making some awesome progress here...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: there you go, terezi. your\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"stupid plush dragon can help with your\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"weird \"investigation\", or whatever\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"fucked up thing you're doing there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: not.",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: thank god i changed that! we\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"sure are making some awesome progress\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"here...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: not.\
+",
 	},
 	next = {
 		7301,
 	},
 	previous = 7299,
+	page_id = 7300,
+	long_title = false,
 }

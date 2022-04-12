@@ -1,6 +1,5 @@
 return {
 	title = "John: Deploy totem lathe.",
-	pageId = 2862,
 	timestamp = "1289683180",
 	flag = {},
 	media = {
@@ -33,4 +32,6 @@ return {
 		2863,
 	},
 	previous = 2861,
+	page_id = 2862,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Explore the other half of your room!",
-	pageId = 790,
 	timestamp = "1256096562",
 	flag = {},
 	media = {
@@ -327,4 +326,6 @@ return {
 		791,
 	},
 	previous = 789,
+	page_id = 790,
+	long_title = true,
 }

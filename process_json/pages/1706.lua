@@ -1,6 +1,5 @@
 return {
 	title = "John: Look at a book.",
-	pageId = 1706,
 	timestamp = "1271648057",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		1707,
 	},
 	previous = 1705,
+	page_id = 1706,
+	long_title = false,
 }

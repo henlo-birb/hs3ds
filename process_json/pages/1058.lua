@@ -1,6 +1,5 @@
 return {
 	title = "John: Combine gushers and blue ectoplasm.",
-	pageId = 1058,
 	timestamp = "1261461996",
 	flag = {},
 	media = {
@@ -76,4 +75,6 @@ return {
 		1059,
 	},
 	previous = 1057,
+	page_id = 1058,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "WV?: Ride.",
-	pageId = 3411,
 	timestamp = "1296508892",
 	flag = {},
 	media = {
@@ -13,26 +12,69 @@ return {
 			0,
 			0,
 		},
-		"Your feet do not reach the little steppy levers.",
+		"Your feet do not reach the little\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"steppy levers.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Your copilot points out that you also do not have the key.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You are terribly disappointed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Your copilot points out that you also\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"do not have the key.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You are terribly disappointed.\
+",
 	},
 	next = {
 		3412,
 	},
 	previous = 3410,
+	page_id = 3411,
+	long_title = false,
 }

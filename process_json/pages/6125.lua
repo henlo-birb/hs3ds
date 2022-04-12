@@ -1,6 +1,5 @@
 return {
 	title = "[A6I5] SS: Pull pins.",
-	pageId = 6125,
 	timestamp = "1365391069",
 	flag = {},
 	media = {
@@ -82,4 +81,6 @@ return {
 		6126,
 	},
 	previous = 6124,
+	page_id = 6125,
+	long_title = false,
 }

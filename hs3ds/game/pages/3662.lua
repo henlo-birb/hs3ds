@@ -1,6 +1,5 @@
 return {
 	title = "John: Look inside.",
-	pageId = 3662,
 	timestamp = "1300504897",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		3663,
 	},
 	previous = 3661,
+	page_id = 3662,
+	long_title = false,
 }

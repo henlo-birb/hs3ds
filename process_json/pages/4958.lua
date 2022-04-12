@@ -1,6 +1,5 @@
 return {
 	title = "Jane: Feed it to gristwidget 12000.",
-	pageId = 4958,
 	timestamp = "1337483662",
 	flag = {
 		"R1",
@@ -56,4 +55,6 @@ return {
 		4959,
 	},
 	previous = 4957,
+	page_id = 4958,
+	long_title = true,
 }

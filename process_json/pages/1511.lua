@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Deploy green and white compact disc.",
-	pageId = 1511,
 	timestamp = "1267342175",
 	flag = {},
 	media = {
@@ -138,4 +137,6 @@ return {
 		1512,
 	},
 	previous = 1510,
+	page_id = 1511,
+	long_title = true,
 }

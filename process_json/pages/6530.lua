@@ -1,6 +1,5 @@
 return {
 	title = "THANK YOU FOR SUBSCRIBING TO MY STORY.",
-	pageId = 6530,
 	timestamp = "1378096844",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 	},
 	previous = 6529,
 	theme = "A6A6",
+	page_id = 6530,
+	long_title = true,
 }

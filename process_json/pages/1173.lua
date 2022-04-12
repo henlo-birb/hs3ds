@@ -1,6 +1,5 @@
 return {
 	title = "[I] SS: Use radio device to check on unscrupulous cohorts.",
-	pageId = 1173,
 	timestamp = "1263800653",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1174,
 	},
 	previous = 1172,
+	page_id = 1173,
+	long_title = true,
 }

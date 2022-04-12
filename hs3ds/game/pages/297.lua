@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Equip grimoire to strife specibus.",
-	pageId = 297,
 	timestamp = "1245885808",
 	flag = {},
 	media = {
@@ -12,26 +11,69 @@ return {
 			0,
 			0,
 		},
-		"That would be incredibly ill-advised!",
+		"That would be incredibly ill-advised!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-There are some dark forces you just don't want to mess around with. You understand this better than most.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-You put the book down.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"There are some dark forces you just\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"don't want to mess around with. You\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"understand this better than most.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"You put the book down.\
+",
 	},
 	next = {
 		298,
 	},
 	previous = 296,
+	page_id = 297,
+	long_title = true,
 }

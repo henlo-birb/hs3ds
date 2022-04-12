@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine bronzed vacuum and umbrella.",
-	pageId = 1804,
 	timestamp = "1273121560",
 	flag = {},
 	media = {
@@ -13,26 +12,55 @@ return {
 			0,
 			0,
 		},
-		"You make the BRONZED VACUUMBRELLA.",
+		"You make the BRONZED VACUUMBRELLA.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Useless.",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But you're still getting warmed up.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Useless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But you're still getting warmed up.\
+",
 	},
 	next = {
 		1805,
 	},
 	previous = 1803,
+	page_id = 1804,
+	long_title = true,
 }

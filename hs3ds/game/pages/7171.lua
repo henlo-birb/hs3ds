@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7171,
 	timestamp = "1418619205",
 	flag = {},
 	media = {
@@ -12,241 +11,636 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): what is going on here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): what is going on here?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): should i, uh...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): should i, uh...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): should i go?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): should i go?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: yes, me.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: yes, me.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i mean, yes john.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i mean, yes john.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: wow, it's kind of weird talking to myself.",
+		"JOHN: wow, it's kind of weird talking\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"to myself.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm not sure if i'm a very big fan of the experience?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-(JOHN): tell me about it!",
+		"JOHN: i'm not sure if i'm a very big\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"fan of the experience?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: but yeah, you should get going.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): tell me about it!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: terezi's experiment worked.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: but yeah, you should get going.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: you'll find out all about it later.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: terezi's experiment worked.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): i will?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: actually, i'm not sure?",
+		"JOHN: you'll find out all about it\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"later.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: now that i changed how things happened for you, you might not get the idea to come back here like i did?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): i will?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: which i guess makes this situation a true paradox, unlike all those lame stable time loops dave makes.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: actually, i'm not sure?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): so, what does that actually mean for me?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-(JOHN): what am i supposed to do now?",
+		"JOHN: now that i changed how things\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i don't know what it means.",
+		"happened for you, you might not get\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"the idea to come back here like i did?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: unfortunately, you may not be relevant anymore.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i'm the john who is learning to use his flashy powers to reconstruct the time line, so that responsibility is on my shoulders now, not yours.",
+		"JOHN: which i guess makes this\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: sorry, i am just keeping it real!",
+		"situation a true paradox, unlike all\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-(JOHN): ...",
+		"those lame stable time loops dave\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"makes.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: well, who really knows how it will turn out.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: maybe you will still have important things to do?",
+		"(JOHN): so, what does that actually\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"mean for me?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i don't have all the answers, i just know terezi and i have to talk now, so you should go.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"(JOHN): what am i supposed to do now?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-(JOHN): where?",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i don't know what it means.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: where you were about to go anyway!",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: go see typheus, and do the quest thing.",
+		"JOHN: unfortunately, you may not be\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"relevant anymore.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: it worked out great. well, for me at least.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-(JOHN): ok, i will.",
+		"JOHN: i'm the john who is learning to\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-(JOHN): i do hope i get to still be relevant, but i will understand if that turns out not to be the case.",
+		"use his flashy powers to reconstruct\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"the time line, so that responsibility\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"is on my shoulders now, not yours.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: that's the spirit!",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: sorry, i am just keeping it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"real!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"(JOHN): ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: well, who really knows how it\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"will turn out.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: maybe you will still have\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"important things to do?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i don't have all the answers, i\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"just know terezi and i have to talk\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"now, so you should go.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"(JOHN): where?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: where you were about to go\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"anyway!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: go see typheus, and do the quest\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"thing.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it worked out great. well, for\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"me at least.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"(JOHN): ok, i will.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"(JOHN): i do hope i get to still be\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"relevant, but i will understand if\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"that turns out not to be the case.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: that's the spirit!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.5098039215686274,
 			0.5098039215686274,
 		},
-		"\
-TEREZI: N3RDS",
+		"TEREZI: N3RDS\
+",
 	},
 	next = {
 		7172,
 	},
 	previous = 7170,
+	page_id = 7171,
+	long_title = false,
 }

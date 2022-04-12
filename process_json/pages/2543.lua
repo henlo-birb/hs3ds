@@ -1,6 +1,5 @@
 return {
 	title = "Equius: Read first memo.",
-	pageId = 2543,
 	timestamp = "1282968259",
 	flag = {},
 	media = {
@@ -3414,4 +3413,6 @@ return {
 		2544,
 	},
 	previous = 2542,
+	page_id = 2543,
+	long_title = false,
 }

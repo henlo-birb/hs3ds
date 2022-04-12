@@ -1,6 +1,5 @@
 return {
 	title = "John: Check status of Sburb beta.",
-	pageId = 133,
 	timestamp = "1241833676",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		134,
 	},
 	previous = 132,
+	page_id = 133,
+	long_title = true,
 }

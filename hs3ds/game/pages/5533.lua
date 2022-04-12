@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5533,
 	timestamp = "1354603524",
 	flag = {},
 	media = {
@@ -13,179 +12,454 @@ return {
 			0,
 			0,
 		},
-		"|SPRITELOG|",
+		"|SPRITELOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
-		"\
-JANE: OH POOR FEFETA MY SWEET PATOOTIE!",
+		"JANE: OH POOR FEFETA MY SWEET\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"PATOOTIE!\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: YOU AND I BOTH KNOW FEFETA HAS HAD TO DEAL WITH GARBAGE FROM JERKOFF BOYS BEFORE.",
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"JANE: YOU AND I BOTH KNOW FEFETA HAS\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"HAD TO DEAL WITH GARBAGE FROM JERKOFF\
+",
+		{
+			0.0,
+			0.8352941176470589,
+			0.9490196078431372,
+		},
+		"BOYS BEFORE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: lol yeah\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-\
-ROXY: lol yeah",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: my girl fefeta knows whats up\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: my girl fefeta knows whats up",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: she been around the d bag block a time or 2",
+		"ROXY: she been around the d bag block\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"a time or 2\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: em i rite fefeta",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: em i rite fefeta\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.7098039215686275,
 			0.21176470588235294,
 			0.8549019607843137,
 		},
+		"FEFETASPRITE: 3833 < 3;3\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-FEFETASPRITE: 3833 < 3;3",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: shit yes gimme a paw bump\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: shit yes gimme a paw bump",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: BOMP\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: BOMP",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: jane u want in on this action\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: jane u want in on this action",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: come give us a fist fulla sugar\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: come give us a fist fulla sugar",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: complete the 3way for max girl power + solidarity against dumb dudes",
+		"ROXY: complete the 3way for max girl\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"power + solidarity against dumb dudes\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: janey jeez dont leave us hanging here",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: janey jeez dont leave us hanging\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"here\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: SIGH.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: SIGH.",
+",
 		{
 			0.0,
 			0.8352941176470589,
 			0.9490196078431372,
 		},
+		"JANE: FINE.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JANE: FINE.",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: jane that was the piss poorest paw bump ive ever seen",
+		"ROXY: jane that was the piss poorest\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"paw bump ive ever seen\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: that was like a negative bump",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: that was like a negative bump\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: we are going to have to bump long and hard into the night to dig us outta this fuckin bump hole you dug us into",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: w/ that tragic bump",
+		"ROXY: we are going to have to bump\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: that bump was like",
+		"long and hard into the night to dig us\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
-		"\
-ROXY: shakespearean",
+		"outta this fuckin bump hole you dug us\
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"into\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: makes me want to weep softly and leave a bouquet somewhere",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: w/ that tragic bump\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: someone plays a sad trumpet in the distance",
+",
 		{
 			1.0,
 			0.43529411764705883,
 			0.9490196078431372,
 		},
+		"ROXY: that bump was like\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-ROXY: look fefeta just sniffled a little at how sad that bump w-",
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: shakespearean\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: makes me want to weep softly and\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"leave a bouquet somewhere\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: someone plays a sad trumpet in\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"the distance\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"ROXY: look fefeta just sniffled a\
+",
+		{
+			1.0,
+			0.43529411764705883,
+			0.9490196078431372,
+		},
+		"little at how sad that bump w-\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 	},
 	next = {
 		5534,
 	},
 	previous = 5532,
+	page_id = 5533,
+	long_title = false,
 }

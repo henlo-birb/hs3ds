@@ -1,6 +1,5 @@
 return {
 	title = "Meanwhile, in the past again.",
-	pageId = 381,
 	timestamp = "1247719550",
 	flag = {},
 	media = {
@@ -12,18 +11,69 @@ return {
 			0,
 			0,
 		},
-		"You're almost done patching up the hole in your window with the GAFFER TAPE. ",
+		"You're almost done patching up the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"hole in your window with the GAFFER\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"TAPE.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-But it's sort of hard to get any work done when people keep pestering you all day. You guess you better get that.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"But it's sort of hard to get any work\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"done when people keep pestering you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"all day. You guess you better get\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"that.\
+",
 	},
 	next = {
 		382,
 	},
 	previous = 380,
+	page_id = 381,
+	long_title = false,
 }

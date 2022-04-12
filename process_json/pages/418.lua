@@ -1,6 +1,5 @@
 return {
 	title = "[S] WHAT THIS IS SO OUTRAGEOUS",
-	pageId = 418,
 	timestamp = "1248924094",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		419,
 	},
 	previous = 417,
+	page_id = 418,
+	long_title = false,
 }

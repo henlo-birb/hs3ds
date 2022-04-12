@@ -1,6 +1,5 @@
 return {
 	title = "[S] Rose: Play a haunting refrain on the violin.",
-	pageId = 222,
 	timestamp = "1243567810",
 	flag = {
 		"F",
@@ -64,4 +63,6 @@ return {
 		223,
 	},
 	previous = 221,
+	page_id = 222,
+	long_title = true,
 }

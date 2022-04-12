@@ -1,6 +1,5 @@
 return {
 	title = "THIS IMPUDENCE IS INSUFFERABLE. GO GET THE COOKIES!!!!!!",
-	pageId = 435,
 	timestamp = "1249358714",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		436,
 	},
 	previous = 434,
+	page_id = 435,
+	long_title = true,
 }

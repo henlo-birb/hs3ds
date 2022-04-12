@@ -1,6 +1,5 @@
 return {
 	title = "John: Install Pesterchum.",
-	pageId = 159,
 	timestamp = "1242433403",
 	flag = {},
 	media = {
@@ -12,10 +11,27 @@ return {
 			0,
 			0,
 		},
-		"This should be useful. Now you can keep tabs on your chums while you wander around the house.",
+		"This should be useful. Now you can\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"keep tabs on your chums while you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"wander around the house.\
+",
 	},
 	next = {
 		160,
 	},
 	previous = 158,
+	page_id = 159,
+	long_title = false,
 }

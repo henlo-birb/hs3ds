@@ -1,6 +1,5 @@
 return {
 	title = "John: Proceed to the second gate.",
-	pageId = 1686,
 	timestamp = "1271469022",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1687,
 	},
 	previous = 1685,
+	page_id = 1686,
+	long_title = true,
 }

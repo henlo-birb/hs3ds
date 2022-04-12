@@ -1,6 +1,5 @@
 return {
 	title = "WV: Wave about in a distracting manner.",
-	pageId = 1122,
 	timestamp = "1262649246",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		1123,
 	},
 	previous = 1121,
+	page_id = 1122,
+	long_title = true,
 }

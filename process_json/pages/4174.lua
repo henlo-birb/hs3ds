@@ -1,6 +1,5 @@
 return {
 	title = "Jake: Examine bunny.",
-	pageId = 4174,
 	timestamp = "1321741418",
 	flag = {
 		"R4",
@@ -301,4 +300,6 @@ return {
 		4175,
 	},
 	previous = 4173,
+	page_id = 4174,
+	long_title = false,
 }

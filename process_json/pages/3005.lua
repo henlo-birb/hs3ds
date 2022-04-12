@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Level up!",
-	pageId = 3005,
 	timestamp = "1291676499",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		3006,
 	},
 	previous = 3004,
+	page_id = 3005,
+	long_title = false,
 }

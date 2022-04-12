@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 5705,
 	timestamp = "1357689746",
 	flag = {},
 	media = {
@@ -12,18 +11,41 @@ return {
 			0,
 			0,
 		},
-		"You got a RED SUCKER.",
+		"You got a RED SUCKER.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-This one unsurprisingly yields another unit of ZILLIUM.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"This one unsurprisingly yields another\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"unit of ZILLIUM.\
+",
 	},
 	next = {
 		5706,
 	},
 	previous = 5704,
+	page_id = 5705,
+	long_title = false,
 }

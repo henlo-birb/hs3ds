@@ -1,6 +1,5 @@
 return {
 	title = "WV: Search room for can opener.",
-	pageId = 682,
 	timestamp = "1253764835",
 	flag = {},
 	media = {
@@ -68,4 +67,6 @@ return {
 		683,
 	},
 	previous = 681,
+	page_id = 682,
+	long_title = false,
 }

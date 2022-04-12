@@ -1,6 +1,5 @@
 return {
 	title = "John: Examine Totem Lathe.",
-	pageId = 152,
 	timestamp = "1242348943",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		153,
 	},
 	previous = 151,
+	page_id = 152,
+	long_title = false,
 }

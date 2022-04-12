@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 389,
 	timestamp = "1248132948",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"It looks like MOM has satisfied her [S] STRIFE! quota for the day. She simply returns to her housework. ",
+		"It looks like MOM has satisfied her\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"[S] STRIFE! quota for the day. She\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"simply returns to her housework.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-No point in going out the front door anymore. Might as well head out the back, like you originally planned.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"No point in going out the front door\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"anymore. Might as well head out the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"back, like you originally planned.\
+",
 	},
 	next = {
 		390,
 	},
 	previous = 388,
+	page_id = 389,
+	long_title = false,
 }

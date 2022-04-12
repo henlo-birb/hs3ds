@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Activate Pesterchum.",
-	pageId = 826,
 	timestamp = "1256873387",
 	flag = {
 		"F",
@@ -14,18 +13,48 @@ return {
 			0,
 			0,
 		},
-		"Hey look, John is online! Hooray!",
+		"Hey look, John is online! Hooray!\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Also it looks like Dave pestered you about something yesterday but you missed it.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Also it looks like Dave pestered you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"about something yesterday but you\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"missed it.\
+",
 	},
 	next = {
 		827,
 	},
 	previous = 825,
+	page_id = 826,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Mourn the loss of Cal.",
-	pageId = 1082,
 	timestamp = "1262244424",
 	flag = {},
 	media = {
@@ -83,4 +82,6 @@ return {
 		1083,
 	},
 	previous = 1081,
+	page_id = 1082,
+	long_title = false,
 }

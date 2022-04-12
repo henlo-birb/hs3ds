@@ -1,6 +1,5 @@
 return {
 	title = "Drop pumpkin on Farmstink.",
-	pageId = 764,
 	timestamp = "1255504354",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		765,
 	},
 	previous = 763,
+	page_id = 764,
+	long_title = false,
 }

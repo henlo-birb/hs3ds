@@ -1,6 +1,5 @@
 return {
 	title = "A QUEST OF FUTILITY THEN. ==>",
-	pageId = 425,
 	timestamp = "1249191667",
 	flag = {
 		"R4",
@@ -140,4 +139,6 @@ return {
 		426,
 	},
 	previous = 424,
+	page_id = 425,
+	long_title = false,
 }

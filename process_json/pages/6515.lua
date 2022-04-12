@@ -1,6 +1,5 @@
 return {
 	title = "OPEN CHEST.",
-	pageId = 6515,
 	timestamp = "1378007654",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 	},
 	previous = 6514,
 	theme = "A6A6",
+	page_id = 6515,
+	long_title = false,
 }

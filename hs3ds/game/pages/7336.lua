@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7336,
 	timestamp = "1420606113",
 	flag = {},
 	media = {
@@ -12,80 +11,237 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: there.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: there.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: i honked the stupid horn.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i honked the stupid horn.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"JOHN: one more to go...\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: one more to go...",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: terezi, are we getting to the point any time soon?",
+		"JOHN: terezi, are we getting to the\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"point any time soon?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'm getting tired of all this meaningless, prankstery bullshit.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: i would like to be able to say we at least TRIED to change something important here.",
+		"JOHN: i'm getting tired of all this\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"meaningless, prankstery bullshit.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: i'd rather not have to go back to roxy and say, sorry! your mom has to stay dead forever, because terezi decided to play some funny jokes on me for no reason, and also fix her romance problems.",
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: it'd be nice to do something that would actually be significant enough to, you know, prevent that from happening?!",
+		"JOHN: i would like to be able to say\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
-		"\
-JOHN: ...",
+		"we at least TRIED to change something\
+",
 		{
 			0.027450980392156862,
 			0.08235294117647059,
 			0.803921568627451,
 		},
+		"important here.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-JOHN: huh?",
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: i'd rather not have to go back\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"to roxy and say, sorry! your mom has\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"to stay dead forever, because terezi\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"decided to play some funny jokes on me\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"for no reason, and also fix her\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"romance problems.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: it'd be nice to do something\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"that would actually be significant\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"enough to, you know, prevent that from\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"happening?!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: ...\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.027450980392156862,
+			0.08235294117647059,
+			0.803921568627451,
+		},
+		"JOHN: huh?\
+",
 	},
 	next = {
 		7337,
 	},
 	previous = 7335,
+	page_id = 7336,
+	long_title = false,
 }

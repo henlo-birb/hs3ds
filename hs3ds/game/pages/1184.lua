@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Throw the hat down and stomp it mercilessly.",
-	pageId = 1184,
 	timestamp = "1263880158",
 	flag = {},
 	media = {
@@ -12,42 +11,69 @@ return {
 			0,
 			0,
 		},
-		"Oh no. It's ",
+		"Oh no. It's\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Itchy",
+		"Itchy\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		", and it looks like he's all wound up.",
+		", and it looks like he's all wound up.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-He unties ",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"He unties\
+",
 		{
 			0.1803921568627451,
 			0.8431372549019608,
 			0.22745098039215686,
 		},
-		"Doze",
+		"Doze\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		" and quickly swaps everyone's HATS around.",
+		"and quickly swaps everyone's HATS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"around.\
+",
 	},
 	next = {
 		1185,
 	},
 	previous = 1183,
+	page_id = 1184,
+	long_title = true,
 }

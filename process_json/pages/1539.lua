@@ -1,6 +1,5 @@
 return {
 	title = "This is the last you will hear from me.",
-	pageId = 1539,
 	timestamp = "1267743590",
 	flag = {
 		"R4",
@@ -13,4 +12,6 @@ return {
 		1540,
 	},
 	previous = 1538,
+	page_id = 1539,
+	long_title = true,
 }

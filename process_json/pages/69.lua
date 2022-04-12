@@ -1,6 +1,5 @@
 return {
 	title = "John: Read Colonel Sassacre's text.",
-	pageId = 69,
 	timestamp = "1240271287",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		70,
 	},
 	previous = 68,
+	page_id = 69,
+	long_title = true,
 }

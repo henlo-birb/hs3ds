@@ -1,6 +1,5 @@
 return {
 	title = "ACT 6 INTERMISSION 5",
-	pageId = 5927,
 	timestamp = "1361066746",
 	flag = {},
 	media = {
@@ -13,17 +12,27 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.3843137254901961,
 			0.3843137254901961,
 			0.3843137254901961,
 		},
-		"\
-KARKAT: DAVE ARE YOU THERE",
+		"KARKAT: DAVE ARE YOU THERE\
+",
 	},
 	next = {
 		5928,
 	},
 	previous = 5926,
+	page_id = 5927,
+	long_title = false,
 }

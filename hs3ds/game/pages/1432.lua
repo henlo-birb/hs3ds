@@ -1,6 +1,5 @@
 return {
 	title = "Have a look around, Rose.",
-	pageId = 1432,
 	timestamp = "1266558630",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 		1433,
 	},
 	previous = 1431,
+	page_id = 1432,
+	long_title = false,
 }

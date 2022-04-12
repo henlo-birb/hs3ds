@@ -1,6 +1,5 @@
 return {
 	title = "Dirk: Admire fancy santa.",
-	pageId = 4522,
 	timestamp = "1327997496",
 	flag = {},
 	media = {
@@ -104,4 +103,6 @@ return {
 		4523,
 	},
 	previous = 4521,
+	page_id = 4522,
+	long_title = false,
 }

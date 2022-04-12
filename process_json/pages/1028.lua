@@ -1,6 +1,5 @@
 return {
 	title = "Jade: Go explore the golden city.",
-	pageId = 1028,
 	timestamp = "1261178330",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		1029,
 	},
 	previous = 1027,
+	page_id = 1028,
+	long_title = true,
 }

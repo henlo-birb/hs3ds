@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Look for mad scientists.",
-	pageId = 848,
 	timestamp = "1257834272",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		849,
 	},
 	previous = 847,
+	page_id = 848,
+	long_title = false,
 }

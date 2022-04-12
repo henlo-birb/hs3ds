@@ -1,6 +1,5 @@
 return {
 	title = "THE WITCH ALSO DIES FROM HER INJURIES.",
-	pageId = 6519,
 	timestamp = "1378014574",
 	flag = {},
 	media = {
@@ -27,4 +26,6 @@ return {
 	},
 	previous = 6518,
 	theme = "A6A6",
+	page_id = 6519,
+	long_title = true,
 }

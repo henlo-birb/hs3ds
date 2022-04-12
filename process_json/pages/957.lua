@@ -1,6 +1,5 @@
 return {
 	title = "Jack: Call a minion.",
-	pageId = 957,
 	timestamp = "1259920635",
 	flag = {},
 	media = {
@@ -34,4 +33,6 @@ return {
 		958,
 	},
 	previous = 956,
+	page_id = 957,
+	long_title = false,
 }

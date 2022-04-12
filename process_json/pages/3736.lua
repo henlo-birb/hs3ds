@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Open other chest.",
-	pageId = 3736,
 	timestamp = "1303411034",
 	flag = {
 		"R4",
@@ -134,4 +133,6 @@ return {
 		3737,
 	},
 	previous = 3735,
+	page_id = 3736,
+	long_title = false,
 }

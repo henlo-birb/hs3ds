@@ -1,6 +1,5 @@
 return {
 	title = "[S] JOHN. RISE UP.",
-	pageId = 3087,
 	timestamp = "1292533306",
 	flag = {
 		"F",
@@ -14,4 +13,6 @@ return {
 		3089,
 	},
 	previous = 3086,
+	page_id = 3087,
+	long_title = false,
 }

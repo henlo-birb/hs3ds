@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine salamander and eldritch plush.",
-	pageId = 1805,
 	timestamp = "1273121624",
 	flag = {},
 	media = {
@@ -55,4 +54,6 @@ return {
 		1806,
 	},
 	previous = 1804,
+	page_id = 1805,
+	long_title = true,
 }

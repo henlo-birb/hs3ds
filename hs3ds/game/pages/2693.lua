@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Be the troll girl.",
-	pageId = 2693,
 	timestamp = "1285797719",
 	flag = {},
 	media = {
@@ -12,26 +11,55 @@ return {
 			0,
 			0,
 		},
-		"You are suddenly the troll girl.",
+		"You are suddenly the troll girl.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In a different game session. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-In the past.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In a different game session.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"In the past.\
+",
 	},
 	next = {
 		2694,
 	},
 	previous = 2692,
+	page_id = 2693,
+	long_title = false,
 }

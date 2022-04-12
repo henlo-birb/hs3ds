@@ -1,6 +1,5 @@
 return {
 	title = "WV: Move spirograph switch.",
-	pageId = 748,
 	timestamp = "1254764511",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"You cannot move it! It has a spirograph-shaped indentation, and possibly will require a special kind of key to turn it.",
+		"You cannot move it! It has a\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"spirograph-shaped indentation, and\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"possibly will require a special kind\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"of key to turn it.\
+",
 	},
 	next = {
 		749,
 	},
 	previous = 747,
+	page_id = 748,
+	long_title = false,
 }

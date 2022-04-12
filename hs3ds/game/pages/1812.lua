@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Combine needlewands and grimoire.",
-	pageId = 1812,
 	timestamp = "1273189929",
 	flag = {},
 	media = {
@@ -13,18 +12,69 @@ return {
 			0,
 			0,
 		},
-		"You make the THORNS OF OGLOGOTH.",
+		"You make the THORNS OF OGLOGOTH.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-The needles seem to shiver with the dark desires of THE DEEP ONE. Any sane adventurer would cast these instruments of the occult into the FURTHEST RING and forget they ever existed.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"The needles seem to shiver with the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"dark desires of THE DEEP ONE. Any sane\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"adventurer would cast these\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"instruments of the occult into the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FURTHEST RING and forget they ever\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"existed.\
+",
 	},
 	next = {
 		1813,
 	},
 	previous = 1811,
+	page_id = 1812,
+	long_title = true,
 }

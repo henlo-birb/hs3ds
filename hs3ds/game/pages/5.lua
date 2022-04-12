@@ -1,6 +1,5 @@
 return {
 	title = "John: Quickly retrieve arms from drawer.",
-	pageId = 5,
 	timestamp = "1239607433",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"Your ARMS are in your MAGIC CHEST, pooplord!",
+		"Your ARMS are in your MAGIC CHEST,\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"pooplord!\
+",
 	},
 	next = {
 		6,
 	},
 	previous = 4,
+	page_id = 5,
+	long_title = true,
 }

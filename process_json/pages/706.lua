@@ -1,6 +1,5 @@
 return {
 	title = "WV: Turn on the other 3 screens.",
-	pageId = 706,
 	timestamp = "1254098188",
 	flag = {},
 	media = {
@@ -97,4 +96,6 @@ return {
 		707,
 	},
 	previous = 705,
+	page_id = 706,
+	long_title = false,
 }

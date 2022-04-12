@@ -1,6 +1,5 @@
 return {
 	title = "ALPHA MALE: WHISTLE FOR STALLIONS.",
-	pageId = 6496,
 	timestamp = "1377909985",
 	flag = {},
 	media = {
@@ -35,4 +34,6 @@ return {
 	},
 	previous = 6495,
 	theme = "A6A6",
+	page_id = 6496,
+	long_title = true,
 }

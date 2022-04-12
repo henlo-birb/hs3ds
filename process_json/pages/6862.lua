@@ -1,6 +1,5 @@
 return {
 	title = "BUT THESE PORTRAITS ARE NOW A MOOT POINT.",
-	pageId = 6862,
 	timestamp = "1413620385",
 	flag = {},
 	media = {
@@ -181,4 +180,6 @@ return {
 	},
 	previous = 6861,
 	theme = "A6A6",
+	page_id = 6862,
+	long_title = true,
 }

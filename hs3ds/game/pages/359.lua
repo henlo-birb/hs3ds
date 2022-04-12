@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 359,
 	timestamp = "1247185852",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You find this grisly abomination utterly detestable.",
+		"You find this grisly abomination\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"utterly detestable.\
+",
 	},
 	next = {
 		360,
 	},
 	previous = 358,
+	page_id = 359,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "[A6A6I4] ====>",
-	pageId = 7226,
 	timestamp = "1419223844",
 	flag = {},
 	media = {
@@ -12,101 +11,244 @@ return {
 			0,
 			0,
 		},
-		"|DIALOGLOG|",
+		"|DIALOGLOG|\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: BOOM\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: BOOM",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: there goes another one\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: there goes another one",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: Wow, yeah.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Wow, yeah.",
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: dude sure is busy today\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: dude sure is busy today",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"VRISKA: I've got to hand it to him.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: I've got to hand it to him.",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: As far as indestructi8le, reality-destroying monsters go, he really is tireless.",
+		"VRISKA: As far as indestructi8le,\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"reality-destroying monsters go, he\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"really is tireless.\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: Even though on some level I can tell he's pro8a8ly a complete moron, his dedic8tion and persistence is actually pretty admira8le.",
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: Even though on some level I\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"can tell he's pro8a8ly a complete\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"moron, his dedic8tion and persistence\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"is actually pretty admira8le.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
 		{
 			0.4666666666666667,
 			0.0,
 			0.23529411764705882,
 		},
+		"MEENAH: holla\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-MEENAH: holla",
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
-		"\
-VRISKA: How many ghosts do you think were in that 8u88le he just wrecked?",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: dunno",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: hard to give a carp really",
-		{
-			0.4666666666666667,
-			0.0,
-			0.23529411764705882,
-		},
-		"\
-MEENAH: and not just cause im a sociopath",
+		"VRISKA: How many ghosts do you think\
+",
 		{
 			0.0,
 			0.33725490196078434,
 			0.5098039215686274,
 		},
+		"were in that 8u88le he just wrecked?\
+",
+		{
+			0,
+			0,
+			0,
+		},
 		"\
-VRISKA: What do you mean?",
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: dunno\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: hard to give a carp really\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"MEENAH: and not just cause im a\
+",
+		{
+			0.4666666666666667,
+			0.0,
+			0.23529411764705882,
+		},
+		"sociopath\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.0,
+			0.33725490196078434,
+			0.5098039215686274,
+		},
+		"VRISKA: What do you mean?\
+",
 	},
 	next = {
 		7227,
 	},
 	previous = 7225,
+	page_id = 7226,
+	long_title = false,
 }

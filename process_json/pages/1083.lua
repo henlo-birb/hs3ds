@@ -1,6 +1,5 @@
 return {
 	title = "Dave: Go get a god damn new sword.",
-	pageId = 1083,
 	timestamp = "1262244463",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		1084,
 	},
 	previous = 1082,
+	page_id = 1083,
+	long_title = true,
 }

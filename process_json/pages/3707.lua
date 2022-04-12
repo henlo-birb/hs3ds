@@ -1,6 +1,5 @@
 return {
 	title = "but only while i am away from my jurisdiction.",
-	pageId = 3707,
 	timestamp = "1302486325",
 	flag = {},
 	media = {
@@ -278,4 +277,6 @@ return {
 		3708,
 	},
 	previous = 3706,
+	page_id = 3707,
+	long_title = true,
 }

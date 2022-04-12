@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 796,
 	timestamp = "1256189129",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"You captchalogue the TANGLE BUDDIES.",
+		"You captchalogue the TANGLE BUDDIES.\
+",
 	},
 	next = {
 		797,
 	},
 	previous = 795,
+	page_id = 796,
+	long_title = false,
 }

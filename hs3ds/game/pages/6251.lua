@@ -1,6 +1,5 @@
 return {
 	title = "MALE: EXAMINE ROOM.",
-	pageId = 6251,
 	timestamp = "1371079514",
 	flag = {},
 	media = {
@@ -12,27 +11,98 @@ return {
 			0,
 			0,
 		},
-		"YOU EXAMINE YOUR SHITTY ROOM.",
+		"YOU EXAMINE YOUR SHITTY ROOM.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-YOU ARE THE MALE. I'M CALLING HIM YOU FOR SOME REASON. THAT IS HOW THIS IDIOTIC ADVENTURE GOES USUALLY. THE GUY ON THE SCREEN. THAT'S YOU. ",
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-CONFUSED YET?? HA HA. IT ONLY GOES DOWN HILL FROM HERE. PREPARE TO BE FRUSTRATED AND ANGRY. AS MORE THINGS HAPPEN.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"YOU ARE THE MALE. I'M CALLING HIM YOU\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FOR SOME REASON. THAT IS HOW THIS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"IDIOTIC ADVENTURE GOES USUALLY. THE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"GUY ON THE SCREEN. THAT'S YOU.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"CONFUSED YET?? HA HA. IT ONLY GOES\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"DOWN HILL FROM HERE. PREPARE TO BE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"FRUSTRATED AND ANGRY. AS MORE THINGS\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HAPPEN.\
+",
 	},
 	next = {
 		6252,
 	},
 	previous = 6250,
 	theme = "A6A6",
+	page_id = 6251,
+	long_title = false,
 }

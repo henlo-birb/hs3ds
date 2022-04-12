@@ -1,6 +1,5 @@
 return {
 	title = "Nepeta: Answer Karkat.",
-	pageId = 2161,
 	timestamp = "1278292320",
 	flag = {},
 	media = {
@@ -874,4 +873,6 @@ return {
 		2162,
 	},
 	previous = 2160,
+	page_id = 2161,
+	long_title = false,
 }

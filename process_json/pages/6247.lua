@@ -1,6 +1,5 @@
 return {
 	title = "WITH EACH GOD TIER HE CLIMBED.",
-	pageId = 6247,
 	timestamp = "1371079222",
 	flag = {},
 	media = {
@@ -244,4 +243,6 @@ return {
 	},
 	previous = 6246,
 	theme = "A6A6",
+	page_id = 6247,
+	long_title = false,
 }

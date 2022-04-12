@@ -1,6 +1,5 @@
 return {
 	title = "Vriska: Make Pupa have happy thoughts.",
-	pageId = 2379,
 	timestamp = "1281296295",
 	flag = {},
 	media = {
@@ -11,4 +10,6 @@ return {
 		2380,
 	},
 	previous = 2378,
+	page_id = 2379,
+	long_title = true,
 }

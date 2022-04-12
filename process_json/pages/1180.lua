@@ -1,6 +1,5 @@
 return {
 	title = "[I] CD: Punch clocks in faces to establish chronology.",
-	pageId = 1180,
 	timestamp = "1263854253",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		1181,
 	},
 	previous = 1179,
+	page_id = 1180,
+	long_title = true,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Terezi: Inform Mr. Vanilla Milkshake about his missing orb.",
-	pageId = 2263,
 	timestamp = "1279360581",
 	flag = {},
 	media = {
@@ -54,4 +53,6 @@ return {
 		2264,
 	},
 	previous = 2262,
+	page_id = 2263,
+	long_title = true,
 }

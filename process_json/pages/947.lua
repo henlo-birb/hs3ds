@@ -1,6 +1,5 @@
 return {
 	title = "John: Snoop.",
-	pageId = 947,
 	timestamp = "1259800823",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		948,
 	},
 	previous = 946,
+	page_id = 947,
+	long_title = false,
 }

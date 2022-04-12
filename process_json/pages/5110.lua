@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Flip to another page.",
-	pageId = 5110,
 	timestamp = "1340181049",
 	flag = {},
 	media = {
@@ -229,4 +228,6 @@ return {
 		5111,
 	},
 	previous = 5109,
+	page_id = 5110,
+	long_title = false,
 }

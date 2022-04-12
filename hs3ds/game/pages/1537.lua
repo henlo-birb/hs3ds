@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 1537,
 	timestamp = "1267680970",
 	flag = {},
 	media = {
@@ -12,10 +11,34 @@ return {
 			0,
 			0,
 		},
-		"The BLACK QUEEN directs you to the office of the ARCHAGENT. He is in charge of most of the tedious paperwork around here.",
+		"The BLACK QUEEN directs you to the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"office of the ARCHAGENT. He is in\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"charge of most of the tedious\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"paperwork around here.\
+",
 	},
 	next = {
 		1538,
 	},
 	previous = 1536,
+	page_id = 1537,
+	long_title = false,
 }

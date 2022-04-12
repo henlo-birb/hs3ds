@@ -1,6 +1,5 @@
 return {
 	title = "Roxy: Examine door.",
-	pageId = 5630,
 	timestamp = "1356139293",
 	flag = {},
 	media = {
@@ -12,10 +11,13 @@ return {
 			0,
 			0,
 		},
-		"Is someone there?",
+		"Is someone there?\
+",
 	},
 	next = {
 		5631,
 	},
 	previous = 5629,
+	page_id = 5630,
+	long_title = false,
 }

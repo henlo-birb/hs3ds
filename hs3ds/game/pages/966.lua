@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 966,
 	timestamp = "1259975761",
 	flag = {},
 	media = {
@@ -12,18 +11,48 @@ return {
 			0,
 			0,
 		},
-		"First thing you do is flush the extra cards into your deck. ",
+		"First thing you do is flush the extra\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cards into your deck.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Ok really this is just way too many cards.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Ok really this is just way too many\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"cards.\
+",
 	},
 	next = {
 		967,
 	},
 	previous = 965,
+	page_id = 966,
+	long_title = false,
 }

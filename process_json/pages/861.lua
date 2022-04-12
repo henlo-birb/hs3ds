@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Go to the center and do a goofy dance.",
-	pageId = 861,
 	timestamp = "1257982938",
 	flag = {},
 	media = {
@@ -96,4 +95,6 @@ return {
 		862,
 	},
 	previous = 860,
+	page_id = 861,
+	long_title = true,
 }

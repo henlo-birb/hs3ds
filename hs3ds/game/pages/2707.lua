@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2707,
 	timestamp = "1285822665",
 	flag = {},
 	media = {
@@ -12,18 +11,62 @@ return {
 			0,
 			0,
 		},
-		"The conversations with the other two humans didn't go that well either.",
+		"The conversations with the other two\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"humans didn't go that well either.\
+",
 		{
 			0,
 			0,
 			0,
 		},
 		"\
-\
-Must be something about the human intellect, and a specific posture it assumes. Particularly when a certain subject is broached.",
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Must be something about the human\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"intellect, and a specific posture it\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"assumes. Particularly when a certain\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"subject is broached.\
+",
 	},
 	next = {
 		2708,
 	},
 	previous = 2706,
+	page_id = 2707,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "==>",
-	pageId = 2655,
 	timestamp = "1285355851",
 	flag = {},
 	media = {
@@ -12,16 +11,48 @@ return {
 			0,
 			0,
 		},
-		"You got the server copy of the SBURB BETA!",
+		"You got the server copy of the SBURB\
+",
 		{
 			0,
 			0,
 			0,
 		},
-		"<img border=\"0\" src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/yeah!!!!!!!!.gif\"/>",
+		"BETA!\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"<img border=\"0\"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/yeah!!!!!!!!.gif\"/>\
+",
 	},
 	next = {
 		2656,
 	},
 	previous = 2654,
+	page_id = 2655,
+	long_title = false,
 }

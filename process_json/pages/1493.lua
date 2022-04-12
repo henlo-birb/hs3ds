@@ -1,6 +1,5 @@
 return {
 	title = "Is it not why you are here?",
-	pageId = 1493,
 	timestamp = "1267140778",
 	flag = {},
 	media = {
@@ -69,4 +68,6 @@ return {
 		1494,
 	},
 	previous = 1492,
+	page_id = 1493,
+	long_title = false,
 }

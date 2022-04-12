@@ -1,6 +1,5 @@
 return {
 	title = "[S] Past Karkat: Wake up.",
-	pageId = 2792,
 	timestamp = "1288019239",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		2793,
 	},
 	previous = 2791,
+	page_id = 2792,
+	long_title = false,
 }

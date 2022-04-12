@@ -1,6 +1,5 @@
 return {
 	title = "John: Look to your right.",
-	pageId = 2922,
 	timestamp = "1290386770",
 	flag = {},
 	media = {
@@ -1272,4 +1271,6 @@ return {
 		2923,
 	},
 	previous = 2921,
+	page_id = 2922,
+	long_title = false,
 }

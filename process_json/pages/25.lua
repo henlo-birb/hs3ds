@@ -1,6 +1,5 @@
 return {
 	title = "John: Open Pesterchum.",
-	pageId = 25,
 	timestamp = "1239779726",
 	flag = {},
 	media = {
@@ -26,4 +25,6 @@ return {
 		26,
 	},
 	previous = 24,
+	page_id = 25,
+	long_title = false,
 }

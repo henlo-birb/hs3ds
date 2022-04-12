@@ -1,6 +1,5 @@
 return {
 	title = "KRABKRAB. HONK FRIEND. CAPE DOUCHE.",
-	pageId = 6858,
 	timestamp = "1413620163",
 	flag = {},
 	media = {
@@ -12,4 +11,6 @@ return {
 	},
 	previous = 6857,
 	theme = "A6A6",
+	page_id = 6858,
+	long_title = true,
 }

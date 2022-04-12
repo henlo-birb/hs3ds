@@ -1,6 +1,5 @@
 return {
 	title = "John: Prepare for a boss battle.",
-	pageId = 657,
 	timestamp = "1253331964",
 	flag = {},
 	media = {
@@ -89,4 +88,6 @@ return {
 		658,
 	},
 	previous = 656,
+	page_id = 657,
+	long_title = false,
 }

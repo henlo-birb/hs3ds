@@ -1,6 +1,5 @@
 return {
 	title = "John: Go out to balcony.",
-	pageId = 160,
 	timestamp = "1242440115",
 	flag = {},
 	media = {
@@ -446,4 +445,6 @@ return {
 		161,
 	},
 	previous = 159,
+	page_id = 160,
+	long_title = false,
 }

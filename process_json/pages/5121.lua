@@ -1,6 +1,5 @@
 return {
 	title = "Calliope: Examine ladder.",
-	pageId = 5121,
 	timestamp = "1340259678",
 	flag = {},
 	media = {
@@ -75,4 +74,6 @@ return {
 		5122,
 	},
 	previous = 5120,
+	page_id = 5121,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "DD: Retrieve extra firepower.",
-	pageId = 4936,
 	timestamp = "1336953667",
 	flag = {},
 	media = {
@@ -61,4 +60,6 @@ return {
 		4937,
 	},
 	previous = 4935,
+	page_id = 4936,
+	long_title = false,
 }

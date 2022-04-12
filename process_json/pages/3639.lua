@@ -1,6 +1,5 @@
 return {
 	title = "Seer: Ask.",
-	pageId = 3639,
 	timestamp = "1300086638",
 	flag = {
 		"F",
@@ -13,4 +12,6 @@ return {
 		3640,
 	},
 	previous = 3638,
+	page_id = 3639,
+	long_title = false,
 }

@@ -1,6 +1,5 @@
 return {
 	title = "Rose: Think of ways to one-up mother.",
-	pageId = 373,
 	timestamp = "1247520840",
 	flag = {},
 	media = {
@@ -166,4 +165,6 @@ return {
 		374,
 	},
 	previous = 372,
+	page_id = 373,
+	long_title = true,
 }

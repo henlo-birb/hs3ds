@@ -1,6 +1,5 @@
 return {
 	title = "John: Captchalogue magician's hat.",
-	pageId = 44,
 	timestamp = "1240031134",
 	flag = {},
 	media = {
@@ -12,10 +11,20 @@ return {
 			0,
 			0,
 		},
-		"You expend your final card on the MAGICIAN'S HAT.",
+		"You expend your final card on the\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"MAGICIAN'S HAT.\
+",
 	},
 	next = {
 		45,
 	},
 	previous = 43,
+	page_id = 44,
+	long_title = true,
 }

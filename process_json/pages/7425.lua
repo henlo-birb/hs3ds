@@ -1,6 +1,5 @@
 return {
 	title = "SO IN THE BLINK OF AN EYE.",
-	pageId = 7425,
 	timestamp = "1428979416",
 	flag = {
 		"F",
@@ -148,4 +147,6 @@ return {
 	},
 	previous = 7424,
 	theme = "A6A6",
+	page_id = 7425,
+	long_title = false,
 }
