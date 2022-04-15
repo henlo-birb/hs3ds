@@ -59,6 +59,8 @@ def get_lines(s):
         lines[-1] += "\n"
     return lines
 
+max_medias = 0
+
 os.system("mkdir -p pages")
 bar = progressbar.ProgressBar(max_value=len(hs_filtered.items()), redirect_stdout=True)
 for k, v in hs_filtered.items():
@@ -91,6 +93,9 @@ for k, v in hs_filtered.items():
     v["media"] = [
             m.replace("/storyfiles/hs2/", "").replace(".gif", "") for m in v["media"]
         ]
+    if len(v["media"]) > max_medias:
+        max_medias = len(v["media"])
+    
     v["page_id"] = conv_key(v["pageId"])
     v["long_title"] = len(v["title"]) > 32
     del(v["pageId"])
@@ -101,3 +106,4 @@ for k, v in hs_filtered.items():
     luadata.write(f"pages/{conv_key(k)}.lua", v, indent="\t")
     bar.value += 1
     bar.update()
+print(max_medias)

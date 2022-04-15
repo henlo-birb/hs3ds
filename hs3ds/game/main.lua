@@ -1,3 +1,4 @@
+require("elems")
 require("maplesyrup")
 require("utils")
 
@@ -7,7 +8,7 @@ courier = love.graphics.newFont("courier.bcfnt")
 default_font = love.graphics.getFont()
 topview = {
     Rectangle(0, 0, topdims[1], topdims[2], {0.776, 0.776, 0.776}), {
-        {Rectangle(30, 0, 325, 30, {0.933, 0.933, 0.933}), {}}, {
+        {   Rectangle(30, 0, 325, 30, {0.933, 0.933, 0.933}), {}}, {
             Text(function(this)
                 return {{0, 0, 0}, app.model.current_page.title}
             end, courier, 0, 5, function(this)
@@ -63,7 +64,7 @@ app = initApp({
     }
 })
 
-app:update("gamepadpressed", function(model, button)
+app:addUpdater("gamepadpressed", function(model, button)
     if button == "start" then
         love.event.quit()
     elseif button == "a" or button == "dpright" then
@@ -81,11 +82,11 @@ app:update("gamepadpressed", function(model, button)
     end
 end)
 
-app:update("gamepadreleased", function(model, button)
+app:addUpdater("gamepadreleased", function(model, button)
     if button == "dpup" or button == "dpdown" then model.scrolling = 0 end
 end)
 
-app:update("gotopage", function(model, page_id)
+app:addUpdater("gotopage", function(model, page_id)
     model.page_id = page_id
     if page_id == model.current_page.next[1] then
         model.current_page = model.next_page
@@ -112,7 +113,7 @@ function love.touchreleased(id, x, y, dx, dy, pressure)
 end
 
 function love.update(dt)
-    app:push("updateanimations", dt)
+    app:update(dt)
     if app.model.scrolling ~= 0 then
         app.model.scroll_y = app.model.getbyid["scroll_text"].last_scroll_y +
                                  app.model.scrolling

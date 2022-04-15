@@ -37,7 +37,7 @@ function Rectangle(x, y, width, height, color, mode)
         y = y or 0,
         width = width,
         height = height,
-        color = color or {love.graphics.getbackground_color()},
+        color = color or {love.graphics.getBackgroundColor()},
         mode = mode or "fill",
         render = renderRectangle,
         p = merge
@@ -321,6 +321,7 @@ function Animation(name, x, y, sx, sy, looping)
         n_atlases = 0,
         n_quads = 0,
         durations = {},
+        current_frame = 1,
         dt = 0,
         x = x or 0,
         y = y or 0,
@@ -328,6 +329,19 @@ function Animation(name, x, y, sx, sy, looping)
         sy = sy or 1,
         looping = looping == nil or looping, -- default true
         render = renderAnimation,
+        update = function(this, app, dt)
+            if this.name ~= "" then
+                this.dt = this.dt + dt
+                if #this.durations > 0  and this.dt > this.durations[this.current_frame] / 1000 then
+                    this.dt = 0
+                    if this.current_frame == this.n_frames then
+                        this.current_frame = 1
+                    else
+                        this.current_frame = this.current_frame + 1
+                    end
+                end
+            end
+        end,
         p = merge
     }
 end

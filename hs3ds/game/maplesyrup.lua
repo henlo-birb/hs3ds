@@ -1,7 +1,18 @@
 require("elems")
 require("utils")
-initApp = function(params)
 
+recurseElems = function(f, start_elem, start_parent, ...)
+    local function recurse(elem, parent, ...)
+        f(elem[1], parent, ...)
+        for _, child in pairs(elem[2]) do
+            f(child[1], elem[1], ...)
+            recurse(child, elem[1], ...)
+        end
+    end
+    recurse(start_elem, start_parent, ...)
+end
+
+initApp = function(params)
     return {
         updater = params.updater or newUpdater(),
         model = params.model and merge(newModel(), params.model) or newModel(),
@@ -14,7 +25,7 @@ initApp = function(params)
             end
         end,
 
-        update = function(this, msg, func)
+        addUpdater = function(this, msg, func)
             if this.updater[msg] then
                 table.insert(this.updater[msg], func)
             else
@@ -22,25 +33,33 @@ initApp = function(params)
             end
         end,
 
-        render = function(this, screen)
-            local function recurse(elem, parent)
-                if not this.rendered[screen] then -- do per-element related initializations on first render since we're looping through em all for free
-                    elem[1].parent = parent
-                    if elem[1].type == "animation" then
-                        table.insert(this.model.animations, elem[1])
-                    end
-                    if elem[1].id then
-                        this.model.getbyid[elem[1].id] = elem[1]
-                    end
-                end
-
-                elem[1]:render(this)
-                for _, child in pairs(elem[2]) do
-                    recurse(child, elem[1])
-                end
+        update = function(this, dt)
+            local function updateElems(elem, _parent)
+                if elem.update then elem:update(this, dt) end
             end
-            recurse(screen == "bottom" and this.bottomview or this.topview) -- if drawing bottom screen use bottom view otherwise use top view
-            this.rendered[screen] = true
+            recurseElems(updateElems, this.topview)
+            recurseElems(updateElems, this.bottomview)
+        end,
+
+        render = function(this, screen)
+            if this.model.rendering then
+                local function renderElem(elem, parent)
+                    if not this.rendered[screen] then -- do per-element related initializations on first render since we're looping through em all for free
+                        elem.parent = parent
+                        if elem.type == "animation" then
+                            table.insert(this.model.animations, elem)
+                        end
+                        if elem.id then
+                            this.model.getbyid[elem.id] = elem
+                        end
+                    end
+                    elem:render(this)
+                end
+                recurseElems(renderElem,
+                             screen == "bottom" and this.bottomview or
+                                 this.topview) -- if drawing bottom screen use bottom view otherwise use top view
+                this.rendered[screen] = true
+            end
         end
     }
 end
@@ -56,7 +75,8 @@ newModel = function()
         dt = 0,
         animations = {},
         sounds = {},
-        getbyid = {}
+        getbyid = {},
+        rendering = true
     }
 end
 
@@ -109,25 +129,6 @@ newUpdater = function()
         ["stopsound"] = {
             function(model, sound)
                 love.audio.stop(model.sounds[sound])
-            end
-        },
-        ["updateanimations"] = {
-            function(model, dt)
-                model.t = model.t + dt
-                model.dt = dt
-                for _, anim in pairs(model.animations) do
-                    if anim.name ~= "" then
-                        anim.dt = anim.dt + dt
-                        if anim.dt > anim.durations[anim.current_frame] / 1000 then
-                            anim.dt = 0
-                            if anim.current_frame == anim.n_frames then
-                                anim.current_frame = 1
-                            else
-                                anim.current_frame = anim.current_frame + 1
-                            end
-                        end
-                    end
-                end
             end
         }
     }
