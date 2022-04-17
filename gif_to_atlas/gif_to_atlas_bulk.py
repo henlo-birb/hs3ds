@@ -4,8 +4,8 @@ import os
 import argparse
 import luadata
 import math
-from threading import Timer
-from progressbar import ProgressBar
+import time
+from multiprocessing import Pool
 
 parser = argparse.ArgumentParser(
     description="convert gif to simple texture atlas")
@@ -18,24 +18,10 @@ args = parser.parse_args()
 
 gifs = [a for a in os.listdir(".") if a.endswith(".gif")]
 
-bar_len = 0
-if not args.j:
-    for g in gifs:
-        with Image.open(g) as im:
-            bar_len += math.ceil(im.n_frames / 12)
-else:
-    bar_len = len(gifs)
-
-bar = ProgressBar(max_value=bar_len).start()
-def update_bar():
-    if not bar.value == bar.max_value:
-        bar.update()
-        Timer(1.0, update_bar).start()
-update_bar()
 
 os.system("mkdir -p animations")
-for g in gifs:
-    bar.update()
+
+def f(g):
     cols = 3
     rows = 4
     scale = args.s or 50
@@ -87,6 +73,10 @@ for g in gifs:
                     cmd = f"tex3ds {pil_output} -o animations/{output_tex} > /dev/null"  # generate t3x file, 1 indexed because lua is stupid
                     os.system(cmd)
                     os.system(f"rm {pil_output}")
-                bar.value += 1
-        else:
-            bar.value += 1
+
+start = time.time()
+
+with Pool(5) as p:
+    p.map(f, gifs)
+
+print(f"time elapsed: {time.time() - start}")
