@@ -12,5 +12,5 @@ return {
 	previous = 6505,
 	theme = "A6A6",
 	page_id = 6506,
-	long_title = false,
+	title_len = 3,
 }

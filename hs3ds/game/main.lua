@@ -1,4 +1,5 @@
 require("elems")
+require("custom_elems")
 require("maplesyrup")
 require("utils")
 
@@ -7,27 +8,37 @@ bottomdims = {love.graphics.getDimensions("bottom")}
 courier = love.graphics.newFont("courier.bcfnt")
 default_font = love.graphics.getFont()
 topview = {
-    Rectangle(0, 0, topdims[1], topdims[2], {0.776, 0.776, 0.776}), {
-        {   Rectangle(30, 0, 325, 30, {0.933, 0.933, 0.933}), {}}, {
+    Rectangle(0, 0, topdims[1], topdims[2], {0.77647, 0.77647, 0.77647}), {
+        {Rectangle(50, function (this)
+            return -app.model.image_scroll_y
+        end, 299, 30, {0.933, 0.933, 0.933}), {}}, {
             Text(function(this)
                 return {{0, 0, 0}, app.model.current_page.title}
-            end, courier, 0, 5, function(this)
-                return app.model.current_page.long_title and topdims[1] or
-                           topdims[1] / 2
+            end, courier, function(this)
+                return
+                    app.model.current_page.title_len > 25 and 50 or
+                        0
+            end, function(this) return 5 - app.model.image_scroll_y end, function(this)
+                return app.model.current_page.title_len > 25 and topdims[1] *
+                           .75 or topdims[1] / 2
             end, "center"):p({
                 sx = function(this)
-                    return app.model.current_page.long_title and 1 or 2
+                    return app.model.current_page.title_len > 20 and 1 or 2
                 end,
                 sy = function(this)
-                    return app.model.current_page.long_title and 1 or 2
+                    return app.model.current_page.title_len > 20 and 1 or 2
                 end
             }), {}
         }, {
-            Animation(function(this)
-                local ret = app.model.current_page.media[1]
-                if ret:sub(-4) == ".swf" then ret = "" end
+            MultAnimation(function(this)
+                local ret = app.model.current_page.media
+                if ret[1]:sub(-4) == ".swf" then ret = {} end
                 return ret
-            end, 30, 30):p({["id"] = "anim"}), {}
+            end, 50, 30):p({["id"] = "anim"}):p({
+                scroll_y = function(this)
+                    return app.model.image_scroll_y
+                end
+            }), {}
         }
     }
 }
@@ -39,9 +50,9 @@ bottomview = {
                 return app.model.current_page.content
             end, courier, 10, 5, bottomdims[1] * 0.75, "center",
                            bottomdims[2] * 0.8,
-                           function(this) return app.model.scroll_y end):p({
-                ["id"] = "scroll_text"
-            }), {}
+                           function(this)
+                return app.model.text_scroll_y
+            end):p({["id"] = "scroll_text"}), {}
         }, {
             Button(function(this)
                 return {{0, 0, 0}, "> ", {0, 0, 1}, app.model.next_page.title}
@@ -56,34 +67,41 @@ app = initApp({
     topview = topview,
     bottomview = bottomview,
     model = {
-        page_id = 1,
-        current_page = require("pages.1"),
-        next_page = require("pages.2"),
-        scroll_y = 0,
-        scrolling = 0
+        page_id = 8,
+        current_page = require("pages.8"),
+        next_page = require("pages.9"),
+        text_scroll_y = 0,
+        image_scroll_y = 0,
+        text_scrolling = 0,
+        image_scrolling = 0,
+        j = love.joystick.getJoysticks()[1]
     }
 })
 
 app:addUpdater("gamepadpressed", function(model, button)
     if button == "start" then
         love.event.quit()
-    elseif button == "a" or button == "dpright" then
+    elseif button == "dpright" then
         if model.current_page.next[1] then
             app:push("gotopage", model.current_page.next[1])
         end
-    elseif button == "b" or button == "dpleft" then
+    elseif button == "dpleft" then
         if model.current_page.previous then
             app:push("gotopage", model.current_page.previous)
         end
     elseif button == "dpup" then
-        model.scrolling = -2
+        model.text_scrolling = -2
     elseif button == "dpdown" then
-        model.scrolling = 2
+        model.text_scrolling = 2
     end
 end)
 
 app:addUpdater("gamepadreleased", function(model, button)
-    if button == "dpup" or button == "dpdown" then model.scrolling = 0 end
+    if button == "dpup" or button == "dpdown" then model.text_scrolling = 0 end
+end)
+
+app:addUpdater("gamepadaxis", function(model, axis)
+    _, model.image_scrolling = model.j:getAxes()
 end)
 
 app:addUpdater("gotopage", function(model, page_id)
@@ -113,10 +131,22 @@ function love.touchreleased(id, x, y, dx, dy, pressure)
 end
 
 function love.update(dt)
+    if app.model.text_scrolling ~= 0 then
+        app.model.text_scroll_y =
+            app.model.getbyid["scroll_text"].last_scroll_y +
+                app.model.text_scrolling
+    end
+
+    if math.abs(app.model.image_scrolling) > 0.2 then
+        app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y +
+                                       app.model.image_scrolling * 5
+    end
     app:update(dt)
-    if app.model.scrolling ~= 0 then
-        app.model.scroll_y = app.model.getbyid["scroll_text"].last_scroll_y +
-                                 app.model.scrolling
+    if app.model.getbyid["anim"] then
+        app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y
+    end
+    if app.model.getbyid["scroll_text"] then
+        app.model.text_scroll_y = app.model.getbyid["scroll_text"].last_scroll_y
     end
 end
 
@@ -125,3 +155,5 @@ function love.draw(screen) app:render(screen) end
 function love.gamepadpressed(_, button) app:push("gamepadpressed", button) end
 
 function love.gamepadreleased(_, button) app:push("gamepadreleased", button) end
+
+function love.gamepadaxis(_, axis, value) app:push("gamepadaxis", axis) end

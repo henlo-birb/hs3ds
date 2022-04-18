@@ -75,5 +75,5 @@ return {
 	},
 	previous = 6621,
 	page_id = 6622,
-	long_title = false,
+	title_len = 14,
 }

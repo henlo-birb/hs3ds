@@ -103,5 +103,5 @@ return {
 	},
 	previous = 300,
 	page_id = 301,
-	long_title = true,
+	title_len = 49,
 }

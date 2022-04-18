@@ -600,5 +600,5 @@ return {
 	},
 	previous = 5690,
 	page_id = 5691,
-	long_title = false,
+	title_len = 13,
 }

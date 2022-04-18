@@ -117,5 +117,5 @@ return {
 	},
 	theme = "A6A6",
 	page_id = 6244,
-	long_title = false,
+	title_len = 9,
 }

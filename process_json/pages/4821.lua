@@ -1010,5 +1010,5 @@ return {
 	},
 	next = {},
 	page_id = 4821,
-	long_title = false,
+	title_len = 2,
 }

@@ -11,5 +11,5 @@ return {
 	content = {},
 	next = {},
 	page_id = 8130,
-	long_title = false,
+	title_len = 7,
 }

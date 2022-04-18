@@ -11,5 +11,5 @@ return {
 	content = {},
 	next = {},
 	page_id = "darkcage",
-	long_title = false,
+	title_len = 22,
 }

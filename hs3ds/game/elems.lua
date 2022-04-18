@@ -1,5 +1,5 @@
 require("utils")
-local function makeC(this)
+function makeC(this)
     return function(a)
         ret = a
         if type(a) == "function" then ret = a(this) end
@@ -7,7 +7,7 @@ local function makeC(this)
     end
 end
 
-local function getX(this, c)
+function getX(this, c)
     local x = c(this.x)
     if this.parent and this.position ~= "absolute" then
         x = x + getX(this.parent, makeC(this.parent))
@@ -15,7 +15,7 @@ local function getX(this, c)
     return x
 end
 
-local function getY(this, c)
+function getY(this, c)
     local y = c(this.y)
     if this.parent and this.position ~= "absolute" then
         y = y + getY(this.parent, makeC(this.parent))
@@ -68,14 +68,18 @@ end
 
 local function renderText(this, app)
     local c = makeC(this)
+    love.graphics.draw(this.text_obj, getX(this, c), getY(this, c), c(this.r),
+                       c(this.sx), c(this.sy), c(this.ox), c(this.oy),
+                       c(this.kx), c(this.ky))
+end
+
+local function updateText(this, app)
+    local c = makeC(this)
     local text = c(this.coloredtext)
     if this.last_text ~= text then
         this.text_obj:setf(text, c(this.wrap_limit), c(this.align))
         this.last_text = text
     end
-    love.graphics.draw(this.text_obj, getX(this, c), getY(this, c), c(this.r),
-                       c(this.sx), c(this.sy), c(this.ox), c(this.oy),
-                       c(this.kx), c(this.ky))
 end
 
 function Text(coloredtext, font, x, y, wrap_limit, align)
@@ -102,11 +106,38 @@ function Text(coloredtext, font, x, y, wrap_limit, align)
         end,
         align = align or "left",
         render = renderText,
+        update = updateText,
         p = merge
     }
 end
 
 local function renderScrollableText(this, app)
+    local c = makeC(this)
+    local font = c(this.font)
+    if font ~= this.last_font then
+        this.text_obj:setFont(font)
+        this.last_font = font
+    end
+    local text = c(this.coloredtext)
+    local wrap_limit = c(this.wrap_limit)
+    local view_height = c(this.view_height)
+
+    local scroll_y = c(this.scroll_y)
+
+    if #text > 0 then
+        love.graphics.setCanvas()
+        love.graphics.setScissor(getX(this, c), getY(this, c), wrap_limit,
+                                 view_height)
+        love.graphics.draw(this.text_obj, getX(this, c),
+                           getY(this, c) - scroll_y, c(this.r), c(this.sx),
+                           c(this.sy), c(this.ox), c(this.oy), c(this.kx),
+                           c(this.ky))
+        love.graphics.setScissor()
+    end
+
+end
+
+local function updateScrollableText(this, app)
     local c = makeC(this)
     local font = c(this.font)
     if font ~= this.last_font then
@@ -133,56 +164,30 @@ local function renderScrollableText(this, app)
         this.scroll_start = true
         this.scroll_end = true
     end
-
-    if scroll_y ~= this.last_scroll_y and #text > num_lines * 2 then
+    
+    if scroll_y ~= this.last_scroll_y then
         if scroll_y > font:getHeight() then
-            this.scroll_start = false
-            this.scroll_end = false
-            if this.current_line < #text - (num_lines - 2) * 2 then
+            if this.current_line < #text - (num_lines - 3) * 2 then
                 scroll_y = scroll_y - font:getHeight()
-                this.current_line = this.current_line + 2
-                this.lines = {
-                    unpack(text, this.current_line,
-                           this.current_line + (num_lines - 1) * 2)
-                }
+                this.current_line = this.current_line + 1
+                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines) * 2)}
                 this.text_obj:setf(this.lines, wrap_limit, align)
             else
-                this.scroll_end = true
                 scroll_y = this.last_scroll_y
             end
         elseif scroll_y < 0 then
-            if this.current_line > 2 then
-                this.scroll_start = false
-                this.scroll_end = false
+            if this.current_line > 1 then
                 scroll_y = scroll_y + font:getHeight()
-                this.current_line = this.current_line - 2
-                this.lines = {
-                    unpack(text, this.current_line,
-                           this.current_line + (num_lines - 1) * 2)
-                }
+                this.current_line = this.current_line - 1
+                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines) * 2)}
                 this.text_obj:setf(this.lines, wrap_limit, align)
             else
-                this.scroll_start = true
                 scroll_y = this.last_scroll_y
             end
         end
-
+        
         this.last_scroll_y = scroll_y
-    else
-        scroll_y = this.last_scroll_y
     end
-
-    if #text > 0 then
-        love.graphics.setCanvas()
-        love.graphics.setScissor(getX(this, c), getY(this, c), wrap_limit,
-                                 view_height)
-        love.graphics.draw(this.text_obj, getX(this, c),
-                           getY(this, c) - scroll_y, c(this.r), c(this.sx),
-                           c(this.sy), c(this.ox), c(this.oy), c(this.kx),
-                           c(this.ky))
-        love.graphics.setScissor()
-    end
-
 end
 
 function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
@@ -225,19 +230,24 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
         current_line = 1,
         align = align or "left",
         render = renderScrollableText,
+        update = updateScrollableText,
         p = merge
     }
 end
 local function renderImage(this, app)
+    local c = makeC(this)
+    love.graphics.setColor(1, 1, 1)
+    love.graphics.draw(this.image, getX(this, c), getY(this, c), 0, c(this.sx),
+                       c(this.sy))
+end
+
+local function updateImage(this, app)
     local c = makeC(this)
     local new_filename = c(this.filename)
     if new_filename ~= this.old_filename then
         this.image = love.graphics.newImage(new_filename)
         this.old_filename = new_filename
     end
-    love.graphics.setColor(1, 1, 1)
-    love.graphics.draw(this.image, getX(this, c), getY(this, c), 0, c(this.sx),
-                       c(this.sy))
 end
 
 function Image(filename, x, y, sx, sy)
@@ -251,6 +261,7 @@ function Image(filename, x, y, sx, sy)
         sx = sx or 1,
         sy = sy or 1,
         render = renderImage,
+        update = updateImage,
         p = merge
     }
 end
@@ -258,19 +269,24 @@ end
 local function renderAnimation(this, app)
     local c = makeC(this)
     local name = c(this.name)
+    if name ~= "" then
+        local quad = (this.current_frame - 1) % this.n_quads + 1
+        local atlas = math.floor((this.current_frame - 1) / this.n_quads) + 1
+        love.graphics.setColor(1, 1, 1)
+        love.graphics.draw(this.atlases[atlas], this.quads[quad], getX(this, c),
+                           getY(this, c), 0, c(this.sx), c(this.sy))
+    end
+
+end
+
+local function updateAnimation(this, app, dt)
+    local c = makeC(this)
+    local name = c(this.name)
     if name ~= this.last_name then
-        for _, atlas in pairs(this.atlases) do
-            atlas:release()
-            atlas = nil
-        end
-        this.atlases = {}
-        for _, quad in pairs(this.quads) do
-            quad:release()
-            quad = nil
-        end
+        this:release()
         this.quads = {}
         this.current_frame = 1
-        if name then
+        if name and name ~= "" then
             local anim = require("animations." .. name)
             this:p(anim)
             this.current_frame = 1
@@ -297,15 +313,18 @@ local function renderAnimation(this, app)
 
         this.last_name = name
     end
-
-    if name ~= "" then
-        local quad = (this.current_frame - 1) % this.n_quads + 1
-        local atlas = math.floor((this.current_frame - 1) / this.n_quads) + 1
-        love.graphics.setColor(1, 1, 1)
-        love.graphics.draw(this.atlases[atlas], this.quads[quad], getX(this, c),
-                           getY(this, c), 0, c(this.sx), c(this.sy))
+    if this.name ~= "" and this.animated then
+        this.dt = this.dt + dt
+        if #this.durations > 0 and this.dt > this.durations[this.current_frame] /
+            1000 then
+            this.dt = 0
+            if this.current_frame == this.n_frames then
+                this.current_frame = 1
+            else
+                this.current_frame = this.current_frame + 1
+            end
+        end
     end
-
 end
 
 function Animation(name, x, y, sx, sy, looping)
@@ -315,9 +334,9 @@ function Animation(name, x, y, sx, sy, looping)
         name = name,
         last_name = "",
         frame_wait = false,
-        atlas_data = {},
         atlases = {},
         quads = {},
+        n_frames = 0,
         n_atlases = 0,
         n_quads = 0,
         durations = {},
@@ -325,21 +344,23 @@ function Animation(name, x, y, sx, sy, looping)
         dt = 0,
         x = x or 0,
         y = y or 0,
+        width = 0,
+        height = 0,
         sx = sx or 1,
         sy = sy or 1,
         looping = looping == nil or looping, -- default true
+        animated = false,
         render = renderAnimation,
-        update = function(this, app, dt)
-            if this.name ~= "" then
-                this.dt = this.dt + dt
-                if #this.durations > 0  and this.dt > this.durations[this.current_frame] / 1000 then
-                    this.dt = 0
-                    if this.current_frame == this.n_frames then
-                        this.current_frame = 1
-                    else
-                        this.current_frame = this.current_frame + 1
-                    end
-                end
+        update = updateAnimation,
+        release = function(this)
+            for _, atlas in pairs(this.atlases) do
+                atlas:release()
+                atlas = nil
+            end
+            this.atlases = {}
+            for _, quad in pairs(this.quads) do
+                quad:release()
+                quad = nil
             end
         end,
         p = merge
@@ -354,34 +375,53 @@ local function renderButton(this, app)
     local x = getX(this, c)
     local y = getY(this, c)
     local r = c(this.radius)
-    local text_string = text
-    if type(text) == "table" then
-        text_string = ""
-        for i = 2, #text, 2 do text_string = text_string .. text[i] end
-    end
-    local rectWidth = font:getWidth(text_string) + padding * 2 + 7
-    local rectHeight = font:getHeight() + padding * 2
 
-    this.is_pressed = app.model.touching and
-                         (app.model.touchpos.x > x and app.model.touchpos.x < x +
-                             rectWidth) and
-                         (app.model.touchpos.y > y and app.model.touchpos.y < y +
-                             rectHeight)
-
-    if this.is_pressed and not this.was_pressed then this:on_click() end
-    this.was_pressed = this.is_pressed
+    this.rect_width = font:getWidth(this.text_string) + padding * 2 + 7
+    this.rect_height = font:getHeight() + padding * 2
 
     love.graphics.setColor(c(this.background_color))
-    love.graphics.rectangle("fill", x, y, rectWidth, rectHeight, r, r)
+    love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, r,
+                            r)
     love.graphics.setCanvas()
     love.graphics.printf(text, x + padding, y + padding, c(this.wrap_limit))
 end
+
+local function updateButton(this, app)
+    c = makeC(this)
+    local x = getX(this, c)
+    local y = getY(this, c)
+    local text = c(this.text)
+    if text ~= this.last_text then
+        this.text_string = text
+        if type(text) == "table" then
+            this.text_string = ""
+            for i = 2, #text, 2 do
+                this.text_string = this.text_string .. text[i]
+            end
+        end
+        this.last_text = text
+    end
+
+    this.is_pressed = app.model.touching and
+                          (app.model.touchpos.x > x and app.model.touchpos.x < x +
+                              this.rect_width) and
+                          (app.model.touchpos.y > y and app.model.touchpos.y < y +
+                              this.rect_height)
+
+    if this.is_pressed and not this.was_pressed then this:on_click() end
+    this.was_pressed = this.is_pressed
+end
+
 function Button(text, x, y, on_click)
     return {
         type = "button",
         x = x or 0,
         y = y or 0,
         text = text,
+        last_text = {},
+        text_string = "",
+        rect_width = 0,
+        rect_height = 0,
         on_click = on_click or function(this) end,
         is_pressed = false,
         was_pressed = false,
@@ -396,6 +436,7 @@ function Button(text, x, y, on_click)
         end,
         radius = 5,
         render = renderButton,
+        update = updateButton,
         p = merge
     }
 end

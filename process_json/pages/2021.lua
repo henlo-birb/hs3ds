@@ -35,5 +35,5 @@ return {
 	},
 	previous = 2020,
 	page_id = 2021,
-	long_title = false,
+	title_len = 25,
 }

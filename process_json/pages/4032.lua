@@ -19,5 +19,5 @@ return {
 	},
 	theme = "scratch",
 	page_id = 4032,
-	long_title = false,
+	title_len = 3,
 }

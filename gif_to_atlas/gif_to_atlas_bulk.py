@@ -13,6 +13,7 @@ parser.add_argument("-j",
                     action="store_true",
                     help="just generate data, not atlases")
 parser.add_argument("-s", type=int, help="percentage scale factor")
+parser.add_argument("-f", action="store_true", help="force regenerate all images even if they already exist")
 
 args = parser.parse_args()
 
@@ -68,7 +69,7 @@ def f(g):
         if not args.j:
             for i, atl in enumerate(atlases):
                 output_tex = g.replace('.gif', f'_{i + 1}.t3x')
-                if not output_tex in os.listdir("animations"):
+                if args.f or not output_tex in os.listdir("animations"):
                     atl.save(pil_output)  # save atlas to png
                     cmd = f"tex3ds {pil_output} -o animations/{output_tex} > /dev/null"  # generate t3x file, 1 indexed because lua is stupid
                     os.system(cmd)

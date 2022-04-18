@@ -947,5 +947,5 @@ return {
 	},
 	next = {},
 	page_id = 4826,
-	long_title = false,
+	title_len = 2,
 }

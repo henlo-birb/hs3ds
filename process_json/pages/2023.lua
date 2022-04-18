@@ -62,5 +62,5 @@ return {
 	},
 	previous = 2022,
 	page_id = 2023,
-	long_title = false,
+	title_len = 7,
 }

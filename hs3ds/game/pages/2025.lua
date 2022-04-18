@@ -363,5 +363,5 @@ return {
 	},
 	previous = 2024,
 	page_id = 2025,
-	long_title = true,
+	title_len = 34,
 }

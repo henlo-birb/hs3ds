@@ -27,5 +27,5 @@ return {
 	},
 	previous = 2021,
 	page_id = 2022,
-	long_title = false,
+	title_len = 7,
 }

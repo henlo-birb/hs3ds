@@ -69,5 +69,5 @@ return {
 	previous = 5717,
 	theme = "trickster",
 	page_id = 5718,
-	long_title = false,
+	title_len = 3,
 }

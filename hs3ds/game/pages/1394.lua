@@ -1972,5 +1972,5 @@ return {
 	},
 	previous = 1393,
 	page_id = 1394,
-	long_title = false,
+	title_len = 19,
 }

@@ -97,7 +97,7 @@ for k, v in hs_filtered.items():
         max_medias = len(v["media"])
     
     v["page_id"] = conv_key(v["pageId"])
-    v["long_title"] = len(v["title"]) > 32
+    v["title_len"] = len(v["title"])
     del(v["pageId"])
     if "previous" in v:
         v["previous"] = conv_key(v["previous"])

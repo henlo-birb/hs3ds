@@ -82,5 +82,5 @@ return {
 	},
 	previous = 8031,
 	page_id = 8032,
-	long_title = false,
+	title_len = 14,
 }

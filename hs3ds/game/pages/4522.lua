@@ -104,5 +104,5 @@ return {
 	},
 	previous = 4521,
 	page_id = 4522,
-	long_title = false,
+	title_len = 25,
 }

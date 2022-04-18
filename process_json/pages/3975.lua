@@ -341,5 +341,5 @@ return {
 	},
 	theme = "scratch",
 	page_id = 3975,
-	long_title = false,
+	title_len = 3,
 }

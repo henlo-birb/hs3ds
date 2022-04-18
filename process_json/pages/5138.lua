@@ -95,5 +95,5 @@ return {
 		5139,
 	},
 	page_id = 5138,
-	long_title = false,
+	title_len = 8,
 }

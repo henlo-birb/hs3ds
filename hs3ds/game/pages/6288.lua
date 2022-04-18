@@ -39,5 +39,5 @@ return {
 		6289,
 	},
 	page_id = 6288,
-	long_title = false,
+	title_len = 14,
 }

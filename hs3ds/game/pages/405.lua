@@ -125,5 +125,5 @@ return {
 	},
 	previous = 404,
 	page_id = 405,
-	long_title = true,
+	title_len = 37,
 }

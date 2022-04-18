@@ -1930,5 +1930,5 @@ return {
 	},
 	previous = 4143,
 	page_id = 4144,
-	long_title = false,
+	title_len = 13,
 }

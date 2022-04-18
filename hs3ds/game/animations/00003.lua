@@ -1,7 +1,7 @@
 return {
 	n_frames = 19,
-	width = 325,
-	height = 225,
+	width = 299,
+	height = 207,
 	cols = 3,
 	rows = 4,
 	durations = {
@@ -25,8 +25,8 @@ return {
 		50,
 		2000,
 	},
-	atlas_width = 975,
-	atlas_height = 900,
+	atlas_width = 897,
+	atlas_height = 828,
 	animated = true,
 	n_atlases = 2,
 }

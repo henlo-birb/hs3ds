@@ -56,5 +56,5 @@ return {
 	previous = 3979,
 	theme = "scratch",
 	page_id = 3980,
-	long_title = false,
+	title_len = 7,
 }

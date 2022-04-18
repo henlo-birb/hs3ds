@@ -41,5 +41,5 @@ return {
 	previous = 4081,
 	theme = "sbahj",
 	page_id = 4082,
-	long_title = false,
+	title_len = 4,
 }

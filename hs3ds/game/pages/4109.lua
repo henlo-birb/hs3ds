@@ -15,5 +15,5 @@ return {
 	previous = 4108,
 	theme = "cascade",
 	page_id = 4109,
-	long_title = false,
+	title_len = 12,
 }

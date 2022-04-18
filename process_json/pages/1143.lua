@@ -11,5 +11,5 @@ return {
 	},
 	previous = 1142,
 	page_id = 1143,
-	long_title = false,
+	title_len = 3,
 }

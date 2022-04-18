@@ -15,5 +15,5 @@ return {
 	previous = 8086,
 	theme = "collide",
 	page_id = 8087,
-	long_title = false,
+	title_len = 12,
 }
