@@ -134,7 +134,6 @@ local function renderScrollableText(this, app)
                            c(this.ky))
         love.graphics.setScissor()
     end
-
 end
 
 local function updateScrollableText(this, app)
@@ -148,50 +147,45 @@ local function updateScrollableText(this, app)
     local wrap_limit = c(this.wrap_limit)
     local view_height = c(this.view_height)
     local num_lines = math.floor(view_height / font:getHeight())
+    local text_lines = #text / 2
 
-    local scroll_y = c(this.scroll_y)
+    local scroll_delta = c(this.scroll_delta)
     local align = c(this.align)
 
     if this.last_text ~= text then
-        scroll_y = 0
+        this.scroll_y = 0
         this.current_line = 1
         this.lines = {unpack(text, 1, (num_lines - 1) * 2)}
         this.text_obj:setf(this.lines, wrap_limit, align)
         this.last_text = text
     end
 
-    if #text < num_lines * 2 then
+    if text_lines < num_lines then
         this.scroll_start = true
         this.scroll_end = true
-    end
-    
-    if scroll_y ~= this.last_scroll_y then
-        if scroll_y > font:getHeight() then
-            if this.current_line < #text - (num_lines - 3) * 2 then
-                scroll_y = scroll_y - font:getHeight()
+    elseif scroll_delta ~= 0 then
+        if this.scroll_y + scroll_delta > font:getHeight() then
+            if this.current_line < text_lines - num_lines + 2 then
+                this.scroll_y = 0
                 this.current_line = this.current_line + 1
-                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines) * 2)}
-                this.text_obj:setf(this.lines, wrap_limit, align)
-            else
-                scroll_y = this.last_scroll_y
             end
-        elseif scroll_y < 0 then
+        elseif this.scroll_y + scroll_delta < 0 then
             if this.current_line > 1 then
-                scroll_y = scroll_y + font:getHeight()
+                this.scroll_y = font:getHeight()
                 this.current_line = this.current_line - 1
-                this.lines = {unpack(text, this.current_line, this.current_line + (num_lines) * 2)}
-                this.text_obj:setf(this.lines, wrap_limit, align)
-            else
-                scroll_y = this.last_scroll_y
             end
+        else
+            this.scroll_y = this.scroll_y + scroll_delta
         end
-        
-        this.last_scroll_y = scroll_y
+        this.start_idx = this.current_line * 2 - 1
+        this.end_idx = this.start_idx + num_lines * 2
+        this.lines = {unpack(text, this.start_idx, this.end_idx)}
+        this.text_obj:setf(this.lines, wrap_limit, align)
     end
 end
 
 function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
-                        scroll_y)
+                        scroll_delta)
     local font = font or love.graphics.getFont()
     return {
         type = "text",
@@ -205,6 +199,8 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
         end_idx = 2,
         scroll_start = true,
         scroll_end = false,
+        scroll_delta = scroll_delta or 0,
+        num_updates = 0,
         x = x or 0,
         y = y or 0,
         r = 0,
@@ -225,8 +221,7 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
             this.view_height = height
             return height
         end,
-        scroll_y = scroll_y or 0,
-        last_scroll_y = -1,
+        scroll_y = 0,
         current_line = 1,
         align = align or "left",
         render = renderScrollableText,
@@ -430,7 +425,8 @@ function Button(text, x, y, on_click)
         end,
         padding = 10,
         wrap_limit = function(this)
-            local width = love.graphics.getWidth(screen);
+            local c = makeC(this)
+            local width = love.graphics.getWidth(screen) - getX(this, c);
             this.wrap_limit = width;
             return width
         end,

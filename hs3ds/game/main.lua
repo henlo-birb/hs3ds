@@ -46,13 +46,9 @@ topview = {
 bottomview = {
     Rectangle(0, 0, bottomdims[1], bottomdims[2], {0.933, 0.933, 0.933}), {
         {
-            ScrollableText(function(this)
-                return app.model.current_page.content
-            end, courier, 10, 5, bottomdims[1] * 0.75, "center",
-                           bottomdims[2] * 0.8,
-                           function(this)
-                return app.model.text_scroll_y
-            end):p({["id"] = "scroll_text"}), {}
+            ScrollableText(function(this) return app.model.current_page.content end, 
+            courier, 10, 5, bottomdims[1] * 0.75, "center", bottomdims[2] * 0.8,
+            function(this) return app.model.text_delta_scroll end):p({["id"] = "scroll_text"}), {}
         }, {
             Button(function(this)
                 return {{0, 0, 0}, "> ", {0, 0, 1}, app.model.next_page.title}
@@ -67,12 +63,11 @@ app = initApp({
     topview = topview,
     bottomview = bottomview,
     model = {
-        page_id = 8,
-        current_page = require("pages.8"),
-        next_page = require("pages.9"),
-        text_scroll_y = 0,
+        page_id = 1,
+        current_page = require("pages.1"),
+        next_page = require("pages.2"),
         image_scroll_y = 0,
-        text_scrolling = 0,
+        text_delta_scroll = 0,
         image_scrolling = 0,
         j = love.joystick.getJoysticks()[1]
     }
@@ -90,14 +85,14 @@ app:addUpdater("gamepadpressed", function(model, button)
             app:push("gotopage", model.current_page.previous)
         end
     elseif button == "dpup" then
-        model.text_scrolling = -2
+        model.text_delta_scroll = -2
     elseif button == "dpdown" then
-        model.text_scrolling = 2
+        model.text_delta_scroll = 2
     end
 end)
 
 app:addUpdater("gamepadreleased", function(model, button)
-    if button == "dpup" or button == "dpdown" then model.text_scrolling = 0 end
+    if button == "dpup" or button == "dpdown" then model.text_delta_scroll = 0 end
 end)
 
 app:addUpdater("gamepadaxis", function(model, axis)
@@ -131,12 +126,6 @@ function love.touchreleased(id, x, y, dx, dy, pressure)
 end
 
 function love.update(dt)
-    if app.model.text_scrolling ~= 0 then
-        app.model.text_scroll_y =
-            app.model.getbyid["scroll_text"].last_scroll_y +
-                app.model.text_scrolling
-    end
-
     if math.abs(app.model.image_scrolling) > 0.2 then
         app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y +
                                        app.model.image_scrolling * 5
@@ -144,9 +133,6 @@ function love.update(dt)
     app:update(dt)
     if app.model.getbyid["anim"] then
         app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y
-    end
-    if app.model.getbyid["scroll_text"] then
-        app.model.text_scroll_y = app.model.getbyid["scroll_text"].last_scroll_y
     end
 end
 

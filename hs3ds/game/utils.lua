@@ -1,4 +1,11 @@
-
+function listtostring(t, sep) 
+    sep = sep or " "
+    local ret = ""
+    for _, v in pairs(t) do
+        ret = ret .. sep .. tostring(v)
+    end
+    return ret
+end
 
 function ttostring(t)
     local ret = ""
