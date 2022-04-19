@@ -3,6 +3,7 @@ require("custom_elems")
 require("maplesyrup")
 require("utils")
 
+TITLE_LIMIT = 20
 topdims = {love.graphics.getDimensions("top")}
 bottomdims = {love.graphics.getDimensions("bottom")}
 courier = love.graphics.newFont("courier.bcfnt")
@@ -16,17 +17,17 @@ topview = {
                 return {{0, 0, 0}, app.model.current_page.title}
             end, courier, function(this)
                 return
-                    app.model.current_page.title_len > 25 and 50 or
+                    app.model.current_page.title_len > TITLE_LIMIT and 50 or
                         0
             end, function(this) return 5 - app.model.image_scroll_y end, function(this)
-                return app.model.current_page.title_len > 25 and topdims[1] *
+                return app.model.current_page.title_len > TITLE_LIMIT and topdims[1] *
                            .75 or topdims[1] / 2
             end, "center"):p({
                 sx = function(this)
-                    return app.model.current_page.title_len > 20 and 1 or 2
+                    return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2
                 end,
                 sy = function(this)
-                    return app.model.current_page.title_len > 20 and 1 or 2
+                    return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2
                 end
             }), {}
         }, {
