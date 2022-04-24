@@ -1,6 +1,7 @@
 #include "modules/graphics/graphics.h"
 #include "modules/window/window.h"
 
+#include "common/bidirectionalmap.h"
 #include "modules/math/mathmodule.h"
 
 using namespace love;
@@ -112,6 +113,34 @@ bool Graphics::SetMode(int width, int height)
     return true;
 }
 
+/* Screen Stuff */
+void Graphics::SetActiveScreen(RenderScreen screen)
+{
+    Graphics::ACTIVE_SCREEN = screen;
+}
+
+const RenderScreen Graphics::GetActiveScreen() const
+{
+    return Graphics::ACTIVE_SCREEN;
+}
+
+const int Graphics::GetWidth(RenderScreen screen) const
+{
+    return Screen::Instance().GetWidth(screen);
+}
+
+const int Graphics::GetHeight() const
+{
+    return Screen::Instance().GetHeight();
+}
+
+std::vector<const char*> Graphics::GetScreens() const
+{
+    return Screen::Instance().GetConstants(Graphics::ACTIVE_SCREEN);
+}
+
+/* End Screen Stuff */
+
 Colorf Graphics::GetColor() const
 {
     return this->states.back().foreground;
@@ -169,6 +198,11 @@ bool Graphics::IsCanvasActive(Canvas* canvas) const
     const auto target = this->states.back().canvas;
 
     return target.Get() == canvas;
+}
+
+Video* Graphics::NewVideo(VideoStream* stream, float dpiscale)
+{
+    return new Video(this, stream, dpiscale);
 }
 
 bool Graphics::IsCanvasActive() const
@@ -283,6 +317,12 @@ Vector2 Graphics::InverseTransformPoint(Vector2 point)
 }
 
 /* Objects */
+
+Image* Graphics::NewImage(Texture::TextureType t, PixelFormat format, int width, int height,
+                          int slices)
+{
+    return new Image(t, format, width, height, slices);
+}
 
 Image* Graphics::NewImage(const Image::Slices& data)
 {
@@ -574,22 +614,53 @@ Graphics::LineJoin Graphics::GetLineJoin() const
     return this->states.back().lineJoin;
 }
 
+// clang-format off
+constexpr auto blendModes = BidirectionalMap<>::Create(
+    "alpha",     Graphics::BlendMode::BLEND_ALPHA,
+    "add",       Graphics::BlendMode::BLEND_ADD,
+    "subtract",  Graphics::BlendMode::BLEND_SUBTRACT,
+    "multiply",  Graphics::BlendMode::BLEND_MULTIPLY,
+    "lighten",   Graphics::BlendMode::BLEND_LIGHTEN,
+    "darken",    Graphics::BlendMode::BLEND_DARKEN,
+    "screen",    Graphics::BlendMode::BLEND_SCREEN,
+    "replace",   Graphics::BlendMode::BLEND_REPLACE,
+    "none",      Graphics::BlendMode::BLEND_NONE
+);
+
+constexpr auto drawModes = BidirectionalMap<>::Create(
+    "line", Graphics::DrawMode::DRAW_LINE,
+    "fill", Graphics::DrawMode::DRAW_FILL
+);
+
+constexpr auto arcModes = BidirectionalMap<>::Create(
+    "open",   Graphics::ArcMode::ARC_OPEN,
+    "closed", Graphics::ArcMode::ARC_CLOSED,
+    "pie",    Graphics::ArcMode::ARC_PIE
+);
+
+constexpr auto blendAlphaModes = BidirectionalMap<>::Create(
+    "alphamultiply", Graphics::BlendAlpha::BLENDALPHA_MULTIPLY,
+    "premultiplied", Graphics::BlendAlpha::BLENDALPHA_PREMULTIPLIED
+);
+
+constexpr auto stackTypes = BidirectionalMap<>::Create(
+    "all",       Graphics::StackType::STACK_ALL,
+    "transform", Graphics::StackType::STACK_TRANSFORM
+);
+
+constexpr auto lineJoins = BidirectionalMap<>::Create(
+    "none",  Graphics::LINE_JOIN_NONE,
+    "miter", Graphics::LINE_JOIN_MITER,
+    "bevel", Graphics::LINE_JOIN_BEVEL
+);
+
+constexpr auto lineStyles = BidirectionalMap<>::Create(
+    "smooth", Graphics::LINE_SMOOTH,
+    "rough",  Graphics::LINE_ROUGH
+);
+// clang-format on
+
 /* Constants */
-
-bool Graphics::GetConstant(const char* in, Screen& out)
-{
-    return screens.Find(in, out);
-}
-
-bool Graphics::GetConstant(Screen in, const char*& out)
-{
-    return screens.Find(in, out);
-}
-
-std::vector<const char*> Graphics::GetConstants(Screen)
-{
-    return screens.GetNames();
-}
 
 bool Graphics::GetConstant(const char* in, DrawMode& out)
 {
@@ -598,7 +669,7 @@ bool Graphics::GetConstant(const char* in, DrawMode& out)
 
 bool Graphics::GetConstant(DrawMode in, const char*& out)
 {
-    return drawModes.Find(in, out);
+    return drawModes.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(DrawMode)
@@ -613,7 +684,7 @@ bool Graphics::GetConstant(const char* in, ArcMode& out)
 
 bool Graphics::GetConstant(ArcMode in, const char*& out)
 {
-    return arcModes.Find(in, out);
+    return arcModes.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(ArcMode)
@@ -628,7 +699,7 @@ bool Graphics::GetConstant(const char* in, BlendMode& out)
 
 bool Graphics::GetConstant(BlendMode in, const char*& out)
 {
-    return blendModes.Find(in, out);
+    return blendModes.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(BlendMode)
@@ -643,7 +714,7 @@ bool Graphics::GetConstant(const char* in, BlendAlpha& out)
 
 bool Graphics::GetConstant(BlendAlpha in, const char*& out)
 {
-    return blendAlphaModes.Find(in, out);
+    return blendAlphaModes.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(BlendAlpha)
@@ -658,7 +729,7 @@ bool Graphics::GetConstant(const char* in, StackType& out)
 
 bool Graphics::GetConstant(StackType in, const char*& out)
 {
-    return stackTypes.Find(in, out);
+    return stackTypes.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(StackType)
@@ -673,7 +744,7 @@ bool Graphics::GetConstant(const char* in, LineJoin& out)
 
 bool Graphics::GetConstant(LineJoin in, const char*& out)
 {
-    return lineJoins.Find(in, out);
+    return lineJoins.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(LineJoin)
@@ -688,77 +759,10 @@ bool Graphics::GetConstant(const char* in, LineStyle& out)
 
 bool Graphics::GetConstant(LineStyle in, const char*& out)
 {
-    return lineStyles.Find(in, out);
+    return lineStyles.ReverseFind(in, out);
 }
 
 std::vector<const char*> Graphics::GetConstants(LineStyle)
 {
     return lineStyles.GetNames();
 }
-
-// clang-format off
-constexpr StringMap<Graphics::BlendMode, Graphics::BLEND_MAX_ENUM>::Entry blendModeEntries[] =
-{
-    { "alpha",     Graphics::BlendMode::BLEND_ALPHA    },
-    { "add",       Graphics::BlendMode::BLEND_ADD      },
-    { "subtract",  Graphics::BlendMode::BLEND_SUBTRACT },
-    { "multiply",  Graphics::BlendMode::BLEND_MULTIPLY },
-    { "lighten",   Graphics::BlendMode::BLEND_LIGHTEN  },
-    { "darken",    Graphics::BlendMode::BLEND_DARKEN   },
-    { "screen",    Graphics::BlendMode::BLEND_SCREEN   },
-    { "replace",   Graphics::BlendMode::BLEND_REPLACE  },
-    { "none",      Graphics::BlendMode::BLEND_NONE     },
-};
-
-constinit const StringMap<Graphics::BlendMode, Graphics::BLEND_MAX_ENUM> Graphics::blendModes(blendModeEntries);
-
-constexpr StringMap<Graphics::DrawMode, Graphics::DRAW_MAX_ENUM>::Entry drawModeEntries[] =
-{
-    { "line", Graphics::DrawMode::DRAW_LINE },
-    { "fill", Graphics::DrawMode::DRAW_FILL }
-};
-
-constinit const StringMap<Graphics::DrawMode, Graphics::DRAW_MAX_ENUM> Graphics::drawModes(drawModeEntries);
-
-constexpr StringMap<Graphics::ArcMode, Graphics::ARC_MAX_ENUM>::Entry arcModeEntries[] =
-{
-    { "open",   Graphics::ArcMode::ARC_OPEN   },
-    { "closed", Graphics::ArcMode::ARC_CLOSED },
-    { "pie",    Graphics::ArcMode::ARC_PIE    },
-};
-
-constinit const StringMap<Graphics::ArcMode, Graphics::ARC_MAX_ENUM> Graphics::arcModes(arcModeEntries);
-
-constexpr StringMap<Graphics::BlendAlpha, Graphics::BLENDALPHA_MAX_ENUM>::Entry blendAlphaEntries[] =
-{
-    { "alphamultiply", Graphics::BlendAlpha::BLENDALPHA_MULTIPLY      },
-    { "premultiplied", Graphics::BlendAlpha::BLENDALPHA_PREMULTIPLIED },
-};
-
-constinit const StringMap<Graphics::BlendAlpha, Graphics::BLENDALPHA_MAX_ENUM> Graphics::blendAlphaModes(blendAlphaEntries);
-
-constexpr StringMap<Graphics::StackType, Graphics::STACK_MAX_ENUM>::Entry stackTypeEntries[] =
-{
-    { "all",       Graphics::StackType::STACK_ALL       },
-    { "transform", Graphics::StackType::STACK_TRANSFORM }
-};
-
-constinit const StringMap<Graphics::StackType, Graphics::STACK_MAX_ENUM> Graphics::stackTypes(stackTypeEntries);
-
-constexpr StringMap<Graphics::LineJoin, Graphics::LINE_JOIN_MAX_ENUM>::Entry lineJoinEntries[] =
-{
-    { "none",  Graphics::LINE_JOIN_NONE  },
-    { "miter", Graphics::LINE_JOIN_MITER },
-    { "bevel", Graphics::LINE_JOIN_BEVEL }
-};
-
-constinit const StringMap<Graphics::LineJoin, Graphics::LINE_JOIN_MAX_ENUM> Graphics::lineJoins(lineJoinEntries);
-
-constexpr StringMap<Graphics::LineStyle, Graphics::LINE_MAX_ENUM>::Entry lineStyleEntries[] =
-{
-    { "smooth", Graphics::LINE_SMOOTH },
-    { "rough",  Graphics::LINE_ROUGH  }
-};
-
-constinit const StringMap<Graphics::LineStyle, Graphics::LINE_MAX_ENUM> Graphics::lineStyles(lineStyleEntries);
-// clang-format on

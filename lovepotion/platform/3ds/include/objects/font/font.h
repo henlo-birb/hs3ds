@@ -22,7 +22,7 @@ namespace love
     class Font : public love::common::Font
     {
       public:
-        static constexpr int FONT_BUFFER_SIZE = 0x400;
+        static constexpr int FONT_BUFFER_SIZE = 0x200;
 
         Font(Rasterizer* r, const Texture::Filter& filter);
 

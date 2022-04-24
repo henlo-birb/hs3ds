@@ -9,12 +9,6 @@
 #define RENDERER_VENDOR  "devkitPro"
 #define RENDERER_DEVICE  "NVIDIA Tegra X1"
 
-enum class love::Graphics::Screen : uint8_t
-{
-    SCREEN_DEFAULT,
-    SCREEN_MAX_ENUM
-};
-
 namespace love::deko3d
 {
     class Graphics : public love::Graphics
@@ -23,16 +17,6 @@ namespace love::deko3d
         Graphics();
 
         virtual ~Graphics();
-
-        Screen GetActiveScreen() const override;
-
-        std::vector<const char*> GetScreens() const override;
-
-        const int GetWidth(Screen screen) const override;
-
-        const int GetHeight() const override;
-
-        void SetActiveScreen(Screen screen) override;
 
         void Clear(std::optional<Colorf> color, std::optional<int> stencil,
                    std::optional<double> depth) override;
@@ -49,9 +33,6 @@ namespace love::deko3d
         void SetColor(Colorf color) override;
 
         /* Primitives */
-
-        love::Image* NewImage(Texture::TextureType t, PixelFormat format, int width, int height,
-                              int slices);
 
         void Rectangle(DrawMode mode, float x, float y, float width, float height) override;
 

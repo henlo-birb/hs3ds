@@ -1,9 +1,9 @@
 #include <citro2d.h>
 
 #include "citro2d/graphics.h"
+#include "common/bidirectionalmap.h"
 
 using namespace love;
-using Screen = love::Graphics::Screen;
 
 #define TRANSPARENCY       C2D_Color32(0, 0, 0, 1)
 #define TRANSPARENCY_DEBUG C2D_Color32(255, 0, 0, 96)
@@ -11,26 +11,6 @@ using Screen = love::Graphics::Screen;
 love::citro2d::Graphics::Graphics()
 {
     this->RestoreState(this->states.back());
-}
-
-void love::citro2d::Graphics::SetActiveScreen(Screen screen)
-{
-    switch (screen)
-    {
-        case Screen::SCREEN_LEFT:
-            Graphics::ACTIVE_SCREEN = 0;
-            return;
-        case Screen::SCREEN_RIGHT:
-            Graphics::ACTIVE_SCREEN = 1;
-            return;
-        case Screen::SCREEN_BOTTOM:
-            Graphics::ACTIVE_SCREEN = 2;
-            return;
-        case Screen::SCREEN_MAX_ENUM:
-        default: //< if it defaults from something like "top"
-            throw love::Exception("Invalid screen type!"); //< shouldn't happen
-            break;
-    }
 }
 
 void love::citro2d::Graphics::SetBlendMode(BlendMode mode, BlendAlpha alphaMode)
@@ -115,56 +95,24 @@ void love::citro2d::Graphics::SetBlendMode(BlendMode mode, BlendAlpha alphaMode)
     this->states.back().blendAlphaMode = alphaMode;
 }
 
-const int love::citro2d::Graphics::GetWidth(Screen screen) const
-{
-    switch (screen)
-    {
-        case Screen::SCREEN_LEFT:
-        case Screen::SCREEN_RIGHT:
-        default:
-            return SCREEN_TOP_WIDTH;
-        case Screen::SCREEN_BOTTOM:
-            return SCREEN_BOT_WIDTH;
-    }
-}
-
 void love::citro2d::Graphics::Set3D(bool enabled)
 {
     ::citro2d::Instance().Set3D(enabled);
 }
 
-bool love::citro2d::Graphics::Get3D() const
+const bool love::citro2d::Graphics::Get3D() const
 {
     return ::citro2d::Instance().Get3D();
 }
 
-const int love::citro2d::Graphics::GetHeight() const
+void love::citro2d::Graphics::SetWide(bool enabled)
 {
-    return SCREEN_HEIGHT;
+    ::citro2d::Instance().SetWideMode(enabled);
 }
 
-Graphics::Screen love::citro2d::Graphics::GetActiveScreen() const
+const bool love::citro2d::Graphics::GetWide() const
 {
-    switch (Graphics::ACTIVE_SCREEN)
-    {
-        case 0:
-            return Screen::SCREEN_LEFT;
-        case 1:
-            return Screen::SCREEN_RIGHT;
-        case 2:
-            return Screen::SCREEN_BOTTOM;
-        default:
-            return Screen::SCREEN_LEFT;
-    }
-}
-
-std::vector<const char*> love::citro2d::Graphics::GetScreens() const
-{
-    auto constants = (this->Get3D())
-                         ? love::Graphics::GetConstants(Screen::SCREEN_MAX_ENUM)
-                         : love::citro2d::Graphics::GetConstants(Screen::SCREEN_MAX_ENUM);
-
-    return constants;
+    return ::citro2d::Instance().GetWide();
 }
 
 void love::citro2d::Graphics::Clear(std::optional<Colorf> color, std::optional<int> stencil,
@@ -656,40 +604,4 @@ Graphics::RendererInfo love::citro2d::Graphics::GetRendererInfo() const
     return info;
 }
 
-bool love::citro2d::Graphics::GetConstant(const char* in, Screen& out)
-{
-    return plainScreens.Find(in, out);
-}
-
-bool love::citro2d::Graphics::GetConstant(Screen in, const char*& out)
-{
-    return plainScreens.Find(in, out);
-}
-
-std::vector<const char*> love::citro2d::Graphics::GetConstants(Screen)
-{
-    return plainScreens.GetNames();
-}
-
 /* 2D Screens */
-
-// clang-format off
-constexpr StringMap<Graphics::Screen, love::citro2d::Graphics::MAX_2D_SCREENS>::Entry plainScreenEntries[] =
-{
-    { "top",    Graphics::Screen::SCREEN_LEFT   },
-    { "bottom", Graphics::Screen::SCREEN_BOTTOM }
-};
-
-constinit const StringMap<Graphics::Screen, love::citro2d::Graphics::MAX_2D_SCREENS> love::citro2d::Graphics::plainScreens(plainScreenEntries);
-
-/* "3D" Screens */
-
-constexpr StringMap<Graphics::Screen, Graphics::MAX_SCREENS>::Entry screenEntries[] =
-{
-    { "left",   Graphics::Screen::SCREEN_LEFT   },
-    { "right",  Graphics::Screen::SCREEN_RIGHT  },
-    { "bottom", Graphics::Screen::SCREEN_BOTTOM }
-};
-
-constinit const StringMap<Graphics::Screen, Graphics::MAX_SCREENS> Graphics::screens(screenEntries);
-// clang-format on

@@ -30,8 +30,6 @@
 
 #define MAX_ANISOTROPY 16
 
-#include "common/enummap.h"
-
 namespace love
 {
     class Graphics;
@@ -109,7 +107,14 @@ class deko3d
 
     void SetStencil(DkStencilOp op, DkCompareOp compare, int value);
 
-    std::pair<uint32_t, uint32_t> OnOperationMode(AppletOperationMode mode);
+    void OnOperationMode(std::pair<uint32_t, uint32_t>& size);
+
+    bool IsHandheldMode()
+    {
+        AppletOperationMode mode = appletGetOperationMode();
+
+        return mode == AppletOperationMode::AppletOperationMode_Handheld;
+    }
 
     dk::Device GetDevice()
     {
@@ -142,6 +147,8 @@ class deko3d
 
     bool RenderTexture(const DkResHandle handle, const vertex::Vertex* points, size_t count);
 
+    bool RenderVideo(const DkResHandle handles[3], const vertex::Vertex* points, size_t count);
+
     /* Primitives Rendering */
 
     bool RenderPolygon(const vertex::Vertex* points, size_t count);
@@ -168,6 +175,7 @@ class deko3d
     {
         STATE_PRIMITIVE,
         STATE_TEXTURE,
+        STATE_VIDEO,
         STATE_MAX_ENUM
     };
 
@@ -257,6 +265,4 @@ class deko3d
     void EnsureInFrame();
 
     void EnsureHasSlot();
-
-    const static EnumMap<PixelFormat, DkImageFormat, PIXELFORMAT_MAX_ENUM> pixelFormats;
 };

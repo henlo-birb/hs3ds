@@ -1,4 +1,5 @@
 #include "objects/transform/transform.h"
+#include "common/bidirectionalmap.h"
 
 using namespace love;
 
@@ -97,6 +98,13 @@ void Transform::SetMatrix(const Matrix4& m)
     this->inverseDirty = true;
 }
 
+// clang-format off
+constexpr auto matrixLayouts = BidirectionalMap<>::Create(
+    "row",    Transform::MatrixLayout::MATRIX_ROW_MAJOR,
+    "column", Transform::MatrixLayout::MATRIX_COLUMN_MAJOR
+);
+// clang-format on
+
 bool Transform::GetConstant(const char* in, MatrixLayout& out)
 {
     return matrixLayouts.Find(in, out);
@@ -104,20 +112,10 @@ bool Transform::GetConstant(const char* in, MatrixLayout& out)
 
 bool Transform::GetConstant(MatrixLayout in, const char*& out)
 {
-    return matrixLayouts.Find(in, out);
+    return matrixLayouts.ReverseFind(in, out);
 }
 
 std::vector<const char*> Transform::GetConstants(MatrixLayout)
 {
     return matrixLayouts.GetNames();
 }
-
-// clang-format off
-constexpr StringMap<Transform::MatrixLayout, Transform::MATRIX_MAX_ENUM>::Entry matrixLayoutEntries[] =
-{
-    { "row",    Transform::MatrixLayout::MATRIX_ROW_MAJOR    },
-    { "column", Transform::MatrixLayout::MATRIX_COLUMN_MAJOR },
-};
-
-constinit const StringMap<Transform::MatrixLayout, Transform::MATRIX_MAX_ENUM> Transform::matrixLayouts(matrixLayoutEntries);
-// clang-format on

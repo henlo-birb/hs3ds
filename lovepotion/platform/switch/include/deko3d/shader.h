@@ -4,7 +4,6 @@
 
 #include "common/data.h"
 
-#include "common/stringmap.h"
 #include "objects/object.h"
 
 #include <optional>
@@ -26,6 +25,7 @@ namespace love
         {
             STANDARD_DEFAULT,
             STANDARD_TEXTURE,
+            STANDARD_VIDEO,
             STANDARD_MAX_ENUM
         };
 
@@ -58,7 +58,5 @@ namespace love
 
       private:
         Program program;
-
-        const static StringMap<StandardShader, STANDARD_MAX_ENUM> shaderNames;
     };
 } // namespace love

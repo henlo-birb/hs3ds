@@ -1,20 +1,20 @@
 #include "objects/font/font.h"
+#include "common/bidirectionalmap.h"
 #include "modules/graphics/graphics.h"
 
 #include "citro2d/citro.h"
 
-#include <algorithm>
 #include <numeric>
-#include <sstream>
 
 using namespace love;
 
-Font::Font(Rasterizer *rasterizer, const Texture::Filter &filter) :
-        common::Font(filter),
-        rasterizer(rasterizer),
-        buffer(C2D_TextBufNew(Font::FONT_BUFFER_SIZE)) {
+Font::Font(Rasterizer* rasterizer, const Texture::Filter& filter) :
+    common::Font(filter),
+    rasterizer(rasterizer),
+    buffer(C2D_TextBufNew(Font::FONT_BUFFER_SIZE))
+{
     this->dpiScale = rasterizer->GetDPIScale();
-    this->height = rasterizer->GetHeight();
+    this->height   = rasterizer->GetHeight();
 
     this->lineHeight = rasterizer->GetLineHeight();
 
@@ -22,53 +22,65 @@ Font::Font(Rasterizer *rasterizer, const Texture::Filter &filter) :
     C2D_FontSetFilter(this->GetFont(), gpuFilter.mag, gpuFilter.min);
 }
 
-Font::~Font() {
+Font::~Font()
+{
     C2D_TextBufClear(this->buffer);
     C2D_TextBufDelete(this->buffer);
 }
 
-const C2D_Font Font::GetFont() {
-    auto r = static_cast<BCFNTRasterizer *>(this->rasterizer.Get());
+const C2D_Font Font::GetFont()
+{
+    auto r = static_cast<BCFNTRasterizer*>(this->rasterizer.Get());
     return r->GetFont();
 }
 
-float Font::GetScale() const {
-    auto r = static_cast<BCFNTRasterizer *>(this->rasterizer.Get());
+float Font::GetScale() const
+{
+    auto r = static_cast<BCFNTRasterizer*>(this->rasterizer.Get());
 
     return r->GetScale();
 }
 
-float Font::GetDPIScale() const {
+float Font::GetDPIScale() const
+{
     return this->dpiScale;
 }
 
-void Font::SetFilter(const Texture::Filter &filter) {
+void Font::SetFilter(const Texture::Filter& filter)
+{
     this->filter = filter;
 }
 
-float Font::GetAscent() const {
+float Font::GetAscent() const
+{
     return floorf(this->rasterizer->GetAscent() / this->dpiScale + 0.5f);
 }
 
-float Font::GetDescent() const {
+float Font::GetDescent() const
+{
     return floorf(this->rasterizer->GetDescent() / this->dpiScale + 0.5f);
 }
 
-bool Font::HasGlyph(uint32_t glyph) const {
+bool Font::HasGlyph(uint32_t glyph) const
+{
     return this->rasterizer->HasGlyph(glyph);
 }
 
-float Font::GetKerning(const std::string &, const std::string &) {
+float Font::GetKerning(const std::string&, const std::string&)
+{
     return 0.0f;
 }
 
-float Font::GetKerning(uint32_t leftGlyph, uint32_t rightGlyph) {
+float Font::GetKerning(uint32_t leftGlyph, uint32_t rightGlyph)
+{
     return 0.0f;
 }
 
-void Font::SetFallbacks(const std::vector<Font *> &fallbacks) {}
+void Font::SetFallbacks(const std::vector<Font*>& fallbacks)
+{}
 
-float Font::GetBaseline() const {
+float Font::GetBaseline() const
+{
     float ascent = this->GetAscent();
 
     if (ascent != 0.0f)
@@ -79,8 +91,9 @@ float Font::GetBaseline() const {
         return 0.0f;
 }
 
-void Font::GetWrap(const std::vector <Font::ColoredString> &strings, float wrapLimit,
-                   std::vector <std::string> &lines, std::vector<int> *lineWidths) {}
+void Font::GetWrap(const std::vector<Font::ColoredString>& strings, float wrapLimit,
+                   std::vector<std::string>& lines, std::vector<int>* lineWidths)
+{}
 
 static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text) {
     std::vector <u32> colorData;
@@ -155,37 +168,21 @@ void Font::Printf(Graphics *gfx, const std::vector <ColoredString> &text, float 
     C2D_TextBufClear(this->buffer);
 }
 
-int Font::GetWidth(uint32_t /* prevGlyph */, uint32_t current) {
+int Font::GetWidth(uint32_t /* prevGlyph */, uint32_t current)
+{
     auto found = this->glyphWidths.find(current);
 
     if (found != this->glyphWidths.end())
         return found->second;
 
-    GlyphData *glyphData = this->rasterizer->GetGlyphData(current);
+    GlyphData* glyphData = this->rasterizer->GetGlyphData(current);
 
     this->glyphWidths[current] = glyphData->GetAdvance();
 
     return this->glyphWidths[current];
 }
 
-float Font::GetHeight() const {
+float Font::GetHeight() const
+{
     return 30 * this->GetScale();
 }
-
-// clang-format off
-constexpr StringMap<Font::SystemFontType, Font::MAX_SYSFONTS>::Entry
-sharedFontEntries[] =
-{
-{
-"standard",  Font::SystemFontType::TYPE_STANDARD  },
-{
-"chinese",   Font::SystemFontType::TYPE_CHINESE   },
-{
-"taiwanese", Font::SystemFontType::TYPE_TAIWANESE },
-{
-"korean",    Font::SystemFontType::TYPE_KOREAN    }
-};
-
-constinit const StringMap<Font::SystemFontType, Font::MAX_SYSFONTS>
-common::Font::sharedFonts(sharedFontEntries);
-// clang-format on

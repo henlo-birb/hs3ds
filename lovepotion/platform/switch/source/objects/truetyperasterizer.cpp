@@ -1,5 +1,6 @@
 #include "objects/truetyperasterizer/truetyperasterizer.h"
 
+#include "common/bidirectionalmap.h"
 #include "deko3d/graphics.h"
 
 using namespace love;
@@ -17,7 +18,7 @@ TrueTypeRasterizer::TrueTypeRasterizer(FT_Library library, love::Data* data, int
 
     FT_Error err = FT_Err_Ok;
     err          = FT_New_Memory_Face(library, (const FT_Byte*)data->GetData(), data->GetSize(), 0,
-                             &this->face);
+                                      &this->face);
 
     if (err != FT_Err_Ok)
         throw love::Exception(
@@ -196,6 +197,15 @@ FT_UInt TrueTypeRasterizer::HintingToLoadOption(Hinting hint)
     }
 }
 
+// clang-format off
+constexpr auto hintings = BidirectionalMap<>::Create(
+    "none",   TrueTypeRasterizer::Hinting::HINTING_NONE,
+    "mono",   TrueTypeRasterizer::Hinting::HINTING_MONO,
+    "light",  TrueTypeRasterizer::Hinting::HINTING_LIGHT,
+    "normal", TrueTypeRasterizer::Hinting::HINTING_NORMAL
+);
+// clang-format on
+
 bool TrueTypeRasterizer::GetConstant(const char* in, Hinting& out)
 {
     return hintings.Find(in, out);
@@ -203,22 +213,10 @@ bool TrueTypeRasterizer::GetConstant(const char* in, Hinting& out)
 
 bool TrueTypeRasterizer::GetConstant(Hinting in, const char*& out)
 {
-    return hintings.Find(in, out);
+    return hintings.ReverseFind(in, out);
 }
 
 std::vector<const char*> TrueTypeRasterizer::GetConstants(Hinting)
 {
     return hintings.GetNames();
 }
-
-// clang-format off
-constexpr StringMap<TrueTypeRasterizer::Hinting, TrueTypeRasterizer::HINTING_MAX_ENUM>::Entry hintingEntries[] =
-{
-    { "none",   TrueTypeRasterizer::Hinting::HINTING_NONE   },
-    { "mono",   TrueTypeRasterizer::Hinting::HINTING_MONO   },
-    { "light",  TrueTypeRasterizer::Hinting::HINTING_LIGHT  },
-    { "normal", TrueTypeRasterizer::Hinting::HINTING_NORMAL }
-};
-
-constinit const StringMap<TrueTypeRasterizer::Hinting, TrueTypeRasterizer::HINTING_MAX_ENUM> TrueTypeRasterizer::hintings(hintingEntries);
-// clang-format on

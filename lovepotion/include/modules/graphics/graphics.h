@@ -7,7 +7,7 @@
 
 #include "common/colors.h"
 #include "common/module.h"
-#include "common/stringmap.h"
+#include "common/screen.h"
 #include "common/vector.h"
 
 /* OBJECTS */
@@ -36,8 +36,12 @@
 
 #include "objects/imagedata/imagedata.h"
 
+#include "objects/video/video.h"
+#include "objects/videostream/videostream.h"
+
 #include "common/lmath.h"
 #include <optional>
+#include <vector>
 
 #if defined(__SWITCH__)
     #include "deko3d/shader.h"
@@ -52,14 +56,6 @@ namespace love
     {
       public:
         static const size_t MAX_USER_STACK_DEPTH = 128;
-
-        enum class Screen : uint8_t;
-
-#if defined(__SWITCH__)
-        static constexpr int MAX_SCREENS = 1;
-#elif defined(__3DS__)
-        static constexpr int MAX_SCREENS                                                     = 3;
-#endif
 
         enum DrawMode
         {
@@ -126,6 +122,10 @@ namespace love
             STACK_TRANSFORM,
             STACK_MAX_ENUM
         };
+
+        static constexpr float MIN_DEPTH         = 1.0f / 16384.0f;
+        static inline float CURRENT_DEPTH        = 0;
+        static inline RenderScreen ACTIVE_SCREEN = 0;
 
         struct ColorMask
         {
@@ -218,15 +218,19 @@ namespace love
 
         void SetBackgroundColor(const Colorf& color);
 
-        virtual Screen GetActiveScreen() const = 0;
+        /* render screen */
 
-        virtual const int GetWidth(Screen screen) const = 0;
+        void SetActiveScreen(RenderScreen screen);
 
-        virtual const int GetHeight() const = 0;
+        const RenderScreen GetActiveScreen() const;
 
-        virtual std::vector<const char*> GetScreens() const = 0;
+        const int GetWidth(RenderScreen screen) const;
 
-        virtual void SetActiveScreen(Screen screen) = 0;
+        const int GetHeight() const;
+
+        std::vector<const char*> GetScreens() const;
+
+        /* end screens */
 
         bool GetScissor(Rect& scissor) const;
 
@@ -267,6 +271,9 @@ namespace love
                                      const Texture::Filter& filter = Texture::defaultFilter) = 0;
 #endif
 
+        Image* NewImage(Texture::TextureType t, PixelFormat format, int width, int height,
+                        int slices);
+
         Quad* NewQuad(Quad::Viewport v, double sw, double sh);
 
         Text* NewText(Font* font, const std::vector<Font::ColoredString>& text = {});
@@ -274,6 +281,8 @@ namespace love
         void SetFont(Font* font);
 
         Font* GetFont();
+
+        Video* NewVideo(VideoStream* stream, float dpiscale);
 
         float GetPointSize() const;
 
@@ -558,14 +567,6 @@ namespace love
 
         bool SetMode(int width, int height);
 
-        static constexpr float MIN_DEPTH  = 1.0f / 16384.0f;
-        static inline float CURRENT_DEPTH = 0;
-        static inline int ACTIVE_SCREEN   = 0;
-
-        static bool GetConstant(const char* in, Screen& out);
-        static bool GetConstant(Screen in, const char*& out);
-        static std::vector<const char*> GetConstants(Screen);
-
         static bool GetConstant(const char* in, DrawMode& out);
         static bool GetConstant(DrawMode in, const char*& out);
         static std::vector<const char*> GetConstants(DrawMode);
@@ -650,14 +651,5 @@ namespace love
 
         StrongReference<Font> defaultFont;
         RendererInfo rendererInfo;
-
-        const static StringMap<Screen, MAX_SCREENS> screens;
-        const static StringMap<DrawMode, DRAW_MAX_ENUM> drawModes;
-        const static StringMap<BlendMode, BLEND_MAX_ENUM> blendModes;
-        const static StringMap<BlendAlpha, BLENDALPHA_MAX_ENUM> blendAlphaModes;
-        const static StringMap<ArcMode, ARC_MAX_ENUM> arcModes;
-        const static StringMap<StackType, STACK_MAX_ENUM> stackTypes;
-        const static StringMap<LineStyle, LINE_MAX_ENUM> lineStyles;
-        const static StringMap<LineJoin, LINE_JOIN_MAX_ENUM> lineJoins;
     };
 } // namespace love

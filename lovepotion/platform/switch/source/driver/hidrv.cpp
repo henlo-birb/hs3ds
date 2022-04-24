@@ -56,7 +56,9 @@ void Hidrv::CheckFocus()
             }
             case AppletMessage_OperationModeChanged:
             {
-                auto size = ::deko3d::Instance().OnOperationMode(appletGetOperationMode());
+                std::pair<uint32_t, uint32_t> size;
+                ::deko3d::Instance().OnOperationMode(size);
+
                 this->SendResize(size.first, size.second);
 
                 break;
@@ -182,8 +184,8 @@ bool Hidrv::Poll(LOVE_Event* event)
 
             Gamepad::ButtonMapping button;
 
-            const auto mappings = gamepad->GetButtonMapping();
-            const auto entries  = mappings.GetEntries();
+            const auto& mappings = gamepad->GetButtonMapping();
+            const auto entries   = mappings.GetEntries();
 
             for (size_t index = 0; index < entries.second; index++)
             {

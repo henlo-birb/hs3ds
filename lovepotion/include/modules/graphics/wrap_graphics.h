@@ -99,6 +99,8 @@ namespace Wrap_Graphics
 
     int NewCanvas(lua_State* L);
 
+    int NewVideo(lua_State* L);
+
     int SetDefaultFilter(lua_State* L);
 
     int SetLineWidth(lua_State* L);
@@ -160,6 +162,10 @@ namespace Wrap_Graphics
     int Get3D(lua_State* L);
 
     int Set3D(lua_State* L);
+
+    int GetWide(lua_State* L);
+
+    int SetWide(lua_State* L);
 
     /* End Nintendo 3DS */
 

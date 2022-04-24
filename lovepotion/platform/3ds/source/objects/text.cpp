@@ -63,7 +63,6 @@ static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text)
     return colorData;
 }
 
-
 void Text::Set(const std::vector<Font::ColoredString>& text)
 {
     return this->Set(text, -1.0f, Font::ALIGN_MAX_ENUM);

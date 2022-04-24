@@ -6,7 +6,12 @@
 
 #include "citro2d/citro.h"
 
+#include "common/bidirectionalmap.h"
 #include "modules/graphics/graphics.h"
+
+#include "common/pixelformat.h"
+
+using namespace love;
 
 citro2d::citro2d()
 {
@@ -26,12 +31,6 @@ citro2d::citro2d()
 
     C2D_SetTintMode(C2D_TintMult);
 
-    this->targets.reserve(4);
-
-    this->targets = { C2D_CreateScreenTarget(GFX_TOP, GFX_LEFT),
-                      C2D_CreateScreenTarget(GFX_TOP, GFX_RIGHT),
-                      C2D_CreateScreenTarget(GFX_BOTTOM, GFX_LEFT) };
-
     love::Texture::Filter filter;
     filter.min = filter.mag = love::Texture::FILTER_NEAREST;
     this->SetTextureFilter(filter);
@@ -39,6 +38,22 @@ citro2d::citro2d()
     love::Texture::Wrap wrap;
     wrap.s = wrap.t = wrap.r = love::Texture::WRAP_CLAMP;
     this->SetTextureWrap(wrap);
+
+    this->targets.reserve(4);
+    this->CreateFramebuffers();
+}
+
+void citro2d::DestroyFramebuffers()
+{
+    for (auto framebuffer : this->targets)
+        C3D_RenderTargetDelete(framebuffer);
+}
+
+void citro2d::CreateFramebuffers()
+{
+    this->targets = { C2D_CreateScreenTarget(GFX_TOP, GFX_LEFT),
+                      C2D_CreateScreenTarget(GFX_TOP, GFX_RIGHT),
+                      C2D_CreateScreenTarget(GFX_BOTTOM, GFX_LEFT) };
 }
 
 citro2d::~citro2d()
@@ -70,16 +85,6 @@ void citro2d::SetColorMask(const love::Graphics::ColorMask& mask)
     writeMask |= mask.GetColorMask();
 
     C3D_DepthTest(true, GPU_GEQUAL, static_cast<GPU_WRITEMASK>(writeMask));
-}
-
-void citro2d::Set3D(bool enable)
-{
-    gfxSet3D(enable);
-}
-
-bool citro2d::Get3D() const
-{
-    return gfxIs3D();
 }
 
 void citro2d::EnsureInFrame()
@@ -233,4 +238,25 @@ GPU_TEXTURE_WRAP_PARAM citro2d::GetCitroWrapMode(love::Texture::WrapMode wrap)
         case love::Texture::WRAP_MIRRORED_REPEAT:
             return GPU_MIRRORED_REPEAT;
     }
+}
+
+// clang-format off
+constexpr auto pixelFormats = BidirectionalMap<>::Create(
+    PIXELFORMAT_TEX3DS_RGBA8, GPU_RGBA8,
+    PIXELFORMAT_RGBA8,        GPU_RGBA8,
+    PIXELFORMAT_RGB8,         GPU_RGB8,
+    PIXELFORMAT_RGB565,       GPU_RGB565,
+    PIXELFORMAT_LA8,          GPU_LA8,
+    PIXELFORMAT_ETC1,         GPU_ETC1
+);
+// clang-format on
+
+bool citro2d::GetConstant(PixelFormat in, GPU_TEXCOLOR& out)
+{
+    return pixelFormats.Find(in, out);
+}
+
+bool citro2d::GetConstant(GPU_TEXCOLOR in, PixelFormat& out)
+{
+    return pixelFormats.ReverseFind(in, out);
 }
