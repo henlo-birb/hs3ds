@@ -88,3 +88,82 @@ function MultAnimation(names, x, y, sx, sy, looping)
         p = merge
     }
 end
+
+local function renderPopupLabel(this, app) 
+    local c = makeC(this)
+    local padding = c(this.padding)
+    local x = getX(this, c)
+    local y = getY(this, c)
+    local font = c(this.font)
+    if c(this.show_background) then 
+        love.graphics.setColor(c(this.background_color))
+        this.rect_width = font:getWidth(this.text_string) + padding * 2 + 7
+        this.rect_height = font:getHeight() + padding * 2
+        love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, c(this.background_radius))
+        love.graphics.setCanvas()
+        x = x + padding
+        y = y + padding
+    end
+    love.graphics.setFont(font)
+    love.graphics.printf(this.text, x, y, c(this.wrap_limit))
+end
+
+local function updatePopupLabel(this, app, dt) 
+    local c = makeC(this)
+    if this.visible then
+        if not this.was_visible then
+            this.dt = 0
+        end
+        this.dt = this.dt + dt
+        if this.dt > c(this.display_time) then
+            this.visible = false
+        end
+    end
+    this.was_visible = this.visible
+end
+
+
+function PopupLabel(x, y) 
+    return {
+        type = "text",
+        dt = 0,
+        x = x or 0,
+        y = y or 0,
+        text = coloredtext,
+        text_string = "",
+        font = font or love.graphics.getFont(),
+        display_time = 0,
+        visible = false,
+        was_visible = false,
+        show_background = true,
+        background_color = {1,1,1},
+        background_radius = nil,
+        rect_width = 0,
+        rect_height = 0,
+        padding = 5,
+        wrap_limit = function(this)
+            local c = makeC(this)
+            local width = love.graphics.getWidth(screen) - getX(this, c)
+            this.wrap_limit = width
+            return width
+        end,
+        display = function(this, text, time, font) 
+            this.visible = true
+            this.text = text
+            this.display_time = time
+            this.font = font or love.graphics.getFont()
+            this.text_string = text
+            if type(text) == "table" then
+                this.text_string = ""
+                for i = 2, #text, 2 do
+                    this.text_string = this.text_string .. text[i]
+                end
+            else
+                this.text_string = text
+            end
+        end,
+        render = renderPopupLabel,
+        update = updatePopupLabel,
+        p = merge
+    }
+end
