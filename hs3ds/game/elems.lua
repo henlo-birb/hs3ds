@@ -131,7 +131,7 @@ local function renderScrollableText(this, app)
                            getY(this, c) - this.scroll_y, c(this.r), c(this.sx),
                            c(this.sy), c(this.ox), c(this.oy), c(this.kx),
                            c(this.ky))
-        if not (this.scroll_start and this.scroll_end) and this.show_scroll_bar then
+        if not (this.scroll_start and this.scroll_end) and c(this.show_scroll_bar) then
             love.graphics.setColor(scroll_bar_color)
             love.graphics.rectangle("fill", getX(this, c) + wrap_limit -
                                         scroll_bar_width, getY(this, c) +
@@ -159,7 +159,6 @@ local function updateScrollableText(this, app)
     local total_height = (text_lines) * font:getHeight()
     local scroll_delta = c(this.scroll_delta)
     local align = c(this.align)
-    local scroll_bar_scale = c(this.scroll_bar_scale)
 
     if this.last_text ~= text then
         this.scroll_y = 0
