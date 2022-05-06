@@ -2,6 +2,8 @@ require("elems")
 require("custom_elems")
 require("maplesyrup")
 require("utils")
+require("savedata")
+
 
 TITLE_LIMIT = 20
 topdims = {love.graphics.getDimensions("top")}
@@ -11,7 +13,8 @@ default_font = love.graphics.getFont()
 topview = {
     Rectangle(0, 0, topdims[1], topdims[2], {0.77647, 0.77647, 0.77647}), {
         {Rectangle(50, function (this)
-            return -app.model.image_scroll_y
+
+            return app.model.getbyid["anim"] and -app.model.getbyid["anim"].scroll_y or 0
         end, 299, 30, {0.933, 0.933, 0.933}), {}}, {
             Text(function(this)
                 return {{0, 0, 0}, app.model.current_page.title}
@@ -19,7 +22,7 @@ topview = {
                 return
                     app.model.current_page.title_len > TITLE_LIMIT and 50 or
                         0
-            end, function(this) return 5 - app.model.image_scroll_y end, function(this)
+            end, function(this) return 5 - (app.model.getbyid["anim"] and app.model.getbyid["anim"].scroll_y or 0) end, function(this)
                 return app.model.current_page.title_len > TITLE_LIMIT and topdims[1] *
                            .75 or topdims[1] / 2
             end, "center"):p({
@@ -30,17 +33,15 @@ topview = {
                     return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2
                 end
             }), {}
-        }, {
+        }, 
+        {
             MultAnimation(function(this)
                 local ret = app.model.current_page.media
                 if ret[1]:sub(-4) == ".swf" then ret = {} end
                 return ret
-            end, 50, 30):p({["id"] = "anim"}):p({
-                scroll_y = function(this)
-                    return app.model.image_scroll_y
-                end
-            }), {}
-        }
+            end, 50, 30):p({["id"] = "anim"}), {}
+        },
+        {PopupLabel(10, 10):p({id="popup", background_radius = 5}),{}}
     }
 }
 
@@ -54,22 +55,23 @@ bottomview = {
             Button(function(this)
                 return {{0, 0, 0}, "> ", {0, 0, 1}, app.model.next_page.title}
             end, 10, bottomdims[2] - 60, function()
-                app:push("gotopage", app.model.next_page.page_id)
+                return {"gotopage", app.model.next_page.page_id}
             end):p({padding = 0, background_color = {0.933, 0.933, 0.933}}), {}
         }
     }
 }
 
+
+
 app = initApp({
     topview = topview,
     bottomview = bottomview,
     model = {
-        page_id = 1,
-        current_page = require("pages.1"),
-        next_page = require("pages.2"),
-        image_scroll_y = 0,
+        page_id = Savedata.page_id,
+        current_page = require("pages." .. tostring(Savedata.page_id)),
+        next_page = type(Savedata.page_id) == "number" and require("pages." .. tostring(Savedata.page_id + 1)) or nil,
         text_delta_scroll = 0,
-        image_scrolling = 0,
+        image_delta_scroll = 0,
         j = love.joystick.getJoysticks()[1]
     }
 })
@@ -77,6 +79,10 @@ app = initApp({
 app:addUpdater("gamepadpressed", function(model, button)
     if button == "start" then
         love.event.quit()
+    elseif button == "back" then -- select is "back" for some reason
+        Savedata.page_id = model.page_id
+        save_savedata()
+        model.getbyid["popup"]:display({{0,0,0}, "Game Saved"}, 1.5)
     elseif button == "dpright" then
         if model.current_page.next[1] then
             app:push("gotopage", model.current_page.next[1])
@@ -97,7 +103,7 @@ app:addUpdater("gamepadreleased", function(model, button)
 end)
 
 app:addUpdater("gamepadaxis", function(model, axis)
-    _, model.image_scrolling = model.j:getAxes()
+    _, model.image_delta_scroll = model.j:getAxes()
 end)
 
 app:addUpdater("gotopage", function(model, page_id)
@@ -113,34 +119,3 @@ app:addUpdater("gotopage", function(model, page_id)
         model.next_page = require("pages." .. model.current_page.next[1])
     end
 end)
-
-function love.touchpressed(id, x, y, dx, dy, pressure)
-    app:push("touchpressed", x, y, dx, dy, pressure)
-end
-
-function love.touchmoved(id, x, y, dx, dy, pressure)
-    app:push("touchmoved", x, y, dx, dy, pressure)
-end
-
-function love.touchreleased(id, x, y, dx, dy, pressure)
-    app:push("touchreleased", x, y, dx, dy, pressure)
-end
-
-function love.update(dt)
-    if math.abs(app.model.image_scrolling) > 0.2 then
-        app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y +
-                                       app.model.image_scrolling * 5
-    end
-    app:update(dt)
-    if app.model.getbyid["anim"] then
-        app.model.image_scroll_y = app.model.getbyid["anim"].last_scroll_y
-    end
-end
-
-function love.draw(screen) app:render(screen) end
-
-function love.gamepadpressed(_, button) app:push("gamepadpressed", button) end
-
-function love.gamepadreleased(_, button) app:push("gamepadreleased", button) end
-
-function love.gamepadaxis(_, axis, value) app:push("gamepadaxis", axis) end
