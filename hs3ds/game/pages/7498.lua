@@ -5,14 +5,13 @@ return {
 	media = {
 		"07494",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7499,
+	},
+	previous = 7497,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1106,10 +1105,6 @@ return {
 		"DISAPPROVE OF,\
 ",
 	},
-	next = {
-		7499,
-	},
-	previous = 7497,
 	page_id = 7498,
 	title_len = 14,
 }

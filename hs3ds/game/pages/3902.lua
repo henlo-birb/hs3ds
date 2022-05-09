@@ -5,14 +5,14 @@ return {
 	media = {
 		"03899",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3903,
+	},
+	previous = 3901,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,11 +147,6 @@ return {
 		"TG: holding that ball of yarn\
 ",
 	},
-	next = {
-		3903,
-	},
-	previous = 3901,
-	theme = "scratch",
 	page_id = 3902,
 	title_len = 7,
 }

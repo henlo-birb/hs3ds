@@ -5,14 +5,13 @@ return {
 	media = {
 		"06603",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6607,
+	},
+	previous = 6605,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"YOU'RE DESTROYING EMPIRE PROPERTY!\
 ",
 	},
-	next = {
-		6607,
-	},
-	previous = 6605,
 	page_id = 6606,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05207",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5211,
+	},
+	previous = 5209,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"DIRK: Like, right now.\
 ",
 	},
-	next = {
-		5211,
-	},
-	previous = 5209,
 	page_id = 5210,
 	title_len = 3,
 }

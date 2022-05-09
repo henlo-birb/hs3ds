@@ -7,14 +7,13 @@ return {
 	media = {
 		"06040_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6044,
+	},
+	previous = 6042,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -191,10 +190,6 @@ return {
 		"TAVROS: (hahA, yeSSsSs,)\
 ",
 	},
-	next = {
-		6044,
-	},
-	previous = 6042,
 	page_id = 6043,
 	title_len = 10,
 }

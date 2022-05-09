@@ -6,14 +6,13 @@ return {
 		"00419_1",
 		"00419_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		420,
+	},
+	previous = 418,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -736,10 +735,6 @@ return {
 		"TG: later\
 ",
 	},
-	next = {
-		420,
-	},
-	previous = 418,
 	page_id = 419,
 	title_len = 18,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06662",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6666,
+	},
+	previous = 6664,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"GAMZEE: :o)\
 ",
 	},
-	next = {
-		6666,
-	},
-	previous = 6664,
 	page_id = 6665,
 	title_len = 14,
 }

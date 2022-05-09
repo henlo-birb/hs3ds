@@ -362,6 +362,8 @@ return {
 		2026,
 	},
 	previous = 2024,
+	log_title = "",
+	log = {},
 	page_id = 2025,
 	title_len = 34,
 }

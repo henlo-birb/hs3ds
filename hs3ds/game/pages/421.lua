@@ -6,14 +6,13 @@ return {
 		"00421_1",
 		"00421_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		422,
+	},
+	previous = 420,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -358,10 +357,6 @@ return {
 		"if we started with the big picture!\
 ",
 	},
-	next = {
-		422,
-	},
-	previous = 420,
 	page_id = 421,
 	title_len = 3,
 }

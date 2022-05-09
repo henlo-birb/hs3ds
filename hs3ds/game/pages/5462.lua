@@ -5,14 +5,13 @@ return {
 	media = {
 		"05459",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5463,
+	},
+	previous = 5461,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -392,10 +391,6 @@ return {
 		"game\
 ",
 	},
-	next = {
-		5463,
-	},
-	previous = 5461,
 	page_id = 5462,
 	title_len = 10,
 }

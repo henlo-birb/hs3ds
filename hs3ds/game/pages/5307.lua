@@ -5,14 +5,13 @@ return {
 	media = {
 		"05304",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5308,
+	},
+	previous = 5306,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"fell asleep in your driveway\
 ",
 	},
-	next = {
-		5308,
-	},
-	previous = 5306,
 	page_id = 5307,
 	title_len = 10,
 }

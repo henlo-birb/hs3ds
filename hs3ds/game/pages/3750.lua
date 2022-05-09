@@ -5,14 +5,13 @@ return {
 	media = {
 		"03747",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|JOURNALOG|\
-",
+	content = {},
+	next = {
+		3751,
+	},
+	previous = 3749,
+	log_title = "JOURNALOG",
+	log = {
 		{
 			0,
 			0,
@@ -84,10 +83,6 @@ return {
 		"mercy 8y taking the other instead!\
 ",
 	},
-	next = {
-		3751,
-	},
-	previous = 3749,
 	page_id = 3750,
 	title_len = 3,
 }

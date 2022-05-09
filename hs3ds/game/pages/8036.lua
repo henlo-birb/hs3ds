@@ -5,14 +5,13 @@ return {
 	media = {
 		"08030",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		8037,
+	},
+	previous = 8035,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"DIRK: Go ahead.\
 ",
 	},
-	next = {
-		8037,
-	},
-	previous = 8035,
 	page_id = 8036,
 	title_len = 14,
 }

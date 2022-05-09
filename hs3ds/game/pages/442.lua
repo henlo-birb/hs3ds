@@ -6,14 +6,13 @@ return {
 		"00442_1",
 		"00442_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		443,
+	},
+	previous = 441,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1163,10 +1162,6 @@ return {
 		"John's present.\
 ",
 	},
-	next = {
-		443,
-	},
-	previous = 441,
 	page_id = 442,
 	title_len = 3,
 }

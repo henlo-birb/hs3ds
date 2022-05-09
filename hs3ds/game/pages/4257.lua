@@ -5,14 +5,13 @@ return {
 	media = {
 		"04254",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4258,
+	},
+	previous = 4256,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -630,10 +629,6 @@ return {
 		"Then where the hell would you be?\
 ",
 	},
-	next = {
-		4258,
-	},
-	previous = 4256,
 	page_id = 4257,
 	title_len = 3,
 }

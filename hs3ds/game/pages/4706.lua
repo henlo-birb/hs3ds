@@ -6,14 +6,13 @@ return {
 		"04703_1",
 		"04703_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4707,
+	},
+	previous = 4705,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -603,10 +602,6 @@ return {
 		"had some peculiar whims this time.\
 ",
 	},
-	next = {
-		4707,
-	},
-	previous = 4705,
 	page_id = 4706,
 	title_len = 10,
 }

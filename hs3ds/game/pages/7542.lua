@@ -5,14 +5,13 @@ return {
 	media = {
 		"07538",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7543,
+	},
+	previous = 7541,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -518,10 +517,6 @@ return {
 		"enough as it is.\
 ",
 	},
-	next = {
-		7543,
-	},
-	previous = 7541,
 	page_id = 7542,
 	title_len = 14,
 }

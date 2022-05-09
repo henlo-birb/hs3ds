@@ -5,14 +5,13 @@ return {
 	media = {
 		"02204",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2205,
+	},
+	previous = 2203,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1939,10 +1938,6 @@ return {
 		"grimAuxiliatrix [GA]\
 ",
 	},
-	next = {
-		2205,
-	},
-	previous = 2203,
 	page_id = 2204,
 	title_len = 24,
 }

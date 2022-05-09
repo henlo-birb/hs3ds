@@ -7,14 +7,13 @@ return {
 		"03605_2",
 		"03605_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3609,
+	},
+	previous = 3607,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -135,10 +134,6 @@ return {
 		"scenes\
 ",
 	},
-	next = {
-		3609,
-	},
-	previous = 3607,
 	page_id = 3608,
 	title_len = 3,
 }

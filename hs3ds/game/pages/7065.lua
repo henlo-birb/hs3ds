@@ -5,14 +5,13 @@ return {
 	media = {
 		"07062",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7066,
+	},
+	previous = 7064,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -161,10 +160,6 @@ return {
 		"JADE: i felt so alone\
 ",
 	},
-	next = {
-		7066,
-	},
-	previous = 7064,
 	page_id = 7065,
 	title_len = 14,
 }

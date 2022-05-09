@@ -10,6 +10,8 @@ return {
 		3996,
 	},
 	theme = "scratch",
+	log_title = "",
+	log = {},
 	page_id = 3995,
 	title_len = 3,
 }

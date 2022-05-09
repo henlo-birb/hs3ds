@@ -5,14 +5,13 @@ return {
 	media = {
 		"05964",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5968,
+	},
+	previous = 5966,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"pursuit of her kismesis.\
 ",
 	},
-	next = {
-		5968,
-	},
-	previous = 5966,
 	page_id = 5967,
 	title_len = 10,
 }

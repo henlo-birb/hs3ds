@@ -9,6 +9,8 @@ return {
 	next = {
 		6301,
 	},
+	log_title = "",
+	log = {},
 	page_id = 6300,
 	title_len = 14,
 }

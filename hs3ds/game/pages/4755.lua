@@ -5,14 +5,13 @@ return {
 	media = {
 		"04752",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4756,
+	},
+	previous = 4754,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -700,10 +699,6 @@ return {
 		"MEENAH: you stick a fork in it\
 ",
 	},
-	next = {
-		4756,
-	},
-	previous = 4754,
 	page_id = 4755,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05992",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5996,
+	},
+	previous = 5994,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -231,10 +230,6 @@ return {
 		"of spite.\
 ",
 	},
-	next = {
-		5996,
-	},
-	previous = 5994,
 	page_id = 5995,
 	title_len = 10,
 }

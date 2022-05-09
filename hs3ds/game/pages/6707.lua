@@ -5,14 +5,13 @@ return {
 	media = {
 		"06704",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6708,
+	},
+	previous = 6706,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"TEREZI: UGH, STOP SM1L1NG!!!\
 ",
 	},
-	next = {
-		6708,
-	},
-	previous = 6706,
 	page_id = 6707,
 	title_len = 14,
 }

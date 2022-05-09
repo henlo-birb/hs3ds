@@ -7,14 +7,13 @@ return {
 	media = {
 		"06028/06028.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6032,
+	},
+	previous = 6030,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -170,10 +169,6 @@ return {
 		"ARADIA: :(\
 ",
 	},
-	next = {
-		6032,
-	},
-	previous = 6030,
 	page_id = 6031,
 	title_len = 10,
 }

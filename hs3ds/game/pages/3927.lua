@@ -5,14 +5,14 @@ return {
 	media = {
 		"03924",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3895,
+	},
+	previous = 3926,
+	theme = "scratch",
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -1092,11 +1092,6 @@ return {
 		"denizens worked at all\
 ",
 	},
-	next = {
-		3895,
-	},
-	previous = 3926,
-	theme = "scratch",
 	page_id = 3927,
 	title_len = 7,
 }

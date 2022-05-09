@@ -5,14 +5,14 @@ return {
 	media = {
 		"03997",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4001,
+	},
+	previous = 3999,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,11 +91,6 @@ return {
 		"TA: it lo0ks 2d.\
 ",
 	},
-	next = {
-		4001,
-	},
-	previous = 3999,
-	theme = "scratch",
 	page_id = 4000,
 	title_len = 7,
 }

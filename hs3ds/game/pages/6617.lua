@@ -5,14 +5,13 @@ return {
 	media = {
 		"06614",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6618,
+	},
+	previous = 6616,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -602,10 +601,6 @@ return {
 		"ARANEA: Sadly, no.\
 ",
 	},
-	next = {
-		6618,
-	},
-	previous = 6616,
 	page_id = 6617,
 	title_len = 14,
 }

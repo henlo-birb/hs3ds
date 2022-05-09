@@ -5,14 +5,13 @@ return {
 	media = {
 		"05996",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6000,
+	},
+	previous = 5998,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"crack.\
 ",
 	},
-	next = {
-		6000,
-	},
-	previous = 5998,
 	page_id = 5999,
 	title_len = 10,
 }

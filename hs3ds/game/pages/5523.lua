@@ -5,14 +5,13 @@ return {
 	media = {
 		"05520",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5524,
+	},
+	previous = 5522,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1050,10 +1049,6 @@ return {
 		"GT: It involves dirk.\
 ",
 	},
-	next = {
-		5524,
-	},
-	previous = 5522,
 	page_id = 5523,
 	title_len = 3,
 }

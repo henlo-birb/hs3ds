@@ -5,14 +5,13 @@ return {
 	media = {
 		"06709",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6713,
+	},
+	previous = 6711,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"Son of a dick.\
 ",
 	},
-	next = {
-		6713,
-	},
-	previous = 6711,
 	page_id = 6712,
 	title_len = 14,
 }

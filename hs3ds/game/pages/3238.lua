@@ -5,14 +5,13 @@ return {
 	media = {
 		"03235",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|RECAP LOG|\
-",
+	content = {},
+	next = {
+		3239,
+	},
+	previous = 3237,
+	log_title = "RECAP LOG",
+	log = {
 		{
 			0,
 			0,
@@ -126,10 +125,6 @@ return {
 		"these recaps are to write.\
 ",
 	},
-	next = {
-		3239,
-	},
-	previous = 3237,
 	page_id = 3238,
 	title_len = 8,
 }

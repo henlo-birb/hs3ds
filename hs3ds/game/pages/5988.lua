@@ -6,14 +6,13 @@ return {
 		"05985_1",
 		"05985_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5989,
+	},
+	previous = 5987,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -57,10 +56,6 @@ return {
 		"monumental challenge.\
 ",
 	},
-	next = {
-		5989,
-	},
-	previous = 5987,
 	page_id = 5988,
 	title_len = 10,
 }

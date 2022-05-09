@@ -5,14 +5,13 @@ return {
 	media = {
 		"06002",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6006,
+	},
+	previous = 6004,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"accumul8ted a party of loyal minions.\
 ",
 	},
-	next = {
-		6006,
-	},
-	previous = 6004,
 	page_id = 6005,
 	title_len = 10,
 }

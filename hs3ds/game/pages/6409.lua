@@ -7,14 +7,13 @@ return {
 	media = {
 		"06406",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6410,
+	},
+	previous = 6408,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -296,10 +295,6 @@ return {
 		"TEREZI: 4LR1GHT, SORRY!\
 ",
 	},
-	next = {
-		6410,
-	},
-	previous = 6408,
 	page_id = 6409,
 	title_len = 14,
 }

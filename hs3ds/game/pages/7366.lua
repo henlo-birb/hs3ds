@@ -5,14 +5,13 @@ return {
 	media = {
 		"07363",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7367,
+	},
+	previous = 7365,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"JOHN: DON'T DO IT!!!\
 ",
 	},
-	next = {
-		7367,
-	},
-	previous = 7365,
 	page_id = 7366,
 	title_len = 14,
 }

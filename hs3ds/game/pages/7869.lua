@@ -5,14 +5,13 @@ return {
 	media = {
 		"07865",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7870,
+	},
+	previous = 7868,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1134,10 +1133,6 @@ return {
 		"myshellf\
 ",
 	},
-	next = {
-		7870,
-	},
-	previous = 7868,
 	page_id = 7869,
 	title_len = 14,
 }

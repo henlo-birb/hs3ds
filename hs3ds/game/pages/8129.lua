@@ -10,6 +10,8 @@ return {
 	content = {},
 	next = {},
 	previous = 8128,
+	log_title = "",
+	log = {},
 	page_id = 8129,
 	title_len = 7,
 }

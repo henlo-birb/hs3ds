@@ -5,14 +5,13 @@ return {
 	media = {
 		"04993",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4997,
+	},
+	previous = 4995,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"MEENAH: let alone themshellves\
 ",
 	},
-	next = {
-		4997,
-	},
-	previous = 4995,
 	page_id = 4996,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07161",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7165,
+	},
+	previous = 7163,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -308,10 +307,6 @@ return {
 		"MEENAH: just saying\
 ",
 	},
-	next = {
-		7165,
-	},
-	previous = 7163,
 	page_id = 7164,
 	title_len = 14,
 }

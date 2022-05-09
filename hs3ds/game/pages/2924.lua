@@ -5,14 +5,13 @@ return {
 	media = {
 		"02923",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2925,
+	},
+	previous = 2923,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -602,10 +601,6 @@ return {
 		"EB: HUGE WITCH\
 ",
 	},
-	next = {
-		2925,
-	},
-	previous = 2923,
 	page_id = 2924,
 	title_len = 3,
 }

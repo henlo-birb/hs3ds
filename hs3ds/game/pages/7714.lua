@@ -5,14 +5,13 @@ return {
 	media = {
 		"07710",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7715,
+	},
+	previous = 7713,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -280,10 +279,6 @@ return {
 		"ROSE: It really isn't.\
 ",
 	},
-	next = {
-		7715,
-	},
-	previous = 7713,
 	page_id = 7714,
 	title_len = 14,
 }

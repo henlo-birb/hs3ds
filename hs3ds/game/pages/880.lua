@@ -6,14 +6,13 @@ return {
 		"00880_1",
 		"00880_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		881,
+	},
+	previous = 879,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -351,10 +350,6 @@ return {
 		"that grist while I'm gone.\
 ",
 	},
-	next = {
-		881,
-	},
-	previous = 879,
 	page_id = 880,
 	title_len = 26,
 }

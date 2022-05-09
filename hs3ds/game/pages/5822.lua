@@ -7,14 +7,13 @@ return {
 	media = {
 		"05819",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5823,
+	},
+	previous = 5821,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -93,10 +92,6 @@ return {
 		"have earthquakes.\
 ",
 	},
-	next = {
-		5823,
-	},
-	previous = 5821,
 	page_id = 5822,
 	title_len = 7,
 }

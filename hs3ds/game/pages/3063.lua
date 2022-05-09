@@ -5,14 +5,13 @@ return {
 	media = {
 		"03061",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3064,
+	},
+	previous = 3062,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -168,10 +167,6 @@ return {
 		"THE WAYS i THINK THAT IS CRAZY,\
 ",
 	},
-	next = {
-		3064,
-	},
-	previous = 3062,
 	page_id = 3063,
 	title_len = 3,
 }

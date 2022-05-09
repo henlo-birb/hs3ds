@@ -5,14 +5,13 @@ return {
 	media = {
 		"02602",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2604,
+	},
+	previous = 2602,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -203,10 +202,6 @@ return {
 		"rift as\
 ",
 	},
-	next = {
-		2604,
-	},
-	previous = 2602,
 	page_id = 2603,
 	title_len = 7,
 }

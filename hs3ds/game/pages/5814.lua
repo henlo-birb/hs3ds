@@ -9,14 +9,13 @@ return {
 		"05811_2",
 		"05811_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5815,
+	},
+	previous = 5813,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -221,10 +220,6 @@ return {
 		"GT: Daw.\
 ",
 	},
-	next = {
-		5815,
-	},
-	previous = 5813,
 	page_id = 5814,
 	title_len = 7,
 }

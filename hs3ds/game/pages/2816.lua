@@ -5,14 +5,13 @@ return {
 	media = {
 		"02815",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		2817,
+	},
+	previous = 2815,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -791,10 +790,6 @@ return {
 		"JASPERSPRITE: Ok I will do that! :3\
 ",
 	},
-	next = {
-		2817,
-	},
-	previous = 2815,
 	page_id = 2816,
 	title_len = 3,
 }

@@ -102,6 +102,8 @@ return {
 		2010,
 	},
 	previous = 2008,
+	log_title = "",
+	log = {},
 	page_id = 2009,
 	title_len = 41,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04978",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4982,
+	},
+	previous = 4980,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"FIGuRE OF GODDAMN SPEECH.\
 ",
 	},
-	next = {
-		4982,
-	},
-	previous = 4980,
 	page_id = 4981,
 	title_len = 3,
 }

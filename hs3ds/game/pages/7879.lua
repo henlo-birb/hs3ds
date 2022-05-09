@@ -5,14 +5,13 @@ return {
 	media = {
 		"07875",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7880,
+	},
+	previous = 7878,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"claw claw meowtherfuckers!!!\
 ",
 	},
-	next = {
-		7880,
-	},
-	previous = 7878,
 	page_id = 7879,
 	title_len = 14,
 }

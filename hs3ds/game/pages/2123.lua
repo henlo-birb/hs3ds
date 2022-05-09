@@ -5,14 +5,13 @@ return {
 	media = {
 		"02123",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2124,
+	},
+	previous = 2122,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1575,10 +1574,6 @@ return {
 		"paradox space.\
 ",
 	},
-	next = {
-		2124,
-	},
-	previous = 2122,
 	page_id = 2123,
 	title_len = 20,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07548",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7553,
+	},
+	previous = 7551,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"src=\"http://mspaintadventures.com/scraps2/vris_fuckingloser.gif\"/>\
 ",
 	},
-	next = {
-		7553,
-	},
-	previous = 7551,
 	page_id = 7552,
 	title_len = 14,
 }

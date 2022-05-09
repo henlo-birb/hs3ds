@@ -5,14 +5,13 @@ return {
 	media = {
 		"07353",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7357,
+	},
+	previous = 7355,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"the leader of the raid.\
 ",
 	},
-	next = {
-		7357,
-	},
-	previous = 7355,
 	page_id = 7356,
 	title_len = 14,
 }

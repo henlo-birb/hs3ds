@@ -7,14 +7,14 @@ return {
 	media = {
 		"04007retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4011,
+	},
+	previous = 4009,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -37,11 +37,6 @@ return {
 		"A HURRY TO DO THE JOB RIGHT\
 ",
 	},
-	next = {
-		4011,
-	},
-	previous = 4009,
-	theme = "scratch",
 	page_id = 4010,
 	title_len = 7,
 }

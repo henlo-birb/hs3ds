@@ -5,14 +5,13 @@ return {
 	media = {
 		"03243",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3247,
+	},
+	previous = 3245,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -105,10 +104,6 @@ return {
 		"FIGHT JACK NOIR!!!!!!!!!!!!\
 ",
 	},
-	next = {
-		3247,
-	},
-	previous = 3245,
 	page_id = 3246,
 	title_len = 3,
 }

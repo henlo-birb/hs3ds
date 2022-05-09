@@ -12,6 +12,8 @@ return {
 	},
 	previous = 3822,
 	theme = "scratch",
+	log_title = "",
+	log = {},
 	page_id = 3823,
 	title_len = 9,
 }

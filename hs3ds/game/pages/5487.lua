@@ -6,14 +6,13 @@ return {
 		"05484_1",
 		"05484_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5488,
+	},
+	previous = 5486,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -631,10 +630,6 @@ return {
 		"pick a new color.\
 ",
 	},
-	next = {
-		5488,
-	},
-	previous = 5486,
 	page_id = 5487,
 	title_len = 10,
 }

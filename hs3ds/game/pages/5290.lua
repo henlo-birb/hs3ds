@@ -5,14 +5,13 @@ return {
 	media = {
 		"05287",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5291,
+	},
+	previous = 5289,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -966,10 +965,6 @@ return {
 		"just poked me in the ass.\
 ",
 	},
-	next = {
-		5291,
-	},
-	previous = 5289,
 	page_id = 5290,
 	title_len = 10,
 }

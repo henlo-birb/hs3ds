@@ -7,14 +7,13 @@ return {
 		"01588_2",
 		"01588_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1589,
+	},
+	previous = 1587,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -646,10 +645,6 @@ return {
 		"TG: yeah me too\
 ",
 	},
-	next = {
-		1589,
-	},
-	previous = 1587,
 	page_id = 1588,
 	title_len = 18,
 }

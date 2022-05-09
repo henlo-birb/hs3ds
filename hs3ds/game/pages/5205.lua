@@ -5,14 +5,13 @@ return {
 	media = {
 		"05202",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5206,
+	},
+	previous = 5204,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -336,10 +335,6 @@ return {
 		"DIRK: I feel weird.\
 ",
 	},
-	next = {
-		5206,
-	},
-	previous = 5204,
 	page_id = 5205,
 	title_len = 3,
 }

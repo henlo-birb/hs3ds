@@ -7,14 +7,13 @@ return {
 	media = {
 		"05612retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5616,
+	},
+	previous = 5614,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1619,10 +1618,6 @@ return {
 		"UU: i mUst go in search of myself.\
 ",
 	},
-	next = {
-		5616,
-	},
-	previous = 5614,
 	page_id = 5615,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04701",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4705,
+	},
+	previous = 4703,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -308,10 +307,6 @@ return {
 		"DAVE: so there kind of is a time limit\
 ",
 	},
-	next = {
-		4705,
-	},
-	previous = 4703,
 	page_id = 4704,
 	title_len = 10,
 }

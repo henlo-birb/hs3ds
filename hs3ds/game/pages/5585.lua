@@ -5,14 +5,13 @@ return {
 	media = {
 		"05582",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5586,
+	},
+	previous = 5584,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"TG: when the window has no power\
 ",
 	},
-	next = {
-		5586,
-	},
-	previous = 5584,
 	page_id = 5585,
 	title_len = 3,
 }

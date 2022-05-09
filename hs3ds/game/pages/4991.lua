@@ -5,14 +5,13 @@ return {
 	media = {
 		"04988",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4992,
+	},
+	previous = 4990,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"MEENAH: ill make this reel quick\
 ",
 	},
-	next = {
-		4992,
-	},
-	previous = 4990,
 	page_id = 4991,
 	title_len = 3,
 }

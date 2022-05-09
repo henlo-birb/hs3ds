@@ -5,14 +5,13 @@ return {
 	media = {
 		"07657",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7662,
+	},
+	previous = 7660,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"JASPROSESPRITE^2:\
 ",
 	},
-	next = {
-		7662,
-	},
-	previous = 7660,
 	page_id = 7661,
 	title_len = 14,
 }

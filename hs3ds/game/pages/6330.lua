@@ -5,14 +5,13 @@ return {
 	media = {
 		"06328",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6331,
+	},
+	previous = 6329,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/JOHNNOOOOOO.gif\"/>\
 ",
 	},
-	next = {
-		6331,
-	},
-	previous = 6329,
 	page_id = 6330,
 	title_len = 14,
 }

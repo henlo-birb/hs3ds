@@ -5,14 +5,13 @@ return {
 	media = {
 		"06023",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6027,
+	},
+	previous = 6025,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -770,10 +769,6 @@ return {
 		"ARADIA: exactly!\
 ",
 	},
-	next = {
-		6027,
-	},
-	previous = 6025,
 	page_id = 6026,
 	title_len = 10,
 }

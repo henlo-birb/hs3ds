@@ -6,14 +6,13 @@ return {
 		"05490_1",
 		"05490_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5494,
+	},
+	previous = 5492,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -141,10 +140,6 @@ return {
 		"YESSSSS!\
 ",
 	},
-	next = {
-		5494,
-	},
-	previous = 5492,
 	page_id = 5493,
 	title_len = 10,
 }

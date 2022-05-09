@@ -7,14 +7,13 @@ return {
 	media = {
 		"04851_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4855,
+	},
+	previous = 4853,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -296,10 +295,6 @@ return {
 		"GT: It was the night i found her dead!\
 ",
 	},
-	next = {
-		4855,
-	},
-	previous = 4853,
 	page_id = 4854,
 	title_len = 3,
 }

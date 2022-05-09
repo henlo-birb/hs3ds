@@ -6,14 +6,13 @@ return {
 		"05924_1",
 		"05924_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5928,
+	},
+	previous = 5926,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -29,10 +28,6 @@ return {
 		"KARKAT: DAVE ARE YOU THERE\
 ",
 	},
-	next = {
-		5928,
-	},
-	previous = 5926,
 	page_id = 5927,
 	title_len = 20,
 }

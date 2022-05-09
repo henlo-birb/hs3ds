@@ -5,14 +5,13 @@ return {
 	media = {
 		"06324",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6327,
+	},
+	previous = 6325,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -609,10 +608,6 @@ return {
 		"MINIATURIZED VERSION OF EARTH???\
 ",
 	},
-	next = {
-		6327,
-	},
-	previous = 6325,
 	page_id = 6326,
 	title_len = 14,
 }

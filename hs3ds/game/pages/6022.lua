@@ -5,14 +5,13 @@ return {
 	media = {
 		"06019",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		6023,
+	},
+	previous = 6021,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1708,10 +1707,6 @@ return {
 		"the ground in disgust. --\
 ",
 	},
-	next = {
-		6023,
-	},
-	previous = 6021,
 	page_id = 6022,
 	title_len = 35,
 }

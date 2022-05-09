@@ -5,14 +5,13 @@ return {
 	media = {
 		"05620",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5624,
+	},
+	previous = 5622,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"DELIGHTFUL! BUT EVERYBODY OUT!\
 ",
 	},
-	next = {
-		5624,
-	},
-	previous = 5622,
 	page_id = 5623,
 	title_len = 3,
 }

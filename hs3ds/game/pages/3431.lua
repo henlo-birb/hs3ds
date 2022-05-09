@@ -5,14 +5,13 @@ return {
 	media = {
 		"03428",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3432,
+	},
+	previous = 3430,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1813,10 +1812,6 @@ return {
 		"centaursTesticle [CT]\
 ",
 	},
-	next = {
-		3432,
-	},
-	previous = 3430,
 	page_id = 3431,
 	title_len = 3,
 }

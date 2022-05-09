@@ -5,14 +5,13 @@ return {
 	media = {
 		"03005",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3007,
+	},
+	previous = 3005,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"JADE: what do you have to say?\
 ",
 	},
-	next = {
-		3007,
-	},
-	previous = 3005,
 	page_id = 3006,
 	title_len = 24,
 }

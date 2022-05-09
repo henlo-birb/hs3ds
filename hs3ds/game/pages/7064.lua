@@ -5,14 +5,13 @@ return {
 	media = {
 		"07061",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7065,
+	},
+	previous = 7063,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -112,10 +111,6 @@ return {
 		"arbitrary as a death could be\
 ",
 	},
-	next = {
-		7065,
-	},
-	previous = 7063,
 	page_id = 7064,
 	title_len = 14,
 }

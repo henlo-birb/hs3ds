@@ -8,14 +8,14 @@ return {
 		"03973_1",
 		"03973_2retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3977,
+	},
+	previous = 3975,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -514,11 +514,6 @@ return {
 		"PCG: THE PALACE.\
 ",
 	},
-	next = {
-		3977,
-	},
-	previous = 3975,
-	theme = "scratch",
 	page_id = 3976,
 	title_len = 7,
 }

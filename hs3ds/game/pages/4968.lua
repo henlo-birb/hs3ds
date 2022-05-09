@@ -6,14 +6,13 @@ return {
 		"04965_1",
 		"04965_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4969,
+	},
+	previous = 4967,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1303,10 +1302,6 @@ return {
 		"bitches\" do?\
 ",
 	},
-	next = {
-		4969,
-	},
-	previous = 4967,
 	page_id = 4968,
 	title_len = 3,
 }

@@ -5,14 +5,14 @@ return {
 	media = {
 		"04009",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4013,
+	},
+	previous = 4011,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,11 +35,6 @@ return {
 		"HIM GROW IN THE MIDDLE OF SKAIA\
 ",
 	},
-	next = {
-		4013,
-	},
-	previous = 4011,
-	theme = "scratch",
 	page_id = 4012,
 	title_len = 7,
 }

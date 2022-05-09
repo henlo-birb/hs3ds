@@ -5,14 +5,13 @@ return {
 	media = {
 		"06443",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6447,
+	},
+	previous = 6445,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"You're lucky you're so hot.\
 ",
 	},
-	next = {
-		6447,
-	},
-	previous = 6445,
 	page_id = 6446,
 	title_len = 14,
 }

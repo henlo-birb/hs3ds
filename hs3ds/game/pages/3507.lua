@@ -7,14 +7,13 @@ return {
 	media = {
 		"03504_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|JOURNALOG|\
-",
+	content = {},
+	next = {
+		3508,
+	},
+	previous = 3506,
+	log_title = "JOURNALOG",
+	log = {
 		{
 			0,
 			0,
@@ -23,10 +22,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		3508,
-	},
-	previous = 3506,
 	page_id = 3507,
 	title_len = 3,
 }

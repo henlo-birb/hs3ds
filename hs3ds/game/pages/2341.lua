@@ -5,14 +5,13 @@ return {
 	media = {
 		"02341",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2342,
+	},
+	previous = 2340,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -161,10 +160,6 @@ return {
 		"Troll romance sure is confusing!\
 ",
 	},
-	next = {
-		2342,
-	},
-	previous = 2340,
 	page_id = 2341,
 	title_len = 28,
 }

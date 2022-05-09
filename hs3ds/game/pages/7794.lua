@@ -5,14 +5,13 @@ return {
 	media = {
 		"07790",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7795,
+	},
+	previous = 7793,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -595,10 +594,6 @@ return {
 		"MEENAH: tis the way of my peeps\
 ",
 	},
-	next = {
-		7795,
-	},
-	previous = 7793,
 	page_id = 7794,
 	title_len = 14,
 }

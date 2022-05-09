@@ -5,14 +5,13 @@ return {
 	media = {
 		"04699",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4703,
+	},
+	previous = 4701,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -448,10 +447,6 @@ return {
 		"to grow a new universe.\
 ",
 	},
-	next = {
-		4703,
-	},
-	previous = 4701,
 	page_id = 4702,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05548",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5552,
+	},
+	previous = 5550,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -623,10 +622,6 @@ return {
 		"COMPUTER WITH A STRANGE HUMAN FACE?\
 ",
 	},
-	next = {
-		5552,
-	},
-	previous = 5550,
 	page_id = 5551,
 	title_len = 13,
 }

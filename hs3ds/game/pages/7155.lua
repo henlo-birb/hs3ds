@@ -5,14 +5,13 @@ return {
 	media = {
 		"07152",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7156,
+	},
+	previous = 7154,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"JOHN: there's no place like home!\
 ",
 	},
-	next = {
-		7156,
-	},
-	previous = 7154,
 	page_id = 7155,
 	title_len = 14,
 }

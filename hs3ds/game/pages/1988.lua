@@ -5,14 +5,13 @@ return {
 	media = {
 		"01988",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|RECAP LOG|\
-",
+	content = {},
+	next = {
+		1989,
+	},
+	previous = 1987,
+	log_title = "RECAP LOG",
+	log = {
 		{
 			0,
 			0,
@@ -4585,10 +4584,6 @@ return {
 		"And then I started working on Act 5.\
 ",
 	},
-	next = {
-		1989,
-	},
-	previous = 1987,
 	page_id = 1988,
 	title_len = 8,
 }

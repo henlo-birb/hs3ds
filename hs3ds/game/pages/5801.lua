@@ -7,14 +7,13 @@ return {
 	media = {
 		"05798",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5802,
+	},
+	previous = 5800,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -674,10 +673,6 @@ return {
 		"GG: Why not?\
 ",
 	},
-	next = {
-		5802,
-	},
-	previous = 5800,
 	page_id = 5801,
 	title_len = 7,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04489",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4493,
+	},
+	previous = 4491,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -980,10 +979,6 @@ return {
 		"timaeusTestified [TT]\
 ",
 	},
-	next = {
-		4493,
-	},
-	previous = 4491,
 	page_id = 4492,
 	title_len = 3,
 }

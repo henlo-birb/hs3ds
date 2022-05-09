@@ -5,14 +5,13 @@ return {
 	media = {
 		"08027",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		8034,
+	},
+	previous = 8032,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -119,10 +118,6 @@ return {
 		"JADE: see ya!!!!!!!!!!\
 ",
 	},
-	next = {
-		8034,
-	},
-	previous = 8032,
 	page_id = 8033,
 	title_len = 14,
 }

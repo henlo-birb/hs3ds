@@ -5,14 +5,13 @@ return {
 	media = {
 		"05670",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5674,
+	},
+	previous = 5672,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1211,10 +1210,6 @@ return {
 		"uu: ONCE YOU BECOME A GOD TIER.\
 ",
 	},
-	next = {
-		5674,
-	},
-	previous = 5672,
 	page_id = 5673,
 	title_len = 3,
 }

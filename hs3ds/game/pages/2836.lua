@@ -5,14 +5,13 @@ return {
 	media = {
 		"02835",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		2837,
+	},
+	previous = 2835,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -1575,10 +1574,6 @@ return {
 		"asleep\
 ",
 	},
-	next = {
-		2837,
-	},
-	previous = 2835,
 	page_id = 2836,
 	title_len = 3,
 }

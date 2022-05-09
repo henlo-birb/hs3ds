@@ -5,14 +5,13 @@ return {
 	media = {
 		"05476",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5480,
+	},
+	previous = 5478,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -581,10 +580,6 @@ return {
 		"AND THIS FUCKING KEYBOARD.\
 ",
 	},
-	next = {
-		5480,
-	},
-	previous = 5478,
 	page_id = 5479,
 	title_len = 10,
 }

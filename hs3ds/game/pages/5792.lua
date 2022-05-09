@@ -7,14 +7,13 @@ return {
 	media = {
 		"05789",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5793,
+	},
+	previous = 5791,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"GG: I think it fell into the crypt.\
 ",
 	},
-	next = {
-		5793,
-	},
-	previous = 5791,
 	page_id = 5792,
 	title_len = 7,
 }

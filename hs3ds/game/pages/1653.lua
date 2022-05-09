@@ -6,14 +6,13 @@ return {
 		"01653_1",
 		"01653_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1654,
+	},
+	previous = 1652,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -281,10 +280,6 @@ return {
 		"TT: What?\
 ",
 	},
-	next = {
-		1654,
-	},
-	previous = 1652,
 	page_id = 1653,
 	title_len = 18,
 }

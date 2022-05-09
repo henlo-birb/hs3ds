@@ -70,6 +70,8 @@ return {
 	},
 	previous = 5776,
 	theme = "trickster",
+	log_title = "",
+	log = {},
 	page_id = 5777,
 	title_len = 33,
 }

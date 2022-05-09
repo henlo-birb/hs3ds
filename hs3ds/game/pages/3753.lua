@@ -5,14 +5,13 @@ return {
 	media = {
 		"03750",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|JOURNALOG|\
-",
+	content = {},
+	next = {
+		3754,
+	},
+	previous = 3752,
+	log_title = "JOURNALOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"It permitted a fair fight.\
 ",
 	},
-	next = {
-		3754,
-	},
-	previous = 3752,
 	page_id = 3753,
 	title_len = 3,
 }

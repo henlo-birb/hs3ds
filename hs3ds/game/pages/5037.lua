@@ -6,14 +6,13 @@ return {
 		"05034_1",
 		"05034_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5038,
+	},
+	previous = 5036,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -589,10 +588,6 @@ return {
 		"GG: Hey, I can see her room! :B\
 ",
 	},
-	next = {
-		5038,
-	},
-	previous = 5036,
 	page_id = 5037,
 	title_len = 27,
 }

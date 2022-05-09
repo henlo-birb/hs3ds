@@ -5,14 +5,13 @@ return {
 	media = {
 		"07912",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7920,
+	},
+	previous = 7918,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2499,10 +2498,6 @@ return {
 		"your turn now?\
 ",
 	},
-	next = {
-		7920,
-	},
-	previous = 7918,
 	page_id = 7919,
 	title_len = 14,
 }

@@ -14,6 +14,8 @@ return {
 	},
 	previous = 4108,
 	theme = "cascade",
+	log_title = "",
+	log = {},
 	page_id = 4109,
 	title_len = 12,
 }

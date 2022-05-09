@@ -5,14 +5,13 @@ return {
 	media = {
 		"05982",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5986,
+	},
+	previous = 5984,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"friendly as could 8e.\
 ",
 	},
-	next = {
-		5986,
-	},
-	previous = 5984,
 	page_id = 5985,
 	title_len = 10,
 }

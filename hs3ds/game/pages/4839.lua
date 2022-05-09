@@ -5,14 +5,13 @@ return {
 	media = {
 		"04836",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		4840,
+	},
+	previous = 4838,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -1162,10 +1161,6 @@ return {
 		"TAVROS: nO,\
 ",
 	},
-	next = {
-		4840,
-	},
-	previous = 4838,
 	page_id = 4839,
 	title_len = 3,
 }

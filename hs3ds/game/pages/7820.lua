@@ -5,14 +5,13 @@ return {
 	media = {
 		"07816",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7821,
+	},
+	previous = 7819,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"NEPETASPRITE: :33 < hi!\
 ",
 	},
-	next = {
-		7821,
-	},
-	previous = 7819,
 	page_id = 7820,
 	title_len = 14,
 }

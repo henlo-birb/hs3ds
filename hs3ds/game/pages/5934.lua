@@ -7,14 +7,13 @@ return {
 	media = {
 		"05931_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5935,
+	},
+	previous = 5933,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -44,10 +43,6 @@ return {
 		"TEREZI: ZZZZZZZ\
 ",
 	},
-	next = {
-		5935,
-	},
-	previous = 5933,
 	page_id = 5934,
 	title_len = 10,
 }

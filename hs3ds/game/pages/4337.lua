@@ -5,14 +5,13 @@ return {
 	media = {
 		"04334",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4338,
+	},
+	previous = 4336,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -364,10 +363,6 @@ return {
 		"JADE: i wouldnt really be alone though\
 ",
 	},
-	next = {
-		4338,
-	},
-	previous = 4336,
 	page_id = 4337,
 	title_len = 10,
 }

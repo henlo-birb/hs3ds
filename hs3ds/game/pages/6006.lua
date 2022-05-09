@@ -5,14 +5,13 @@ return {
 	media = {
 		"06003",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6007,
+	},
+	previous = 6005,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -406,10 +405,6 @@ return {
 		"leprechaun romance.\
 ",
 	},
-	next = {
-		6007,
-	},
-	previous = 6005,
 	page_id = 6006,
 	title_len = 10,
 }

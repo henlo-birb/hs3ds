@@ -5,14 +5,13 @@ return {
 	media = {
 		"07229",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7233,
+	},
+	previous = 7231,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"in terezi's weird annoying voice?\
 ",
 	},
-	next = {
-		7233,
-	},
-	previous = 7231,
 	page_id = 7232,
 	title_len = 14,
 }

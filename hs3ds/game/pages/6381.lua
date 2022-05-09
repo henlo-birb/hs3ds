@@ -5,14 +5,13 @@ return {
 	media = {
 		"06378",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		6382,
+	},
+	previous = 6380,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext2.gif\"/>\
 ",
 	},
-	next = {
-		6382,
-	},
-	previous = 6380,
 	page_id = 6381,
 	title_len = 14,
 }

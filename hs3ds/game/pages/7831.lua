@@ -5,14 +5,13 @@ return {
 	media = {
 		"07827",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7832,
+	},
+	previous = 7830,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -189,10 +188,6 @@ return {
 		"TAVROSPRITE: tHAT MAKES SENSE i GUESS,\
 ",
 	},
-	next = {
-		7832,
-	},
-	previous = 7830,
 	page_id = 7831,
 	title_len = 14,
 }

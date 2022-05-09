@@ -123,6 +123,8 @@ return {
 		35,
 	},
 	previous = 33,
+	log_title = "",
+	log = {},
 	page_id = 34,
 	title_len = 39,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06703",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6707,
+	},
+	previous = 6705,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"TEREZI: F1GHT M3 YOU GUTL3SS POLTROON!\
 ",
 	},
-	next = {
-		6707,
-	},
-	previous = 6705,
 	page_id = 6706,
 	title_len = 14,
 }

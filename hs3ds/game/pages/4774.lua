@@ -5,14 +5,13 @@ return {
 	media = {
 		"04771",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4775,
+	},
+	previous = 4773,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -413,10 +412,6 @@ return {
 		"AG: There isn't one.\
 ",
 	},
-	next = {
-		4775,
-	},
-	previous = 4773,
 	page_id = 4774,
 	title_len = 10,
 }

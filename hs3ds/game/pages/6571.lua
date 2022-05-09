@@ -5,14 +5,13 @@ return {
 	media = {
 		"06568",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6572,
+	},
+	previous = 6570,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"that is rather significant in size.\
 ",
 	},
-	next = {
-		6572,
-	},
-	previous = 6570,
 	page_id = 6571,
 	title_len = 14,
 }

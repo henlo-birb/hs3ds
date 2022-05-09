@@ -7,14 +7,13 @@ return {
 	media = {
 		"04928_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4932,
+	},
+	previous = 4930,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1150,10 +1149,6 @@ return {
 		"JAKE: (Ok that was kinda funny.)\
 ",
 	},
-	next = {
-		4932,
-	},
-	previous = 4930,
 	page_id = 4931,
 	title_len = 3,
 }

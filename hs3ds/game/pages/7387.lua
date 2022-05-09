@@ -5,14 +5,13 @@ return {
 	media = {
 		"07384",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		7388,
+	},
+	previous = 7386,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"SOLLUX: fuckin.\
 ",
 	},
-	next = {
-		7388,
-	},
-	previous = 7386,
 	page_id = 7387,
 	title_len = 14,
 }

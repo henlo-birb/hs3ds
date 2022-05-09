@@ -6,14 +6,13 @@ return {
 		"05423_1",
 		"05423_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5427,
+	},
+	previous = 5425,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -50,10 +49,6 @@ return {
 		"animation is on the next page.\
 ",
 	},
-	next = {
-		5427,
-	},
-	previous = 5425,
 	page_id = 5426,
 	title_len = 13,
 }

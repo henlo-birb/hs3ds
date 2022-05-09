@@ -26,6 +26,8 @@ return {
 		2023,
 	},
 	previous = 2021,
+	log_title = "",
+	log = {},
 	page_id = 2022,
 	title_len = 7,
 }

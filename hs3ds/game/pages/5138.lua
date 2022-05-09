@@ -5,14 +5,12 @@ return {
 	media = {
 		"05135",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5139,
+	},
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -90,9 +88,6 @@ return {
 		},
 		"uu: AND TWICE AS DuMB.\
 ",
-	},
-	next = {
-		5139,
 	},
 	page_id = 5138,
 	title_len = 8,

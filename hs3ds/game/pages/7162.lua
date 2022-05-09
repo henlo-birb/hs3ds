@@ -5,14 +5,13 @@ return {
 	media = {
 		"07159",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7163,
+	},
+	previous = 7161,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"WORK3D\
 ",
 	},
-	next = {
-		7163,
-	},
-	previous = 7161,
 	page_id = 7162,
 	title_len = 14,
 }

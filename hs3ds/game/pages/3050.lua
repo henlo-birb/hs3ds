@@ -5,14 +5,13 @@ return {
 	media = {
 		"03048",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3051,
+	},
+	previous = 3049,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"AT: bUT FOR YOU IT WAS VERY LONG AGO,\
 ",
 	},
-	next = {
-		3051,
-	},
-	previous = 3049,
 	page_id = 3050,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"02287",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		2288,
+	},
+	previous = 2286,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -413,10 +412,6 @@ return {
 		"ARADIABOT: 0H MY G0D WHAT DID Y0U D0!\
 ",
 	},
-	next = {
-		2288,
-	},
-	previous = 2286,
 	page_id = 2287,
 	title_len = 7,
 }

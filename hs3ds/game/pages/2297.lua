@@ -5,14 +5,13 @@ return {
 	media = {
 		"02297",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2298,
+	},
+	previous = 2296,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -861,10 +860,6 @@ return {
 		"carcinoGeneticist [CG]\
 ",
 	},
-	next = {
-		2298,
-	},
-	previous = 2296,
 	page_id = 2297,
 	title_len = 7,
 }

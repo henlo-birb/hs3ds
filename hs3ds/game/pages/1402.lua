@@ -5,14 +5,13 @@ return {
 	media = {
 		"01402",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1403,
+	},
+	previous = 1401,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -371,10 +370,6 @@ return {
 		"TT: But I think I like it here.\
 ",
 	},
-	next = {
-		1403,
-	},
-	previous = 1401,
 	page_id = 1402,
 	title_len = 41,
 }

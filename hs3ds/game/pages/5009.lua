@@ -5,14 +5,13 @@ return {
 	media = {
 		"05006",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5010,
+	},
+	previous = 5008,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -175,10 +174,6 @@ return {
 		"JAKE: DOOF.\
 ",
 	},
-	next = {
-		5010,
-	},
-	previous = 5008,
 	page_id = 5009,
 	title_len = 3,
 }

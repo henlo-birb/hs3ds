@@ -5,14 +5,13 @@ return {
 	media = {
 		"03491",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3495,
+	},
+	previous = 3493,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -371,10 +370,6 @@ return {
 		"ectoBiologist [EB]\
 ",
 	},
-	next = {
-		3495,
-	},
-	previous = 3493,
 	page_id = 3494,
 	title_len = 3,
 }

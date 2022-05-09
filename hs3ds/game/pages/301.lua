@@ -102,6 +102,8 @@ return {
 		302,
 	},
 	previous = 300,
+	log_title = "",
+	log = {},
 	page_id = 301,
 	title_len = 49,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05925",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5929,
+	},
+	previous = 5927,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"KARKAT: COME IN DAVE.\
 ",
 	},
-	next = {
-		5929,
-	},
-	previous = 5927,
 	page_id = 5928,
 	title_len = 10,
 }

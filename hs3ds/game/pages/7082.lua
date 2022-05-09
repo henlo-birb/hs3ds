@@ -5,14 +5,13 @@ return {
 	media = {
 		"07079",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7083,
+	},
+	previous = 7081,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -126,10 +125,6 @@ return {
 		"JADE: he would need to face typheus\
 ",
 	},
-	next = {
-		7083,
-	},
-	previous = 7081,
 	page_id = 7082,
 	title_len = 14,
 }

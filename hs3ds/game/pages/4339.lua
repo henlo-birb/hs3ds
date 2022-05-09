@@ -5,14 +5,13 @@ return {
 	media = {
 		"04336",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4340,
+	},
+	previous = 4338,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -182,10 +181,6 @@ return {
 		"most of them were ruined by imps. :(\
 ",
 	},
-	next = {
-		4340,
-	},
-	previous = 4338,
 	page_id = 4339,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06301",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6304,
+	},
+	previous = 6302,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -154,10 +153,6 @@ return {
 		"would be a waste of melting\
 ",
 	},
-	next = {
-		6304,
-	},
-	previous = 6302,
 	page_id = 6303,
 	title_len = 14,
 }

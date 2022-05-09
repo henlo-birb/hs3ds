@@ -33,6 +33,8 @@ return {
 		2019,
 	},
 	previous = 2017,
+	log_title = "",
+	log = {},
 	page_id = 2018,
 	title_len = 29,
 }

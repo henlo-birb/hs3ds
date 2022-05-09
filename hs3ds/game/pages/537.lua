@@ -7,14 +7,13 @@ return {
 	media = {
 		"00537_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		538,
+	},
+	previous = 536,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -156,10 +155,6 @@ return {
 		"TT: Watch out.\
 ",
 	},
-	next = {
-		538,
-	},
-	previous = 536,
 	page_id = 537,
 	title_len = 24,
 }

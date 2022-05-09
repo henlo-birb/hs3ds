@@ -5,14 +5,13 @@ return {
 	media = {
 		"04989",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4993,
+	},
+	previous = 4991,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"everybody sucked but me\
 ",
 	},
-	next = {
-		4993,
-	},
-	previous = 4991,
 	page_id = 4992,
 	title_len = 3,
 }

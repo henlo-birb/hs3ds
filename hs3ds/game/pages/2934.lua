@@ -5,14 +5,13 @@ return {
 	media = {
 		"02933",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2935,
+	},
+	previous = 2933,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -273,10 +272,6 @@ return {
 		"CG: IT IS AN ABSOLUTE MONSTROSITY.\
 ",
 	},
-	next = {
-		2935,
-	},
-	previous = 2933,
 	page_id = 2934,
 	title_len = 3,
 }

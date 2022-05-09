@@ -5,14 +5,13 @@ return {
 	media = {
 		"06691",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6695,
+	},
+	previous = 6693,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -119,10 +118,6 @@ return {
 		"endorse this turn of events\
 ",
 	},
-	next = {
-		6695,
-	},
-	previous = 6693,
 	page_id = 6694,
 	title_len = 14,
 }

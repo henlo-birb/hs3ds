@@ -5,14 +5,13 @@ return {
 	media = {
 		"06735",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6739,
+	},
+	previous = 6737,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"KANAYA: It Really Is Such Bullshit\
 ",
 	},
-	next = {
-		6739,
-	},
-	previous = 6737,
 	page_id = 6738,
 	title_len = 14,
 }

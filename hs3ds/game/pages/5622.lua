@@ -5,14 +5,13 @@ return {
 	media = {
 		"05619",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5623,
+	},
+	previous = 5621,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"TO BLOW US ALL TO KINGDOM COME!!!\
 ",
 	},
-	next = {
-		5623,
-	},
-	previous = 5621,
 	page_id = 5622,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04860",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4864,
+	},
+	previous = 4862,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -896,10 +895,6 @@ return {
 		"followed the \"rebranding.\"\
 ",
 	},
-	next = {
-		4864,
-	},
-	previous = 4862,
 	page_id = 4863,
 	title_len = 3,
 }

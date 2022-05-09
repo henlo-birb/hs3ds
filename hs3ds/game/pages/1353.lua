@@ -39,6 +39,8 @@ return {
 		1354,
 	},
 	previous = 1352,
+	log_title = "",
+	log = {},
 	page_id = 1353,
 	title_len = 7,
 }

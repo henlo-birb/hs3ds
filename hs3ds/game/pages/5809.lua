@@ -8,14 +8,13 @@ return {
 		"05806_1",
 		"05806_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5810,
+	},
+	previous = 5808,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -381,10 +380,6 @@ return {
 		"TIME 4 REPOPULATE!!!\
 ",
 	},
-	next = {
-		5810,
-	},
-	previous = 5808,
 	page_id = 5809,
 	title_len = 7,
 }

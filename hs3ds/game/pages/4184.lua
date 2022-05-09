@@ -5,14 +5,13 @@ return {
 	media = {
 		"04181",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4185,
+	},
+	previous = 4183,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1680,10 +1679,6 @@ return {
 		"GT: This is your auto responder.\
 ",
 	},
-	next = {
-		4185,
-	},
-	previous = 4183,
 	page_id = 4184,
 	title_len = 28,
 }

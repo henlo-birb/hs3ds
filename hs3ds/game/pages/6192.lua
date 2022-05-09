@@ -5,14 +5,13 @@ return {
 	media = {
 		"06189",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		6193,
+	},
+	previous = 6191,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -301,10 +300,6 @@ return {
 		"NOTHING TO SAY?\
 ",
 	},
-	next = {
-		6193,
-	},
-	previous = 6191,
 	page_id = 6192,
 	title_len = 35,
 }

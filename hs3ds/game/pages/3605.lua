@@ -5,14 +5,13 @@ return {
 	media = {
 		"03602",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3606,
+	},
+	previous = 3604,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"AA: not exactly\
 ",
 	},
-	next = {
-		3606,
-	},
-	previous = 3604,
 	page_id = 3605,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04697",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4701,
+	},
+	previous = 4699,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -511,10 +510,6 @@ return {
 		"unctuous film on the surface.\
 ",
 	},
-	next = {
-		4701,
-	},
-	previous = 4699,
 	page_id = 4700,
 	title_len = 10,
 }

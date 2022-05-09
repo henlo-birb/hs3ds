@@ -5,14 +5,13 @@ return {
 	media = {
 		"04974",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4978,
+	},
+	previous = 4976,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -203,10 +202,6 @@ return {
 		"uu: WHEN IT COMES TO SWEETS.\
 ",
 	},
-	next = {
-		4978,
-	},
-	previous = 4976,
 	page_id = 4977,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07383",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7387,
+	},
+	previous = 7385,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"SOLLUX: mutha.\
 ",
 	},
-	next = {
-		7387,
-	},
-	previous = 7385,
 	page_id = 7386,
 	title_len = 14,
 }

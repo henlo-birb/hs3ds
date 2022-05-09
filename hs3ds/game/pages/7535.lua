@@ -5,14 +5,13 @@ return {
 	media = {
 		"07531",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7536,
+	},
+	previous = 7534,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -917,10 +916,6 @@ return {
 		"VRISKA: Ok, next...\
 ",
 	},
-	next = {
-		7536,
-	},
-	previous = 7534,
 	page_id = 7535,
 	title_len = 14,
 }

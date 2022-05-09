@@ -5,14 +5,13 @@ return {
 	media = {
 		"03006",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3008,
+	},
+	previous = 3006,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -175,10 +174,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/becspeak.gif\"/>\
 ",
 	},
-	next = {
-		3008,
-	},
-	previous = 3006,
 	page_id = 3007,
 	title_len = 3,
 }

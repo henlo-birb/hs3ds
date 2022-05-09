@@ -5,14 +5,13 @@ return {
 	media = {
 		"06057",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6061,
+	},
+	previous = 6059,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"MEMOIRIAL LIBRARAY!!!\
 ",
 	},
-	next = {
-		6061,
-	},
-	previous = 6059,
 	page_id = 6060,
 	title_len = 10,
 }

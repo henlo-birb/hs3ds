@@ -6,14 +6,13 @@ return {
 		"03173_1",
 		"03173_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3177,
+	},
+	previous = 3175,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1646,10 +1645,6 @@ return {
 		"johnnytop exploded.\
 ",
 	},
-	next = {
-		3177,
-	},
-	previous = 3175,
 	page_id = 3176,
 	title_len = 40,
 }

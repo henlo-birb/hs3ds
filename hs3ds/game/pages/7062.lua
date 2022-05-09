@@ -5,14 +5,13 @@ return {
 	media = {
 		"07059",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7063,
+	},
+	previous = 7061,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -161,10 +160,6 @@ return {
 		"when out of nowhere...\
 ",
 	},
-	next = {
-		7063,
-	},
-	previous = 7061,
 	page_id = 7062,
 	title_len = 14,
 }

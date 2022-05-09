@@ -5,14 +5,13 @@ return {
 	media = {
 		"06570",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6574,
+	},
+	previous = 6572,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -112,10 +111,6 @@ return {
 		"NEYTIRI: Jake.\
 ",
 	},
-	next = {
-		6574,
-	},
-	previous = 6572,
 	page_id = 6573,
 	title_len = 14,
 }

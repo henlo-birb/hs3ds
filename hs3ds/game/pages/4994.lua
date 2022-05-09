@@ -5,14 +5,13 @@ return {
 	media = {
 		"04991",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4995,
+	},
+	previous = 4993,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"bunch of ghosts\
 ",
 	},
-	next = {
-		4995,
-	},
-	previous = 4993,
 	page_id = 4994,
 	title_len = 3,
 }

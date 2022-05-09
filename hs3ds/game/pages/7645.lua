@@ -5,14 +5,13 @@ return {
 	media = {
 		"07641",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7646,
+	},
+	previous = 7644,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"KANAYA: Ha Ha You Probably Cant\
 ",
 	},
-	next = {
-		7646,
-	},
-	previous = 7644,
 	page_id = 7645,
 	title_len = 14,
 }

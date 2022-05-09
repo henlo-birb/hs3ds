@@ -7,14 +7,13 @@ return {
 	media = {
 		"04767_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4771,
+	},
+	previous = 4769,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -786,10 +785,6 @@ return {
 		"AG: Then what would you say to me?\
 ",
 	},
-	next = {
-		4771,
-	},
-	previous = 4769,
 	page_id = 4770,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05414",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5418,
+	},
+	previous = 5416,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"ROSE: Your didamounds,\
 ",
 	},
-	next = {
-		5418,
-	},
-	previous = 5416,
 	page_id = 5417,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04694",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4698,
+	},
+	previous = 4696,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1064,10 +1063,6 @@ return {
 		"KANAYA: Fuck That Guy\
 ",
 	},
-	next = {
-		4698,
-	},
-	previous = 4696,
 	page_id = 4697,
 	title_len = 10,
 }

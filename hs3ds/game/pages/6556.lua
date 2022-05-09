@@ -5,14 +5,13 @@ return {
 	media = {
 		"06553",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6557,
+	},
+	previous = 6555,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"UP IN THIS BITCH ASS MOTHER FU--\
 ",
 	},
-	next = {
-		6557,
-	},
-	previous = 6555,
 	page_id = 6556,
 	title_len = 14,
 }

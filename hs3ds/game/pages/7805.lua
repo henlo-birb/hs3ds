@@ -5,14 +5,12 @@ return {
 	media = {
 		"07801",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7806,
+	},
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1868,9 +1866,6 @@ return {
 		},
 		"NANNASPRITE: Just so you know...\
 ",
-	},
-	next = {
-		7806,
 	},
 	page_id = 7805,
 	title_len = 14,

@@ -7,14 +7,13 @@ return {
 		"03599_2",
 		"03599_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3603,
+	},
+	previous = 3601,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -121,10 +120,6 @@ return {
 		"AA: were still but half the code\
 ",
 	},
-	next = {
-		3603,
-	},
-	previous = 3601,
 	page_id = 3602,
 	title_len = 3,
 }

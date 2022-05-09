@@ -7,14 +7,13 @@ return {
 	media = {
 		"05169_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5173,
+	},
+	previous = 5171,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -100,10 +99,6 @@ return {
 		"uu: HE IS A WORTHLESS HACK.\
 ",
 	},
-	next = {
-		5173,
-	},
-	previous = 5171,
 	page_id = 5172,
 	title_len = 3,
 }

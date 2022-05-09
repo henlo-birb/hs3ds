@@ -5,14 +5,13 @@ return {
 	media = {
 		"06717",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6721,
+	},
+	previous = 6719,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"I AM TRYING TO REVIVE HER!!!\
 ",
 	},
-	next = {
-		6721,
-	},
-	previous = 6719,
 	page_id = 6720,
 	title_len = 14,
 }

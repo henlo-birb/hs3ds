@@ -6,14 +6,13 @@ return {
 		"03705_1",
 		"03705_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3709,
+	},
+	previous = 3707,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -169,10 +168,6 @@ return {
 		"GC: L1K3 WH4T?\
 ",
 	},
-	next = {
-		3709,
-	},
-	previous = 3707,
 	page_id = 3708,
 	title_len = 33,
 }

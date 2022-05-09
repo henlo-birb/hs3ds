@@ -6,14 +6,13 @@ return {
 		"01525_1",
 		"01525_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1526,
+	},
+	previous = 1524,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1681,10 +1680,6 @@ return {
 		"GT: i guess i'm gonna do that.\
 ",
 	},
-	next = {
-		1526,
-	},
-	previous = 1524,
 	page_id = 1525,
 	title_len = 54,
 }

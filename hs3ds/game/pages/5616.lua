@@ -5,14 +5,13 @@ return {
 	media = {
 		"05613",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5617,
+	},
+	previous = 5615,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1253,10 +1252,6 @@ return {
 		"far more sUbstantive gambit.\
 ",
 	},
-	next = {
-		5617,
-	},
-	previous = 5615,
 	page_id = 5616,
 	title_len = 3,
 }

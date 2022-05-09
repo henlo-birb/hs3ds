@@ -7,14 +7,13 @@ return {
 	media = {
 		"01071_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1072,
+	},
+	previous = 1070,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -79,10 +78,6 @@ return {
 		"TG: bro just kicked my ass\
 ",
 	},
-	next = {
-		1072,
-	},
-	previous = 1070,
 	page_id = 1071,
 	title_len = 3,
 }

@@ -5,14 +5,12 @@ return {
 	media = {
 		"06403",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6407,
+	},
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -48,9 +46,6 @@ return {
 		},
 		"TEREZI: NOTH1NG!\
 ",
-	},
-	next = {
-		6407,
 	},
 	page_id = 6406,
 	title_len = 14,

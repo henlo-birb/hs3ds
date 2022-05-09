@@ -5,14 +5,13 @@ return {
 	media = {
 		"04688",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4692,
+	},
+	previous = 4690,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -504,10 +503,6 @@ return {
 		"PIPE DOWN AND LISTEN.\
 ",
 	},
-	next = {
-		4692,
-	},
-	previous = 4690,
 	page_id = 4691,
 	title_len = 10,
 }

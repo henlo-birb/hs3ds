@@ -5,14 +5,13 @@ return {
 	media = {
 		"03419",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3423,
+	},
+	previous = 3421,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -840,10 +839,6 @@ return {
 		"CG: THE GUY IS A BASTARD.\
 ",
 	},
-	next = {
-		3423,
-	},
-	previous = 3421,
 	page_id = 3422,
 	title_len = 20,
 }

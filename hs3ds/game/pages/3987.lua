@@ -7,14 +7,14 @@ return {
 	media = {
 		"03984_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3974,
+	},
+	previous = 3986,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,11 +30,6 @@ return {
 		"AT: ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,\
 ",
 	},
-	next = {
-		3974,
-	},
-	previous = 3986,
-	theme = "scratch",
 	page_id = 3987,
 	title_len = 7,
 }

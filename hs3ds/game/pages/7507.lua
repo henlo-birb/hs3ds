@@ -5,14 +5,13 @@ return {
 	media = {
 		"07503",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7486,
+	},
+	previous = 7506,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -546,10 +545,6 @@ return {
 		"we are just human beings\
 ",
 	},
-	next = {
-		7486,
-	},
-	previous = 7506,
 	page_id = 7507,
 	title_len = 14,
 }

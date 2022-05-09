@@ -5,14 +5,13 @@ return {
 	media = {
 		"01595",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1596,
+	},
+	previous = 1594,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1141,10 +1140,6 @@ return {
 		"FLUSHED FROM DERSE,\
 ",
 	},
-	next = {
-		1596,
-	},
-	previous = 1594,
 	page_id = 1595,
 	title_len = 19,
 }

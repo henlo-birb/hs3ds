@@ -6,14 +6,13 @@ return {
 		"05673_1",
 		"05673_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5677,
+	},
+	previous = 5675,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -351,10 +350,6 @@ return {
 		"uu: AND HE WILL NOT BE EMPTY FOREVER.\
 ",
 	},
-	next = {
-		5677,
-	},
-	previous = 5675,
 	page_id = 5676,
 	title_len = 3,
 }

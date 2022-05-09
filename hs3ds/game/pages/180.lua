@@ -5,14 +5,13 @@ return {
 	media = {
 		"00180",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		181,
+	},
+	previous = 179,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"going to need this card too.\
 ",
 	},
-	next = {
-		181,
-	},
-	previous = 179,
 	page_id = 180,
 	title_len = 18,
 }

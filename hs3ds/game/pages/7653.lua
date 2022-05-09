@@ -5,14 +5,13 @@ return {
 	media = {
 		"07649",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7654,
+	},
+	previous = 7652,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -238,10 +237,6 @@ return {
 		"I never got a chance to say to you.\
 ",
 	},
-	next = {
-		7654,
-	},
-	previous = 7652,
 	page_id = 7653,
 	title_len = 14,
 }

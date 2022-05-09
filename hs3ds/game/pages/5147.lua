@@ -5,14 +5,13 @@ return {
 	media = {
 		"05144",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5148,
+	},
+	previous = 5146,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"uu: GOD DAMN VIEW PORT. HORSE SHIT.\
 ",
 	},
-	next = {
-		5148,
-	},
-	previous = 5146,
 	page_id = 5147,
 	title_len = 3,
 }

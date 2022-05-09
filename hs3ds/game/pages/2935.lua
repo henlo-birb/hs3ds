@@ -5,14 +5,13 @@ return {
 	media = {
 		"02934",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2936,
+	},
+	previous = 2934,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"CG: THOSE FUCKING PROPERTIES.\
 ",
 	},
-	next = {
-		2936,
-	},
-	previous = 2934,
 	page_id = 2935,
 	title_len = 3,
 }

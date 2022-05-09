@@ -5,14 +5,13 @@ return {
 	media = {
 		"02258",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2259,
+	},
+	previous = 2257,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -798,10 +797,6 @@ return {
 		"arachnidsGrip [AG]\
 ",
 	},
-	next = {
-		2259,
-	},
-	previous = 2257,
 	page_id = 2258,
 	title_len = 33,
 }

@@ -7,14 +7,13 @@ return {
 	media = {
 		"07083/07083.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7087,
+	},
+	previous = 7085,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -163,10 +162,6 @@ return {
 		"JADE: and with that...\
 ",
 	},
-	next = {
-		7087,
-	},
-	previous = 7085,
 	page_id = 7086,
 	title_len = 17,
 }

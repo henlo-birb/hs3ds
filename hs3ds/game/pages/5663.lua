@@ -6,14 +6,13 @@ return {
 		"05660_1",
 		"05660_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5664,
+	},
+	previous = 5662,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -155,10 +154,6 @@ return {
 		"new gear too\
 ",
 	},
-	next = {
-		5664,
-	},
-	previous = 5662,
 	page_id = 5663,
 	title_len = 3,
 }

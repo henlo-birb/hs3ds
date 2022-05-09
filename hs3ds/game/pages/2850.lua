@@ -5,14 +5,13 @@ return {
 	media = {
 		"02849",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2851,
+	},
+	previous = 2849,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2310,10 +2309,6 @@ return {
 		"cuttlefishCuller [CC]\
 ",
 	},
-	next = {
-		2851,
-	},
-	previous = 2849,
 	page_id = 2850,
 	title_len = 13,
 }

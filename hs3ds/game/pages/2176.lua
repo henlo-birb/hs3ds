@@ -7,14 +7,13 @@ return {
 	media = {
 		"02176retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2177,
+	},
+	previous = 2175,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -135,10 +134,6 @@ return {
 		"adiosToreador [AT]\
 ",
 	},
-	next = {
-		2177,
-	},
-	previous = 2175,
 	page_id = 2176,
 	title_len = 7,
 }

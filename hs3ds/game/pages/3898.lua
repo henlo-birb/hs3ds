@@ -5,14 +5,14 @@ return {
 	media = {
 		"03895",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3899,
+	},
+	previous = 3897,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -105,11 +105,6 @@ return {
 		"break swords\
 ",
 	},
-	next = {
-		3899,
-	},
-	previous = 3897,
-	theme = "scratch",
 	page_id = 3898,
 	title_len = 7,
 }

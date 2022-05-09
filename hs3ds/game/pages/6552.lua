@@ -7,14 +7,13 @@ return {
 	media = {
 		"06549/06549.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6553,
+	},
+	previous = 6551,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -44,10 +43,6 @@ return {
 		"ARANEA: What does she want THIS time?\
 ",
 	},
-	next = {
-		6553,
-	},
-	previous = 6551,
 	page_id = 6552,
 	title_len = 17,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05389",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5393,
+	},
+	previous = 5391,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"this treasure hunt really is.\
 ",
 	},
-	next = {
-		5393,
-	},
-	previous = 5391,
 	page_id = 5392,
 	title_len = 10,
 }

@@ -10,14 +10,14 @@ return {
 		"03865_3",
 		"03865_4_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3869,
+	},
+	previous = 3867,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -908,11 +908,6 @@ return {
 		"CG: JADE TOLD ME.\
 ",
 	},
-	next = {
-		3869,
-	},
-	previous = 3867,
-	theme = "scratch",
 	page_id = 3868,
 	title_len = 48,
 }

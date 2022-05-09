@@ -5,14 +5,13 @@ return {
 	media = {
 		"01850",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|JOURNALOG|\
-",
+	content = {},
+	next = {
+		1851,
+	},
+	previous = 1849,
+	log_title = "JOURNALOG",
+	log = {
 		{
 			0,
 			0,
@@ -21,10 +20,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		1851,
-	},
-	previous = 1849,
 	page_id = 1850,
 	title_len = 14,
 }

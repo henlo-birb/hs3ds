@@ -5,14 +5,13 @@ return {
 	media = {
 		"06755",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6759,
+	},
+	previous = 6757,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"TEREZI: WHY WONT YOU S4Y SOM3TH1NG??!!\
 ",
 	},
-	next = {
-		6759,
-	},
-	previous = 6757,
 	page_id = 6758,
 	title_len = 14,
 }

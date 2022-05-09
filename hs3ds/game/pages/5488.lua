@@ -5,14 +5,13 @@ return {
 	media = {
 		"05485",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5489,
+	},
+	previous = 5487,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -231,10 +230,6 @@ return {
 		"AROUND THE CORNER. LIKE THIS.\
 ",
 	},
-	next = {
-		5489,
-	},
-	previous = 5487,
 	page_id = 5488,
 	title_len = 10,
 }

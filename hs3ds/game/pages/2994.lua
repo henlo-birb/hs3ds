@@ -7,14 +7,13 @@ return {
 	media = {
 		"02993_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2995,
+	},
+	previous = 2993,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -44,10 +43,6 @@ return {
 		"CC: I'M D------EAD!\
 ",
 	},
-	next = {
-		2995,
-	},
-	previous = 2993,
 	page_id = 2994,
 	title_len = 3,
 }

@@ -8,14 +8,13 @@ return {
 	media = {
 		"06383_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6387,
+	},
+	previous = 6385,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1326,10 +1325,6 @@ return {
 		"*sigh*\
 ",
 	},
-	next = {
-		6387,
-	},
-	previous = 6385,
 	page_id = 6386,
 	title_len = 14,
 }

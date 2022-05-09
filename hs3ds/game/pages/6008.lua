@@ -7,14 +7,13 @@ return {
 	media = {
 		"06005_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6009,
+	},
+	previous = 6007,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -436,10 +435,6 @@ return {
 		"ARANEA: ::::)\
 ",
 	},
-	next = {
-		6009,
-	},
-	previous = 6007,
 	page_id = 6008,
 	title_len = 10,
 }

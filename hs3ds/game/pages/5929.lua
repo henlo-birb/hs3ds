@@ -5,14 +5,13 @@ return {
 	media = {
 		"05926",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5930,
+	},
+	previous = 5928,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"KARKAT: OVER.\
 ",
 	},
-	next = {
-		5930,
-	},
-	previous = 5928,
 	page_id = 5929,
 	title_len = 10,
 }

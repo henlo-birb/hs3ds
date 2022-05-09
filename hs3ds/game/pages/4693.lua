@@ -5,14 +5,13 @@ return {
 	media = {
 		"04690",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4694,
+	},
+	previous = 4692,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -994,10 +993,6 @@ return {
 		"PCG: YOU KNOW?\
 ",
 	},
-	next = {
-		4694,
-	},
-	previous = 4692,
 	page_id = 4693,
 	title_len = 10,
 }

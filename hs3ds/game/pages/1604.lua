@@ -5,14 +5,13 @@ return {
 	media = {
 		"01604",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1605,
+	},
+	previous = 1603,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -819,10 +818,6 @@ return {
 		"GC: TURN 4ROUND >:]\
 ",
 	},
-	next = {
-		1605,
-	},
-	previous = 1603,
 	page_id = 1604,
 	title_len = 16,
 }

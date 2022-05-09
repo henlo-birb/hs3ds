@@ -5,14 +5,13 @@ return {
 	media = {
 		"07091",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7095,
+	},
+	previous = 7093,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"JADE: leaving his planet clean\
 ",
 	},
-	next = {
-		7095,
-	},
-	previous = 7093,
 	page_id = 7094,
 	title_len = 14,
 }

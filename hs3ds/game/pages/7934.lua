@@ -5,14 +5,13 @@ return {
 	media = {
 		"07927",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7935,
+	},
+	previous = 7933,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"src=\"http://mspaintadventures.com/scraps2/dave_blurtext8.gif\"/>\
 ",
 	},
-	next = {
-		7935,
-	},
-	previous = 7933,
 	page_id = 7934,
 	title_len = 14,
 }

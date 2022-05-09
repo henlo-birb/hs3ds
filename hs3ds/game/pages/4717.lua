@@ -5,14 +5,13 @@ return {
 	media = {
 		"04714",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4718,
+	},
+	previous = 4716,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -448,10 +447,6 @@ return {
 		"IT ON PRINCIPLE.\
 ",
 	},
-	next = {
-		4718,
-	},
-	previous = 4716,
 	page_id = 4717,
 	title_len = 10,
 }

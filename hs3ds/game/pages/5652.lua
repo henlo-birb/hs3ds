@@ -5,14 +5,13 @@ return {
 	media = {
 		"05649",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5653,
+	},
+	previous = 5651,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"EQUIUSPRITE: D --> Hello\
 ",
 	},
-	next = {
-		5653,
-	},
-	previous = 5651,
 	page_id = 5652,
 	title_len = 3,
 }

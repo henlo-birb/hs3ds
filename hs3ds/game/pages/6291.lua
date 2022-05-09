@@ -5,14 +5,13 @@ return {
 	media = {
 		"06289",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6292,
+	},
+	previous = 6284,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -847,10 +846,6 @@ return {
 		"terrestrial fish spell or\
 ",
 	},
-	next = {
-		6292,
-	},
-	previous = 6284,
 	page_id = 6291,
 	title_len = 14,
 }

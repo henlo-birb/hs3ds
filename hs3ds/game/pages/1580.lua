@@ -6,14 +6,13 @@ return {
 		"01580_1",
 		"01580_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1581,
+	},
+	previous = 1579,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -337,10 +336,6 @@ return {
 		"EB: sure.\
 ",
 	},
-	next = {
-		1581,
-	},
-	previous = 1579,
 	page_id = 1580,
 	title_len = 3,
 }

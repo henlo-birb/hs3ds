@@ -5,14 +5,13 @@ return {
 	media = {
 		"06293",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6296,
+	},
+	previous = 6294,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -581,10 +580,6 @@ return {
 		"empress will have her orb in no time\
 ",
 	},
-	next = {
-		6296,
-	},
-	previous = 6294,
 	page_id = 6295,
 	title_len = 14,
 }

@@ -8,14 +8,13 @@ return {
 		"00539_1",
 		"00539_2_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		540,
+	},
+	previous = 538,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -444,10 +443,6 @@ return {
 		"stupid clown paintings.\
 ",
 	},
-	next = {
-		540,
-	},
-	previous = 538,
 	page_id = 539,
 	title_len = 3,
 }

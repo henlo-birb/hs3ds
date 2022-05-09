@@ -5,14 +5,13 @@ return {
 	media = {
 		"07665",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7670,
+	},
+	previous = 7668,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -847,10 +846,6 @@ return {
 		"Meowsers what a mystery!!!\
 ",
 	},
-	next = {
-		7670,
-	},
-	previous = 7668,
 	page_id = 7669,
 	title_len = 14,
 }

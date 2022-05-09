@@ -5,14 +5,13 @@ return {
 	media = {
 		"03316",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3320,
+	},
+	previous = 3318,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -819,10 +818,6 @@ return {
 		"GA: Bilious Slick Is Your Universe\
 ",
 	},
-	next = {
-		3320,
-	},
-	previous = 3318,
 	page_id = 3319,
 	title_len = 3,
 }

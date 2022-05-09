@@ -5,14 +5,14 @@ return {
 	media = {
 		"04008",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4012,
+	},
+	previous = 4010,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,11 +35,6 @@ return {
 		"IN HIS DNA.\
 ",
 	},
-	next = {
-		4012,
-	},
-	previous = 4010,
-	theme = "scratch",
 	page_id = 4011,
 	title_len = 7,
 }

@@ -7,14 +7,13 @@ return {
 	media = {
 		"06412",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6416,
+	},
+	previous = 6414,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"TEREZI: CLOWN HUNT1NG\
 ",
 	},
-	next = {
-		6416,
-	},
-	previous = 6414,
 	page_id = 6415,
 	title_len = 14,
 }

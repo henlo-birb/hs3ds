@@ -5,14 +5,13 @@ return {
 	media = {
 		"05957",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5961,
+	},
+	previous = 5959,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -140,10 +139,6 @@ return {
 		"ARANEA: Once upon a time........\
 ",
 	},
-	next = {
-		5961,
-	},
-	previous = 5959,
 	page_id = 5960,
 	title_len = 10,
 }

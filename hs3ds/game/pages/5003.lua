@@ -5,14 +5,13 @@ return {
 	media = {
 		"05000",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5004,
+	},
+	previous = 5002,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -616,10 +615,6 @@ return {
 		"DIRK: You're just getting that now?\
 ",
 	},
-	next = {
-		5004,
-	},
-	previous = 5002,
 	page_id = 5003,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06391",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6395,
+	},
+	previous = 6393,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"why is being a bad guy SO HARD?\
 ",
 	},
-	next = {
-		6395,
-	},
-	previous = 6393,
 	page_id = 6394,
 	title_len = 14,
 }

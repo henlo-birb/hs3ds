@@ -6,14 +6,13 @@ return {
 		"04099_1",
 		"04099_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4103,
+	},
+	previous = 4101,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -85,10 +84,6 @@ return {
 		"CG: WHAT.\
 ",
 	},
-	next = {
-		4103,
-	},
-	previous = 4101,
 	page_id = 4102,
 	title_len = 4,
 }

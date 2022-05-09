@@ -8,14 +8,13 @@ return {
 		"05058_3",
 		"05058_4",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5062,
+	},
+	previous = 5060,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -304,10 +303,6 @@ return {
 		"TT: Stay your ass put.\
 ",
 	},
-	next = {
-		5062,
-	},
-	previous = 5060,
 	page_id = 5061,
 	title_len = 13,
 }

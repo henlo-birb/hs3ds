@@ -5,14 +5,13 @@ return {
 	media = {
 		"06016",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6020,
+	},
+	previous = 6018,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1302,10 +1301,6 @@ return {
 		"TEREZI: 1TS R34LLY GROSS >X[\
 ",
 	},
-	next = {
-		6020,
-	},
-	previous = 6018,
 	page_id = 6019,
 	title_len = 10,
 }

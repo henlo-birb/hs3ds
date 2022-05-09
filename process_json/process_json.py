@@ -65,30 +65,37 @@ os.system("mkdir -p pages")
 bar = progressbar.ProgressBar(max_value=len(hs_filtered.items()), redirect_stdout=True)
 for k, v in hs_filtered.items():
     new_content = []
+    log = []
+    log_title = ""
+    append_to = new_content
     soup = BeautifulSoup(v["content"], "html.parser")
-    underline_spans = ""
     for e in soup.contents:
         match e.name:
             case "br":
-                new_content.append([0,0,0])
-                new_content.append("\n")
+                append_to.append([0,0,0])
+                append_to.append("\n")
             case "span":
                 if e.string:
                     c = get_color(e.attrs["style"])
                     lines = get_lines(e.string)
                     for l in lines:
-                        new_content.append(c)
-                        new_content.append(l)
-                    # if "text-decoration: underline" in e.attrs["style"]:
-                    #     e.string = "_ul_" + e.string
+                        append_to.append(c)
+                        append_to.append(l)
             case _:
                 s = str(e) if not e.string else e.string
+                if "LOG|" in s:
+                            append_to = log
+                            log_title = s.replace("|", "")
+                            continue
                 lines = get_lines(s)
                 for l in lines:
-                    new_content.append([0, 0, 0])
-                    new_content.append(l)
+                    append_to.append([0, 0, 0])
+                    append_to.append(l)
                 
     v["content"] = new_content
+    v["log_title"] = log_title
+    v["log"] = log
+
     v["next"] = [conv_key(n) for n in v["next"]]
     v["media"] = [
             m.replace("/storyfiles/hs2/", "").replace(".gif", "") for m in v["media"]

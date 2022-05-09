@@ -5,14 +5,13 @@ return {
 	media = {
 		"07648",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7653,
+	},
+	previous = 7651,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"in order to find you!\
 ",
 	},
-	next = {
-		7653,
-	},
-	previous = 7651,
 	page_id = 7652,
 	title_len = 14,
 }

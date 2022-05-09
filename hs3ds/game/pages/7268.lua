@@ -5,14 +5,13 @@ return {
 	media = {
 		"07265",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7269,
+	},
+	previous = 7267,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -273,10 +272,6 @@ return {
 		"solid gold.\
 ",
 	},
-	next = {
-		7269,
-	},
-	previous = 7267,
 	page_id = 7268,
 	title_len = 14,
 }

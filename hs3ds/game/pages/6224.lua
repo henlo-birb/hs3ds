@@ -5,14 +5,13 @@ return {
 	media = {
 		"06221",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6225,
+	},
+	previous = 6223,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -266,10 +265,6 @@ return {
 		"WE'RE ALL GOING TO DIE!!!\
 ",
 	},
-	next = {
-		6225,
-	},
-	previous = 6223,
 	page_id = 6224,
 	title_len = 10,
 }

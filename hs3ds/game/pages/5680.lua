@@ -5,14 +5,13 @@ return {
 	media = {
 		"05677",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5681,
+	},
+	previous = 5679,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"uu: INTO HIS SPARKLING BABY BLUES.\
 ",
 	},
-	next = {
-		5681,
-	},
-	previous = 5679,
 	page_id = 5680,
 	title_len = 3,
 }

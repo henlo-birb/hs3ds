@@ -6,14 +6,14 @@ return {
 		"03869_1",
 		"03869_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3873,
+	},
+	previous = 3871,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1506,11 +1506,6 @@ return {
 		"CG: IT WASN'T A FUCKING COMPLIMENT.\
 ",
 	},
-	next = {
-		3873,
-	},
-	previous = 3871,
-	theme = "scratch",
 	page_id = 3872,
 	title_len = 31,
 }

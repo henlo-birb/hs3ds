@@ -5,14 +5,13 @@ return {
 	media = {
 		"04687",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4691,
+	},
+	previous = 4689,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -476,10 +475,6 @@ return {
 		"FCG: THIS PART OF THE CONVERSATION.\
 ",
 	},
-	next = {
-		4691,
-	},
-	previous = 4689,
 	page_id = 4690,
 	title_len = 10,
 }

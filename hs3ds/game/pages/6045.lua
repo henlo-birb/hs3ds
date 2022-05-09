@@ -5,14 +5,13 @@ return {
 	media = {
 		"06042",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6046,
+	},
+	previous = 6044,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -756,10 +755,6 @@ return {
 		"SOLLUX: anyway, we're 0ut.\
 ",
 	},
-	next = {
-		6046,
-	},
-	previous = 6044,
 	page_id = 6045,
 	title_len = 10,
 }

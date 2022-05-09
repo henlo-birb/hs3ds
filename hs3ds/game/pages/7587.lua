@@ -5,14 +5,13 @@ return {
 	media = {
 		"07583",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7588,
+	},
+	previous = 7586,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1526,10 +1525,6 @@ return {
 		"ROSESPRITE: No, don't!\
 ",
 	},
-	next = {
-		7588,
-	},
-	previous = 7586,
 	page_id = 7587,
 	title_len = 14,
 }

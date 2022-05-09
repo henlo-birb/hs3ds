@@ -7,14 +7,13 @@ return {
 	media = {
 		"00425_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		426,
+	},
+	previous = 424,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -135,10 +134,6 @@ return {
 		"NANNASPRITE: You build!\
 ",
 	},
-	next = {
-		426,
-	},
-	previous = 424,
 	page_id = 425,
 	title_len = 29,
 }

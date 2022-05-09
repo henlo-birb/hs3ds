@@ -5,14 +5,14 @@ return {
 	media = {
 		"04028",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4019,
+	},
+	previous = 4030,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1463,11 +1463,6 @@ return {
 		"paradox space.\
 ",
 	},
-	next = {
-		4019,
-	},
-	previous = 4030,
-	theme = "scratch",
 	page_id = 4031,
 	title_len = 7,
 }

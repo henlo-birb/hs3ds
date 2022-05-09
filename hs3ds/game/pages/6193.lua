@@ -5,14 +5,13 @@ return {
 	media = {
 		"06190",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		6194,
+	},
+	previous = 6192,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -630,10 +629,6 @@ return {
 		"I DON'T NEED ANYONE!!!!!!!!!!!\
 ",
 	},
-	next = {
-		6194,
-	},
-	previous = 6192,
 	page_id = 6193,
 	title_len = 12,
 }

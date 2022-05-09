@@ -5,14 +5,13 @@ return {
 	media = {
 		"04720",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4724,
+	},
+	previous = 4722,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"DAVE: you are like a cape magnet\
 ",
 	},
-	next = {
-		4724,
-	},
-	previous = 4722,
 	page_id = 4723,
 	title_len = 10,
 }

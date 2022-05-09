@@ -5,14 +5,13 @@ return {
 	media = {
 		"07850",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7855,
+	},
+	previous = 7853,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"VRISKA: TAVROS????????\
 ",
 	},
-	next = {
-		7855,
-	},
-	previous = 7853,
 	page_id = 7854,
 	title_len = 14,
 }

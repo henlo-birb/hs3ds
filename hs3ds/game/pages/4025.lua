@@ -6,14 +6,14 @@ return {
 		"04022_1",
 		"04022_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4026,
+	},
+	previous = 4024,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -29,11 +29,6 @@ return {
 		"PCG: IT'S HIM.\
 ",
 	},
-	next = {
-		4026,
-	},
-	previous = 4024,
-	theme = "scratch",
 	page_id = 4025,
 	title_len = 7,
 }

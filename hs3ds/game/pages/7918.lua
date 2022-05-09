@@ -5,14 +5,13 @@ return {
 	media = {
 		"07911",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7919,
+	},
+	previous = 7917,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -861,10 +860,6 @@ return {
 		"DIRK: I think it already is.\
 ",
 	},
-	next = {
-		7919,
-	},
-	previous = 7917,
 	page_id = 7918,
 	title_len = 14,
 }

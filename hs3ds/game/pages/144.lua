@@ -5,14 +5,13 @@ return {
 	media = {
 		"00144",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		145,
+	},
+	previous = 143,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"EB: :C\
 ",
 	},
-	next = {
-		145,
-	},
-	previous = 143,
 	page_id = 144,
 	title_len = 52,
 }

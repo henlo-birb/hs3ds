@@ -6,14 +6,13 @@ return {
 		"06760_1",
 		"06760_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6764,
+	},
+	previous = 6762,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -22,10 +21,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		6764,
-	},
-	previous = 6762,
 	page_id = 6763,
 	title_len = 14,
 }

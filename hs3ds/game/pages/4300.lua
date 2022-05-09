@@ -5,14 +5,13 @@ return {
 	media = {
 		"04297",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4301,
+	},
+	previous = 4299,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"based phenomena perhaps?????\
 ",
 	},
-	next = {
-		4301,
-	},
-	previous = 4299,
 	page_id = 4300,
 	title_len = 10,
 }

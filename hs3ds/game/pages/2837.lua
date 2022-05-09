@@ -5,14 +5,13 @@ return {
 	media = {
 		"02836",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		2838,
+	},
+	previous = 2836,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -707,10 +706,6 @@ return {
 		"DAVESPRITE: thanks man\
 ",
 	},
-	next = {
-		2838,
-	},
-	previous = 2836,
 	page_id = 2837,
 	title_len = 3,
 }

@@ -8,14 +8,13 @@ return {
 		"05807_1",
 		"05807_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5811,
+	},
+	previous = 5809,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -374,10 +373,6 @@ return {
 		"like you let him down\
 ",
 	},
-	next = {
-		5811,
-	},
-	previous = 5809,
 	page_id = 5810,
 	title_len = 7,
 }

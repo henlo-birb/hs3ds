@@ -5,14 +5,13 @@ return {
 	media = {
 		"02590",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2592,
+	},
+	previous = 2590,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -266,10 +265,6 @@ return {
 		"FAA: 0_0\
 ",
 	},
-	next = {
-		2592,
-	},
-	previous = 2590,
 	page_id = 2591,
 	title_len = 7,
 }

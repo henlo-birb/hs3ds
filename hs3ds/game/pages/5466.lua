@@ -5,14 +5,13 @@ return {
 	media = {
 		"05463",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5467,
+	},
+	previous = 5465,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -315,10 +314,6 @@ return {
 		"undyingUmbrage [uu]\
 ",
 	},
-	next = {
-		5467,
-	},
-	previous = 5465,
 	page_id = 5466,
 	title_len = 10,
 }

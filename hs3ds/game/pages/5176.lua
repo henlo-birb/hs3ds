@@ -5,14 +5,12 @@ return {
 	media = {
 		"05173",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5177,
+	},
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -97,9 +95,6 @@ return {
 		},
 		"TRuLY BREATH TAKING CORPSE.\
 ",
-	},
-	next = {
-		5177,
 	},
 	page_id = 5176,
 	title_len = 8,

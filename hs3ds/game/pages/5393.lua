@@ -5,14 +5,13 @@ return {
 	media = {
 		"05390",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5394,
+	},
+	previous = 5392,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -511,10 +510,6 @@ return {
 		"of firepower. 8ut no.\
 ",
 	},
-	next = {
-		5394,
-	},
-	previous = 5392,
 	page_id = 5393,
 	title_len = 10,
 }

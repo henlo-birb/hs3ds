@@ -5,14 +5,13 @@ return {
 	media = {
 		"05672",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5676,
+	},
+	previous = 5674,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1442,10 +1441,6 @@ return {
 		"uu: A WONDERFUL LITTLE FALSE MAN.\
 ",
 	},
-	next = {
-		5676,
-	},
-	previous = 5674,
 	page_id = 5675,
 	title_len = 3,
 }

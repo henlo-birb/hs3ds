@@ -5,14 +5,13 @@ return {
 	media = {
 		"07009",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7013,
+	},
+	previous = 7011,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"been a great liberty.\
 ",
 	},
-	next = {
-		7013,
-	},
-	previous = 7011,
 	page_id = 7012,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07284",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3370,
+	},
+	previous = 7286,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"DRAGONSPRITE: heeheeheeheehee!\
 ",
 	},
-	next = {
-		3370,
-	},
-	previous = 7286,
 	page_id = 7287,
 	title_len = 14,
 }

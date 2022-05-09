@@ -5,14 +5,13 @@ return {
 	media = {
 		"03603",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3607,
+	},
+	previous = 3605,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -84,10 +83,6 @@ return {
 		"AA: from a wild card source i suppose\
 ",
 	},
-	next = {
-		3607,
-	},
-	previous = 3605,
 	page_id = 3606,
 	title_len = 3,
 }

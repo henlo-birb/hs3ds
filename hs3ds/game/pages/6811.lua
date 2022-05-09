@@ -5,14 +5,13 @@ return {
 	media = {
 		"06808",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6812,
+	},
+	previous = 6810,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -196,10 +195,6 @@ return {
 		"ROSE: THE ACTUAL WORST!!!\
 ",
 	},
-	next = {
-		6812,
-	},
-	previous = 6810,
 	page_id = 6811,
 	title_len = 14,
 }

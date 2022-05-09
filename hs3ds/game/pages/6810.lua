@@ -5,14 +5,13 @@ return {
 	media = {
 		"06807",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6811,
+	},
+	previous = 6809,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"ROSE: I certainly hope not.\
 ",
 	},
-	next = {
-		6811,
-	},
-	previous = 6809,
 	page_id = 6810,
 	title_len = 14,
 }

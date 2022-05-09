@@ -5,14 +5,13 @@ return {
 	media = {
 		"03470",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3474,
+	},
+	previous = 3472,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -525,10 +524,6 @@ return {
 		"EB: how did you know she was the one?\
 ",
 	},
-	next = {
-		3474,
-	},
-	previous = 3472,
 	page_id = 3473,
 	title_len = 3,
 }

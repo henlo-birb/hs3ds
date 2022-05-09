@@ -5,14 +5,12 @@ return {
 	media = {
 		"05068",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5072,
+	},
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -314,9 +312,6 @@ return {
 		},
 		"TT: Is that even possible?\
 ",
-	},
-	next = {
-		5072,
 	},
 	page_id = 5071,
 	title_len = 8,

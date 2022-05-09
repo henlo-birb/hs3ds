@@ -5,14 +5,14 @@ return {
 	media = {
 		"03875",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3879,
+	},
+	previous = 3877,
+	theme = "scratch",
+	log_title = "PESTERLOG ",
+	log = {
 		{
 			0,
 			0,
@@ -343,11 +343,6 @@ return {
 		"TG: it was about me dying repeatedly\
 ",
 	},
-	next = {
-		3879,
-	},
-	previous = 3877,
-	theme = "scratch",
 	page_id = 3878,
 	title_len = 7,
 }

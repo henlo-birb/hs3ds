@@ -5,14 +5,13 @@ return {
 	media = {
 		"02771",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2773,
+	},
+	previous = 2771,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -3465,10 +3464,6 @@ return {
 		"turntechGodhead [TG]\
 ",
 	},
-	next = {
-		2773,
-	},
-	previous = 2771,
 	page_id = 2772,
 	title_len = 35,
 }

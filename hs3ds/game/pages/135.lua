@@ -5,14 +5,13 @@ return {
 	media = {
 		"00135",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		136,
+	},
+	previous = 134,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -329,10 +328,6 @@ return {
 		"TT: Why don't we get started?\
 ",
 	},
-	next = {
-		136,
-	},
-	previous = 134,
 	page_id = 135,
 	title_len = 30,
 }

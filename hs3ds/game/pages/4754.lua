@@ -5,14 +5,13 @@ return {
 	media = {
 		"04751",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4755,
+	},
+	previous = 4753,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -217,10 +216,6 @@ return {
 		"MEENAH: it means my plan worked\
 ",
 	},
-	next = {
-		4755,
-	},
-	previous = 4753,
 	page_id = 4754,
 	title_len = 10,
 }

@@ -8,14 +8,13 @@ return {
 		"04696_1_retcon",
 		"04696_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4700,
+	},
+	previous = 4698,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -108,10 +107,6 @@ return {
 		"piece of shit from\
 ",
 	},
-	next = {
-		4700,
-	},
-	previous = 4698,
 	page_id = 4699,
 	title_len = 10,
 }

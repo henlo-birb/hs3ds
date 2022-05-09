@@ -5,14 +5,13 @@ return {
 	media = {
 		"05975",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5979,
+	},
+	previous = 5977,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"hit the lil grubs room already\
 ",
 	},
-	next = {
-		5979,
-	},
-	previous = 5977,
 	page_id = 5978,
 	title_len = 10,
 }

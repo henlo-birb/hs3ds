@@ -6,14 +6,13 @@ return {
 		"01626_1",
 		"01626_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		1627,
+	},
+	previous = 1625,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -946,10 +945,6 @@ return {
 		"JASPERSPRITE: Purr purr purrrrrrrr.\
 ",
 	},
-	next = {
-		1627,
-	},
-	previous = 1625,
 	page_id = 1626,
 	title_len = 3,
 }

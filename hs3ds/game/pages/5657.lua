@@ -7,14 +7,13 @@ return {
 	media = {
 		"05654_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5658,
+	},
+	previous = 5656,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -688,10 +687,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		5658,
-	},
-	previous = 5656,
 	page_id = 5657,
 	title_len = 3,
 }

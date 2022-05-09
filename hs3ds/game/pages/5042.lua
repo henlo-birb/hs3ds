@@ -9,14 +9,13 @@ return {
 		"05039_2_retcon",
 		"05039_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5043,
+	},
+	previous = 5041,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -137,10 +136,6 @@ return {
 		"GG: I think he went through the door.\
 ",
 	},
-	next = {
-		5043,
-	},
-	previous = 5041,
 	page_id = 5042,
 	title_len = 13,
 }

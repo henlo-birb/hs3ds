@@ -5,14 +5,13 @@ return {
 	media = {
 		"07861",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7866,
+	},
+	previous = 7864,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1610,10 +1609,6 @@ return {
 		"TAVROS: mY NEW EMPRESS! };D\
 ",
 	},
-	next = {
-		7866,
-	},
-	previous = 7864,
 	page_id = 7865,
 	title_len = 14,
 }

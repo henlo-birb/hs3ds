@@ -5,14 +5,13 @@ return {
 	media = {
 		"03308",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3312,
+	},
+	previous = 3310,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -329,10 +328,6 @@ return {
 		"GA: Sorry I Thought That Was Obvious\
 ",
 	},
-	next = {
-		3312,
-	},
-	previous = 3310,
 	page_id = 3311,
 	title_len = 14,
 }

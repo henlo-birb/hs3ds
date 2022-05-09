@@ -5,14 +5,13 @@ return {
 	media = {
 		"07264",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7268,
+	},
+	previous = 7266,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -189,10 +188,6 @@ return {
 		"CALLIOPE: (doUble shoot!!)\
 ",
 	},
-	next = {
-		7268,
-	},
-	previous = 7266,
 	page_id = 7267,
 	title_len = 14,
 }

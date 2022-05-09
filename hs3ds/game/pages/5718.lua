@@ -5,14 +5,14 @@ return {
 	media = {
 		"05715",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5719,
+	},
+	previous = 5717,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,11 +63,6 @@ return {
 		"JAKE: Is that you??\
 ",
 	},
-	next = {
-		5719,
-	},
-	previous = 5717,
-	theme = "trickster",
 	page_id = 5718,
 	title_len = 3,
 }

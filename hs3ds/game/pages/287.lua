@@ -5,14 +5,13 @@ return {
 	media = {
 		"00287",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		288,
+	},
+	previous = 286,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -728,10 +727,6 @@ return {
 		"besides all your dumbshit movies\
 ",
 	},
-	next = {
-		288,
-	},
-	previous = 286,
 	page_id = 287,
 	title_len = 40,
 }

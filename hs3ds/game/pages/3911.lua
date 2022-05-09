@@ -5,14 +5,14 @@ return {
 	media = {
 		"03908",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3912,
+	},
+	previous = 3910,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -203,11 +203,6 @@ return {
 		"AG: It's where I grew up.\
 ",
 	},
-	next = {
-		3912,
-	},
-	previous = 3910,
-	theme = "scratch",
 	page_id = 3911,
 	title_len = 7,
 }

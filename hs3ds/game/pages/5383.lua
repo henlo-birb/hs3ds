@@ -5,14 +5,13 @@ return {
 	media = {
 		"05380",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5384,
+	},
+	previous = 5382,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -707,10 +706,6 @@ return {
 		"unless you have a really good reason.\
 ",
 	},
-	next = {
-		5384,
-	},
-	previous = 5382,
 	page_id = 5383,
 	title_len = 10,
 }

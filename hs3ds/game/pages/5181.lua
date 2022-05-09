@@ -5,14 +5,13 @@ return {
 	media = {
 		"05178",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5182,
+	},
+	previous = 5180,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"MONEY SHOT YOu PIECE OF SHIT!\
 ",
 	},
-	next = {
-		5182,
-	},
-	previous = 5180,
 	page_id = 5181,
 	title_len = 3,
 }

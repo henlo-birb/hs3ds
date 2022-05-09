@@ -5,14 +5,12 @@ return {
 	media = {
 		"06278",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		6279,
+	},
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1266,9 +1264,6 @@ return {
 		},
 		"TG: what the hell happened to john\
 ",
-	},
-	next = {
-		6279,
 	},
 	page_id = 6280,
 	title_len = 14,

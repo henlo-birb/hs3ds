@@ -5,14 +5,13 @@ return {
 	media = {
 		"06018",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6022,
+	},
+	previous = 6020,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"DAVE: i cant control the crab\
 ",
 	},
-	next = {
-		6022,
-	},
-	previous = 6020,
 	page_id = 6021,
 	title_len = 10,
 }

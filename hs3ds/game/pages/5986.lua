@@ -6,14 +6,13 @@ return {
 		"05983_1",
 		"05983_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5987,
+	},
+	previous = 5985,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -57,10 +56,6 @@ return {
 		"o8sessive pursuit of justice.\
 ",
 	},
-	next = {
-		5987,
-	},
-	previous = 5985,
 	page_id = 5986,
 	title_len = 10,
 }

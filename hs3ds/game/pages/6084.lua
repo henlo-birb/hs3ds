@@ -5,14 +5,13 @@ return {
 	media = {
 		"06081",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6085,
+	},
+	previous = 6083,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -189,10 +188,6 @@ return {
 		"VRISKA: SO WHY DON'T YOU SUCK IT!\
 ",
 	},
-	next = {
-		6085,
-	},
-	previous = 6083,
 	page_id = 6084,
 	title_len = 10,
 }

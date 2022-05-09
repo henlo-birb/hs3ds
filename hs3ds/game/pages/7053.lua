@@ -5,14 +5,13 @@ return {
 	media = {
 		"07050",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7054,
+	},
+	previous = 7052,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -287,10 +286,6 @@ return {
 		"TEREZI: SO G3T OUT OF H3R3\
 ",
 	},
-	next = {
-		7054,
-	},
-	previous = 7052,
 	page_id = 7053,
 	title_len = 14,
 }

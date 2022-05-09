@@ -6,14 +6,13 @@ return {
 		"00551_1",
 		"00551_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		552,
+	},
+	previous = 550,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -141,10 +140,6 @@ return {
 		"EB: dammit!\
 ",
 	},
-	next = {
-		552,
-	},
-	previous = 550,
 	page_id = 551,
 	title_len = 17,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07597",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7602,
+	},
+	previous = 7600,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"CALLIOPE: i will return in a moment.\
 ",
 	},
-	next = {
-		7602,
-	},
-	previous = 7600,
 	page_id = 7601,
 	title_len = 14,
 }

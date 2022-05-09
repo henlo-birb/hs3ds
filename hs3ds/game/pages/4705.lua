@@ -5,14 +5,13 @@ return {
 	media = {
 		"04702",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4706,
+	},
+	previous = 4704,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -728,10 +727,6 @@ return {
 		"portals. Just like us.\
 ",
 	},
-	next = {
-		4706,
-	},
-	previous = 4704,
 	page_id = 4705,
 	title_len = 10,
 }

@@ -5,14 +5,14 @@ return {
 	media = {
 		"03982",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3974,
+	},
+	previous = 3984,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -630,11 +630,6 @@ return {
 		"?GG: i have to bring them all with us\
 ",
 	},
-	next = {
-		3974,
-	},
-	previous = 3984,
-	theme = "scratch",
 	page_id = 3985,
 	title_len = 7,
 }

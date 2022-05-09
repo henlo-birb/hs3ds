@@ -5,14 +5,13 @@ return {
 	media = {
 		"07534",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7539,
+	},
+	previous = 7537,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2191,10 +2190,6 @@ return {
 		"KARKAT: YOU'VE MADE YOUR POINT.\
 ",
 	},
-	next = {
-		7539,
-	},
-	previous = 7537,
 	page_id = 7538,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05669",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5673,
+	},
+	previous = 5671,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1806,10 +1805,6 @@ return {
 		"uu: THIS IS GOING TO BE GAY AS HELL.\
 ",
 	},
-	next = {
-		5673,
-	},
-	previous = 5671,
 	page_id = 5672,
 	title_len = 3,
 }

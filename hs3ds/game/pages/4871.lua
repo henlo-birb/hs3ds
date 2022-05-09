@@ -5,14 +5,13 @@ return {
 	media = {
 		"04868",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4872,
+	},
+	previous = 4870,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"of the bloody falls.\
 ",
 	},
-	next = {
-		4872,
-	},
-	previous = 4870,
 	page_id = 4871,
 	title_len = 3,
 }

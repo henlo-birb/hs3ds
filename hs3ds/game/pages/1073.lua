@@ -8,14 +8,13 @@ return {
 	media = {
 		"01073/01073.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1074,
+	},
+	previous = 1072,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1375,10 +1374,6 @@ return {
 		"about it, so brb.\
 ",
 	},
-	next = {
-		1074,
-	},
-	previous = 1072,
 	page_id = 1073,
 	title_len = 22,
 }

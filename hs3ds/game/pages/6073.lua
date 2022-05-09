@@ -7,14 +7,13 @@ return {
 	media = {
 		"06070/06070.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6074,
+	},
+	previous = 6072,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -72,10 +71,6 @@ return {
 		"JOHN: hang on, i'm coming!!!\
 ",
 	},
-	next = {
-		6074,
-	},
-	previous = 6072,
 	page_id = 6073,
 	title_len = 13,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"00333",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		334,
+	},
+	previous = 332,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -854,10 +853,6 @@ return {
 		"over the demise of chivalry.\
 ",
 	},
-	next = {
-		334,
-	},
-	previous = 332,
 	page_id = 333,
 	title_len = 18,
 }

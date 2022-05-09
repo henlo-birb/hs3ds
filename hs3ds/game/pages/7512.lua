@@ -5,14 +5,13 @@ return {
 	media = {
 		"07508",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7486,
+	},
+	previous = 7511,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1512,10 +1511,6 @@ return {
 		"DAVE: god DAMMIT terezi\
 ",
 	},
-	next = {
-		7486,
-	},
-	previous = 7511,
 	page_id = 7512,
 	title_len = 14,
 }

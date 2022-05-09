@@ -5,14 +5,14 @@ return {
 	media = {
 		"03936",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3940,
+	},
+	previous = 3938,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -168,11 +168,6 @@ return {
 		"TT: You're still on Derse, remember?\
 ",
 	},
-	next = {
-		3940,
-	},
-	previous = 3938,
-	theme = "scratch",
 	page_id = 3939,
 	title_len = 7,
 }

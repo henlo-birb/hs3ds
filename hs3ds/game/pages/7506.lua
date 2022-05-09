@@ -5,14 +5,13 @@ return {
 	media = {
 		"07502",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7507,
+	},
+	previous = 7505,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -686,10 +685,6 @@ return {
 		"ROSE: THIS IS SO STUPID!!!\
 ",
 	},
-	next = {
-		7507,
-	},
-	previous = 7505,
 	page_id = 7506,
 	title_len = 14,
 }

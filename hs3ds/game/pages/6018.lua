@@ -5,14 +5,13 @@ return {
 	media = {
 		"06015",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6019,
+	},
+	previous = 6017,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2142,10 +2141,6 @@ return {
 		"DAVE: i just won karkat tantrum bingo\
 ",
 	},
-	next = {
-		6019,
-	},
-	previous = 6017,
 	page_id = 6018,
 	title_len = 10,
 }

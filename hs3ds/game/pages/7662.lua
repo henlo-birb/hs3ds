@@ -5,14 +5,13 @@ return {
 	media = {
 		"07658",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7663,
+	},
+	previous = 7661,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -168,10 +167,6 @@ return {
 		"under the fridge!\
 ",
 	},
-	next = {
-		7663,
-	},
-	previous = 7661,
 	page_id = 7662,
 	title_len = 14,
 }

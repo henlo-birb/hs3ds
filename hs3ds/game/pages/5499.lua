@@ -5,14 +5,13 @@ return {
 	media = {
 		"05496",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5500,
+	},
+	previous = 5498,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"purple blood.\
 ",
 	},
-	next = {
-		5500,
-	},
-	previous = 5498,
 	page_id = 5499,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06048",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6052,
+	},
+	previous = 6050,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"VRISKA: 8ut it's time to get serious.\
 ",
 	},
-	next = {
-		6052,
-	},
-	previous = 6050,
 	page_id = 6051,
 	title_len = 10,
 }

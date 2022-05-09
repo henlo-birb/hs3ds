@@ -126,6 +126,8 @@ return {
 	},
 	previous = 7435,
 	theme = "A6A6",
+	log_title = "",
+	log = {},
 	page_id = 7436,
 	title_len = 41,
 }

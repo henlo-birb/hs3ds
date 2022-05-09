@@ -5,14 +5,13 @@ return {
 	media = {
 		"04994",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4998,
+	},
+	previous = 4996,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"MEENAH: so i blew us all the fuck up\
 ",
 	},
-	next = {
-		4998,
-	},
-	previous = 4996,
 	page_id = 4997,
 	title_len = 3,
 }

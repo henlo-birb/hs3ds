@@ -5,14 +5,13 @@ return {
 	media = {
 		"06753",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6757,
+	},
+	previous = 6755,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"TEREZI: WHY WONT YOU F1GHT B4CK?!\
 ",
 	},
-	next = {
-		6757,
-	},
-	previous = 6755,
 	page_id = 6756,
 	title_len = 14,
 }

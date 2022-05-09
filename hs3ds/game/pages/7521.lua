@@ -5,14 +5,13 @@ return {
 	media = {
 		"07517",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7522,
+	},
+	previous = 7520,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"prospitian counterpart, please.\
 ",
 	},
-	next = {
-		7522,
-	},
-	previous = 7520,
 	page_id = 7521,
 	title_len = 14,
 }

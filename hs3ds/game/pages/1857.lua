@@ -5,14 +5,13 @@ return {
 	media = {
 		"01857",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1858,
+	},
+	previous = 1856,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1015,10 +1014,6 @@ return {
 		"around sounds cool\
 ",
 	},
-	next = {
-		1858,
-	},
-	previous = 1856,
 	page_id = 1857,
 	title_len = 13,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"02027",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2028,
+	},
+	previous = 2026,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2058,10 +2057,6 @@ return {
 		"TA: yeah ok.\
 ",
 	},
-	next = {
-		2028,
-	},
-	previous = 2026,
 	page_id = 2027,
 	title_len = 21,
 }

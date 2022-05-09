@@ -6,14 +6,14 @@ return {
 		"03977_1",
 		"03977_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3981,
+	},
+	previous = 3979,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -50,11 +50,6 @@ return {
 		"surrounding the ruins\
 ",
 	},
-	next = {
-		3981,
-	},
-	previous = 3979,
-	theme = "scratch",
 	page_id = 3980,
 	title_len = 7,
 }

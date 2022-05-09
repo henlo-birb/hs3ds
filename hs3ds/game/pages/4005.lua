@@ -6,14 +6,14 @@ return {
 		"04002_1",
 		"04002_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4006,
+	},
+	previous = 4004,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -204,11 +204,6 @@ return {
 		"THIS SO BAD EVERYONE IS GOING TO DIE.\
 ",
 	},
-	next = {
-		4006,
-	},
-	previous = 4004,
-	theme = "scratch",
 	page_id = 4005,
 	title_len = 7,
 }

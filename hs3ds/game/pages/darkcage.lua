@@ -10,6 +10,8 @@ return {
 	},
 	content = {},
 	next = {},
+	log_title = "",
+	log = {},
 	page_id = "darkcage",
 	title_len = 22,
 }

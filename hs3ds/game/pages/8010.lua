@@ -5,14 +5,13 @@ return {
 	media = {
 		"08004",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		8011,
+	},
+	previous = 8009,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"this is supposed to wake you up!\
 ",
 	},
-	next = {
-		8011,
-	},
-	previous = 8009,
 	page_id = 8010,
 	title_len = 14,
 }

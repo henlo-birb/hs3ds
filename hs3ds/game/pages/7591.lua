@@ -5,14 +5,13 @@ return {
 	media = {
 		"07587",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7592,
+	},
+	previous = 7590,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"Meow meow motherfuckers.\
 ",
 	},
-	next = {
-		7592,
-	},
-	previous = 7590,
 	page_id = 7591,
 	title_len = 14,
 }

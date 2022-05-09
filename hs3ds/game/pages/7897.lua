@@ -5,14 +5,13 @@ return {
 	media = {
 		"07893",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7898,
+	},
+	previous = 7896,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1680,10 +1679,6 @@ return {
 		"Chill out.\
 ",
 	},
-	next = {
-		7898,
-	},
-	previous = 7896,
 	page_id = 7897,
 	title_len = 14,
 }

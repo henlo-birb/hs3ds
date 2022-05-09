@@ -5,14 +5,13 @@ return {
 	media = {
 		"07973",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7980,
+	},
+	previous = 7978,
+	log_title = "DIALOGLOG ",
+	log = {
 		{
 			0,
 			0,
@@ -721,10 +720,6 @@ return {
 		"Sense Good Speech\
 ",
 	},
-	next = {
-		7980,
-	},
-	previous = 7978,
 	page_id = 7979,
 	title_len = 14,
 }

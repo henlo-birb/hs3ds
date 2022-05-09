@@ -5,14 +5,13 @@ return {
 	media = {
 		"07915",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7923,
+	},
+	previous = 7921,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2499,10 +2498,6 @@ return {
 		"DAVE: how did you tell your friends\
 ",
 	},
-	next = {
-		7923,
-	},
-	previous = 7921,
 	page_id = 7922,
 	title_len = 14,
 }

@@ -7,14 +7,13 @@ return {
 	media = {
 		"06314",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6317,
+	},
+	previous = 6315,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -93,10 +92,6 @@ return {
 		"slippery motherfucker!!!\
 ",
 	},
-	next = {
-		6317,
-	},
-	previous = 6315,
 	page_id = 6316,
 	title_len = 14,
 }

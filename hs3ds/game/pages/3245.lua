@@ -5,14 +5,13 @@ return {
 	media = {
 		"03242",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3246,
+	},
+	previous = 3244,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -798,10 +797,6 @@ return {
 		"DRIVING ME CRAZY\
 ",
 	},
-	next = {
-		3246,
-	},
-	previous = 3244,
 	page_id = 3245,
 	title_len = 3,
 }

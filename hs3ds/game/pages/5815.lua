@@ -9,14 +9,13 @@ return {
 		"05812_2",
 		"05812_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5816,
+	},
+	previous = 5814,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -256,10 +255,6 @@ return {
 		"TG: are my lame, lame dreams ;(\
 ",
 	},
-	next = {
-		5816,
-	},
-	previous = 5814,
 	page_id = 5815,
 	title_len = 7,
 }

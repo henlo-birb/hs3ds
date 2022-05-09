@@ -5,14 +5,13 @@ return {
 	media = {
 		"05008",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5012,
+	},
+	previous = 5010,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ARANEA: Meenah?\
 ",
 	},
-	next = {
-		5012,
-	},
-	previous = 5010,
 	page_id = 5011,
 	title_len = 3,
 }

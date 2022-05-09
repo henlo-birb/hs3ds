@@ -81,6 +81,8 @@ return {
 		2021,
 	},
 	previous = 2019,
+	log_title = "",
+	log = {},
 	page_id = 2020,
 	title_len = 7,
 }

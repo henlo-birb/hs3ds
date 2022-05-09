@@ -5,14 +5,13 @@ return {
 	media = {
 		"05990",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5994,
+	},
+	previous = 5992,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -245,10 +244,6 @@ return {
 		"ARANEA: This was very special cheru8.\
 ",
 	},
-	next = {
-		5994,
-	},
-	previous = 5992,
 	page_id = 5993,
 	title_len = 10,
 }

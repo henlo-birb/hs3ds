@@ -25,6 +25,8 @@ return {
 		405,
 	},
 	previous = 403,
+	log_title = "",
+	log = {},
 	page_id = 404,
 	title_len = 13,
 }

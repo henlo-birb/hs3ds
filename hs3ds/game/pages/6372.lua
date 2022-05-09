@@ -5,14 +5,13 @@ return {
 	media = {
 		"06369",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6373,
+	},
+	previous = 6371,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ROSE: Dammit!\
 ",
 	},
-	next = {
-		6373,
-	},
-	previous = 6371,
 	page_id = 6372,
 	title_len = 14,
 }

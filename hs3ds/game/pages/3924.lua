@@ -5,14 +5,14 @@ return {
 	media = {
 		"03921",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3925,
+	},
+	previous = 3923,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -903,11 +903,6 @@ return {
 		"wearing when i died.\
 ",
 	},
-	next = {
-		3925,
-	},
-	previous = 3923,
-	theme = "scratch",
 	page_id = 3924,
 	title_len = 7,
 }

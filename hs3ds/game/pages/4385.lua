@@ -5,14 +5,13 @@ return {
 	media = {
 		"04382",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4386,
+	},
+	previous = 4384,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -609,10 +608,6 @@ return {
 		"ARADIA: are you ready sollux?\
 ",
 	},
-	next = {
-		4386,
-	},
-	previous = 4384,
 	page_id = 4385,
 	title_len = 10,
 }

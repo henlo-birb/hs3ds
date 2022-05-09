@@ -5,14 +5,13 @@ return {
 	media = {
 		"07077",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7081,
+	},
+	previous = 7079,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"JADE: and yet they always were\
 ",
 	},
-	next = {
-		7081,
-	},
-	previous = 7079,
 	page_id = 7080,
 	title_len = 14,
 }

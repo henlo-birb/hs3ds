@@ -5,14 +5,13 @@ return {
 	media = {
 		"04684",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4688,
+	},
+	previous = 4686,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -343,10 +342,6 @@ return {
 		"THROUGH THEM TOO.\
 ",
 	},
-	next = {
-		4688,
-	},
-	previous = 4686,
 	page_id = 4687,
 	title_len = 10,
 }

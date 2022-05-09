@@ -5,14 +5,13 @@ return {
 	media = {
 		"07485",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7490,
+	},
+	previous = 7488,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -329,10 +328,6 @@ return {
 		"DAVE: k suit yourself\
 ",
 	},
-	next = {
-		7490,
-	},
-	previous = 7488,
 	page_id = 7489,
 	title_len = 14,
 }

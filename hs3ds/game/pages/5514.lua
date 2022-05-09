@@ -5,14 +5,13 @@ return {
 	media = {
 		"05511",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5515,
+	},
+	previous = 5513,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -714,10 +713,6 @@ return {
 		"TT: Pack your guns dog.\
 ",
 	},
-	next = {
-		5515,
-	},
-	previous = 5513,
 	page_id = 5514,
 	title_len = 3,
 }

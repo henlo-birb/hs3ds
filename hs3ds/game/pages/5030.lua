@@ -7,14 +7,13 @@ return {
 	media = {
 		"05027/05027.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5031,
+	},
+	previous = 5029,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2347,10 +2346,6 @@ return {
 		"uranianUmbra [UU]\
 ",
 	},
-	next = {
-		5031,
-	},
-	previous = 5029,
 	page_id = 5030,
 	title_len = 14,
 }

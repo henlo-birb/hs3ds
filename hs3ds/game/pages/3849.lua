@@ -5,14 +5,14 @@ return {
 	media = {
 		"03846",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3850,
+	},
+	previous = 3848,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -287,11 +287,6 @@ return {
 		"AG: I will 8e waiting. ::::)\
 ",
 	},
-	next = {
-		3850,
-	},
-	previous = 3848,
-	theme = "scratch",
 	page_id = 3849,
 	title_len = 9,
 }

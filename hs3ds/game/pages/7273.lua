@@ -5,14 +5,13 @@ return {
 	media = {
 		"07270",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7274,
+	},
+	previous = 7272,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"JANE: Her death was surely heroic.\
 ",
 	},
-	next = {
-		7274,
-	},
-	previous = 7272,
 	page_id = 7273,
 	title_len = 14,
 }

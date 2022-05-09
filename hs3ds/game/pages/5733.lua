@@ -5,14 +5,14 @@ return {
 	media = {
 		"05730",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5734,
+	},
+	previous = 5732,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,11 +35,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/trickjaketxt_7.gif\"/>\
 ",
 	},
-	next = {
-		5734,
-	},
-	previous = 5732,
-	theme = "trickster",
 	page_id = 5733,
 	title_len = 3,
 }

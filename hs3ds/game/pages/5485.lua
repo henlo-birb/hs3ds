@@ -7,14 +7,13 @@ return {
 	media = {
 		"05482/05482.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5486,
+	},
+	previous = 5484,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -394,10 +393,6 @@ return {
 		"already.\
 ",
 	},
-	next = {
-		5486,
-	},
-	previous = 5484,
 	page_id = 5485,
 	title_len = 13,
 }

@@ -7,14 +7,13 @@ return {
 		"03138_2",
 		"03138_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3142,
+	},
+	previous = 3140,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -156,10 +155,6 @@ return {
 		"GG: ok\
 ",
 	},
-	next = {
-		3142,
-	},
-	previous = 3140,
 	page_id = 3141,
 	title_len = 19,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06079",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6083,
+	},
+	previous = 6081,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -343,10 +342,6 @@ return {
 		"THE FLOOR RIGHT HERE AND NOW!\
 ",
 	},
-	next = {
-		6083,
-	},
-	previous = 6081,
 	page_id = 6082,
 	title_len = 57,
 }

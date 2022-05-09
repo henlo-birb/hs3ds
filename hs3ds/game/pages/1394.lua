@@ -5,14 +5,13 @@ return {
 	media = {
 		"01394",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1395,
+	},
+	previous = 1393,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1967,10 +1966,6 @@ return {
 		"EB: jerkface.\
 ",
 	},
-	next = {
-		1395,
-	},
-	previous = 1393,
 	page_id = 1394,
 	title_len = 19,
 }

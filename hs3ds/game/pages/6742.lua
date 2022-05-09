@@ -6,14 +6,13 @@ return {
 		"06739_1",
 		"06739_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6743,
+	},
+	previous = 6741,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -106,10 +105,6 @@ return {
 		"ARANEA: Oh?\
 ",
 	},
-	next = {
-		6743,
-	},
-	previous = 6741,
 	page_id = 6742,
 	title_len = 14,
 }

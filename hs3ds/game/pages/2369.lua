@@ -5,14 +5,13 @@ return {
 	media = {
 		"02369",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2370,
+	},
+	previous = 2368,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1274,10 +1273,6 @@ return {
 		"ultim8 challenge.\
 ",
 	},
-	next = {
-		2370,
-	},
-	previous = 2368,
 	page_id = 2369,
 	title_len = 29,
 }

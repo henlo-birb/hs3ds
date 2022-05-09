@@ -5,14 +5,13 @@ return {
 	media = {
 		"02617",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2619,
+	},
+	previous = 2617,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"CAA: we w0uld be barred fr0m entry\
 ",
 	},
-	next = {
-		2619,
-	},
-	previous = 2617,
 	page_id = 2618,
 	title_len = 7,
 }

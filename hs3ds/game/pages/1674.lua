@@ -5,14 +5,13 @@ return {
 	media = {
 		"01674",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|RECAP LOG|\
-",
+	content = {},
+	next = {
+		1675,
+	},
+	previous = 1673,
+	log_title = "RECAP LOG",
+	log = {
 		{
 			0,
 			0,
@@ -10486,10 +10485,6 @@ return {
 		"propped up in the background.\
 ",
 	},
-	next = {
-		1675,
-	},
-	previous = 1673,
 	page_id = 1674,
 	title_len = 34,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06736",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6740,
+	},
+	previous = 6738,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"DAVE: cant talk chasing dogs\
 ",
 	},
-	next = {
-		6740,
-	},
-	previous = 6738,
 	page_id = 6739,
 	title_len = 14,
 }

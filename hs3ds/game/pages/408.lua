@@ -54,6 +54,8 @@ return {
 		409,
 	},
 	previous = 407,
+	log_title = "",
+	log = {},
 	page_id = 408,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06393",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		6397,
+	},
+	previous = 6395,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/glitchtext3.gif\"/>\
 ",
 	},
-	next = {
-		6397,
-	},
-	previous = 6395,
 	page_id = 6396,
 	title_len = 14,
 }

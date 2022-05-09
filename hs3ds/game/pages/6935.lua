@@ -180,6 +180,8 @@ return {
 	},
 	previous = 6934,
 	theme = "A6A6",
+	log_title = "",
+	log = {},
 	page_id = 6935,
 	title_len = 32,
 }

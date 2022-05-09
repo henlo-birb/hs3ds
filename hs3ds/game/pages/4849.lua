@@ -5,14 +5,13 @@ return {
 	media = {
 		"04846",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4850,
+	},
+	previous = 4848,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -623,10 +622,6 @@ return {
 		"did nothing but backfire.\
 ",
 	},
-	next = {
-		4850,
-	},
-	previous = 4848,
 	page_id = 4849,
 	title_len = 3,
 }

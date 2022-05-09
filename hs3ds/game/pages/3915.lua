@@ -5,14 +5,14 @@ return {
 	media = {
 		"03912",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3916,
+	},
+	previous = 3914,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,11 +91,6 @@ return {
 		"AG: Never mind those!\
 ",
 	},
-	next = {
-		3916,
-	},
-	previous = 3914,
-	theme = "scratch",
 	page_id = 3915,
 	title_len = 7,
 }

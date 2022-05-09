@@ -5,14 +5,13 @@ return {
 	media = {
 		"07093",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7097,
+	},
+	previous = 7095,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"the breeze flow\
 ",
 	},
-	next = {
-		7097,
-	},
-	previous = 7095,
 	page_id = 7096,
 	title_len = 14,
 }

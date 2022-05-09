@@ -5,14 +5,13 @@ return {
 	media = {
 		"04769",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4773,
+	},
+	previous = 4771,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -448,10 +447,6 @@ return {
 		"the one who didn't?\
 ",
 	},
-	next = {
-		4773,
-	},
-	previous = 4771,
 	page_id = 4772,
 	title_len = 10,
 }

@@ -7,14 +7,13 @@ return {
 		"04101_2",
 		"04101_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4105,
+	},
+	previous = 4103,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -121,10 +120,6 @@ return {
 		"GG: karkat?\
 ",
 	},
-	next = {
-		4105,
-	},
-	previous = 4103,
 	page_id = 4104,
 	title_len = 5,
 }

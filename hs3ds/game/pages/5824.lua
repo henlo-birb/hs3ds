@@ -7,14 +7,13 @@ return {
 	media = {
 		"05821",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5825,
+	},
+	previous = 5823,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -100,10 +99,6 @@ return {
 		"TT: Then what gives.\
 ",
 	},
-	next = {
-		5825,
-	},
-	previous = 5823,
 	page_id = 5824,
 	title_len = 7,
 }

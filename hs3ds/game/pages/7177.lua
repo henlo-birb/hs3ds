@@ -5,14 +5,13 @@ return {
 	media = {
 		"07174",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7178,
+	},
+	previous = 7176,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -112,10 +111,6 @@ return {
 		"QU3ST1ON, NUMBNUTS\
 ",
 	},
-	next = {
-		7178,
-	},
-	previous = 7176,
 	page_id = 7177,
 	title_len = 14,
 }

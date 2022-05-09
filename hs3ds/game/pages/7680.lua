@@ -5,14 +5,13 @@ return {
 	media = {
 		"07676",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7681,
+	},
+	previous = 7679,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"DAVE: god i hope soon\
 ",
 	},
-	next = {
-		7681,
-	},
-	previous = 7679,
 	page_id = 7680,
 	title_len = 14,
 }

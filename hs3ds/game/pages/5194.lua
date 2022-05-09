@@ -5,14 +5,13 @@ return {
 	media = {
 		"05191",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5195,
+	},
+	previous = 5193,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"uu: THERE CAN ONLY BE ONE!\
 ",
 	},
-	next = {
-		5195,
-	},
-	previous = 5193,
 	page_id = 5194,
 	title_len = 3,
 }

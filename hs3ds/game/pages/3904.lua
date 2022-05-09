@@ -5,14 +5,14 @@ return {
 	media = {
 		"03901",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3895,
+	},
+	previous = 3903,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -602,11 +602,6 @@ return {
 		"TT: I am wide awake.\
 ",
 	},
-	next = {
-		3895,
-	},
-	previous = 3903,
-	theme = "scratch",
 	page_id = 3904,
 	title_len = 7,
 }

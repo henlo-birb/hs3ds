@@ -5,14 +5,13 @@ return {
 	media = {
 		"07520",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7525,
+	},
+	previous = 7523,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"VRISKA: Karkat?\
 ",
 	},
-	next = {
-		7525,
-	},
-	previous = 7523,
 	page_id = 7524,
 	title_len = 14,
 }

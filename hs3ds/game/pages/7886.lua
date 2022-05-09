@@ -5,14 +5,13 @@ return {
 	media = {
 		"07882",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7887,
+	},
+	previous = 7885,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"here.\
 ",
 	},
-	next = {
-		7887,
-	},
-	previous = 7885,
 	page_id = 7886,
 	title_len = 14,
 }

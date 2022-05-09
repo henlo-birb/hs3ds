@@ -5,14 +5,13 @@ return {
 	media = {
 		"05030",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5034,
+	},
+	previous = 5032,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -721,10 +720,6 @@ return {
 		"uranianUmbra [UU]\
 ",
 	},
-	next = {
-		5034,
-	},
-	previous = 5032,
 	page_id = 5033,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"03044",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3047,
+	},
+	previous = 3045,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -203,10 +202,6 @@ return {
 		"GA: Yes Its Much Too Late For That\
 ",
 	},
-	next = {
-		3047,
-	},
-	previous = 3045,
 	page_id = 3046,
 	title_len = 3,
 }

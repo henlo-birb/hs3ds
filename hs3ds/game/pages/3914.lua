@@ -5,14 +5,14 @@ return {
 	media = {
 		"03911",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3915,
+	},
+	previous = 3913,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,11 +63,6 @@ return {
 		"GT: :(\
 ",
 	},
-	next = {
-		3915,
-	},
-	previous = 3913,
-	theme = "scratch",
 	page_id = 3914,
 	title_len = 7,
 }

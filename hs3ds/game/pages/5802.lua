@@ -7,14 +7,13 @@ return {
 	media = {
 		"05799",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5803,
+	},
+	previous = 5801,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -149,10 +148,6 @@ return {
 		"TG: and he was right to be\
 ",
 	},
-	next = {
-		5803,
-	},
-	previous = 5801,
 	page_id = 5802,
 	title_len = 7,
 }

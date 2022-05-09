@@ -5,14 +5,13 @@ return {
 	media = {
 		"06611",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6615,
+	},
+	previous = 6613,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -168,10 +167,6 @@ return {
 		"FOCUS damn you!\
 ",
 	},
-	next = {
-		6615,
-	},
-	previous = 6613,
 	page_id = 6614,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05968",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5972,
+	},
+	previous = 5970,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"outside force until it is complete.\
 ",
 	},
-	next = {
-		5972,
-	},
-	previous = 5970,
 	page_id = 5971,
 	title_len = 10,
 }

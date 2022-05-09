@@ -5,14 +5,13 @@ return {
 	media = {
 		"02356",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2357,
+	},
+	previous = 2355,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -427,10 +426,6 @@ return {
 		"GA: I Thought I Was\
 ",
 	},
-	next = {
-		2357,
-	},
-	previous = 2355,
 	page_id = 2356,
 	title_len = 16,
 }

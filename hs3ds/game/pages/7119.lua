@@ -7,14 +7,13 @@ return {
 	media = {
 		"07116",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7120,
+	},
+	previous = 7118,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"ROXY: yoink!\
 ",
 	},
-	next = {
-		7120,
-	},
-	previous = 7118,
 	page_id = 7119,
 	title_len = 14,
 }

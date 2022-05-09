@@ -7,14 +7,14 @@ return {
 	media = {
 		"03848/03848.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3852,
+	},
+	previous = 3850,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -205,11 +205,6 @@ return {
 		"AG: Yet. ::::)\
 ",
 	},
-	next = {
-		3852,
-	},
-	previous = 3850,
-	theme = "scratch",
 	page_id = 3851,
 	title_len = 18,
 }

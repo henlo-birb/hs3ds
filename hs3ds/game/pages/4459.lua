@@ -5,14 +5,13 @@ return {
 	media = {
 		"04456",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4460,
+	},
+	previous = 4458,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"TT: Makin' room for something big.\
 ",
 	},
-	next = {
-		4460,
-	},
-	previous = 4458,
 	page_id = 4459,
 	title_len = 3,
 }

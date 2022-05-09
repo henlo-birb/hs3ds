@@ -7,14 +7,13 @@ return {
 	media = {
 		"00423/00423.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		424,
+	},
+	previous = 422,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -86,10 +85,6 @@ return {
 		"you showed up!\
 ",
 	},
-	next = {
-		424,
-	},
-	previous = 422,
 	page_id = 423,
 	title_len = 3,
 }

@@ -6,14 +6,13 @@ return {
 		"05501_1",
 		"05501_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5505,
+	},
+	previous = 5503,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -155,10 +154,6 @@ return {
 		"I WILL TRY ANOTHER KEY.\
 ",
 	},
-	next = {
-		5505,
-	},
-	previous = 5503,
 	page_id = 5504,
 	title_len = 10,
 }

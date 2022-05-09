@@ -5,14 +5,13 @@ return {
 	media = {
 		"06108",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		6112,
+	},
+	previous = 6110,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1631,10 +1630,6 @@ return {
 		"right now.\
 ",
 	},
-	next = {
-		6112,
-	},
-	previous = 6110,
 	page_id = 6111,
 	title_len = 35,
 }

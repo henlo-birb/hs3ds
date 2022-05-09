@@ -5,14 +5,13 @@ return {
 	media = {
 		"04862",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4866,
+	},
+	previous = 4864,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -931,10 +930,6 @@ return {
 		"stupid as the crackpot theories get.\
 ",
 	},
-	next = {
-		4866,
-	},
-	previous = 4864,
 	page_id = 4865,
 	title_len = 3,
 }

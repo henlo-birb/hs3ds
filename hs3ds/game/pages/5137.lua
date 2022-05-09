@@ -7,14 +7,13 @@ return {
 	media = {
 		"05134/05134.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5203,
+	},
+	previous = 5136,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -219,10 +218,6 @@ return {
 		"uu: \"FAN ART.\"\
 ",
 	},
-	next = {
-		5203,
-	},
-	previous = 5136,
 	page_id = 5137,
 	title_len = 17,
 }

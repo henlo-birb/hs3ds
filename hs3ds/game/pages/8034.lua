@@ -5,14 +5,13 @@ return {
 	media = {
 		"08028",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		8035,
+	},
+	previous = 8033,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -245,10 +244,6 @@ return {
 		"last lightning round question.\
 ",
 	},
-	next = {
-		8035,
-	},
-	previous = 8033,
 	page_id = 8034,
 	title_len = 14,
 }

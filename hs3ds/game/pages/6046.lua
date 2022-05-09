@@ -7,14 +7,13 @@ return {
 	media = {
 		"06043/06043.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6047,
+	},
+	previous = 6045,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"SOLLUX: LADIES.\
 ",
 	},
-	next = {
-		6047,
-	},
-	previous = 6045,
 	page_id = 6046,
 	title_len = 10,
 }

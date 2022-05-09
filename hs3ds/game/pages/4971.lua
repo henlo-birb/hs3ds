@@ -5,14 +5,13 @@ return {
 	media = {
 		"04968",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4972,
+	},
+	previous = 4970,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1015,10 +1014,6 @@ return {
 		"TT: What is the twist to the twist?\
 ",
 	},
-	next = {
-		4972,
-	},
-	previous = 4970,
 	page_id = 4971,
 	title_len = 3,
 }

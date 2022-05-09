@@ -5,14 +5,13 @@ return {
 	media = {
 		"04864",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4868,
+	},
+	previous = 4866,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"TT: He killed them both.\
 ",
 	},
-	next = {
-		4868,
-	},
-	previous = 4866,
 	page_id = 4867,
 	title_len = 3,
 }

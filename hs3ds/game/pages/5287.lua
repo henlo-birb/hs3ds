@@ -5,14 +5,13 @@ return {
 	media = {
 		"05284",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5288,
+	},
+	previous = 5286,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"JOHN: THIS MOVIE FUCKING SUCKS!!!\
 ",
 	},
-	next = {
-		5288,
-	},
-	previous = 5286,
 	page_id = 5287,
 	title_len = 10,
 }

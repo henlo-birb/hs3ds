@@ -5,14 +5,13 @@ return {
 	media = {
 		"04455",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4459,
+	},
+	previous = 4457,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -154,10 +153,6 @@ return {
 		"front of the bars for good measure.\
 ",
 	},
-	next = {
-		4459,
-	},
-	previous = 4457,
 	page_id = 4458,
 	title_len = 3,
 }

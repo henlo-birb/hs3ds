@@ -5,14 +5,13 @@ return {
 	media = {
 		"06327",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6330,
+	},
+	previous = 6328,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -350,10 +349,6 @@ return {
 		"if you would be so kind\
 ",
 	},
-	next = {
-		6330,
-	},
-	previous = 6328,
 	page_id = 6329,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05967",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5971,
+	},
+	previous = 5969,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"astronomical unit in length.\
 ",
 	},
-	next = {
-		5971,
-	},
-	previous = 5969,
 	page_id = 5970,
 	title_len = 10,
 }

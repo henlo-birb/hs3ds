@@ -5,14 +5,13 @@ return {
 	media = {
 		"05292",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5296,
+	},
+	previous = 5294,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1267,10 +1266,6 @@ return {
 		"JADE: what is that?\
 ",
 	},
-	next = {
-		5296,
-	},
-	previous = 5294,
 	page_id = 5295,
 	title_len = 10,
 }

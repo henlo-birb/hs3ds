@@ -5,14 +5,13 @@ return {
 	media = {
 		"05186",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5190,
+	},
+	previous = 5188,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"uu: ABOuT THE DIRK HuMAN.\
 ",
 	},
-	next = {
-		5190,
-	},
-	previous = 5188,
 	page_id = 5189,
 	title_len = 3,
 }

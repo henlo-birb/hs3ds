@@ -7,14 +7,14 @@ return {
 	media = {
 		"05734/05734.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5738,
+	},
+	previous = 5736,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,11 +30,6 @@ return {
 		"ROXY: (im so boned)\
 ",
 	},
-	next = {
-		5738,
-	},
-	previous = 5736,
-	theme = "trickster",
 	page_id = 5737,
 	title_len = 3,
 }

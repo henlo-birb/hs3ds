@@ -5,14 +5,13 @@ return {
 	media = {
 		"03244",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3248,
+	},
+	previous = 3246,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -392,10 +391,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/jadespritehead.gif\"/>\
 ",
 	},
-	next = {
-		3248,
-	},
-	previous = 3246,
 	page_id = 3247,
 	title_len = 3,
 }

@@ -6,14 +6,14 @@ return {
 		"04005_1",
 		"04005_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4009,
+	},
+	previous = 4007,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -43,11 +43,6 @@ return {
 		"UNIVERSE.\
 ",
 	},
-	next = {
-		4009,
-	},
-	previous = 4007,
-	theme = "scratch",
 	page_id = 4008,
 	title_len = 7,
 }

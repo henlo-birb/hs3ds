@@ -5,14 +5,13 @@ return {
 	media = {
 		"07015",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7019,
+	},
+	previous = 7017,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -336,10 +335,6 @@ return {
 		"JADE: you were a god tier!\
 ",
 	},
-	next = {
-		7019,
-	},
-	previous = 7017,
 	page_id = 7018,
 	title_len = 14,
 }

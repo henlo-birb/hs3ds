@@ -5,14 +5,13 @@ return {
 	media = {
 		"07128",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7132,
+	},
+	previous = 7130,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"JOHN: it is WAY too fundamental.\
 ",
 	},
-	next = {
-		7132,
-	},
-	previous = 7130,
 	page_id = 7131,
 	title_len = 14,
 }

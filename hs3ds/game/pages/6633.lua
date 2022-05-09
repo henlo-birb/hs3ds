@@ -5,14 +5,13 @@ return {
 	media = {
 		"06630",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6634,
+	},
+	previous = 6632,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"how can the power of hope be so...\
 ",
 	},
-	next = {
-		6634,
-	},
-	previous = 6632,
 	page_id = 6633,
 	title_len = 14,
 }

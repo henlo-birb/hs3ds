@@ -5,14 +5,13 @@ return {
 	media = {
 		"07810",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7815,
+	},
+	previous = 7813,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -238,10 +237,6 @@ return {
 		"there in plain sight!\
 ",
 	},
-	next = {
-		7815,
-	},
-	previous = 7813,
 	page_id = 7814,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"03594",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3598,
+	},
+	previous = 3596,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -637,10 +636,6 @@ return {
 		"AA: kanaya tell us what happened next!\
 ",
 	},
-	next = {
-		3598,
-	},
-	previous = 3596,
 	page_id = 3597,
 	title_len = 3,
 }

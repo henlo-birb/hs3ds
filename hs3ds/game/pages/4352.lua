@@ -5,14 +5,13 @@ return {
 	media = {
 		"04349",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4353,
+	},
+	previous = 4351,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"FUCKING THINGS AWAY FROM ME\
 ",
 	},
-	next = {
-		4353,
-	},
-	previous = 4351,
 	page_id = 4352,
 	title_len = 10,
 }

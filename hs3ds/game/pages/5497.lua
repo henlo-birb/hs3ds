@@ -5,14 +5,13 @@ return {
 	media = {
 		"05494",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5498,
+	},
+	previous = 5496,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1127,10 +1126,6 @@ return {
 		"WOULD YOU WANT TO MESS WITH...\
 ",
 	},
-	next = {
-		5498,
-	},
-	previous = 5496,
 	page_id = 5497,
 	title_len = 10,
 }

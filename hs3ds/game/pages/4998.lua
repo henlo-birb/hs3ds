@@ -5,14 +5,13 @@ return {
 	media = {
 		"04995",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4999,
+	},
+	previous = 4997,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"MEENAH: and thats glubbin that\
 ",
 	},
-	next = {
-		4999,
-	},
-	previous = 4997,
 	page_id = 4998,
 	title_len = 3,
 }

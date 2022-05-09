@@ -8,14 +8,13 @@ return {
 		"04208_1",
 		"04208_2_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4212,
+	},
+	previous = 4210,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -101,10 +100,6 @@ return {
 		"GG: I realized this was a funeral.\
 ",
 	},
-	next = {
-		4212,
-	},
-	previous = 4210,
 	page_id = 4211,
 	title_len = 3,
 }

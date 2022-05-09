@@ -5,14 +5,13 @@ return {
 	media = {
 		"06775",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6779,
+	},
+	previous = 6777,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"TEREZI: OH GOD\
 ",
 	},
-	next = {
-		6779,
-	},
-	previous = 6777,
 	page_id = 6778,
 	title_len = 14,
 }

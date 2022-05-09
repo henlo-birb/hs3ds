@@ -6,14 +6,14 @@ return {
 		"03880_1",
 		"03880_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3884,
+	},
+	previous = 3882,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -694,11 +694,6 @@ return {
 		"AG: If you want.\
 ",
 	},
-	next = {
-		3884,
-	},
-	previous = 3882,
-	theme = "scratch",
 	page_id = 3883,
 	title_len = 7,
 }

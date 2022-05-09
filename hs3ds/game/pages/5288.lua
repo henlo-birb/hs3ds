@@ -5,14 +5,13 @@ return {
 	media = {
 		"05285",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5289,
+	},
+	previous = 5287,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -798,10 +797,6 @@ return {
 		"action movie cliches!\
 ",
 	},
-	next = {
-		5289,
-	},
-	previous = 5287,
 	page_id = 5288,
 	title_len = 10,
 }

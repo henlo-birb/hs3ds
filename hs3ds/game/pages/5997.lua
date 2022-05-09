@@ -7,14 +7,13 @@ return {
 	media = {
 		"05994/05994.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5998,
+	},
+	previous = 5996,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -730,10 +729,6 @@ return {
 		"at all.\
 ",
 	},
-	next = {
-		5998,
-	},
-	previous = 5996,
 	page_id = 5997,
 	title_len = 13,
 }

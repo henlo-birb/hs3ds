@@ -7,14 +7,13 @@ return {
 	media = {
 		"02728retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2730,
+	},
+	previous = 2728,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -933,10 +932,6 @@ return {
 		"GA: And I Dont Know If I Want That\
 ",
 	},
-	next = {
-		2730,
-	},
-	previous = 2728,
 	page_id = 2729,
 	title_len = 3,
 }

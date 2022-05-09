@@ -5,14 +5,13 @@ return {
 	media = {
 		"07528",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7533,
+	},
+	previous = 7531,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -420,10 +419,6 @@ return {
 		"teams are set.\
 ",
 	},
-	next = {
-		7533,
-	},
-	previous = 7531,
 	page_id = 7532,
 	title_len = 14,
 }

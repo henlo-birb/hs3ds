@@ -7,14 +7,13 @@ return {
 	media = {
 		"00110/00110.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		111,
+	},
+	previous = 109,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1227,10 +1226,6 @@ return {
 		"EB: ok, i will.\
 ",
 	},
-	next = {
-		111,
-	},
-	previous = 109,
 	page_id = 110,
 	title_len = 27,
 }

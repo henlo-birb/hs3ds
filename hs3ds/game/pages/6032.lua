@@ -5,14 +5,13 @@ return {
 	media = {
 		"06029",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6033,
+	},
+	previous = 6031,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -203,10 +202,6 @@ return {
 		"legendary rings.\
 ",
 	},
-	next = {
-		6033,
-	},
-	previous = 6031,
 	page_id = 6032,
 	title_len = 10,
 }

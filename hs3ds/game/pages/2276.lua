@@ -5,14 +5,13 @@ return {
 	media = {
 		"02276",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2277,
+	},
+	previous = 2275,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1540,10 +1539,6 @@ return {
 		"apocalypseArisen [AA]\
 ",
 	},
-	next = {
-		2277,
-	},
-	previous = 2275,
 	page_id = 2276,
 	title_len = 31,
 }

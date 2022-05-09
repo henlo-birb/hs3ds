@@ -5,14 +5,13 @@ return {
 	media = {
 		"02389",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		2390,
+	},
+	previous = 2388,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"MOTHERSPRITE: There there, sweetheart.\
 ",
 	},
-	next = {
-		2390,
-	},
-	previous = 2388,
 	page_id = 2389,
 	title_len = 7,
 }

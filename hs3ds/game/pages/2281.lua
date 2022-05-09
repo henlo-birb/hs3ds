@@ -7,14 +7,13 @@ return {
 	media = {
 		"02281retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2282,
+	},
+	previous = 2280,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -702,10 +701,6 @@ return {
 		"AA: ribbit\
 ",
 	},
-	next = {
-		2282,
-	},
-	previous = 2280,
 	page_id = 2281,
 	title_len = 7,
 }

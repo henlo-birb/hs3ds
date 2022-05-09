@@ -5,14 +5,13 @@ return {
 	media = {
 		"03891",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		3874,
+	},
+	theme = "scratch",
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -2072,10 +2071,6 @@ return {
 		"JASPERSPRITE: Purrrrr.\
 ",
 	},
-	next = {
-		3874,
-	},
-	theme = "scratch",
 	page_id = 3894,
 	title_len = 3,
 }

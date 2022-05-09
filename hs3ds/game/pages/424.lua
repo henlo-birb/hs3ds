@@ -7,14 +7,13 @@ return {
 	media = {
 		"00424/00424.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		425,
+	},
+	previous = 423,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -142,10 +141,6 @@ return {
 		"lose, without exception!\
 ",
 	},
-	next = {
-		425,
-	},
-	previous = 423,
 	page_id = 424,
 	title_len = 8,
 }

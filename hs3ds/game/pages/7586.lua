@@ -5,14 +5,13 @@ return {
 	media = {
 		"07582",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7587,
+	},
+	previous = 7585,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -581,10 +580,6 @@ return {
 		"Freudian boners.)\
 ",
 	},
-	next = {
-		7587,
-	},
-	previous = 7585,
 	page_id = 7586,
 	title_len = 14,
 }

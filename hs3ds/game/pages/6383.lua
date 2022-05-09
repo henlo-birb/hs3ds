@@ -5,14 +5,12 @@ return {
 	media = {
 		"06380",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6384,
+	},
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -727,9 +725,6 @@ return {
 		},
 		"DAVE: like for training purposes\
 ",
-	},
-	next = {
-		6384,
 	},
 	page_id = 6383,
 	title_len = 14,

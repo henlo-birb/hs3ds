@@ -5,14 +5,13 @@ return {
 	media = {
 		"04992",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4996,
+	},
+	previous = 4994,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"guts to off anybody\
 ",
 	},
-	next = {
-		4996,
-	},
-	previous = 4994,
 	page_id = 4995,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07500",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7505,
+	},
+	previous = 7503,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -3962,10 +3961,6 @@ return {
 		"JASPERSPRITE: Meow.\
 ",
 	},
-	next = {
-		7505,
-	},
-	previous = 7503,
 	page_id = 7504,
 	title_len = 14,
 }

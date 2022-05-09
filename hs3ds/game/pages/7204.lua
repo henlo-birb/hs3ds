@@ -5,14 +5,13 @@ return {
 	media = {
 		"07201",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7205,
+	},
+	previous = 7203,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -56,10 +55,6 @@ return {
 		"JANE: I could make a trollsona too?\
 ",
 	},
-	next = {
-		7205,
-	},
-	previous = 7203,
 	page_id = 7204,
 	title_len = 14,
 }

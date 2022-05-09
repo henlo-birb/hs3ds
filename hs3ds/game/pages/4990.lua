@@ -5,14 +5,13 @@ return {
 	media = {
 		"04987",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4991,
+	},
+	previous = 4989,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -791,10 +790,6 @@ return {
 		"denizUMPH.\
 ",
 	},
-	next = {
-		4991,
-	},
-	previous = 4989,
 	page_id = 4990,
 	title_len = 3,
 }

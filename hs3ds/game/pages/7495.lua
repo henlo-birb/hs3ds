@@ -5,14 +5,13 @@ return {
 	media = {
 		"07491",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7496,
+	},
+	previous = 7494,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2436,10 +2435,6 @@ return {
 		"ROSE: Let it be a lesson to us all.\
 ",
 	},
-	next = {
-		7496,
-	},
-	previous = 7494,
 	page_id = 7495,
 	title_len = 14,
 }

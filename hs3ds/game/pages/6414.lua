@@ -5,14 +5,13 @@ return {
 	media = {
 		"06411",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6415,
+	},
+	previous = 6413,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ROSE: TEREZI, WHERE ARE YOU GOING?\
 ",
 	},
-	next = {
-		6415,
-	},
-	previous = 6413,
 	page_id = 6414,
 	title_len = 14,
 }

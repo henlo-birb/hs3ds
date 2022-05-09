@@ -277,6 +277,8 @@ return {
 	},
 	next = {},
 	previous = 6400,
+	log_title = "",
+	log = {},
 	page_id = 6401,
 	title_len = 14,
 }

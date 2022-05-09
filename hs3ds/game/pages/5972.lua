@@ -5,14 +5,13 @@ return {
 	media = {
 		"05969",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5973,
+	},
+	previous = 5971,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"fertilized with the young.\
 ",
 	},
-	next = {
-		5973,
-	},
-	previous = 5971,
 	page_id = 5972,
 	title_len = 10,
 }

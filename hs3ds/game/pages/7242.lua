@@ -5,14 +5,13 @@ return {
 	media = {
 		"07239",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7243,
+	},
+	previous = 7241,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"bit important to the time line?\
 ",
 	},
-	next = {
-		7243,
-	},
-	previous = 7241,
 	page_id = 7242,
 	title_len = 14,
 }

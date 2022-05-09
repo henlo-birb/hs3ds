@@ -5,14 +5,13 @@ return {
 	media = {
 		"05410",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5414,
+	},
+	previous = 5412,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -833,10 +832,6 @@ return {
 		"KANAYA: That Could Be Very Awkward Yes\
 ",
 	},
-	next = {
-		5414,
-	},
-	previous = 5412,
 	page_id = 5413,
 	title_len = 10,
 }

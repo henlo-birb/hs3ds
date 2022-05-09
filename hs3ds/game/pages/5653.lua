@@ -5,14 +5,13 @@ return {
 	media = {
 		"05650",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5654,
+	},
+	previous = 5652,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"DIRK: Fuck it.\
 ",
 	},
-	next = {
-		5654,
-	},
-	previous = 5652,
 	page_id = 5653,
 	title_len = 14,
 }

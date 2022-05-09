@@ -5,14 +5,13 @@ return {
 	media = {
 		"07267",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7271,
+	},
+	previous = 7269,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -231,10 +230,6 @@ return {
 		"JANE: A prison break!!!\
 ",
 	},
-	next = {
-		7271,
-	},
-	previous = 7269,
 	page_id = 7270,
 	title_len = 14,
 }

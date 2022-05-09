@@ -5,14 +5,13 @@ return {
 	media = {
 		"04831",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		4835,
+	},
+	previous = 4833,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -217,10 +216,6 @@ return {
 		"GAMZEE: honk.\
 ",
 	},
-	next = {
-		4835,
-	},
-	previous = 4833,
 	page_id = 4834,
 	title_len = 34,
 }

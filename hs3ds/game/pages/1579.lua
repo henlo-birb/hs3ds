@@ -5,14 +5,13 @@ return {
 	media = {
 		"01579",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1580,
+	},
+	previous = 1578,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1078,10 +1077,6 @@ return {
 		"the file \"GOH3R3JOHN.G1F\" --\
 ",
 	},
-	next = {
-		1580,
-	},
-	previous = 1578,
 	page_id = 1579,
 	title_len = 3,
 }

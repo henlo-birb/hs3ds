@@ -7,14 +7,13 @@ return {
 	media = {
 		"02704_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2706,
+	},
+	previous = 2704,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2053,10 +2052,6 @@ return {
 		"[GA]\
 ",
 	},
-	next = {
-		2706,
-	},
-	previous = 2704,
 	page_id = 2705,
 	title_len = 29,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07068",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7072,
+	},
+	previous = 7070,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -763,10 +762,6 @@ return {
 		"sUperflUoUs doodling.\
 ",
 	},
-	next = {
-		7072,
-	},
-	previous = 7070,
 	page_id = 7071,
 	title_len = 14,
 }

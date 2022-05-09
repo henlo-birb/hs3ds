@@ -5,14 +5,13 @@ return {
 	media = {
 		"07484",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7489,
+	},
+	previous = 7487,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"making karkat uncomfortable now.\
 ",
 	},
-	next = {
-		7489,
-	},
-	previous = 7487,
 	page_id = 7488,
 	title_len = 14,
 }

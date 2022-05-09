@@ -5,14 +5,13 @@ return {
 	media = {
 		"06720",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6724,
+	},
+	previous = 6722,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"You leave me with no alternative.\
 ",
 	},
-	next = {
-		6724,
-	},
-	previous = 6722,
 	page_id = 6723,
 	title_len = 14,
 }

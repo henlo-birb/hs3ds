@@ -6,14 +6,13 @@ return {
 		"02161_1",
 		"02161_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2162,
+	},
+	previous = 2160,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -869,10 +868,6 @@ return {
 		"CG: TAVROS IS WAITING.\
 ",
 	},
-	next = {
-		2162,
-	},
-	previous = 2160,
 	page_id = 2161,
 	title_len = 22,
 }

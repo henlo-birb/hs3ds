@@ -5,14 +5,13 @@ return {
 	media = {
 		"07666",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7671,
+	},
+	previous = 7669,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"*Trills into the night.*\
 ",
 	},
-	next = {
-		7671,
-	},
-	previous = 7669,
 	page_id = 7670,
 	title_len = 14,
 }

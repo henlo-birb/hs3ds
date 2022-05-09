@@ -5,14 +5,13 @@ return {
 	media = {
 		"05170",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5174,
+	},
+	previous = 5172,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"OF BROS. RIGHT?\
 ",
 	},
-	next = {
-		5174,
-	},
-	previous = 5172,
 	page_id = 5173,
 	title_len = 3,
 }

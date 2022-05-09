@@ -5,14 +5,13 @@ return {
 	media = {
 		"05481",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5485,
+	},
+	previous = 5483,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -840,10 +839,6 @@ return {
 		"you! Ooh, I wonder what it could be...\
 ",
 	},
-	next = {
-		5485,
-	},
-	previous = 5483,
 	page_id = 5484,
 	title_len = 10,
 }

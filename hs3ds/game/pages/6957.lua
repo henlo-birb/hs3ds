@@ -7,14 +7,13 @@ return {
 	media = {
 		"06954",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6958,
+	},
+	previous = 6956,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"DIRK: I failed.\
 ",
 	},
-	next = {
-		6958,
-	},
-	previous = 6956,
 	page_id = 6957,
 	title_len = 14,
 }

@@ -5,14 +5,12 @@ return {
 	media = {
 		"07806",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7811,
+	},
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1868,9 +1866,6 @@ return {
 		},
 		"hospital or what?!\
 ",
-	},
-	next = {
-		7811,
 	},
 	page_id = 7810,
 	title_len = 14,

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05679",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5683,
+	},
+	previous = 5681,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"uu: INTO MY HIDEOUS SOUL.\
 ",
 	},
-	next = {
-		5683,
-	},
-	previous = 5681,
 	page_id = 5682,
 	title_len = 3,
 }

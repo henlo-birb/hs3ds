@@ -5,14 +5,13 @@ return {
 	media = {
 		"04354",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4358,
+	},
+	previous = 4356,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1008,10 +1007,6 @@ return {
 		"KARKAT: KANAYA WHERE ARE YOU GOING?\
 ",
 	},
-	next = {
-		4358,
-	},
-	previous = 4356,
 	page_id = 4357,
 	title_len = 10,
 }

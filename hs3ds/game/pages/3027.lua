@@ -5,14 +5,13 @@ return {
 	media = {
 		"03026",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3028,
+	},
+	previous = 3026,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -455,10 +454,6 @@ return {
 		"TG: im duplicating my server disc\
 ",
 	},
-	next = {
-		3028,
-	},
-	previous = 3026,
 	page_id = 3027,
 	title_len = 17,
 }

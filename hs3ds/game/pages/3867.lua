@@ -6,14 +6,14 @@ return {
 		"03864_1",
 		"03864_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3868,
+	},
+	previous = 3866,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1205,11 +1205,6 @@ return {
 		"EB: did it work???\
 ",
 	},
-	next = {
-		3868,
-	},
-	previous = 3866,
-	theme = "scratch",
 	page_id = 3867,
 	title_len = 27,
 }

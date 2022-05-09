@@ -5,14 +5,13 @@ return {
 	media = {
 		"03629",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3633,
+	},
+	previous = 3631,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1932,10 +1931,6 @@ return {
 		"The ball, dunkass.\
 ",
 	},
-	next = {
-		3633,
-	},
-	previous = 3631,
 	page_id = 3632,
 	title_len = 3,
 }

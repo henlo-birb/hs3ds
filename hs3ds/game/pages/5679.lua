@@ -5,14 +5,13 @@ return {
 	media = {
 		"05676",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5680,
+	},
+	previous = 5678,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -182,10 +181,6 @@ return {
 		"uu: THROUGH MY SOFT HAPPY PAL.\
 ",
 	},
-	next = {
-		5680,
-	},
-	previous = 5678,
 	page_id = 5679,
 	title_len = 3,
 }

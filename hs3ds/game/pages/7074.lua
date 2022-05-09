@@ -5,14 +5,13 @@ return {
 	media = {
 		"07071",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7075,
+	},
+	previous = 7073,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -161,10 +160,6 @@ return {
 		"CALLIOPE: jade.\
 ",
 	},
-	next = {
-		7075,
-	},
-	previous = 7073,
 	page_id = 7074,
 	title_len = 14,
 }

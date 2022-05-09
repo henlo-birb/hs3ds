@@ -5,14 +5,13 @@ return {
 	media = {
 		"07511",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7516,
+	},
+	previous = 7486,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -63,10 +62,6 @@ return {
 		"8ack in order!\
 ",
 	},
-	next = {
-		7516,
-	},
-	previous = 7486,
 	page_id = 7515,
 	title_len = 14,
 }

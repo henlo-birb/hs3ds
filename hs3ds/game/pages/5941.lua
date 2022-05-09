@@ -5,14 +5,13 @@ return {
 	media = {
 		"05938",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5942,
+	},
+	previous = 5940,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"like i give a fuck\
 ",
 	},
-	next = {
-		5942,
-	},
-	previous = 5940,
 	page_id = 5941,
 	title_len = 10,
 }

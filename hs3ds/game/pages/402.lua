@@ -10,6 +10,8 @@ return {
 		403,
 	},
 	previous = 401,
+	log_title = "",
+	log = {},
 	page_id = 402,
 	title_len = 13,
 }

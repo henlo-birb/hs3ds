@@ -5,14 +5,13 @@ return {
 	media = {
 		"06371",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6375,
+	},
+	previous = 6373,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ROSE: Where did my velvet pillow go?\
 ",
 	},
-	next = {
-		6375,
-	},
-	previous = 6373,
 	page_id = 6374,
 	title_len = 14,
 }

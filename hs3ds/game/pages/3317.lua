@@ -6,14 +6,13 @@ return {
 		"03314_1",
 		"03314_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3318,
+	},
+	previous = 3316,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -134,10 +133,6 @@ return {
 		"suffocate!\
 ",
 	},
-	next = {
-		3318,
-	},
-	previous = 3316,
 	page_id = 3317,
 	title_len = 17,
 }

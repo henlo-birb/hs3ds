@@ -6,14 +6,13 @@ return {
 		"05397_1",
 		"05397_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5401,
+	},
+	previous = 5399,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -302,10 +301,6 @@ return {
 		"DAVE: (look out be GOD DAMN LOW)\
 ",
 	},
-	next = {
-		5401,
-	},
-	previous = 5399,
 	page_id = 5400,
 	title_len = 10,
 }

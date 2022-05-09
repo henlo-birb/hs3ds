@@ -5,14 +5,13 @@ return {
 	media = {
 		"04430",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4434,
+	},
+	previous = 4432,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2387,10 +2386,6 @@ return {
 		"TG: what you want 2c me disappearify\
 ",
 	},
-	next = {
-		4434,
-	},
-	previous = 4432,
 	page_id = 4433,
 	title_len = 3,
 }

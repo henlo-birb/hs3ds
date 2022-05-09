@@ -5,14 +5,13 @@ return {
 	media = {
 		"02280",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2281,
+	},
+	previous = 2279,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1022,10 +1021,6 @@ return {
 		"AA: i cant really c0ntr0l the ribbits\
 ",
 	},
-	next = {
-		2281,
-	},
-	previous = 2279,
 	page_id = 2280,
 	title_len = 7,
 }

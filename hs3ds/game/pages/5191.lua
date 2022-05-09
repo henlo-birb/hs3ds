@@ -5,14 +5,13 @@ return {
 	media = {
 		"05188",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5192,
+	},
+	previous = 5190,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"uu: KID SNuFF CHANNEL.\
 ",
 	},
-	next = {
-		5192,
-	},
-	previous = 5190,
 	page_id = 5191,
 	title_len = 3,
 }

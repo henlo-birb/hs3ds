@@ -6,14 +6,14 @@ return {
 		"05755_1",
 		"05755_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5759,
+	},
+	previous = 5757,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -50,11 +50,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		5759,
-	},
-	previous = 5757,
-	theme = "trickster",
 	page_id = 5758,
 	title_len = 3,
 }

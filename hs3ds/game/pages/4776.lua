@@ -5,14 +5,13 @@ return {
 	media = {
 		"04773",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4777,
+	},
+	previous = 4775,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -154,10 +153,6 @@ return {
 		"was at least offer.\
 ",
 	},
-	next = {
-		4777,
-	},
-	previous = 4775,
 	page_id = 4776,
 	title_len = 10,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04844",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4848,
+	},
+	previous = 4846,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -875,10 +874,6 @@ return {
 		"sea hag's power play.\
 ",
 	},
-	next = {
-		4848,
-	},
-	previous = 4846,
 	page_id = 4847,
 	title_len = 22,
 }

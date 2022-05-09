@@ -5,14 +5,13 @@ return {
 	media = {
 		"04351",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4355,
+	},
+	previous = 4353,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -700,10 +699,6 @@ return {
 		"KANAYA: Okay Then What Do We Do\
 ",
 	},
-	next = {
-		4355,
-	},
-	previous = 4353,
 	page_id = 4354,
 	title_len = 10,
 }

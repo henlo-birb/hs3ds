@@ -5,14 +5,13 @@ return {
 	media = {
 		"07611",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7616,
+	},
+	previous = 7614,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -252,10 +251,6 @@ return {
 		"my memory of her lair.\
 ",
 	},
-	next = {
-		7616,
-	},
-	previous = 7614,
 	page_id = 7615,
 	title_len = 14,
 }

@@ -6,14 +6,13 @@ return {
 		"03604_1",
 		"03604_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3608,
+	},
+	previous = 3606,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -71,10 +70,6 @@ return {
 		"AA: thus sealing my fate\
 ",
 	},
-	next = {
-		3608,
-	},
-	previous = 3606,
 	page_id = 3607,
 	title_len = 3,
 }

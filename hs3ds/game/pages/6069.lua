@@ -5,14 +5,13 @@ return {
 	media = {
 		"06066",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6070,
+	},
+	previous = 6068,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -406,10 +405,6 @@ return {
 		"MEENAH: i aint ready to say fareshell\
 ",
 	},
-	next = {
-		6070,
-	},
-	previous = 6068,
 	page_id = 6069,
 	title_len = 10,
 }

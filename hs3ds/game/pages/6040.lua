@@ -5,14 +5,13 @@ return {
 	media = {
 		"06037",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6041,
+	},
+	previous = 6039,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"TAVROS: wHAT RING,\
 ",
 	},
-	next = {
-		6041,
-	},
-	previous = 6039,
 	page_id = 6040,
 	title_len = 10,
 }

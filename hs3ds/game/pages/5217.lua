@@ -7,14 +7,13 @@ return {
 	media = {
 		"05214/05214.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5218,
+	},
+	previous = 5216,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"DIRK: See you later.\
 ",
 	},
-	next = {
-		5218,
-	},
-	previous = 5216,
 	page_id = 5217,
 	title_len = 3,
 }

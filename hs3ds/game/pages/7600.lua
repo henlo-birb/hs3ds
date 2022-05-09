@@ -5,14 +5,13 @@ return {
 	media = {
 		"07596",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7601,
+	},
+	previous = 7599,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -91,10 +90,6 @@ return {
 		"CALLIOPE: there is no way to measure.\
 ",
 	},
-	next = {
-		7601,
-	},
-	previous = 7599,
 	page_id = 7600,
 	title_len = 14,
 }

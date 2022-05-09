@@ -5,14 +5,14 @@ return {
 	media = {
 		"04020",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4024,
+	},
+	previous = 4022,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -182,11 +182,6 @@ return {
 		"THE DISEASE ALL ALONG.\
 ",
 	},
-	next = {
-		4024,
-	},
-	previous = 4022,
-	theme = "scratch",
 	page_id = 4023,
 	title_len = 7,
 }

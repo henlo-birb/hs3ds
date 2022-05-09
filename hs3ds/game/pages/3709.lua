@@ -6,14 +6,13 @@ return {
 		"03706_1",
 		"03706_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3710,
+	},
+	previous = 3708,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -484,10 +483,6 @@ return {
 		"TG: thats what a real friend would do\
 ",
 	},
-	next = {
-		3710,
-	},
-	previous = 3708,
 	page_id = 3709,
 	title_len = 49,
 }

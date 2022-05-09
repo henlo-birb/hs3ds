@@ -5,14 +5,13 @@ return {
 	media = {
 		"06360",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6363,
+	},
+	previous = 6361,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1099,10 +1098,6 @@ return {
 		"missing events?\
 ",
 	},
-	next = {
-		6363,
-	},
-	previous = 6361,
 	page_id = 6362,
 	title_len = 14,
 }

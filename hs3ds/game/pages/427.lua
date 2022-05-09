@@ -5,14 +5,13 @@ return {
 	media = {
 		"00427",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		428,
+	},
+	previous = 426,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -112,10 +111,6 @@ return {
 		"NANNASPRITE: HOO HOO HOO HOO HOO!\
 ",
 	},
-	next = {
-		428,
-	},
-	previous = 426,
 	page_id = 427,
 	title_len = 4,
 }

@@ -5,14 +5,14 @@ return {
 	media = {
 		"03879",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3883,
+	},
+	previous = 3881,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1197,11 +1197,6 @@ return {
 		"AG: I guess I must 8e dead.\
 ",
 	},
-	next = {
-		3883,
-	},
-	previous = 3881,
-	theme = "scratch",
 	page_id = 3882,
 	title_len = 7,
 }

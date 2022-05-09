@@ -5,14 +5,13 @@ return {
 	media = {
 		"07834",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7839,
+	},
+	previous = 7837,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -763,10 +762,6 @@ return {
 		"than people give you credit for.\
 ",
 	},
-	next = {
-		7839,
-	},
-	previous = 7837,
 	page_id = 7838,
 	title_len = 14,
 }

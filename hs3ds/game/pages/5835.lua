@@ -8,14 +8,13 @@ return {
 		"05832_1",
 		"05832_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5836,
+	},
+	previous = 5834,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -283,10 +282,6 @@ return {
 		"TT: Yeah.\
 ",
 	},
-	next = {
-		5836,
-	},
-	previous = 5834,
 	page_id = 5835,
 	title_len = 7,
 }

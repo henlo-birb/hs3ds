@@ -5,14 +5,13 @@ return {
 	media = {
 		"04709",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4713,
+	},
+	previous = 4711,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1141,10 +1140,6 @@ return {
 		"ALL IN THE BOOK.\
 ",
 	},
-	next = {
-		4713,
-	},
-	previous = 4711,
 	page_id = 4712,
 	title_len = 10,
 }

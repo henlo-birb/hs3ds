@@ -5,14 +5,13 @@ return {
 	media = {
 		"05479",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5483,
+	},
+	previous = 5481,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -630,10 +629,6 @@ return {
 		"Too bad you shot that clown.\
 ",
 	},
-	next = {
-		5483,
-	},
-	previous = 5481,
 	page_id = 5482,
 	title_len = 10,
 }

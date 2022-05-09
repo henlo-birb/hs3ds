@@ -5,14 +5,13 @@ return {
 	media = {
 		"06384",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6388,
+	},
+	previous = 6386,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"DAVE: GET AWAY FROM HIM!\
 ",
 	},
-	next = {
-		6388,
-	},
-	previous = 6386,
 	page_id = 6387,
 	title_len = 14,
 }

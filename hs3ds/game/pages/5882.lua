@@ -7,14 +7,13 @@ return {
 	media = {
 		"05879",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5883,
+	},
+	previous = 5881,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"JADE: where are your pants?\
 ",
 	},
-	next = {
-		5883,
-	},
-	previous = 5881,
 	page_id = 5882,
 	title_len = 7,
 }

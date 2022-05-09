@@ -7,14 +7,14 @@ return {
 	media = {
 		"03707",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		7304,
+		3711,
+	},
+	previous = 3709,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -975,11 +975,6 @@ return {
 		"GC: WHO DO YOU TH1NK??\
 ",
 	},
-	next = {
-		7304,
-		3711,
-	},
-	previous = 3709,
 	page_id = 3710,
 	title_len = 3,
 }

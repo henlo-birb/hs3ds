@@ -5,14 +5,13 @@ return {
 	media = {
 		"02937",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2939,
+	},
+	previous = 2937,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"CG: AND THAT'S WHEN I SAW HIM.\
 ",
 	},
-	next = {
-		2939,
-	},
-	previous = 2937,
 	page_id = 2938,
 	title_len = 3,
 }

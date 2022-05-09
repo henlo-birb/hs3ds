@@ -7,14 +7,13 @@ return {
 	media = {
 		"06407",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6411,
+	},
+	previous = 6409,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -597,10 +596,6 @@ return {
 		"Conversation with Kanaya.\
 ",
 	},
-	next = {
-		6411,
-	},
-	previous = 6409,
 	page_id = 6410,
 	title_len = 14,
 }

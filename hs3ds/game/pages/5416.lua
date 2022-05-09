@@ -5,14 +5,13 @@ return {
 	media = {
 		"05413",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5417,
+	},
+	previous = 5415,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"ROSE: Teash me ALL the quadrans.\
 ",
 	},
-	next = {
-		5417,
-	},
-	previous = 5415,
 	page_id = 5416,
 	title_len = 10,
 }

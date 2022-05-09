@@ -5,14 +5,13 @@ return {
 	media = {
 		"03357",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3361,
+	},
+	previous = 3359,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1645,10 +1644,6 @@ return {
 		"KNOWWS this memos rubbish\
 ",
 	},
-	next = {
-		3361,
-	},
-	previous = 3359,
 	page_id = 3360,
 	title_len = 18,
 }

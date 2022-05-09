@@ -5,14 +5,13 @@ return {
 	media = {
 		"07298",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7302,
+	},
+	previous = 7300,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -301,10 +300,6 @@ return {
 		"stupidity has in store for me next!\
 ",
 	},
-	next = {
-		7302,
-	},
-	previous = 7300,
 	page_id = 7301,
 	title_len = 14,
 }

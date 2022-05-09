@@ -5,14 +5,13 @@ return {
 	media = {
 		"06665",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6669,
+	},
+	previous = 6667,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -469,10 +468,6 @@ return {
 		"napping.\
 ",
 	},
-	next = {
-		6669,
-	},
-	previous = 6667,
 	page_id = 6668,
 	title_len = 14,
 }

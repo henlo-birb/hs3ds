@@ -97,6 +97,8 @@ return {
 		224,
 	},
 	previous = 222,
+	log_title = "",
+	log = {},
 	page_id = 223,
 	title_len = 48,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"06675",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6679,
+	},
+	previous = 6677,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -168,10 +167,6 @@ return {
 		"BEHIND THE CURTAIN!!!\
 ",
 	},
-	next = {
-		6679,
-	},
-	previous = 6677,
 	page_id = 6678,
 	title_len = 14,
 }

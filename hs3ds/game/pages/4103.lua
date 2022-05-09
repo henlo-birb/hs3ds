@@ -6,14 +6,13 @@ return {
 		"04100_1",
 		"04100_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4104,
+	},
+	previous = 4102,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -29,10 +28,6 @@ return {
 		"GG: shaving cream?\
 ",
 	},
-	next = {
-		4104,
-	},
-	previous = 4102,
 	page_id = 4103,
 	title_len = 3,
 }

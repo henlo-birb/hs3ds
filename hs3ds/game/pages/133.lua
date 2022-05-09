@@ -25,6 +25,8 @@ return {
 		134,
 	},
 	previous = 132,
+	log_title = "",
+	log = {},
 	page_id = 133,
 	title_len = 33,
 }

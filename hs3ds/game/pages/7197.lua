@@ -5,14 +5,13 @@ return {
 	media = {
 		"07194",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7198,
+	},
+	previous = 7196,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"expressions of friendship.\
 ",
 	},
-	next = {
-		7198,
-	},
-	previous = 7196,
 	page_id = 7197,
 	title_len = 14,
 }

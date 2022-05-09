@@ -7,14 +7,13 @@ return {
 	media = {
 		"06415",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6419,
+	},
+	previous = 6417,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -79,10 +78,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/davejade_smalltext2.gif\"/>\
 ",
 	},
-	next = {
-		6419,
-	},
-	previous = 6417,
 	page_id = 6418,
 	title_len = 14,
 }

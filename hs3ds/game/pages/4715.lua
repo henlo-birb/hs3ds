@@ -5,14 +5,13 @@ return {
 	media = {
 		"04712",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4716,
+	},
+	previous = 4714,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -245,10 +244,6 @@ return {
 		"even remotely resembles a grid\
 ",
 	},
-	next = {
-		4716,
-	},
-	previous = 4714,
 	page_id = 4715,
 	title_len = 10,
 }

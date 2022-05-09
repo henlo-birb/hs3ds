@@ -5,14 +5,13 @@ return {
 	media = {
 		"05779",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5783,
+	},
+	previous = 5781,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1162,10 +1161,6 @@ return {
 		"locked. --\
 ",
 	},
-	next = {
-		5783,
-	},
-	previous = 5781,
 	page_id = 5782,
 	title_len = 3,
 }

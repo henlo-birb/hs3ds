@@ -5,14 +5,13 @@ return {
 	media = {
 		"07225",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7229,
+	},
+	previous = 7227,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -413,10 +412,6 @@ return {
 		"MEENAH: poor skull guy 38(\
 ",
 	},
-	next = {
-		7229,
-	},
-	previous = 7227,
 	page_id = 7228,
 	title_len = 14,
 }

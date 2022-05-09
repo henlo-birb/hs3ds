@@ -8,14 +8,13 @@ return {
 		"05827_1",
 		"05827_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5831,
+	},
+	previous = 5829,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -346,10 +345,6 @@ return {
 		"gnawing at me.\
 ",
 	},
-	next = {
-		5831,
-	},
-	previous = 5829,
 	page_id = 5830,
 	title_len = 7,
 }

@@ -7,14 +7,13 @@ return {
 	media = {
 		"04723retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4727,
+	},
+	previous = 4725,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,10 +29,6 @@ return {
 		"DAVE: BOOYEAH\
 ",
 	},
-	next = {
-		4727,
-	},
-	previous = 4725,
 	page_id = 4726,
 	title_len = 10,
 }

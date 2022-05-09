@@ -5,14 +5,13 @@ return {
 	media = {
 		"03055",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3058,
+	},
+	previous = 3056,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1204,10 +1203,6 @@ return {
 		"heart to an alien girl........\
 ",
 	},
-	next = {
-		3058,
-	},
-	previous = 3056,
 	page_id = 3057,
 	title_len = 3,
 }

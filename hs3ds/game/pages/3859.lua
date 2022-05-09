@@ -6,14 +6,14 @@ return {
 		"03856_1",
 		"03856_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3860,
+	},
+	previous = 3858,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -197,11 +197,6 @@ return {
 		"AG: L8r! <33333333\
 ",
 	},
-	next = {
-		3860,
-	},
-	previous = 3858,
-	theme = "scratch",
 	page_id = 3859,
 	title_len = 60,
 }

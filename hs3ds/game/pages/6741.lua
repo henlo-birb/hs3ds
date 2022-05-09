@@ -5,14 +5,13 @@ return {
 	media = {
 		"06738",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6742,
+	},
+	previous = 6740,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"DIRK: Shut up.\
 ",
 	},
-	next = {
-		6742,
-	},
-	previous = 6740,
 	page_id = 6741,
 	title_len = 14,
 }

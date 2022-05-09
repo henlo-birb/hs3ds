@@ -5,14 +5,13 @@ return {
 	media = {
 		"06769",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6773,
+	},
+	previous = 6771,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ARANEA: Good GRIEF, that was painful.\
 ",
 	},
-	next = {
-		6773,
-	},
-	previous = 6771,
 	page_id = 6772,
 	title_len = 14,
 }

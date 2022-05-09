@@ -80,6 +80,8 @@ return {
 	next = {
 		2,
 	},
+	log_title = "",
+	log = {},
 	page_id = 1,
 	title_len = 9,
 }

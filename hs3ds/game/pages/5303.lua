@@ -5,14 +5,13 @@ return {
 	media = {
 		"05300",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5304,
+	},
+	previous = 5302,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -105,10 +104,6 @@ return {
 		"INSTANT AND FIGHT ME LIKE A MAN!!!\
 ",
 	},
-	next = {
-		5304,
-	},
-	previous = 5302,
 	page_id = 5303,
 	title_len = 10,
 }

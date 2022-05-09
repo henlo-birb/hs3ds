@@ -5,14 +5,13 @@ return {
 	media = {
 		"05940",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5944,
+	},
+	previous = 5942,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -910,10 +909,6 @@ return {
 		"miss leavin em taped on stuff\
 ",
 	},
-	next = {
-		5944,
-	},
-	previous = 5942,
 	page_id = 5943,
 	title_len = 10,
 }

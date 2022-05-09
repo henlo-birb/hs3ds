@@ -6,14 +6,13 @@ return {
 		"01429_1",
 		"01429_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		1430,
+	},
+	previous = 1428,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -267,10 +266,6 @@ return {
 		"NANNASPRITE: HOO. HOO HOO.\
 ",
 	},
-	next = {
-		1430,
-	},
-	previous = 1428,
 	page_id = 1429,
 	title_len = 29,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"03608",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3612,
+	},
+	previous = 3610,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -35,10 +34,6 @@ return {
 		"by agents assigned to the task\
 ",
 	},
-	next = {
-		3612,
-	},
-	previous = 3610,
 	page_id = 3611,
 	title_len = 3,
 }

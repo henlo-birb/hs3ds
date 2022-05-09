@@ -5,14 +5,13 @@ return {
 	media = {
 		"07019",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7023,
+	},
+	previous = 7021,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -371,10 +370,6 @@ return {
 		"JOHN: are those jade's shoes???\
 ",
 	},
-	next = {
-		7023,
-	},
-	previous = 7021,
 	page_id = 7022,
 	title_len = 14,
 }

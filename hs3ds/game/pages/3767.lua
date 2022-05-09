@@ -33,6 +33,8 @@ return {
 	},
 	previous = 3766,
 	theme = "scratch",
+	log_title = "",
+	log = {},
 	page_id = 3767,
 	title_len = 9,
 }

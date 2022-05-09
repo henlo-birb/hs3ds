@@ -5,14 +5,13 @@ return {
 	media = {
 		"04210",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4214,
+	},
+	previous = 4212,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"GG: \"Our hope is lost.\"\
 ",
 	},
-	next = {
-		4214,
-	},
-	previous = 4212,
 	page_id = 4213,
 	title_len = 3,
 }

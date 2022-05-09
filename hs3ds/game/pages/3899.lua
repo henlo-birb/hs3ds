@@ -5,14 +5,14 @@ return {
 	media = {
 		"03896",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3900,
+	},
+	previous = 3898,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,11 +77,6 @@ return {
 		"priceless shit in the louvre\
 ",
 	},
-	next = {
-		3900,
-	},
-	previous = 3898,
-	theme = "scratch",
 	page_id = 3899,
 	title_len = 7,
 }

@@ -7,14 +7,12 @@ return {
 	media = {
 		"06395_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6399,
+	},
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -554,9 +552,6 @@ return {
 		},
 		"Silence, buster.\
 ",
-	},
-	next = {
-		6399,
 	},
 	page_id = 6398,
 	title_len = 14,

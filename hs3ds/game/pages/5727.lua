@@ -7,14 +7,14 @@ return {
 	media = {
 		"05724_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5728,
+	},
+	previous = 5726,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -51,11 +51,6 @@ return {
 		"ERISOLSPRITE: fuck no.\
 ",
 	},
-	next = {
-		5728,
-	},
-	previous = 5726,
-	theme = "trickster",
 	page_id = 5727,
 	title_len = 3,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"05529",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5533,
+	},
+	previous = 5531,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -231,10 +230,6 @@ return {
 		"FEFETASPRITE: 3833 < 383\
 ",
 	},
-	next = {
-		5533,
-	},
-	previous = 5531,
 	page_id = 5532,
 	title_len = 3,
 }

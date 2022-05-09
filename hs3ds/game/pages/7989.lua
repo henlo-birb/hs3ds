@@ -5,14 +5,13 @@ return {
 	media = {
 		"07983",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7990,
+	},
+	previous = 7988,
+	log_title = "DIALOGLOG ",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"hearding catfish i swear to glub\
 ",
 	},
-	next = {
-		7990,
-	},
-	previous = 7988,
 	page_id = 7989,
 	title_len = 14,
 }

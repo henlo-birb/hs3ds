@@ -5,14 +5,13 @@ return {
 	media = {
 		"07646",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7651,
+	},
+	previous = 7649,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1190,10 +1189,6 @@ return {
 		"Farewell transitorily.\
 ",
 	},
-	next = {
-		7651,
-	},
-	previous = 7649,
 	page_id = 7650,
 	title_len = 14,
 }

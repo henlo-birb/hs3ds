@@ -6,14 +6,13 @@ return {
 		"04967_1",
 		"04967_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4971,
+	},
+	previous = 4969,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -701,10 +700,6 @@ return {
 		"uu: THIS GAME IS OVER.\
 ",
 	},
-	next = {
-		4971,
-	},
-	previous = 4969,
 	page_id = 4970,
 	title_len = 3,
 }

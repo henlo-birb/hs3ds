@@ -5,14 +5,13 @@ return {
 	media = {
 		"04975",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4979,
+	},
+	previous = 4977,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -175,10 +174,6 @@ return {
 		"uu: AS AN ACTuAL EMOTION.\
 ",
 	},
-	next = {
-		4979,
-	},
-	previous = 4977,
 	page_id = 4978,
 	title_len = 3,
 }

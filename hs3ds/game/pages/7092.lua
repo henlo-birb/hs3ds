@@ -9,14 +9,13 @@ return {
 		"07089_4",
 		"07089_5",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7093,
+	},
+	previous = 7091,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -46,10 +45,6 @@ return {
 		"mastery over his confining reality\
 ",
 	},
-	next = {
-		7093,
-	},
-	previous = 7091,
 	page_id = 7092,
 	title_len = 14,
 }

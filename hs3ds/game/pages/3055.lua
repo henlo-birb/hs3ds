@@ -5,14 +5,13 @@ return {
 	media = {
 		"03053",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3056,
+	},
+	previous = 3054,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1806,10 +1805,6 @@ return {
 		"POSITIVE ABOUT YOURSELF IS ALL ABOUT,\
 ",
 	},
-	next = {
-		3056,
-	},
-	previous = 3054,
 	page_id = 3055,
 	title_len = 3,
 }

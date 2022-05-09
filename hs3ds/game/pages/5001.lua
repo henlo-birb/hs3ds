@@ -5,14 +5,13 @@ return {
 	media = {
 		"04998",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5002,
+	},
+	previous = 5000,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"ARANEA: Thap waf.......\
 ",
 	},
-	next = {
-		5002,
-	},
-	previous = 5000,
 	page_id = 5001,
 	title_len = 3,
 }

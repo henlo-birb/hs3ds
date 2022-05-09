@@ -5,14 +5,13 @@ return {
 	media = {
 		"05393",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5397,
+	},
+	previous = 5395,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1022,10 +1021,6 @@ return {
 		"luck will ALWAYS 8e on our side! ::::)\
 ",
 	},
-	next = {
-		5397,
-	},
-	previous = 5395,
 	page_id = 5396,
 	title_len = 10,
 }

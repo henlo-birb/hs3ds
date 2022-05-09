@@ -5,14 +5,13 @@ return {
 	media = {
 		"04841",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4845,
+	},
+	previous = 4843,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -189,10 +188,6 @@ return {
 		"a head on his shoulders eh?\
 ",
 	},
-	next = {
-		4845,
-	},
-	previous = 4843,
 	page_id = 4844,
 	title_len = 14,
 }

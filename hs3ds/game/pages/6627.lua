@@ -5,14 +5,13 @@ return {
 	media = {
 		"06624",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6628,
+	},
+	previous = 6626,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -161,10 +160,6 @@ return {
 		"unlimited fury of THE GREEN SUN!!!\
 ",
 	},
-	next = {
-		6628,
-	},
-	previous = 6626,
 	page_id = 6627,
 	title_len = 14,
 }

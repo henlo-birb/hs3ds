@@ -5,14 +5,14 @@ return {
 	media = {
 		"03904",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3908,
+	},
+	previous = 3906,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -518,11 +518,6 @@ return {
 		"AG: Sounds gr8.\
 ",
 	},
-	next = {
-		3908,
-	},
-	previous = 3906,
-	theme = "scratch",
 	page_id = 3907,
 	title_len = 7,
 }

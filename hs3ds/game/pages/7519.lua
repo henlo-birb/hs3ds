@@ -5,14 +5,13 @@ return {
 	media = {
 		"07515",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7520,
+	},
+	previous = 7518,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -294,10 +293,6 @@ return {
 		"PENCIL. I HAVE SOME DRAWING TO DO.\
 ",
 	},
-	next = {
-		7520,
-	},
-	previous = 7518,
 	page_id = 7519,
 	title_len = 14,
 }

@@ -9,14 +9,13 @@ return {
 		"05803_1",
 		"05803_2_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5807,
+	},
+	previous = 5805,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -382,10 +381,6 @@ return {
 		"GHOST JAKE\
 ",
 	},
-	next = {
-		5807,
-	},
-	previous = 5805,
 	page_id = 5806,
 	title_len = 7,
 }

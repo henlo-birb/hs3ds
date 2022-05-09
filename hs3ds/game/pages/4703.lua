@@ -6,14 +6,13 @@ return {
 		"04700_1",
 		"04700_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4704,
+	},
+	previous = 4702,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -477,10 +476,6 @@ return {
 		"get there.\
 ",
 	},
-	next = {
-		4704,
-	},
-	previous = 4702,
 	page_id = 4703,
 	title_len = 10,
 }

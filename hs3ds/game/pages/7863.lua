@@ -6,14 +6,13 @@ return {
 		"07859_1",
 		"07859_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7864,
+	},
+	previous = 7862,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -29,10 +28,6 @@ return {
 		"VRISKA: TAVROS!!!!!!!!\
 ",
 	},
-	next = {
-		7864,
-	},
-	previous = 7862,
 	page_id = 7863,
 	title_len = 14,
 }

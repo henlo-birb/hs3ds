@@ -7,14 +7,14 @@ return {
 		"03866_2",
 		"03866_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3870,
+	},
+	previous = 3868,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -639,11 +639,6 @@ return {
 		"EB: did she kiss him too? :O\
 ",
 	},
-	next = {
-		3870,
-	},
-	previous = 3868,
-	theme = "scratch",
 	page_id = 3869,
 	title_len = 33,
 }

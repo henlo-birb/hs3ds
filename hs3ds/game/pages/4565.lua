@@ -5,14 +5,13 @@ return {
 	media = {
 		"04562",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4566,
+	},
+	previous = 4564,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2037,10 +2036,6 @@ return {
 		"UU: hUmans are notorioUsly strange. :U\
 ",
 	},
-	next = {
-		4566,
-	},
-	previous = 4564,
 	page_id = 4565,
 	title_len = 3,
 }

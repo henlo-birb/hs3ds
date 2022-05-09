@@ -5,14 +5,13 @@ return {
 	media = {
 		"04689",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4693,
+	},
+	previous = 4691,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -595,10 +594,6 @@ return {
 		"OF SHIT, AD INFINITUM.\
 ",
 	},
-	next = {
-		4693,
-	},
-	previous = 4691,
 	page_id = 4692,
 	title_len = 10,
 }

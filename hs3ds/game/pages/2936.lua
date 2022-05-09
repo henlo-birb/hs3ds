@@ -5,14 +5,13 @@ return {
 	media = {
 		"02935",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2937,
+	},
+	previous = 2935,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -70,10 +69,6 @@ return {
 		"UNCONSCIONABLE.\
 ",
 	},
-	next = {
-		2937,
-	},
-	previous = 2935,
 	page_id = 2936,
 	title_len = 3,
 }

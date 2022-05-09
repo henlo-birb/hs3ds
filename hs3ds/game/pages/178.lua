@@ -5,14 +5,13 @@ return {
 	media = {
 		"00178",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		179,
+	},
+	previous = 177,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -210,10 +209,6 @@ return {
 		"need to extrude some \"Cruxite\".\
 ",
 	},
-	next = {
-		179,
-	},
-	previous = 177,
 	page_id = 178,
 	title_len = 3,
 }

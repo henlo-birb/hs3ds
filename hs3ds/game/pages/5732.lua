@@ -5,14 +5,14 @@ return {
 	media = {
 		"05729",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|TRKSTRLOG|\
-",
+	content = {},
+	next = {
+		5733,
+	},
+	previous = 5731,
+	theme = "trickster",
+	log_title = "TRKSTRLOG",
+	log = {
 		{
 			0,
 			0,
@@ -154,11 +154,6 @@ return {
 		"logged the fuck out.\
 ",
 	},
-	next = {
-		5733,
-	},
-	previous = 5731,
-	theme = "trickster",
 	page_id = 5732,
 	title_len = 3,
 }

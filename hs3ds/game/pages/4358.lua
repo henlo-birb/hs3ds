@@ -5,14 +5,13 @@ return {
 	media = {
 		"04355",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4359,
+	},
+	previous = 4357,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"KANAYA: Clown Hunting\
 ",
 	},
-	next = {
-		4359,
-	},
-	previous = 4357,
 	page_id = 4358,
 	title_len = 10,
 }

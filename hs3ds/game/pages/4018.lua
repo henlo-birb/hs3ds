@@ -7,14 +7,14 @@ return {
 	media = {
 		"04015/04015.swf",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4002,
+	},
+	previous = 4017,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -30,11 +30,6 @@ return {
 		"PCG: SORRY.\
 ",
 	},
-	next = {
-		4002,
-	},
-	previous = 4017,
-	theme = "scratch",
 	page_id = 4018,
 	title_len = 7,
 }

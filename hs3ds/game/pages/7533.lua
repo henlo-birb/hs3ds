@@ -5,14 +5,13 @@ return {
 	media = {
 		"07529",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7534,
+	},
+	previous = 7532,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -245,10 +244,6 @@ return {
 		"heavy hitters keep him in check.\
 ",
 	},
-	next = {
-		7534,
-	},
-	previous = 7532,
 	page_id = 7533,
 	title_len = 14,
 }

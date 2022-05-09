@@ -5,14 +5,13 @@ return {
 	media = {
 		"02730",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2732,
+	},
+	previous = 2730,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -77,10 +76,6 @@ return {
 		"GA: Agreed\
 ",
 	},
-	next = {
-		2732,
-	},
-	previous = 2730,
 	page_id = 2731,
 	title_len = 3,
 }

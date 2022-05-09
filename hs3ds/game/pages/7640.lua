@@ -5,14 +5,13 @@ return {
 	media = {
 		"07636",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7641,
+	},
+	previous = 7639,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -273,10 +272,6 @@ return {
 		"KANAYA: Ill Meet You Out There\
 ",
 	},
-	next = {
-		7641,
-	},
-	previous = 7639,
 	page_id = 7640,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"07376",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7380,
+	},
+	previous = 7378,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -588,10 +587,6 @@ return {
 		"YOU, BUT STILL.\
 ",
 	},
-	next = {
-		7380,
-	},
-	previous = 7378,
 	page_id = 7379,
 	title_len = 14,
 }

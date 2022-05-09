@@ -5,14 +5,13 @@ return {
 	media = {
 		"04451",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4455,
+	},
+	previous = 4453,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2653,10 +2652,6 @@ return {
 		"TT: Is it ain't gonna be easy.\
 ",
 	},
-	next = {
-		4455,
-	},
-	previous = 4453,
 	page_id = 4454,
 	title_len = 21,
 }

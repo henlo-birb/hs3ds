@@ -6,14 +6,14 @@ return {
 		"03980_1",
 		"03980_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3984,
+	},
+	previous = 3982,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -29,11 +29,6 @@ return {
 		"?GG: it died\
 ",
 	},
-	next = {
-		3984,
-	},
-	previous = 3982,
-	theme = "scratch",
 	page_id = 3983,
 	title_len = 7,
 }

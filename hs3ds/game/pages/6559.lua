@@ -5,14 +5,13 @@ return {
 	media = {
 		"06556",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6560,
+	},
+	previous = 6558,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"ARANEA: There is much work to 8e done.\
 ",
 	},
-	next = {
-		6560,
-	},
-	previous = 6558,
 	page_id = 6559,
 	title_len = 14,
 }

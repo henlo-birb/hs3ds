@@ -5,14 +5,14 @@ return {
 	media = {
 		"04001",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4005,
+	},
+	previous = 4003,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -826,11 +826,6 @@ return {
 		"PCG: I KNOW WHAT IT IS NOW.\
 ",
 	},
-	next = {
-		4005,
-	},
-	previous = 4003,
-	theme = "scratch",
 	page_id = 4004,
 	title_len = 7,
 }

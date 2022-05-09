@@ -6,14 +6,13 @@ return {
 		"00154_1",
 		"00154_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		155,
+	},
+	previous = 153,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -225,10 +224,6 @@ return {
 		"TT: But I think they are elegant.\
 ",
 	},
-	next = {
-		155,
-	},
-	previous = 153,
 	page_id = 154,
 	title_len = 3,
 }

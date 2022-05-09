@@ -8,14 +8,14 @@ return {
 		"03906_1",
 		"03906_2_retcon",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3910,
+	},
+	previous = 3908,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -570,11 +570,6 @@ return {
 		"AG: Sort of.\
 ",
 	},
-	next = {
-		3910,
-	},
-	previous = 3908,
-	theme = "scratch",
 	page_id = 3909,
 	title_len = 7,
 }

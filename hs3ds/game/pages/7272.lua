@@ -5,14 +5,13 @@ return {
 	media = {
 		"07269",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7273,
+	},
+	previous = 7271,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -119,10 +118,6 @@ return {
 		"true, toward the interloping Lalonde.\
 ",
 	},
-	next = {
-		7273,
-	},
-	previous = 7271,
 	page_id = 7272,
 	title_len = 14,
 }

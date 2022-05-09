@@ -5,14 +5,13 @@ return {
 	media = {
 		"02237",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2238,
+	},
+	previous = 2236,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1694,10 +1693,6 @@ return {
 		"gallowsCalibrator [GC]\
 ",
 	},
-	next = {
-		2238,
-	},
-	previous = 2236,
 	page_id = 2237,
 	title_len = 27,
 }

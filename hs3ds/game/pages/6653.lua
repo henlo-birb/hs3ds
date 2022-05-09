@@ -5,14 +5,13 @@ return {
 	media = {
 		"06650",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6654,
+	},
+	previous = 6652,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -231,10 +230,6 @@ return {
 		"DAVE: goodbye mayor\
 ",
 	},
-	next = {
-		6654,
-	},
-	previous = 6652,
 	page_id = 6653,
 	title_len = 14,
 }

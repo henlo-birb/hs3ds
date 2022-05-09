@@ -7,14 +7,13 @@ return {
 		"03597_2",
 		"03597_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3601,
+	},
+	previous = 3599,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -100,10 +99,6 @@ return {
 		"the pair\
 ",
 	},
-	next = {
-		3601,
-	},
-	previous = 3599,
 	page_id = 3600,
 	title_len = 3,
 }

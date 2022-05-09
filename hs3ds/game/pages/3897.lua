@@ -5,14 +5,14 @@ return {
 	media = {
 		"03894",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3898,
+	},
+	previous = 3896,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -490,11 +490,6 @@ return {
 		"TG: fly it into the sun\
 ",
 	},
-	next = {
-		3898,
-	},
-	previous = 3896,
-	theme = "scratch",
 	page_id = 3897,
 	title_len = 7,
 }

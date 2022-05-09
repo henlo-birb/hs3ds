@@ -5,14 +5,13 @@ return {
 	media = {
 		"07195",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7199,
+	},
+	previous = 7197,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"CALLIOPE: jane, don't be frightened...\
 ",
 	},
-	next = {
-		7199,
-	},
-	previous = 7197,
 	page_id = 7198,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"01715",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		1716,
+	},
+	previous = 1714,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -693,10 +692,6 @@ return {
 		"TA: and vandaliize your hou2e.\
 ",
 	},
-	next = {
-		1716,
-	},
-	previous = 1714,
 	page_id = 1715,
 	title_len = 3,
 }

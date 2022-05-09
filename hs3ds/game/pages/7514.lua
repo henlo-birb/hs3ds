@@ -5,14 +5,13 @@ return {
 	media = {
 		"07510",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7486,
+	},
+	previous = 7513,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2786,10 +2785,6 @@ return {
 		"TAVROSPRITE: aaaaCHOO,!!!\
 ",
 	},
-	next = {
-		7486,
-	},
-	previous = 7513,
 	page_id = 7514,
 	title_len = 14,
 }

@@ -5,14 +5,13 @@ return {
 	media = {
 		"04153",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4157,
+	},
+	previous = 4155,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -4102,10 +4101,6 @@ return {
 		"GG: The flappy thing!\
 ",
 	},
-	next = {
-		4157,
-	},
-	previous = 4155,
 	page_id = 4156,
 	title_len = 21,
 }

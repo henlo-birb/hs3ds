@@ -5,14 +5,13 @@ return {
 	media = {
 		"06615",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6619,
+	},
+	previous = 6617,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -133,10 +132,6 @@ return {
 		"so ill just swap the planets instead!\
 ",
 	},
-	next = {
-		6619,
-	},
-	previous = 6617,
 	page_id = 6618,
 	title_len = 14,
 }

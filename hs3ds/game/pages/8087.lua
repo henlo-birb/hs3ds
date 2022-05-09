@@ -14,6 +14,8 @@ return {
 	},
 	previous = 8086,
 	theme = "collide",
+	log_title = "",
+	log = {},
 	page_id = 8087,
 	title_len = 12,
 }

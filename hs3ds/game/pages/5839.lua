@@ -9,14 +9,13 @@ return {
 		"05836_2",
 		"05836_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5840,
+	},
+	previous = 5838,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -46,10 +45,6 @@ return {
 		"TT: I can feel it too this time.\
 ",
 	},
-	next = {
-		5840,
-	},
-	previous = 5838,
 	page_id = 5839,
 	title_len = 7,
 }

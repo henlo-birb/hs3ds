@@ -5,14 +5,13 @@ return {
 	media = {
 		"03038",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3041,
+	},
+	previous = 3039,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -588,10 +587,6 @@ return {
 		"TG: plot a course to what\
 ",
 	},
-	next = {
-		3041,
-	},
-	previous = 3039,
 	page_id = 3040,
 	title_len = 3,
 }

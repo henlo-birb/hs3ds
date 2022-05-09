@@ -5,14 +5,13 @@ return {
 	media = {
 		"06601",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		6605,
+	},
+	previous = 6603,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -42,10 +41,6 @@ return {
 		"DAVESPRITE: over what\
 ",
 	},
-	next = {
-		6605,
-	},
-	previous = 6603,
 	page_id = 6604,
 	title_len = 14,
 }

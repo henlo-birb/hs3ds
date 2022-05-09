@@ -5,14 +5,13 @@ return {
 	media = {
 		"04718",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4722,
+	},
+	previous = 4720,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"DAVE: shit!\
 ",
 	},
-	next = {
-		4722,
-	},
-	previous = 4720,
 	page_id = 4721,
 	title_len = 10,
 }

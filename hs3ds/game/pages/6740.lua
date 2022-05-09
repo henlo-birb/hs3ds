@@ -5,14 +5,13 @@ return {
 	media = {
 		"06737",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6741,
+	},
+	previous = 6739,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -98,10 +97,6 @@ return {
 		"8lather.\
 ",
 	},
-	next = {
-		6741,
-	},
-	previous = 6739,
 	page_id = 6740,
 	title_len = 14,
 }

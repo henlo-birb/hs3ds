@@ -5,14 +5,14 @@ return {
 	media = {
 		"04013",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4017,
+	},
+	previous = 4015,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,11 +28,6 @@ return {
 		"PCG: I THINK I GAVE HIM CANCER.\
 ",
 	},
-	next = {
-		4017,
-	},
-	previous = 4015,
-	theme = "scratch",
 	page_id = 4016,
 	title_len = 7,
 }

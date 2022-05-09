@@ -5,14 +5,13 @@ return {
 	media = {
 		"04996",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		5000,
+	},
+	previous = 4998,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"MEENAH: now were ghosts the end\
 ",
 	},
-	next = {
-		5000,
-	},
-	previous = 4998,
 	page_id = 4999,
 	title_len = 3,
 }

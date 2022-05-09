@@ -130,6 +130,8 @@ return {
 		1301,
 	},
 	previous = 1299,
+	log_title = "",
+	log = {},
 	page_id = 1300,
 	title_len = 34,
 }

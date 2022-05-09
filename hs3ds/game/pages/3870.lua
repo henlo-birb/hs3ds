@@ -7,14 +7,14 @@ return {
 		"03867_2",
 		"03867_3",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3871,
+	},
+	previous = 3869,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -303,11 +303,6 @@ return {
 		"CG: I DON'T KNOW WHICH.\
 ",
 	},
-	next = {
-		3871,
-	},
-	previous = 3869,
-	theme = "scratch",
 	page_id = 3870,
 	title_len = 47,
 }

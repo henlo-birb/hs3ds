@@ -5,14 +5,13 @@ return {
 	media = {
 		"01624",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		1625,
+	},
+	previous = 1623,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -28,10 +27,6 @@ return {
 		"JASPERSPRITE: Meow.\
 ",
 	},
-	next = {
-		1625,
-	},
-	previous = 1623,
 	page_id = 1624,
 	title_len = 32,
 }

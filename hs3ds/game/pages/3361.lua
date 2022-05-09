@@ -5,14 +5,13 @@ return {
 	media = {
 		"03358",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3362,
+	},
+	previous = 3360,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -2233,10 +2232,6 @@ return {
 		"closed memo.\
 ",
 	},
-	next = {
-		3362,
-	},
-	previous = 3360,
 	page_id = 3361,
 	title_len = 3,
 }

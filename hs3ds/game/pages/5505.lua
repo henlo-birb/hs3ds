@@ -6,14 +6,13 @@ return {
 		"05502_1",
 		"05502_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5506,
+	},
+	previous = 5504,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -631,10 +630,6 @@ return {
 		"src=\"http://www.mspaintadventures.com/storyfiles/hs2/scraps/promptlock.gif\"/>\
 ",
 	},
-	next = {
-		5506,
-	},
-	previous = 5504,
 	page_id = 5505,
 	title_len = 10,
 }

@@ -8,14 +8,13 @@ return {
 		"02546_1_retcon",
 		"02546_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		2548,
+	},
+	previous = 2546,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -4399,10 +4398,6 @@ return {
 		"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\
 ",
 	},
-	next = {
-		2548,
-	},
-	previous = 2546,
 	page_id = 2547,
 	title_len = 27,
 }

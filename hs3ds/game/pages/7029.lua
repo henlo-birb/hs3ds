@@ -5,14 +5,13 @@ return {
 	media = {
 		"07026",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		7030,
+	},
+	previous = 7028,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -280,10 +279,6 @@ return {
 		"ROXY: then when even would be\
 ",
 	},
-	next = {
-		7030,
-	},
-	previous = 7028,
 	page_id = 7029,
 	title_len = 14,
 }

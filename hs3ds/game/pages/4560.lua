@@ -5,14 +5,13 @@ return {
 	media = {
 		"04557",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		4561,
+	},
+	previous = 4559,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -49,10 +48,6 @@ return {
 		"TT: Distract him with that.\
 ",
 	},
-	next = {
-		4561,
-	},
-	previous = 4559,
 	page_id = 4560,
 	title_len = 24,
 }

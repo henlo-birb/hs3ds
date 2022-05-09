@@ -5,14 +5,13 @@ return {
 	media = {
 		"06024",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6028,
+	},
+	previous = 6026,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -784,10 +783,6 @@ return {
 		"ARADIA: thats a pretty good question\
 ",
 	},
-	next = {
-		6028,
-	},
-	previous = 6026,
 	page_id = 6027,
 	title_len = 10,
 }

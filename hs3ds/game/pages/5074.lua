@@ -5,14 +5,13 @@ return {
 	media = {
 		"05071",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5075,
+	},
+	previous = 5073,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -420,10 +419,6 @@ return {
 		"uu: NOW TAKE OuT THE JuJu.\
 ",
 	},
-	next = {
-		5075,
-	},
-	previous = 5073,
 	page_id = 5074,
 	title_len = 3,
 }

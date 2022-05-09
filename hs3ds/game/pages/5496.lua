@@ -5,14 +5,13 @@ return {
 	media = {
 		"05493",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|AUTHORLOG|\
-",
+	content = {},
+	next = {
+		5497,
+	},
+	previous = 5495,
+	log_title = "AUTHORLOG",
+	log = {
 		{
 			0,
 			0,
@@ -1764,10 +1763,6 @@ return {
 		"His name is Yaldabaoth.\
 ",
 	},
-	next = {
-		5497,
-	},
-	previous = 5495,
 	page_id = 5496,
 	title_len = 10,
 }

@@ -6,14 +6,13 @@ return {
 		"05530_1",
 		"05530_2",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|SPRITELOG|\
-",
+	content = {},
+	next = {
+		5534,
+	},
+	previous = 5532,
+	log_title = "SPRITELOG",
+	log = {
 		{
 			0,
 			0,
@@ -456,10 +455,6 @@ return {
 		"\
 ",
 	},
-	next = {
-		5534,
-	},
-	previous = 5532,
 	page_id = 5533,
 	title_len = 3,
 }

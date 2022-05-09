@@ -5,14 +5,13 @@ return {
 	media = {
 		"03179",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3183,
+	},
+	previous = 3181,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -616,10 +615,6 @@ return {
 		"twinArmageddons [TA]\
 ",
 	},
-	next = {
-		3183,
-	},
-	previous = 3181,
 	page_id = 3182,
 	title_len = 22,
 }

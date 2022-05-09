@@ -5,14 +5,13 @@ return {
 	media = {
 		"04716",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		4720,
+	},
+	previous = 4718,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -147,10 +146,6 @@ return {
 		"YOU STRIDER, JUST STEP OFF.\
 ",
 	},
-	next = {
-		4720,
-	},
-	previous = 4718,
 	page_id = 4719,
 	title_len = 10,
 }

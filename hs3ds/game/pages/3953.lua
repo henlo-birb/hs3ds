@@ -5,14 +5,14 @@ return {
 	media = {
 		"03950",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		3936,
+	},
+	previous = 3952,
+	theme = "scratch",
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -588,11 +588,6 @@ return {
 		"EB: but he is not a bad guy at all!\
 ",
 	},
-	next = {
-		3936,
-	},
-	previous = 3952,
-	theme = "scratch",
 	page_id = 3953,
 	title_len = 7,
 }

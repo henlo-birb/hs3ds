@@ -5,14 +5,12 @@ return {
 	media = {
 		"05148",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		5152,
+	},
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -125,9 +123,6 @@ return {
 		},
 		"uu: TALK ABOuT THICK HEADED.\
 ",
-	},
-	next = {
-		5152,
 	},
 	page_id = 5151,
 	title_len = 8,

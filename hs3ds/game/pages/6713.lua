@@ -5,14 +5,13 @@ return {
 	media = {
 		"06710",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|DIALOGLOG|\
-",
+	content = {},
+	next = {
+		6714,
+	},
+	previous = 6712,
+	log_title = "DIALOGLOG",
+	log = {
 		{
 			0,
 			0,
@@ -273,10 +272,6 @@ return {
 		"DAVE: its fucking welsh!!!!!\
 ",
 	},
-	next = {
-		6714,
-	},
-	previous = 6712,
 	page_id = 6713,
 	title_len = 14,
 }

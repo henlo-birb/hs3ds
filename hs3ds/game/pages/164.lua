@@ -5,14 +5,13 @@ return {
 	media = {
 		"00164",
 	},
-	content = {
-		{
-			0,
-			0,
-			0,
-		},
-		"|PESTERLOG|\
-",
+	content = {},
+	next = {
+		165,
+	},
+	previous = 163,
+	log_title = "PESTERLOG",
+	log = {
 		{
 			0,
 			0,
@@ -84,10 +83,6 @@ return {
 		"telescope.\
 ",
 	},
-	next = {
-		165,
-	},
-	previous = 163,
 	page_id = 164,
 	title_len = 3,
 }
