@@ -20,9 +20,10 @@ function merge(mergeto, mergefrom)
     return mergeto
 end
 
-function print(s) 
+function _print(s) 
    love.graphics.print({{0,0,0},s})
 end
+
 function point_distance(a, b) 
    return math.sqrt((a[1] - b[1])^2 + (a[2] - b[2])^2)
 end

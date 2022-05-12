@@ -3,9 +3,9 @@ require("utils")
 
 recurseElems = function(f, start_elem, start_parent, ...)
     local function recurse(elem, parent, ...)
-        f(elem[1], parent, ...)
+        f(elem[1], parent, elem[2], ...)
         for _, child in pairs(elem[2]) do
-            f(child[1], elem[1], ...)
+            -- f(child[1], elem[1], child[2], ...)
             recurse(child, elem[1], ...)
         end
     end
@@ -13,7 +13,7 @@ recurseElems = function(f, start_elem, start_parent, ...)
 end
 
 initApp = function(params)
-    return {
+    app = {
         updater = params.updater or newUpdater(),
         model = params.model and merge(newModel(), params.model) or newModel(),
         topview = params.topview or newView("top"),
@@ -43,17 +43,11 @@ initApp = function(params)
 
         render = function(this, screen)
             if this.model.rendering then
-                local function renderElem(elem, parent)
-                    if not this.rendered[screen] then -- do per-element related initializations on first render since we're looping through em all for free
-                        elem.parent = parent
-                        if elem.type == "animation" then
-                            table.insert(this.model.animations, elem)
-                        end
-                        if elem.id then
-                            this.model.getbyid[elem.id] = elem
-                        end
+                local id_counter = 1
+                local function renderElem(elem)
+                    if elem.visible ~= false then
+                        elem:render(this)
                     end
-                    elem:render(this)
                 end
                 recurseElems(renderElem,
                              screen == "bottom" and this.bottomview or
@@ -62,6 +56,31 @@ initApp = function(params)
             end
         end
     }
+
+    love.draw = function(screen) app:render(screen) end
+    love.update = function(dt) app:update(dt) end
+    love.gamepadpressed = function(_, button) app:push("gamepadpressed", button) end
+    love.gamepadreleased = function(_, button) app:push("gamepadreleased", button) end
+    love.gamepadaxis = function(_, axis, value) app:push("gamepadaxis", axis) end
+    love.touchpresssed = function(id, x, y, dx, dy, pressure) app:push("touchpressed", x, y, dx, dy, pressure) end
+    love.touchmoved = function(id, x, y, dx, dy, pressure) app:push("touchmoved", x, y, dx, dy, pressure) end
+    love.touchreleased = function(id, x, y, dx, dy, pressure) app:push("touchreleased", x, y, dx, dy, pressure) end
+
+    local function initElem(elem, parent, children)
+        elem.parent = parent
+        local children = {}
+        for _, child in pairs(children) do
+            table.insert(children, child[1])
+        end
+        elem.children = children
+        if elem.id then
+            app.model.getbyid[elem.id] = elem
+        end
+    end
+    recurseElems(initElem, app.topview)
+    recurseElems(initElem, app.bottomview)
+    
+    return app
 end
 
 newModel = function()
@@ -73,7 +92,6 @@ newModel = function()
         buttonspressed = {},
         t = 0,
         dt = 0,
-        animations = {},
         sounds = {},
         getbyid = {},
         rendering = true

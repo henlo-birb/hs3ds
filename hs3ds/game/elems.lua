@@ -26,8 +26,23 @@ end
 local function renderRectangle(this, app)
     local c = makeC(this)
     love.graphics.setColor(c(this.color))
-    love.graphics.rectangle(c(this.mode), getX(this, c), getY(this, c),
-                            c(this.width), c(this.height))
+    mode = c(this.mode)
+    x = getX(this, c)
+    y = getY(this, c)
+    width = c(this.width)
+    height = c(this.height)
+    if mode == "dashed" then
+        love.graphics.dashedLine(c(this.dash_length), c(this.space_length), 
+        x, y, 
+        x, y + height, 
+        x + width, y + height,
+        x + width, y,
+        x, y
+    )
+    else
+        love.graphics.rectangle(mode, x, y, width, height)
+    end
+    
 end
 
 function Rectangle(x, y, width, height, color, mode)
@@ -37,6 +52,8 @@ function Rectangle(x, y, width, height, color, mode)
         y = y or 0,
         width = width,
         height = height,
+        dash_length = 5,
+        space_length = 5,
         color = color or {love.graphics.getBackgroundColor()},
         mode = mode or "fill",
         render = renderRectangle,
@@ -156,7 +173,7 @@ local function updateScrollableText(this, app)
     local view_height = c(this.view_height)
     local num_lines = math.floor(view_height / font:getHeight())
     local text_lines = #text / 2
-    local total_height = (text_lines) * font:getHeight()
+    this.total_height = (text_lines) * font:getHeight()
     local scroll_delta = c(this.scroll_delta)
     local align = c(this.align)
 
@@ -166,12 +183,12 @@ local function updateScrollableText(this, app)
         this.current_line = 1
         this.scroll_start = true
         this.scroll_end = false
-        this.lines = {unpack(text, 1, num_lines * 2)}
-        this.scroll_bar_height = view_height * view_height / total_height --scroll bar height is inversely proportional to the total height
+        this.lines = {unpack(text, 1, (num_lines + 2) * 2)}
+        this.scroll_bar_height = view_height * view_height / this.total_height --scroll bar height is inversely proportional to the total height
         -- this here is some bullshit i dont understand but it works
         this.scroll_bar_scale = (view_height - font:getHeight() * 2 -
                                     this.scroll_bar_height) /
-                                    (total_height - view_height +
+                                    (this.total_height - view_height +
                                         font:getHeight() * 2)
         this.text_obj:setf(this.lines, wrap_limit, align)
         this.last_text = text
@@ -183,7 +200,7 @@ local function updateScrollableText(this, app)
     elseif scroll_delta ~= 0 then
         if this.scroll_y + scroll_delta > font:getHeight() then
             this.scroll_start = false
-            if this.current_line < text_lines - num_lines + 2 then
+            if this.current_line < text_lines - num_lines + 2 + c(this.extra_lines) then
                 this.scroll_y = 0
                 this.current_line = this.current_line + 1
             else
@@ -203,7 +220,7 @@ local function updateScrollableText(this, app)
             this.scroll_y = this.scroll_y + scroll_delta
         end
         this.start_idx = this.current_line * 2 - 1
-        this.end_idx = this.start_idx + num_lines * 2
+        this.end_idx = this.start_idx + (num_lines + 2) * 2
         this.total_scroll_y = (this.current_line - 1) * font:getHeight() +
                                   this.scroll_y
         this.lines = {unpack(text, this.start_idx, this.end_idx)}
@@ -224,6 +241,7 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
         text_obj = love.graphics.newText(love.graphics.getFont()),
         start_idx = 1,
         end_idx = 2,
+        extra_lines = 0,
         scroll_start = true,
         scroll_end = false,
         scroll_delta = scroll_delta or 0,
@@ -247,6 +265,7 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
             this.view_height = height
             return height
         end,
+        total_height = 0,
         scroll_y = 0,
         total_scroll_y = 0,
         current_line = 1,
@@ -461,8 +480,8 @@ function Button(text, x, y, on_click)
         padding = 10,
         wrap_limit = function(this)
             local c = makeC(this)
-            local width = love.graphics.getWidth(screen) - getX(this, c);
-            this.wrap_limit = width;
+            local width = love.graphics.getWidth(screen) - getX(this, c)
+            this.wrap_limit = width
             return width
         end,
         radius = 5,
