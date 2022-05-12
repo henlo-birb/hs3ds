@@ -16,7 +16,14 @@ hs_filtered = {
     k: v for k, v in data["story"].items() if any("hs2" in m for m in v["media"])
 }
 
-conv_key = lambda k: k if not k.isdigit() else int(k) - 1900
+def conv_key(k):
+    if k.isdigit():
+        k = str(int(k) - 1900)
+        while len(k) < 4:
+            k = "0" + k
+        k = k.replace("", "/").strip("/")
+    return k
+
 
 
 def get_color(style):
@@ -59,49 +66,41 @@ def get_lines(s):
         lines[-1] += "\n"
     return lines
 
-max_medias = 0
 
 os.system("mkdir -p pages")
 bar = progressbar.ProgressBar(max_value=len(hs_filtered.items()), redirect_stdout=True)
 for k, v in hs_filtered.items():
-    new_content = []
-    log = []
-    log_title = ""
-    append_to = new_content
+    content = []
+    log_title = None
     soup = BeautifulSoup(v["content"], "html.parser")
     for e in soup.contents:
         match e.name:
             case "br":
-                append_to.append([0,0,0])
-                append_to.append("\n")
+                content.append([0,0,0])
+                content.append("\n")
             case "span":
                 if e.string:
                     c = get_color(e.attrs["style"])
                     lines = get_lines(e.string)
                     for l in lines:
-                        append_to.append(c)
-                        append_to.append(l)
+                        content.append(c)
+                        content.append(l)
             case _:
                 s = str(e) if not e.string else e.string
                 if "LOG|" in s:
-                            append_to = log
                             log_title = s.replace("|", "")
                             continue
                 lines = get_lines(s)
                 for l in lines:
-                    append_to.append([0, 0, 0])
-                    append_to.append(l)
+                    content.append([0, 0, 0])
+                    content.append(l)
                 
-    v["content"] = new_content
+    v["content"] = content
     v["log_title"] = log_title
-    v["log"] = log
-
     v["next"] = [conv_key(n) for n in v["next"]]
     v["media"] = [
             m.replace("/storyfiles/hs2/", "").replace(".gif", "") for m in v["media"]
         ]
-    if len(v["media"]) > max_medias:
-        max_medias = len(v["media"])
     
     v["page_id"] = conv_key(v["pageId"])
     v["title_len"] = len(v["title"])
@@ -109,8 +108,15 @@ for k, v in hs_filtered.items():
     if "previous" in v:
         v["previous"] = conv_key(v["previous"])
         
-        
-    luadata.write(f"pages/{conv_key(k)}.lua", v, indent="\t")
+
+    
+    page = conv_key(k)
+    
+    if page.replace("/","").isdigit(): os.system(f"mkdir -p pages/{page[:-2]}")
+    
+    luadata.write(f"pages/{page}.lua", v, indent="\t")
+
+    # luadata.write(f"pages/{conv_key(k)}.lua", v, indent="\t")
     bar.value += 1
     bar.update()
-print(max_medias)
+# luadata.write("pages.lua", hs_filtered, indent="\t")

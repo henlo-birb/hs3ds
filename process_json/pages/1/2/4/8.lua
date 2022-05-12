@@ -1,0 +1,94 @@
+return {
+	title = "[I] CD: Follow the red-blood road.",
+	timestamp = "1264365409",
+	flag = {},
+	media = {
+		"01248",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"It's uncanny. This little guy is\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"matching\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Fin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"'s route every step of the way.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"HE MUST KNOW SOMETHING.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0.1803921568627451,
+			0.8431372549019608,
+			0.22745098039215686,
+		},
+		"Fin\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"decides he's got to take him out.\
+",
+	},
+	next = {
+		"1/2/4/9",
+	},
+	previous = "1/2/4/7",
+	log_title = nil,
+	page_id = "1/2/4/8",
+	title_len = 34,
+}

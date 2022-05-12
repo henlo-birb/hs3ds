@@ -1,0 +1,115 @@
+return {
+	title = "==>",
+	timestamp = "1298172399",
+	flag = {},
+	media = {
+		"03547",
+	},
+	content = {
+		{
+			0,
+			0,
+			0,
+		},
+		"This is no way for a killer of your\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"elite profile to dress. Your rise to\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"omnipotence has had a regrettable\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"influence on your vanity it seems.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Have you forgotten the original\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"grievance with frivolous attire that\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"got you here?\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"That's it. NO MORE TROPHIES. YOU ARE\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"SWEARING OFF TROPHIES FOREVER.\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"\
+",
+		{
+			0,
+			0,
+			0,
+		},
+		"Probably.\
+",
+	},
+	next = {
+		"3/5/5/1",
+	},
+	previous = "3/5/4/9",
+	log_title = nil,
+	page_id = "3/5/5/0",
+	title_len = 3,
+}

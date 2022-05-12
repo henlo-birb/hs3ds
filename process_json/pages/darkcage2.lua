@@ -9,6 +9,7 @@ return {
 	},
 	content = {},
 	next = {},
+	log_title = nil,
 	page_id = "darkcage2",
 	title_len = 57,
 }

@@ -1,0 +1,28 @@
+return {
+	title = "[A6I5] ==>",
+	timestamp = "1365193460",
+	flag = {},
+	media = {
+		"04151retcon",
+		"04255retcon",
+		"04409retcon",
+		"04600retcon",
+		"04723retcon",
+		"04828retcon",
+		"04955retcon",
+		"05084_2retcon",
+		"05219retcon",
+		"05351retcon",
+		"05451retcon",
+		"05612retcon",
+		"05947retcon",
+	},
+	content = {},
+	next = {
+		"6/1/0/8",
+	},
+	previous = "6/1/0/6",
+	log_title = nil,
+	page_id = "6/1/0/7",
+	title_len = 10,
+}
