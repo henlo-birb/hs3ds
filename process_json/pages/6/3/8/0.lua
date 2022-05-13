@@ -809,7 +809,7 @@ return {
 		"6/3/8/1",
 	},
 	previous = "6/3/7/9",
-	log_title = "SPRITELOG",
+	log_title = "Spritelog",
 	page_id = "6/3/8/0",
 	title_len = 14,
 }

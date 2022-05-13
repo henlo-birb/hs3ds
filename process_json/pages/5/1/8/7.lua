@@ -262,7 +262,7 @@ return {
 	next = {
 		"5/1/8/8",
 	},
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "5/1/8/7",
 	title_len = 8,
 }

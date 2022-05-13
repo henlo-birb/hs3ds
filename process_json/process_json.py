@@ -88,7 +88,7 @@ for k, v in hs_filtered.items():
             case _:
                 s = str(e) if not e.string else e.string
                 if "LOG|" in s:
-                            log_title = s.replace("|", "")
+                            log_title = s.replace("|", "").lower().capitalize()
                             continue
                 lines = get_lines(s)
                 for l in lines:

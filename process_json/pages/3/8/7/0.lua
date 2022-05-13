@@ -301,7 +301,7 @@ return {
 	},
 	previous = "3/8/6/9",
 	theme = "scratch",
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "3/8/7/0",
 	title_len = 47,
 }

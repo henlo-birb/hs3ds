@@ -123,7 +123,7 @@ return {
 		"3/2/3/9",
 	},
 	previous = "3/2/3/7",
-	log_title = "RECAP LOG",
+	log_title = "Recap log",
 	page_id = "3/2/3/8",
 	title_len = 8,
 }

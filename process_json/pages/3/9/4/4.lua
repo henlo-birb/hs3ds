@@ -830,7 +830,7 @@ return {
 		"3/9/4/5",
 	},
 	theme = "scratch",
-	log_title = "SPRITELOG",
+	log_title = "Spritelog",
 	page_id = "3/9/4/4",
 	title_len = 3,
 }

@@ -8,12 +8,12 @@ local function renderMultAnimation(this, app)
     if c(this.show_scroll_bar) and #this.anims > 1 then 
         local scroll_bar_width = c(this.scroll_bar_width)
         love.graphics.setColor({1,1,1})
-        love.graphics.rectangle("fill", getX(this, c) + width, getY(this, c), scroll_bar_width + 4, height)
+        love.graphics.rectangle("fill", getX(this, c) + width * c(this.sx), getY(this, c), scroll_bar_width + 4, height * c(this.sy))
         love.graphics.setColor(c(this.scroll_bar_color))
-        love.graphics.rectangle("fill", getX(this, c) + width + 2, getY(this, c) +
-                                        this.scroll_bar_scale *
-                                        this.scroll_y, scroll_bar_width,
-                                    this.scroll_bar_height)
+        love.graphics.rectangle("fill", getX(this, c) + (width * c(this.sx)) + 2, getY(this, c) +
+                                        this.scroll_bar_scale * this.scroll_y * c(this.sy),
+                                        scroll_bar_width,
+                                    this.scroll_bar_height * c(this.sy))
     end
 end
 
@@ -50,13 +50,16 @@ local function updateMultAnimation(this, app, dt)
         this.scroll_y = this.scroll_y + app.model.image_delta_scroll * 2
         this.scroll_y = math.min(this.scroll_y, this.scroll_limit)
         this.scroll_y = math.max(this.scroll_y, 0)
-        
-        for _, anim in pairs(this.anims) do
-            anim.y = anim.base_y + getY(this, c) - this.scroll_y
-        end
+    end
+
+    for _, anim in pairs(this.anims) do
+        anim.y = anim.base_y + getY(this, c) - this.scroll_y * c(this.sy)
+        anim.x = getX(this, c)
     end
     
     for _, anim in pairs(this.anims) do
+        anim.sx =c(this.sx)
+        anim.sy = c(this.sy)
         anim:update(app, dt)
     end
 end

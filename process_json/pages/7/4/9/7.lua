@@ -1620,7 +1620,7 @@ return {
 	next = {
 		"7/4/9/8",
 	},
-	log_title = "DIALOGLOG",
+	log_title = "Dialoglog",
 	page_id = "7/4/9/7",
 	title_len = 14,
 }

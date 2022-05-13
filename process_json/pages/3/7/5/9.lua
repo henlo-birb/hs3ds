@@ -18,7 +18,7 @@ return {
 		"3/7/6/0",
 	},
 	previous = "3/7/5/8",
-	log_title = "JOURNALOG",
+	log_title = "Journalog",
 	page_id = "3/7/5/9",
 	title_len = 3,
 }

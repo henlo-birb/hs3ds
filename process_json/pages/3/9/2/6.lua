@@ -151,7 +151,7 @@ return {
 		"3/9/2/7",
 	},
 	theme = "scratch",
-	log_title = "SPRITELOG",
+	log_title = "Spritelog",
 	page_id = "3/9/2/6",
 	title_len = 3,
 }

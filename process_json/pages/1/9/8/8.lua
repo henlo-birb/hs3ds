@@ -4582,7 +4582,7 @@ return {
 		"1/9/8/9",
 	},
 	previous = "1/9/8/7",
-	log_title = "RECAP LOG",
+	log_title = "Recap log",
 	page_id = "1/9/8/8",
 	title_len = 8,
 }

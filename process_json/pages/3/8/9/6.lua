@@ -1957,7 +1957,7 @@ return {
 		"3/8/9/7",
 	},
 	theme = "scratch",
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "3/8/9/6",
 	title_len = 3,
 }

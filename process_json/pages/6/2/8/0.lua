@@ -1263,7 +1263,7 @@ return {
 	next = {
 		"6/2/7/9",
 	},
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "6/2/8/0",
 	title_len = 14,
 }

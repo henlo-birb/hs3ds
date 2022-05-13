@@ -53,7 +53,7 @@ return {
 		"2/8/0/3",
 	},
 	previous = "2/8/0/1",
-	log_title = "SPRITELOG",
+	log_title = "Spritelog",
 	page_id = "2/8/0/2",
 	title_len = 3,
 }

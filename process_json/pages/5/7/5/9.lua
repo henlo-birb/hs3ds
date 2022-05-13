@@ -1085,7 +1085,7 @@ return {
 	},
 	previous = "5/7/5/8",
 	theme = "trickster",
-	log_title = "TRKSTRLOG",
+	log_title = "Trkstrlog",
 	page_id = "5/7/5/9",
 	title_len = 7,
 }

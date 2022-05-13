@@ -3273,7 +3273,7 @@ return {
 		"4/5/1/4",
 	},
 	previous = "4/5/1/2",
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "4/5/1/3",
 	title_len = 13,
 }

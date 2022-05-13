@@ -1009,7 +1009,7 @@ return {
 ",
 	},
 	next = {},
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "4/8/2/2",
 	title_len = 2,
 }

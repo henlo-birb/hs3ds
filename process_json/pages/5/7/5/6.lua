@@ -33,7 +33,7 @@ return {
 	},
 	previous = "5/7/5/5",
 	theme = "trickster",
-	log_title = "TRKSTRLOG",
+	log_title = "Trkstrlog",
 	page_id = "5/7/5/6",
 	title_len = 3,
 }

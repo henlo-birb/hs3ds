@@ -939,7 +939,7 @@ return {
 ",
 	},
 	next = {},
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "4/8/2/6",
 	title_len = 2,
 }

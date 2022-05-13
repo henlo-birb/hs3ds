@@ -809,7 +809,7 @@ return {
 		"5/4/8/1",
 	},
 	previous = "5/4/7/9",
-	log_title = "AUTHORLOG",
+	log_title = "Authorlog",
 	page_id = "5/4/8/0",
 	title_len = 10,
 }

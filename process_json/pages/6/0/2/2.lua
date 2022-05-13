@@ -1705,7 +1705,7 @@ return {
 		"6/0/2/3",
 	},
 	previous = "6/0/2/1",
-	log_title = "AUTHORLOG",
+	log_title = "Authorlog",
 	page_id = "6/0/2/2",
 	title_len = 35,
 }

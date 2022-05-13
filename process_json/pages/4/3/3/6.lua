@@ -963,7 +963,7 @@ return {
 		"4/3/3/7",
 	},
 	previous = "4/3/3/5",
-	log_title = "DIALOGLOG",
+	log_title = "Dialoglog",
 	page_id = "4/3/3/6",
 	title_len = 10,
 }

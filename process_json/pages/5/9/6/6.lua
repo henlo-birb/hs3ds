@@ -144,7 +144,7 @@ return {
 		"5/9/6/7",
 	},
 	previous = "5/9/6/5",
-	log_title = "DIALOGLOG",
+	log_title = "Dialoglog",
 	page_id = "5/9/6/6",
 	title_len = 10,
 }

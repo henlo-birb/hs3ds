@@ -45,7 +45,7 @@ return {
 	next = {
 		"6/4/0/7",
 	},
-	log_title = "DIALOGLOG",
+	log_title = "Dialoglog",
 	page_id = "6/4/0/6",
 	title_len = 14,
 }

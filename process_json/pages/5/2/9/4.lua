@@ -592,7 +592,7 @@ return {
 		"5/2/9/5",
 	},
 	previous = "5/2/9/3",
-	log_title = "DIALOGLOG",
+	log_title = "Dialoglog",
 	page_id = "5/2/9/4",
 	title_len = 10,
 }

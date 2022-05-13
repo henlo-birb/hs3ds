@@ -837,7 +837,7 @@ return {
 		"5/4/8/5",
 	},
 	previous = "5/4/8/3",
-	log_title = "AUTHORLOG",
+	log_title = "Authorlog",
 	page_id = "5/4/8/4",
 	title_len = 10,
 }

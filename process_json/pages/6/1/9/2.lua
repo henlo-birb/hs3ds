@@ -298,7 +298,7 @@ return {
 		"6/1/9/3",
 	},
 	previous = "6/1/9/1",
-	log_title = "AUTHORLOG",
+	log_title = "Authorlog",
 	page_id = "6/1/9/2",
 	title_len = 35,
 }

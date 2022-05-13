@@ -10483,7 +10483,7 @@ return {
 		"1/6/7/5",
 	},
 	previous = "1/6/7/3",
-	log_title = "RECAP LOG",
+	log_title = "Recap log",
 	page_id = "1/6/7/4",
 	title_len = 34,
 }

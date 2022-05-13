@@ -1201,7 +1201,7 @@ return {
 		"2/0/6/2",
 	},
 	previous = "2/0/6/0",
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "2/0/6/1",
 	title_len = 25,
 }

@@ -2489,7 +2489,7 @@ return {
 		"2/4/6/8",
 	},
 	previous = "2/4/6/6",
-	log_title = "PESTERLOG",
+	log_title = "Pesterlog",
 	page_id = "2/4/6/7",
 	title_len = 25,
 }
