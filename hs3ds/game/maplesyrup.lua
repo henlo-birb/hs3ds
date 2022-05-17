@@ -45,7 +45,7 @@ initApp = function(params)
             if this.model.rendering then
                 local id_counter = 1
                 local function renderElem(elem)
-                    if makeC(elem)(elem.visible) ~= false then
+                    if elem:get("visible") ~= false then
                         elem:render(this)
                     end
                 end
@@ -154,8 +154,12 @@ end
 
 newView = function(screen)
     return {
-        Rectangle(0, 0, love.graphics.getWidth(screen),
-                  love.graphics.getHeight(screen), {1, 1, 1}, "fill"), {}
+        Rectangle(0, 
+                  0, 
+                  love.graphics.getWidth(screen),
+                  love.graphics.getHeight(screen),
+                  {1, 1, 1}, 
+                  "fill"), {}
     }
 end
 

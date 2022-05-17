@@ -1,26 +1,24 @@
 require("elems")
 
 local function renderMultAnimation(this, app)
-    local c = makeC(this)
-    local width = c(this.width)
-    local height = c(this.height)
+    local width = this:get("width")
+    local height = this:get("height")
     for _, anim in pairs(this.anims) do anim:render(app) end
-    if c(this.show_scroll_bar) and #this.anims > 1 then 
-        local scroll_bar_width = c(this.scroll_bar_width)
+    if this:get("show_scroll_bar") and #this.anims > 1 then 
+        local scroll_bar_width = this:get("scroll_bar_width")
         love.graphics.setColor({1,1,1})
-        love.graphics.rectangle("fill", getX(this, c) + width * c(this.sx), getY(this, c), scroll_bar_width + 4, height * c(this.sy))
-        love.graphics.setColor(c(this.scroll_bar_color))
-        love.graphics.rectangle("fill", getX(this, c) + (width * c(this.sx)) + 2, getY(this, c) +
-                                        this.scroll_bar_scale * this.scroll_y * c(this.sy),
+        love.graphics.rectangle("fill", getX(this) + width * this:get("sx"), getY(this), scroll_bar_width + 4, height * this:get("sy"))
+        love.graphics.setColor(this:get("scroll_bar_color"))
+        love.graphics.rectangle("fill", getX(this) + (width * this:get("sx")) + 2, getY(this) +
+                                        this.scroll_bar_scale * this.scroll_y * this:get("sy"),
                                         scroll_bar_width,
-                                    this.scroll_bar_height * c(this.sy))
+                                    this.scroll_bar_height * this:get("sy"))
     end
 end
 
 local function updateMultAnimation(this, app, dt)
-    local c = makeC(this)
-    local names = c(this.names)
-    local padding = c(this.padding)
+    local names = this:get("names")
+    local padding = this:get("padding")
     if names ~= this.last_names then
         for _, anim in pairs(this.anims) do anim:release() end
         this.anims = {}
@@ -33,33 +31,35 @@ local function updateMultAnimation(this, app, dt)
                                         this.anims[#this.anims].height + padding
             end
             local base_y = this.scroll_limit
-            local new_anim = Animation(name, getX(this, c),
-                                       getY(this, c) + base_y)
+            local new_anim = Animation(name, getX(this),
+                                       getY(this) + base_y)
             new_anim["base_y"] = base_y
             new_anim:update(app, 0)
             table.insert(this.anims, new_anim)
         end
-        local height = c(this.height)
+        local height = this:get("height")
         local total_height = this.scroll_limit + this.anims[#this.anims].height + padding
         this.scroll_bar_height = height * height / total_height
         this.scroll_bar_scale = (height - this.scroll_bar_height) / (total_height - height)
         this.last_names = names
     end
 
-    if math.abs(app.model.image_delta_scroll) > 0.2 then
-        this.scroll_y = this.scroll_y + app.model.image_delta_scroll * 2
+    local delta_scroll = this:get("delta_scroll")
+
+    if math.abs(delta_scroll) > 0.2 then
+        this.scroll_y = this.scroll_y + delta_scroll * 2
         this.scroll_y = math.min(this.scroll_y, this.scroll_limit)
         this.scroll_y = math.max(this.scroll_y, 0)
     end
 
     for _, anim in pairs(this.anims) do
-        anim.y = anim.base_y + getY(this, c) - this.scroll_y * c(this.sy)
-        anim.x = getX(this, c)
+        anim.y = anim.base_y + getY(this) - this.scroll_y * this:get("sy")
+        anim.x = getX(this)
     end
     
     for _, anim in pairs(this.anims) do
-        anim.sx =c(this.sx)
-        anim.sy = c(this.sy)
+        anim.sx =this:get("sx")
+        anim.sy = this:get("sy")
         anim:update(app, dt)
     end
 end
@@ -72,6 +72,7 @@ function MultAnimation(names, x, y, sx, sy, looping)
         anims = {},
         scroll_y = 0,
         scroll_limit = 0,
+        delta_scroll = 0,
         dt = 0,
         x = x or 0,
         y = y or 0,
@@ -88,37 +89,36 @@ function MultAnimation(names, x, y, sx, sy, looping)
         scroll_bar_scale = 0,
         render = renderMultAnimation,
         update = updateMultAnimation,
+        get = get,
         p = merge
     }
 end
 
 local function renderPopupLabel(this, app) 
-    local c = makeC(this)
-    local padding = c(this.padding)
-    local x = getX(this, c)
-    local y = getY(this, c)
-    local font = c(this.font)
-    if c(this.show_background) then 
-        love.graphics.setColor(c(this.background_color))
+    local padding = this:get("padding")
+    local x = getX(this)
+    local y = getY(this)
+    local font = this:get("font")
+    if this:get("show_background") then 
+        love.graphics.setColor(this:get("background_color"))
         this.rect_width = font:getWidth(this.text_string) + padding * 2 + 7
         this.rect_height = font:getHeight() + padding * 2
-        love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, c(this.background_radius))
+        love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, this:get("background_radius"))
         love.graphics.setCanvas()
         x = x + padding
         y = y + padding
     end
     love.graphics.setFont(font)
-    love.graphics.printf(this.text, x, y, c(this.wrap_limit))
+    love.graphics.printf(this.text, x, y, this:get("wrap_limit"))
 end
 
 local function updatePopupLabel(this, app, dt) 
-    local c = makeC(this)
     if this.visible then
         if not this.was_visible then
             this.dt = 0
         end
         this.dt = this.dt + dt
-        if this.dt > c(this.display_time) then
+        if this.dt > this:get("display_time") then
             this.visible = false
         end
     end
@@ -145,8 +145,7 @@ function PopupLabel(x, y)
         rect_height = 0,
         padding = 5,
         wrap_limit = function(this)
-            local c = makeC(this)
-            local width = love.graphics.getWidth(screen) - getX(this, c)
+            local width = love.graphics.getWidth(screen) - getX(this)
             this.wrap_limit = width
             return width
         end,
@@ -167,6 +166,7 @@ function PopupLabel(x, y)
         end,
         render = renderPopupLabel,
         update = updatePopupLabel,
+        get = get,
         p = merge
     }
 end
