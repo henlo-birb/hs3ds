@@ -52,12 +52,13 @@ int Text::GetHeight(int index) const
     return this->font->GetHeight();
 }
 
-static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text) {
+static std::vector<u32> GetColors(Graphics *gfx, const std::vector <Font::ColoredString> &text) {
     std::vector <u32> colorData;
     u32 length = 0;
     for (auto cs: text) {
         colorData.push_back(length);
-        colorData.push_back(C2D_Color32f(cs.color.r, cs.color.g, cs.color.b, cs.color.a));
+        Colorf c = cs.color * gfx->GetColor();
+        colorData.push_back(C2D_Color32f(c.r, c.g, c.b, c.a));
         length += cs.string.length();
     }
     return colorData;
@@ -77,7 +78,7 @@ void Text::Set(const std::vector<Font::ColoredString>& text, float wrap, Font::A
 
     this->wrap  = wrap;
     this->align = align;
-    this->colors = GetColors(text);
+    this->coloredtext = text;
 
     C2D_TextBufClear(this->buffer);
     C2D_TextFontParse(&this->text, this->font->GetFont(), this->buffer, this->textCache.c_str());
@@ -103,11 +104,11 @@ int Text::Addf(const std::vector<Font::ColoredString>& text, float wrap, Font::A
         throw love::Exception("addf cannot handle multiple wraps and aligns on this console.");
 
     this->textCache += this->GetString(text);
-    this->colors = GetColors(text);
     this->wrap  = wrap;
     this->align = align;
 
     this->wrapData.push_back(std::make_pair(wrap, align));
+    this->coloredtext.insert(this->coloredtext.end(), text.begin(), text.end());
 
     C2D_TextBufClear(this->buffer);
     C2D_TextFontParse(&this->text, this->font->GetFont(), this->buffer, this->textCache.c_str());
@@ -124,7 +125,7 @@ void Text::Draw(Graphics* gfx, const Matrix4& localTransform)
 //    Colorf color = gfx->GetColor();
 
 //    u32 renderColorf = C2D_Color32f(color.r, color.g, color.b, color.a);
-    u32 flags        = C2D_WithColor;
+    u32 flags        = C2D_MultiColor;
 
     u32 alignMode = C2D_WordWrap;
     float offset  = 0.0f;
@@ -151,9 +152,10 @@ void Text::Draw(Graphics* gfx, const Matrix4& localTransform)
     if (this->align != Font::ALIGN_MAX_ENUM)
         flags |= alignMode;
 
+    std::vector<u32> colors = GetColors(gfx, this->coloredtext);
     /* wrap will be discarded if there's no align mode specified */
     C2D_DrawText(&this->text, flags, offset, 0, Graphics::CURRENT_DEPTH, this->font->GetScale(),
-                 this->font->GetScale(), this->colors.data(), (u32)this->colors.size(), this->wrap);
+                 this->font->GetScale(), colors.data(), (u32)colors.size(), this->wrap);
 }
 
 void Text::Clear()

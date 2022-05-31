@@ -1,24 +1,24 @@
 require("elems")
 
 local function renderMultAnimation(this, app)
-    local width = this:get("width")
-    local height = this:get("height")
+    local width = this.width
+    local height = this.height
     for _, anim in pairs(this.anims) do anim:render(app) end
-    if this:get("show_scroll_bar") and #this.anims > 1 then 
-        local scroll_bar_width = this:get("scroll_bar_width")
+    if this.show_scroll_bar and #this.anims > 1 then 
+        local scroll_bar_width = this.scroll_bar_width
         love.graphics.setColor({1,1,1})
-        love.graphics.rectangle("fill", getX(this) + width * this:get("sx"), getY(this), scroll_bar_width + 4, height * this:get("sy"))
-        love.graphics.setColor(this:get("scroll_bar_color"))
-        love.graphics.rectangle("fill", getX(this) + (width * this:get("sx")) + 2, getY(this) +
-                                        this.scroll_bar_scale * this.scroll_y * this:get("sy"),
+        love.graphics.rectangle("fill", getX(this) + width * this.sx, getY(this), scroll_bar_width + 4, height * this.sy)
+        love.graphics.setColor(this.scroll_bar_color)
+        love.graphics.rectangle("fill", getX(this) + (width * this.sx) + 2, getY(this) +
+                                        this.scroll_bar_scale * this.scroll_y * this.sy,
                                         scroll_bar_width,
-                                    this.scroll_bar_height * this:get("sy"))
+                                    this.scroll_bar_height * this.sy)
     end
 end
 
 local function updateMultAnimation(this, app, dt)
-    local names = this:get("names")
-    local padding = this:get("padding")
+    local names = this.names
+    local padding = this.padding
     if names ~= this.last_names then
         for _, anim in pairs(this.anims) do anim:release() end
         this.anims = {}
@@ -37,14 +37,14 @@ local function updateMultAnimation(this, app, dt)
             new_anim:update(app, 0)
             table.insert(this.anims, new_anim)
         end
-        local height = this:get("height")
+        local height = this.height
         local total_height = this.scroll_limit + this.anims[#this.anims].height + padding
         this.scroll_bar_height = height * height / total_height
         this.scroll_bar_scale = (height - this.scroll_bar_height) / (total_height - height)
         this.last_names = names
     end
 
-    local delta_scroll = this:get("delta_scroll")
+    local delta_scroll = this.delta_scroll
 
     if math.abs(delta_scroll) > 0.2 then
         this.scroll_y = this.scroll_y + delta_scroll * 2
@@ -53,19 +53,19 @@ local function updateMultAnimation(this, app, dt)
     end
 
     for _, anim in pairs(this.anims) do
-        anim.y = anim.base_y + getY(this) - this.scroll_y * this:get("sy")
+        anim.y = anim.base_y + getY(this) - this.scroll_y * this.sy
         anim.x = getX(this)
     end
     
     for _, anim in pairs(this.anims) do
-        anim.sx =this:get("sx")
-        anim.sy = this:get("sy")
+        anim.sx =this.sx
+        anim.sy = this.sy
         anim:update(app, dt)
     end
 end
 
 function MultAnimation(names, x, y, sx, sy, looping)
-    return {
+    return makeElem({
         type = "animation",
         names = names,
         last_names = {},
@@ -86,30 +86,28 @@ function MultAnimation(names, x, y, sx, sy, looping)
         scroll_bar_color = {0.66275, 0.66275, 0.66275},
         scroll_bar_width = 5,
         scroll_bar_height = 20,
-        scroll_bar_scale = 0,
-        render = renderMultAnimation,
-        update = updateMultAnimation,
-        get = get,
-        p = merge
-    }
+        scroll_bar_scale = 0
+    },
+renderMultAnimation,
+updateMultAnimation)
 end
 
 local function renderPopupLabel(this, app) 
-    local padding = this:get("padding")
+    local padding = this.padding
     local x = getX(this)
     local y = getY(this)
-    local font = this:get("font")
-    if this:get("show_background") then 
-        love.graphics.setColor(this:get("background_color"))
+    local font = this.font
+    if this.show_background then 
+        love.graphics.setColor(this.background_color)
         this.rect_width = font:getWidth(this.text_string) + padding * 2 + 7
         this.rect_height = font:getHeight() + padding * 2
-        love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, this:get("background_radius"))
+        love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, this.background_radius)
         love.graphics.setCanvas()
         x = x + padding
         y = y + padding
     end
     love.graphics.setFont(font)
-    love.graphics.printf(this.text, x, y, this:get("wrap_limit"))
+    love.graphics.printf(this.text, x, y, this.wrap_limit)
 end
 
 local function updatePopupLabel(this, app, dt) 
@@ -118,7 +116,7 @@ local function updatePopupLabel(this, app, dt)
             this.dt = 0
         end
         this.dt = this.dt + dt
-        if this.dt > this:get("display_time") then
+        if this.dt > this.display_time then
             this.visible = false
         end
     end
@@ -127,14 +125,14 @@ end
 
 
 function PopupLabel(x, y) 
-    return {
+    return makeElem({
         type = "text",
         dt = 0,
         x = x or 0,
         y = y or 0,
-        text = coloredtext,
+        text = nil,
         text_string = "",
-        font = font or love.graphics.getFont(),
+        font = function(this) return this.font or love.graphics.getFont() end,
         display_time = 0,
         visible = false,
         was_visible = false,
@@ -148,26 +146,25 @@ function PopupLabel(x, y)
             local width = love.graphics.getWidth(screen) - getX(this)
             this.wrap_limit = width
             return width
-        end,
-        display = function(this, text, time, font) 
-            this.visible = true
-            this.text = text
-            this.display_time = time
-            this.font = font or love.graphics.getFont()
-            this.text_string = text
-            if type(text) == "table" then
-                this.text_string = ""
-                for i = 2, #text, 2 do
-                    this.text_string = this.text_string .. text[i]
-                end
-            else
-                this.text_string = text
+        end
+        },
+renderPopupLabel,
+updatePopupLabel, {
+    display = function(this, text, time, font) 
+        this.visible = true
+        this.text = text
+        this.display_time = time
+        this.font = font or love.graphics.getFont()
+        this.text_string = text
+        if type(text) == "table" then
+            this.text_string = ""
+            for i = 2, #text, 2 do
+                this.text_string = this.text_string .. text[i]
             end
-        end,
-        render = renderPopupLabel,
-        update = updatePopupLabel,
-        get = get,
-        p = merge
-    }
+        else
+            this.text_string = text
+        end
+        end
+    })
 end
 

@@ -25,7 +25,7 @@ os.system("mkdir -p animations")
 def f(g):
     cols = 3
     rows = 4
-    scale = args.s or 50
+    scale = args.s or 46
     anim_name = g.replace(".gif", "")
     with Image.open(g) as im:
         w = int(im.width * scale / 100)

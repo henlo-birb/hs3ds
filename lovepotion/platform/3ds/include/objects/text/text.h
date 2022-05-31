@@ -39,9 +39,8 @@ namespace love
 
         C2D_TextBuf buffer;
         C2D_Text text;
-
+        std::vector<Font::ColoredString> coloredtext;
         std::string textCache;
-        std::vector<u32> colors;
         float wrap;
         Font::AlignMode align;
     };

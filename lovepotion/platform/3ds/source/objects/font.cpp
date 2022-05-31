@@ -95,12 +95,13 @@ void Font::GetWrap(const std::vector<Font::ColoredString>& strings, float wrapLi
                    std::vector<std::string>& lines, std::vector<int>* lineWidths)
 {}
 
-static std::vector<u32> GetColors(const std::vector <Font::ColoredString> &text) {
+static std::vector<u32> GetColors(Graphics *gfx, const std::vector <Font::ColoredString> &text) {
     std::vector <u32> colorData;
     u32 length = 0;
     for (auto cs: text) {
         colorData.push_back(length);
-        colorData.push_back(C2D_Color32f(cs.color.r, cs.color.g, cs.color.b, cs.color.a));
+        Colorf c = cs.color * gfx->GetColor();
+        colorData.push_back(C2D_Color32f(c.r, c.g, c.b, c.a));
         length += cs.string.length();
     }
     return colorData;
@@ -120,8 +121,8 @@ void Font::Print(Graphics *gfx, const std::vector <ColoredString> &text,
     Matrix4 t(gfx->GetTransform(), localTransform);
     C2D_ViewRestore(&t.GetElements());
 
-    auto colorData = GetColors(text);
-    C2D_DrawText(&citroText, C2D_WithColor, 0, 0, Graphics::CURRENT_DEPTH, this->GetScale(),
+    auto colorData = GetColors(gfx, text);
+    C2D_DrawText(&citroText, C2D_MultiColor, 0, 0, Graphics::CURRENT_DEPTH, this->GetScale(),
                  this->GetScale(), colorData.data(), (u32)colorData.size());
 
     C2D_TextBufClear(this->buffer);
@@ -161,8 +162,8 @@ void Font::Printf(Graphics *gfx, const std::vector <ColoredString> &text, float 
     Matrix4 t(gfx->GetTransform(), localTransform);
     C2D_ViewRestore(&t.GetElements());
 
-    auto colorData = GetColors(text);
-    C2D_DrawText(&citroText, C2D_WithColor | alignMode, offset, 0, Graphics::CURRENT_DEPTH,
+    auto colorData = GetColors(gfx, text);
+    C2D_DrawText(&citroText, C2D_MultiColor | alignMode, offset, 0, Graphics::CURRENT_DEPTH,
                  this->GetScale(), this->GetScale(), colorData.data(), (u32)colorData.size(), wrap);
 
     C2D_TextBufClear(this->buffer);

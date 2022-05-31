@@ -45,7 +45,7 @@ initApp = function(params)
             if this.model.rendering then
                 local id_counter = 1
                 local function renderElem(elem)
-                    if elem:get("visible") ~= false then
+                    if elem.visible ~= false then
                         elem:render(this)
                     end
                 end

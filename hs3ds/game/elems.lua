@@ -1,14 +1,28 @@
-require("utils")
-function get(this, a)
-    local ret = this[a]
-    if type(this[a]) == "function" then
-        ret = this[a](this)
-    end
-    return ret
+function addMt(t) 
+    local mt = {
+        __index = function(_, k)
+            local ret = t.data[k]
+            if type(ret) == "function"
+                then ret = ret(t)
+            end
+            return ret
+        end,
+        __newindex = t.data,
+        __add = function(_, to)
+            merge(t.data, to)
+            return t
+        end
+    }
+    setmetatable(t, mt)
+    return t
+end
+
+function makeElem(data, render, update, methods)
+    return addMt(merge({data = data, render = render, update = update}, methods or {}))
 end
 
 function getX(this)
-    local x = this:get("x")
+    local x = this.x
     if this.parent and this.position ~= "absolute" then
         x = x + getX(this.parent)
     end
@@ -16,7 +30,7 @@ function getX(this)
 end
 
 function getY(this)
-    local y = this:get("y")
+    local y = this.y
     if this.parent and this.position ~= "absolute" then
         y = y + getY(this.parent)
     end
@@ -24,28 +38,26 @@ function getY(this)
 end
 
 local function renderRectangle(this, app)
-    love.graphics.setColor(this:get("color"))
-    local mode = this:get("mode")
+    love.graphics.setColor(this.color)
     local x = getX(this)
     local y = getY(this)
-    local width = this:get("width")
-    local height = this:get("height")
-    if mode == "dashed" then
-        love.graphics.dashedLine(this:get("dash_length"), this:get("space_length"), 
-        x, y, 
-        x, y + height, 
-        x + width, y + height,
-        x + width, y,
+    if this.mode == "dashed" then
+        love.graphics.dashedLine(this.dash_length, this.space_length, 
+        x, y,
+        x, y + this.height,
+        x + this.width, y + this.height,
+        x + this.width, y,
         x, y
     )
     else
-        love.graphics.rectangle(mode, x, y, width, height)
+        love.graphics.rectangle(this.mode, x, y, this.width, this.height)
     end
     
 end
 
 function Rectangle(x, y, width, height, color, mode)
-    return {
+    return makeElem(
+    {
         type = "rectangle",
         x = x or 0,
         y = y or 0,
@@ -55,56 +67,51 @@ function Rectangle(x, y, width, height, color, mode)
         space_length = 5,
         color = color or {love.graphics.getBackgroundColor()},
         mode = mode or "fill",
-        render = renderRectangle,
-        get = get,
-        p = merge
-    }
+    },
+    renderRectangle
+    )
 end
 
 local function renderSimpleText(this, app)
-    love.graphics.setFont(this:get("font"))
-    love.graphics.print({this:get("color"), this:get("text")}, getX(this),
+    love.graphics.setFont(this.font)
+    love.graphics.print({this.color, this.text}, getX(this),
                         getY(this))
 end
 
 function SimpleText(text, x, y, color, font)
-    local font = font or love.graphics.getFont()
-    local color = color or {0, 0, 0}
-    return {
+    return makeElem( {
         type = "text",
         x = x or 0,
         y = y or 0,
         text = text,
-        color = color,
-        font = font,
-        render = renderSimpleText,
-        get = get,
-        p = merge
-    }
+        color = color or {0, 0, 0},
+        font = font or love.graphics.getFont()
+        },
+    renderSimpleText
+    )
 end
 
 local function renderText(this, app)
-    love.graphics.draw(this.text_obj, getX(this), getY(this), this:get("r"),
-                       this:get("sx"), this:get("sy"), this:get("ox"), this:get("oy"),
-                       this:get("kx"), this:get("ky"))
+    love.graphics.setColor(1,1,1,1)
+    love.graphics.draw(this.text_obj, getX(this), getY(this), this.r,
+                       this.sx, this.sy, this.ox, this.oy,
+                       this.kx, this.ky)
 end
 
 local function updateText(this, app)
-    local text = this:get("coloredtext")
-    if this.last_text ~= text then
-        this.text_obj:setf(text, this:get("wrap_limit"), this:get("align"))
-        this.last_text = text
+    if this.last_text ~= this.coloredtext then
+        this.text_obj:setf(this.coloredtext, this.wrap_limit, this.align)
+        this.last_text = this.coloredtext
     end
 end
 
 function Text(coloredtext, font, x, y, wrap_limit, align)
-    local font = font or love.graphics.getFont()
-    return {
+    return makeElem( {
         type = "text",
         coloredtext = coloredtext,
         last_text = {},
         text_obj = love.graphics.newText(font),
-        font = font,
+        font = font or love.graphics.getFont(),
         x = x or 0,
         y = y or 0,
         r = 0,
@@ -119,143 +126,123 @@ function Text(coloredtext, font, x, y, wrap_limit, align)
             this.wrap_limit = width;
             return width
         end,
-        align = align or "left",
-        render = renderText,
-        update = updateText,
-        get = get,
-        p = merge
-    }
+        align = align or "left"
+    },
+    renderText,
+    updateText
+    )
 end
 
 local function renderScrollableText(this, app)
-    local font = this:get("font")
-    if font ~= this.last_font then
-        this.text_obj:setFont(font)
-        this.last_font = font
+    if this.font ~= this.last_font then
+        this.text_obj:setFont(this.font)
+        this.last_font = this.font
     end
-    local text = this:get("coloredtext")
-    local wrap_limit = this:get("wrap_limit")
-    local view_height = this:get("view_height")
-    local scroll_bar_color = this:get("scroll_bar_color")
-    local scroll_bar_width = this:get("scroll_bar_width")
-    if #text > 0 then
+    if #this.coloredtext > 0 then
         love.graphics.setCanvas()
-        if not (this.scroll_start and this.scroll_end) and this:get("show_scroll_bar") then
-            love.graphics.setColor(scroll_bar_color)
+        if not (this.scroll_start and this.scroll_end) and this.show_scroll_bar then
+            love.graphics.setColor(this.scroll_bar_color)
             love.graphics.rectangle("fill",
-                                        getX(this) + wrap_limit - scroll_bar_width,
+                                        getX(this) + this.wrap_limit - this.scroll_bar_width,
                                         getY(this) + this.scroll_bar_scale * this.total_scroll_y,
-                                        scroll_bar_width,
+                                        this.scroll_bar_width,
                                     this.scroll_bar_height)
         end
         love.graphics.setCanvas()
         love.graphics.setScissor(getX(this),
                                 getY(this) + this.top_scroll,
-                                wrap_limit,
-                                view_height - this.top_scroll)
+                                this.wrap_limit,
+                                this.view_height - this.top_scroll)
+        love.graphics.setColor(1,1,1,1)
         love.graphics.draw(this.text_obj,
                             getX(this),
                             getY(this) - this.scroll_y + this.top_scroll,
-                            this:get("r"),
-                            this:get("sx"), this:get("sy"),
-                            this:get("ox"), this:get("oy"),
-                            this:get("kx"),this:get("ky"))
+                            this.r,
+                            this.sx, this.sy,
+                            this.ox, this.oy,
+                            this.kx,this.ky)
         love.graphics.setScissor()
     end
 end
 
 local function updateScrollableText(this, app)
-    getY(this)
-    local font = this:get("font")
-    if font ~= this.last_font then
-        this.text_obj:setFont(font)
-        this.last_font = font
+    if this.font ~= this.last_font then
+        this.text_obj:setFont(this.font)
+        this.last_font = this.font
     end
-    local text = this:get("coloredtext")
-    local wrap_limit = this:get("wrap_limit")
-    local view_height = this:get("view_height")
-    local num_lines = math.floor(view_height / font:getHeight())
-    local buffer_lines = this:get("buffer_lines")
-    local extra_lines = this:get("extra_lines")
-    local text_lines = #text / 2 + extra_lines
+    local num_lines = math.floor(this.view_height / this.font:getHeight())
+    local text_lines = #this.coloredtext / 2 + this.extra_lines
 
-    local top_space = this:get("top_space")
-    this.total_height = top_space + text_lines  * font:getHeight()
-    local scroll_delta = this:get("scroll_delta")
-    local align = this:get("align")
+    this.total_height = this.top_space + text_lines  * this.font:getHeight()
 
-    if this.last_text ~= text then
+    if this.last_text ~= this.coloredtext then
         this.scroll_y = 0
         this.total_scroll_y = 0
-        this.top_scroll = top_space
+        this.top_scroll = this.top_space
         this.current_line = 1
         this.scroll_start = true
         this.scroll_end = false
-        this.lines = {unpack(text, 1, (num_lines + buffer_lines) * 2)}
-        this.scroll_bar_height = view_height * view_height / (this.total_height + extra_lines * font:getHeight()) --scroll bar height is inversely proportional to the total height
+        this.lines = {unpack(this.coloredtext, 1, (num_lines + this.buffer_lines) * 2)}
+        this.scroll_bar_height = this.view_height * this.view_height / (this.total_height + this.extra_lines * this.font:getHeight()) --scroll bar height is inversely proportional to the total height
         -- this here is some bullshit i dont understand but it works
-        this.scroll_bar_scale = math.abs((view_height - font:getHeight() * buffer_lines - this.scroll_bar_height) /
-                                (this.total_height - view_height + font:getHeight() * buffer_lines))
-        this.text_obj:setf(this.lines, wrap_limit, align)
-        this.last_text = text
+        this.scroll_bar_scale = math.abs((this.view_height - this.font:getHeight() * this.buffer_lines - this.scroll_bar_height) /
+                                (this.total_height - this.view_height + this.font:getHeight() * this.buffer_lines))
+        this.text_obj:setf(this.lines, this.wrap_limit, this.align)
+        this.last_text = this.coloredtext
     end
-
-    this["half_one"] = getY(this) + this.scroll_bar_scale * this.total_scroll_y
 
     if text_lines < num_lines then
         this.scroll_start = true
         this.scroll_end = true
-    elseif scroll_delta ~= 0 and this:get("visible") ~= false then
-        if this.total_scroll_y <= top_space then
-            if this.top_scroll - scroll_delta > top_space then
-                this.top_scroll = top_space
-            elseif this.top_scroll - scroll_delta < 0 then
+    elseif this.scroll_delta ~= 0 and this.visible ~= false then
+        if this.total_scroll_y <= this.top_space then
+            if this.top_scroll - this.scroll_delta > this.top_space then
+                this.top_scroll = this.top_space
+            elseif this.top_scroll - this.scroll_delta < 0 then
                 this.top_scroll = -0.1
             else
-                this.top_scroll = this.top_scroll - scroll_delta
+                this.top_scroll = this.top_scroll - this.scroll_delta
             end
-            this.total_scroll_y = top_space - this.top_scroll
+            this.total_scroll_y = this.top_space - this.top_scroll
         else
-            if this.scroll_y + scroll_delta > font:getHeight() then
+            if this.scroll_y + this.scroll_delta > this.font:getHeight() then
                 this.scroll_start = false
-                if this.current_line < text_lines - num_lines + buffer_lines + extra_lines then
+                if this.current_line < text_lines - num_lines + this.buffer_lines + this.extra_lines then
                     this.scroll_y = 0
                     this.current_line = this.current_line + 1
                 else
                     this.scroll_end = true
-                    this.scroll_y = font:getHeight()
+                    this.scroll_y = this.font:getHeight()
                 end
-            elseif this.scroll_y + scroll_delta < 0 then
+            elseif this.scroll_y + this.scroll_delta < 0 then
                 this.scroll_end = false
                 if this.current_line > 1 then
-                    this.scroll_y = font:getHeight()
+                    this.scroll_y = this.font:getHeight()
                     this.current_line = this.current_line - 1
                 else
                     this.scroll_start = true
                     this.scroll_y = 0
                 end
             else
-                this.scroll_y = this.scroll_y + scroll_delta
+                this.scroll_y = this.scroll_y + this.scroll_delta
             end
             this.start_idx = this.current_line * 2 - 1
-            this.end_idx = this.start_idx + (num_lines + buffer_lines) * 2
-            this.total_scroll_y = (this.current_line - 1) * font:getHeight() +
-                                    this.scroll_y + top_space
-            this.lines = {unpack(text, this.start_idx, this.end_idx)}
-            this.text_obj:setf(this.lines, wrap_limit, align)
+            this.end_idx = this.start_idx + (num_lines + this.buffer_lines) * 2
+            this.total_scroll_y = (this.current_line - 1) * this.font:getHeight() +
+                                    this.scroll_y + this.top_space
+            this.lines = {unpack(this.coloredtext, this.start_idx, this.end_idx)}
+            this.text_obj:setf(this.lines, this.wrap_limit, this.align)
         end
     end 
 end
 
-function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
-                        scroll_delta)
-    local font = font or love.graphics.getFont()
-    return {
+function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height, scroll_delta)
+    return makeElem({
         type = "text",
         coloredtext = coloredtext,
         last_text = {},
         lines = {},
-        font = font,
+        font = font or love.graphics.getFont(),
         last_font = love.graphics.getFont(),
         text_obj = love.graphics.newText(love.graphics.getFont()),
         start_idx = 1,
@@ -298,28 +285,26 @@ function ScrollableText(coloredtext, font, x, y, wrap_limit, align, view_height,
         scroll_bar_width = 5,
         scroll_bar_height = 20,
         scroll_bar_scale = 0,
-        render = renderScrollableText,
-        update = updateScrollableText,
-        get = get,
-        p = merge
-    }
+    },
+    renderScrollableText,
+    updateScrollableText
+    )
 end
 local function renderImage(this, app)
     love.graphics.setColor(1, 1, 1)
-    love.graphics.draw(this.image, getX(this), getY(this), 0, this:get("sx"),
-                       this:get("sy"))
+    love.graphics.draw(this.image, getX(this), getY(this), 0, this.sx,
+                       this.sy)
 end
 
 local function updateImage(this, app)
-    local new_filename = this:get("filename")
-    if new_filename ~= this.old_filename then
-        this.image = love.graphics.newImage(new_filename)
-        this.old_filename = new_filename
+    if this.filename ~= this.old_filename then
+        this.image = love.graphics.newImage(this.filename)
+        this.old_filename = this.filename
     end
 end
 
 function Image(filename, x, y, sx, sy)
-    return {
+    return makeElem({
         type = "image",
         filename = filename,
         old_filename = "",
@@ -327,35 +312,32 @@ function Image(filename, x, y, sx, sy)
         x = x or 0,
         y = y or 0,
         sx = sx or 1,
-        sy = sy or 1,
-        render = renderImage,
-        update = updateImage,
-        get = get,
-        p = merge
-    }
+        sy = sy or 1
+    },
+    renderImage,
+    updateImage
+    )
 end
 
 local function renderAnimation(this, app)
-    local name = this:get("name")
-    if name ~= "" then
+    if this.name ~= "" then
         local quad = (this.current_frame - 1) % this.n_quads + 1
         local atlas = math.floor((this.current_frame - 1) / this.n_quads) + 1
         love.graphics.setColor(1, 1, 1)
         love.graphics.draw(this.atlases[atlas], this.quads[quad], getX(this),
-                           getY(this), 0, this:get("sx"), this:get("sy"))
+                           getY(this), 0, this.sx, this.sy)
     end
 
 end
 
 local function updateAnimation(this, app, dt)
-    local name = this:get("name")
-    if name ~= this.last_name then
+    if this.name ~= this.last_name then
         this:release()
         this.quads = {}
         this.current_frame = 1
-        if name and name ~= "" then
-            local anim = require("animations." .. name)
-            this:p(anim)
+        if this.name and this.name ~= "" then
+            local anim = require("animations." .. this.name)
+            this = this + anim
             this.current_frame = 1
 
             for i = 0, anim.rows * anim.cols - 1 do
@@ -373,12 +355,12 @@ local function updateAnimation(this, app, dt)
 
             for i = 1, anim.n_atlases do
                 this.atlases[i] = love.graphics.newImage(
-                                      "animations/" .. name .. "_" ..
+                                      "animations/" .. this.name .. "_" ..
                                           tostring(i) .. ".t3x")
             end
         end
 
-        this.last_name = name
+        this.last_name = this.name
     end
     if this.name ~= "" and this.animated then
         this.dt = this.dt + dt
@@ -395,8 +377,7 @@ local function updateAnimation(this, app, dt)
 end
 
 function Animation(name, x, y, sx, sy, looping)
-
-    return {
+    return makeElem({
         type = "animation",
         name = name,
         last_name = "",
@@ -416,74 +397,61 @@ function Animation(name, x, y, sx, sy, looping)
         sx = sx or 1,
         sy = sy or 1,
         looping = looping == nil or looping, -- default true
-        animated = false,
-        render = renderAnimation,
-        update = updateAnimation,
+        animated = false
+    },
+    renderAnimation,
+    updateAnimation,  {
         release = function(this)
-            for _, atlas in pairs(this.atlases) do
-                atlas:release()
-                atlas = nil
-            end
-            this.atlases = {}
-            for _, quad in pairs(this.quads) do
-                quad:release()
-                quad = nil
-            end
-        end,
-        get = get,
-        p = merge
-    }
+        for _, atlas in pairs(this.atlases) do
+            atlas:release()
+            atlas = nil
+        end
+        this.atlases = {}
+        for _, quad in pairs(this.quads) do
+            quad:release()
+            quad = nil
+        end
+    end,}
+    )
 end
 
 local function renderButton(this, app)
-    local text = this:get("text")
-    local padding = this:get("padding")
-    local font = this:get("font")
-    local x = getX(this)
-    local y = getY(this)
-    local r = this:get("radius")
+    this.rect_width = this.font:getWidth(this.text_string) + this.padding * 2 + 7
+    this.rect_height = this.font:getHeight() + this.padding * 2
 
-    this.rect_width = font:getWidth(this.text_string) + padding * 2 + 7
-    this.rect_height = font:getHeight() + padding * 2
-
-    love.graphics.setColor(this:get("background_color"))
-    love.graphics.rectangle("fill", x, y, this.rect_width, this.rect_height, r,
-                            r)
+    love.graphics.setColor(this.background_color)
+    love.graphics.rectangle("fill", this.x, this.y, this.rect_width, this.rect_height, this.r, this.r)
     love.graphics.setCanvas()
-    love.graphics.setFont(font)
-    love.graphics.printf(text, x + padding, y + padding, this:get("wrap_limit"))
+    love.graphics.setFont(this.font)
+    love.graphics.printf(this.text, this.x + this.padding, this.y + this.padding, this.wrap_limit)
 end
 
 local function updateButton(this, app)
-    local x = getX(this)
-    local y = getY(this)
-    local text = this:get("text")
-    local on_click = this:get("on_click")
-    if text ~= this.last_text then
-        this.text_string = text
-        if type(text) == "table" then
+    if this.text ~= this.last_text then
+        this.text_string = this.text
+        if type(this.text) == "table" then
             this.text_string = ""
-            for i = 2, #text, 2 do
-                this.text_string = this.text_string .. text[i]
+            for i = 2, #this.text, 2 do
+                this.text_string = this.text_string .. this.text[i]
             end
         end
-        this.last_text = text
+        this.last_text = this.text
     end
 
     this.is_pressed = app.model.touching and
-                          (app.model.touchpos.x > x and app.model.touchpos.x < x +
+                          (app.model.touchpos.x > this.x and app.model.touchpos.x < this.x +
                               this.rect_width) and
-                          (app.model.touchpos.y > y and app.model.touchpos.y < y +
+                          (app.model.touchpos.y > this.y and app.model.touchpos.y < this.y +
                               this.rect_height)
 
     if this.is_pressed and not this.was_pressed then
-        app:push(unpack(on_click))
+        app:push(unpack(this.on_click))
     end
     this.was_pressed = this.is_pressed
 end
 
 function Button(text, x, y, on_click)
-    return {
+    return makeElem({
         type = "button",
         x = x or 0,
         y = y or 0,
@@ -506,9 +474,9 @@ function Button(text, x, y, on_click)
             return width
         end,
         radius = 5,
-        render = renderButton,
-        update = updateButton,
-        get = get,
-        p = merge
-    }
+    },
+    renderButton,
+    updateButton
+    )
 end
+

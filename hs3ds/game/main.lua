@@ -23,10 +23,9 @@ topview = {
             function() return 5 - (app.model.getbyid["anim"] and app.model.getbyid["anim"].scroll_y or 0) end,
             function() return app.model.current_page.title_len > TITLE_LIMIT and topdims[1] * .75 or topdims[1] / 2 end,
             "center"
-            ):p({
+            ) + {
                 sx = function() return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2 end,
-                sy = function() return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2 end }
-            ), {}
+                sy = function() return app.model.current_page.title_len > TITLE_LIMIT and 1 or 2 end }, {}
         },
         {
             MultAnimation(function()
@@ -36,13 +35,13 @@ topview = {
             end,
             function() return app.model.anim_scale and 17 or 50 end,
             function() return app.model.anim_scale and 0 or 30 end
-            ):p({["id"] = "anim",
+            ) + {["id"] = "anim",
             sx = function() return app.model.anim_scale and 1.2 or 1 end,
             sy = function() return app.model.anim_scale and 1.2 or 1 end,
             delta_scroll = function() return app.model.image_delta_scroll * app.model.scroll_multiplier end
-            }), {}
+            }, {}
         },
-        {PopupLabel(10, 10):p({id="popup", background_radius = 5}),{}},
+        {PopupLabel(10, 10) + {id="popup", background_radius = 5},{}},
         {SimpleText(function() return "" end, 0,0, {0,0,0}), {}}
     }
 }
@@ -54,14 +53,14 @@ bottomview = {
             10,
             function()
                 local s = app.model.getbyid["scroll_text"]
-                return s and s:get("y") + s.total_height - s.total_scroll_y + 10 or 5
+                return s and s.y + s.total_height - s.total_scroll_y + 10 - s.extra_lines * s.font:getHeight() or 5
             end,
             function() return {"gotopage", app.model.next_page.page_id} end
-            ):p({
+            ) + {
                 padding = 0,
                 background_color = {0.933, 0.933, 0.933},
                 id="next_button"
-            }), {}
+            }, {}
         },
         {
             Rectangle(10,
@@ -72,11 +71,11 @@ bottomview = {
             bottomdims[1] * 0.75,
             function()
                 local s = app.model.getbyid["scroll_text"]
-                return app.model.show_log and s and s.total_height + 40 - s:get("top_space") or 40
+                return app.model.show_log and s and s.total_height + 40 - s.top_space - s.extra_lines * s.font:getHeight() or 40
             end,
             {0,0,0},
             "dashed"
-            ):p({visible = function() return app.model.current_page.log_title ~= nil end}), {}
+            ) + {visible = function() return app.model.current_page.log_title ~= nil end}, {}
         },
         {
             Button(function()
@@ -88,10 +87,10 @@ bottomview = {
                     return app.model.show_log and s and 10 - s.total_scroll_y or 10
                 end,
                 {"togglelog"}
-                ):p({
+                ) + {
                     visible = function() return app.model.current_page.log_title ~= nil end,
                     font=courier
-                }), {}
+                }, {}
         },
         {
             ScrollableText(function() return app.model.current_page.content end,
@@ -100,9 +99,9 @@ bottomview = {
             5,
             bottomdims[1] * 0.75,
             function() return app.model.current_page.log_title and "left" or "center" end,
-            function(this) return bottomdims[2] - this:get("y") end,
+            function(this) return bottomdims[2] - this.y end,
             function() return app.model.text_delta_scroll * app.model.scroll_multiplier end
-            ):p({
+            ) + {
                 ["id"] = "scroll_text",
                 extra_lines = 3,
                 visible = function() return app.model.current_page.log_title == nil or app.model.show_log end,
@@ -111,7 +110,7 @@ bottomview = {
                     local next_button = app.model.getbyid["next_button"]
                     return next_button and getY(next_button) + next_button.rect_height + this.total_scroll_y > bottomdims[2]
                 end
-            }), {}
+            }, {}
         }
     }
 }
@@ -164,10 +163,6 @@ app:addUpdater("gamepadpressed", function(model, button)
         Savedata.page_id = model.page_id
         save_savedata()
         model.getbyid["popup"]:display({{0,0,0}, "Game Saved"}, 1.5)
-    elseif button == "a" then
-        local s = model.getbyid["scroll_text"]
-        print("half_one: " .. tostring(s["half_one"]))
-        print("half_two: " .. tostring(s["half_two"]))
     end
 end)
 

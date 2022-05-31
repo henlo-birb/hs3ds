@@ -1,6 +1,8 @@
 build
 distribute
 .vscodecounter
+logs
+distribute
 
 *.log
 
@@ -17,4 +19,3 @@ distribute
 *.dksh
 
 *.zip
-*.xml
