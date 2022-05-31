@@ -11,9 +11,10 @@ containing:
 
 ## to build and run:
 - follow the instructions [here](https://lovebrew.org/#/building) to install devkitpro and the required libraries 
-- in ```citro2d/``` run ```make clean && make install```
-- in ```lovepotion/``` run ```make clean && make ctr -j8```
-- copy ```lovepotion/platform/3ds/LOVEPotion.3dsx``` to the ```3ds/``` folder on your modded 3ds' sd card
-- copy the ```game/``` folder from ```maplesyrup_test``` or ```hs3ds``` depending on which one you want to run to the ```3ds``` foldoper on your modded 3ds' sd card
+- in `citro2d/` run `make clean && make install`
+- in `lovepotion/` run `make clean && make ctr -j8`
+- copy `lovepotion/platform/3ds/LOVEPotion.3dsx` to the `3ds/` folder on your modded 3ds' sd card
+- copy the `game/` folder from `maplesyrup_test` or `hs3ds` depending on which one you want to run to the `3ds` folder on your modded 3ds' sd card
+- copy the `animations` and `pages` folders from `process_json` and `gif_to_atlas` to the `game` folder you just put on your 3ds' sd card
 - open the homebrew app on your 3ds and run LOVEPotion
 you did it!!!!!!!!
