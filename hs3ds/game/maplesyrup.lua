@@ -16,8 +16,8 @@ initApp = function(params)
     app = {
         updater = params.updater or newUpdater(),
         model = params.model and merge(newModel(), params.model) or newModel(),
-        topview = params.topview or newView("top"),
-        bottomview = params.bottomview or newView("bottom"),
+        top_view = params.top_view or newView("top"),
+        bottom_view = params.bottom_view or newView("bottom"),
         rendered = {},
         push = function(this, msg, ...)
             for _, func in pairs(this.updater[msg]) do
@@ -37,8 +37,8 @@ initApp = function(params)
             local function updateElems(elem, _parent)
                 if elem.update then elem:update(this, dt) end
             end
-            recurseElems(updateElems, this.topview)
-            recurseElems(updateElems, this.bottomview)
+            recurseElems(updateElems, this.top_view)
+            recurseElems(updateElems, this.bottom_view)
         end,
 
         render = function(this, screen)
@@ -50,8 +50,8 @@ initApp = function(params)
                     end
                 end
                 recurseElems(renderElem,
-                             screen == "bottom" and this.bottomview or
-                                 this.topview) -- if drawing bottom screen use bottom view otherwise use top view
+                             screen == "bottom" and this.bottom_view or
+                                 this.top_view) -- if drawing bottom screen use bottom view otherwise use top view
                 this.rendered[screen] = true
             end
         end
@@ -77,8 +77,8 @@ initApp = function(params)
             app.model.getbyid[elem.id] = elem
         end
     end
-    recurseElems(initElem, app.topview)
-    recurseElems(initElem, app.bottomview)
+    recurseElems(initElem, app.top_view)
+    recurseElems(initElem, app.bottom_view)
     
     return app
 end
