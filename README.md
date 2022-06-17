@@ -1,7 +1,7 @@
 # hs3ds
-files relating to the hs3ds project
+porting homestuck to the nintendo 3ds
 
-containing:
+folders in this repo include:
 - a fork of [Citro2d](https://github.com/devkitPro/citro2d) allowing for multicolor text drawing
 - a fork of [Lovepotion](https://github.com/lovebrew/lovepotion) allowing for multicolor text drawing using the citro2d fork
 - (gif_to_atlas) a python script to convert .gif files to multiple .t3x files along with lua tables to allow for animation in lovepotion on the 3ds
